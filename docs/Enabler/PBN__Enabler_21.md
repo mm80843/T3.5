@@ -2,6 +2,10 @@
 
 # __New delivery systems__
 
+## Link between Blueprint and General ontology
+
+* [Delivery services&&&online delivery platforms&&&improvements in logistics&&&logistics systems&&&logistics providers&&&advanced logistics systems&&&digital supply chain platforms&&&logistics&&&food delivery apps&&&digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3949.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_022
@@ -23,7 +27,7 @@ enabler_022
 * [Food delivery apps](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_230.md)
 * [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_199.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
 * [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)

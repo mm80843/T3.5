@@ -25,7 +25,6 @@ Continuous monitoring and analysis of vital signs and changes in the body to det
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Accuracy, skin irritation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2517.md)
 
 ## Property: has_MitigationSource

@@ -2,6 +2,10 @@
 
 # __Social Networks__
 
+## Link between Blueprint and General ontology
+
+* [Social media&&&social support networks&&&social networking platforms&&&collaborative networks&&&facebook&&&social media algorithms&&&social media groups&&&online social platforms&&&social media communication&&&social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3941.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_021
@@ -23,7 +27,7 @@ enabler_021
 * [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_165.md)
 * [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_77.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
 * [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)

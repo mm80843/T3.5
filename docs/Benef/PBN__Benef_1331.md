@@ -8,7 +8,6 @@ construction of emergency buildings
 
 ## Description of actual returns pertaining to this benefit
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_146.md)
 
 ## Articles mentionning this Benefit
 
@@ -20,5 +19,4 @@ construction of emergency buildings
 
 ## Risks which can benefit from this action
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_123.md)
 

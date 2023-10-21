@@ -25,7 +25,6 @@ Controlling the temperature in indoor spaces to reduce the survival and transmis
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Persistence of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2778.md)
 * [Controlling temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2509.md)
 
@@ -37,7 +36,6 @@ Controlling the temperature in indoor spaces to reduce the survival and transmis
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
 * [Thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2956.md)
 * [Hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)

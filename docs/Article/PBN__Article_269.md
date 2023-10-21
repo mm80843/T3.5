@@ -48,7 +48,6 @@ Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection 
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 * [Sterile glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_255.md)
 

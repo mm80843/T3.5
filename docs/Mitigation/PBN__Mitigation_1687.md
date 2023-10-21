@@ -25,7 +25,6 @@ Engaging communities in public health efforts, promoting education, awareness, a
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Community relations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3275.md)
 
 ## Property: has_MitigationSource
@@ -35,6 +34,5 @@ Engaging communities in public health efforts, promoting education, awareness, a
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
 

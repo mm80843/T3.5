@@ -2,6 +2,10 @@
 
 # __Uv light__
 
+## Link between Blueprint and General ontology
+
+* [Uv-c light&&&ultraviolet light&&&uv light systems&&&uv lamps&&&ultraviolet uv lamps&&&uv radiation&&&uv light fixtures&&&uv&&&uv-c light technology&&&ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3906.md)
+
 ## Category to which it belongs
 
 * [Ultraviolet light and systems that use it for disinfection or sterilization purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_78.md)

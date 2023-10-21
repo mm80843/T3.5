@@ -2,6 +2,10 @@
 
 # __Design & Construction software (BIM)__
 
+## Link between Blueprint and General ontology
+
+* [Bim software&&&building information model bim&&&construction technology and software&&&building design software and modeling tools&&&building management systems&&&bim&&&building design&&&supply chain design software&&&building systems and design&&&project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3997.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_028
@@ -23,7 +27,7 @@ enabler_028
 * [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_200.md)
 * [Supply chain mapping and visualization tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_94.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
 * [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)

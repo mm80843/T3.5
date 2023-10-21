@@ -2,6 +2,10 @@
 
 # __Building management systems__
 
+## Link between Blueprint and General ontology
+
+* [Smart building management systems&&&building systems and design&&&integrated building systems&&&building automation systems&&&building design&&&building information modeling&&&design & construction software bim&&&housing and building design&&&smart building technologies&&&building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4002.md)
+
 ## Category to which it belongs
 
 * [Comprehensive tools for building design, construction, management, and modeling, including bim and building design software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_90.md)

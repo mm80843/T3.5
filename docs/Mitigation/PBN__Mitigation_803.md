@@ -27,7 +27,6 @@ Implementing strict measures to restrict movement and contain the spread of the 
 
 * [Spread of contagious disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3175.md)
 * [Covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 
@@ -39,5 +38,4 @@ Implementing strict measures to restrict movement and contain the spread of the 
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

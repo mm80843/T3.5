@@ -2,6 +2,10 @@
 
 # __Data analytics platforms__
 
+## Link between Blueprint and General ontology
+
+* [Data integration platforms&&&open data platforms&&&data analytics&&&data visualization platforms&&&data sharing platforms&&&data access platforms and applications&&&data analysis tools&&&data analysis technology&&&data management tools&&&big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
+
 ## Category to which it belongs
 
 * [Harnessing and presenting data insights through modern technology and visual representation techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_56.md)

@@ -2,6 +2,10 @@
 
 # __Travel tracking and monitoring systems__
 
+## Link between Blueprint and General ontology
+
+* [Travel tracking systems&&&travel monitoring&&&travel surveillance systems&&&travel management systems&&&location tracking technology&&&tracking systems&&&tracking technology&&&remote monitoring and tracking technologies&&&real-time travel updates&&&occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3872.md)
+
 ## Category to which it belongs
 
 * [Real-time geolocation systems used to monitor and track travel activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_76.md)

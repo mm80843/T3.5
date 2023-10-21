@@ -21,5 +21,4 @@
 
 ## Mitigations of this risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_123.md)
 

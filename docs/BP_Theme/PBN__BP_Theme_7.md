@@ -2,6 +2,10 @@
 
 # __Propagation monitoring__
 
+## Link between Blueprint and General ontology
+
+* [Transmission, detection&&&proprietary monitoring systems&&&monitoring mobility&&&implementation of contact tracing and testing&&&virus propagation&&&environmental and outdoor monitoring&&&preventing virus propagation&&&remote monitoring&&&limited monitoring&&&regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3672.md)
+
 ## Property: has_BP_ThemeTitle
 
 theme_Propagation_monitoring

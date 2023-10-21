@@ -49,7 +49,6 @@ The effect of human mobility and control measures on the COVID-19 epidemic in Ch
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_401.md)
 * [Testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_905.md)
 * [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_700.md)

@@ -35,6 +35,5 @@ Establish universal standards for data sharing to ensure seamless communication 
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Uniformity of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2202.md)
 

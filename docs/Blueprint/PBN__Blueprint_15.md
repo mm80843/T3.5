@@ -15,7 +15,7 @@ These can be, for example toilet flushes or door handles at central locations wi
 
 There is now a wide range of non-contact measures that are widely used but often have a different focus than pandemic adaptation. Sensor control of lighting and doors, for example, is often used in buildings.
 
-## Description of the blueprint
+## Blueprint description
 
 This blueprint aims to reduce the number of physical contact points in the building where microbes have been shown to survive, such as surfaces, railings, doorknobs etc. This allows building occupants to avoid touching as many of the same surfaces and physical points as possible, which reduces the risk of contamination. This can be done through a whole range of measures, such as 
 •	 installing foot- or sensor-operated door openers on common doors 
@@ -39,11 +39,11 @@ This blueprint aims to reduce the number of physical contact points in the build
 
 ## Type of deployment of the blueprint
 
-Permanent
+* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-Operational
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -60,7 +60,7 @@ In addition, stakeholders who physically work in the building cannot exclude phy
 
 ## Scale of the of the blueprint
 
-Building
+* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -68,11 +68,11 @@ PBN:BP_16
 
 ## Mode of transmission covered by the blueprint
 
-Fomites
+* [Fomites](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_5.md)
 
 ## Type of the blueprint
 
-Technical
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

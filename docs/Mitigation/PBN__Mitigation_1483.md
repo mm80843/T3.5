@@ -25,7 +25,6 @@ Gathering information about symptoms, day of illness, and test results to correl
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 
@@ -33,5 +32,4 @@ Gathering information about symptoms, day of illness, and test results to correl
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

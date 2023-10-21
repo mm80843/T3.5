@@ -24,7 +24,6 @@ Continuous IEQ monitoring system: Context and development
 
 ## Benefits listed in this article
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
 * [Improved building performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_798.md)
 * [Streamlined measurement protocol](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_799.md)
 * [Differentiation and market advantage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_801.md)

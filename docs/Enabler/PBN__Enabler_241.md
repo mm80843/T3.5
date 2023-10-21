@@ -2,6 +2,10 @@
 
 # __Virtual exhibitions__
 
+## Link between Blueprint and General ontology
+
+* [Virtual tours&&&promotion of virtual tours and classes&&&virtual tourism platforms&&&virtual reality&&&virtual experiences&&&virtual meetings&&&augmented / virtual reality&&&virtual personal trainers&&&virtual meeting platforms&&&digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3966.md)
+
 ## Category to which it belongs
 
 * [Digital representations and platforms for immersive educational and interactive experiences and exhibitions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_88.md)

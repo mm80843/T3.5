@@ -26,7 +26,6 @@ Maintain social distance and decrease droplet transmission by limiting human-to-
 ## Risks possibly mitigated by this Mitigation
 
 * [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

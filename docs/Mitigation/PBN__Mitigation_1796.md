@@ -26,7 +26,6 @@ Incorporation of antimicrobial materials in surface design and maintenance to re
 ## Risks possibly mitigated by this Mitigation
 
 * [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2490.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

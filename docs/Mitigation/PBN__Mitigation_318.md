@@ -33,5 +33,4 @@ Analyzing news outlets to optimize public interest in COVID-19 news and reduce m
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

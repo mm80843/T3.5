@@ -33,5 +33,4 @@ Provide individuals with necessary protective equipment (e.g., masks, gloves) to
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

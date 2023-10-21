@@ -33,5 +33,4 @@ Patrol officers in separate vehicles to reduce close contact and potential trans
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

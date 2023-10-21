@@ -9,7 +9,6 @@
 ## Closest similar item
 
 * [Government nan agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1394.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
 * [General public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [The general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_952.md)
 * [Individuals attending nan events](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1520.md)

@@ -26,7 +26,6 @@ Regular hand washing and use of hand sanitizers helped minimize the spread of th
 ## Risks possibly mitigated by this Mitigation
 
 * [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1858.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

@@ -2,6 +2,10 @@
 
 # __Outdoor air monitoring__
 
+## Link between Blueprint and General ontology
+
+* [Air quality monitoring&&&air sensors&&&indoor air quality sensors&&&air quality sensors&&&air quality monitoring systems&&&air pollution monitoring systems&&&air pollution sensors&&&indoor air technologies&&&outdoor air circulation&&&air quality monitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3829.md)
+
 ## Category to which it belongs
 
 * [Devices designed to monitor and measure the quality and pollution levels of both indoor and outdoor air.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_64.md)

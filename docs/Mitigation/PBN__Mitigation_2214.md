@@ -25,7 +25,6 @@ Redesigning streets and public areas to free up space for pedestrians and recrea
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 
@@ -33,5 +32,4 @@ Redesigning streets and public areas to free up space for pedestrians and recrea
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

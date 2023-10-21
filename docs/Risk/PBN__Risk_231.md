@@ -29,7 +29,6 @@ COVID-19 pandemic slows GDP growth, causing economic shocks, job losses, and pov
 
 ## Type of the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
 * [Economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
 
 ## Type of impact of the risk (according to ISO37100)
@@ -72,7 +71,6 @@ Pushes half a billion people into poverty, disrupts production and consumption p
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
 * [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
 * [Data analytics for targeted assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1242.md)

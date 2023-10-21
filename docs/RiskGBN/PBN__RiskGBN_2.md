@@ -10,7 +10,6 @@
 * [Infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2298.md)
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
 * [Lack of research and development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1304.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Mobility on mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2266.md)
 * [Lack of public trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_741.md)
 * [And sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2262.md)

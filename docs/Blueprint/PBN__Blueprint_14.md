@@ -15,7 +15,7 @@ Hand sanitizers should be available at all key points in the building. This coul
 
 The practice was were widely demonstrated through the COVID-19 pandemic.
 
-## Description of the blueprint
+## Blueprint description
 
 A high level of hand hygiene is a well-known and proven measure to prevent the transmission of diseases. It was and is a widely used strategy to reduce the spread of COVID-19. This blueprint serves as a reminder of this measure to ensure that all building occupants adhere to the basic requirement of good hand hygiene to reduce the transmission of disease between building occupants. Discipline in hand hygiene can be increased or maintained through a variety of measures, focusing either on practical measures that provide access to hand washing or disinfecting products, or on information that reminds or guides occupants to use the measures. This measure includes development of specific hand hygiene policies and active training of the users of the buildings on the good hand hygiene practice. 
 
@@ -35,11 +35,11 @@ A high level of hand hygiene is a well-known and proven measure to prevent the t
 
 ## Type of deployment of the blueprint
 
-Permanent & Temporary
+* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_2.md)
 
 ## GBN Phase of the blueprint
 
-Operational
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -55,7 +55,7 @@ Changing user behaviour can be challenging, but once a positive behaviour is est
 
 ## Scale of the of the blueprint
 
-Building
+* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -63,11 +63,12 @@ PBN:BP_15
 
 ## Mode of transmission covered by the blueprint
 
-Direct contact & Fomite
+* [Direct contact](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_2.md)
+* [Fomite](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_3.md)
 
 ## Type of the blueprint
 
-Behavioural
+* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
 
 ## Value proposition of the blueprint
 

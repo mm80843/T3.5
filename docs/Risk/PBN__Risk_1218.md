@@ -62,7 +62,6 @@ Reduced adherence to public health guidelines and increased risk of spreading th
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_RiskType
 

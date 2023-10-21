@@ -25,7 +25,6 @@ Allow individuals to work from home or remotely to reduce the need for in-person
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

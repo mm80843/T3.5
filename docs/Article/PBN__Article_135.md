@@ -92,7 +92,6 @@ The socio-economic implications of the coronavirus pandemic (COVID-19): A review
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
 * [Telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1170.md)
 * [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)

@@ -82,7 +82,6 @@ Decreased economic activity, job losses, disruption of industries.
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Financial management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_128.md)
 * [Government financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_457.md)
 * [Cost optimization strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_162.md)

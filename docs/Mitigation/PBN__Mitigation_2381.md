@@ -25,7 +25,6 @@ Prevents the spread of the virus through wastewater by increasing disinfection m
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 
@@ -33,5 +32,4 @@ Prevents the spread of the virus through wastewater by increasing disinfection m
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

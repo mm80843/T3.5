@@ -19,6 +19,10 @@
 * [Wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
 * [Personal comfort devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1253.md)
 
+## This is also an enabler
+
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_11.md)
+
 ## This Technology enables the following mitigations
 
 * [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1143.md)

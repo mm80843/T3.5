@@ -2,6 +2,10 @@
 
 # __Greenery__
 
+## Link between Blueprint and General ontology
+
+* [Increased greenery&&&greeneries or gardens&&&more greenery along streets&&&availability of greenery and gardens&&&increase street greenery&&&green and natural environment&&&urban green spaces&&&green plants&&&living on a road with higher levels of greenness&&&public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4174.md)
+
 ## Property: has_BP_InterventionKey
 
 HM1

@@ -2,6 +2,10 @@
 
 # __Biophilic design strategies__
 
+## Link between Blueprint and General ontology
+
+* [Biophilic design&&&incorporate biophilic design principles&&&indoor biophilic design&&&nature-based design strategies&&&biophilic desing&&&innovative design approaches&&&genetic modification technologies&&&biocidal products&&&molecular technologies&&&flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
+
 ## Category to which it belongs
 
 * [Promote nature-inspired design elements to enhance indoor spaces using additive manufacturing and biophilic design strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_83.md)

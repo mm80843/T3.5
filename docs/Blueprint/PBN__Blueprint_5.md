@@ -16,7 +16,7 @@ Kansai airport (Japan)
 
 (Airport 2021)
 
-## Description of the blueprint
+## Blueprint description
 
 With the COVID-19 pandemic, the focus shifted to reducing the transmission of pathogens via contaminated objects and surfaces. Antimicrobial surfaces with inherent, long-lasting anti-pathogen properties at key contact points, such as busy door handles, are one of the measures available to reduce the risk of transmission.
 
@@ -33,11 +33,11 @@ With the COVID-19 pandemic, the focus shifted to reducing the transmission of pa
 
 ## Type of deployment of the blueprint
 
-Permanent
+* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-Construction
+* [Construction](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_2.md)
 
 ## Problem of the blueprint
 
@@ -55,7 +55,7 @@ The effectiveness of these coatings is still questioned by both scientist and us
 
 ## Scale of the of the blueprint
 
-Building
+* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -63,11 +63,11 @@ PBN:BP_6
 
 ## Mode of transmission covered by the blueprint
 
-Fomite
+* [Fomite](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_3.md)
 
 ## Type of the blueprint
 
-Technical
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

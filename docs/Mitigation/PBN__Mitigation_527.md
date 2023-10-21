@@ -36,7 +36,6 @@ Wearing PPE such as masks, gloves, and face shields can protect individuals from
 ## This Mitigation is enabled by the following technologies
 
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1051.md)
 * [Gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_485.md)
 

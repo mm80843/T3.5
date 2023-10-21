@@ -15,7 +15,7 @@ Measures to encourage one-way user flows should be considered at the design stag
 
 Sonae’s Campus (Porto)
 
-## Description of the blueprint
+## Blueprint description
 
 The transmission of most contagious diseases involves a variety of aspects, the number of people encountered and how it happens while walking or running being one of them. In this sense, it is well known that appropriate user traffic control measures can drastically reduce the number of encounters and thus the contribution of person-to-person contagion to the spread of disease in a pandemic scenario. One-way pedestrian control is a straightforward and effective measure that can be applied both indoors and outdoors and is suitable for the planning phase of public spaces as well as for daily operations. It essentially consists of assigning fixed entry and exit nodes in public places, and predefined routes between them as a means of regulating how people circulate.
 
@@ -36,11 +36,11 @@ The transmission of most contagious diseases involves a variety of aspects, the 
 
 ## Type of deployment of the blueprint
 
-Temporary
+* [Temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_0.md)
 
 ## GBN Phase of the blueprint
 
-Operational
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -64,7 +64,7 @@ A number of limitations and constraints were identified for this specific measur
 
 ## Scale of the of the blueprint
 
-Both
+* [Both](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -72,11 +72,13 @@ PBN:BP_5
 
 ## Mode of transmission covered by the blueprint
 
-Airborne & Respiratory & Direct Contact
+* [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_0.md)
+* [Respiratory](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_1.md)
+* [Direct contact](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_2.md)
 
 ## Type of the blueprint
 
-Behavioural
+* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
 
 ## Value proposition of the blueprint
 

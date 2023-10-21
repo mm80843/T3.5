@@ -25,11 +25,9 @@ nan
 
 ## Is the risk affecting GBN scales
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_2.md)
 
 ## Type of the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
@@ -41,7 +39,6 @@ nan
 
 ## Mitigations of this risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_123.md)
 
 ## Name of the risk
 
@@ -49,7 +46,6 @@ nan
 
 ## Stakeholders who can mitigate this risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
 
 ## Articles mentionning the risk
 
@@ -57,13 +53,10 @@ nan
 
 ## People affected by this risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_RiskType
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_14.md)
 

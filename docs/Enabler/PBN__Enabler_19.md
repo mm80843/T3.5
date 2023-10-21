@@ -2,6 +2,10 @@
 
 # __SmartPhones__
 
+## Link between Blueprint and General ontology
+
+* [Smartphone&&&mobile phones&&&smartphone technology&&&mobile devices&&&smartphone applications&&&smartphone apps&&&mobile technology&&&smartphone app&&&smartphone control systems&&&phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3839.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_020
@@ -23,7 +27,7 @@ enabler_020
 * [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_52.md)
 * [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_68.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 * [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)

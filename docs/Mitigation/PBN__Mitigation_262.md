@@ -27,7 +27,6 @@ Increasing fresh air circulation and removing indoor contaminants, including vir
 
 * [Spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2484.md)
 * [Poor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_712.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Airborne spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2966.md)
 * [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1920.md)
 

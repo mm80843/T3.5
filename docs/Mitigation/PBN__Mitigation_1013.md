@@ -33,5 +33,4 @@ Encourages economic government aid to be tied to measures that contribute to add
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

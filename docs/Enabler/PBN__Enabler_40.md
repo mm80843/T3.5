@@ -2,6 +2,10 @@
 
 # __Broadband internet__
 
+## Link between Blueprint and General ontology
+
+* [Broadband connection&&&broadband access&&&internet connectivity&&&internet connection&&&internet access&&&high-speed internet&&&telecommunication technology internet&&&internet&&&improved internet infrastructure&&&internet-connected devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3781.md)
+
 ## Category to which it belongs
 
 * [Next-level high-speed connectivity revolutionizing wireless communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_51.md)

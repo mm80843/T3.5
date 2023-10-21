@@ -64,7 +64,6 @@ Mental Health and the Role of Physical Activity During the COVID-19 Pandemic
 ## This article mentions these technologies
 
 * [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_68.md)
 * [Home-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_63.md)
 * [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_64.md)

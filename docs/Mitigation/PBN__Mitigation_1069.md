@@ -25,7 +25,6 @@ Limiting transportation to reduce noise levels in urban areas
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2787.md)
 
 ## Property: has_MitigationSource
@@ -35,6 +34,5 @@ Limiting transportation to reduce noise levels in urban areas
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Intelligent transportation systems its](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2863.md)
 

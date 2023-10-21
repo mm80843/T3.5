@@ -19,3 +19,7 @@
 * [Cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3051.md)
 * [Video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3540.md)
 
+## This is also an enabler
+
+* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_12.md)
+

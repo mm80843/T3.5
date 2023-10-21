@@ -37,7 +37,6 @@ Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings
 ## Benefits listed in this article
 
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
 * [In indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1324.md)
 * [On contact surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1326.md)
 * [Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1331.md)

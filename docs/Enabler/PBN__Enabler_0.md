@@ -2,6 +2,10 @@
 
 # __5G__
 
+## Link between Blueprint and General ontology
+
+* [4g&&&5g technology&&&fifth-generation wireless networks&&&cellular network&&&mobile phones&&&massive mimo&&&wi-fi&&&broadband internet&&&l5go networks&&&wireless data transmission 3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3773.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_001
@@ -23,7 +27,7 @@ enabler_001
 * [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_41.md)
 * [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
 * [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)

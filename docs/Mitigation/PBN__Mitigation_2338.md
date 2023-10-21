@@ -33,5 +33,4 @@ Ensures that data sources are reliable and up-to-date, maintaining the accuracy 
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

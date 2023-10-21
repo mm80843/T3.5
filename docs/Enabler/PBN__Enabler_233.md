@@ -2,6 +2,10 @@
 
 # __Facebook__
 
+## Link between Blueprint and General ontology
+
+* [Social media&&&social networking platforms&&&social networks&&&social media platforms&&&online social platforms&&&social media groups&&&social-media platforms&&&twitter&&&social media communication&&&online platforms and social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3946.md)
+
 ## Category to which it belongs
 
 * [The interconnected web of digital platforms enabling data analysis and online communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_59.md)

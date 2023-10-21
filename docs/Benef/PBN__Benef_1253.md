@@ -21,5 +21,4 @@ Green roofs act as sound barriers, reducing noise pollution and creating a quiet
 
 ## Risks which can benefit from this action
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_123.md)
 

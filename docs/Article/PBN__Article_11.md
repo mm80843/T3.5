@@ -56,7 +56,6 @@ Using Technology to Maintain the Education of Residents During the COVID-19 Pand
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
 * [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_387.md)
 * [Simulation activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_394.md)

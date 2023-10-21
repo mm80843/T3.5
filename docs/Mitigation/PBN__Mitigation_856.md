@@ -33,5 +33,4 @@ Acknowledging the influence of sensationalism on the spread of exaggerated infor
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

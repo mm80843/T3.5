@@ -16,7 +16,7 @@ Standards for the dissemination of information about the building and DT can be 
 
 N/A
 
-## Description of the blueprint
+## Blueprint description
 
 The COVID-19 introduced a new agenda for the built environment: epidemic adaptation and mitigation. This leads to a new approach to building design and operation, the maturity of which is currently low and relatively unexplored. The idea is to create a template with RFP elements related to epidemic adaptation and mitigation that building or space owners can use in the procurement process to ensure a higher level of incorporation of epidemic adaptation and mitigation measures.
 
@@ -37,11 +37,12 @@ The COVID-19 introduced a new agenda for the built environment: epidemic adaptat
 
 ## Type of deployment of the blueprint
 
-Permanent
+* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-Design & Construction
+* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
+* [Construction](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_2.md)
 
 ## Problem of the blueprint
 
@@ -58,7 +59,7 @@ Budgetary issues are the main obstacle. In the absence of a mandatory standard, 
 
 ## Scale of the of the blueprint
 
-GBN
+* [Gbn](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_2.md)
 
 ## Title of the blueprint
 
@@ -66,11 +67,11 @@ PBN:BP_10
 
 ## Mode of transmission covered by the blueprint
 
-All
+* [All](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_4.md)
 
 ## Type of the blueprint
 
-Technical
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

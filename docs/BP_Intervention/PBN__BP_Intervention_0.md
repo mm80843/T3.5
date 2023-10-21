@@ -2,6 +2,10 @@
 
 # __Use of smart/innovative air quality controls technology__
 
+## Link between Blueprint and General ontology
+
+* [Smart air quality control&&&indoor air quality control&&&outdoor air quality control&&&improvement of air quality&&&monitoring air quality&&&air quality improvement&&&improvement in air quality&&&monitoring and control of indoor air quality&&&monitor and control indoor air quality&&&improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4150.md)
+
 ## Property: has_BP_InterventionKey
 
 PA1

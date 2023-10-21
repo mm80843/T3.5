@@ -33,5 +33,4 @@ Prevent urban expansion encroaching on wildlife habitat, reduce human activities
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

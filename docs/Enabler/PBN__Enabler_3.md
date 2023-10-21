@@ -2,6 +2,10 @@
 
 # __Visualization__
 
+## Link between Blueprint and General ontology
+
+* [3d visualization&&&data analytics and visualization&&&data visualization technology&&&timeline-based visualization&&&data visualization platforms&&&graphical representation&&&situated visualization&&&infographics&&&supply chain mapping and visualization tools&&&data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3801.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_004
@@ -23,7 +27,7 @@ enabler_004
 * [Supply chain mapping and visualization tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_94.md)
 * [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_71.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
 

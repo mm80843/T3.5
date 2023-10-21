@@ -47,6 +47,5 @@ Real-world data show that filters clean COVID-causing virus from air
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1690.md)
 

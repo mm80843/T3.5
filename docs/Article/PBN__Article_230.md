@@ -68,7 +68,6 @@ Challenges of data sharing in European Covid-19 projects: A learning opportunity
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Opal-datashield](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1674.md)
 * [Federated data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1675.md)
 

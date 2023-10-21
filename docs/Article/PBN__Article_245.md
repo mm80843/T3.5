@@ -24,7 +24,6 @@ Contributions to the mitigation of the COVID-19 pandemic
 
 ## Benefits listed in this article
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
 * [Early detection of waning efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1183.md)
 * [Reduced risk of reinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1184.md)
 * [Tailored protection for symptomatic and asymptomatic patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1185.md)

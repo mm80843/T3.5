@@ -4,6 +4,5 @@
 
 ## Items covered in this category
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 * [3d printing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_184.md)
 

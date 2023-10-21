@@ -14,7 +14,7 @@ The biggest challenge with this solution is its implementation. How is a buildin
 
 -
 
-## Description of the blueprint
+## Blueprint description
 
 COVID-19 pandemic has shown the importance of converting certain spaces into health-related facilities to meet the high demand for certain purposes. In response, either the capacity of existing structures was changed or buildings (such as stadiums or exhibition centres) were converted into treatment and quarantine facilities or vaccination centres. As the demand for these versatile spaces fluctuates greatly during the pandemic, constructing buildings for a single purpose is no longer considered practical. Therefore, a paradigm shift has led the architectural industry to recognise the importance of dynamic and adaptable buildings and their multifunctionality throughout their life cycle
 
@@ -36,11 +36,12 @@ COVID-19 pandemic has shown the importance of converting certain spaces into hea
 
 ## Type of deployment of the blueprint
 
-Only to used when needed
+* [Only to used when needed](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_3.md)
 
 ## GBN Phase of the blueprint
 
-Design & Dismantling
+* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
+* [Dismantling](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_3.md)
 
 ## Problem of the blueprint
 
@@ -56,7 +57,7 @@ The limitations and restrictions of this solution also stem from its innovative 
 
 ## Scale of the of the blueprint
 
-Building
+* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -64,11 +65,11 @@ PBN:BP_14
 
 ## Mode of transmission covered by the blueprint
 
-All
+* [All](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_4.md)
 
 ## Type of the blueprint
 
-Technical
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

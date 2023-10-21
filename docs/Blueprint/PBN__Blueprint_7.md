@@ -18,7 +18,7 @@ As mentioned above, the context varies depending on the severity of the actual p
 
 Access limitation was experienced during the COVID-19 pandemic
 
-## Description of the blueprint
+## Blueprint description
 
 One of the most drastic measures to prevent the spread of COVID -19 during the spike periods was to restrict access to certain buildings or prevent it altogether. During the peak of the lockdowns, many employers closed their buildings and asked their employees to work from home if possible. With the partial normalisation of the situation (decline in case numbers, vaccination coverage and milder variants), these restrictions became less severe and targeted specific groups (vulnerable or symptomatic individuals), types of buildings (hospitals and prisons) or specific spaces within buildings (non-essential, high-visibility areas). These restrictions have been imposed at national, regional and organisational levels. In addition, this measure also provides for restrictions based on occupancy density.
 
@@ -41,11 +41,12 @@ One of the most drastic measures to prevent the spread of COVID -19 during the s
 
 ## Type of deployment of the blueprint
 
-Temporary
+* [Temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_0.md)
 
 ## GBN Phase of the blueprint
 
-Design & Operational
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
+* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
 
 ## Problem of the blueprint
 
@@ -69,7 +70,7 @@ Various adverse cost are linked to this measure:
 
 ## Scale of the of the blueprint
 
-Building
+* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -77,11 +78,14 @@ PBN:BP_8
 
 ## Mode of transmission covered by the blueprint
 
-Airborne & Respiratory & Direct Contact
+* [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_0.md)
+* [Respiratory](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_1.md)
+* [Direct contact](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_2.md)
 
 ## Type of the blueprint
 
-Technical & Behavioural
+* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

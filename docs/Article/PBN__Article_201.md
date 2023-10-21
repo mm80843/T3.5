@@ -32,7 +32,6 @@ COVID19-Routes: A Safe Pedestrian Navigation Service
 
 ## Benefits listed in this article
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
 * [Reduction of exposure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_974.md)
 * [Asset value](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_975.md)
 * [Social and economic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_977.md)

@@ -2,6 +2,10 @@
 
 # __Teleworking__
 
+## Link between Blueprint and General ontology
+
+* [Telework&&&teleconferencing&&&telehealth&&&teleconferencing tools&&&teleconferencing software&&&tele-devices&&&telehealth technology&&&telehealth/telepresence&&&telemedicine&&&telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3969.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_024
@@ -23,7 +27,7 @@ enabler_024
 * [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_210.md)
 * [Telemedecine](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_17.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 

@@ -2,6 +2,10 @@
 
 # __Air Sensors__
 
+## Link between Blueprint and General ontology
+
+* [Air quality sensors&&&air pollution sensors&&&indoor air quality sensors&&&outdoor air monitoring&&&sensors&&&smart sensors for monitoring air quality&&&indoor air technologies&&&air filters&&&air circulation devices&&&indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3825.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_007
@@ -23,7 +27,7 @@ enabler_007
 * [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_126.md)
 * [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_114.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Indoor environmental quality ieq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
 * [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)

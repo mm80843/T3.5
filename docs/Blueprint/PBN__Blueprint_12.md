@@ -14,7 +14,7 @@ This measure can be implemented in all organizations, regardless of their size o
 
 To a smaller extent - Case study on finnish TVET: a resilient model of training during COVID-19 - UNESCO Digital Library 
 
-## Description of the blueprint
+## Blueprint description
 
 Even before the recent pandemic, most employers have developed strategies and tools for their employees to ensure gradual development of their skills while keeping their well-being at an acceptable level. However, the COVID-19 pandemic has shown that these strategies and tools have not been resilient and flexible enough. Although employees have had to find their own responses to the impact of the pandemics, many organisations have begun to look for ways to improve resilience across the organisation through improved HR strategies and training.
 
@@ -36,11 +36,11 @@ Even before the recent pandemic, most employers have developed strategies and to
 
 ## Type of deployment of the blueprint
 
-Permanent
+* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-Operational
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -62,7 +62,7 @@ There are a number of constraints that can hinder the effective use of resilienc
 
 ## Scale of the of the blueprint
 
-GBN
+* [Gbn](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_2.md)
 
 ## Title of the blueprint
 
@@ -70,11 +70,12 @@ PBN:BP_13
 
 ## Mode of transmission covered by the blueprint
 
-All
+* [All](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_4.md)
 
 ## Type of the blueprint
 
-Technical & behavioural
+* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

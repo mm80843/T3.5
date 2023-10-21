@@ -33,11 +33,9 @@ Control the airflows in micro spaces
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_3.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_13.md)
 
 ## Mitigations of this risk
 

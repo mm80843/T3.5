@@ -2,6 +2,10 @@
 
 # __Blockchain and cryptography__
 
+## Link between Blueprint and General ontology
+
+* [Blockchain&&&blockchain technologies&&&blockchain security protocols&&&blockchain technology&&&encryption&&&encryption algorithms&&&encryption technologies&&&encryption techniques&&&secure protocols&&&quantum cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3813.md)
+
 ## Category to which it belongs
 
 * [Decentralized digital systems for secure transactions and information protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_61.md)

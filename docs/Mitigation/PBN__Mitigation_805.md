@@ -33,5 +33,4 @@ Apply solutions capable of rapidly reducing the lifespan of the COVID-19 virus o
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

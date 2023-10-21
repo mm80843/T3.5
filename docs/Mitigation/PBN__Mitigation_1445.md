@@ -33,5 +33,4 @@ Provide education and engage with communities to promote understanding and accep
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

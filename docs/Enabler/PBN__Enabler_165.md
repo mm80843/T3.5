@@ -2,6 +2,10 @@
 
 # __Social robots__
 
+## Link between Blueprint and General ontology
+
+* [Social robot technology&&&robots&&&robot technology&&&robotics&&&social pods&&&robot systems&&&medical robots&&&social media algorithms&&&social networking platforms&&&social networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3899.md)
+
 ## Category to which it belongs
 
 * [Automated machines and technology used in various fields like medicine, industry, and social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_72.md)

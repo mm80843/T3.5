@@ -2,6 +2,10 @@
 
 # __Supply chain design software__
 
+## Link between Blueprint and General ontology
+
+* [Supply chain management software&&&supply chain management tools&&&supply chain management systems and tools&&&supply chain management technologies&&&supply chain management systems&&&supply chain management&&&advanced supply chain management systems&&&supply chain management platforms&&&supply chains&&&supply chain tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4005.md)
+
 ## Category to which it belongs
 
 * [Digitized tools for designing and managing construction projects and supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_91.md)

@@ -2,6 +2,10 @@
 
 # __Absorb resource shortages__
 
+## Link between Blueprint and General ontology
+
+* [Resource allocation&&&ineffective resource allocation&&&inefficient use of resources&&&efficient distribution of resources&&&improved resource allocation&&&limited resources&&&misallocation of resources&&&inequitable distribution of resources&&&energy and resource management&&&material shortage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4184.md)
+
 ## Property: has_BP_InterventionKey
 
 MC3

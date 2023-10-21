@@ -2,6 +2,10 @@
 
 # __Building automation systems__
 
+## Link between Blueprint and General ontology
+
+* [Automation systems&&&building management systems&&&integrated building systems&&&smart building management systems&&&automation technologies&&&automation&&&automation technology&&&building systems and design&&&smart building technologies&&&automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3917.md)
+
 ## Category to which it belongs
 
 * [Simplifying tasks with advanced tools and systems that require minimal human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_80.md)

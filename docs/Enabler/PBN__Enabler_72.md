@@ -2,6 +2,10 @@
 
 # __Data mining__
 
+## Link between Blueprint and General ontology
+
+* [Data analytics&&&machine learning&&&machine learning algorithms&&&data mining techniques and health data&&&data analysis algorithms&&&data analysis&&&data science&&&spatial data mining&&&data analytics and modeling&&&data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3796.md)
+
 ## Category to which it belongs
 
 * [Harnessing and analyzing extensive amounts of information, both structured and unstructured, for insights and patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_58.md)

@@ -11,7 +11,6 @@
 * [Health](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_4.md)
 * [Legal](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_6.md)
 * [Medical](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_15.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_14.md)
 * [Occupational](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_16.md)
 * [Other](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_11.md)
 * [Political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)

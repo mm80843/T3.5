@@ -26,7 +26,6 @@ Providing financial support to individuals during quarantine can alleviate finan
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2328.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Financial burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2463.md)
 
 ## Property: has_MitigationSource
@@ -37,6 +36,5 @@ Providing financial support to individuals during quarantine can alleviate finan
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Access to capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2807.md)
 

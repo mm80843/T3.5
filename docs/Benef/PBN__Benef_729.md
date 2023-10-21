@@ -21,5 +21,4 @@ Innovative solutions and collaborations stimulate economic growth and problem-so
 
 ## Risks which can benefit from this action
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_123.md)
 

@@ -28,7 +28,6 @@ Isolation of confirmed diagnosed cases and reduction in human-to-human interacti
 * [Covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_538.md)
 * [Transmission of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2099.md)
 * [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2585.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 
@@ -42,5 +41,4 @@ Isolation of confirmed diagnosed cases and reduction in human-to-human interacti
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

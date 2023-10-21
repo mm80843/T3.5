@@ -26,7 +26,6 @@ Creating reactive ions in the air that react with airborne contaminants, includi
 ## Risks possibly mitigated by this Mitigation
 
 * [Ozone emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2971.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

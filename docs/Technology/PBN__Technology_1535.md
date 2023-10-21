@@ -19,6 +19,10 @@
 * [Social media communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2343.md)
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 
+## This is also an enabler
+
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
+
 ## This Technology belongs to this TechGroup
 
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
@@ -29,7 +33,6 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 
 ## This Technology enables the following mitigations
 

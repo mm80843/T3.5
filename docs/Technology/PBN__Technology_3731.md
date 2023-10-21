@@ -19,3 +19,7 @@
 * [Light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_721.md)
 * [Sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_641.md)
 
+## This is also an enabler
+
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
+

@@ -28,7 +28,6 @@ Killing or inactivating viruses or bacteria on surfaces to prevent transmission
 * [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1784.md)
 * [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
 * [Cross-infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2967.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 
@@ -41,7 +40,6 @@ Killing or inactivating viruses or bacteria on surfaces to prevent transmission
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
 * [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
 * [Disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2290.md)

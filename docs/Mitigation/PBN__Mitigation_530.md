@@ -28,7 +28,6 @@ Isolating individuals who are infected or suspected of being infected and quaran
 * [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
 * [Transmission to others](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2582.md)
 * [Community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2381.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 
@@ -39,7 +38,6 @@ Isolating individuals who are infected or suspected of being infected and quaran
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Quarantine guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3247.md)
 * [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2126.md)
 

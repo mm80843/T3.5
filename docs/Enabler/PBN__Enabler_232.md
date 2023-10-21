@@ -2,6 +2,10 @@
 
 # __Collaborative networks__
 
+## Link between Blueprint and General ontology
+
+* [Collaborative platforms and networks&&&social networks&&&collaborative platforms&&&collaborative tools&&&network of partners&&&collaboration&&&collaboration platforms&&&collaboration among experts from various fields&&&research collaborations&&&knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3945.md)
+
 ## Category to which it belongs
 
 * [The interconnected web of digital platforms enabling data analysis and online communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_59.md)

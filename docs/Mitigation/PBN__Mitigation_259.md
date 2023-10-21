@@ -33,5 +33,4 @@ Promotes air movement to ensure that larger aerosol particles are adequately irr
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

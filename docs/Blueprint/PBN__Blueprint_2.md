@@ -14,7 +14,7 @@ This measure is especially important at the beginning of the planning phase of n
 
 https://www.newyorker.com/culture/dept-of-design/how-the-coronavirus-will-reshape-architecture 
 
-## Description of the blueprint
+## Blueprint description
 
 The COVID-19 pandemic has greatly impacted densely populated areas. It is recognized that there is an urgent need to rethink architectural design processes and choose the right designs that can minimise the risk of contamination between users of the space. The move away from open-space concepts in separate spaces is already evident in many short-term solutions for redesigning spaces, so to take into account the reduction of contamination risks.
 
@@ -35,11 +35,11 @@ The COVID-19 pandemic has greatly impacted densely populated areas. It is recogn
 
 ## Type of deployment of the blueprint
 
-Permanent 
+* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-Design
+* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
 
 ## Problem of the blueprint
 
@@ -55,7 +55,7 @@ The main obstacle is that it is very difficult to apply these features to existi
 
 ## Scale of the of the blueprint
 
-Building
+* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -63,11 +63,12 @@ PBN:BP_3
 
 ## Mode of transmission covered by the blueprint
 
-All
+* [All](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_4.md)
 
 ## Type of the blueprint
 
-Technical & Behavioural
+* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

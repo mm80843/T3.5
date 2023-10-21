@@ -26,7 +26,6 @@ Ensuring access to green spaces in the neighbourhood can promote mental health a
 ## Risks possibly mitigated by this Mitigation
 
 * [Mental health harms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 
@@ -35,7 +34,6 @@ Ensuring access to green spaces in the neighbourhood can promote mental health a
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1738.md)
 * [Green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
 

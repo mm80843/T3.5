@@ -29,7 +29,6 @@ The pandemic has led to job losses, reduced investment, and decreased consumer a
 
 ## Type of the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
@@ -65,7 +64,6 @@ Loss of jobs, income, and investment, decreased consumer and business confidence
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_RiskType
 

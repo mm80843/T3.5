@@ -24,7 +24,6 @@ COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID
 
 ## Benefits listed in this article
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
 * [Increased trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_764.md)
 * [Reduced anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_766.md)
 * [Reduced stress](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_767.md)
@@ -51,5 +50,4 @@ COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

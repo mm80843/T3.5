@@ -21,7 +21,6 @@
 
 ## Benefits linked to a risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
 * [Energy saving](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_363.md)
 * [Reduced emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_364.md)
 * [Improved aesthetics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_365.md)
@@ -58,7 +57,6 @@
 * [About covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_535.md)
 * [Misinformation propagation during pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_104.md)
 * [Infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2298.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Increased residential energy consumption during the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_369.md)
 * [Lack of incentive for building owners to invest in ieq improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_570.md)
 * [Time spent at home during](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_871.md)

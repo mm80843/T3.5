@@ -25,7 +25,6 @@ Improves communication between project members to ensure proper coordination and
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Miscommunication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2540.md)
 
 ## Property: has_MitigationSource

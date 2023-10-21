@@ -50,7 +50,6 @@ Rapid expansion of temporary, reliable airborne-infection isolation rooms with n
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 * [Negative air machines with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_968.md)
 * [Door-lock devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_969.md)

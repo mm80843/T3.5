@@ -2,6 +2,10 @@
 
 # __Automation systems__
 
+## Link between Blueprint and General ontology
+
+* [Automation technologies&&&automation&&&automation technology&&&building automation systems&&&automation in production and distribution&&&testing automation&&&automated devices&&&smart systems&&&automated windows&&&ai support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3911.md)
+
 ## Category to which it belongs
 
 * [Simplifying tasks with advanced tools and systems that require minimal human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_80.md)

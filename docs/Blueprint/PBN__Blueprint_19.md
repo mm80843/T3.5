@@ -20,7 +20,7 @@ DOI:10.1109/IEMTRONICS51293.2020.9216386
 DOI:10.1016/j.scs.2020.102582
 DOI:10.31234/osf.io/qymu3
 
-## Description of the blueprint
+## Blueprint description
 
 The general idea described above is to use technology to monitor whether people in a building or other enclosed space are using personal protective equipment (PPE), such as face masks. This can be done through various methods, including video surveillance, access control systems, mobile apps and temperature controlsThe aim of these methods is to reduce the transmission of infectious diseases such as COVID-19 in the building by mandating the use of PPE and protecting the health and safety of people using the building. It is important to note that the use of technology to monitor the use of PPE should be done in a way that respects the privacy and autonomy of the people using the building. Building owners should ensure that any technology used is transparent, secure and properly managed to protect personal data and prevent abuse.
 
@@ -39,11 +39,11 @@ The general idea described above is to use technology to monitor whether people 
 
 ## Type of deployment of the blueprint
 
-Permanent & Temporary
+* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_2.md)
 
 ## GBN Phase of the blueprint
 
-Operational
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -60,7 +60,7 @@ Moreover, it is important to note that the use of technology to monitor PPE usag
 
 ## Scale of the of the blueprint
 
-Both
+* [Both](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -68,11 +68,11 @@ PBN:BP_20
 
 ## Mode of transmission covered by the blueprint
 
-All
+* [All](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_4.md)
 
 ## Type of the blueprint
 
-Technical
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

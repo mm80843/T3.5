@@ -29,7 +29,6 @@ Lack of standardized tests and protocols makes it difficult to compare and valid
 
 ## Type of the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
@@ -63,7 +62,6 @@ Inability to accurately determine the effectiveness of UVGI systems
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_RiskType
 

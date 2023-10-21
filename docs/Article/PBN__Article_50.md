@@ -48,5 +48,4 @@ The health benefits of the great outdoors: A systematic review and meta-analysis
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

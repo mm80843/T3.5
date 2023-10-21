@@ -32,7 +32,6 @@ Regular disinfection of surfaces, using appropriate disinfectants or UV-C irradi
 * [Surface transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
 * [Viral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2777.md)
 * [Fomite transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_609.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Fomite spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2965.md)
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2645.md)
 * [Recontamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2738.md)
@@ -54,7 +53,6 @@ Regular disinfection of surfaces, using appropriate disinfectants or UV-C irradi
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
 * [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
 * [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)

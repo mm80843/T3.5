@@ -2,6 +2,10 @@
 
 # __Information management__
 
+## Link between Blueprint and General ontology
+
+* [Management&&&data management issues&&&disseminating information&&&data management and security&&&personnel management&&&digital and information access&&&infodemic&&&information overload&&&data governance and management&&&workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3674.md)
+
 ## Property: has_BP_ThemeTitle
 
 theme_Information_management

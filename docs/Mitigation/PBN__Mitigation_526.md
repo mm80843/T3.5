@@ -33,5 +33,4 @@ Covering mouth and nose while coughing or sneezing can prevent the spread of res
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

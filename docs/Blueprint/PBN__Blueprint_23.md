@@ -18,7 +18,7 @@ https://www.cell.com/heliyon/fulltext/S2405-8440(20)31159-2?_returnURL=https%3A%
 
 https://www.frontiersin.org/articles/10.3389/fpsyg.2020.01708/full
 
-## Description of the blueprint
+## Blueprint description
 
 It is well known that physical activity or exercise is essential for improving and/or maintaining physical and mental health. The pandemic COVID 19 has had a significant impact on our daily lives, not only during the strict cordons or possible quarantine periods, but also during the long periods of gradual reopening. The pandemic has drawn attention to the positive benefits of physical activity and the disadvantages of not doing it. This approach aims to integrate facilities that promote physical activity among GBN users to maintain or improve mental health. Facilities can promote both planned and unplanned physical activity in GBN. Planned physical activity can be expressed through sports facilities or other facilities that facilitate various activities such as ball games, yoga or the like. Unplanned physical activity can be expressed through building or interior design that encourages users to be more active, e.g. through inviting pathways and easy choices. The measures can be indoor measures in the individual buildings of the GBN as well as outdoor measures in green spaces or on roofs.
 
@@ -35,11 +35,12 @@ It is well known that physical activity or exercise is essential for improving a
 
 ## Type of deployment of the blueprint
 
-Permanent
+* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-Design and Operational
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
+* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
 
 ## Problem of the blueprint
 
@@ -55,7 +56,7 @@ An official restriction in times of epidemics or pandemics could limit the use o
 
 ## Scale of the of the blueprint
 
-Both
+* [Both](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -63,11 +64,12 @@ PBN:BP_24
 
 ## Mode of transmission covered by the blueprint
 
-Not relevant
+* [Not relevant](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_6.md)
 
 ## Type of the blueprint
 
-Technical & Behavioural
+* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

@@ -29,7 +29,6 @@ Studies predominantly conducted in the United States, leading to limited general
 
 ## Type of the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
@@ -49,7 +48,6 @@ Unclear universal applicability of findings to different geographical regions
 
 ## Stakeholders who can mitigate this risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
 
 ## Articles mentionning the risk
 
@@ -62,7 +60,6 @@ Unclear universal applicability of findings to different geographical regions
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_RiskType
 

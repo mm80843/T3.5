@@ -2,6 +2,10 @@
 
 # __Image acquisition & CCTV__
 
+## Link between Blueprint and General ontology
+
+* [Cctv cameras&&&cctv footage&&&cctv systems&&&cctv&&&video cameras&&&surveillance cameras&&&surveillance camera technology&&&video surveillance&&&cameras&&&video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3883.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_013
@@ -23,7 +27,7 @@ enabler_013
 * [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_95.md)
 * [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_58.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
 * [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)

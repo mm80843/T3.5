@@ -23,5 +23,4 @@ Teleconsultations, virtual visits, and mapping of cases improve access to health
 ## Risks which can benefit from this action
 
 * [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_123.md)
 

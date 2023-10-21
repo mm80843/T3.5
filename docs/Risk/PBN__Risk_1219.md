@@ -33,7 +33,6 @@ Far-UVC light cannot penetrate living cells in human skin or eyes, limiting its 
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_3.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
@@ -64,7 +63,6 @@ Limited effectiveness in killing pathogens in living cells in the skin and eyes.
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_RiskType
 

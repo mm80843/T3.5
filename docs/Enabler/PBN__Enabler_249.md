@@ -2,6 +2,10 @@
 
 # __Antimicrobial coatings for surfaces__
 
+## Link between Blueprint and General ontology
+
+* [Antimicrobial coatings&&&antimicrobial coating&&&antimicrobial surfaces&&&antimicrobial surface materials&&&covering high-touch surfaces with antimicrobial material&&&surface coatings&&&antimicrobial materials&&&antimicrobial paint&&&anti-microbial materials&&&surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3990.md)
+
 ## Category to which it belongs
 
 * [Pathogen-fighting solutions that ensure cleanliness and safety on surfaces and in products.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_89.md)

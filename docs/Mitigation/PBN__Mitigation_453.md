@@ -27,7 +27,6 @@ Isolate individuals who have been in contact with confirmed cases to prevent fur
 
 * [Covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
 * [Viral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2777.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [International spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3227.md)
 
 ## Property: has_MitigationSource
@@ -40,5 +39,4 @@ Isolate individuals who have been in contact with confirmed cases to prevent fur
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

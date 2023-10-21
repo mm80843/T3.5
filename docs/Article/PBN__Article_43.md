@@ -48,5 +48,4 @@ Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Prima
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

@@ -33,5 +33,4 @@ Monitor and control exposure to pandemic-related news to reduce anxiety and dist
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

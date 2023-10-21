@@ -2,6 +2,10 @@
 
 # __Social networking platforms__
 
+## Link between Blueprint and General ontology
+
+* [Social media platforms&&&social-media platforms&&&online social platforms&&&online platforms and social media&&&virtual social platforms and apps for connecting with others&&&social networks&&&social media&&&facebook&&&social media communication&&&online platforms for sharing information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3944.md)
+
 ## Category to which it belongs
 
 * [The interconnected web of digital platforms enabling data analysis and online communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_59.md)

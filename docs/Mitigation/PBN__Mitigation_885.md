@@ -33,5 +33,4 @@ Provides a detailed plan for returning to business operations as the COVID-19 si
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

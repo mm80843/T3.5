@@ -33,5 +33,4 @@ Ensure that all individuals follow the standard operating procedures to reduce t
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

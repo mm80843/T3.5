@@ -33,5 +33,4 @@ Develop climate policies that consider the specific needs and conditions of diff
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

@@ -2,6 +2,10 @@
 
 # __Situated visualization__
 
+## Link between Blueprint and General ontology
+
+* [Visualization&&&3d visualization&&&timeline-based visualization&&&data visualization technology&&&spatial layout and design&&&augmented / virtual reality&&&data visualization platforms&&&positioning technologies&&&data analytics and visualization&&&infographics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3807.md)
+
 ## Category to which it belongs
 
 * [Insights from information through visual representation and interpretation using time-based and context-aware techniques, including computer-based perception.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_57.md)

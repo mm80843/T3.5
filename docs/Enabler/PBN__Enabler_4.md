@@ -2,6 +2,10 @@
 
 # __Blockchain__
 
+## Link between Blueprint and General ontology
+
+* [Blockchain technology&&&blockchain technologies&&&blockchain and cryptography&&&blockchain security protocols&&&blockchain technology for supply chain transparency&&&smart contracts&&&financial technology&&&financial systems&&&digital payment technologies&&&supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3810.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_005
@@ -23,7 +27,7 @@ enabler_005
 * [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 * [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)

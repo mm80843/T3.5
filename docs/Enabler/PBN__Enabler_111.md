@@ -2,6 +2,10 @@
 
 # __Smart energy management__
 
+## Link between Blueprint and General ontology
+
+* [Energy management&&&smart home energy management systems&&&energy management systems&&&improved energy management systems&&&home energy management systems&&&power management systems&&&energy monitoring systems&&&smart grid systems&&&smart building management systems&&&smart grid technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4017.md)
+
 ## Category to which it belongs
 
 * [Efficiently controlling sustainable power resources and storing energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)

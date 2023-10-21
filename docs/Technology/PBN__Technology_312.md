@@ -30,7 +30,6 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 * [Research and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_186.md)
 
 ## Risks linked to this technology

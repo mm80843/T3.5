@@ -25,7 +25,6 @@ Used for contact tracing and notifying individuals of potential virus exposure a
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

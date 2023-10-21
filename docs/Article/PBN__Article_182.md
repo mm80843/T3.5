@@ -52,7 +52,6 @@ Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronav
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
 * [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_311.md)
 * [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_184.md)

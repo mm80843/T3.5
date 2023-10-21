@@ -33,5 +33,4 @@ Recognizes the importance of being innovative and building resilience as a means
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

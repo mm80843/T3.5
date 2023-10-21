@@ -2,6 +2,10 @@
 
 # __Smart contracts__
 
+## Link between Blueprint and General ontology
+
+* [Contract management software&&&blockchain&&&partnership agreements&&&blockchain technologies&&&temporary use agreements&&&contract review systems&&&blockchain technology&&&collaboration agreements&&&blockchain and cryptography&&&procurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3816.md)
+
 ## Category to which it belongs
 
 * [Blockchain-based automated agreements that execute predefined actions when specific conditions are met.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_62.md)

@@ -2,6 +2,10 @@
 
 # __Water sensors__
 
+## Link between Blueprint and General ontology
+
+* [Sensors&&&environmental sensors&&&sensor technology&&&sensor technologies&&&pressure sensors&&&sensor-based technology&&&temperature sensors&&&sensor devices&&&light sensors&&&sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3833.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_008
@@ -23,7 +27,7 @@ enabler_008
 * [Light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_130.md)
 * [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_119.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)

@@ -33,7 +33,6 @@ Rotating through multiple hospitals increases the risk to residents, patients, a
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_3.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
@@ -64,7 +63,6 @@ Increased risk of disease transmission and exposure.
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_RiskType
 

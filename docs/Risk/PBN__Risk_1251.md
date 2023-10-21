@@ -49,7 +49,6 @@ Poor performance and inability to identify COVID-19 infection accurately in real
 
 ## Stakeholders who can mitigate this risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
 
 ## Articles mentionning the risk
 

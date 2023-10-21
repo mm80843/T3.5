@@ -19,6 +19,10 @@
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 * [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
 
+## This is also an enabler
+
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_23.md)
+
 ## This Technology enables the following mitigations
 
 * [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1815.md)

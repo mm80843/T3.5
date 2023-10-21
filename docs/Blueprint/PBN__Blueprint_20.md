@@ -14,7 +14,7 @@ Depending on the case definition, infection tracking and surveillance for non-re
 
 During the outbreak of COVID -19 this method was frequently used and proved to be efficient.
 
-## Description of the blueprint
+## Blueprint description
 
 Tracking and surveillance of infections allows better assessment of the spread of an epidemic in real time. Depending on the extent of surveillance and tracking, this method will allow the determination of characteristic elements of the epidemic, such as its virulence factor and infectivity. This will enable real-time risk assessment, which is critical for decision-making to ensure the safety of GBN residents. It is expected that a clear testing and surveillance strategy would be adapted at GBN and/or building level and applied in the event of a pandemic. Potential disease tracking would be achieved through the use of rapid antigen testing to rapidly identify some very infectious individuals and PCR testing for individuals who have been in close contact with an infected person.
 
@@ -35,11 +35,12 @@ Tracking and surveillance of infections allows better assessment of the spread o
 
 ## Type of deployment of the blueprint
 
-Permanent & Temporary
+* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_2.md)
 
 ## GBN Phase of the blueprint
 
-Design & Operational
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
+* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
 
 ## Problem of the blueprint
 
@@ -59,7 +60,7 @@ The restrictions and limitations of this proposal primarily concern data collect
 
 ## Scale of the of the blueprint
 
-Both
+* [Both](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -67,11 +68,12 @@ PBN:BP_21
 
 ## Mode of transmission covered by the blueprint
 
-All
+* [All](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_4.md)
 
 ## Type of the blueprint
 
-Technical & Behavioural
+* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

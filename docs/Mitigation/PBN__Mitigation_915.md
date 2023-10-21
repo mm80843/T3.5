@@ -26,7 +26,6 @@ Wearing a mask to cover the mouth and nose to prevent respiratory droplets from 
 ## Risks possibly mitigated by this Mitigation
 
 * [Inefficient usage and risk behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2779.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 
@@ -38,6 +37,5 @@ Wearing a mask to cover the mouth and nose to prevent respiratory droplets from 
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
 

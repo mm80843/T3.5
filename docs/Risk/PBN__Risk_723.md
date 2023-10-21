@@ -71,7 +71,6 @@ Inadequate information for decision-making, hindered efforts to contain the outb
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Data access platforms and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1967.md)
 
 ## Property: has_RiskType

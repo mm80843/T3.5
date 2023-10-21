@@ -2,6 +2,10 @@
 
 # __Data analysis__
 
+## Link between Blueprint and General ontology
+
+* [Data analysis algorithms&&&statistical analysis&&&data collection and analysis&&&modeling and data analysis&&&data analytics&&&data analysis and modeling techniques&&&data collection and analysis methods&&&data analysis technology&&&real-time data analysis&&&data science](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3795.md)
+
 ## Category to which it belongs
 
 * [Harnessing and presenting data insights through modern technology and visual representation techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_56.md)

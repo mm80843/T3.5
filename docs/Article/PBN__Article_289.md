@@ -53,5 +53,4 @@ Validity of energy social research during and after COVID-19: challenges, consid
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

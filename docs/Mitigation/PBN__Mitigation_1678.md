@@ -26,7 +26,6 @@ Using mobile applications to track and trace contacts, provide health informatio
 ## Risks possibly mitigated by this Mitigation
 
 * [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1096.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

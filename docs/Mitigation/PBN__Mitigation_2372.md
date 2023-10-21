@@ -33,5 +33,4 @@ Implementing health education programs to improve knowledge and attitudes toward
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

@@ -33,5 +33,4 @@ Create sufficient spacing between buildings to prevent the spread of infectious 
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

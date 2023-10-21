@@ -28,7 +28,6 @@ COVID-19 and regional solutions for mitigating the risk of SME finance in select
 
 ## Benefits listed in this article
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
 * [Increased funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_147.md)
 * [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_678.md)
 * [Benefit title](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1358.md)

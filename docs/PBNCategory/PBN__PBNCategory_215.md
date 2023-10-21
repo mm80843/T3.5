@@ -8,7 +8,6 @@
 * [Helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1188.md)
 * [Forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1536.md)
 * [Anonymity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_98.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_402.md)
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 * [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)

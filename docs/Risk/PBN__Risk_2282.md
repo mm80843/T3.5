@@ -29,7 +29,6 @@ The KG may not have the most up-to-date information on COVID-19, leading to inac
 
 ## Type of the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
 
 ## Type of impact of the risk (according to ISO37100)
 

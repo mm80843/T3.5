@@ -2,6 +2,10 @@
 
 # __Robots, Drones & Automated Vehicules__
 
+## Link between Blueprint and General ontology
+
+* [Drones and robots&&&drones&&&drone technology&&&robots&&&drones for monitoring overcrowding&&&robot systems&&&robotic systems&&&robotics&&&industrial robots&&&risk detection systems and drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3837.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_014
@@ -23,7 +27,7 @@ enabler_014
 * [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_155.md)
 * [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_156.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
 * [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)

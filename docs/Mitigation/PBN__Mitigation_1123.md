@@ -33,5 +33,4 @@ The layout of the building should be optimized for a north-south orientation, or
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

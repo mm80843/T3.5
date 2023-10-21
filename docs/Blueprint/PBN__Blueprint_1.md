@@ -14,7 +14,7 @@ Due to their nature, smart lockers can be accessible 24 hours a day, leaving it 
 
 https://smiota.com/resources/the-impact-of-smart-parcel-lockers-on-campus-pre-and-post-covid-19/
 
-## Description of the blueprint
+## Blueprint description
 
 Following the outbreak of COVID-19 pandemic, e-commerce companies have invested heavily in the development of contactless parcel delivery networks, particularly smart locker technologies that eliminate any person-to-person contact when the order is picked up by a special password or QR code in a dedicated room that can be enhanced with other measures to protect against transmissions. This could be extended to any GBN, especially for local delivery of goods.
 
@@ -36,11 +36,11 @@ Following the outbreak of COVID-19 pandemic, e-commerce companies have invested 
 
 ## Type of deployment of the blueprint
 
-Permanent 
+* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-Operational
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -67,7 +67,7 @@ A number of limitations have been identified for this specific measure:
 
 ## Scale of the of the blueprint
 
-Building
+* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -75,11 +75,12 @@ PBN:BP_2
 
 ## Mode of transmission covered by the blueprint
 
-Direct contact & Fomite
+* [Direct contact](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_2.md)
+* [Fomite](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_3.md)
 
 ## Type of the blueprint
 
-Technical
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

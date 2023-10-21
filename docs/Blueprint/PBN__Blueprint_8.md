@@ -16,7 +16,7 @@ The measure is conceived for the both the- buildings’ users and general public
 
 During the COVID-19 outbreak, drugstores or townhalls turned into information points for their neighbourhoods
 
-## Description of the blueprint
+## Blueprint description
 
 The idea is to turn high-traffic points into hubs of a networked system for communicating relevant information to building users/GBNs to ensure much greater visibility, easier, engaging and comprehensive communication, and immediacy of H&S analysis and messages, commitments and recommendations. This will bring a clear definition of relevant criteria and communication processes, which in turn will improve the ability to prevent critical points before reactive phases. The nature of provided information can vary from the summary of current pandemic situation, update on legislative measures to information specific to the building or GBN including its environmental parameters monitoring. 
 
@@ -36,11 +36,11 @@ The idea is to turn high-traffic points into hubs of a networked system for comm
 
 ## Type of deployment of the blueprint
 
-Temporary
+* [Temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_0.md)
 
 ## GBN Phase of the blueprint
 
-Design
+* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
 
 ## Problem of the blueprint
 
@@ -59,7 +59,7 @@ Development of potential bottlenecks at the information points
 
 ## Scale of the of the blueprint
 
-GBN 
+* [Gbn](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_2.md)
 
 ## Title of the blueprint
 
@@ -67,11 +67,12 @@ PBN:BP_9
 
 ## Mode of transmission covered by the blueprint
 
-All
+* [All](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_4.md)
 
 ## Type of the blueprint
 
-Technical & Behavioural
+* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

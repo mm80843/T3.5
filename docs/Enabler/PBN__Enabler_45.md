@@ -2,6 +2,10 @@
 
 # __Mobile positioning technology__
 
+## Link between Blueprint and General ontology
+
+* [Positioning technologies&&&mobile technology&&&location tracking technology&&&gps technology&&&mobile phone application&&&smartphone technology&&&mobile devices&&&mobile app technology&&&mobile phone tracking&&&gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3868.md)
+
 ## Category to which it belongs
 
 * [Cutting-edge advancements transforming the way we interact, from smart devices to virtual healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_55.md)

@@ -31,7 +31,6 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_7.md)
 * [Crowd and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_13.md)
 * [Infrastructure and urban planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
 

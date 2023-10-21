@@ -2,6 +2,10 @@
 
 # __Smartphone control systems__
 
+## Link between Blueprint and General ontology
+
+* [Smartphones&&&smartphone technology&&&smartphone applications&&&smartphone&&&control systems&&&smartphone apps&&&mobile interface&&&mobile devices&&&smartphone app&&&mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3940.md)
+
 ## Category to which it belongs
 
 * [Pocket-sized devices and their corresponding programs that enable control and functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_52.md)

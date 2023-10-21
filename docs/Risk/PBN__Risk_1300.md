@@ -25,7 +25,6 @@ Lack of fast, reliable, and inexpensive testing methods for contagious diseases
 
 ## Is the risk affecting GBN scales
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_2.md)
 
 ## Type of the risk
 

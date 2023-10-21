@@ -100,7 +100,6 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_43.md)
 
 ## Risk affecting this stakeholder

@@ -26,7 +26,6 @@ Solid waste provides breeding sites for mosquitoes. Improved environmental hygie
 ## Risks possibly mitigated by this Mitigation
 
 * [Increased mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2892.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Potential medium of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3071.md)
 
 ## Property: has_MitigationSource
@@ -37,7 +36,6 @@ Solid waste provides breeding sites for mosquitoes. Improved environmental hygie
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_702.md)
 * [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
 * [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2881.md)

@@ -2,6 +2,10 @@
 
 # __Augmented / Virtual Reality__
 
+## Link between Blueprint and General ontology
+
+* [Augmented reality&&&augmented reality technology&&&virtual reality&&&virtual experiences&&&vr devices&&&virtual learning technologies&&&virtual exhibitions&&&computer vision&&&virtual learning platforms&&&augmented surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3959.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_023
@@ -23,7 +27,7 @@ enabler_023
 * [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_242.md)
 * [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_92.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
 

@@ -2,6 +2,10 @@
 
 # __Smart sensors for monitoring air quality__
 
+## Link between Blueprint and General ontology
+
+* [Air quality sensors&&&air quality monitoring&&&indoor air quality sensors&&&air quality monitoring systems&&&air pollution sensors&&&air pollution monitoring systems&&&iot devices for monitoring occupancy and air quality&&&air sensors&&&outdoor air monitoring&&&air quality monitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3831.md)
+
 ## Category to which it belongs
 
 * [Devices designed to monitor and measure the quality and pollution levels of both indoor and outdoor air.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_64.md)

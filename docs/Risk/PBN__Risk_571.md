@@ -116,7 +116,6 @@ Increased risk of infection and difficulty in social distancing
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_364.md)
 * [Urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
 * [Design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_166.md)

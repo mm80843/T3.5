@@ -64,7 +64,6 @@ Increased spread of infection to medical personnel and other hospital patients
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_RiskType
 

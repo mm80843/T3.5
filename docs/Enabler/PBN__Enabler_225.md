@@ -2,6 +2,10 @@
 
 # __Improvements in logistics__
 
+## Link between Blueprint and General ontology
+
+* [Logistics&&&logistics systems&&&advanced logistics systems&&&logistics providers&&&improving supply chain management&&&new delivery systems&&&supply chain management&&&supply chain optimization&&&supply chains&&&supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3952.md)
+
 ## Category to which it belongs
 
 * [Enhancements in transportation and organization of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_85.md)

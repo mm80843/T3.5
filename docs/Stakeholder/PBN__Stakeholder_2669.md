@@ -10,7 +10,6 @@
 
 * [](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2626.md)
 * [Rh](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1126.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
 * [Company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1440.md)
 * [Community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_313.md)
 * [-](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2758.md)

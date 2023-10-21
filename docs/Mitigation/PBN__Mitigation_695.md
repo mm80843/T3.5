@@ -27,7 +27,6 @@ Regularly cleaning and disinfecting surfaces to remove or kill the virus
 
 * [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
 * [Transmission of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2099.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

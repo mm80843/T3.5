@@ -14,7 +14,7 @@ Access to green space in urban areas such as a GBN is important and useful under
 
 Meta analysis of green space exposure and health benefits: https://www.sciencedirect.com/science/article/pii/S0013935118303323?via%3Dihub   
 
-## Description of the blueprint
+## Blueprint description
 
 This blueprint aims to integrate access to green space into GBN in order to improve or maintain the mental health status of GBN users. The term green space is usually defined as open, undeveloped land with natural vegetation, but is also used in other forms such as urban parks and public open spaces, as well as street trees and green spaces. The use of green space has been associated with numerous health benefits in intervention and observational studies, demonstrating a positive impact of green space on a wide range of health outcomes. Amongst other researchers have also demonstrated that hospital patients who had a view of a garden from the hospital window recovered more quickly than those who looked out onto a city or industrial area.
 
@@ -31,11 +31,12 @@ This blueprint aims to integrate access to green space into GBN in order to impr
 
 ## Type of deployment of the blueprint
 
-Permanent
+* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-Design & Operational
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
+* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
 
 ## Problem of the blueprint
 
@@ -51,7 +52,7 @@ The unequal distribution of green space within different socio-economic groups i
 
 ## Scale of the of the blueprint
 
-GBN
+* [Gbn](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_2.md)
 
 ## Title of the blueprint
 
@@ -59,11 +60,11 @@ PBN:BP_17
 
 ## Mode of transmission covered by the blueprint
 
-Not relevant
+* [Not relevant](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_6.md)
 
 ## Type of the blueprint
 
-Behavioural
+* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
 
 ## Value proposition of the blueprint
 

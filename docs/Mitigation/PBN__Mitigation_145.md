@@ -28,7 +28,6 @@ Facilitating remote consultations between patients and healthcare providers, red
 * [Overburdened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2700.md)
 * [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1960.md)
 * [Limited access to care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3189.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Limited access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2982.md)
 
 ## Property: has_MitigationSource

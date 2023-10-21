@@ -20,5 +20,4 @@ Plants remove VOCs from the air, reducing emissions to the environment
 
 ## Risks which can benefit from this action
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_123.md)
 

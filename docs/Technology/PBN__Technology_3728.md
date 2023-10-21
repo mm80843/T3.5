@@ -19,3 +19,7 @@
 * [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3438.md)
 * [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3099.md)
 
+## This is also an enabler
+
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_1.md)
+

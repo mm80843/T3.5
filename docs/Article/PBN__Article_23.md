@@ -52,7 +52,6 @@ Combating COVID-19—The role of robotics in managing public health and infectio
 ## This article mentions these technologies
 
 * [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1983.md)
 * [Teleoperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1986.md)
 * [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1985.md)

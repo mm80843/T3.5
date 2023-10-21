@@ -26,7 +26,6 @@ Educates the public about the virus, transmission risks, and mitigation measures
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of awareness, misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2877.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

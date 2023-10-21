@@ -32,7 +32,6 @@ Integral part of the control strategy, workers in all risk groups should use app
 * [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2585.md)
 * [Viral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2777.md)
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Inadequate protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2632.md)
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2645.md)
 * [Person-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2346.md)
@@ -56,7 +55,6 @@ Integral part of the control strategy, workers in all risk groups should use app
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1051.md)
 * [Ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1461.md)
 * [Protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2559.md)

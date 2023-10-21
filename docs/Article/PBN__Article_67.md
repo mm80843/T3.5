@@ -100,7 +100,6 @@ How is COVID-19 Experience Transforming Sustainability Requirements of Residenti
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1006.md)
 * [Sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_143.md)
 * [Additional segregation boxes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1787.md)

@@ -20,5 +20,4 @@ Plants enhance the visual appeal of indoor spaces, improving tenant satisfaction
 
 ## Risks which can benefit from this action
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_123.md)
 

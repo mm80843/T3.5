@@ -14,7 +14,7 @@ HEPA filters are generally used in the ventilation networks of buildings or in c
 
 Addenbrooke’s Hospital (Cambridge, UK)
 
-## Description of the blueprint
+## Blueprint description
 
 This blueprint proposes the use of High Efficiency Particulate Air (HEPA) filters as a means of decontaminating COVID-19 aerosols in public and enclosed spaces to protect not only from the COVID-19 but also from other infectious agents. For an air purifier to effectively remove viruses from the air, it must be able to remove small particles (in the size range of 0.1-1 um) from the air, which is the case with HEPA filters. These air purifiers can either be installed in the ventilation networks or they can be mobile and stand-alone and used in cases where installing the philtres in the networks is not plausible or in rooms where infected or susceptible people are present.
 
@@ -33,11 +33,12 @@ This blueprint proposes the use of High Efficiency Particulate Air (HEPA) filter
 
 ## Type of deployment of the blueprint
 
-Permanent
+* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-Design & Construction
+* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
+* [Construction](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_2.md)
 
 ## Problem of the blueprint
 
@@ -53,7 +54,7 @@ The limitations of this proposal include that the filter loses efficiency due to
 
 ## Scale of the of the blueprint
 
-Building
+* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -61,11 +62,11 @@ PBN:BP_12
 
 ## Mode of transmission covered by the blueprint
 
-Airborne
+* [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_0.md)
 
 ## Type of the blueprint
 
-Technical
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

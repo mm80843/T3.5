@@ -2,6 +2,10 @@
 
 # __Blockchain security protocols__
 
+## Link between Blueprint and General ontology
+
+* [Secure protocols&&&blockchain and cryptography&&&authentication protocols&&&blockchain technologies&&&protocols&&&blockchain technology&&&cybersecurity protocols&&&blockchain&&&containment protocols&&&uniformity of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3814.md)
+
 ## Category to which it belongs
 
 * [Decentralized digital systems for secure transactions and information protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_61.md)

@@ -2,6 +2,10 @@
 
 # __IoT__
 
+## Link between Blueprint and General ontology
+
+* [Iots&&&iot devices&&&iot networks&&&iot sensors&&&iot protocols&&&internet of things&&&internet of things iot&&&internet of things iot devices&&&iot buttons&&&iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3817.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_006
@@ -23,7 +27,7 @@ enabler_006
 * [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_115.md)
 * [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_116.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 * [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)

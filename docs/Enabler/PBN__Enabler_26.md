@@ -2,6 +2,10 @@
 
 # __Antimicrobial coating__
 
+## Link between Blueprint and General ontology
+
+* [Antimicrobial coatings&&&antimicrobial coatings for surfaces&&&antimicrobial surface materials&&&antimicrobial surfaces&&&antimicrobial materials&&&antimicrobial paint&&&anti-microbial materials&&&anti-bacterial materials&&&selection of anti-microbial materials&&&surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3988.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_027
@@ -23,7 +27,7 @@ enabler_027
 * [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_194.md)
 * [Biodegradable materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_193.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
 

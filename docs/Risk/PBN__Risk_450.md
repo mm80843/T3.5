@@ -64,7 +64,6 @@ Increase in poverty, decline in exports, loss of jobs and income, economic insta
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_RiskType
 

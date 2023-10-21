@@ -26,7 +26,6 @@ Identifies if the virus is circulating in the human population
 ## Risks possibly mitigated by this Mitigation
 
 * [Health risk, data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2896.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

@@ -32,5 +32,4 @@ Disrupts the access to food for children who rely on school feeding programs, po
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

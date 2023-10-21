@@ -2,6 +2,10 @@
 
 # __Telemedecine__
 
+## Link between Blueprint and General ontology
+
+* [Telemedicine&&&telehealth services&&&telehealth&&&telemedicine for remote healthcare&&&telemedicine technologies&&&telemedicine platforms&&&telehealth system&&&telehealth solutions&&&telehealth platforms&&&telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3919.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_018
@@ -23,7 +27,7 @@ enabler_018
 * [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_23.md)
 * [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_216.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
 * [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)

@@ -2,6 +2,10 @@
 
 # __Smartwatches__
 
+## Link between Blueprint and General ontology
+
+* [Smartwatch&&&smartwatch data&&&wearables&&&apple watches&&&wearable devices&&&fitbits&&&wearable technology&&&wearable device&&&wristbands&&&wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3880.md)
+
 ## Category to which it belongs
 
 * [Wearable devices commonly worn on the wrist for tracking health and fitness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_67.md)

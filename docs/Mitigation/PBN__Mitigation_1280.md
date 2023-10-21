@@ -26,7 +26,6 @@ Drones can be used for transportation, monitoring, and disinfection, reducing th
 ## Risks possibly mitigated by this Mitigation
 
 * [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2585.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

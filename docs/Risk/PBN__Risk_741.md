@@ -25,7 +25,6 @@ Public distrust and anxiety due to perceived shortage of infection data
 
 ## Is the risk affecting GBN scales
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_2.md)
 
 ## Type of the risk
 

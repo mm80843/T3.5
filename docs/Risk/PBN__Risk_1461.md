@@ -62,7 +62,6 @@ Improved readiness to respond to the crisis and provide necessary care and prote
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 
 ## Property: has_RiskType
 

@@ -2,6 +2,10 @@
 
 # __Wearables__
 
+## Link between Blueprint and General ontology
+
+* [Wearable devices&&&wearable technology&&&wearable device&&&wearable electronic devices&&&wearable device technology&&&wearable sensors&&&smartwatches&&&fitbits&&&wristbands&&&personal comfort devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3835.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_012
@@ -23,7 +27,7 @@ enabler_012
 * [Wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_144.md)
 * [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
 * [Tracking and enforcing use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)

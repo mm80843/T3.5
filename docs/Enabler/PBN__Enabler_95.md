@@ -2,6 +2,10 @@
 
 # __Computer vision__
 
+## Link between Blueprint and General ontology
+
+* [Vision algorithms&&&image processing&&&object detection algorithms&&&facial recognition&&&video surveillance&&&virtual reality&&&face recognition&&&augmented reality&&&video surveillance systems&&&visual aids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3967.md)
+
 ## Category to which it belongs
 
 * [Insights from information through visual representation and interpretation using time-based and context-aware techniques, including computer-based perception.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_57.md)

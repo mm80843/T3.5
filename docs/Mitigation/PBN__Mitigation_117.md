@@ -26,7 +26,6 @@ Incorporating natural lighting into indoor spaces can improve mood and productiv
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3169.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 
@@ -35,6 +34,5 @@ Incorporating natural lighting into indoor spaces can improve mood and productiv
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Daylighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_187.md)
 

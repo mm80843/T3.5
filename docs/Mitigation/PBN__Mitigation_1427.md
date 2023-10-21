@@ -33,5 +33,4 @@ Prevents large gatherings and limits social interactions in public spaces, reduc
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

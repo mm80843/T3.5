@@ -2,6 +2,10 @@
 
 # __Sensor devices__
 
+## Link between Blueprint and General ontology
+
+* [Sensors&&&sensor technologies&&&sensor technology&&&wearable sensors&&&smart sensors&&&sensor integration and development&&&wireless sensors&&&sensor-based technology&&&iot sensors&&&sensor networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3846.md)
+
 ## Category to which it belongs
 
 * [Devices that detect and measure various aspects such as water, environment, pressure, temperature, light, and can be worn by individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_65.md)

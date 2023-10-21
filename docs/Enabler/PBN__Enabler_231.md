@@ -2,6 +2,10 @@
 
 # __Social support networks__
 
+## Link between Blueprint and General ontology
+
+* [Social support systems&&&social support&&&social networks&&&social networking platforms&&&online support groups&&&community support groups&&&community outreach programs for social support&&&social media groups&&&community support programs&&&online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3943.md)
+
 ## Category to which it belongs
 
 * [The interconnected web of digital platforms enabling data analysis and online communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_59.md)

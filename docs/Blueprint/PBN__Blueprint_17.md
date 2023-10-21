@@ -20,7 +20,7 @@ This measure is effective as long as the residential area is in operation and th
 (ii)https://pubs.acs.org/doi/10.1021/acs.estlett.0c00357
 (iii)https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7566278/
 
-## Description of the blueprint
+## Blueprint description
 
 Already a year ago, the European Commission recommended that EU member states set up a wastewater monitoring programme to track COVID-19 and its variants. As a result, circa 1370 wastewater treatment plants in the EU are now regularly monitored. This draft aims to transfer this practise to the neighbourhood level. Monitoring of wastewater has proven to be a reliable source of information to detect the presence of the virus or the increase or decrease in levels of virus, without the need to test individual people. In this context, the following blueprint proposes to equip relevant GBN wastewater sites with the right tools and sensors to collect regular data on pathogen concentrations, enabling guidelines and policy decisions.
 
@@ -42,11 +42,11 @@ Already a year ago, the European Commission recommended that EU member states se
 
 ## Type of deployment of the blueprint
 
-Permanent 
+* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-Operational 
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -62,7 +62,7 @@ Although no data is collected on specific individuals, several ethical aspects o
 
 ## Scale of the of the blueprint
 
-GBN 
+* [Gbn](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_2.md)
 
 ## Title of the blueprint
 
@@ -70,11 +70,11 @@ PBN:BP_18
 
 ## Mode of transmission covered by the blueprint
 
-None
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_7.md)
 
 ## Type of the blueprint
 
-Technical
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

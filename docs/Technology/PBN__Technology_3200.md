@@ -8,7 +8,6 @@
 
 ## Closest similar item
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Hands-free light nan switches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3198.md)
 * [Improved wireless communication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1569.md)
 * [Encryption and authentication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1568.md)

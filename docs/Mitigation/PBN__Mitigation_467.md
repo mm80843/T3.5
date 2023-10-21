@@ -25,7 +25,6 @@ Exposure to sunlight increases vitamin D levels, improves mood, and aids in slee
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Inadequate sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2690.md)
 
 ## Property: has_MitigationSource
@@ -35,6 +34,5 @@ Exposure to sunlight increases vitamin D levels, improves mood, and aids in slee
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2663.md)
 

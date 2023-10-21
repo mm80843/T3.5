@@ -19,3 +19,7 @@
 * [Air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1660.md)
 * [Indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3139.md)
 
+## This is also an enabler
+
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_6.md)
+

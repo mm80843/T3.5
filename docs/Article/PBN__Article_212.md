@@ -49,7 +49,6 @@ Prototype Early Warning Systems for Vector-Borne Diseases in Europe
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Advanced surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1531.md)
 * [Remote sensing technology for monitoring and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1529.md)
 * [Improved screening and testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1534.md)

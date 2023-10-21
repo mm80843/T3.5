@@ -33,5 +33,4 @@ Provide clear and concise guidelines for individuals to follow in order to ensur
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

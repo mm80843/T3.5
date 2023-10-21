@@ -2,6 +2,10 @@
 
 # __Data Analytics__
 
+## Link between Blueprint and General ontology
+
+* [Data analytics and modeling&&&data analytics and visualization&&&big data analytics&&&data analysis&&&data mining&&&social media analytics&&&big-data analytics&&&data analytics platforms&&&data analysis technology&&&data science](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3792.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_003
@@ -23,7 +27,7 @@ enabler_003
 * [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_77.md)
 * [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_78.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 * [Indoor environmental quality ieq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)

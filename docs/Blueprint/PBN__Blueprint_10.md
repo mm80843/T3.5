@@ -16,7 +16,7 @@ UV-C lamps are used in unoccupied spaces (either in ducts or in a room) to purif
 
 Chicago’s Loyola University Medical Center
 
-## Description of the blueprint
+## Blueprint description
 
 UV is one of the most common environmental control measures for elimination of microorganism while airborne transmission is one of the main ways of spreading many diseases. Normally, the concentration of airborne pathogens in enclosed spaces is mitigated by natural or mechanical ventilation systems. In this context, it should be noted that ventilation systems are designed for the comfort of the users, so in some scenarios (e.g. pandemic) the recommended air change per hour for controlling airborne infections cannot be achieved. UV-C can effectively supplement ventilation and inactivate harmful sources of disease before air flows reach occupied spaces.
 
@@ -36,11 +36,12 @@ UV is one of the most common environmental control measures for elimination of m
 
 ## Type of deployment of the blueprint
 
-Permanent
+* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-Design & Construction
+* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
+* [Construction](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_2.md)
 
 ## Problem of the blueprint
 
@@ -56,7 +57,7 @@ UV-C can attack certain materials, particularly plastics used in ventilation sys
 
 ## Scale of the of the blueprint
 
-Building
+* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -64,11 +65,11 @@ PBN:BP_11
 
 ## Mode of transmission covered by the blueprint
 
-Airborne
+* [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_0.md)
 
 ## Type of the blueprint
 
-Technical
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

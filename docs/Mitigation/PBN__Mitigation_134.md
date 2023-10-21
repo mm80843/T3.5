@@ -25,7 +25,6 @@ Regular handwashing with soap and water is critical in controlling the spread of
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Transmission of germs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2428.md)
 
 ## Property: has_MitigationSource
@@ -35,6 +34,5 @@ Regular handwashing with soap and water is critical in controlling the spread of
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Soap and clean water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2214.md)
 

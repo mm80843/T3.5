@@ -76,7 +76,6 @@ Delayed recovery and economic decline affecting the construction industry
 
 ## Technologies linked to the risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [Green technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1645.md)
 * [Sustainable manufacturing and disposal methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1646.md)

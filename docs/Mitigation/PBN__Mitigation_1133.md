@@ -33,5 +33,4 @@ Designing non-centralized building systems to encourage movement, reduce congest
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

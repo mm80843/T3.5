@@ -52,7 +52,6 @@ Wearable technology for early detection of COVID-19: A systematic scoping review
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 * [Statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_357.md)
 

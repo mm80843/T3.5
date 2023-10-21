@@ -80,7 +80,6 @@ Decreased quality of life, increased psychological distress, and potential long-
 
 * [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
 * [Mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_116.md)
 * [Digital mental health platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1632.md)
 * [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1119.md)

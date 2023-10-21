@@ -25,7 +25,6 @@ Regularly washing hands with soap and water or using hand sanitizers can prevent
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3397.md)
 * [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2471.md)
 
@@ -37,7 +36,6 @@ Regularly washing hands with soap and water or using hand sanitizers can prevent
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2480.md)
 * [Soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2291.md)
 

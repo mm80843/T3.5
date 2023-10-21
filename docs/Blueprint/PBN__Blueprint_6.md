@@ -17,7 +17,7 @@ This measure can be integrated into the early design phase of a new building, as
 
 Checkpoint at the entrance of common buildings
 
-## Description of the blueprint
+## Blueprint description
 
 This aims at establishing checkpoints at high-traffic locations or key nodes in either buildings or GBNs to restrict further access. Checkpoints aim to monitor relevant parameters related either to the space, such as indoor air quality or occupancy rates, or to the personal health of users (body temperature, display of test results, registration of personal presence, etc.). Based on the results, user access can be restricted or prohibited to ensure either satisfactory occupancy levels, or user compliance with health protection measures, and users can be notified of new developments when in the building.
 
@@ -39,11 +39,11 @@ This aims at establishing checkpoints at high-traffic locations or key nodes in 
 
 ## Type of deployment of the blueprint
 
-Permanent & Temporary
+* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_2.md)
 
 ## GBN Phase of the blueprint
 
-Design
+* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
 
 ## Problem of the blueprint
 
@@ -64,7 +64,7 @@ There are various limitations to this measure:
 
 ## Scale of the of the blueprint
 
-Both
+* [Both](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -72,11 +72,13 @@ PBN:BP_7
 
 ## Mode of transmission covered by the blueprint
 
-Airborne & Respiratory 
+* [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_0.md)
+* [Respiratory](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_1.md)
 
 ## Type of the blueprint
 
-Technical & Behavioural
+* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

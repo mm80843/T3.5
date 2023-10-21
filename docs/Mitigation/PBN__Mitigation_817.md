@@ -33,5 +33,4 @@ Restrict travel in and out of a specific geographical area to prevent the introd
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

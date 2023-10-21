@@ -2,6 +2,10 @@
 
 # __Gps location__
 
+## Link between Blueprint and General ontology
+
+* [Gps&&&gps technology&&&geolocation data&&&location tracking technology&&&mobile positioning technology&&&location and bluetooth data&&&positioning technologies&&&improved location tracking algorithms&&&checkpoint stations&&&travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3866.md)
+
 ## Category to which it belongs
 
 * [Determining precise geographical position through satellite tracking and collecting relevant geographic information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_75.md)

@@ -2,6 +2,10 @@
 
 # __DigitalPlatform__
 
+## Link between Blueprint and General ontology
+
+* [Digitalization&&&digitalisation&&&expansion of digital&&&digital media&&&digital technology&&&digital techniques&&&digital devices&&&digital tools&&&digital imaging&&&digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3782.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_002
@@ -23,7 +27,7 @@ enabler_002
 * [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
 * [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_31.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
 

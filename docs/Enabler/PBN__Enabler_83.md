@@ -2,6 +2,10 @@
 
 # __Big data analytics nan platforms__
 
+## Link between Blueprint and General ontology
+
+* [Data nan nan warehousing&&&data analytics platforms&&&data filtering and processing nan techniques&&&data validation and quality control nan techniques&&&big data analytics&&&big data&&&big-data analytics&&&open data platforms&&&improved wireless communication nan technologies&&&bigdata](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3860.md)
+
 ## Category to which it belongs
 
 * [Harnessing and analyzing extensive amounts of information, both structured and unstructured, for insights and patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_58.md)

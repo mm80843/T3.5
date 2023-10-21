@@ -53,7 +53,6 @@ An Overview of Ontologies and Tool Support for COVID-19 Analytics
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Tools such as protégé](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_56.md)
 * [Kgx](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_57.md)
 

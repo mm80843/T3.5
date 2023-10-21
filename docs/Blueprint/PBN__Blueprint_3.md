@@ -15,7 +15,7 @@ This measure would be applied in confined and high occupancy areas such as offic
 Faculty of Engineering of Vitoria-Gasteiz
 (Calvo, et al. 2022)
 
-## Description of the blueprint
+## Blueprint description
 
 Over the last years, and for several reasons, IEQ monitoring systems have become important for several reasons: 
 •	 guaranteeing adequate air quality
@@ -43,11 +43,12 @@ In this scenario, the application of IoT in this type of system enables the coll
 
 ## Type of deployment of the blueprint
 
-Permanent
+* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-Design & Construction
+* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
+* [Construction](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_2.md)
 
 ## Problem of the blueprint
 
@@ -63,7 +64,7 @@ A potential limitation of the system may be the limitations of the HVAC systems 
 
 ## Scale of the of the blueprint
 
-Building
+* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -71,11 +72,11 @@ PBN:BP_4
 
 ## Mode of transmission covered by the blueprint
 
-Airborne
+* [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_0.md)
 
 ## Type of the blueprint
 
-Technical
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

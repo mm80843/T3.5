@@ -33,5 +33,4 @@ Allow individuals and organizations to delay payment of energy bills or arrange 
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

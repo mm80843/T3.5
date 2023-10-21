@@ -35,7 +35,6 @@ Contact tracing identifies individuals who have been in close contact with infec
 * [Tracking and containing outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2728.md)
 * [Covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
 * [Concealment of mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3159.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3222.md)
 * [Insufficient user uptake, navigation issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2516.md)
 * [Chain of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2477.md)
@@ -67,7 +66,6 @@ Contact tracing identifies individuals who have been in close contact with infec
 
 * [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 * [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
 * [Surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2852.md)
 * [Digital contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3040.md)

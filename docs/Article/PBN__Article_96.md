@@ -54,7 +54,6 @@ SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1362.md)
 * [Including mobile testing units and at-home testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1363.md)
 * [Verification of results through multiple testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1357.md)

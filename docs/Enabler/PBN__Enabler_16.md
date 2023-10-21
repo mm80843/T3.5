@@ -2,6 +2,10 @@
 
 # __Automation__
 
+## Link between Blueprint and General ontology
+
+* [Automation systems&&&automation technology&&&automation technologies&&&testing automation&&&automation in production and distribution&&&automated devices&&&building automation systems&&&automated windows&&&artificial intelligence&&&ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3910.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_017
@@ -23,7 +27,7 @@ enabler_017
 * [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_107.md)
 * [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_87.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 * [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)

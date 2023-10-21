@@ -2,6 +2,10 @@
 
 # __Data collection__
 
+## Link between Blueprint and General ontology
+
+* [Data collection technologies&&&data collection and analysis&&&data collection tools&&&digital data collection systems&&&data collection and analysis technologies&&&data collection and analysis methods&&&research and data collection methods&&&efficient data collection and processing methods&&&local data collection methods&&&data collection and analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3859.md)
+
 ## Category to which it belongs
 
 * [Harnessing and analyzing extensive amounts of information, both structured and unstructured, for insights and patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_58.md)

@@ -19,3 +19,7 @@
 * [Facial recognition software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
 * [Biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
 
+## This is also an enabler
+
+* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_28.md)
+

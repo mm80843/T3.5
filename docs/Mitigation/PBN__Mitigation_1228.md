@@ -27,7 +27,6 @@ Requiring all citizens to wear face masks when going out to reduce the risk of a
 
 * [Spread of contagious disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3175.md)
 * [Community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2381.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Airborne or close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2958.md)
 
 ## Property: has_MitigationSource
@@ -40,6 +39,5 @@ Requiring all citizens to wear face masks when going out to reduce the risk of a
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
 

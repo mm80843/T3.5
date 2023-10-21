@@ -27,7 +27,7 @@ https://www.epa.gov/sites/default/files/2015-11/documents/ipm_in_buildings.pdf
 
 
 
-## Description of the blueprint
+## Blueprint description
 
 Animal vector control methods and technologies are central to preventing the transmission of vector-borne diseases from animals to occupants (zoonosis) and users of buildings and/or GBN. More traditional methods of controlling animal vectors in buildings include the large-scale use of pesticides and insecticides. However, there is a trend towards less toxic measures in EU countries. As a result, several countries have introduced more complex pest control strategies that include several non-chemical approaches. Integrated Pest Management (IPM), for example, is, as the title suggests, a programme that uses more than one technique at four levels of implementation: 
 •	 identify the pest species that occur in a given area in order to take targeted preventive measures (see below). in addition, this phase includes routine monitoring of the most infested areas and an analysis of the effectiveness of the measures applied
@@ -50,11 +50,12 @@ Animal vector control methods and technologies are central to preventing the tra
 
 ## Type of deployment of the blueprint
 
-Permanent & Temporary
+* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_2.md)
 
 ## GBN Phase of the blueprint
 
-Design & Operational
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
+* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
 
 ## Problem of the blueprint
 
@@ -70,7 +71,7 @@ The main obstacle to effective prevention and control of animal vectors is the i
 
 ## Scale of the of the blueprint
 
-Both
+* [Both](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -78,11 +79,13 @@ PBN:BP_19
 
 ## Mode of transmission covered by the blueprint
 
-Direct contact & Fomite
+* [Direct contact](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_2.md)
+* [Fomite](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_3.md)
 
 ## Type of the blueprint
 
-Technical & Behavioural
+* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

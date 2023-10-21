@@ -35,7 +35,6 @@ Restrict and control travel to and from areas with high infection rates to minim
 * [Covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
 * [Transmission of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2099.md)
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Travel-related risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2819.md)
 * [Introduction of new cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2584.md)
 * [Importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
@@ -68,7 +67,6 @@ Restrict and control travel to and from areas with high infection rates to minim
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Travel management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2129.md)
 * [Travel policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
 * [Travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3250.md)

@@ -28,7 +28,6 @@ Impacts of COVID-19 on residential building energy use and performance
 
 ## Benefits listed in this article
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
 
 ## List of risks in an article
 

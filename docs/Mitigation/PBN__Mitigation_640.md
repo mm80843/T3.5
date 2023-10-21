@@ -25,7 +25,6 @@ Implementing measures to reduce noise levels from traffic and other anthropogeni
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 
@@ -34,6 +33,5 @@ Implementing measures to reduce noise levels from traffic and other anthropogeni
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Acoustic technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2593.md)
 

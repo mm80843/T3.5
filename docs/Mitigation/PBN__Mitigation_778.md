@@ -33,5 +33,4 @@ Rethink the design and use of large public spaces to accommodate for reduced pub
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

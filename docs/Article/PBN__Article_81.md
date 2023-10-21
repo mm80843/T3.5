@@ -52,5 +52,4 @@ Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation 
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

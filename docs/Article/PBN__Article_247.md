@@ -28,7 +28,6 @@ Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A ca
 
 ## Benefits listed in this article
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
 * [Reduced noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1191.md)
 * [Reduced neighbour noise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1192.md)
 * [Annoyance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1193.md)

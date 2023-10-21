@@ -65,7 +65,6 @@ A critical review of emerging technologies for tackling COVID ‐19 pandemic
 ## This article mentions these technologies
 
 * [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
 * [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1083.md)
 * [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)

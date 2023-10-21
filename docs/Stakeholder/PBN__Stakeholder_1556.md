@@ -29,5 +29,4 @@
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_7.md)
 

@@ -2,6 +2,10 @@
 
 # __Databases__
 
+## Link between Blueprint and General ontology
+
+* [Database&&&research databases&&&open-access databases&&&data collection&&&data management systems&&&data collection technologies&&&data management techniques&&&sqlite database&&&data management tools&&&data science](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3861.md)
+
 ## Category to which it belongs
 
 * [Data storage and management systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_74.md)

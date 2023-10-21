@@ -33,5 +33,4 @@ Restricting travel within the country to prevent transmission
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

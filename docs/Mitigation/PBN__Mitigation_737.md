@@ -26,7 +26,6 @@ Prevent the spread of contagious diseases by isolating individuals exhibiting sy
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission of pathogens within a confined space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2676.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Transmission of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2772.md)
 
 ## Property: has_MitigationSource

@@ -2,6 +2,10 @@
 
 # __Wall and floors treatment__
 
+## Link between Blueprint and General ontology
+
+* [Heat treatment&&&enhanced sanitation room&&&improved water treatment&&&regular disinfection of floor surfaces, disinfection of shoe soles&&&improved housing conditions&&&urban housing improvement&&&hygienic building materials&&&thermal treatment&&&wastewater treatment&&&regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4164.md)
+
 ## Property: has_BP_InterventionKey
 
 PS3

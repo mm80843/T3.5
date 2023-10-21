@@ -19,6 +19,10 @@
 * [Selection of anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1727.md)
 * [Surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_791.md)
 
+## This is also an enabler
+
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_26.md)
+
 ## This Technology enables the following mitigations
 
 * [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_823.md)

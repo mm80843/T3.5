@@ -19,3 +19,7 @@
 * [Diagnostic testing equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2134.md)
 * [Diagnostic and testing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3751.md)
 
+## This is also an enabler
+
+* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_32.md)
+

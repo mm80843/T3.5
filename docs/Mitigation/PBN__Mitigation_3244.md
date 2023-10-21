@@ -13,7 +13,6 @@
 * [Timely data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
 * [Data transmission systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3298.md)
 * [Reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3124.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_612.md)
 * [Enhance protocols and network security measures, establish centralized data networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3999.md)
 * [Monitor data sources to ensure they provide consistent and accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3273.md)
 * [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_681.md)

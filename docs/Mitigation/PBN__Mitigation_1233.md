@@ -25,7 +25,6 @@ Conducting widespread testing to identify potential COVID-19 positive individual
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Unknown infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2961.md)
 
 ## Property: has_MitigationSource
@@ -35,6 +34,5 @@ Conducting widespread testing to identify potential COVID-19 positive individual
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2132.md)
 

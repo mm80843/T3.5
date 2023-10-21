@@ -17,7 +17,7 @@ This measure should be used applied in enclosed and busy areas such as offices (
 
 https://doi.org/10.1371/journal.pcbi.1009264
 
-## Description of the blueprint
+## Blueprint description
 
 During the COVID-19 pandemic, large organisations, as well as many educational public institutions, explored the potential to reduce disease transmission by dividing their staff (and students)and users into smaller groups that take turns using and servicing physical space in enclosed and high-traffic areas. The main idea is to introduce a rotating shift schedule in high occupancy areas, focusing on managing staff presence through shifts rather than the potential users of the services provided. Workers Staff should remain with the same shift group to reduce social mixing between groups of staff.
 
@@ -40,11 +40,11 @@ During the COVID-19 pandemic, large organisations, as well as many educational p
 
 ## Type of deployment of the blueprint
 
-Temporary
+* [Temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_0.md)
 
 ## GBN Phase of the blueprint
 
-Operational
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -67,7 +67,7 @@ A number of limitations and constraints were identified for this specific measur
 
 ## Scale of the of the blueprint
 
-Building
+* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -75,11 +75,13 @@ PBN:BP_1
 
 ## Mode of transmission covered by the blueprint
 
-Airborne & Respiratory & Direct Contact
+* [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_0.md)
+* [Respiratory](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_1.md)
+* [Direct contact](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_2.md)
 
 ## Type of the blueprint
 
-Behavioural
+* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
 
 ## Value proposition of the blueprint
 

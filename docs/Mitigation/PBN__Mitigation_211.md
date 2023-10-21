@@ -28,7 +28,6 @@ High-efficiency particle filtration reduces the airborne load of infectious part
 * [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
 * [Cross-infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2967.md)
 * [Poor filtration efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2974.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

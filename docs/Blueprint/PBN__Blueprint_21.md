@@ -14,7 +14,7 @@ This measure is to be implemented in all buildings of the GBNs. The sensors are 
 
 https://pubmed.ncbi.nlm.nih.gov/12701901/
 
-## Description of the blueprint
+## Blueprint description
 
 Fortunately, most tap water in Europe and North America is drinkable and of very good quality. Nevertheless, there is evidence that treated water contains a small amount of microorganisms. These microorganisms adhere to the side walls of the pipes and form so-called biofilms. The growth of biofilms mainly affects the turbidity, taste, odour and colour of the water and in many cases promotes the degradation of disinfectant residues. On the other hand, several studies have shown that these effects are exacerbated during stagnation.
 Considering that during the pandemic many public facilities remained closed for long periods of time, this fact is worrying and a cause for concern, especially when the buildings reopen. This concept involves the use of activated carbon philtres at strategic points in the pipe networks to improve taste and eliminate the risk of contamination, as well as the installation of optical biofilm sensors in the water distribution systems of GBNs to monitor the formation of biofilms. In this way, scheduled pipe cleaning can be carried out, limiting the negative impact of biofilms on drinking water quality and safety.
@@ -32,11 +32,11 @@ Considering that during the pandemic many public facilities remained closed for 
 
 ## Type of deployment of the blueprint
 
-Permanent
+* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-Operational
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -54,7 +54,7 @@ Monitoring biofilm growth in water distribution systems is not a simple, time-co
 
 ## Scale of the of the blueprint
 
-Both
+* [Both](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -62,11 +62,12 @@ PBN:BP_22
 
 ## Mode of transmission covered by the blueprint
 
-Direct contact & Fomite
+* [Direct contact](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_2.md)
+* [Fomite](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_3.md)
 
 ## Type of the blueprint
 
-Technical
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

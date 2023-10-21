@@ -2,6 +2,10 @@
 
 # __Outdoor spaces__
 
+## Link between Blueprint and General ontology
+
+* [Use of outdoor spaces&&&incorporating outdoor spaces&&&outdoor design and spaces&&&outdoor activity spaces&&&availability of outdoor spaces&&&increased outdoor spaces&&&access to outdoor spaces&&&green and outdoor spaces&&&outdoor spaces within apartment buildings&&&availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4175.md)
+
 ## Property: has_BP_InterventionKey
 
 HM2

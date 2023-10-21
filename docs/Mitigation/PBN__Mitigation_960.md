@@ -33,5 +33,4 @@ Allow contractors to claim an extension of time for project delays caused by the
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

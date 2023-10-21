@@ -17,7 +17,7 @@ https://www.epa.gov/sites/default/files/2020-05/documents/final_maintaining_buil
 https://www.ontario.ca/page/procedure-disinfection-drinking-water-ontario
 https://www.epa.gov/sites/default/files/2020-05/documents/final_checklist_for_maintaining_building_water_quality_5-6-2020.pdf
 
-## Description of the blueprint
+## Blueprint description
 
 During the Covid 19 pandemic, many buildings stood empty and were hardly used or not used at all. In addition, the lack of personnel in many cases led to a standstill in the maintenance of the water network. Under these conditions, standing and untreated water may no longer be potable or used for domestic or commercial purposes due to the growth of various pathogens and the depletion of disinfectants. In addition, changes in water chemistry can increase corrosion and leaching of metals such as lead and cause the formation of undesirable disinfection by-products. In this case, preventive measures must be taken to allow safe resumption of operation after a prolonged period of stagnation.
 This BP describes a general procedure for the quality of drinking water in buildings before they are reopened in order to increase the resilience of the drinking water network, which includes the following steps: 
@@ -42,11 +42,11 @@ This BP describes a general procedure for the quality of drinking water in build
 
 ## Type of deployment of the blueprint
 
-Temporary
+* [Temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_0.md)
 
 ## GBN Phase of the blueprint
 
-Operational 
+* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -64,7 +64,7 @@ If thorough quality control and disinfection of the drinking water network is re
 
 ## Scale of the of the blueprint
 
-Both
+* [Both](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -72,11 +72,14 @@ PBN:BP_23
 
 ## Mode of transmission covered by the blueprint
 
-Water outlets (e.g. taps, showers, toilets, fountains...)
+* [Water outlets taps](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_8.md)
+* [Showers](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_9.md)
+* [Toilets](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_10.md)
+* [Fountains...](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_11.md)
 
 ## Type of the blueprint
 
-Technical
+* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

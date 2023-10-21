@@ -2,6 +2,10 @@
 
 # __Smart home energy management systems__
 
+## Link between Blueprint and General ontology
+
+* [Home energy management systems&&&smart energy management&&&smart home systems&&&energy management systems&&&smart home technologies&&&smart home technology&&&energy-efficient appliances and smart home technology&&&energy monitoring systems&&&power management systems&&&improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4023.md)
+
 ## Category to which it belongs
 
 * [Efficient systems to control and optimize energy usage in residences and manage power consumption.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)

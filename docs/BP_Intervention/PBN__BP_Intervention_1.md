@@ -2,6 +2,10 @@
 
 # __Environmental parameters control__
 
+## Link between Blueprint and General ontology
+
+* [Control environmental conditions&&&environmental controls&&&outdoor air quality control&&&environmental measures&&&environmental management&&&improved understanding of indoor and outdoor environmental parameters&&&indoor air quality control&&&climate control in indoor environments&&&humidity control&&&strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4151.md)
+
 ## Property: has_BP_InterventionKey
 
 PA2

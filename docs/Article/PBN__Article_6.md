@@ -36,7 +36,6 @@ Urban design attributes and resilience: COVID-19 evidence from New York City
 * [Urban density and crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_16.md)
 * [Urban activities and points of interests pois](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2353.md)
 * [Urban inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_19.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## This article points to following mitigation
 
@@ -57,7 +56,6 @@ Urban design attributes and resilience: COVID-19 evidence from New York City
 
 * [Urban planning and design strategies to manage population density and promote a well-distributed urban development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1987.md)
 * [Equitable urban planning and policies to address spatial inequalities and improve social and economic conditions in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1992.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Alternative modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1990.md)
 * [Face mask usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1989.md)
 * [Physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1988.md)

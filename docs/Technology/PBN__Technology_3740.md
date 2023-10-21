@@ -19,3 +19,7 @@
 * [Improved hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_660.md)
 * [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_194.md)
 
+## This is also an enabler
+
+* [Smart HVAC](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_24.md)
+

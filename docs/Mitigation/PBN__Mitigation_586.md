@@ -25,7 +25,6 @@ Vaccination campaigns aim to protect individuals from contracting the disease an
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Lack of herd immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2612.md)
 
 ## Property: has_MitigationSource

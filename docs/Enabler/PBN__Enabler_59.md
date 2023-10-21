@@ -2,6 +2,10 @@
 
 # __Digital technology__
 
+## Link between Blueprint and General ontology
+
+* [Digital technologies&&&information technology&&&digitalization&&&digitalisation&&&digital devices&&&digital media&&&digital tools and technologies&&&technology&&&digital techniques&&&digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3787.md)
+
 ## Category to which it belongs
 
 * [Cutting-edge advancements transforming the way we interact, from smart devices to virtual healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_55.md)

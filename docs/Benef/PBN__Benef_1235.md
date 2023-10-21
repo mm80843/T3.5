@@ -16,7 +16,6 @@ in the field of epidemiology.
 
 ## Stakeholders benefitting from this Benefit
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
 
 ## Risks which can benefit from this action
 

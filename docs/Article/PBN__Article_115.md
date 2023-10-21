@@ -64,6 +64,5 @@ Mechanisms for addressing the impact of COVID-19 on infrastructure projects
 ## This article mentions these technologies
 
 * [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Officer assistance at project sites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_883.md)
 

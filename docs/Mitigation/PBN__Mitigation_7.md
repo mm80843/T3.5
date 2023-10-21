@@ -35,7 +35,6 @@ Isolate and restrict the movement of individuals who have been in contact with i
 * [Cross-infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2967.md)
 * [Transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2475.md)
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Transmission from infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3273.md)
 * [Transmission of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2772.md)
 
@@ -63,7 +62,6 @@ Isolate and restrict the movement of individuals who have been in contact with i
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2769.md)
 * [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2126.md)
 

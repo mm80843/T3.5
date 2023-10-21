@@ -2,6 +2,10 @@
 
 # __Logistics systems__
 
+## Link between Blueprint and General ontology
+
+* [Logistics&&&advanced logistics systems&&&logistics providers&&&improvements in logistics&&&supply chain management systems&&&inventory management systems&&&supply chain management systems and tools&&&supply chains&&&supply chain management technologies&&&supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3953.md)
+
 ## Category to which it belongs
 
 * [Efficient transportation and delivery networks operated by specialized companies with cutting-edge technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_86.md)

@@ -25,7 +25,6 @@ Using light-activated catalysts to accelerate the oxidation of airborne pathogen
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Nanoparticle health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2969.md)
 
 ## Property: has_MitigationSource

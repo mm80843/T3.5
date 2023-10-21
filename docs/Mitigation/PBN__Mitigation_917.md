@@ -25,7 +25,6 @@ Isolating infected individuals in rooms with negative air pressure to prevent th
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

@@ -2,6 +2,10 @@
 
 # __GPS__
 
+## Link between Blueprint and General ontology
+
+* [Gps technology&&&gps location&&&location tracking technology&&&mobile positioning technology&&&geolocation data&&&positioning technologies&&&travel monitoring&&&travel tracking and monitoring systems&&&travel tracking systems&&&improved location tracking algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3838.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_011
@@ -23,7 +27,7 @@ enabler_011
 * [Travel tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_163.md)
 * [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
 

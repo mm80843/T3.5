@@ -33,5 +33,4 @@ Reducing the prevalence of negative news stories about the pandemic to alleviate
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

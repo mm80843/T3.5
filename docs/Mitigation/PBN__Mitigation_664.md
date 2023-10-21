@@ -25,7 +25,6 @@ Investing in active transportation infrastructure, such as walking and cycling i
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Higher covid-19 mortality rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2643.md)
 
 ## Property: has_MitigationSource
@@ -35,6 +34,5 @@ Investing in active transportation infrastructure, such as walking and cycling i
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Cycling and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3701.md)
 

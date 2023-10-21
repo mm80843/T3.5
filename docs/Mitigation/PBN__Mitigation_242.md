@@ -32,7 +32,6 @@ Vaccination provides immunity to individuals and reduces the spread of infectiou
 * [Covid-19 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2493.md)
 * [Inadequate vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3186.md)
 * [Lack of access to vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3142.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Lack of immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2731.md)
 * [Susceptibility to infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2677.md)
 * [Decreased susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2749.md)
@@ -61,7 +60,6 @@ Vaccination provides immunity to individuals and reduces the spread of infectiou
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
 * [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2310.md)
 * [Vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3106.md)

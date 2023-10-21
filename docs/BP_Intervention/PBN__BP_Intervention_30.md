@@ -2,6 +2,10 @@
 
 # __Quarantine support__
 
+## Link between Blueprint and General ontology
+
+* [Effective quarantine&&&quarantine&&&quarantines&&&compliance of quarantine&&&quarantine facilities&&&quarantines,&&&quarantine for high-risk individuals&&&quarantine measures&&&home quarantine&&&quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4180.md)
+
 ## Property: has_BP_InterventionKey
 
 MP2

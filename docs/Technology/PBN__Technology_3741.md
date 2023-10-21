@@ -19,3 +19,7 @@
 * [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3713.md)
 * [Project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
 
+## This is also an enabler
+
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_27.md)
+

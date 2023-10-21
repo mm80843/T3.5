@@ -2,6 +2,10 @@
 
 # __Smartphone__
 
+## Link between Blueprint and General ontology
+
+* [Smartphones&&&smartphone technology&&&mobile phones&&&smartphone applications&&&smartphone app&&&mobile devices&&&smartphone apps&&&phone&&&mobile technology&&&mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3933.md)
+
 ## Category to which it belongs
 
 * [Mobile devices that combine phone capabilities with advanced computing functions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_70.md)

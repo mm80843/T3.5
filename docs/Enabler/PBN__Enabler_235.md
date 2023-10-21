@@ -2,6 +2,10 @@
 
 # __Delivery services__
 
+## Link between Blueprint and General ontology
+
+* [New delivery systems&&&online delivery platforms&&&logistics providers&&&transportation services&&&digital services&&&logistics&&&coordinated services&&&food delivery apps&&&logistics systems&&&support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3950.md)
+
 ## Category to which it belongs
 
 * [Modern methods of distributing goods and services through digital platforms and apps.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_84.md)

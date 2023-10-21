@@ -2,6 +2,10 @@
 
 # __Voice recognition__
 
+## Link between Blueprint and General ontology
+
+* [Voice recognition technology&&&voice and face recognition&&&face and voice recognition&&&voice control&&&facial recognition&&&face recognition&&&facial recognition systems&&&deep learning&&&deep learning models&&&deep learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4009.md)
+
 ## Category to which it belongs
 
 * [Identification through facial and vocal characteristics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_92.md)

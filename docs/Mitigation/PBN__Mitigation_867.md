@@ -25,7 +25,6 @@ Implementing efficient strategies for resource allocation, considering the prior
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Misallocation of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2753.md)
 
 ## Property: has_MitigationSource

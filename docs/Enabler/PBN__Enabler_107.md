@@ -2,6 +2,10 @@
 
 # __Ai technology__
 
+## Link between Blueprint and General ontology
+
+* [Artificial intelligence ai&&&ai&&&artificial intelligence&&&ai algorithms&&&ai tools&&&artificial intelligence and mobile technology&&&ai support systems&&&smart technology&&&robot technology&&&ai in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3855.md)
+
 ## Category to which it belongs
 
 * [Cutting-edge advancements transforming the way we interact, from smart devices to virtual healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_55.md)

@@ -2,6 +2,10 @@
 
 # __Shift controls (occupancy control of total users)__
 
+## Link between Blueprint and General ontology
+
+* [Space and occupancy management&&&administrative controls online meetings, shift arrangements&&&implement measures to control occupancy and enforce physical distancing rules in the facility&&&limiting occupancy levels, implementing crowd control measures, staggering schedules&&&reduced occupancy&&&implement physical distancing measures, modify layout to allow for more space between individuals, and limit occupancy in common areas&&&limited occupancy&&&occupancy control eg separating at/risk contaminated population&&&limit occupancy numbers, maintain physical distancing&&&occupancy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4169.md)
+
 ## Property: has_BP_InterventionKey
 
 HJ3

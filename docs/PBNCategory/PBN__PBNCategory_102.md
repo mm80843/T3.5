@@ -70,7 +70,6 @@
 * [Community mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_405.md)
 * [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3453.md)
 * [Waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_280.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Unclean environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2689.md)
 * [Productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1567.md)
 * [Lack of multi-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1635.md)

@@ -2,6 +2,10 @@
 
 # __3d printing for component manufacturing__
 
+## Link between Blueprint and General ontology
+
+* [3d printing&&&3d printing technology&&&improved 3d printing technology&&&additive manufacturing&&&advanced manufacturing techniques&&&flexible production technologies&&&ordinary printer paper&&&manufacturing capabilities&&&manufacturing companies&&&building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3929.md)
+
 ## Category to which it belongs
 
 * [Advancements in additive manufacturing and specialized substrates for diverse applications in digital fabrication and publishing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_82.md)

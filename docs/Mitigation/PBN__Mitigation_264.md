@@ -26,7 +26,6 @@ Identifying and testing individuals who may have come into contact with an infec
 ## Risks possibly mitigated by this Mitigation
 
 * [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2614.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Early detection of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3228.md)
 
 ## Property: has_MitigationSource

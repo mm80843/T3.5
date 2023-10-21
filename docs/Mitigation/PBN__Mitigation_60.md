@@ -30,7 +30,6 @@ Protecting sampling personnel from exposure to pathogens including SARS-CoV-2 du
 * [Exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2396.md)
 * [Contamination and exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2672.md)
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2645.md)
 * [Inadequate ppe, ineffective ppe, non-compliance with ppe guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3184.md)
 * [Direct contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2964.md)
@@ -51,7 +50,6 @@ Protecting sampling personnel from exposure to pathogens including SARS-CoV-2 du
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
 * [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1051.md)
 * [Ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1461.md)

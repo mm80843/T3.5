@@ -61,5 +61,4 @@ Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

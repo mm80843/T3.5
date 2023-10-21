@@ -57,5 +57,4 @@ Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactiv
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

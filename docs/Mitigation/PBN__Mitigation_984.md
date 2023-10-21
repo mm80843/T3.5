@@ -26,7 +26,6 @@ Promote frequent handwashing, use of hand sanitizers, and proper respiratory hyg
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of contagious disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3175.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

@@ -26,7 +26,6 @@ Contain and insulate private spaces from communal spaces to minimize infection r
 ## Risks possibly mitigated by this Mitigation
 
 * [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2585.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 
@@ -35,7 +34,6 @@ Contain and insulate private spaces from communal spaces to minimize infection r
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Sealed entrances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3390.md)
 * [Separate air cycles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3391.md)
 

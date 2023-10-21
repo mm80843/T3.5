@@ -33,5 +33,4 @@ Early action in implementing mitigation measures can delay outbreaks and slow do
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

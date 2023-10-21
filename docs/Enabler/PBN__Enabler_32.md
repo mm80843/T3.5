@@ -2,6 +2,10 @@
 
 # __Disease Diagnostic Test Kits__
 
+## Link between Blueprint and General ontology
+
+* [Diagnostic testing kits&&&diagnostic testing technologies&&&testing and diagnostic technologies&&&diagnostic testing&&&diagnostic tests&&&testing kits&&&test kits&&&diagnostic testing systems&&&diagnostic testing equipment and supplies&&&diagnostic and testing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4041.md)
+
 ## Property: has_BP_EnablerTitle
 
 enabler_033
@@ -23,7 +27,7 @@ enabler_033
 * [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_164.md)
 * [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_62.md)
 
-## Thees blueprints use this enabler
+## These blueprints use this enabler
 
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 * [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)

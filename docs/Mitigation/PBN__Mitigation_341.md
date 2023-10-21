@@ -26,7 +26,6 @@ Minimize the risk of contamination from waste
 ## Risks possibly mitigated by this Mitigation
 
 * [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2490.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 
@@ -35,7 +34,6 @@ Minimize the risk of contamination from waste
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Recycling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3498.md)
 * [Waste separation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3493.md)
 

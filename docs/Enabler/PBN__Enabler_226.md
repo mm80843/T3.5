@@ -2,6 +2,10 @@
 
 # __Building design software and modeling tools__
 
+## Link between Blueprint and General ontology
+
+* [Building design software and modeling tools can be used to optimize opening design&&&computer-aided design cad tools&&&architectural design technologies&&&building design&&&building systems and design&&&design & construction software bim&&&modeling and simulation tools&&&building information modeling&&&urban planning and design tools&&&architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4001.md)
+
 ## Category to which it belongs
 
 * [Comprehensive tools for building design, construction, management, and modeling, including bim and building design software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_90.md)

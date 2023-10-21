@@ -110,6 +110,7 @@
 * [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_75.md)
 * [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_98.md)
 * [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_97.md)
+* [Social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_109.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_106.md)
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
 * [Stress management](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_111.md)

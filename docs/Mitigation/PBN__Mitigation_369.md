@@ -27,7 +27,6 @@ Controlling the humidity levels in indoor spaces to reduce the survival and tran
 
 * [Inappropriate humidity levels in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3014.md)
 * [Controlling humidity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2510.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

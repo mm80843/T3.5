@@ -35,7 +35,6 @@ By instructing individuals to stay at home, the interaction between people is li
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
 * [Information dissemination technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2780.md)
 

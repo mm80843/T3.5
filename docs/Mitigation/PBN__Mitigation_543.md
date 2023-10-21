@@ -26,7 +26,6 @@ Removing or killing viruses on frequently touched surfaces to reduce the risk of
 ## Risks possibly mitigated by this Mitigation
 
 * [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

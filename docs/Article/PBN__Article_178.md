@@ -70,7 +70,6 @@ Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future d
 
 ## This article mentions these technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 * [Biosensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_239.md)
 * [Extensive sample clean-up processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_240.md)

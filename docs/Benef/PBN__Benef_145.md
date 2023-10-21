@@ -8,7 +8,6 @@ nan
 
 ## Description of actual returns pertaining to this benefit
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_146.md)
 * [Economic impact of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1082.md)
 * [Restriction measures can lead](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1331.md)
 * [To increased property value](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1332.md)
@@ -38,7 +37,6 @@ nan
 ## Stakeholders benefitting from this Benefit
 
 * [Communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
 * [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_387.md)
 
 ## Risks which can benefit from this action
@@ -48,7 +46,6 @@ nan
 * [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_976.md)
 * [Measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_768.md)
 * [Service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_971.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_123.md)
 * [Minimum safety distance,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_973.md)
 * [Capacity limitations,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_974.md)
 * [Curfews](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_977.md)

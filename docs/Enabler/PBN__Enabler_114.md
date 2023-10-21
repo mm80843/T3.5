@@ -2,6 +2,10 @@
 
 # __Sensor technologies__
 
+## Link between Blueprint and General ontology
+
+* [Sensor technology&&&sensors&&&sensor-based technology&&&sensor devices&&&smart sensors&&&improved sensor technology&&&sensor integration and development&&&wearable sensors&&&sensor networks&&&environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3842.md)
+
 ## Category to which it belongs
 
 * [Advanced detection and monitoring systems utilizing cutting-edge sensor and surveillance camera innovations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_71.md)

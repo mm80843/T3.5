@@ -2,6 +2,10 @@
 
 # __Ai algorithms__
 
+## Link between Blueprint and General ontology
+
+* [Artificial intelligence ai&&&machine learning algorithms&&&ai&&&ai technology&&&ai tools&&&artificial intelligence&&&algorithm&&&optimization algorithms&&&ai algorithms for content analysis&&&ai support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3854.md)
+
 ## Category to which it belongs
 
 * [Autonomous computing systems that learn and make decisions based on data and algorithms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_73.md)

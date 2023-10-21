@@ -25,7 +25,6 @@ What drives unverified information sharing and cyberchondria during the COVID-19
 ## Benefits listed in this article
 
 * [Reduction of misinformation sharing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_144.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
 
 ## List of risks in an article
 
@@ -38,7 +37,6 @@ What drives unverified information sharing and cyberchondria during the COVID-19
 
 ## This article points to following mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_612.md)
 
 ## This article mentions these technologies
 

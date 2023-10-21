@@ -2,6 +2,10 @@
 
 # __Environmental sensors__
 
+## Link between Blueprint and General ontology
+
+* [Environmental monitoring&&&sensors&&&environmental monitoring systems&&&sensor technologies&&&air quality sensors&&&indoor sensors&&&sensor technology&&&water sensors&&&air pollution sensors&&&sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3840.md)
+
 ## Category to which it belongs
 
 * [Devices that detect and measure various aspects such as water, environment, pressure, temperature, light, and can be worn by individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_65.md)

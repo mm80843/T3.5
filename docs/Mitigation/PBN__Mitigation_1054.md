@@ -26,7 +26,6 @@ Monitoring wastewater for the presence of viral RNA to estimate viral circulatio
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

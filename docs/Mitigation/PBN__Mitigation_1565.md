@@ -33,5 +33,4 @@ Promote stability and provide a sense of normalcy by establishing and maintainin
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 

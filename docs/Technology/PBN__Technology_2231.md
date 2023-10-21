@@ -19,6 +19,10 @@
 * [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3072.md)
 * [Phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1092.md)
 
+## This is also an enabler
+
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
+
 ## This Technology enables the following mitigations
 
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)

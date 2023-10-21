@@ -2,6 +2,10 @@
 
 # __5g technology__
 
+## Link between Blueprint and General ontology
+
+* [5g&&&4g&&&fifth-generation wireless networks&&&cellular network&&&mobile technology&&&wireless data transmission 3g&&&telecommunication technology internet&&&telecommunication technology&&&smartphone technology&&&communication technology internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3775.md)
+
 ## Category to which it belongs
 
 * [The convergence of advanced wireless connectivity, fast data speeds, immersive visualization, location tracking, and artificial intelligence.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_50.md)

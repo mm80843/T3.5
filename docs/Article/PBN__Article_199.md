@@ -28,7 +28,6 @@ A Surface Coating that Rapidly Inactivates SARS-CoV-2
 
 ## Benefits listed in this article
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
 * [Rapid inactivation of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_966.md)
 * [Retention of virucidal potency after multiple exposures to the virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_967.md)
 * [Robustness of the film](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_968.md)

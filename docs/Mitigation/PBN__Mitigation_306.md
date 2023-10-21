@@ -29,7 +29,6 @@ Encouraging individuals to work from home to minimize the need for commuting and
 * [Social and gender disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2604.md)
 * [Decreased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2710.md)
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3024.md)
 * [Contagion transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3188.md)
 

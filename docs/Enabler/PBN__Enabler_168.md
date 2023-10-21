@@ -2,6 +2,10 @@
 
 # __Ml__
 
+## Link between Blueprint and General ontology
+
+* [Ai/ml&&&artificial intelligence and ml&&&medium&&&machine learning&&&products&&&kgx&&&deep learning&&&mmtc&&&advertising&&&ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3852.md)
+
 ## Category to which it belongs
 
 * [The convergence of advanced wireless connectivity, fast data speeds, immersive visualization, location tracking, and artificial intelligence.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_50.md)

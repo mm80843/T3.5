@@ -2,6 +2,10 @@
 
 # __Virtual experiences__
 
+## Link between Blueprint and General ontology
+
+* [Virtual reality&&&expansion of digital platforms and virtual experiences&&&virtual learning technologies&&&augmented / virtual reality&&&vr devices&&&virtual learning platforms&&&platforms and virtual&&&virtual classrooms&&&experiences&&&virtual tours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3963.md)
+
 ## Category to which it belongs
 
 * [Digital representations and platforms for immersive educational and interactive experiences and exhibitions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_88.md)

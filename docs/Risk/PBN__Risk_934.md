@@ -59,7 +59,6 @@ Increased risk of healthcare workers and patients contracting the virus
 
 ## People affected by this risk
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_83.md)
 
 ## Technologies linked to the risk
 

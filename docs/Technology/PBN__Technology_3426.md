@@ -15,7 +15,6 @@
 * [Ehrs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2526.md)
 * [Omop](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
 * [](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3195.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Its](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3206.md)
 * [Heat](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2626.md)
 

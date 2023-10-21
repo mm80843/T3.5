@@ -2,6 +2,10 @@
 
 # __Teleconferencing software__
 
+## Link between Blueprint and General ontology
+
+* [Teleconferencing tools&&&teleconferencing&&&telehealth conferencing software&&&tele-devices&&&teleworking&&&telehealth system&&&telecommunication tools&&&telehealth platforms&&&telework&&&telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3973.md)
+
 ## Category to which it belongs
 
 * [Digital technologies for remote healthcare, remote work, and virtual communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_81.md)

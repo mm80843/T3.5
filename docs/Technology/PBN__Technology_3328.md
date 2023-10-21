@@ -19,6 +19,10 @@
 * [L5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
 * [Wireless data transmission 3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2607.md)
 
+## This is also an enabler
+
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
+
 ## This Technology enables the following mitigations
 
 * [Smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1807.md)

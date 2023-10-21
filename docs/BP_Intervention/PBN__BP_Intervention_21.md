@@ -2,6 +2,10 @@
 
 # __Personal hygiene (eg handwashing)__
 
+## Link between Blueprint and General ontology
+
+* [Personal hygiene&&&regular hand hygiene&&&handwashing&&&proper handwashing hygiene promotion&&&hand hygiene&&&hand washing&&&individual hygiene&&&promote regular handwashing, hygiene education and awareness&&&frequent handwashing&&&hand-washing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4171.md)
+
 ## Property: has_BP_InterventionKey
 
 HU2

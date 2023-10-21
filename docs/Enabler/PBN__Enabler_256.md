@@ -2,6 +2,10 @@
 
 # __Bim software__
 
+## Link between Blueprint and General ontology
+
+* [Bim&&&design & construction software bim&&&building information model bim&&&supply chain management software&&&financial management software&&&project management software&&&software&&&software tools&&&data management tools&&&gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3998.md)
+
 ## Category to which it belongs
 
 * [Digitized tools for designing and managing construction projects and supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_91.md)

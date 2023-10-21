@@ -2,6 +2,10 @@
 
 # __Bim__
 
+## Link between Blueprint and General ontology
+
+* [Bim software&&&design & construction software bim&&&building information model bim&&&ble&&&wbe&&&chws&&&supply chain management&&&waste management&&&mmtc&&&bicycles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4003.md)
+
 ## Category to which it belongs
 
 * [Digitized tools for designing and managing construction projects and supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_91.md)

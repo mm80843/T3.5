@@ -35,6 +35,5 @@ Quarantine or isolation of infected individuals helps prevent the spread of infe
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Separation of infected individuals from others](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2315.md)
 

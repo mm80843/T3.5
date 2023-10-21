@@ -25,7 +25,6 @@ Improve air quality in cities to reduce the probability of COVID-19 infections, 
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Ambient pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2776.md)
 
 ## Property: has_MitigationSource
@@ -35,6 +34,5 @@ Improve air quality in cities to reduce the probability of COVID-19 infections, 
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Presence of forest and trees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2772.md)
 

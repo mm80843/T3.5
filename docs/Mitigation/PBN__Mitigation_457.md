@@ -25,7 +25,6 @@ Designate specific rooms for the isolation of individuals suspected or confirmed
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2645.md)
 
 ## Property: has_MitigationSource
@@ -35,7 +34,6 @@ Designate specific rooms for the isolation of individuals suspected or confirmed
 
 ## This Mitigation is enabled by the following technologies
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2470.md)
 * [Specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
 

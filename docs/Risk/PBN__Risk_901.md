@@ -30,7 +30,6 @@ Incompatible ontologies hinder data sharing and collaboration in COVID-19 epidem
 ## Type of the risk
 
 * [Physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_6.md)
 
 ## Type of impact of the risk (according to ISO37100)
 

@@ -26,7 +26,6 @@ Promoting knowledge sharing among supply chain stakeholders to enhance awareness
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

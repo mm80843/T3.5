@@ -26,7 +26,6 @@ Detecting individuals with fever in real-time at airports
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 
 ## Property: has_MitigationSource
 

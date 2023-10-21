@@ -25,7 +25,6 @@ Improve indoor air quality by utilizing air filtration and ventilation systems t
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_295.md)
 * [Contagion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2645.md)
 
 ## Property: has_MitigationSource

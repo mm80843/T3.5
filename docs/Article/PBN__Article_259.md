@@ -24,7 +24,6 @@ The COVID-19 epidemiology and monitoring ontology
 
 ## Benefits listed in this article
 
-* [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_145.md)
 * [Improved ontology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1230.md)
 * [Interoperable ontology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1231.md)
 * [Consistent modeling](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1232.md)
