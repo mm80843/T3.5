@@ -2,10 +2,6 @@
 
 # __Use of smart/innovative air quality controls technology__
 
-## Link between Blueprint and General ontology
-
-* [Smart air quality control&&&indoor air quality control&&&outdoor air quality control&&&improvement of air quality&&&monitoring air quality&&&air quality improvement&&&improvement in air quality&&&monitoring and control of indoor air quality&&&monitor and control indoor air quality&&&improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4150.md)
-
 ## Property: has_BP_InterventionKey
 
 PA1
@@ -17,4 +13,10 @@ Use of smart/innovative air quality controls technology
 ## Category to which it belongs
 
 * [Implementation of cutting-edge air quality management systems to improve environmental conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_350.md)
+
+## This intervention is used in the following blueprints
+
+* [Indoor environmental quality ieq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
+* [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
 

@@ -2,10 +2,6 @@
 
 # __Digital signage__
 
-## Link between Blueprint and General ontology
-
-* [Signage&&&signage and communication tools&&&use of signage&&&signage materials&&&social distancing signage&&&signage for social distancing&&&clear signage and reminders&&&hygiene signage&&&digital signatures&&&signs and information boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4032.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_032

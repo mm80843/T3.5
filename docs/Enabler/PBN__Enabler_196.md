@@ -2,10 +2,6 @@
 
 # __Energy management systems__
 
-## Link between Blueprint and General ontology
-
-* [Energy management&&&improved energy management systems&&&power management systems&&&home energy management systems&&&smart energy management&&&energy monitoring systems&&&smart home energy management systems&&&energy-efficient systems&&&energy storage systems&&&energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4016.md)
-
 ## Category to which it belongs
 
 * [Efficient systems to control and optimize energy usage in residences and manage power consumption.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)

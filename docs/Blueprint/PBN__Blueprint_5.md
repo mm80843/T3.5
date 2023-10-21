@@ -28,8 +28,8 @@ With the COVID-19 pandemic, the focus shifted to reducing the transmission of pa
 
 ## Interventions of the blueprint
 
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_8.md)
-* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_16.md)
+* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_14.md)
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_15.md)
 
 ## Type of deployment of the blueprint
 

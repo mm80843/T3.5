@@ -2,10 +2,6 @@
 
 # __Construction technology and software__
 
-## Link between Blueprint and General ontology
-
-* [Construction materials and equipment&&&construction and technical changes&&&design & construction software bim&&&architectural & construction materials&&&building design and construction techniques&&&building material technologies&&&building engineers&&&building materials&&&building systems and design&&&building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4000.md)
-
 ## Category to which it belongs
 
 * [Digitized tools for designing and managing construction projects and supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_91.md)

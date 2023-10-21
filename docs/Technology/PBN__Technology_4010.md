@@ -2,3 +2,7 @@
 
 # __Face recognition&&&facial recognition systems&&&facial recognition technology&&&facial recognition software&&&voice and face recognition&&&face and voice recognition&&&automated face recognition systems&&&computer vision&&&image processing&&&vision algorithms__
 
+## Link between Blueprint and General ontology
+
+* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_192.md)
+

@@ -2,3 +2,7 @@
 
 # __Mobile positioning technology&&&location tracking technology&&&gps technology&&&tracking technology&&&mobile technology&&&gps&&&gps location&&&technological tracking device&&&communication technologies&&&sensor technologies__
 
+## Link between Blueprint and General ontology
+
+* [Positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_96.md)
+

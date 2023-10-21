@@ -2,3 +2,7 @@
 
 # __Physical activity&&&urban activities&&&lack of business continuity planning&&&temporary regulations on activities in public places&&&requires continuous monitoring&&&limited access to physical activity environments&&&delays in project activities&&&dependence on non-contact interaction activities&&&reduced physical activity&&&cancellation of educational activities__
 
+## Link between Blueprint and General ontology
+
+* [Activities continuity](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_8.md)
+

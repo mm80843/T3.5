@@ -2,3 +2,7 @@
 
 # __5g&&&4g&&&fifth-generation wireless networks&&&cellular network&&&mobile technology&&&wireless data transmission 3g&&&telecommunication technology internet&&&telecommunication technology&&&smartphone technology&&&communication technology internet__
 
+## Link between Blueprint and General ontology
+
+* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_34.md)
+

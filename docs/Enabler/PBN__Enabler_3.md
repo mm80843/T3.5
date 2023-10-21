@@ -2,10 +2,6 @@
 
 # __Visualization__
 
-## Link between Blueprint and General ontology
-
-* [3d visualization&&&data analytics and visualization&&&data visualization technology&&&timeline-based visualization&&&data visualization platforms&&&graphical representation&&&situated visualization&&&infographics&&&supply chain mapping and visualization tools&&&data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3801.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_004

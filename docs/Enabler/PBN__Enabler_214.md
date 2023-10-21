@@ -2,10 +2,6 @@
 
 # __Telemedicine platforms__
 
-## Link between Blueprint and General ontology
-
-* [Telehealth platforms&&&telemedicine&&&telemedicine technologies&&&telemedicine for remote healthcare&&&telehealth system&&&telehealth services&&&telemedicine and mobile health clinics&&&teletherapy platforms&&&telehealth solutions&&&use of telemedicine for remote care](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3925.md)
-
 ## Category to which it belongs
 
 * [Digital technologies for remote healthcare, remote work, and virtual communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_81.md)

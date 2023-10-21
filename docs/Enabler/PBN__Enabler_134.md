@@ -2,10 +2,6 @@
 
 # __Indoor biophilic design__
 
-## Link between Blueprint and General ontology
-
-* [Biophilic design&&&biophilic design strategies&&&incorporate biophilic design principles&&&indoor environmental quality&&&reducing chemical use in indoor environments&&&indoor sensors&&&indoor environment and ventilation systems&&&indoor air technologies&&&indoor plants&&&specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4030.md)
-
 ## Category to which it belongs
 
 * [Promote nature-inspired design elements to enhance indoor spaces using additive manufacturing and biophilic design strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_83.md)

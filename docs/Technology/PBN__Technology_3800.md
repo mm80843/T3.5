@@ -2,3 +2,7 @@
 
 # __Research and data analysis technologies&&&comparative studies and data analysis technologies&&&data analysis software&&&data collection and analysis technologies&&&data analysis tools&&&data tracking and analysis technologies&&&data visualization technology&&&data collection and analysis tools&&&data monitoring and analysis systems&&&data integration technology__
 
+## Link between Blueprint and General ontology
+
+* [Data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_76.md)
+

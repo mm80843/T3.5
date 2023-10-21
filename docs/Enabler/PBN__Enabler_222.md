@@ -2,10 +2,6 @@
 
 # __Additive manufacturing__
 
-## Link between Blueprint and General ontology
-
-* [3d printing&&&3d printing for component manufacturing&&&advanced manufacturing techniques&&&3d printing technology&&&manufacturing companies&&&improved 3d printing technology&&&manufacturing capabilities&&&building material technologies&&&flexible production technologies&&&manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3930.md)
-
 ## Category to which it belongs
 
 * [Promote nature-inspired design elements to enhance indoor spaces using additive manufacturing and biophilic design strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_83.md)

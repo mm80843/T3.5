@@ -2,3 +2,7 @@
 
 # __Linked data&&&open data&&&open data platforms&&&open data policies&&&open-access databases&&&data access platforms and applications&&&data integration platforms&&&data integration technology&&&data sharing&&&data integration tools__
 
+## Link between Blueprint and General ontology
+
+* [Linked open data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_175.md)
+

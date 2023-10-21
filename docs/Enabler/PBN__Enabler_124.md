@@ -2,10 +2,6 @@
 
 # __Indoor air technologies__
 
-## Link between Blueprint and General ontology
-
-* [Indoor air quality sensors&&&indoor environment and ventilation systems&&&outdoor air monitoring&&&air sensors&&&indoor sensors&&&air circulation devices&&&other air cleaning technologies&&&improved ventilation technologies&&&use of outdoor air and natural ventilation&&&air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3832.md)
-
 ## Category to which it belongs
 
 * [Devices designed to monitor and measure the quality and pollution levels of both indoor and outdoor air.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_64.md)

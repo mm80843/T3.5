@@ -2,3 +2,7 @@
 
 # __Drones&&&drones and robots&&&robots, drones & automated vehicules&&&drones for medical supply delivery&&&drones with thermal cameras&&&risk detection systems and drones&&&drones for monitoring overcrowding&&&robot technology&&&uavs&&&technology__
 
+## Link between Blueprint and General ontology
+
+* [Drone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_150.md)
+

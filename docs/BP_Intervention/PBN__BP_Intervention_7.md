@@ -2,10 +2,6 @@
 
 # __Control of airflows (airtight / negative pressure)__
 
-## Link between Blueprint and General ontology
-
-* [Negative-pressure ventilation&&&airflow direction&&&control the airflows in micro spaces&&&negative pressure aiirs&&&generating negative pressure&&&air control&&&negative pressure during cleaning&&&good air flow&&&ventilation control&&&negative pressure isolation ward](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4157.md)
-
 ## Property: has_BP_InterventionKey
 
 PA8

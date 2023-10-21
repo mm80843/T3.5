@@ -2,3 +2,7 @@
 
 # __Ai/ml&&&artificial intelligence and ml&&&medium&&&machine learning&&&products&&&kgx&&&deep learning&&&mmtc&&&advertising&&&ai__
 
+## Link between Blueprint and General ontology
+
+* [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_168.md)
+

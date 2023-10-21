@@ -2,10 +2,6 @@
 
 # __BigData__
 
-## Link between Blueprint and General ontology
-
-* [Big data&&&big urban data&&&big data analytics&&&big-data analytics&&&data collection&&&big data analytics nan platforms&&&databases&&&linked data&&&database&&&open data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_010

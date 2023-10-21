@@ -2,3 +2,7 @@
 
 # __Sensors&&&sensor technologies&&&sensor technology&&&wearable sensors&&&smart sensors&&&sensor integration and development&&&wireless sensors&&&sensor-based technology&&&iot sensors&&&sensor networks__
 
+## Link between Blueprint and General ontology
+
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_116.md)
+

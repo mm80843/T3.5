@@ -2,10 +2,6 @@
 
 # __New delivery systems__
 
-## Link between Blueprint and General ontology
-
-* [Delivery services&&&online delivery platforms&&&improvements in logistics&&&logistics systems&&&logistics providers&&&advanced logistics systems&&&digital supply chain platforms&&&logistics&&&food delivery apps&&&digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3949.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_022

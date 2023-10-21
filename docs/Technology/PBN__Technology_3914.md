@@ -2,3 +2,7 @@
 
 # __Automation&&&automation systems&&&automation technology&&&automation technologies&&&testing technology&&&automation in production and distribution&&&testing technologies&&&testing&&&advanced testing methods&&&testing kits__
 
+## Link between Blueprint and General ontology
+
+* [Testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_198.md)
+

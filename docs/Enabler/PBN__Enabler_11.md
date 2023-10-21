@@ -2,10 +2,6 @@
 
 # __Wearables__
 
-## Link between Blueprint and General ontology
-
-* [Wearable devices&&&wearable technology&&&wearable device&&&wearable electronic devices&&&wearable device technology&&&wearable sensors&&&smartwatches&&&fitbits&&&wristbands&&&personal comfort devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3835.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_012

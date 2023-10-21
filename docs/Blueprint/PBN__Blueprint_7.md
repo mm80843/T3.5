@@ -35,9 +35,9 @@ One of the most drastic measures to prevent the spread of COVID -19 during the s
 
 ## Interventions of the blueprint
 
-* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_1.md)
-* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_14.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_15.md)
+* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_17.md)
+* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_18.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_20.md)
 
 ## Type of deployment of the blueprint
 

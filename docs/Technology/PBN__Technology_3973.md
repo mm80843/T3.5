@@ -2,3 +2,7 @@
 
 # __Teleconferencing tools&&&teleconferencing&&&telehealth conferencing software&&&tele-devices&&&teleworking&&&telehealth system&&&telecommunication tools&&&telehealth platforms&&&telework&&&telehealth technology__
 
+## Link between Blueprint and General ontology
+
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_217.md)
+

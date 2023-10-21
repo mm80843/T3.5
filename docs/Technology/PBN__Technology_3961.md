@@ -2,3 +2,7 @@
 
 # __Augmented reality&&&augmented / virtual reality&&&virtual reality&&&augmented surveillance systems&&&technology&&&information technology&&&digital technology&&&computer vision&&&tracking technology&&&vr devices__
 
+## Link between Blueprint and General ontology
+
+* [Augmented reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_224.md)
+

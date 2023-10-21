@@ -2,10 +2,6 @@
 
 # __Social media analytics__
 
-## Link between Blueprint and General ontology
-
-* [Social media analysis&&&social media monitoring&&&data analytics&&&social media monitoring tools&&&social media&&&social media algorithms&&&social media communication&&&big data analytics&&&social networks&&&social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
-
 ## Category to which it belongs
 
 * [The interconnected web of digital platforms enabling data analysis and online communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_59.md)

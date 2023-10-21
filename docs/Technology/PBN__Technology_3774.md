@@ -2,3 +2,7 @@
 
 # __5g&&&5g technology&&&cellular network&&&mobile phones&&&broadband internet&&&mobile devices&&&wireless data transmission 3g&&&wi-fi&&&smartphone&&&mobile computing__
 
+## Link between Blueprint and General ontology
+
+* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_33.md)
+

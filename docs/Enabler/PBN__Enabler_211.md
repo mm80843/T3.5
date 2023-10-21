@@ -2,10 +2,6 @@
 
 # __Telehealth__
 
-## Link between Blueprint and General ontology
-
-* [Telehealth technology&&&telehealth system&&&telehealth/telepresence&&&telehealth solutions&&&telehealth services&&&telehealth platforms&&&telemedicine&&&telemedicine technologies&&&telehealth conferencing software&&&teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3922.md)
-
 ## Category to which it belongs
 
 * [Digital technologies for remote healthcare, remote work, and virtual communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_81.md)

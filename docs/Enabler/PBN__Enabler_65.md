@@ -2,10 +2,6 @@
 
 # __Print media__
 
-## Link between Blueprint and General ontology
-
-* [Ordinary printer paper&&&printing company services&&&3d printing&&&media&&&digital media&&&3d printing technology&&&improved 3d printing technology&&&media monitoring&&&media platforms&&&3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3932.md)
-
 ## Category to which it belongs
 
 * [Advancements in additive manufacturing and specialized substrates for diverse applications in digital fabrication and publishing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_82.md)

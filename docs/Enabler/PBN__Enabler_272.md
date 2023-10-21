@@ -2,10 +2,6 @@
 
 # __Diagnostic testing kits__
 
-## Link between Blueprint and General ontology
-
-* [Disease diagnostic test kits&&&testing kits&&&diagnostic testing technologies&&&testing and diagnostic technologies&&&diagnostic testing equipment and supplies&&&test kits&&&diagnostic testing systems&&&diagnostic testing&&&diagnostic and testing tools&&&rapid testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4042.md)
-
 ## Category to which it belongs
 
 * [Medical diagnostic tools for identifying diseases and conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)

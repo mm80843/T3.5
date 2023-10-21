@@ -2,10 +2,6 @@
 
 # __Robotic systems__
 
-## Link between Blueprint and General ontology
-
-* [Robot systems&&&robotics&&&robot technology&&&robots&&&industrial robots&&&control systems&&&medical robots&&&robotic assistance in healthcare&&&coordination systems&&&tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3896.md)
-
 ## Category to which it belongs
 
 * [Automated machines and technology used in various fields like medicine, industry, and social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_72.md)

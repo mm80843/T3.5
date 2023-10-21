@@ -2,3 +2,7 @@
 
 # __Social robot technology&&&robots&&&robot technology&&&robotics&&&social pods&&&robot systems&&&medical robots&&&social media algorithms&&&social networking platforms&&&social networks__
 
+## Link between Blueprint and General ontology
+
+* [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_165.md)
+

@@ -2,3 +2,7 @@
 
 # __Social media analysis&&&social media monitoring&&&data analytics&&&social media monitoring tools&&&social media&&&social media algorithms&&&social media communication&&&big data analytics&&&social networks&&&social media campaigns__
 
+## Link between Blueprint and General ontology
+
+* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_73.md)
+

@@ -2,3 +2,7 @@
 
 # __Personal hygiene&&&regular hand hygiene&&&handwashing&&&proper handwashing hygiene promotion&&&hand hygiene&&&hand washing&&&individual hygiene&&&promote regular handwashing, hygiene education and awareness&&&frequent handwashing&&&hand-washing facilities__
 
+## Link between Blueprint and General ontology
+
+* [Personal hygiene (eg handwashing)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_21.md)
+

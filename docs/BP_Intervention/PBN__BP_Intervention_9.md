@@ -2,10 +2,6 @@
 
 # __Maintenance / decontamination of building water sytems__
 
-## Link between Blueprint and General ontology
-
-* [Maintenance and/or decontamination of water&&&maintenance and decontamination&&&improved water storage and sanitation&&&enhance water treatment processes, implement effective sanitation measures&&&proper wastewater treatment and management&&&water management&&&improved water treatment&&&environmental cleaning and disinfection&&&regular maintenance and disinfection&&&wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4159.md)
-
 ## Property: has_BP_InterventionKey
 
 PW2
@@ -17,4 +13,10 @@ Maintenance / decontamination of building water sytems
 ## Category to which it belongs
 
 * [Building water system upkeep and purification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
+
+## This intervention is used in the following blueprints
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+* [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
+* [Drinking water safety - restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
 

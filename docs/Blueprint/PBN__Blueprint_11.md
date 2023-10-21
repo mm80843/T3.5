@@ -27,9 +27,9 @@ This blueprint proposes the use of High Efficiency Particulate Air (HEPA) filter
 
 ## Interventions of the blueprint
 
-* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_12.md)
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_13.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_22.md)
+* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_0.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_2.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_3.md)
 
 ## Type of deployment of the blueprint
 

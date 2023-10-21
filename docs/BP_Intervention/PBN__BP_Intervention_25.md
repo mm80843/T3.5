@@ -2,10 +2,6 @@
 
 # __Outdoor spaces__
 
-## Link between Blueprint and General ontology
-
-* [Use of outdoor spaces&&&incorporating outdoor spaces&&&outdoor design and spaces&&&outdoor activity spaces&&&availability of outdoor spaces&&&increased outdoor spaces&&&access to outdoor spaces&&&green and outdoor spaces&&&outdoor spaces within apartment buildings&&&availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4175.md)
-
 ## Property: has_BP_InterventionKey
 
 HM2
@@ -17,4 +13,11 @@ Outdoor spaces
 ## Category to which it belongs
 
 * [Open-air environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
+
+## This intervention is used in the following blueprints
+
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+* [Indoor environmental quality ieq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
+* [Acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_16.md)
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
 

@@ -2,10 +2,6 @@
 
 # __SmartPhones__
 
-## Link between Blueprint and General ontology
-
-* [Smartphone&&&mobile phones&&&smartphone technology&&&mobile devices&&&smartphone applications&&&smartphone apps&&&mobile technology&&&smartphone app&&&smartphone control systems&&&phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3839.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_020

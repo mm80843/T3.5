@@ -2,10 +2,6 @@
 
 # __Uvgi system__
 
-## Link between Blueprint and General ontology
-
-* [Uvgi systems&&&uvgi&&&uvgi lamps&&&uvc and uvgi lights&&&design and engineering solutions for upper-room uvgi systems&&&uv/uvgi/irradation&&&uv light systems&&&uv lamps&&&ultraviolet uv lamps&&&cost-effective uv systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3909.md)
-
 ## Category to which it belongs
 
 * [Air purification technology utilizing ultraviolet germicidal irradiation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_79.md)

@@ -2,3 +2,7 @@
 
 # __Voice recognition&&&voice and face recognition&&&face and voice recognition&&&voice control&&&facial recognition technology&&&acoustic technology&&&sanger technology&&&smartphone’s microphone&&&smartphone’s microphone&&&facial recognition software__
 
+## Link between Blueprint and General ontology
+
+* [Voice recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_263.md)
+

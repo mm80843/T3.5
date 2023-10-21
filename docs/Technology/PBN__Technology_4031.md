@@ -2,3 +2,7 @@
 
 # __Eco-friendly materials&&&sustainable materials&&&recycled materials&&&living materials&&&biocidal products&&&natural materials&&&promotion of recyclable materials&&&anti-microbial materials&&&easy-to-sanitize materials&&&suitable materials__
 
+## Link between Blueprint and General ontology
+
+* [Biodegradable materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_193.md)
+

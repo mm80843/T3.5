@@ -2,3 +2,7 @@
 
 # __Internet of things iot sensors&&&iots&&&iot&&&iot devices&&&iot networks&&&iot sensing infrastructure&&&smart sensors&&&iot protocols&&&internet of things iot&&&sensor technologies__
 
+## Link between Blueprint and General ontology
+
+* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_112.md)
+

@@ -2,10 +2,6 @@
 
 # __Biocidal products__
 
-## Link between Blueprint and General ontology
-
-* [Biocidal agents such as hydrogen peroxide&&&biophilic desing&&&sanitizing products&&&disinfectant products&&&disinfection products&&&biodegradable materials&&&products&&&biophilic design&&&antimicrobial materials&&&biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4028.md)
-
 ## Category to which it belongs
 
 * [Pathogen-fighting solutions that ensure cleanliness and safety on surfaces and in products.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_89.md)

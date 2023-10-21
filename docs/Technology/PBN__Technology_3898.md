@@ -2,3 +2,7 @@
 
 # __Robots&&&robotic assistance in healthcare&&&robotics&&&robot technology&&&robotic systems&&&industrial robots&&&robot systems&&&medical equipment&&&ai in healthcare&&&medical equipment and personnel__
 
+## Link between Blueprint and General ontology
+
+* [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_164.md)
+

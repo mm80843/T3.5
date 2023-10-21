@@ -2,10 +2,6 @@
 
 # __Staff training / upskilling__
 
-## Link between Blueprint and General ontology
-
-* [Medical staff training&&&employee training&&&workforce training&&&staff compartmentalization within zones/cohorts&&&training sessions&&&support to overstretched staff&&&training&&&ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.&&&training programs&&&providing effective guidance and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4172.md)
-
 ## Property: has_BP_InterventionKey
 
 HU3
@@ -17,4 +13,9 @@ Staff training / upskilling
 ## Category to which it belongs
 
 * [Enhancing employee knowledge and skills through training and development programs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_371.md)
+
+## This intervention is used in the following blueprints
+
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
 

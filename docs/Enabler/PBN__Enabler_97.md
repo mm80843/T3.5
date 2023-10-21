@@ -2,10 +2,6 @@
 
 # __Augmented reality__
 
-## Link between Blueprint and General ontology
-
-* [Augmented reality technology&&&augmented / virtual reality&&&virtual reality&&&augmented surveillance systems&&&computer vision&&&camera&&&situated visualization&&&vr devices&&&3d visualization&&&video cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3960.md)
-
 ## Category to which it belongs
 
 * [Immersive digital experiences that blend the real world with computer-generated elements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_87.md)

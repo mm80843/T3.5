@@ -2,3 +2,7 @@
 
 # __Secure protocols&&&blockchain and cryptography&&&authentication protocols&&&blockchain technologies&&&protocols&&&blockchain technology&&&cybersecurity protocols&&&blockchain&&&containment protocols&&&uniformity of protocols__
 
+## Link between Blueprint and General ontology
+
+* [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_104.md)
+

@@ -2,10 +2,6 @@
 
 # __Gps technology__
 
-## Link between Blueprint and General ontology
-
-* [Gps&&&gps location&&&mobile positioning technology&&&location tracking technology&&&positioning technologies&&&tracking technology&&&mobile technology&&&travel tracking systems&&&geolocation data&&&travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3865.md)
-
 ## Category to which it belongs
 
 * [Cutting-edge advancements transforming the way we interact, from smart devices to virtual healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_55.md)

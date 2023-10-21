@@ -2,3 +2,7 @@
 
 # __Telemedicine technologies&&&telemedicine platforms&&&telehealth services&&&telehealth&&&telehealth system&&&telemedicine for remote healthcare&&&use of telemedicine for remote care&&&telehealth solutions&&&telemedicine and mobile health clinics&&&telehealth technology__
 
+## Link between Blueprint and General ontology
+
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_209.md)
+

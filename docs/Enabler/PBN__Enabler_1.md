@@ -2,10 +2,6 @@
 
 # __DigitalPlatform__
 
-## Link between Blueprint and General ontology
-
-* [Digitalization&&&digitalisation&&&expansion of digital&&&digital media&&&digital technology&&&digital techniques&&&digital devices&&&digital tools&&&digital imaging&&&digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3782.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_002

@@ -2,10 +2,6 @@
 
 # __Smartphone applications__
 
-## Link between Blueprint and General ontology
-
-* [Smartphone apps&&&mobile applications&&&smartphone app&&&mobile phone application&&&mobile apps&&&smartphone&&&smartphones&&&mobile app technology&&&apps&&&smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3936.md)
-
 ## Category to which it belongs
 
 * [Pocket-sized devices and their corresponding programs that enable control and functionality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_52.md)

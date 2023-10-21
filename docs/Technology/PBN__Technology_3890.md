@@ -2,3 +2,7 @@
 
 # __Surveillance technology&&&surveillance cameras&&&surveillance technologies&&&advanced surveillance technology&&&video surveillance&&&video surveillance systems&&&surveillance system&&&surveillance systems&&&ip surveillance cameras&&&digital surveillance systems__
 
+## Link between Blueprint and General ontology
+
+* [Surveillance camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_182.md)
+

@@ -2,10 +2,6 @@
 
 # __Renewable energy__
 
-## Link between Blueprint and General ontology
-
-* [Renewable energy technologies&&&renewable energy development&&&renewable energy sources&&&solar energy&&&energy management&&&energy-efficient technologies&&&energy efficiency&&&energy storage&&&energy-efficient technology&&&incentives for energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4020.md)
-
 ## Category to which it belongs
 
 * [Efficiently controlling sustainable power resources and storing energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)

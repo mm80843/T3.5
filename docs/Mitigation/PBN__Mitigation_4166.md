@@ -2,3 +2,7 @@
 
 # __Community-level vector control&&&vector surveillance and control&&&surveillance of vector&&&tick control&&&control&&&mosquito control&&&automatic control&&&drones and robots&&&robots and drones&&&tracking systems__
 
+## Link between Blueprint and General ontology
+
+* [Animal vectors control](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_16.md)
+

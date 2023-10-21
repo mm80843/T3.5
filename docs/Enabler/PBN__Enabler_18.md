@@ -2,10 +2,6 @@
 
 # __3D printing__
 
-## Link between Blueprint and General ontology
-
-* [3d printing technology&&&improved 3d printing technology&&&3d printing for component manufacturing&&&additive manufacturing&&&ordinary printer paper&&&print media&&&3d visualization&&&printing company services&&&advanced manufacturing techniques&&&printing and lamination technologies can be used to create professional signs that are durable and visually appealing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3926.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_019

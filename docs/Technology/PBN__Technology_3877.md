@@ -2,3 +2,7 @@
 
 # __Wearable devices&&&wearable device technology&&&wearable device&&&wearable technology&&&wearables&&&wearable sensors&&&technology devices&&&smart devices&&&digital devices&&&digital and smart devices__
 
+## Link between Blueprint and General ontology
+
+* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_67.md)
+

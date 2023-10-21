@@ -2,3 +2,7 @@
 
 # __Heat treatment&&&enhanced sanitation room&&&improved water treatment&&&regular disinfection of floor surfaces, disinfection of shoe soles&&&improved housing conditions&&&urban housing improvement&&&hygienic building materials&&&thermal treatment&&&wastewater treatment&&&regular and thorough cleaning and disinfection of surfaces.__
 
+## Link between Blueprint and General ontology
+
+* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_14.md)
+

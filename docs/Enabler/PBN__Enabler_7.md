@@ -2,10 +2,6 @@
 
 # __Water sensors__
 
-## Link between Blueprint and General ontology
-
-* [Sensors&&&environmental sensors&&&sensor technology&&&sensor technologies&&&pressure sensors&&&sensor-based technology&&&temperature sensors&&&sensor devices&&&light sensors&&&sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3833.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_008

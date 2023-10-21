@@ -2,3 +2,7 @@
 
 # __Automation technologies&&&automation systems&&&automation&&&automation in production and distribution&&&building automation systems&&&automated devices&&&testing automation&&&smart technology&&&robot technology&&&ai technology__
 
+## Link between Blueprint and General ontology
+
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_172.md)
+

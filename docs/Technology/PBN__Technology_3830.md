@@ -2,3 +2,7 @@
 
 # __Sensor devices&&&sensor technologies&&&sensor technology&&&smart sensors&&&wearable sensors&&&motion sensors&&&environmental sensors&&&input sensors&&&indoor sensors&&&thermal sensors__
 
+## Link between Blueprint and General ontology
+
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_117.md)
+

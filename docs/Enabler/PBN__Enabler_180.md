@@ -2,10 +2,6 @@
 
 # __Video cameras__
 
-## Link between Blueprint and General ontology
-
-* [Cameras&&&cctv cameras&&&surveillance cameras&&&camera&&&video surveillance&&&surveillance camera technology&&&video surveillance systems&&&infrared cameras&&&cctv footage&&&ip surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3888.md)
-
 ## Category to which it belongs
 
 * [Visual surveillance equipment, including cameras and systems, used for capturing and recording images.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_77.md)

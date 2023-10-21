@@ -2,10 +2,6 @@
 
 # __Use of signage__
 
-## Link between Blueprint and General ontology
-
-* [Signage&&&signage materials&&&signage and communication tools&&&digital signage&&&social distancing signage&&&clear signage and reminders&&&signage for social distancing&&&hygiene signage&&&printing and lamination technologies can be used to create professional signs that are durable and visually appealing&&&signs and information boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4035.md)
-
 ## Category to which it belongs
 
 * [Visual display of information, including hygiene reminders, commonly used for communication and wayfinding purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_96.md)

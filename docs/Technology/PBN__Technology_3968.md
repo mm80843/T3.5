@@ -2,3 +2,7 @@
 
 # __Virtual learning technologies&&&digital learning platforms&&&online learning platforms&&&e-learning platforms&&&virtual training tools&&&virtual classrooms&&&educational platforms&&&remote learning platforms&&&platforms and virtual&&&online training platforms__
 
+## Link between Blueprint and General ontology
+
+* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_242.md)
+

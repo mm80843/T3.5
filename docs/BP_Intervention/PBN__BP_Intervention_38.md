@@ -2,10 +2,6 @@
 
 # __Raising awareness__
 
-## Link between Blueprint and General ontology
-
-* [Promoting awareness and education&&&public awareness initiatives&&&public awareness campaigns&&&raise awareness, promote inclusivity and diversity&&&public awareness and education&&&public awareness programs&&&communication and awareness&&&occupant awareness campaigns&&&public awareness and education campaigns&&&training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4188.md)
-
 ## Property: has_BP_InterventionKey
 
 MI3
@@ -17,4 +13,12 @@ Raising awareness
 ## Category to which it belongs
 
 * [Promoting consciousness and understanding.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
+
+## This intervention is used in the following blueprints
+
+* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+* [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
 

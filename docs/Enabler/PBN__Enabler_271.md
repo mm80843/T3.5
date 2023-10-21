@@ -2,10 +2,6 @@
 
 # __Clear signage and reminders__
 
-## Link between Blueprint and General ontology
-
-* [Use of signage&&&signage&&&social distancing signage&&&signage materials&&&signage for social distancing&&&signage and communication tools&&&digital signage&&&hygiene signage&&&signs and information boards&&&promotion of alternative greetings and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4039.md)
-
 ## Category to which it belongs
 
 * [Visual aids and reminders for maintaining distance and communicating information effectively.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_97.md)

@@ -2,10 +2,6 @@
 
 # __Automation__
 
-## Link between Blueprint and General ontology
-
-* [Automation systems&&&automation technology&&&automation technologies&&&testing automation&&&automation in production and distribution&&&automated devices&&&building automation systems&&&automated windows&&&artificial intelligence&&&ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3910.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_017

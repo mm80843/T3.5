@@ -2,10 +2,6 @@
 
 # __Digital media__
 
-## Link between Blueprint and General ontology
-
-* [Media&&&digital technologies&&&digital technology&&&digital communication&&&digital services&&&digitalization&&&digital devices&&&digital infrastructure&&&digital marketing&&&digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3786.md)
-
 ## Category to which it belongs
 
 * [The collection consists of various digital devices and tools including wearable and mobile devices, as well as automated and vr devices, and digital imaging techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_53.md)

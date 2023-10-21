@@ -34,8 +34,8 @@ This blueprint aims to reduce the number of physical contact points in the build
 
 ## Interventions of the blueprint
 
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_5.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_8.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_13.md)
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_15.md)
 
 ## Type of deployment of the blueprint
 

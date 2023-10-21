@@ -2,3 +2,7 @@
 
 # __Drones and robots&&&drones&&&drone technology&&&robots&&&drones for monitoring overcrowding&&&robot systems&&&robotic systems&&&robotics&&&industrial robots&&&risk detection systems and drones__
 
+## Link between Blueprint and General ontology
+
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_13.md)
+

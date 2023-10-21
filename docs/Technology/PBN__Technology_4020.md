@@ -2,3 +2,7 @@
 
 # __Renewable energy technologies&&&renewable energy development&&&renewable energy sources&&&solar energy&&&energy management&&&energy-efficient technologies&&&energy efficiency&&&energy storage&&&energy-efficient technology&&&incentives for energy conservation__
 
+## Link between Blueprint and General ontology
+
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_264.md)
+

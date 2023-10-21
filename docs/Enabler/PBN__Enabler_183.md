@@ -2,10 +2,6 @@
 
 # __Vr devices__
 
-## Link between Blueprint and General ontology
-
-* [Virtual reality&&&virtual experiences&&&augmented / virtual reality&&&digital devices&&&mobile devices&&&wearable devices&&&technology devices&&&virtual personal trainers&&&multimodal devices&&&virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3964.md)
-
 ## Category to which it belongs
 
 * [The collection consists of various digital devices and tools including wearable and mobile devices, as well as automated and vr devices, and digital imaging techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_53.md)

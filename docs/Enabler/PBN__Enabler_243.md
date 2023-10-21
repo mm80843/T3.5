@@ -2,10 +2,6 @@
 
 # __Face recognition__
 
-## Link between Blueprint and General ontology
-
-* [Facial recognition&&&facial recognition systems&&&automated face recognition systems&&&voice and face recognition&&&face and voice recognition&&&facial recognition technology&&&facial recognition software&&&surface classification&&&face orientation&&&computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4008.md)
-
 ## Category to which it belongs
 
 * [Identification through facial and vocal characteristics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_92.md)

@@ -2,10 +2,6 @@
 
 # __Tele-devices__
 
-## Link between Blueprint and General ontology
-
-* [Teleconferencing&&&teleconferencing tools&&&teleconferencing software&&&teleworking&&&telehealth platforms&&&telework&&&secure telepsychiatry platforms&&&telehealth technology&&&telemedicine technologies&&&telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3974.md)
-
 ## Category to which it belongs
 
 * [Digital technologies for remote healthcare, remote work, and virtual communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_81.md)

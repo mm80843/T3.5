@@ -2,3 +2,7 @@
 
 # __Ultraviolet irradiation&&&uv irradiation systems&&&uv-c irradiation&&&uv germicidal irradiation&&&uv radiation&&&uv germicidal irradiation systems&&&ultraviolet germicidal irradiation&&&ultraviolet radiation&&&uv light&&&uv__
 
+## Link between Blueprint and General ontology
+
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_186.md)
+

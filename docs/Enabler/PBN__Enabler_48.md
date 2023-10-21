@@ -2,10 +2,6 @@
 
 # __Iot devices__
 
-## Link between Blueprint and General ontology
-
-* [Iots&&&iot&&&internet of things iot devices&&&iot sensors&&&smart devices&&&purpose-built iot devices&&&iot networks&&&iot protocols&&&iot device manufacturers&&&iot devices for distance monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3819.md)
-
 ## Category to which it belongs
 
 * [A compilation of interconnected devices, networks, sensors, and protocols known as the internet of things iot .](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_63.md)

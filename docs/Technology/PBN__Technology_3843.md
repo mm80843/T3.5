@@ -2,3 +2,7 @@
 
 # __Sensors&&&input sensors&&&water sensors&&&air sensors&&&sensor devices&&&temperature sensors&&&sensor technology&&&motion sensors&&&sensor technologies&&&thermal sensors__
 
+## Link between Blueprint and General ontology
+
+* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
+

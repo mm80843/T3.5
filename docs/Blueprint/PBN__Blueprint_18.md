@@ -44,9 +44,9 @@ Animal vector control methods and technologies are central to preventing the tra
 
 ## Interventions of the blueprint
 
-* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_16.md)
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_17.md)
-* [Animal vectors control](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_30.md)
+* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_14.md)
+* [Animal vectors control](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_16.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_38.md)
 
 ## Type of deployment of the blueprint
 

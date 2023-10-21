@@ -2,10 +2,6 @@
 
 # __Hvac systems with this capability__
 
-## Link between Blueprint and General ontology
-
-* [Hvac systems&&&hvac system&&&hvac technologies&&&hvac technology&&&smart hvac systems&&&enhanced hvac systems&&&such as hvac systems&&&in hvac systems&&&hvac systems with humidity control capabilities&&&smart hvac](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3981.md)
-
 ## Category to which it belongs
 
 * [Intelligent heating, ventilation, and air conditioning systems that have advanced capabilities for improved control and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_66.md)

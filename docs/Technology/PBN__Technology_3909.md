@@ -2,3 +2,7 @@
 
 # __Uvgi systems&&&uvgi&&&uvgi lamps&&&uvc and uvgi lights&&&design and engineering solutions for upper-room uvgi systems&&&uv/uvgi/irradation&&&uv light systems&&&uv lamps&&&ultraviolet uv lamps&&&cost-effective uv systems__
 
+## Link between Blueprint and General ontology
+
+* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_191.md)
+

@@ -2,10 +2,6 @@
 
 # __Data analytics and visualization__
 
-## Link between Blueprint and General ontology
-
-* [Data visualization technology&&&visualization&&&data analytics&&&data visualization platforms&&&data analytics and modeling&&&data analysis&&&data monitoring and analysis systems&&&timeline-based visualization&&&data analysis tools&&&data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3793.md)
-
 ## Category to which it belongs
 
 * [Insights from information through visual representation and interpretation using time-based and context-aware techniques, including computer-based perception.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_57.md)

@@ -2,3 +2,7 @@
 
 # __Ordinary printer paper&&&printing company services&&&3d printing&&&media&&&digital media&&&3d printing technology&&&improved 3d printing technology&&&media monitoring&&&media platforms&&&3d printing for component manufacturing__
 
+## Link between Blueprint and General ontology
+
+* [Print media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_65.md)
+

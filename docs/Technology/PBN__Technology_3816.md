@@ -2,3 +2,7 @@
 
 # __Contract management software&&&blockchain&&&partnership agreements&&&blockchain technologies&&&temporary use agreements&&&contract review systems&&&blockchain technology&&&collaboration agreements&&&blockchain and cryptography&&&procurement__
 
+## Link between Blueprint and General ontology
+
+* [Smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_106.md)
+

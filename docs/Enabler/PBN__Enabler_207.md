@@ -2,10 +2,6 @@
 
 # __Building design__
 
-## Link between Blueprint and General ontology
-
-* [Building systems and design&&&building design and construction techniques&&&building layout and design&&&building design and layout modifications&&&architectural design and building technologies&&&housing and building design&&&architectural design&&&building management systems&&&building materials&&&building information modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4004.md)
-
 ## Category to which it belongs
 
 * [Comprehensive tools for building design, construction, management, and modeling, including bim and building design software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_90.md)

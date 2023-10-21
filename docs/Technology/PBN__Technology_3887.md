@@ -2,3 +2,7 @@
 
 # __Cctv cameras&&&cctv systems&&&cctv footage&&&television&&&image acquisition & cctv&&&video surveillance&&&cameras&&&surveillance&&&surveillance cameras&&&video cameras__
 
+## Link between Blueprint and General ontology
+
+* [Cctv](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_179.md)
+

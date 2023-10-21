@@ -2,3 +2,7 @@
 
 # __Ai technology&&&artificial intelligence ai&&&artificial intelligence&&&ai tools&&&ai algorithms&&&ai/ml&&&ai in healthcare&&&robots&&&ai support systems&&&ai triage systems__
 
+## Link between Blueprint and General ontology
+
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_166.md)
+

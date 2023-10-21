@@ -2,10 +2,6 @@
 
 # __AI/ML__
 
-## Link between Blueprint and General ontology
-
-* [Artificial intelligence and ml&&&ai&&&ml&&&artificial intelligence ai&&&ai algorithms&&&ai technology&&&artificial intelligence&&&ai tools&&&ai in healthcare&&&artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3849.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_009

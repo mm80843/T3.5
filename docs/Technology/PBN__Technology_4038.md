@@ -2,3 +2,7 @@
 
 # __Social distancing signage&&&use of signage&&&signage&&&social distancing&&&signage and communication tools&&&clear signage and reminders&&&social distancing technologies&&&social distancing measures&&&digital signage&&&social distancing apps__
 
+## Link between Blueprint and General ontology
+
+* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_234.md)
+

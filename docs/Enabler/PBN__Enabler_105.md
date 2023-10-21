@@ -2,10 +2,6 @@
 
 # __Blockchain technology for supply chain transparency__
 
-## Link between Blueprint and General ontology
-
-* [Supply chain visibility technologies&&&blockchain technology&&&blockchain technologies&&&supply chain tracking technologies&&&supply chain management technologies&&&blockchain&&&supply chains&&&digital supply chain platforms&&&supply chain management&&&digital supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3815.md)
-
 ## Category to which it belongs
 
 * [Tools and technology for visualizing and enhancing transparency in the supply chain process.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_60.md)

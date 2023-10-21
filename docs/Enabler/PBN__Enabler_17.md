@@ -2,10 +2,6 @@
 
 # __Telemedecine__
 
-## Link between Blueprint and General ontology
-
-* [Telemedicine&&&telehealth services&&&telehealth&&&telemedicine for remote healthcare&&&telemedicine technologies&&&telemedicine platforms&&&telehealth system&&&telehealth solutions&&&telehealth platforms&&&telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3919.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_018

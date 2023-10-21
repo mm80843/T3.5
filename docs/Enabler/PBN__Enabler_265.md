@@ -2,10 +2,6 @@
 
 # __Energy storage__
 
-## Link between Blueprint and General ontology
-
-* [Energy storage systems&&&energy management&&&backup energy source&&&renewable energy&&&energy-efficient technologies&&&energy management systems&&&energy-efficient technology&&&water storage&&&cold storage facilities&&&energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4022.md)
-
 ## Category to which it belongs
 
 * [Efficiently controlling sustainable power resources and storing energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)

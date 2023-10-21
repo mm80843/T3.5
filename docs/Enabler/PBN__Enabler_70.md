@@ -2,10 +2,6 @@
 
 # __Big data analytics__
 
-## Link between Blueprint and General ontology
-
-* [Big-data analytics&&&big data&&&data analytics&&&social media analytics&&&big data analytics nan platforms&&&big urban data&&&data analytics platforms&&&data analytics and modeling&&&bigdata&&&data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3794.md)
-
 ## Category to which it belongs
 
 * [Harnessing and analyzing extensive amounts of information, both structured and unstructured, for insights and patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_58.md)

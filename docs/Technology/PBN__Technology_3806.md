@@ -2,3 +2,7 @@
 
 # __Visualization&&&data visualization technology&&&graph-based structure&&&data analytics and visualization&&&infographics&&&timeline-based visualization&&&3d visualization&&&data visualization platforms&&&vector-based&&&image processing__
 
+## Link between Blueprint and General ontology
+
+* [Graphical representation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_91.md)
+

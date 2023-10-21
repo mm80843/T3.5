@@ -2,3 +2,7 @@
 
 # __New delivery systems&&&online delivery platforms&&&logistics providers&&&transportation services&&&digital services&&&logistics&&&coordinated services&&&food delivery apps&&&logistics systems&&&support services__
 
+## Link between Blueprint and General ontology
+
+* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_235.md)
+

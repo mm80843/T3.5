@@ -2,10 +2,6 @@
 
 # __Disinfection of air__
 
-## Link between Blueprint and General ontology
-
-* [Air disinfection strategies&&&disinfection of indoor air&&&uv air disinfection&&&upper room guv air disinfection&&&disinfection&&&disinfection of objects&&&physical disinfection&&&surface disinfection&&&regular cleaning and disinfection, proper ventilation and air filtration systems&&&disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4156.md)
-
 ## Property: has_BP_InterventionKey
 
 PA7
@@ -17,4 +13,8 @@ Disinfection of air
 ## Category to which it belongs
 
 * [Air purification for hygiene purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
+
+## This intervention is used in the following blueprints
+
+* [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
 

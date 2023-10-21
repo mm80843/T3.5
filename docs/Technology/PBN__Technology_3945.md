@@ -2,3 +2,7 @@
 
 # __Collaborative platforms and networks&&&social networks&&&collaborative platforms&&&collaborative tools&&&network of partners&&&collaboration&&&collaboration platforms&&&collaboration among experts from various fields&&&research collaborations&&&knowledge sharing__
 
+## Link between Blueprint and General ontology
+
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_232.md)
+

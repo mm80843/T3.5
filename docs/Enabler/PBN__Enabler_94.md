@@ -2,10 +2,6 @@
 
 # __Supply chain mapping and visualization tools__
 
-## Link between Blueprint and General ontology
-
-* [Supply chain management tools&&&supply chain management systems and tools&&&supply chain design software&&&supply chain management software&&&supply chain management&&&supply chains&&&supply chain management systems&&&supply chain monitoring&&&supply chain management technologies&&&supply chain risk analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3809.md)
-
 ## Category to which it belongs
 
 * [Tools and technology for visualizing and enhancing transparency in the supply chain process.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_60.md)

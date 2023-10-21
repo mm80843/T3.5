@@ -2,3 +2,7 @@
 
 # __Broadband connection&&&broadband access&&&internet connectivity&&&internet connection&&&internet access&&&high-speed internet&&&telecommunication technology internet&&&internet&&&improved internet infrastructure&&&internet-connected devices__
 
+## Link between Blueprint and General ontology
+
+* [Broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_40.md)
+

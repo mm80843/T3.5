@@ -2,3 +2,7 @@
 
 # __Signage&&&signage and communication tools&&&use of signage&&&signage materials&&&social distancing signage&&&signage for social distancing&&&clear signage and reminders&&&hygiene signage&&&digital signatures&&&signs and information boards__
 
+## Link between Blueprint and General ontology
+
+* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_31.md)
+

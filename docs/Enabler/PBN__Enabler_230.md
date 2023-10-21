@@ -2,10 +2,6 @@
 
 # __Food delivery apps__
 
-## Link between Blueprint and General ontology
-
-* [Food supply technology&&&online food platforms&&&local food supply&&&food production and distribution systems&&&delivery services&&&data-driven food supply management systems&&&online delivery platforms&&&new delivery systems&&&apps&&&mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3958.md)
-
 ## Category to which it belongs
 
 * [Modern methods of distributing goods and services through digital platforms and apps.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_84.md)

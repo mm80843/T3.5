@@ -2,3 +2,7 @@
 
 # __Augmented / virtual reality&&&virtual experiences&&&augmented reality&&&vr devices&&&augmented reality technology&&&virtual learning technologies&&&virtual classrooms&&&computer vision&&&virtual exhibitions&&&virtual tours__
 
+## Link between Blueprint and General ontology
+
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_238.md)
+

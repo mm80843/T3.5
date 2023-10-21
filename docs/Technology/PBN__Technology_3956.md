@@ -2,3 +2,7 @@
 
 # __Digital supply chain management&&&supply chain management platforms&&&supply chains&&&supply chain management technologies&&&digital platforms&&&supply chain management systems&&&digital platforms for resource allocation and distribution&&&supply chain management systems and tools&&&supply chain management&&&supply chain tracking technologies__
 
+## Link between Blueprint and General ontology
+
+* [Digital supply chain platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_64.md)
+

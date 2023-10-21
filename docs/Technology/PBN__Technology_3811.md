@@ -2,3 +2,7 @@
 
 # __Blockchain technologies&&&blockchain&&&blockchain and cryptography&&&blockchain technology for supply chain transparency&&&blockchain security protocols&&&financial technology&&&information technology&&&technology&&&digital technology&&&smart technology__
 
+## Link between Blueprint and General ontology
+
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_101.md)
+

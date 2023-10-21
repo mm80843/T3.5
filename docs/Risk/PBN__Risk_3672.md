@@ -2,3 +2,7 @@
 
 # __Transmission, detection&&&proprietary monitoring systems&&&monitoring mobility&&&implementation of contact tracing and testing&&&virus propagation&&&environmental and outdoor monitoring&&&preventing virus propagation&&&remote monitoring&&&limited monitoring&&&regular testing and contact tracing__
 
+## Link between Blueprint and General ontology
+
+* [Propagation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_7.md)
+

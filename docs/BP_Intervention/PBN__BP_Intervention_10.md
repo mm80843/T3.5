@@ -2,10 +2,6 @@
 
 # __Separate water facilities (toilets/bathrooms for contaminated)__
 
-## Link between Blueprint and General ontology
-
-* [Sanitation facilities&&&water and sanitary system safety&&&separate sanitation area&&&safe water access and hygiene practices&&&provision of safe water, sanitation, and hygienic conditions&&&improved water storage and sanitation&&&enhance water treatment processes, implement effective sanitation measures&&&safe water, sanitation, and hygiene&&&lack of sanitation in shared spaces&&&environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4160.md)
-
 ## Property: has_BP_InterventionKey
 
 PW3

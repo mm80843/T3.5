@@ -2,10 +2,6 @@
 
 # __Social distancing__
 
-## Link between Blueprint and General ontology
-
-* [Importance of social distancing&&&maintaining social distancing&&&social distancing measures&&&inadequate social distancing&&&social distancing impact&&&insufficient social distancing&&&lack of proper social distancing&&&temporary social-distancing measures&&&social distancing challenges&&&improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4170.md)
-
 ## Property: has_BP_InterventionKey
 
 HU1
@@ -17,4 +13,11 @@ Social distancing
 ## Category to which it belongs
 
 * [Physical separation for safety purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
+
+## This intervention is used in the following blueprints
+
+* [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_4.md)
+* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
+* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
 

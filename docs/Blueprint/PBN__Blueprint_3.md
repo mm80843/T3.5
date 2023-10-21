@@ -36,10 +36,10 @@ In this scenario, the application of IoT in this type of system enables the coll
 
 ## Interventions of the blueprint
 
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_10.md)
-* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_11.md)
-* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_12.md)
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_13.md)
+* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_0.md)
+* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_1.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_3.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_25.md)
 
 ## Type of deployment of the blueprint
 

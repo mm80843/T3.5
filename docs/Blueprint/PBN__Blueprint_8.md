@@ -29,10 +29,10 @@ The idea is to turn high-traffic points into hubs of a networked system for comm
 
 ## Interventions of the blueprint
 
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_17.md)
-* [Prevent fake news](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_18.md)
-* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_19.md)
-* [Promote verified information](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_20.md)
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_36.md)
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_37.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_38.md)
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_39.md)
 
 ## Type of deployment of the blueprint
 

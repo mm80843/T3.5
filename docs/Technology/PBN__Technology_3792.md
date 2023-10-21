@@ -2,3 +2,7 @@
 
 # __Data analytics and modeling&&&data analytics and visualization&&&big data analytics&&&data analysis&&&data mining&&&social media analytics&&&big-data analytics&&&data analytics platforms&&&data analysis technology&&&data science__
 
+## Link between Blueprint and General ontology
+
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
+

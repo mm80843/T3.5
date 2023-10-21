@@ -2,10 +2,6 @@
 
 # __Medical robots__
 
-## Link between Blueprint and General ontology
-
-* [Robots&&&robotic assistance in healthcare&&&robotics&&&robot technology&&&robotic systems&&&industrial robots&&&robot systems&&&medical equipment&&&ai in healthcare&&&medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3898.md)
-
 ## Category to which it belongs
 
 * [Automated machines and technology used in various fields like medicine, industry, and social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_72.md)

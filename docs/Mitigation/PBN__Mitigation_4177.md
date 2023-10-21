@@ -2,3 +2,7 @@
 
 # __Physical exercise&&&physical activity&&&physical health technologies&&&moderate physical exercise&&&regular physical activity&&&physical and mental health&&&health system strengthening&&&promotion of healthier lifestyles&&&learning new physical skills&&&physical activity promotion strategies__
 
+## Link between Blueprint and General ontology
+
+* [Improve physical health](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_27.md)
+

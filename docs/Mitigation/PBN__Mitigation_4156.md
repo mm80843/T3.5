@@ -2,3 +2,7 @@
 
 # __Air disinfection strategies&&&disinfection of indoor air&&&uv air disinfection&&&upper room guv air disinfection&&&disinfection&&&disinfection of objects&&&physical disinfection&&&surface disinfection&&&regular cleaning and disinfection, proper ventilation and air filtration systems&&&disinfection processes__
 
+## Link between Blueprint and General ontology
+
+* [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_6.md)
+

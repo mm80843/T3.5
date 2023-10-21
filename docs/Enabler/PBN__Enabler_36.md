@@ -2,10 +2,6 @@
 
 # __Cellular network__
 
-## Link between Blueprint and General ontology
-
-* [Small cell networks&&&telephone network&&&telecommunication networks&&&5g technology&&&telecommunication&&&telecommunication technology internet&&&telecommunication technology&&&telecommunication infrastructure&&&mobile phones&&&connectivity technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3777.md)
-
 ## Category to which it belongs
 
 * [Next-level high-speed connectivity revolutionizing wireless communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_51.md)

@@ -2,10 +2,6 @@
 
 # __Monitor and control indoor air quality__
 
-## Link between Blueprint and General ontology
-
-* [Monitoring and control of indoor air quality&&&monitor and control indoor air pollution&&&indoor air quality monitoring&&&indoor air quality control&&&monitoring air quality&&&monitor air conditions&&&outdoor air quality control&&&implement iaq monitoring systems to continuously measure and analyze indoor air quality parameters.&&&indoor air quality&&&improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4153.md)
-
 ## Property: has_BP_InterventionKey
 
 PA4
@@ -17,4 +13,10 @@ Monitor and control indoor air quality
 ## Category to which it belongs
 
 * [Ensuring optimal indoor air conditions through supervision and regulation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
+
+## This intervention is used in the following blueprints
+
+* [Indoor environmental quality ieq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
+* [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
 

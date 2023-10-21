@@ -2,3 +2,7 @@
 
 # __Providing personal protective equipment&&&use of personal protective equipment&&&implementing personal protective equipment&&&personal protective equipment&&&using appropriate protective equipment&&&use of personal protective equipment in care facilities&&&personal protective equipment ppe use&&&distribution of personal protective equipment&&&smart personal protective equipment&&&providing additional personal protective equipment ppe to workers__
 
+## Link between Blueprint and General ontology
+
+* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_23.md)
+

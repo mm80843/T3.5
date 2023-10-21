@@ -2,10 +2,6 @@
 
 # __Disease Diagnostic Test Kits__
 
-## Link between Blueprint and General ontology
-
-* [Diagnostic testing kits&&&diagnostic testing technologies&&&testing and diagnostic technologies&&&diagnostic testing&&&diagnostic tests&&&testing kits&&&test kits&&&diagnostic testing systems&&&diagnostic testing equipment and supplies&&&diagnostic and testing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4041.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_033

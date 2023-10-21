@@ -2,3 +2,7 @@
 
 # __Virtual tours&&&promotion of virtual tours and classes&&&virtual tourism platforms&&&virtual reality&&&virtual experiences&&&virtual meetings&&&augmented / virtual reality&&&virtual personal trainers&&&virtual meeting platforms&&&digital signage__
 
+## Link between Blueprint and General ontology
+
+* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_241.md)
+

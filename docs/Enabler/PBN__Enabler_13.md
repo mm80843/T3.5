@@ -2,10 +2,6 @@
 
 # __Robots, Drones & Automated Vehicules__
 
-## Link between Blueprint and General ontology
-
-* [Drones and robots&&&drones&&&drone technology&&&robots&&&drones for monitoring overcrowding&&&robot systems&&&robotic systems&&&robotics&&&industrial robots&&&risk detection systems and drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3837.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_014

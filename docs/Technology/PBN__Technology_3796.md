@@ -2,3 +2,7 @@
 
 # __Data analytics&&&machine learning&&&machine learning algorithms&&&data mining techniques and health data&&&data analysis algorithms&&&data analysis&&&data science&&&spatial data mining&&&data analytics and modeling&&&data analysis and modeling techniques__
 
+## Link between Blueprint and General ontology
+
+* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_72.md)
+

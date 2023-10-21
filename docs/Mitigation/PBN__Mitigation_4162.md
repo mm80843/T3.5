@@ -2,3 +2,7 @@
 
 # __Enhanced cleaning practices&&&advanced cleaning techniques&&&enhanced cleaning protocols&&&proper cleaning protocols&&&surface cleaning&&&surface cleaning protocols&&&self-cleaning spaces&&&routine cleaning&&&regular cleaning and maintenance&&&enhanced cleaning__
 
+## Link between Blueprint and General ontology
+
+* [Cleaning technologies (robots)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_12.md)
+

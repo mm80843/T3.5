@@ -2,3 +2,7 @@
 
 # __Digitalization&&&digital technology&&&digital technologies&&&expansion of digital&&&digital techniques&&&digital infrastructure&&&digital services&&&digital platforms&&&digital media&&&digital devices__
 
+## Link between Blueprint and General ontology
+
+* [Digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_56.md)
+

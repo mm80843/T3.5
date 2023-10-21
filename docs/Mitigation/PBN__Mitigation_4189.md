@@ -2,3 +2,7 @@
 
 # __Promote fact-checking and accuracy in sharing information, educate the public on reliable sources&&&promote reliable sources&&&promoting trust and countering misinformation&&&promote transparent communication and accurate reporting; combat misinformation through fact-checking and verification systems&&&promote reliable and verifiable sources of information; educate the public on how to critically evaluate information; combat misinformation through fact-checking and debunking.&&&promote fact-checking and reliable sources&&&develop interventions to reduce the spread of misinformation, educate the public on how to verify information sources&&&promote accurate and timely information, combat misinformation&&&provide accurate and evidence-based information through trusted sources&&&fact-checking and information verification__
 
+## Link between Blueprint and General ontology
+
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_39.md)
+

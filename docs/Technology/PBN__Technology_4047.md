@@ -2,3 +2,7 @@
 
 # __Test kits&&&rapid testing kits&&&diagnostic testing kits&&&increased production and distribution of testing kits&&&testing equipment&&&disease diagnostic test kits&&&testing technologies&&&testing technology&&&testing&&&testing facilities__
 
+## Link between Blueprint and General ontology
+
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_202.md)
+

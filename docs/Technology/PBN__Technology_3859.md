@@ -2,3 +2,7 @@
 
 # __Data collection technologies&&&data collection and analysis&&&data collection tools&&&digital data collection systems&&&data collection and analysis technologies&&&data collection and analysis methods&&&research and data collection methods&&&efficient data collection and processing methods&&&local data collection methods&&&data collection and analysis tools__
 
+## Link between Blueprint and General ontology
+
+* [Data collection](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_85.md)
+

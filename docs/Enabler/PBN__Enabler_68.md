@@ -2,10 +2,6 @@
 
 # __Wearable devices__
 
-## Link between Blueprint and General ontology
-
-* [Wearable device&&&wearable electronic devices&&&wearable device technology&&&wearables&&&wearable technology&&&wearable sensors&&&smart devices&&&subsidized access to wearable devices&&&technology devices&&&mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3874.md)
-
 ## Category to which it belongs
 
 * [The collection consists of various digital devices and tools including wearable and mobile devices, as well as automated and vr devices, and digital imaging techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_53.md)

@@ -2,3 +2,7 @@
 
 # __Data analysis algorithms&&&statistical analysis&&&data collection and analysis&&&modeling and data analysis&&&data analytics&&&data analysis and modeling techniques&&&data collection and analysis methods&&&data analysis technology&&&real-time data analysis&&&data science__
 
+## Link between Blueprint and General ontology
+
+* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_71.md)
+

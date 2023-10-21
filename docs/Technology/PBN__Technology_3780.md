@@ -2,3 +2,7 @@
 
 # __Internet and wi-fi networks&&&wireless communication&&&internet connection&&&internet&&&internet connectivity&&&internet of things&&&internet access&&&5g&&&free wi-fi hotspots&&&internet-connected devices__
 
+## Link between Blueprint and General ontology
+
+* [Wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_39.md)
+

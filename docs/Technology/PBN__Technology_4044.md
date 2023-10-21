@@ -2,3 +2,7 @@
 
 # __Diagnostic testing technologies&&&diagnostic testing&&&diagnostic testing systems&&&diagnostic and testing tools&&&diagnostic tests&&&diagnostic testing kits&&&testing technology&&&testing technologies&&&diagnostic devices&&&diagnostic testing equipment and supplies__
 
+## Link between Blueprint and General ontology
+
+* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_274.md)
+

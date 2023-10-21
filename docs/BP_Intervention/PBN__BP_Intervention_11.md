@@ -2,10 +2,6 @@
 
 # __Greywater management__
 
-## Link between Blueprint and General ontology
-
-* [Water management&&&sustainable water management&&&water quality management&&&wastewater management&&&environmental management&&&digital revolution in water management&&&ensure access to clean drinking water, improve wastewater treatment and management systems.&&&provision of water infrastructure&&&improved water storage and sanitation&&&wastewater-based surveillance wbs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4161.md)
-
 ## Property: has_BP_InterventionKey
 
 PW4
@@ -17,4 +13,8 @@ Greywater management
 ## Category to which it belongs
 
 * [Efficient reuse and recycling of domestic wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
+
+## This intervention is used in the following blueprints
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
 

@@ -2,3 +2,7 @@
 
 # __3d printing&&&3d printing technology&&&improved 3d printing technology&&&additive manufacturing&&&advanced manufacturing techniques&&&flexible production technologies&&&ordinary printer paper&&&manufacturing capabilities&&&manufacturing companies&&&building material technologies__
 
+## Link between Blueprint and General ontology
+
+* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_221.md)
+

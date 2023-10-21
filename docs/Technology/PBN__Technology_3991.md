@@ -2,3 +2,7 @@
 
 # __Antimicrobial surfaces&&&antimicrobial materials&&&anti-microbial materials&&&antimicrobial coatings for surfaces&&&anti-bacterial materials&&&selection of anti-microbial materials&&&antimicrobial coating&&&antimicrobial coatings&&&covering high-touch surfaces with antimicrobial material&&&antimicrobial paint__
 
+## Link between Blueprint and General ontology
+
+* [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_250.md)
+

@@ -29,9 +29,9 @@ A high level of hand hygiene is a well-known and proven measure to prevent the t
 
 ## Interventions of the blueprint
 
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_17.md)
-* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_23.md)
-* [Personal hygiene eg handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_24.md)
+* [Personal hygiene (eg handwashing)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_21.md)
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_22.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_38.md)
 
 ## Type of deployment of the blueprint
 

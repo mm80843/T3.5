@@ -27,8 +27,8 @@ Considering that during the pandemic many public facilities remained closed for 
 
 ## Interventions of the blueprint
 
-* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_28.md)
-* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_32.md)
+* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_8.md)
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_9.md)
 
 ## Type of deployment of the blueprint
 

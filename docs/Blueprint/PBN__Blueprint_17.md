@@ -33,12 +33,12 @@ Already a year ago, the European Commission recommended that EU member states se
 
 ## Interventions of the blueprint
 
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_3.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_4.md)
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_26.md)
-* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_27.md)
-* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_28.md)
-* [Greywater management](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_29.md)
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_9.md)
+* [Greywater management](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_11.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_29.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_30.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_31.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_32.md)
 
 ## Type of deployment of the blueprint
 

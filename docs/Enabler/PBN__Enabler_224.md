@@ -2,10 +2,6 @@
 
 # __Augmented reality technology__
 
-## Link between Blueprint and General ontology
-
-* [Augmented reality&&&augmented / virtual reality&&&virtual reality&&&augmented surveillance systems&&&technology&&&information technology&&&digital technology&&&computer vision&&&tracking technology&&&vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3961.md)
-
 ## Category to which it belongs
 
 * [Cutting-edge advancements transforming the way we interact, from smart devices to virtual healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_55.md)

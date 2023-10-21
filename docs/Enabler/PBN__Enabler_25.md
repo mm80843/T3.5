@@ -2,10 +2,6 @@
 
 # __HEPA Filters__
 
-## Link between Blueprint and General ontology
-
-* [Implementation of hepa filters&&&air purifiers with hepa filters&&&air purifier with hepa filters&&&hvac systems with hepa filters&&&high-efficiency particulate air hepa filters&&&portable air purifiers with hepa filters&&&negative air machines with hepa filters&&&filters&&&air filters&&&water filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3836.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_026

@@ -29,9 +29,9 @@ It is well known that physical activity or exercise is essential for improving a
 
 ## Interventions of the blueprint
 
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_10.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_25.md)
-* [Improve physical health](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_33.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_25.md)
+* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_26.md)
+* [Improve physical health](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_27.md)
 
 ## Type of deployment of the blueprint
 

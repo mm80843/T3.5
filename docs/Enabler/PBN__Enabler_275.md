@@ -2,10 +2,6 @@
 
 # __Diagnostic tests__
 
-## Link between Blueprint and General ontology
-
-* [Diagnostic testing&&&rapid diagnostic tests&&&diagnostic testing systems&&&diagnostic testing technologies&&&testing and diagnostic technologies&&&diagnostic and testing tools&&&diagnostic testing kits&&&enhanced diagnostic techniques&&&diagnostic tools&&&improved diagnostic testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4046.md)
-
 ## Category to which it belongs
 
 * [Tools to identify and analyze health conditions accurately and efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_99.md)

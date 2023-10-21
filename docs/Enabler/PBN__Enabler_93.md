@@ -2,10 +2,6 @@
 
 # __Infographics__
 
-## Link between Blueprint and General ontology
-
-* [Visualization&&&information resources&&&graphical representation&&&data visualization technology&&&data analytics and visualization&&&situated visualization&&&information brochures&&&data visualization platforms&&&3d visualization&&&information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3808.md)
-
 ## Category to which it belongs
 
 * [Harnessing and presenting data insights through modern technology and visual representation techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_56.md)

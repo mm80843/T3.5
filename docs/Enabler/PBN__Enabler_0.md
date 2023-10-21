@@ -2,10 +2,6 @@
 
 # __5G__
 
-## Link between Blueprint and General ontology
-
-* [4g&&&5g technology&&&fifth-generation wireless networks&&&cellular network&&&mobile phones&&&massive mimo&&&wi-fi&&&broadband internet&&&l5go networks&&&wireless data transmission 3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3773.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_001

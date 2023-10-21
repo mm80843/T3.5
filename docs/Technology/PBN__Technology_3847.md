@@ -2,3 +2,7 @@
 
 # __Sensors&&&daylight sensors&&&sensor technologies&&&beam sensors&&&sensor technology&&&sensor devices&&&water sensors&&&motion sensors&&&smart sensors&&&indoor sensors__
 
+## Link between Blueprint and General ontology
+
+* [Light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_130.md)
+

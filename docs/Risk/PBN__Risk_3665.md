@@ -2,3 +2,7 @@
 
 # __Poor air quality&&&air pollution&&&air quality monitoring&&&inadequate indoor air quality&&&poor indoor air quality&&&low indoor air quality&&&poor ventilation and air quality&&&lack of adequate indoor air quality&&&hvac and air quality systems&&&high air pollution levels__
 
+## Link between Blueprint and General ontology
+
+* [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_0.md)
+

@@ -2,3 +2,7 @@
 
 # __Air quality sensors&&&air pollution monitoring systems&&&indoor air quality sensors&&&air sensors&&&smart sensors for monitoring air quality&&&air quality monitoring&&&air quality monitoring systems&&&outdoor air monitoring&&&environmental sensors&&&environmental monitoring and pollution control technologies__
 
+## Link between Blueprint and General ontology
+
+* [Air pollution sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_120.md)
+

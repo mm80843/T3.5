@@ -2,10 +2,6 @@
 
 # __Air Sensors__
 
-## Link between Blueprint and General ontology
-
-* [Air quality sensors&&&air pollution sensors&&&indoor air quality sensors&&&outdoor air monitoring&&&sensors&&&smart sensors for monitoring air quality&&&indoor air technologies&&&air filters&&&air circulation devices&&&indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3825.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_007

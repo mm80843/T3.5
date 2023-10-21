@@ -28,10 +28,10 @@ The COVID-19 pandemic has greatly impacted densely populated areas. It is recogn
 
 ## Interventions of the blueprint
 
-* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_7.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_8.md)
-* [Greenery](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_9.md)
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_10.md)
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_15.md)
+* [Greenery](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_24.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_25.md)
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_28.md)
 
 ## Type of deployment of the blueprint
 

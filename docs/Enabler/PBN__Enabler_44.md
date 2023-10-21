@@ -2,10 +2,6 @@
 
 # __Smartphone technology__
 
-## Link between Blueprint and General ontology
-
-* [Mobile technology&&&smartphone&&&smartphones&&&smartphone applications&&&mobile app technology&&&mobile phones&&&mobile devices&&&smartphone app&&&smartphone control systems&&&smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3934.md)
-
 ## Category to which it belongs
 
 * [Cutting-edge advancements transforming the way we interact, from smart devices to virtual healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_55.md)

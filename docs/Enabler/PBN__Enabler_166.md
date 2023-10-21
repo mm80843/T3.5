@@ -2,10 +2,6 @@
 
 # __Ai__
 
-## Link between Blueprint and General ontology
-
-* [Ai technology&&&artificial intelligence ai&&&artificial intelligence&&&ai tools&&&ai algorithms&&&ai/ml&&&ai in healthcare&&&robots&&&ai support systems&&&ai triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3851.md)
-
 ## Category to which it belongs
 
 * [Autonomous computing systems that learn and make decisions based on data and algorithms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_73.md)

@@ -2,10 +2,6 @@
 
 # __Cctv__
 
-## Link between Blueprint and General ontology
-
-* [Cctv cameras&&&cctv systems&&&cctv footage&&&television&&&image acquisition & cctv&&&video surveillance&&&cameras&&&surveillance&&&surveillance cameras&&&video cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3887.md)
-
 ## Category to which it belongs
 
 * [Visual surveillance equipment, including cameras and systems, used for capturing and recording images.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_77.md)

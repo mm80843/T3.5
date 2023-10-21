@@ -2,10 +2,6 @@
 
 # __Infection tracking / monitoring__
 
-## Link between Blueprint and General ontology
-
-* [Tracing and tracking of infected individuals&&&infectious disease monitoring&&&real-time tracking of infected patients&&&remote monitoring of infected patients&&&smart tracking of infected persons&&&outbreak tracking&&&infection control&&&health monitoring&&&infectious agents management&&&quarantine monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4179.md)
-
 ## Property: has_BP_InterventionKey
 
 MP1
@@ -17,4 +13,9 @@ Infection tracking / monitoring
 ## Category to which it belongs
 
 * [Disease surveillance for identifying and observing the spread of infections.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
+
+## This intervention is used in the following blueprints
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
 

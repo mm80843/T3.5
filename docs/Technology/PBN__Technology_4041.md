@@ -2,3 +2,7 @@
 
 # __Diagnostic testing kits&&&diagnostic testing technologies&&&testing and diagnostic technologies&&&diagnostic testing&&&diagnostic tests&&&testing kits&&&test kits&&&diagnostic testing systems&&&diagnostic testing equipment and supplies&&&diagnostic and testing tools__
 
+## Link between Blueprint and General ontology
+
+* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_32.md)
+

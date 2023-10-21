@@ -2,3 +2,7 @@
 
 # __Antimicrobial coating&&&antimicrobial coatings for surfaces&&&antimicrobial surface materials&&&antimicrobial materials&&&antimicrobial surfaces&&&anti-microbial materials&&&antimicrobial paint&&&anti-bacterial materials&&&surface coatings&&&selection of anti-microbial materials__
 
+## Link between Blueprint and General ontology
+
+* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_248.md)
+

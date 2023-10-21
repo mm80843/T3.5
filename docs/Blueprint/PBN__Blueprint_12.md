@@ -28,11 +28,11 @@ Even before the recent pandemic, most employers have developed strategies and to
 
 ## Interventions of the blueprint
 
-* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_2.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_4.md)
-* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_6.md)
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_17.md)
-* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_23.md)
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_22.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_32.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_34.md)
+* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_35.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_38.md)
 
 ## Type of deployment of the blueprint
 

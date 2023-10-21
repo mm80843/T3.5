@@ -2,3 +2,7 @@
 
 # __Optimization-based people flow&&&temporary use strategies&&&increased cleaning protocols&&&enhanced cleaning protocols&&&proper cleaning protocols&&&implement proper disinfection measures&&&improving access to safe drinking water&&&improved sanitation and cleaning protocols&&&access to adequate sanitation&&&sanitation protocols__
 
+## Link between Blueprint and General ontology
+
+* [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_17.md)
+

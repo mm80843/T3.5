@@ -2,10 +2,6 @@
 
 # __Water quality__
 
-## Link between Blueprint and General ontology
-
-* [Water quality and availability&&&water contamination&&&poor quality drinking water, lack of proper wastewater management&&&water and sanitation&&&poor environmental quality&&&inadequate water storage, poor sanitation&&&water&&&inadequate water and sanitation facilities&&&drinking water treatment and distribution&&&water safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3666.md)
-
 ## Property: has_BP_ThemeTitle
 
 theme_Water_Quality

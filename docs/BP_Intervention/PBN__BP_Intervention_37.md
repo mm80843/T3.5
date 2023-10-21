@@ -2,10 +2,6 @@
 
 # __Facilitate transparent communication__
 
-## Link between Blueprint and General ontology
-
-* [Clear and transparent communication&&&clear and inclusive communication&&&clear communication&&&facilitating transparent communication and preventing spread of fake news&&&enhanced communication&&&clear and accurate communication&&&communication&&&clear communication channels&&&implement effective communication&&&information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4187.md)
-
 ## Property: has_BP_InterventionKey
 
 MI2
@@ -17,4 +13,8 @@ Facilitate transparent communication
 ## Category to which it belongs
 
 * [Enable open and clear interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_386.md)
+
+## This intervention is used in the following blueprints
+
+* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
 

@@ -29,10 +29,10 @@ UV is one of the most common environmental control measures for elimination of m
 
 ## Interventions of the blueprint
 
-* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_12.md)
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_13.md)
-* [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_21.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_22.md)
+* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_0.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_2.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_3.md)
+* [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_6.md)
 
 ## Type of deployment of the blueprint
 

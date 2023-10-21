@@ -2,3 +2,7 @@
 
 # __Control environmental conditions&&&environmental controls&&&outdoor air quality control&&&environmental measures&&&environmental management&&&improved understanding of indoor and outdoor environmental parameters&&&indoor air quality control&&&climate control in indoor environments&&&humidity control&&&strengthen protection of environment__
 
+## Link between Blueprint and General ontology
+
+* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_1.md)
+

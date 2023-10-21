@@ -2,3 +2,7 @@
 
 # __Logistics&&&logistics systems&&&advanced logistics systems&&&logistics providers&&&improving supply chain management&&&new delivery systems&&&supply chain management&&&supply chain optimization&&&supply chains&&&supply chain management technologies__
 
+## Link between Blueprint and General ontology
+
+* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_225.md)
+

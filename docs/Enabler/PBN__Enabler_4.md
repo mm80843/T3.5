@@ -2,10 +2,6 @@
 
 # __Blockchain__
 
-## Link between Blueprint and General ontology
-
-* [Blockchain technology&&&blockchain technologies&&&blockchain and cryptography&&&blockchain security protocols&&&blockchain technology for supply chain transparency&&&smart contracts&&&financial technology&&&financial systems&&&digital payment technologies&&&supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3810.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_005

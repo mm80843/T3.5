@@ -2,3 +2,7 @@
 
 # __Digital tools and technologies&&&digital integration tools&&&digital communication tools&&&software tools&&&digital techniques&&&digital content creation tools&&&digital technology&&&digital technologies&&&digital devices&&&digital management systems__
 
+## Link between Blueprint and General ontology
+
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_62.md)
+

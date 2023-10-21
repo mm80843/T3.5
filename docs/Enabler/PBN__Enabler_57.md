@@ -2,10 +2,6 @@
 
 # __Expansion of digital__
 
-## Link between Blueprint and General ontology
-
-* [Digitalization&&&digitalisation&&&digital technology&&&digital technologies&&&digital integration&&&digital infrastructure&&&digital devices&&&digital techniques&&&expansion of digital platforms and virtual experiences&&&digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3785.md)
-
 ## Category to which it belongs
 
 * [The proliferation of digital technology and its widespread adoption.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_54.md)

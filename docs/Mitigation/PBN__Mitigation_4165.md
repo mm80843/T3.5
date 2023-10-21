@@ -2,3 +2,7 @@
 
 # __Material selection&&&material selection for buildings&&&proper selection of indoor materials&&&material shortage&&&use of local and sustainable materials&&&resistance to new materials&&&better isolating materials&&&continuous supply of essential materials&&&shortage of construction materials&&&smart building materials__
 
+## Link between Blueprint and General ontology
+
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_15.md)
+

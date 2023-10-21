@@ -2,10 +2,6 @@
 
 # __Digital devices__
 
-## Link between Blueprint and General ontology
-
-* [Digital and smart devices&&&digital technology&&&digital technologies&&&technology devices&&&smart devices&&&digital techniques&&&digital media&&&digital tools&&&expansion of digital&&&digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3789.md)
-
 ## Category to which it belongs
 
 * [The collection consists of various digital devices and tools including wearable and mobile devices, as well as automated and vr devices, and digital imaging techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_53.md)

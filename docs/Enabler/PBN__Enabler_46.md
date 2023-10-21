@@ -2,10 +2,6 @@
 
 # __Iot networks__
 
-## Link between Blueprint and General ontology
-
-* [Iot&&&iots&&&iot protocols&&&iot sensors&&&internet of things iot&&&iot devices&&&internet of things iot sensors&&&internet of things iot devices&&&iot sensing infrastructure&&&internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3820.md)
-
 ## Category to which it belongs
 
 * [A compilation of interconnected devices, networks, sensors, and protocols known as the internet of things iot .](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_63.md)

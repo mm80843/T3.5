@@ -2,10 +2,6 @@
 
 # __Air purifier with hepa filters__
 
-## Link between Blueprint and General ontology
-
-* [Air purifiers with hepa filters&&&portable air purifiers with hepa filters&&&hvac systems with hepa filters&&&high-efficiency particulate air hepa filters&&&hepa filters&&&negative air machines with hepa filters&&&implementation of hepa filters&&&use of air purifiers&&&air purifiers&&&air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3985.md)
-
 ## Category to which it belongs
 
 * [Air filtration systems that remove fine airborne particles and improve air quality in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_68.md)

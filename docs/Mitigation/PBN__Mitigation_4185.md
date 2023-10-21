@@ -2,3 +2,7 @@
 
 # __Surge capacity planning&&&demand management&&&demand response programs&&&implement demand response programs, incentivize load shifting and energy conservation&&&electrical infrastructure&&&conduct comprehensive energy consumption breakdown&&&activate rapid response services&&&optimizing transport based on demand&&&service&&&reduction in traffic volumes__
 
+## Link between Blueprint and General ontology
+
+* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_35.md)
+

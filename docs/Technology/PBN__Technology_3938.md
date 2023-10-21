@@ -2,3 +2,7 @@
 
 # __Smartphone technology&&&mobile app technology&&&mobile devices&&&mobile computing&&&mobile phones&&&mobile applications&&&mobile positioning technology&&&mobile health technology&&&mobile interface&&&smartphone__
 
+## Link between Blueprint and General ontology
+
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_43.md)
+

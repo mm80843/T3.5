@@ -25,9 +25,9 @@ This blueprint aims to integrate access to green space into GBN in order to impr
 
 ## Interventions of the blueprint
 
-* [Greenery](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_9.md)
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_10.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_25.md)
+* [Greenery](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_24.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_25.md)
+* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_26.md)
 
 ## Type of deployment of the blueprint
 

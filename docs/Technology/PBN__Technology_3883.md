@@ -2,3 +2,7 @@
 
 # __Cctv cameras&&&cctv footage&&&cctv systems&&&cctv&&&video cameras&&&surveillance cameras&&&surveillance camera technology&&&video surveillance&&&cameras&&&video surveillance systems__
 
+## Link between Blueprint and General ontology
+
+* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_12.md)
+

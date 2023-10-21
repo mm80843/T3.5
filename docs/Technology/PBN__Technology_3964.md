@@ -2,3 +2,7 @@
 
 # __Virtual reality&&&virtual experiences&&&augmented / virtual reality&&&digital devices&&&mobile devices&&&wearable devices&&&technology devices&&&virtual personal trainers&&&multimodal devices&&&virtual learning technologies__
 
+## Link between Blueprint and General ontology
+
+* [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_183.md)
+

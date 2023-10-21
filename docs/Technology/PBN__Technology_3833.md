@@ -2,3 +2,7 @@
 
 # __Sensors&&&environmental sensors&&&sensor technology&&&sensor technologies&&&pressure sensors&&&sensor-based technology&&&temperature sensors&&&sensor devices&&&light sensors&&&sensor integration and development__
 
+## Link between Blueprint and General ontology
+
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
+

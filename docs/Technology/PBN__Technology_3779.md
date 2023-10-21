@@ -2,3 +2,7 @@
 
 # __5g&&&cellular network&&&5g technology&&&small cell networks&&&4g&&&wireless communication&&&fifth-generation wireless networks&&&wi-fi&&&high bandwidth networks&&&scalable iot infrastructure__
 
+## Link between Blueprint and General ontology
+
+* [Massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_38.md)
+

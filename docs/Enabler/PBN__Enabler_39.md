@@ -2,10 +2,6 @@
 
 # __Wi-fi__
 
-## Link between Blueprint and General ontology
-
-* [Internet and wi-fi networks&&&wireless communication&&&internet connection&&&internet&&&internet connectivity&&&internet of things&&&internet access&&&5g&&&free wi-fi hotspots&&&internet-connected devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3780.md)
-
 ## Category to which it belongs
 
 * [Next-level high-speed connectivity revolutionizing wireless communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_51.md)

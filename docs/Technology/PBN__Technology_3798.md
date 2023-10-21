@@ -2,3 +2,7 @@
 
 # __Big data analytics&&&big data&&&data analytics&&&big urban data&&&social media analytics&&&data analytics and modeling&&&bigdata&&&data analytics platforms&&&big data analytics nan platforms&&&predictive analytics__
 
+## Link between Blueprint and General ontology
+
+* [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_74.md)
+

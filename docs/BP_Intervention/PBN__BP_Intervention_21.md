@@ -2,10 +2,6 @@
 
 # __Personal hygiene (eg handwashing)__
 
-## Link between Blueprint and General ontology
-
-* [Personal hygiene&&&regular hand hygiene&&&handwashing&&&proper handwashing hygiene promotion&&&hand hygiene&&&hand washing&&&individual hygiene&&&promote regular handwashing, hygiene education and awareness&&&frequent handwashing&&&hand-washing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4171.md)
-
 ## Property: has_BP_InterventionKey
 
 HU2
@@ -17,4 +13,8 @@ Personal hygiene (eg handwashing)
 ## Category to which it belongs
 
 * [Maintaining cleanliness and cleanliness practices for oneself, such as handwashing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
+
+## This intervention is used in the following blueprints
+
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
 

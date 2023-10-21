@@ -2,10 +2,6 @@
 
 # __Ordinary printer paper__
 
-## Link between Blueprint and General ontology
-
-* [3d printing&&&print media&&&3d printing technology&&&improved 3d printing technology&&&printing company services&&&printing and lamination technologies can be used to create professional signs that are durable and visually appealing&&&3d printing for component manufacturing&&&newspapers&&&additive manufacturing&&&digital signatures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3931.md)
-
 ## Category to which it belongs
 
 * [Advancements in additive manufacturing and specialized substrates for diverse applications in digital fabrication and publishing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_82.md)

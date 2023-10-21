@@ -2,3 +2,7 @@
 
 # __Database&&&research databases&&&open-access databases&&&data collection&&&data management systems&&&data collection technologies&&&data management techniques&&&sqlite database&&&data management tools&&&data science__
 
+## Link between Blueprint and General ontology
+
+* [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_78.md)
+

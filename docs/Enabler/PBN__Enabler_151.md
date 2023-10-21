@@ -2,10 +2,6 @@
 
 # __Drones for monitoring overcrowding__
 
-## Link between Blueprint and General ontology
-
-* [Drones&&&drones and robots&&&risk detection systems and drones&&&robots, drones & automated vehicules&&&drones with thermal cameras&&&drone technology&&&crowd monitoring technologies&&&crowd density monitoring systems&&&crowd-monitoring technologies&&&crowd monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3894.md)
-
 ## Category to which it belongs
 
 * [Advancements in autonomous technologies used for surveillance, transportation, and monitoring urban congestion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_69.md)

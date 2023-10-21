@@ -13,7 +13,6 @@
 * _[BP_Transmission](https://github.com/mm80843/T3.5/blob/main/docs/BP_Transmission/index.md)_ -- 12 instances.
 * _[BP_Type](https://github.com/mm80843/T3.5/blob/main/docs/BP_Type/index.md)_ -- 2 instances.
 * _[Enabler](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/index.md)_ -- 276 instances.
-* _[Intervention](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/index.md)_ -- 34 instances.
 * _[Mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/index.md)_ -- 4190 instances.
 * _[PBNCategory](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/index.md)_ -- 512 instances.
 * _[Qid](https://github.com/mm80843/T3.5/blob/main/docs/Qid/index.md)_ -- 1728 instances.

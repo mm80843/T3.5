@@ -2,3 +2,7 @@
 
 # __Improved air filtration&&&improve air filtration&&&enhanced air filtration&&&air filtration systems&&&air filtration technologies&&&air filtration and purification&&&air filtration and ventilation&&&high-level air filtration&&&implementation of air filtration systems&&&advanced air filtration systems__
 
+## Link between Blueprint and General ontology
+
+* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_2.md)
+

@@ -2,10 +2,6 @@
 
 # __Antimicrobial materials__
 
-## Link between Blueprint and General ontology
-
-* [Anti-microbial materials&&&anti-bacterial materials&&&antimicrobial surface materials&&&selection of anti-microbial materials&&&antimicrobial surfaces&&&antimicrobial coating&&&antimicrobial coatings&&&anti-bacterial&&&antimicrobial coatings for surfaces&&&antimicrobial additives for indoor finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3993.md)
-
 ## Category to which it belongs
 
 * [Pathogen-fighting solutions that ensure cleanliness and safety on surfaces and in products.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_89.md)

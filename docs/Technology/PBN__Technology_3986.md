@@ -2,3 +2,7 @@
 
 # __Air purifiers with hepa filters&&&air purifier with hepa filters&&&portable air purifiers with hepa filters&&&hvac filters&&&high-efficiency particulate air hepa filters&&&hepa filters&&&negative air machines with hepa filters&&&implementation of hepa filters&&&improved hvac systems with high-efficiency filters&&&use of advanced hvac systems with high-efficiency filters__
 
+## Link between Blueprint and General ontology
+
+* [Hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_139.md)
+

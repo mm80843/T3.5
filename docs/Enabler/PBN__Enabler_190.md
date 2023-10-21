@@ -2,10 +2,6 @@
 
 # __Uv irradiation systems__
 
-## Link between Blueprint and General ontology
-
-* [Uv irradiation&&&uv germicidal irradiation systems&&&ultraviolet irradiation&&&uv-c irradiation&&&uv radiation&&&uv germicidal irradiation&&&uv light systems&&&ultraviolet germicidal irradiation&&&uv disinfection systems&&&uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3908.md)
-
 ## Category to which it belongs
 
 * [Ultraviolet light and systems that use it for disinfection or sterilization purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_78.md)

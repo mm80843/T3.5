@@ -2,10 +2,6 @@
 
 # __Geolocation data__
 
-## Link between Blueprint and General ontology
-
-* [Gps location&&&location and bluetooth data&&&gps&&&location tracking technology&&&geographic information systems&&&geographical information systems&&&gps technology&&&mobility data analysis&&&geographical information system gis&&&mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
-
 ## Category to which it belongs
 
 * [Determining precise geographical position through satellite tracking and collecting relevant geographic information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_75.md)

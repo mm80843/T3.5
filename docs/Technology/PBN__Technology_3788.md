@@ -2,3 +2,7 @@
 
 # __Digital technology&&&digital technologies&&&digital tools&&&digitalization&&&digital tools and technologies&&&digital imaging&&&digital devices&&&digitalisation&&&digital media&&&digital communication__
 
+## Link between Blueprint and General ontology
+
+* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_60.md)
+

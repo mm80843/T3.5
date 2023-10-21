@@ -2,10 +2,6 @@
 
 # __Quarantine support__
 
-## Link between Blueprint and General ontology
-
-* [Effective quarantine&&&quarantine&&&quarantines&&&compliance of quarantine&&&quarantine facilities&&&quarantines,&&&quarantine for high-risk individuals&&&quarantine measures&&&home quarantine&&&quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4180.md)
-
 ## Property: has_BP_InterventionKey
 
 MP2
@@ -17,4 +13,9 @@ Quarantine support
 ## Category to which it belongs
 
 * [Support for isolation or restricted movement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
+
+## This intervention is used in the following blueprints
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+* [Tracking and enforcing use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
 

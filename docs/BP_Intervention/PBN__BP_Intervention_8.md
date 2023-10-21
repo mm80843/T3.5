@@ -2,10 +2,6 @@
 
 # __Managing drinking water safety measures__
 
-## Link between Blueprint and General ontology
-
-* [Safety measures for drinking water&&&safety measures of drinking water&&&improving access to safe drinking water&&&safe drinking water&&&safe water access and hygiene practices&&&water and sanitary system safety&&&improve access to safe drinking water and sanitation infrastructure.&&&provision of safe water, sanitation, and hygienic conditions&&&water management&&&ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4158.md)
-
 ## Property: has_BP_InterventionKey
 
 PW1
@@ -17,4 +13,9 @@ Managing drinking water safety measures
 ## Category to which it belongs
 
 * [Ensuring the safety of water supply through effective management practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
+
+## This intervention is used in the following blueprints
+
+* [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
+* [Drinking water safety - restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
 

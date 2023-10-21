@@ -2,3 +2,7 @@
 
 # __Iots&&&iot devices&&&iot networks&&&iot sensors&&&iot protocols&&&internet of things&&&internet of things iot&&&internet of things iot devices&&&iot buttons&&&iot sensing infrastructure__
 
+## Link between Blueprint and General ontology
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
+

@@ -2,3 +2,7 @@
 
 # __Biophilic design&&&biophilic design strategies&&&incorporate biophilic design principles&&&indoor environmental quality&&&reducing chemical use in indoor environments&&&indoor sensors&&&indoor environment and ventilation systems&&&indoor air technologies&&&indoor plants&&&specialized room design__
 
+## Link between Blueprint and General ontology
+
+* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_134.md)
+

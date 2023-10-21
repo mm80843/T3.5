@@ -2,3 +2,7 @@
 
 # __Biophilic desing&&&distancing&&&incineration&&&physical distancing&&&disinfection&&&sanitization&&&silica gel desiccant rotor&&&dehumidifiers&&&digitalization&&&filtration__
 
+## Link between Blueprint and General ontology
+
+* [Desiccation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_266.md)
+

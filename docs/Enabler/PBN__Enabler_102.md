@@ -2,10 +2,6 @@
 
 # __Blockchain technologies__
 
-## Link between Blueprint and General ontology
-
-* [Blockchain technology&&&blockchain&&&blockchain and cryptography&&&blockchain security protocols&&&blockchain technology for supply chain transparency&&&financial technology&&&digital technologies&&&technology&&&digital payment technologies&&&communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3812.md)
-
 ## Category to which it belongs
 
 * [Decentralized digital systems for secure transactions and information protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_61.md)

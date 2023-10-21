@@ -2,3 +2,7 @@
 
 # __Resource allocation&&&ineffective resource allocation&&&inefficient use of resources&&&efficient distribution of resources&&&improved resource allocation&&&limited resources&&&misallocation of resources&&&inequitable distribution of resources&&&energy and resource management&&&material shortage__
 
+## Link between Blueprint and General ontology
+
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_34.md)
+

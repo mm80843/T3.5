@@ -2,10 +2,6 @@
 
 # __Selection of materials__
 
-## Link between Blueprint and General ontology
-
-* [Material selection&&&material selection for buildings&&&proper selection of indoor materials&&&material shortage&&&use of local and sustainable materials&&&resistance to new materials&&&better isolating materials&&&continuous supply of essential materials&&&shortage of construction materials&&&smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4165.md)
-
 ## Property: has_BP_InterventionKey
 
 PS4
@@ -17,4 +13,12 @@ Selection of materials
 ## Category to which it belongs
 
 * [Variety of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_364.md)
+
+## This intervention is used in the following blueprints
+
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+* [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
 

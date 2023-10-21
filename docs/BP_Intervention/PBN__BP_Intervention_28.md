@@ -2,10 +2,6 @@
 
 # __Introduce "multi-use" / modular designs__
 
-## Link between Blueprint and General ontology
-
-* [Explore modular and flexible designs to accommodate different uses and activities&&&flexible design solutions&&&implementing flexible and adaptable design&&&design flexibility&&&efficient design changes and management&&&flexible design&&&modular construction&&&adaptable and flexible design&&&innovative design approaches&&&active design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4178.md)
-
 ## Property: has_BP_InterventionKey
 
 HS1
@@ -17,4 +13,9 @@ Introduce "multi-use" / modular designs
 ## Category to which it belongs
 
 * [Flexible and adaptable designs that serve multiple purposes or can be easily reconfigured.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_377.md)
+
+## This intervention is used in the following blueprints
+
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
 

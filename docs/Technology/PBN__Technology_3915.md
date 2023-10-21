@@ -2,3 +2,7 @@
 
 # __Automation&&&automation systems&&&automation technology&&&automation technologies&&&testing automation&&&building automation systems&&&treatment plant automation&&&automated devices&&&food production and distribution systems&&&advanced logistics systems__
 
+## Link between Blueprint and General ontology
+
+* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_199.md)
+

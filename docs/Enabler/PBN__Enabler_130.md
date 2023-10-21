@@ -2,10 +2,6 @@
 
 # __Light sensors__
 
-## Link between Blueprint and General ontology
-
-* [Sensors&&&daylight sensors&&&sensor technologies&&&beam sensors&&&sensor technology&&&sensor devices&&&water sensors&&&motion sensors&&&smart sensors&&&indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3847.md)
-
 ## Category to which it belongs
 
 * [Devices that detect and measure various aspects such as water, environment, pressure, temperature, light, and can be worn by individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_65.md)

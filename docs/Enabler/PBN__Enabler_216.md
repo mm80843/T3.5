@@ -2,10 +2,6 @@
 
 # __Telework__
 
-## Link between Blueprint and General ontology
-
-* [Teleworking&&&teleconferencing&&&teleconferencing software&&&tele-devices&&&teleconferencing tools&&&telehealth&&&telemedecine&&&telepsychiatry&&&telehealth system&&&telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3970.md)
-
 ## Category to which it belongs
 
 * [Digital technologies for remote healthcare, remote work, and virtual communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_81.md)

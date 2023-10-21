@@ -2,3 +2,7 @@
 
 # __Use of telemedicine for remote care&&&telemedicine&&&telemedicine technologies&&&remote healthcare services&&&telehealth services&&&remote healthcare technologies&&&telemedicine platforms&&&telemedicine and mobile health clinics&&&telemedicine for mental health support&&&telehealth system__
 
+## Link between Blueprint and General ontology
+
+* [Telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_212.md)
+

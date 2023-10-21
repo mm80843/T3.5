@@ -2,10 +2,6 @@
 
 # __Linked open data__
 
-## Link between Blueprint and General ontology
-
-* [Linked data&&&open data&&&open data platforms&&&open data policies&&&open-access databases&&&data access platforms and applications&&&data integration platforms&&&data integration technology&&&data sharing&&&data integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3863.md)
-
 ## Category to which it belongs
 
 * [Harnessing and analyzing extensive amounts of information, both structured and unstructured, for insights and patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_58.md)

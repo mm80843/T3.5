@@ -2,3 +2,7 @@
 
 # __Iots&&&iot&&&internet of things iot devices&&&iot sensors&&&smart devices&&&purpose-built iot devices&&&iot networks&&&iot protocols&&&iot device manufacturers&&&iot devices for distance monitoring__
 
+## Link between Blueprint and General ontology
+
+* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_48.md)
+

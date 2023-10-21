@@ -2,3 +2,7 @@
 
 # __Promoting awareness and education&&&public awareness initiatives&&&public awareness campaigns&&&raise awareness, promote inclusivity and diversity&&&public awareness and education&&&public awareness programs&&&communication and awareness&&&occupant awareness campaigns&&&public awareness and education campaigns&&&training and awareness__
 
+## Link between Blueprint and General ontology
+
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_38.md)
+

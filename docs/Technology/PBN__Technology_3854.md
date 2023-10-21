@@ -2,3 +2,7 @@
 
 # __Artificial intelligence ai&&&machine learning algorithms&&&ai&&&ai technology&&&ai tools&&&artificial intelligence&&&algorithm&&&optimization algorithms&&&ai algorithms for content analysis&&&ai support systems__
 
+## Link between Blueprint and General ontology
+
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_86.md)
+

@@ -2,10 +2,6 @@
 
 # __Location tracking technology__
 
-## Link between Blueprint and General ontology
-
-* [Tracking technology&&&improved location tracking algorithms&&&mobile positioning technology&&&travel tracking systems&&&positioning technologies&&&tracking systems&&&travel tracking and monitoring systems&&&gps technology&&&personnel tracking&&&mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3867.md)
-
 ## Category to which it belongs
 
 * [Real-time geolocation systems used to monitor and track travel activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_76.md)

@@ -2,10 +2,6 @@
 
 # __Robots__
 
-## Link between Blueprint and General ontology
-
-* [Robotics&&&medical robots&&&social robots&&&robot technology&&&robot systems&&&industrial robots&&&robotic systems&&&drones and robots&&&ai&&&artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3848.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_015

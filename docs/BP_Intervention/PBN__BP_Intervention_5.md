@@ -2,10 +2,6 @@
 
 # __Natural ventilation increase__
 
-## Link between Blueprint and General ontology
-
-* [Enhance natural ventilation&&&increase ventilation&&&increased ventilation&&&increase ventilation rates, use natural or mechanical ventilation systems&&&natural ventilation&&&increased ventilation rates&&&provide natural ventilation&&&increase ventilation rates&&&increased ventilation rate&&&level of natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4155.md)
-
 ## Property: has_BP_InterventionKey
 
 PA6

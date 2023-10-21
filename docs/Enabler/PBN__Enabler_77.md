@@ -2,10 +2,6 @@
 
 # __Big data__
 
-## Link between Blueprint and General ontology
-
-* [Big data analytics&&&big urban data&&&big-data analytics&&&bigdata&&&iot and big data technologies&&&data science&&&data analytics&&&data analysis&&&data collection&&&new data and technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3857.md)
-
 ## Category to which it belongs
 
 * [Harnessing and analyzing extensive amounts of information, both structured and unstructured, for insights and patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_58.md)

@@ -29,10 +29,10 @@ COVID-19 pandemic has shown the importance of converting certain spaces into hea
 
 ## Interventions of the blueprint
 
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_4.md)
-* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_7.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_8.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_15.md)
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_15.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_20.md)
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_28.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_32.md)
 
 ## Type of deployment of the blueprint
 

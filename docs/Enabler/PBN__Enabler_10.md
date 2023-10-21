@@ -2,10 +2,6 @@
 
 # __GPS__
 
-## Link between Blueprint and General ontology
-
-* [Gps technology&&&gps location&&&location tracking technology&&&mobile positioning technology&&&geolocation data&&&positioning technologies&&&travel monitoring&&&travel tracking and monitoring systems&&&travel tracking systems&&&improved location tracking algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3838.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_011

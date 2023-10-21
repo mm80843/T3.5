@@ -2,3 +2,7 @@
 
 # __Explore modular and flexible designs to accommodate different uses and activities&&&flexible design solutions&&&implementing flexible and adaptable design&&&design flexibility&&&efficient design changes and management&&&flexible design&&&modular construction&&&adaptable and flexible design&&&innovative design approaches&&&active design strategies__
 
+## Link between Blueprint and General ontology
+
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_28.md)
+

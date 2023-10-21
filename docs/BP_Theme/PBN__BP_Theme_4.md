@@ -2,10 +2,6 @@
 
 # __User behavior__
 
-## Link between Blueprint and General ontology
-
-* [Limited understanding of human behavior&&&occupant behavior&&&changes in use and behavior in public spaces&&&user acceptance&&&social interaction&&&privacy&&&customer&&&insufficient behavior and adherence to guidelines&&&privacy concerns&&&privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3669.md)
-
 ## Property: has_BP_ThemeTitle
 
 theme_User_behavior

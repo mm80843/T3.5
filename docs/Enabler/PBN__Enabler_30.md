@@ -2,10 +2,6 @@
 
 # __Biophilic desing__
 
-## Link between Blueprint and General ontology
-
-* [Biophilic design&&&biophilic design strategies&&&incorporate biophilic design principles&&&biocidal products&&&desiccation&&&indoor biophilic design&&&biodegradable materials&&&biotechnology&&&disinfection&&&disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4024.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_031

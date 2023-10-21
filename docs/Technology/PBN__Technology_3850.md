@@ -2,3 +2,7 @@
 
 # __Ai/ml&&&artificial intelligence and machine learning&&&artificial intelligence ai&&&artificial intelligence&&&ml&&&ai algorithms&&&ai&&&ai technology&&&machine learning&&&machine learning algorithms__
 
+## Link between Blueprint and General ontology
+
+* [Artificial intelligence and ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_167.md)
+

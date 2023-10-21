@@ -2,3 +2,7 @@
 
 # __Surface sanitization&&&disinfection&&&lack of sanitization protocols&&&disinfectant&&&inadequate cleaning and disinfection&&&disinfection processes&&&disinfection methods&&&contamination&&&regular disinfection&&&inadequate disinfection methods and side effects of chemical disinfectants__
 
+## Link between Blueprint and General ontology
+
+* [Sanitizing](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_2.md)
+

@@ -2,3 +2,7 @@
 
 # __Bim software&&&building information model bim&&&construction technology and software&&&building design software and modeling tools&&&building management systems&&&bim&&&building design&&&supply chain design software&&&building systems and design&&&project management software__
 
+## Link between Blueprint and General ontology
+
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_27.md)
+

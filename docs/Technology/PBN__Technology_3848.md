@@ -2,3 +2,7 @@
 
 # __Robotics&&&medical robots&&&social robots&&&robot technology&&&robot systems&&&industrial robots&&&robotic systems&&&drones and robots&&&ai&&&artificial intelligence__
 
+## Link between Blueprint and General ontology
+
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_14.md)
+

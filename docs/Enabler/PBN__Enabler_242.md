@@ -2,10 +2,6 @@
 
 # __Virtual learning platforms__
 
-## Link between Blueprint and General ontology
-
-* [Virtual learning technologies&&&digital learning platforms&&&online learning platforms&&&e-learning platforms&&&virtual training tools&&&virtual classrooms&&&educational platforms&&&remote learning platforms&&&platforms and virtual&&&online training platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3968.md)
-
 ## Category to which it belongs
 
 * [Digital representations and platforms for immersive educational and interactive experiences and exhibitions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_88.md)

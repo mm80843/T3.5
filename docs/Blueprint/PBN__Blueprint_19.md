@@ -33,9 +33,9 @@ The general idea described above is to use technology to monitor whether people 
 
 ## Interventions of the blueprint
 
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_3.md)
-* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_27.md)
-* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_31.md)
+* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_23.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_30.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_31.md)
 
 ## Type of deployment of the blueprint
 

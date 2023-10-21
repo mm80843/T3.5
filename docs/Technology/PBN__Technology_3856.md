@@ -2,3 +2,7 @@
 
 # __Big data&&&big urban data&&&big data analytics&&&big-data analytics&&&data collection&&&big data analytics nan platforms&&&databases&&&linked data&&&database&&&open data__
 
+## Link between Blueprint and General ontology
+
+* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_9.md)
+

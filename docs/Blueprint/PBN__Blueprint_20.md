@@ -28,10 +28,10 @@ Tracking and surveillance of infections allows better assessment of the spread o
 
 ## Interventions of the blueprint
 
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_3.md)
-* [Prevent fake news](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_18.md)
-* [Promote verified information](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_20.md)
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_26.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_29.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_31.md)
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_36.md)
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_39.md)
 
 ## Type of deployment of the blueprint
 

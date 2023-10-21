@@ -2,10 +2,6 @@
 
 # __Minimize supply chain disruptions__
 
-## Link between Blueprint and General ontology
-
-* [Supply chain optimization&&&optimizing supply chains&&&resilient supply chains&&&diversification of supply chains, local production capabilities, and contingency planning for disruptions.&&&diversifying suppliers, local sourcing, implementing contingency plans for supply chain disruptions.&&&resilient supply chain design&&&strengthen supply chain resilience&&&effective supply chain management&&&build redundancies in supply chains and critical infrastructure&&&provide relief measures and financial support to manufacturing businesses, explore alternative supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4182.md)
-
 ## Property: has_BP_InterventionKey
 
 MC1
@@ -17,4 +13,11 @@ Minimize supply chain disruptions
 ## Category to which it belongs
 
 * [Ensure uninterrupted flow of goods and services through effective supply chain management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_381.md)
+
+## This intervention is used in the following blueprints
+
+* [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
 

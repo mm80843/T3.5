@@ -2,3 +2,7 @@
 
 # __Automation&&&smart windows&&&automation systems&&&automated devices&&&automation technologies&&&testing automation&&&operable windows&&&automation technology&&&windows&&&drive-through window systems__
 
+## Link between Blueprint and General ontology
+
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_201.md)
+

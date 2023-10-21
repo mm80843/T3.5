@@ -2,3 +2,7 @@
 
 # __Tracing and tracking of infected individuals&&&infectious disease monitoring&&&real-time tracking of infected patients&&&remote monitoring of infected patients&&&smart tracking of infected persons&&&outbreak tracking&&&infection control&&&health monitoring&&&infectious agents management&&&quarantine monitoring system__
 
+## Link between Blueprint and General ontology
+
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_29.md)
+

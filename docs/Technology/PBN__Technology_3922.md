@@ -2,3 +2,7 @@
 
 # __Telehealth technology&&&telehealth system&&&telehealth/telepresence&&&telehealth solutions&&&telehealth services&&&telehealth platforms&&&telemedicine&&&telemedicine technologies&&&telehealth conferencing software&&&teleworking__
 
+## Link between Blueprint and General ontology
+
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_211.md)
+

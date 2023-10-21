@@ -2,3 +2,7 @@
 
 # __Effective quarantine&&&quarantine&&&quarantines&&&compliance of quarantine&&&quarantine facilities&&&quarantines,&&&quarantine for high-risk individuals&&&quarantine measures&&&home quarantine&&&quarantine/isolation__
 
+## Link between Blueprint and General ontology
+
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_30.md)
+

@@ -2,3 +2,7 @@
 
 # __Indoor air quality sensors&&&indoor environment and ventilation systems&&&outdoor air monitoring&&&air sensors&&&indoor sensors&&&air circulation devices&&&other air cleaning technologies&&&improved ventilation technologies&&&use of outdoor air and natural ventilation&&&air quality sensors__
 
+## Link between Blueprint and General ontology
+
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_124.md)
+

@@ -2,3 +2,7 @@
 
 # __Touchless technology&&&use of touchless technologies&&&implement touchless technologies&&&implementation of touchless technologies&&&touch-free technologies&&&touchless household technologies&&&implementation of touchless systems&&&touchless interfaces&&&artificial intelligence and touchless technologies&&&touch-free systems__
 
+## Link between Blueprint and General ontology
+
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_13.md)
+

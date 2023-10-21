@@ -2,10 +2,6 @@
 
 # __Temperature sensors__
 
-## Link between Blueprint and General ontology
-
-* [Thermal sensors&&&temperature monitoring devices&&&temperature detection devices&&&temperature monitoring systems&&&temperature scanners&&&temperature screening devices&&&sensors&&&temperature screening technology&&&temperature control&&&digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3845.md)
-
 ## Category to which it belongs
 
 * [Devices that detect and measure various aspects such as water, environment, pressure, temperature, light, and can be worn by individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_65.md)

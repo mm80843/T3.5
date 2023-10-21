@@ -2,3 +2,7 @@
 
 # __Smartphone apps&&&mobile applications&&&smartphone app&&&mobile phone application&&&mobile apps&&&smartphone&&&smartphones&&&mobile app technology&&&apps&&&smartphone technology__
 
+## Link between Blueprint and General ontology
+
+* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_49.md)
+

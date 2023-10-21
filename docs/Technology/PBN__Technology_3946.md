@@ -2,3 +2,7 @@
 
 # __Social media&&&social networking platforms&&&social networks&&&social media platforms&&&online social platforms&&&social media groups&&&social-media platforms&&&twitter&&&social media communication&&&online platforms and social media__
 
+## Link between Blueprint and General ontology
+
+* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_233.md)
+

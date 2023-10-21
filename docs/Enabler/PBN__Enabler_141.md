@@ -2,10 +2,6 @@
 
 # __Wearable device technology__
 
-## Link between Blueprint and General ontology
-
-* [Wearable technology&&&wearable device&&&wearable devices&&&wearable electronic devices&&&wearables&&&wearable sensors&&&technology devices&&&smart devices&&&technological tracking device&&&smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3878.md)
-
 ## Category to which it belongs
 
 * [Cutting-edge advancements transforming the way we interact, from smart devices to virtual healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_55.md)

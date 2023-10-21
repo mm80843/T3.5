@@ -2,10 +2,6 @@
 
 # __Fifth-generation wireless networks__
 
-## Link between Blueprint and General ontology
-
-* [5g technology&&&wireless communication&&&5g&&&l5go networks&&&cellular network&&&small cell networks&&&internet and wi-fi networks&&&wireless data transmission&&&wi-fi&&&wireless data transmission 3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3776.md)
-
 ## Category to which it belongs
 
 * [Next-level high-speed connectivity revolutionizing wireless communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_51.md)

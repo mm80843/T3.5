@@ -2,10 +2,6 @@
 
 # __Drones__
 
-## Link between Blueprint and General ontology
-
-* [Drones and robots&&&drone technology&&&robots, drones & automated vehicules&&&drones for monitoring overcrowding&&&drones for medical supply delivery&&&drones with thermal cameras&&&uavs&&&robots&&&risk detection systems and drones&&&robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3892.md)
-
 ## Category to which it belongs
 
 * [Advancements in autonomous technologies used for surveillance, transportation, and monitoring urban congestion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_69.md)

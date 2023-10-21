@@ -2,10 +2,6 @@
 
 # __Energy Management__
 
-## Link between Blueprint and General ontology
-
-* [Energy management systems&&&smart energy management&&&improved energy management systems&&&home energy management systems&&&renewable energy&&&power management systems&&&energy storage&&&smart home energy management systems&&&energy efficiency&&&energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4015.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_030

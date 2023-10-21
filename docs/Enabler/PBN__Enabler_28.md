@@ -2,10 +2,6 @@
 
 # __Face and voice recognition__
 
-## Link between Blueprint and General ontology
-
-* [Voice and face recognition&&&face recognition&&&voice recognition&&&facial recognition&&&facial recognition systems&&&facial recognition technology&&&voice recognition technology&&&automated face recognition systems&&&facial recognition software&&&biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4006.md)
-
 ## Property: has_BP_EnablerTitle
 
 enabler_029

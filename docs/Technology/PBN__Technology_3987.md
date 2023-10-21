@@ -2,3 +2,7 @@
 
 # __High-efficiency particulate air filters&&&high-efficiency particulate filters&&&air purifiers with hepa filters&&&portable air purifiers with hepa filters&&&air purifier with hepa filters&&&high-efficiency air filters&&&hvac systems with hepa filters&&&use of high-efficiency air filters&&&hepa filters&&&high-efficiency filters__
 
+## Link between Blueprint and General ontology
+
+* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_148.md)
+

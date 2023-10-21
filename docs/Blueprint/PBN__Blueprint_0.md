@@ -33,10 +33,10 @@ During the COVID-19 pandemic, large organisations, as well as many educational p
 
 ## Interventions of the blueprint
 
-* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_0.md)
-* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_1.md)
-* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_2.md)
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Intervention/PBN__Intervention_3.md)
+* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_18.md)
+* [Shift controls (occupancy control of total users)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_19.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_31.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_34.md)
 
 ## Type of deployment of the blueprint
 
