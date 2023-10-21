@@ -2,6 +2,10 @@
 
 # __Disseminating information__
 
+## Link between Blueprint and General ontology
+
+* [Information management](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_9.md)
+
 ## Category to which it belongs
 
 * [The dissemination of inaccurate, misleading, and exaggerated information, often referred to as an ’infodemic’, poses a significant challenge in accessing reliable and timely information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
@@ -21,5 +25,5 @@
 
 ## Mitigations of this risk
 
-* [Public places as informative nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_403.md)
+* [Public places as informative nodes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3470.md)
 

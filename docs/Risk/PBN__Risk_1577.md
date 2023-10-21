@@ -63,9 +63,9 @@ Difficulty in developing targeted social policies and interventions
 
 ## Technologies linked to the risk
 
+* [Interviews](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_899.md)
 * [Surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
 * [Research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
-* [Interviews](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_899.md)
 
 ## Property: has_RiskType
 

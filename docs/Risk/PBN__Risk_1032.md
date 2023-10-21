@@ -2,6 +2,10 @@
 
 # __Virus propagation__
 
+## Link between Blueprint and General ontology
+
+* [Propagation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_7.md)
+
 ## Category to which it belongs
 
 * [The propagation and transmission risks of respiratory viruses, including the coronavirus, and the need for standardized representation and understanding of virus spread, survival, and inactivation in various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
@@ -41,14 +45,14 @@ Contagious diseases can spread rapidly in the built environment, leading to wide
 
 ## Mitigations of this risk
 
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_345.md)
+* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_215.md)
+* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_214.md)
 * [Implementing strict hygiene and sanitation measures, promoting social distancing, and enforcing mask-wearing in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1460.md)
-* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2053.md)
-* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2054.md)
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2082.md)
-* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2084.md)
-* [Sealing of pipes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2172.md)
-* [Separate toilets for infected](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2173.md)
-* [Greywater separation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2174.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4970.md)
+* [Sealing of pipes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5052.md)
+* [Separate toilets for infected](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5053.md)
+* [Greywater separation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5054.md)
 
 ## Name of the risk
 

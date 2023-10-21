@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Suitable pressure difference](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2221.md)
+* [Suitable pressure difference](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5100.md)
 

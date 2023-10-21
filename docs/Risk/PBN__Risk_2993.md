@@ -21,7 +21,7 @@
 
 ## Mitigations of this risk
 
-* [Predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1869.md)
-* [Geographic information system gis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1339.md)
-* [Innovative solution identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1872.md)
+* [Geographic information system gis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4307.md)
+* [Predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4800.md)
+* [Innovative solution identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4803.md)
 

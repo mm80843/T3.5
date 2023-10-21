@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_967 
 
-# __Efficient workforce management__
+# __Natural light__
 
 ## Category to which it belongs
 
-* [Enabling remote work, flexible schedules, and support for workers’ well-being, safety, and skill development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_184.md)
+* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
-* [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3105.md)
-* [Workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3102.md)
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3662.md)
-* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1465.md)
-* [Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3658.md)
-* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1529.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3104.md)
-* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1527.md)
-* [Job search](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_382.md)
-* [Facility management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_732.md)
-
-## Property: has_MitigationPrinciple
-
-Improve coordination and administration of workforce at construction sites to ensure compliance with SOP and efficient project management
-
-## Risks possibly mitigated by this Mitigation
-
-* [Difficulties in labor control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2809.md)
-
-## Property: has_MitigationSource
-
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_573.md)
+* [Minimal natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_970.md)
+* [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_968.md)
+* [Natural sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_572.md)
+* [Use of natural light, proper artificial lighting design, glare control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_969.md)
+* [Improve living conditions, access to natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3191.md)
+* [Natural daylight access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_567.md)
+* [Sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_569.md)
+* [Daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_563.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_714.md)
 

@@ -24,8 +24,22 @@
 * [Disease transmission reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_849.md)
 * [Safe waste management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_247.md)
 
+## Property: has_MitigationPrinciple
+
+Proper management and disposal of medical waste to prevent contamination
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Waste contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3290.md)
 * [Wm1: waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_196.md)
 * [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
+
+## Property: has_MitigationSource
+
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Separate collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1764.md)
+* [Safe management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3459.md)
 

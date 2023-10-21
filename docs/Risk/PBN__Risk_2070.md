@@ -63,10 +63,10 @@ Breach of sensitive information, disruption of healthcare services
 
 ## Technologies linked to the risk
 
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 * [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
 * [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1579.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 
 ## Property: has_RiskType
 

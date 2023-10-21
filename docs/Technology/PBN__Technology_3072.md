@@ -2,6 +2,11 @@
 
 # __Smartphone control systems__
 
+## Link between Blueprint and General ontology
+
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
+* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_44.md)
+
 ## Category to which it belongs
 
 * [A compilation of various mobile apps and technologies used for reporting, contact tracing, banking, scheduling, and other functions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1274.md)
+* [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4250.md)
 

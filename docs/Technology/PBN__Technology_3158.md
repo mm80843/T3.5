@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Business continuity guideline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1573.md)
+* [Business continuity guideline](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4523.md)
 

@@ -45,29 +45,29 @@ Digital technology and COVID-19
 
 ## This article points to following mitigation
 
-* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
-* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2043.md)
-* [Real-time tracking map](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2044.md)
-* [Modeling studies of viral activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2045.md)
-* [Public health education through social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2046.md)
-* [Thermal imaging-enabled facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2047.md)
-* [Ai algorithms for initial screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2048.md)
-* [Ai algorithms for triage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2049.md)
-* [Virtual e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2050.md)
-* [Ai-based triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2051.md)
-* [Medication delivery through blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2052.md)
+* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3250.md)
+* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4952.md)
+* [Real-time tracking map](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4953.md)
+* [Modeling studies of viral activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4954.md)
+* [Public health education through social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4955.md)
+* [Thermal imaging-enabled facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4956.md)
+* [Ai algorithms for initial screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4957.md)
+* [Ai algorithms for triage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4958.md)
+* [Virtual e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4959.md)
+* [Ai-based triage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1328.md)
+* [Medication delivery through blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4960.md)
 
 ## This article mentions these technologies
 
 * [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 * [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1708.md)
 * [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1709.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
 * [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
 * [Social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1710.md)
 * [E-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_957.md)
 * [Facial recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1711.md)
-* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
 * [Chat bot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1715.md)
 * [Deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1713.md)
 

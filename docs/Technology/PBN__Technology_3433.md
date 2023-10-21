@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Promote local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2030.md)
+* [Promote local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4940.md)
 

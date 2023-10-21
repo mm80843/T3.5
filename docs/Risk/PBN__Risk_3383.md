@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Global virus surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2331.md)
+* [Global virus surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5202.md)
 

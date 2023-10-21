@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Hybrid work models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1948.md)
+* [Hybrid work models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4867.md)
 

@@ -43,9 +43,9 @@ Lack of a substantial amount of unbiased training data affects the performance o
 
 * [Conduct research to gather data on virus behavior and characteristics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2316.md)
 * [Collaborate with multiple institutions to share data, invest in data collection and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1542.md)
-* [Ai-powered diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_150.md)
-* [Ai-based diagnosis and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1285.md)
-* [Predictive analytics for resource planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1286.md)
+* [Ai-powered diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3251.md)
+* [Ai-based diagnosis and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4258.md)
+* [Predictive analytics for resource planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4259.md)
 
 ## Name of the risk
 

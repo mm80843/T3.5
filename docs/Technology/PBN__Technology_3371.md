@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Integrated command and control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1893.md)
+* [Integrated command and control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4816.md)
 

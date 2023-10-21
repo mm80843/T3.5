@@ -2,6 +2,13 @@
 
 # __Smart technology__
 
+## Link between Blueprint and General ontology
+
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_101.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_107.md)
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_172.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_173.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,5 +28,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Smart ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
+* [Smart ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5269.md)
 

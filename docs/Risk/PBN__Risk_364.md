@@ -19,6 +19,11 @@
 * [Key factors of covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2335.md)
 * [Covid-19 transmission in healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_372.md)
 
+## Blueprints with this risk
+
+* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
+* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
+
 ## Mitigations of this risk
 
 * [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)

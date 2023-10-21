@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Viewing surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_424.md)
+* [Viewing surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3488.md)
 

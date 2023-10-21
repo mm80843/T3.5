@@ -2,6 +2,14 @@
 
 # __Printing company services__
 
+## Link between Blueprint and General ontology
+
+* [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_18.md)
+* [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_219.md)
+* [Improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_220.md)
+* [Ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_223.md)
+* [Print media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_65.md)
+
 ## Category to which it belongs
 
 * [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Professional signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
+* [Professional signs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4208.md)
 

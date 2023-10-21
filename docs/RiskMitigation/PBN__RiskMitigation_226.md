@@ -2,6 +2,10 @@
 
 # __Control the airflows in micro spaces__
 
+## Link between Blueprint and General ontology
+
+* [Control of airflows (airtight / negative pressure)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_7.md)
+
 ## Category to which it belongs
 
 * [Optimize indoor climate with advanced technology, efficient systems, controls, insulation, and monitoring to ensure comfort and air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_471.md)
@@ -23,7 +27,22 @@
 
 * [Limited virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_237.md)
 
+## Property: has_MitigationPrinciple
+
+Control air movement to prevent spreading of viruses
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Aq3: airflows control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_186.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
+## Property: has_MitigationSource
+
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1744.md)
+* [Self-closing doors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1745.md)
+* [Air exhaustion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3456.md)
 

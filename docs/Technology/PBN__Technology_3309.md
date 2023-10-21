@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Negative-pressure ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1782.md)
+* [Negative-pressure ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4718.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Support for unemployed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1409.md)
+* [Support for unemployed individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4373.md)
 

@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_233 
 
-# __Integration of multiple measurement methods__
+# __Monitoring__
 
 ## Category to which it belongs
 
-* [Enhance monitoring and response systems while integrating various wearable sensors, biosensors, nanotechnology, contactless systems, and robotics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
+* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Combined measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_849.md)
-* [Multimodal and multiplexed measurements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_163.md)
-* [Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2887.md)
-* [Sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_686.md)
-* [Integration of additional sensors into wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2847.md)
-* [Physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2600.md)
-* [Portable noise measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1073.md)
-* [Organizational measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2888.md)
-* [Long-term measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1016.md)
-* [Integrated sensor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_680.md)
-
-## Property: has_MitigationPrinciple
-
-A combination of PCR and biomarker measurements can provide comprehensive and accurate monitoring of virus outbreaks in wastewater, improving detection capabilities.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2296.md)
-* [Biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2305.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_838.md)
+* [Intelligent monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_236.md)
+* [Continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1628.md)
+* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_784.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_909.md)
+* [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1074.md)
+* [Visualization and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1658.md)
+* [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1627.md)
+* [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2674.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1472.md)
 

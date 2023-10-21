@@ -2,6 +2,10 @@
 
 # __Limited access to physical activity environments__
 
+## Link between Blueprint and General ontology
+
+* [Activities continuity](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_8.md)
+
 ## Category to which it belongs
 
 * [Barriers to access and connectivity pose challenges in various areas, from healthcare to education and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
@@ -18,6 +22,10 @@
 * [Limited access to parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2857.md)
 * [Limited access to outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2545.md)
 * [Limited access to training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3060.md)
+
+## Blueprints with this risk
+
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
 
 ## Description of the risk
 

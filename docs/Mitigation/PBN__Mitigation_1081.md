@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1081 
 
-# __Partitioning to make anterooms__
+# __Develop cost-effective and easily replaceable filter systems for smart face masks__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Promoting the wearing of masks and implementing measures to reduce face-to-face contact for risk reduction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4080.md)
-* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1966.md)
-* [Installation of barriers or partitions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3694.md)
-* [Portable acoustic partitions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1899.md)
-* [Segregation of subsets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_302.md)
-* [Participative design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1175.md)
-* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_127.md)
-* [Forming an ad hoc committee](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4081.md)
-* [Sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3752.md)
-* [Compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1939.md)
-
-## Property: has_MitigationPrinciple
-
-Partitioning the rooms or corridors to create anterooms that act as buffer zones between the patient's room and corridor, providing space for health care workers to put on or take off personal protective equipment (PPE) and disinfect medical devices.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Migration of infectious particles from the isolation room into the corridor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2887.md)
-
-## Property: has_MitigationSource
-
-* [Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_77.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Partitioning materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2876.md)
+* [Face masks with integrated sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1078.md)
+* [Smart facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1517.md)
+* [Face masks + 50% isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
+* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_474.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_309.md)
+* [Facial mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3047.md)
+* [Face mask usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1080.md)
+* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
+* [Face mask](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_308.md)
+* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_306.md)
 

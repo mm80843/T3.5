@@ -42,7 +42,7 @@ Public data collected by private entities for smart city projects may be used fo
 ## Mitigations of this risk
 
 * [Establish limits for private use of public data, ensure data is used solely for urban management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1514.md)
-* [Ppp restructuring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
+* [Ppp restructuring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3211.md)
 
 ## Name of the risk
 

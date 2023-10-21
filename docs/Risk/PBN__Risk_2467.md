@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Supporting workers and migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_204.md)
+* [Supporting workers and migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3298.md)
 

@@ -23,7 +23,18 @@
 
 * [Streamlined operational processes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_305.md)
 
+## Property: has_MitigationPrinciple
+
+Governments can implement simplified procedures and permits for essential activities to enable easier and faster production during disruptions.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Shocks in global value chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_251.md)
+
+## Property: has_MitigationSource
+
+* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
+
+## This Mitigation is enabled by the following technologies
+
 

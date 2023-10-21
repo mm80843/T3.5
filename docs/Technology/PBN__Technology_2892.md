@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Building transport networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1095.md)
+* [Building transport networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4084.md)
 

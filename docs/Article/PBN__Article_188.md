@@ -40,11 +40,11 @@ Effective Risk Communication for Public Health Emergency: Reflection on the COVI
 
 ## This article points to following mitigation
 
-* [Information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2390.md)
-* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
-* [Evidence-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2392.md)
-* [Cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2393.md)
-* [Open, accurate, and consistent messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2394.md)
+* [Information transparency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5256.md)
+* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5257.md)
+* [Evidence-based communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5258.md)
+* [Cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5259.md)
+* [Open, accurate, and consistent messages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5260.md)
 
 ## This article mentions these technologies
 

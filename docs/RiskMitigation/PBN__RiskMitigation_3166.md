@@ -1,21 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3166 
 
-# __Ai__
+# __Health monitoring__
 
-## Category to which it belongs
+## Link between Blueprint and General ontology
 
-* [Harness ai and machine learning to improve decision-making, optimize processes, control animal vectors, develop bioinformatics tools, and advance healthcare robotics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_482.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_29.md)
 
-## Closest similar item
+## Property: has_MitigationPrinciple
 
-* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3167.md)
-* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3168.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_500.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3169.md)
-* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3170.md)
-* [Ai for decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_654.md)
-* [Artificial intelligence/machine learning ai/ml](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1099.md)
-* [Implementation of ai technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_463.md)
-* [Ai for patient management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_655.md)
-* [Ai for diagnosis and screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_651.md)
+Utilize data-driven ontology-based intelligence for semi-autonomous systems to assist in COVID-19 scenarios, such as telehealth care.
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationSource
+
+* [An Overview of Ontologies and Tool Support for COVID-19 Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_170.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2158.md)
+* [Knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2157.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_710.md)
 

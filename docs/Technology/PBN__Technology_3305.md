@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Implement policies for paid sick leave](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1778.md)
+* [Implement policies for paid sick leave](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4714.md)
 

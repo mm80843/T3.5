@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_715.md)
+* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3739.md)
 

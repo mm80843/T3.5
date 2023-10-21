@@ -21,11 +21,11 @@
 
 ## This Technology enables the following mitigations
 
-* [Economic support and aid](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1061.md)
-* [Increased support for domestic violence services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1417.md)
-* [Substantially increase funding for climate and development organizations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1927.md)
-* [State aid for tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1411.md)
-* [Investment of economic stimulus funds in low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1931.md)
-* [Government bailout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1410.md)
-* [Increased funding for vaccine research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1412.md)
+* [Economic support and aid](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4055.md)
+* [Government bailout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4374.md)
+* [State aid for tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4375.md)
+* [Increased funding for vaccine research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4376.md)
+* [Increased support for domestic violence services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4381.md)
+* [Substantially increase funding for climate and development organizations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4849.md)
+* [Investment of economic stimulus funds in low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4853.md)
 

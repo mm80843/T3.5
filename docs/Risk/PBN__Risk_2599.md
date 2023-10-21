@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Incremental gains in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_560.md)
+* [Incremental gains in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3608.md)
 

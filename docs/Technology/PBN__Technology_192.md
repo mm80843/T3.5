@@ -2,6 +2,11 @@
 
 # __Filters__
 
+## Link between Blueprint and General ontology
+
+* [HEPA Filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_25.md)
+* [Implementation of hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_145.md)
+
 ## Category to which it belongs
 
 * [Air and water purification systems, including filters, machines, purifiers, and technologies for improved air quality and filtration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
@@ -36,10 +41,10 @@
 
 ## This Technology enables the following mitigations
 
-* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1354.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
-* [Filtering indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1728.md)
-* [Filtered ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1378.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_312.md)
+* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4322.md)
+* [Filtering indoor air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4667.md)
+* [Filtered ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4343.md)
 
 ## Risks linked to this technology
 

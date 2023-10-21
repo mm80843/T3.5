@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Ergonomic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_172.md)
+* [Ergonomic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1302.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1466.md)
+* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4424.md)
 

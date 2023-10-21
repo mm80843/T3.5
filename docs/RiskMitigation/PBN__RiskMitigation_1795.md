@@ -19,6 +19,10 @@
 * [Wastewater-based surveillance wbs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1203.md)
 * [Adjust wastewater temperature in data analysis to accurately estimate virus prevalence and inform public health responses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1956.md)
 
+## Blueprints with this mitigation
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Inadequate monitoring of the spread of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1301.md)

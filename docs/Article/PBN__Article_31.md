@@ -41,9 +41,9 @@ What drives unverified information sharing and cyberchondria during the COVID-19
 ## This article mentions these technologies
 
 * [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [Fact-checking organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_935.md)
 * [Education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_85.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [Social media platforms’ moderation policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_931.md)
 * [Online mental health platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_932.md)
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)

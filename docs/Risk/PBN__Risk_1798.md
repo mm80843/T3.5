@@ -64,9 +64,9 @@ Accelerated development of vaccines and new treatments for COVID-19
 
 ## Technologies linked to the risk
 
-* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1170.md)
 * [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
+* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1170.md)
 
 ## Property: has_RiskType
 

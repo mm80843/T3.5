@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Health declaration border pass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2249.md)
+* [Health declaration border pass](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5127.md)
 

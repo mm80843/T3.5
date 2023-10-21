@@ -2,6 +2,10 @@
 
 # __Hygienic building materials__
 
+## Link between Blueprint and General ontology
+
+* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_14.md)
+
 ## Category to which it belongs
 
 * [Promote and enforce comprehensive hygiene practices, including sanitation measures, handwashing, and cleanliness protocols.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_492.md)
@@ -23,7 +27,21 @@
 
 * [Sanitation and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1402.md)
 
+## Property: has_MitigationPrinciple
+
+Incorporate hygienic and antibacterial materials in building design to minimize the risk of infection transmission and facilitate easy sanitization.
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2490.md)
 * [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
+
+## Property: has_MitigationSource
+
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Easy-to-sanitize materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
 

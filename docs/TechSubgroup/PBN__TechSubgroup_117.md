@@ -21,16 +21,16 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
+* [Mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
+* [Network slicing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1580.md)
+* [L5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
 * [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
 * [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
 * [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_488.md)
 * [Water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1449.md)
 * [Rfid technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1134.md)
-* [L5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
 * [Hardware resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1454.md)
-* [Network slicing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1580.md)
 * [Virtual nfs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1581.md)
-* [Mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
 * [Full beamforming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1583.md)
 

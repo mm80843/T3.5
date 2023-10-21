@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_471.md)
+* [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3533.md)
 

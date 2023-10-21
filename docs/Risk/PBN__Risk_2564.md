@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Second shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_497.md)
+* [Second shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3553.md)
 

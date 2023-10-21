@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Lightweight security solutions for iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1155.md)
+* [Lightweight security solutions for iot devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4140.md)
 

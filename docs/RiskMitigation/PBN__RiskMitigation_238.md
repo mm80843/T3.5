@@ -23,7 +23,25 @@
 
 * [Constant water supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_249.md)
 
+## Property: has_MitigationPrinciple
+
+Provide alternative water sources for a stable water supply
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Wc1: water consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_199.md)
+* [Water consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3297.md)
+* [Water supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3291.md)
+
+## Property: has_MitigationSource
+
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [How to Make Green Building Certification \& Rating Systems More Pandemic-Sustainable?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_172.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Rainwater storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3462.md)
+* [Water filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
+* [Rainwater collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3570.md)
+* [Water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3571.md)
 

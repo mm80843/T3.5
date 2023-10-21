@@ -42,7 +42,7 @@ Feelings of anxiety, fear, and frustration due to the measures
 ## Mitigations of this risk
 
 * [Mental health support services, stress management programs, promoting self-care activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2962.md)
-* [Media content regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_316.md)
+* [Media content regulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3391.md)
 
 ## Name of the risk
 

@@ -41,7 +41,7 @@ Transmission of COVID-19 is prevalent in closed or poorly ventilated buildings.
 
 ## Mitigations of this risk
 
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_262.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
 * [Improve building ventilation systems and air circulation, ensure proper maintenance of hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2546.md)
 
 ## Name of the risk

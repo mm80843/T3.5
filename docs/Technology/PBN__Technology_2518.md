@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Increased outside air fraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_536.md)
+* [Increased outside air fraction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3585.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3077 
 
-# __Absorb surge in service demande__
+# __Use of professional signage__
 
 ## Category to which it belongs
 
-* [Promote sustainable energy practices, implement energy-efficient technologies, and provide financial assistance for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Surge capacity planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_616.md)
-* [Demand management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1318.md)
-* [Demand response programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_372.md)
-* [Implement demand response programs, incentivize load shifting and energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3076.md)
-* [Electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1185.md)
-* [Conduct comprehensive energy consumption breakdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4113.md)
-* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
-* [Optimizing transport based on demand](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2276.md)
-* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3302.md)
-* [Reduction in traffic volumes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3370.md)
+* [Use of standardized signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3079.md)
+* [Retailers should use professional signage on durable materials with clear and readable fonts, and regularly check and replace damaged or faded signs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3665.md)
+* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2968.md)
+* [Health and safety rule signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3078.md)
+* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3076.md)
+* [Professional signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4041.md)
+* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1861.md)
+* [Retail store signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4034.md)
+* [Retailers should prioritize the use of professional signs for important and standardized messaging, and remove or update informal signs to avoid confusion.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4040.md)
+* [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1020.md)
 

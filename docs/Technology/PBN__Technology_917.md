@@ -25,7 +25,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_928.md)
+* [Stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_744.md)
 
 ## Risks linked to this technology
 

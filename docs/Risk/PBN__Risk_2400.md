@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Occupant awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_85.md)
+* [Occupant awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3193.md)
 

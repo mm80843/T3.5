@@ -1,21 +1,22 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3364 
 
-# __Marketing research__
+# __Collaborative networks and partnerships__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Enhance collaboration, investment, partnerships, diversification, and governance to promote sustainable economic recovery and growth.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_473.md)
+Foster collaboration and partnership among stakeholders through the use of collaboration tools, such as chat rooms and workshops, enabling coordinated and collective response to mitigate the spread of contagious diseases.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_318.md)
-* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3159.md)
-* [Creating value-based marketing strategies, offering discounts or promotions, and diversifying product/service offerings to meet changing consumer needs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2838.md)
-* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3347.md)
-* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3362.md)
-* [Consider implications for design, conduct, and interpretation of research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1385.md)
-* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3160.md)
-* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3158.md)
-* [Research priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3363.md)
-* [Reliable research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3314.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2441.md)
+
+## Property: has_MitigationSource
+
+* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
+* [Workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2267.md)
+* [Chat rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2344.md)
 

@@ -23,7 +23,24 @@
 
 * [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_36.md)
 
+## Property: has_MitigationPrinciple
+
+Development and deployment of new healthcare applications and services with the use of AI and Machine Learning technologies, supported by software defined networking and multi-access edge computing
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_22.md)
+* [Rapid deployment of healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3238.md)
+
+## Property: has_MitigationSource
+
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2033.md)
+* [Sdn](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3356.md)
+* [Nfv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3357.md)
+* [Mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
 

@@ -2,6 +2,10 @@
 
 # __Surface cleaning protocols__
 
+## Link between Blueprint and General ontology
+
+* [Cleaning technologies (robots)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_12.md)
+
 ## Category to which it belongs
 
 * [Implement thorough and regular disinfection practices, along with the use of antimicrobial coatings and materials to minimize surface contamination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_494.md)

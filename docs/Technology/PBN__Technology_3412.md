@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Distance index pd](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1975.md)
+* [Distance index pd](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4891.md)
 

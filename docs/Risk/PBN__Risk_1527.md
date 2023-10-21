@@ -63,8 +63,8 @@ Potential for zoonotic diseases and outbreaks.
 
 ## Technologies linked to the risk
 
-* [Quarantine protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_834.md)
 * [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Quarantine protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_834.md)
 * [Animal surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_832.md)
 
 ## Property: has_RiskType

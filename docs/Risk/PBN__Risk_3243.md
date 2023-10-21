@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Scalability and qos provisioning in massive connectivity regime](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1889.md)
+* [Scalability and qos provisioning in massive connectivity regime](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_33.md)
 

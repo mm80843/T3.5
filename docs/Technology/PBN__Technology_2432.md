@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_412.md)
+* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3479.md)
 

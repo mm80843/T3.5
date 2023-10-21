@@ -4,8 +4,8 @@
 
 ## Items covered in this category
 
-* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_11.md)
-* [Smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_142.md)
 * [Fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_143.md)
 * [Wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_144.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_11.md)
+* [Smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_142.md)
 

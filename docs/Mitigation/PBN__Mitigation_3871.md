@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3871 
 
-# __National authorities__
+# __Supporting pcas governed by indigenous peoples, local communities, and private actors__
 
 ## Category to which it belongs
 
-* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
+* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
-* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3941.md)
-* [Health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3162.md)
-* [Governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3154.md)
-* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_996.md)
-* [Government coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2116.md)
-* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2373.md)
-* [National and international funding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_509.md)
-* [Government policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1002.md)
-* [Private sector](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3688.md)
-* [National and international conversations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2188.md)
+* [Including local communities in pca governance and benefits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3872.md)
+* [Raising public support and interest in nature conservation and pcas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3467.md)
+* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1669.md)
+* [Ensuring domestic budgets support pcas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4038.md)
+* [Community stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1670.md)
+* [Support local economies and livelihoods, promote sustainable alternative income-generating activities, and engage local communities in conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3503.md)
+* [Strengthen local partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3272.md)
+* [Promoting community voice and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3737.md)
+* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_277.md)
+* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_21.md)
 

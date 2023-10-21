@@ -19,3 +19,7 @@
 * [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3559.md)
 * [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3543.md)
 
+## Blueprints with this risk
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+

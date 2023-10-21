@@ -2,6 +2,10 @@
 
 # __Medical imaging techniques__
 
+## Link between Blueprint and General ontology
+
+* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
+
 ## Category to which it belongs
 
 * [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Ai-based diagnosis and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1285.md)
+* [Ai-based diagnosis and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4258.md)
 

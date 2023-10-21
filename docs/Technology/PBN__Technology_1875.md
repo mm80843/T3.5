@@ -2,6 +2,10 @@
 
 # __Experiences__
 
+## Link between Blueprint and General ontology
+
+* [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_239.md)
+
 ## Category to which it belongs
 
 * [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)

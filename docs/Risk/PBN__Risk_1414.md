@@ -63,8 +63,8 @@ Higher risk of transmission through improperly discarded masks
 
 ## Technologies linked to the risk
 
-* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
 * [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
+* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
 
 ## Property: has_RiskType
 

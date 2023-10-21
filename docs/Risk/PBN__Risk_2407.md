@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_92.md)
+* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3199.md)
 

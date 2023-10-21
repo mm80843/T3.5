@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Pragmatic clinical trials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_558.md)
+* [Pragmatic clinical trials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3606.md)
 

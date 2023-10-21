@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1926 
 
-# __Tracking plans for universal energy access and sdg7__
+# __Social activities / facilitatie social interactions__
 
 ## Category to which it belongs
 
-* [Promote sustainable energy practices, implement energy-efficient technologies, and provide financial assistance for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
+* [Promoting social distancing, equality, norms, interaction, and facilitation of social spaces to address societal issues and inequalities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
-* [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3109.md)
-* [Optimizing energy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1593.md)
-* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3035.md)
-* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1027.md)
-* [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_691.md)
-* [Enhancement of energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1920.md)
-* [Direct energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1918.md)
-* [Implement energy-efficient systems and smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3036.md)
-* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2736.md)
-* [Implement demand response programs, incentivize load shifting and energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3076.md)
-
-## Property: has_MitigationPrinciple
-
-Monitor and assess progress towards universal energy access to identify areas and communities in need of support
-
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of access to clean energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3261.md)
-
-## Property: has_MitigationSource
-
-* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Data tracking and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3383.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1760.md)
+* [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1226.md)
+* [Social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1790.md)
+* [Anti-social activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_239.md)
+* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3812.md)
+* [Human interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1922.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
+* [Encourage a balanced approach to non-contact interaction activities, promoting a mix of virtual and physical interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2964.md)
+* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_241.md)
+* [Design and develop public spaces that encourage social interaction and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3515.md)
 

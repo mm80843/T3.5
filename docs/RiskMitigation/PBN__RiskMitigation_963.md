@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Rethinking the city’s landscape and role of ugs in life quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3282.md)
+* [Rethinking the city’s landscape and role of ugs in life quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5425.md)
 * [Incorporating green infrastructure and ugs in urban planning and development, implementing green roof and wall initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2933.md)
 * [Develop strategies to ensure equal access and distribution of ugs throughout the city.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2244.md)
 * [Implementing regular maintenance and vegetation management programs in ugs, involving community in upkeep efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2934.md)

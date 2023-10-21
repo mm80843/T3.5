@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3357 
 
-# __Innovative insulation materials__
+# __Spatial mapping of covid-19 hotspots__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Optimize indoor climate with advanced technology, efficient systems, controls, insulation, and monitoring to ensure comfort and air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_471.md)
+Use spatial mapping to identify areas with high COVID-19 cases, allowing for targeted prevention measures such as lockdowns or distribution of masks and sanitizers.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3358.md)
-* [Development of new materials for better insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_294.md)
-* [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3297.md)
-* [Insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1192.md)
-* [Research and develop new materials for insulation and building performance, enhance construction methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1732.md)
-* [Improve insulation and heating systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_453.md)
-* [Proper insulation materials and cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3385.md)
-* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3359.md)
-* [Technology and materials for protection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3275.md)
-* [Upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3356.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2441.md)
+
+## Property: has_MitigationSource
+
+* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Geographical information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2341.md)
 

@@ -2,6 +2,10 @@
 
 # __Improved air quality__
 
+## Link between Blueprint and General ontology
+
+* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_0.md)
+
 ## Category to which it belongs
 
 * [Improving air quality through enhanced ventilation systems, increased fresh air intake, and the use of air purifiers and filters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_500.md)
@@ -23,7 +27,21 @@
 
 * [Reduced transmission through air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1099.md)
 
+## Property: has_MitigationPrinciple
+
+Decrease pollution and improve public health
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Respiratory illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2862.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pandemic and climate change management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_215.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Reduced fossil fuel use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2832.md)
+* [Emission control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2833.md)
 

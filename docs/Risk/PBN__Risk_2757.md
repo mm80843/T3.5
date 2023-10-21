@@ -20,5 +20,5 @@
 
 ## Mitigations of this risk
 
-* [Accurate evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
+* [Accurate evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3881.md)
 

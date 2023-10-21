@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1067.md)
+* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4059.md)
 

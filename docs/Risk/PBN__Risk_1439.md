@@ -41,7 +41,7 @@ Data is not integrated and cannot be interpreted by computers, hindering compute
 ## Mitigations of this risk
 
 * [Develop ontologies for data standardization and integration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1960.md)
-* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_750.md)
+* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3771.md)
 
 ## Name of the risk
 

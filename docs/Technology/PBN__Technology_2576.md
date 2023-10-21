@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_597.md)
+* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3634.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Mental restoration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_909.md)
+* [Mental restoration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3916.md)
 

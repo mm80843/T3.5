@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Use of water-efficient appliances/fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2073.md)
+* [Use of water-efficient appliances/fixtures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4965.md)
 

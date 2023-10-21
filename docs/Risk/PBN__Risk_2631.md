@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_617.md)
+* [Safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3651.md)
 

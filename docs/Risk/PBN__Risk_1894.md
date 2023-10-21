@@ -19,6 +19,10 @@
 * [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
 * [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3558.md)
 
+## Blueprints with this risk
+
+* [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
+
 ## Description of the risk
 
 Changes in water use patterns lead to reduced wastewater flow and concentration, potential deposition of solids, and clogging of sewer systems.

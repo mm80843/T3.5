@@ -2,6 +2,10 @@
 
 # __Social pods__
 
+## Link between Blueprint and General ontology
+
+* [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_165.md)
+
 ## Category to which it belongs
 
 * [Promote community engagement and support through various initiatives, programs, campaigns, platforms, and networks, fostering social capital and volunteer involvement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_246.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1944.md)
+* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4863.md)
 

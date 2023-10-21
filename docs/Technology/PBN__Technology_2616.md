@@ -2,6 +2,12 @@
 
 # __Iot and big data technologies__
 
+## Link between Blueprint and General ontology
+
+* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_113.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_77.md)
+* [Big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_84.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,5 +27,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_689.md)
+* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3718.md)
 

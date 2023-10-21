@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1322.md)
+* [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4292.md)
 

@@ -2,6 +2,10 @@
 
 # __Procurement__
 
+## Link between Blueprint and General ontology
+
+* [Smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_106.md)
+
 ## Category to which it belongs
 
 * [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
@@ -21,6 +25,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_971.md)
-* [Creation of resceu stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_973.md)
+* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3972.md)
+* [Creation of resceu stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3974.md)
 

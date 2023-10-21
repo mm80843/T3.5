@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Adaptation of schools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1941.md)
+* [Adaptation of schools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4860.md)
 

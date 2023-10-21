@@ -2,6 +2,10 @@
 
 # __Water contamination__
 
+## Link between Blueprint and General ontology
+
+* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_1.md)
+
 ## Category to which it belongs
 
 * [Limited access to clean water and sanitation, contamination of water bodies, poor water management and treatment, and the need for improved wastewater-based epidemiology methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
@@ -19,10 +23,15 @@
 * [Waste contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3290.md)
 * [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2013.md)
 
+## Blueprints with this risk
+
+* [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
+* [Drinking water safety - restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
+
 ## Mitigations of this risk
 
 * [Improved water systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_153.md)
-* [Water quality management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_182.md)
-* [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2067.md)
-* [Maintenance and/or decontamination of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2068.md)
+* [Water quality management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3277.md)
+* [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_228.md)
+* [Maintenance and/or decontamination of water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4963.md)
 

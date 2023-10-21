@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Climate-sensitive design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_515.md)
+* [Climate-sensitive design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3568.md)
 

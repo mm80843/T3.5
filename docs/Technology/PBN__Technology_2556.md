@@ -2,6 +2,10 @@
 
 # __Geographical information system gis__
 
+## Link between Blueprint and General ontology
+
+* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_160.md)
+
 ## Category to which it belongs
 
 * [Strategies for equitable urban planning, development, and design, integrating green spaces, technology, and spatial optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Spatial analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_573.md)
+* [Spatial analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_160.md)
 

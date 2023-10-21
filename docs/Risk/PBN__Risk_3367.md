@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2295.md)
+* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5170.md)
 

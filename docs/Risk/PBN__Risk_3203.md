@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1762.md)
+* [Planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4698.md)
 

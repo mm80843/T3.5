@@ -42,7 +42,7 @@ Lack of knowledge and understanding about COVID-19
 ## Mitigations of this risk
 
 * [Increase public education and communication efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2849.md)
-* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_932.md)
+* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3934.md)
 
 ## Name of the risk
 

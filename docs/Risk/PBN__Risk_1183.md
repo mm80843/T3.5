@@ -63,8 +63,8 @@ Reduces pathogen concentrations in the room, lowering risk of infection
 
 ## Technologies linked to the risk
 
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
 * [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
 
 ## Property: has_RiskType
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3148 
 
-# __Blockchain technology for supply chain transparency__
+# __Offer mortgage holidays, provide financial support for individuals, delay negotiations during lockdown__
 
 ## Category to which it belongs
 
-* [Promoting resilience and efficiency in global supply chains through diversification, optimization, and strategic coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_154.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_426.md)
-* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3145.md)
-* [Strengthen supply chains, utilize blockchain for efficient tracking and distribution of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3151.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3146.md)
-* [Transparency and traceability in the medical supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1832.md)
-* [Store donation process in blockchain for transparency and verification, reducing corruption and improving social trust](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2627.md)
-* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_151.md)
-* [Simplify supply chain structures, build collaborative relationships, enhance communication and coordination among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3765.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2437.md)
-* [Material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3667.md)
+* [Seek financial support, negotiate new payment terms, explore new markets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3267.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_904.md)
+* [Loan restructuring, government assistance, financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3144.md)
+* [Mortgage holidays](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4092.md)
+* [Building lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_132.md)
+* [Implement financial support programs and resources for individuals and businesses; promote job creation and stability; provide financial education and counseling.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1027.md)
+* [Implement eviction moratoria, provide rental assistance, establish eviction diversion programs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3711.md)
+* [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3772.md)
+* [Implement eviction moratoria, provide rental assistance, and support eviction prevention programs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3710.md)
+* [Provide stable housing options, create affordable housing programs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1415.md)
 

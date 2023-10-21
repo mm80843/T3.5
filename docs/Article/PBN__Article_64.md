@@ -40,16 +40,16 @@ The importance of vector control for the control and elimination of vector-borne
 
 ## This article points to following mitigation
 
-* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2317.md)
-* [Larviciding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2318.md)
-* [Insecticide-treated bed nets itns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2319.md)
-* [Indoor residual spraying irs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2320.md)
-* [House screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2321.md)
-* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2322.md)
-* [Genetic manipulation of mosquitoes gene drive](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2323.md)
-* [Wolbachia intervention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2324.md)
-* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2325.md)
-* [Eave tubes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2326.md)
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_333.md)
+* [Larviciding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5190.md)
+* [Insecticide-treated bed nets itns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5191.md)
+* [Indoor residual spraying irs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5192.md)
+* [House screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5193.md)
+* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5194.md)
+* [Genetic manipulation of mosquitoes gene drive](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5195.md)
+* [Wolbachia intervention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5196.md)
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5197.md)
+* [Eave tubes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5198.md)
 
 ## This article mentions these technologies
 

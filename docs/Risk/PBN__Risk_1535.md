@@ -19,6 +19,10 @@
 * [Lack of green space in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_141.md)
 * [Lack of access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1592.md)
 
+## Blueprints with this risk
+
+* [Acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_16.md)
+
 ## Description of the risk
 
 The absence of green spaces in healthcare facilities deprives patients, visitors, and healthcare professionals of the therapeutic benefits of nature and outdoor environments.

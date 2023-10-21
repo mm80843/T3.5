@@ -19,6 +19,10 @@
 * [Climate change impacts on mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_758.md)
 * [Stagnant water provides mosquito breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3043.md)
 
+## Blueprints with this risk
+
+* [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
+
 ## Description of the risk
 
 Current mosquito control strategies are inadequate, especially for urban areas, leading to increased mosquito populations and disease transmission.

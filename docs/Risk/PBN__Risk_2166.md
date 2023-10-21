@@ -63,11 +63,11 @@ Prevent virus propagation
 
 ## Technologies linked to the risk
 
+* [Shoe cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1716.md)
+* [Rollout mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1717.md)
+* [Thermo-visors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1719.md)
 * [Tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1720.md)
 * [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1718.md)
-* [Rollout mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1717.md)
-* [Shoe cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1716.md)
-* [Thermo-visors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1719.md)
 
 ## Property: has_RiskType
 

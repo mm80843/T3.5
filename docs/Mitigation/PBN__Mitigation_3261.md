@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3261 
 
-# __Lack of behavior change__
+# __Increasing credit guarantee ratio__
 
 ## Category to which it belongs
 
-* [Promoting social distancing, equality, norms, interaction, and facilitation of social spaces to address societal issues and inequalities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_693.md)
-* [Behavior change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2426.md)
-* [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3193.md)
-* [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3979.md)
-* [Analysis of root causes of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2486.md)
-* [Behavioral interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_518.md)
-* [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1031.md)
-* [Attitude change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3113.md)
-* [Monitoring changing social behavior](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_897.md)
-* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3981.md)
+* [Gradually reducing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3262.md)
+* [Establishing credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3259.md)
+* [Establishing a regional credit guarantee](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3260.md)
+* [Guaranteeing reimbursement of loans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3149.md)
+* [Emergency loan guarantees](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3145.md)
+* [Enhancing financial capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3266.md)
+* [Seek financial support, negotiate new payment terms, explore new markets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3267.md)
+* [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3268.md)
+* [Financial interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_543.md)
+* [Lending](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_178.md)
 

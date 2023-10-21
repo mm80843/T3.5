@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Broad-spectrum antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2332.md)
+* [Broad-spectrum antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5203.md)
 

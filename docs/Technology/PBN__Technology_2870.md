@@ -2,6 +2,14 @@
 
 # __Situated visualization__
 
+## Link between Blueprint and General ontology
+
+* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_3.md)
+* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_82.md)
+* [Timeline-based visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_81.md)
+* [Infographics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_93.md)
+* [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_97.md)
+
 ## Category to which it belongs
 
 * [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Large-scale & longitudinal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1076.md)
+* [Large-scale & longitudinal](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4068.md)
 

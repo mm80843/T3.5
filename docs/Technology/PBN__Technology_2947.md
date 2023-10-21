@@ -2,6 +2,10 @@
 
 # __Video and audio surveillance solutions__
 
+## Link between Blueprint and General ontology
+
+* [Cctv footage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_178.md)
+
 ## Category to which it belongs
 
 * [Enhanced visual monitoring technology for communication, collaboration, data collection, and security purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Video and audio devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1187.md)
+* [Video and audio devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4172.md)
 

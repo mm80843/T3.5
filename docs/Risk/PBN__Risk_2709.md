@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Covid-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_781.md)
+* [Covid-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3800.md)
 

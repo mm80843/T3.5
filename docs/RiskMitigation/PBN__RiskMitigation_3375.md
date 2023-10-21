@@ -1,21 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3375 
 
-# __Emergency management agency__
+# __Physical and mental health__
 
-## Category to which it belongs
+## Link between Blueprint and General ontology
 
-* [Strengthen healthcare systems, increase capacity, and ensure access to essential healthcare services through telemedicine, medical facility expansion, and resource allocation planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_477.md)
+* [Improve physical health](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_27.md)
 
-## Closest similar item
+## Property: has_MitigationPrinciple
 
-* [Emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3374.md)
-* [Disaster management agencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3368.md)
-* [Emergency support and safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3190.md)
-* [Disaster response team](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3372.md)
-* [Crisis management teams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3367.md)
-* [Disaster response teams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3373.md)
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_382.md)
-* [Strengthen public health emergency preparedness and response systems to mitigate the impact of epidemics.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2432.md)
-* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3210.md)
-* [Efficient crisis management, timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2702.md)
+Provide resources for employees to work in a healthy manner, create provisions for stress and anxiety management, offer flexible sick leave policies, and encourage open discussions about the impact of the pandemic on employees' physical and mental well-being.
+
+## Risks possibly mitigated by this Mitigation
+
+* [Physical and mental health concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2491.md)
+
+## Property: has_MitigationSource
+
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Stress management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1282.md)
+* [Flexible sick leave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2366.md)
 

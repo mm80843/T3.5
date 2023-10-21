@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3759 
 
-# __Inequitable distribution of resources__
+# __Telepsychiatry__
 
 ## Category to which it belongs
 
-* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
+* [Expanding healthcare access through remote technology, including telemedicine, telehealth clinics, and virtual consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
-* [Efficient distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3756.md)
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_867.md)
-* [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3760.md)
-* [Availability of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
-* [Misallocation of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3757.md)
-* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3754.md)
-* [Sustainable and equitable tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_563.md)
-* [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3755.md)
-* [Implement policies to address inequalities in access to resources, provide support to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3943.md)
-* [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3194.md)
+* [Telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3742.md)
+* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3621.md)
+* [Telemedicine and telepsychology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1042.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_400.md)
+* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_403.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1206.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_406.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3436.md)
+* [Telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_399.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
 

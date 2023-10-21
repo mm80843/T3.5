@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Implementing sound insulation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_475.md)
+* [Implementing sound insulation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3537.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Equitable park access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1035.md)
+* [Equitable park access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4031.md)
 

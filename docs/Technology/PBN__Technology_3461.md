@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Management of an increased amount of waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2071.md)
+* [Management of an increased amount of waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4964.md)
 

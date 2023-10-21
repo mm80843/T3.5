@@ -4,10 +4,10 @@
 
 ## Items covered in this category
 
-* [Hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_139.md)
-* [HEPA Filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_25.md)
-* [Implementation of hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_145.md)
 * [Air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_146.md)
 * [Air purifier with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_147.md)
+* [HEPA Filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_25.md)
+* [Implementation of hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_145.md)
 * [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_148.md)
+* [Hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_139.md)
 

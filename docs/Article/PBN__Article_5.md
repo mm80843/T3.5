@@ -46,26 +46,26 @@ Building up an ecologically sustainable and socially desirable post-COVID-19 fut
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
-* [Border closures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_306.md)
-* [Carbon pricing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_569.md)
-* [Sustainable farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_570.md)
-* [Universal healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_568.md)
-* [Deforestation reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_566.md)
-* [Wildlife trade ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_567.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_832.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3123.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_427.md)
+* [Border closures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3612.md)
+* [Carbon pricing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3616.md)
+* [Sustainable farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3617.md)
+* [Universal healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3615.md)
+* [Deforestation reduction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3613.md)
+* [Wildlife trade ban](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3614.md)
 
 ## This article mentions these technologies
 
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_532.md)
 * [Sustainable agriculture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_533.md)
 * [Increased surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_523.md)
 * [Early detection and response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_524.md)
 * [Improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_525.md)
 * [Effective decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_536.md)
 * [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_530.md)
-* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_532.md)
 * [Open communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_537.md)
 * [Social safety nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_527.md)
 * [Improved access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_526.md)

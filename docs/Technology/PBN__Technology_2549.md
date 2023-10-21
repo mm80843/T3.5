@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Sustainable and equitable tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_563.md)
+* [Sustainable and equitable tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3611.md)
 

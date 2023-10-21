@@ -2,6 +2,10 @@
 
 # __Physical activity__
 
+## Link between Blueprint and General ontology
+
+* [Activities continuity](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_8.md)
+
 ## Category to which it belongs
 
 * [Reduced physical activity, isolation, discomfort, information asymmetry, and non-compliance negatively impact health and well-being in indoor environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
@@ -19,7 +23,11 @@
 * [And physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2267.md)
 * [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
 
+## Blueprints with this risk
+
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
+
 ## Mitigations of this risk
 
-* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2062.md)
+* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_223.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_811.md)
+* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3827.md)
 

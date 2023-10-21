@@ -46,13 +46,13 @@ Future perspectives of wastewater-based epidemiology: Monitoring infectious dise
 
 ## This article points to following mitigation
 
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1054.md)
-* [Sentinel surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1859.md)
-* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1860.md)
-* [Protein-based inflammation biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1861.md)
-* [Monitoring of pharmaceuticals and metabolites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1862.md)
-* [Antimicrobial resistance gene monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1864.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
+* [Sentinel surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4790.md)
+* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4791.md)
+* [Protein-based inflammation biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4792.md)
+* [Monitoring of pharmaceuticals and metabolites](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4793.md)
+* [Antimicrobial resistance gene monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4794.md)
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4795.md)
 
 ## This article mentions these technologies
 

@@ -25,17 +25,30 @@ This blueprint aims to reduce the number of physical contact points in the build
 
 ## Enablers of the blueprint
 
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_11.md)
 * [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_13.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_11.md)
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
 
 ## Interventions of the blueprint
 
 * [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_13.md)
 * [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_15.md)
+
+## Possible mitigations of the BP
+
+* [Covering high-touch surfaces with antimicrobial material](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5438.md)
+* [Ensuring the availability of hand hygiene facilities handwashing stations or sanitizer dispensers , regular cleaning and disinfection of surfaces, and proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2232.md)
+* [Regular disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1926.md)
+* [Regular and thorough disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2074.md)
+* [Touchless technologies for doors and faucets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5458.md)
+* [Implement touchless technologies, promote natural light, and establish self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2935.md)
+* [Implement touchless technologies, promote regular sanitization and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2891.md)
+* [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4719.md)
+* [Regular cleaning and disinfection, minimizing contact with high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2787.md)
+* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4774.md)
 
 ## Type of deployment of the blueprint
 
@@ -57,6 +70,19 @@ Many pathogens are transmitted by touching contaminated objects, known as fomite
 
 Existing systems may require certain physical contacts (as with fingerprint solutions).
 In addition, stakeholders who physically work in the building cannot exclude physical contact from their daily activities. Sensor control of functions that do not consume energy, such as opening doors, would lead to a small increase in energy consumption. On the other hand, sensor control of lighting, e.g. depending on the presence of staff, would lead to a decrease in energy consumption. Certain contactless technologies (such as facial recognition) could pose an increased risk to privacy or the feeling of surveillance of people and affect the feeling of freedom.  
+
+## Possible risks of the BP
+
+* [Contamination of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1413.md)
+* [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
+* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
+* [Limited access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_227.md)
+* [Inadequate hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3472.md)
+* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3473.md)
+* [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_605.md)
+* [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1724.md)
+* [Manual contact with surfaces during door opening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2691.md)
 
 ## Scale of the of the blueprint
 

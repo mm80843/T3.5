@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Water consumption and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_489.md)
+* [Water consumption and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_802.md)
 

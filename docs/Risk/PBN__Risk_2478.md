@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_258.md)
+* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_310.md)
 

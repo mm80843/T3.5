@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Universal asymptomatic testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_844.md)
+* [Universal asymptomatic testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3858.md)
 

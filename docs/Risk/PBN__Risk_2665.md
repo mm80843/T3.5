@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Limiting familial cluster infections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_709.md)
+* [Limiting familial cluster infections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3733.md)
 

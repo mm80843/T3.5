@@ -65,8 +65,8 @@ Reduces viral infectivity and transmission
 ## Technologies linked to the risk
 
 * [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
-* [Hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
 * [Ethanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_851.md)
+* [Hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
 
 ## Property: has_RiskType
 

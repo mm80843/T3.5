@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2240.md)
+* [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5118.md)
 

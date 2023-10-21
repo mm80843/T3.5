@@ -2,6 +2,10 @@
 
 # __Control air movement in small spaces__
 
+## Link between Blueprint and General ontology
+
+* [Control airflows in spaces & Avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_4.md)
+
 ## Category to which it belongs
 
 * [Enhancing and expanding green and public spaces to promote sustainability, accessibility, and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_484.md)

@@ -33,7 +33,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_695.md)
+* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3722.md)
 
 ## Risks linked to this technology
 

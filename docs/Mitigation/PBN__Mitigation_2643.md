@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2643 
 
-# __Sunlight in the home__
+# __Configuration of community service facilities__
 
 ## Category to which it belongs
 
-* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
+* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Natural sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1934.md)
-* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_467.md)
-* [Increase sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2644.md)
-* [Proper use of daylight and sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_539.md)
-* [Daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_136.md)
-* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2348.md)
-* [Improved ventilation and sunlight exposure in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
-* [Improve living conditions, access to natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3684.md)
-* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_171.md)
-* [Heat and sunlight exposure in summer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3191.md)
+* [Shared facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2641.md)
+* [Designating community-level areas for essential services and supplies.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3018.md)
+* [Balanced allocation of urban services and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3119.md)
+* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
+* [Composite space service facilities planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2986.md)
+* [Facility management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2645.md)
+* [Restrictions on shared facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_333.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_373.md)
+* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3419.md)
+* [Restrictions on shared facilities and uses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_338.md)
 

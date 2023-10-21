@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_942.md)
+* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3944.md)
 

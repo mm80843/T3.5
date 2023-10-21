@@ -23,7 +23,21 @@
 
 * [Early detection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_181.md)
 
+## Property: has_MitigationPrinciple
+
+Ensuring that immigrants have equal access to testing facilities and healthcare resources can help identify and control the spread of COVID-19 among this population.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Covid-19 impact on immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_981.md)
+* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2340.md)
+
+## Property: has_MitigationSource
+
+* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2747.md)
+* [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1996.md)
 

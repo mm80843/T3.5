@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Data mining methods for understanding the covid-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1363.md)
+* [Data mining methods for understanding the covid-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4331.md)
 

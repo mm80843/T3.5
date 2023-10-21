@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Chemical deactivation of viral particles on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_534.md)
+* [Chemical deactivation of viral particles on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3583.md)
 

@@ -21,10 +21,10 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
+* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1351.md)
 * [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
 * [Water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_91.md)
 * [Water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
 * [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_92.md)
-* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1351.md)
 * [Water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
 

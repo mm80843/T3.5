@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Raising public support and interest in nature conservation and pcas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_485.md)
+* [Raising public support and interest in nature conservation and pcas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3547.md)
 

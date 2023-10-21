@@ -64,8 +64,8 @@ Higher risk of transmission through contact with contaminated floor surfaces
 
 ## Technologies linked to the risk
 
-* [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_205.md)
 * [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
+* [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_205.md)
 
 ## Property: has_RiskType
 

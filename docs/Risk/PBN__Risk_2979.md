@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Cancelation of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1298.md)
+* [Cancelation of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4269.md)
 

@@ -2,6 +2,15 @@
 
 # __Design & construction software bim__
 
+## Link between Blueprint and General ontology
+
+* [Bim software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_256.md)
+* [Building information model bim](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_257.md)
+* [Construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_206.md)
+* [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_226.md)
+* [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_205.md)
+* [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_258.md)
+
 ## Category to which it belongs
 
 * [Building design and construction practices prioritize sustainability, incorporate innovative technology, and consider social equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2400.md)
+* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5266.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2397.md)
+* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5263.md)
 

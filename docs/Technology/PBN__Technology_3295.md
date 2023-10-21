@@ -2,6 +2,10 @@
 
 # __Infrared cameras__
 
+## Link between Blueprint and General ontology
+
+* [Video cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_180.md)
+
 ## Category to which it belongs
 
 * [Enhanced visual monitoring technology for communication, collaboration, data collection, and security purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1755.md)
+* [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_403.md)
 

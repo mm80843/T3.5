@@ -19,6 +19,10 @@
 * [Increased prevalence of mental health symptoms during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1271.md)
 * [Physical inactivity during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_850.md)
 
+## Blueprints with this risk
+
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
+
 ## Description of the risk
 
 Reduced physical fitness, increased sedentary behavior

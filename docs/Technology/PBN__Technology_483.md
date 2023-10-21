@@ -33,8 +33,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1971.md)
-* [Enhanced respiratory protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
+* [Ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4888.md)
+* [Enhanced respiratory protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3521.md)
 
 ## Risks linked to this technology
 

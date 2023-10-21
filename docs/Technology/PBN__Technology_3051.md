@@ -2,6 +2,15 @@
 
 # __Cameras__
 
+## Link between Blueprint and General ontology
+
+* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_12.md)
+* [Cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_177.md)
+* [Cctv footage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_178.md)
+* [Cctv](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_179.md)
+* [Video cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_180.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_181.md)
+
 ## Category to which it belongs
 
 * [Enhanced visual monitoring technology for communication, collaboration, data collection, and security purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
@@ -21,6 +30,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2399.md)
-* [Ai-assisted patient positioning for radiological imaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1362.md)
+* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5265.md)
+* [Ai-assisted patient positioning for radiological imaging](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4330.md)
 

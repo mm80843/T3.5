@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1032.md)
+* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4028.md)
 

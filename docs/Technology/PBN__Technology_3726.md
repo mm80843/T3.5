@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Nature interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2411.md)
+* [Nature interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5276.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4042 
 
-# __Material shortage__
+# __Informal signs__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4043.md)
-* [Material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3667.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2984.md)
-* [Material selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1436.md)
-* [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1628.md)
-* [Resistance to new materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4041.md)
-* [Assessing the possibility of late or halted deliveries of materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1643.md)
-* [Resume material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_964.md)
-* [Availability of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
-* [Use of local and sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_768.md)
+* [Professional signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4041.md)
+* [Retailers should prioritize the use of professional signs for important and standardized messaging, and remove or update informal signs to avoid confusion.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4040.md)
+* [Retail store signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4034.md)
+* [Use of professional signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3077.md)
+* [Use of standardized signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3079.md)
+* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2968.md)
+* [Retailers should use professional signage on durable materials with clear and readable fonts, and regularly check and replace damaged or faded signs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3665.md)
+* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3741.md)
+* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3076.md)
+* [Health and safety rule signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3078.md)
 

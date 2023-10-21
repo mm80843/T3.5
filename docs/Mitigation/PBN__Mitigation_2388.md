@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2388 
 
-# __Safe management of domestic waste__
+# __Continuity of essential services__
 
 ## Category to which it belongs
 
-* [Proactive implementation of safety protocols, including the provision of personal protective equipment, to ensure protection and minimize risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_181.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_341.md)
-* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_91.md)
-* [Improved waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1047.md)
-* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3052.md)
-* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2175.md)
-* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3053.md)
-* [Management of increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3056.md)
-* [Inadequate waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3054.md)
-* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3878.md)
-* [Sustainable alternatives, proper disposal of waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3951.md)
-
-## Property: has_MitigationPrinciple
-
-Proper handling and disposal of medical waste to minimize the risk of spreading the virus and environmental pollution
-
-## Risks possibly mitigated by this Mitigation
-
-* [Increased waste, risk of contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3401.md)
-
-## Property: has_MitigationSource
-
-* [Indirect effects of COVID-19 on the environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_238.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Monitoring and prioritizing essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2385.md)
+* [Business continuity guideline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2042.md)
+* [Extending basic services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2227.md)
+* [Ensuring the quality and reliability of services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3639.md)
+* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2746.md)
+* [Self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2747.md)
+* [Support for people who cannot stop working and provide essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_905.md)
+* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2225.md)
+* [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1367.md)
+* [Providing resources and support, clear communication of guidelines, ensuring access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1014.md)
 

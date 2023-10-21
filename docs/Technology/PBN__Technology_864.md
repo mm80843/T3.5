@@ -2,6 +2,10 @@
 
 # __Renewable energy sources__
 
+## Link between Blueprint and General ontology
+
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_264.md)
+
 ## Category to which it belongs
 
 * [Efficient, sustainable energy technologies and systems that reduce carbon emissions and promote clean, renewable sources, while optimizing energy management and conservation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
@@ -36,9 +40,9 @@
 
 ## This Technology enables the following mitigations
 
-* [Experiment with innovative models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2123.md)
-* [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2075.md)
-* [Sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2097.md)
+* [Experiment with innovative models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5005.md)
+* [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4966.md)
+* [Sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4982.md)
 
 ## Risks linked to this technology
 

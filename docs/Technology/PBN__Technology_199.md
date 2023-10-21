@@ -34,7 +34,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_522.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3574.md)
 
 ## Risks linked to this technology
 

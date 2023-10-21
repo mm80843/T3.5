@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Indoor residual spraying irs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2320.md)
-* [Spraying disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_37.md)
+* [Indoor residual spraying irs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5192.md)
+* [Spraying disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3151.md)
 

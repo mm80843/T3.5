@@ -21,9 +21,9 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1316.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 * [Ai algorithms for content analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2037.md)

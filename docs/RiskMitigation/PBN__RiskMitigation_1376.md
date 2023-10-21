@@ -17,13 +17,27 @@
 * [Provide unemployment benefits, retrain and reskill workers, support job creation in emerging sectors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2903.md)
 * [Enhance job training and reskilling programs, promote entrepreneurship, and support job creation in new industries.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2626.md)
 * [Job training programs, re-skilling initiatives, and government assistance for unemployed individuals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2839.md)
-* [Investment in job creation and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3139.md)
+* [Investment in job creation and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5300.md)
 
 ## Benefits linked to a risk
 
 * [Minimized job losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1344.md)
 
+## Property: has_MitigationPrinciple
+
+Implementing job retention schemes and providing financial support can help protect immigrants from losing their jobs and experiencing unemployment during economic downturns.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Covid-19 impact on immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_981.md)
+* [Job losses and unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3059.md)
+
+## Property: has_MitigationSource
+
+* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_605.md)
+* [Job retention programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3102.md)
 

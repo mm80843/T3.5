@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1574.md)
+* [Education and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4524.md)
 

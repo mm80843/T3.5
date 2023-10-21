@@ -2,6 +2,10 @@
 
 # __Smart systems__
 
+## Link between Blueprint and General ontology
+
+* [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_171.md)
+
 ## Category to which it belongs
 
 * [An array of systems and tools for real-time monitoring, surveillance, and control of various environmental, health, and safety parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Promoting energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_474.md)
+* [Promoting energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3536.md)
 

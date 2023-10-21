@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4081 
 
-# __Forming an ad hoc committee__
+# __Lack of educational resources__
 
 ## Category to which it belongs
 
-* [Promote cohesive teamwork, partnerships, and collective knowledge sharing for efficient research, analysis, and collaboration in various fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
+* [Enhancing education access and equity through virtual learning, training programs, and closure of educational institutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Mass gathering containment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_819.md)
-* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_970.md)
-* [Implementing temporary regulations to restrict group gatherings, overcrowding, and high-level interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3483.md)
-* [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3288.md)
-* [Restrict mass gatherings, assess risks and benefits of organizing events](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3293.md)
-* [Government coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2116.md)
-* [Collaboration with who and government organizations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3764.md)
-* [Restrict mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_582.md)
-* [Stakeholder cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2117.md)
-* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1992.md)
+* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3115.md)
+* [Inadequate education and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3625.md)
+* [Lack of support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3790.md)
+* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2919.md)
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1781.md)
+* [Disruption of education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2070.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_258.md)
+* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4016.md)
+* [Educational and training resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_273.md)
+* [Lack of proper training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4080.md)
 

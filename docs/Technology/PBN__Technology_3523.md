@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Land use data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2138.md)
+* [Land use data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5020.md)
 

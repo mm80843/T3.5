@@ -20,5 +20,5 @@
 
 ## Mitigations of this risk
 
-* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2357.md)
+* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5224.md)
 

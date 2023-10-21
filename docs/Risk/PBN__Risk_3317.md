@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Support widespread skills](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2122.md)
+* [Support widespread skills](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5004.md)
 

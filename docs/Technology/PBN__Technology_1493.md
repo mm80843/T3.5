@@ -37,7 +37,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
+* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3273.md)
 
 ## Risks linked to this technology
 

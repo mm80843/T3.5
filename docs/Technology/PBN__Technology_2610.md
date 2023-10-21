@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Cloud service and database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_682.md)
-* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_689.md)
+* [Cloud service and database](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3711.md)
+* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3718.md)
 

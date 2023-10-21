@@ -21,7 +21,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_788.md)
-* [Worker education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_851.md)
-* [Emergency plan development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1572.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3806.md)
+* [Worker education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3863.md)
+* [Emergency plan development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4522.md)
 

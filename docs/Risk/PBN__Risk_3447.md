@@ -2,6 +2,10 @@
 
 # __Data governance and management__
 
+## Link between Blueprint and General ontology
+
+* [Information management](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_9.md)
+
 ## Category to which it belongs
 
 * [Limited and fragmented data availability and interoperability hinder analysis, decision-making, and trust in the reliability of information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)

@@ -16,14 +16,27 @@
 * [Voluntary testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_161.md)
 * [Travel restrictions, isolation, testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2123.md)
 * [Combining multiple screening methods, widespread testing programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3046.md)
-* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3120.md)
+* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5282.md)
 * [Public education, social distancing, home quarantine, and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1009.md)
 
 ## Benefits linked to a risk
 
 * [Transmission reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_419.md)
 
+## Property: has_MitigationPrinciple
+
+Combining isolation, testing, and school closure measures
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Uncontrolled sars-cov-2 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_330.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+
+## Property: has_MitigationSource
+
+* [Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_84.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3142.md)
 

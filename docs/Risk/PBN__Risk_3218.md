@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Improved blood safety practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1803.md)
+* [Improved blood safety practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4739.md)
 

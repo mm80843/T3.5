@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Natural daylight access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_180.md)
+* [Natural daylight access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3275.md)
 

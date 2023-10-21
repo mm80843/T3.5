@@ -4,10 +4,13 @@
 
 ## Items covered in this category
 
+* [Ontology development and integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2661.md)
 * [Data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
 * [Data recording systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
 * [Quality control tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_690.md)
 * [Data transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_799.md)
+* [Research databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2562.md)
+* [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
 * [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
 * [Data access platforms and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1967.md)
 * [Real-time data aggregation tools and apis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
@@ -27,7 +30,6 @@
 * [Real-time data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3639.md)
 * [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_769.md)
 * [Tools such as protégé](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_56.md)
-* [Ontology development and integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2661.md)
 * [Data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_779.md)
 * [Data quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1686.md)
 * [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1085.md)
@@ -50,7 +52,6 @@
 * [Digital integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
 * [Remote data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1698.md)
 * [Data sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1424.md)
-* [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
 * [Data validation algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_314.md)
 * [Data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_822.md)
 * [Information filtering tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_934.md)
@@ -58,7 +59,6 @@
 * [Open data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1590.md)
 * [Open-access databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_784.md)
 * [Real-time data streams](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3007.md)
-* [Research databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2562.md)
 * [Data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1317.md)
 * [Data validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1894.md)
 * [Validation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1898.md)

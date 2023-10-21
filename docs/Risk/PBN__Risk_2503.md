@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Quick and accurate disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_357.md)
+* [Quick and accurate disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3429.md)
 

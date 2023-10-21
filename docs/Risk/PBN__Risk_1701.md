@@ -19,6 +19,10 @@
 * [Covid-19 transmission in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_371.md)
 * [Transmission of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2099.md)
 
+## Blueprints with this risk
+
+* [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_4.md)
+
 ## Description of the risk
 
 Higher likelihood of virus transmission in crowded areas, leading to increased infection rates

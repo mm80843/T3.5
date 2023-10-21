@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Design spaces with lower occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_952.md)
-* [Design separate spaces for different functions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_957.md)
+* [Design spaces with lower occupant density](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3953.md)
+* [Design separate spaces for different functions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3958.md)
 

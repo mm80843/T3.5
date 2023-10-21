@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_590.md)
+* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3632.md)
 

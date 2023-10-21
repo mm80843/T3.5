@@ -2,6 +2,10 @@
 
 # __Data tracking and analysis technologies__
 
+## Link between Blueprint and General ontology
+
+* [Data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_76.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,6 +25,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Mass surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1911.md)
-* [Tracking plans for universal energy access and sdg7](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1926.md)
+* [Mass surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4833.md)
+* [Tracking plans for universal energy access and sdg7](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4848.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Tailored policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_674.md)
+* [Tailored policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3703.md)
 

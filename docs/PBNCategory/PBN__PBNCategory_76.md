@@ -4,8 +4,8 @@
 
 ## Items covered in this category
 
-* [Location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_159.md)
 * [Travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_161.md)
+* [Location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_159.md)
 * [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_162.md)
 * [Travel tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_163.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_868.md)
+* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3877.md)
 

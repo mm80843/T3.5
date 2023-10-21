@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Adjustable indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2168.md)
+* [Adjustable indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5048.md)
 

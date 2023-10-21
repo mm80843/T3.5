@@ -18,6 +18,10 @@
 * [Reduced customer spending](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_677.md)
 * [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1754.md)
 
+## Blueprints with this risk
+
+* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
+
 ## Description of the risk
 
 Customer needs and preferences change due to the COVID-19 crisis.

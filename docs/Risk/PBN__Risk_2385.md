@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Mutual aid groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_29.md)
+* [Mutual aid groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3143.md)
 

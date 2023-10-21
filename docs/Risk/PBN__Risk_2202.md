@@ -2,6 +2,10 @@
 
 # __Lack of business continuity planning__
 
+## Link between Blueprint and General ontology
+
+* [Activities continuity](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_8.md)
+
 ## Category to which it belongs
 
 * [Challenges in governance coordination, geopolitical tensions, inadequate policies, limited collaboration, and ineffective management hinder effective response to crises.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)

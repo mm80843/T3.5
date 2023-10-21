@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Regular cleaning and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1727.md)
+* [Regular cleaning and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4666.md)
 

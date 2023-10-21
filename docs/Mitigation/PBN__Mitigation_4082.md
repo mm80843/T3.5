@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4082 
 
-# __Vary news content to include positive and informative messages.__
+# __Exclusion from support programs__
 
 ## Category to which it belongs
 
-* [Promote trust, combat misinformation, and provide accurate and reliable information through evidence-based sources and transparent communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
+* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Content analysis of news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
-* [Validation of news sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_938.md)
-* [Improve communication channels, provide clear and consistent information.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3597.md)
-* [Promote reliable and verifiable sources of information; educate the public on how to critically evaluate information; combat misinformation through fact-checking and debunking.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3791.md)
-* [Targeted, tailored messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3614.md)
-* [Promote fact-checking and accuracy in sharing information, educate the public on reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3527.md)
-* [Develop interventions to reduce the spread of misinformation, educate the public on how to verify information sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3790.md)
-* [Promote fact-checking and reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3601.md)
-* [Promote accurate and timely information, combat misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3596.md)
-* [Promote reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2769.md)
+* [Exclusion from government support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3880.md)
+* [Lack of support for users](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3905.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
+* [Support for people who cannot stop working and provide essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_905.md)
+* [Employee support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
+* [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_17.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_906.md)
+* [Support for unemployed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3325.md)
+* [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3090.md)
+* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_20.md)
 

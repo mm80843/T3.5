@@ -2,6 +2,14 @@
 
 # __Antimicrobial paint__
 
+## Link between Blueprint and General ontology
+
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_26.md)
+* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_248.md)
+* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_249.md)
+* [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_250.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_251.md)
+
 ## Category to which it belongs
 
 * [Innovative technologies and materials combat pathogens, enhance disinfection, and advance research in antiviral therapies and detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1370.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1350.md)
 

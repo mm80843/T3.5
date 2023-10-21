@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Supporting pcas governed by indigenous peoples, local communities, and private actors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
+* [Supporting pcas governed by indigenous peoples, local communities, and private actors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3544.md)
 

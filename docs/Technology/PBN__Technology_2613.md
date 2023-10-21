@@ -2,6 +2,11 @@
 
 # __Mobile interface__
 
+## Link between Blueprint and General ontology
+
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_43.md)
+* [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_52.md)
+
 ## Category to which it belongs
 
 * [A compilation of various mobile apps and technologies used for reporting, contact tracing, banking, scheduling, and other functions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
@@ -21,6 +26,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Mobile interface for feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_684.md)
-* [Interactive feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_688.md)
+* [Mobile interface for feedback](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3713.md)
+* [Interactive feedback](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3717.md)
 

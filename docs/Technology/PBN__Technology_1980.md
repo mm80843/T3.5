@@ -2,6 +2,13 @@
 
 # __Air quality monitors__
 
+## Link between Blueprint and General ontology
+
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_119.md)
+* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_121.md)
+* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_122.md)
+* [Smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_123.md)
+
 ## Category to which it belongs
 
 * [An array of systems and tools for real-time monitoring, surveillance, and control of various environmental, health, and safety parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)

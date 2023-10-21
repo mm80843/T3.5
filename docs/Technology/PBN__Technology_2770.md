@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Hygiene education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_906.md)
+* [Hygiene education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3913.md)
 

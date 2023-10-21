@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Social media group for daily practice questions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)
+* [Social media group for daily practice questions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3485.md)
 

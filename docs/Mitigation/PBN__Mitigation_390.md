@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_390 
 
-# __Demographics__
+# __Design spaces that prioritize natural light and ventilation, incorporate biophilic design principles__
 
 ## Category to which it belongs
 
-* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
+* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
-* [Social and demographic change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3125.md)
-* [Social and gender disparities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2632.md)
-* [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2633.md)
-* [Population screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2176.md)
-* [Gender](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_395.md)
-* [Inclusion of young people and women](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1763.md)
-* [Socioeconomic support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1606.md)
-* [Country-specific analyses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1170.md)
-* [Social distancing of the entire population](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2231.md)
-* [Vulnerable population](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3126.md)
-
-## Property: has_MitigationPrinciple
-
-Influence adoption intention based on individual demographics
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Incorporate ventilation systems and optimize natural lighting in building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_974.md)
+* [Design for natural lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_971.md)
+* [Optimize room layout, create flexible and multipurpose spaces, maximize use of natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3830.md)
+* [Design units with provisions for natural light, ventilation, access to nature, and personal gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3829.md)
+* [Design buildings with access to green spaces, views of nature, and incorporate biophilic design elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_389.md)
+* [Improve living conditions, access to natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3191.md)
+* [Incorporate proper building design strategies for ventilation, airflow, and social distancing. design buildings with adequate space for ventilation and airflow.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3832.md)
+* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_388.md)
+* [Natural ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_559.md)
+* [Designing ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_663.md)
 

@@ -8,11 +8,11 @@
 * [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_248.md)
 * [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_249.md)
 * [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_250.md)
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_251.md)
 * [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_252.md)
 * [Antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_253.md)
 * [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_254.md)
 * [Anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_255.md)
-* [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_194.md)
 * [Biodegradable materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_193.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_251.md)
+* [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_194.md)
 

@@ -19,6 +19,10 @@
 * [Design communal spaces that support physical distancing and social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2487.md)
 * [Enforce strict physical distancing measures and educate people on the importance of maintaining distance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2925.md)
 
+## Blueprints with this mitigation
+
+* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of social distancing implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1196.md)

@@ -2,6 +2,15 @@
 
 # __Video surveillance systems__
 
+## Link between Blueprint and General ontology
+
+* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_12.md)
+* [Cctv footage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_178.md)
+* [Cctv systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_176.md)
+* [Video cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_180.md)
+* [Surveillance camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_182.md)
+* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_95.md)
+
 ## Category to which it belongs
 
 * [Enhanced visual monitoring technology for communication, collaboration, data collection, and security purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
@@ -21,5 +30,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2151.md)
+* [Deep learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5032.md)
 

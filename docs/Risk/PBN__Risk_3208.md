@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1768.md)
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4704.md)
 

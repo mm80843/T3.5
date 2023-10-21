@@ -2,6 +2,11 @@
 
 # __Scalable iot infrastructure__
 
+## Link between Blueprint and General ontology
+
+* [Massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_38.md)
+* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_109.md)
+
 ## Category to which it belongs
 
 * [The built environment for green, digital, healthcare, transportation, and technological needs with reliable and scalable features.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Scalability of iot devices in iomt](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1156.md)
+* [Scalability of iot devices in iomt](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4141.md)
 

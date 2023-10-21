@@ -19,6 +19,10 @@
 * [Detection of sars-cov-2 in wastewater as a data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_291.md)
 * [Lack of public understanding of covid-19 mitigation and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_835.md)
 
+## Blueprints with this risk
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+
 ## Description of the risk
 
 The absence of specific biomarkers for COVID-19 in wastewater limits the use of biomarker-based detection methods.

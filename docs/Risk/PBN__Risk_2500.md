@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Health insurance coverage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_332.md)
+* [Health insurance coverage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3406.md)
 

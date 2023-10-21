@@ -40,19 +40,21 @@ Physical interventions to interrupt or reduce the spread of respiratory viruses:
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
-* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
-* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_799.md)
-* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
-* [Hygiene education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_906.md)
-* [Barrier measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_904.md)
-* [Personal protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_905.md)
-* [Wearing gloves](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_902.md)
-* [Wearing gowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_903.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3123.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_86.md)
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3306.md)
+* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3759.md)
+* [Hygiene education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3913.md)
+* [Wearing gloves](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3909.md)
+* [Wearing gowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3910.md)
+* [Barrier measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3911.md)
+* [Personal protection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3912.md)
 
 ## This article mentions these technologies
 
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_831.md)
 * [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
 * [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
 * [Quarantine protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_834.md)
@@ -60,8 +62,6 @@ Physical interventions to interrupt or reduce the spread of respiratory viruses:
 * [Antiviral drug research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_836.md)
 * [Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_830.md)
 * [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
-* [Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_831.md)
 * [Antivirals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_827.md)
 * [Research methodology improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
 * [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)

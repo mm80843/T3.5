@@ -19,3 +19,7 @@
 * [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3552.md)
 * [Low indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1409.md)
 
+## Blueprints with this risk
+
+* [Indoor environmental quality ieq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
+

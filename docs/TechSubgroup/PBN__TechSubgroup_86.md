@@ -21,16 +21,16 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
 * [Urban planning and transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_371.md)
 * [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_377.md)
 * [Adaptation of existing infrastructure for new uses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_365.md)
 * [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
-* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
 * [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
+* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
 * [Smart zoning and urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_750.md)
 * [Urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1839.md)
 * [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1388.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
 * [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
 * [Infrastructure development and provision technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1671.md)
 * [Improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_669.md)

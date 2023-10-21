@@ -2,6 +2,18 @@
 
 # __Data visualization platforms__
 
+## Link between Blueprint and General ontology
+
+* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_69.md)
+* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_75.md)
+* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_3.md)
+* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_82.md)
+* [Data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_79.md)
+* [Timeline-based visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_81.md)
+* [Graphical representation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_91.md)
+* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_92.md)
+* [Infographics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_93.md)
+
 ## Category to which it belongs
 
 * [Efficiently manage, secure, analyze, and integrate diverse data through various advanced tools and platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
@@ -21,5 +33,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Online dashboard for wbe data communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_746.md)
+* [Online dashboard for wbe data communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3767.md)
 

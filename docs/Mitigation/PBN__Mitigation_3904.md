@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3904 
 
-# __Support for children’s education__
+# __Temporary closure of access points, visible and easily manageable primary access node.__
 
 ## Category to which it belongs
 
-* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
+* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Support for children’s education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3904.md)
-* [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_45.md)
-* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3903.md)
-* [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3748.md)
-* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2513.md)
-* [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3538.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2515.md)
-* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2514.md)
-* [Enhanced education access and equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1045.md)
-* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3141.md)
+* [Limited access nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1886.md)
+* [Controlling access points](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3902.md)
+* [Limiting access nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1887.md)
+* [Limited access nodes for better management of public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1889.md)
+* [Temporary closure of non-essential public places until recovery is reached.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3715.md)
+* [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3906.md)
+* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_327.md)
+* [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3907.md)
+* [Controlled visitor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1884.md)
+* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2235.md)
 

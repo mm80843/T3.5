@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2043 
 
-# __Telemedicine consultations__
+# __Providing effective guidance and training__
 
 ## Category to which it belongs
 
-* [Expanding healthcare access through remote technology, including telemedicine, telehealth clinics, and virtual consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
+* [Enhancing education access and equity through virtual learning, training programs, and closure of educational institutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Telemedicine consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1668.md)
-* [Telemedicine and remote consultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3518.md)
-* [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1217.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
-* [Telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1144.md)
-* [Telemedical services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
-* [Telemedicine for psychosocial services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2840.md)
-* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2838.md)
-* [Telemedicine and telepsychology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_209.md)
-* [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3097.md)
-
-## Property: has_MitigationPrinciple
-
-Remote healthcare consultations through video conferencing to reduce physical contact and crowding in healthcare facilities.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1708.md)
-* [Telecommunication networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3434.md)
-* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3328.md)
+* [Training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_274.md)
+* [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3073.md)
+* [Proper training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_271.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_272.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_254.md)
+* [Training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3074.md)
+* [Educational and training resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_273.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_255.md)
+* [Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3075.md)
+* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1868.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Face-to-face surveys](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1169.md)
+* [Face-to-face surveys](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4154.md)
 

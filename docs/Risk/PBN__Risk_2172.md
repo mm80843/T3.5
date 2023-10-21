@@ -63,9 +63,9 @@ Improve mental state and well-being of residents
 
 ## Technologies linked to the risk
 
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1610.md)
 * [Landscaped grounds](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1733.md)
 * [Gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1734.md)
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1610.md)
 
 ## Property: has_RiskType
 

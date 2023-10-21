@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_397.md)
+* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3466.md)
 

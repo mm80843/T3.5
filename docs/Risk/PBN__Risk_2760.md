@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Remote meetings and video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_875.md)
+* [Remote meetings and video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3883.md)
 

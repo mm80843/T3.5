@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Ai-based tools for biomedical research and remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1368.md)
+* [Ai-based tools for biomedical research and remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4336.md)
 

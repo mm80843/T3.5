@@ -19,6 +19,10 @@
 * [Hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3365.md)
 * [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1486.md)
 
+## Blueprints with this risk
+
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+
 ## Description of the risk
 
 Low compliance with hand hygiene practices, especially among physicians, can contribute to the spread of coronaviruses

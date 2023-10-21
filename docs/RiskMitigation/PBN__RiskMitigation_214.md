@@ -11,7 +11,7 @@
 * [Implement smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2858.md)
 * [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_707.md)
 * [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_583.md)
-* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3361.md)
+* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5497.md)
 * [Integration of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_873.md)
 * [Innovative projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1286.md)
 * [Deploying latest technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_584.md)
@@ -23,7 +23,24 @@
 
 * [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_230.md)
 
+## Property: has_MitigationPrinciple
+
+Application of technologies to hinder virus spread
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
 * [Pvp1: virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_174.md)
+
+## Property: has_MitigationSource
+
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Shoe cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1716.md)
+* [Rollout mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1717.md)
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1011.md)
+* [Thermo-visors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1719.md)
+* [Tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1720.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Increase helpline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_44.md)
+* [Increase helpline](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3157.md)
 

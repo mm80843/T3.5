@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3612 
 
-# __Strict social distancing measures, widespread testing and contact tracing__
+# __Societal issues and the human factor__
 
 ## Category to which it belongs
 
@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2566.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_510.md)
-* [Social distancing guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_143.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Clear and consistent social distancing guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3340.md)
-* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_20.md)
-* [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_41.md)
-* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1237.md)
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1097.md)
-* [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2446.md)
+* [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_244.md)
+* [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4010.md)
+* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3369.md)
+* [Social and gender disparities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_549.md)
+* [Social and demographic change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1734.md)
+* [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_551.md)
+* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_548.md)
+* [Human disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3379.md)
+* [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4011.md)
+* [Socioeconomic support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_552.md)
 

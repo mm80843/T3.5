@@ -43,7 +43,7 @@ People not adhering to COVID-19 mitigation measures (social distancing, staying 
 
 * [Compliance indicator](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_770.md)
 * [Public awareness campaigns, strict enforcement, penalties for non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2960.md)
-* [Hygiene education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_906.md)
+* [Hygiene education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3913.md)
 
 ## Name of the risk
 

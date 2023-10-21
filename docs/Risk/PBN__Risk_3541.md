@@ -19,3 +19,8 @@
 * [Indoor pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3198.md)
 * [Indoor air contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_125.md)
 
+## Blueprints with this risk
+
+* [Indoor environmental quality ieq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
+* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
+

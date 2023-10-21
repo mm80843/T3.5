@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Removal of wet or contaminated insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1390.md)
+* [Removal of wet or contaminated insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4355.md)
 

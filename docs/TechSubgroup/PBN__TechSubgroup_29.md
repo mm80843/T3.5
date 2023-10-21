@@ -21,10 +21,10 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
+* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
 * [Wearable sensors for exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_66.md)
 * [Biosensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_239.md)
 * [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2119.md)
-* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
 * [Complex modeling techniques incorporating variables such as excretion patterns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1359.md)
 * [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1949.md)
 * [Digital pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2044.md)

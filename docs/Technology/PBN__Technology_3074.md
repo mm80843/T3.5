@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Roof uv filter glass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1375.md)
+* [Roof uv filter glass](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4341.md)
 

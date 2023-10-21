@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Protective facilities for healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1806.md)
+* [Protective facilities for healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4742.md)
 

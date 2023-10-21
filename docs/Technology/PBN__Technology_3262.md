@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Access to clean cooking fuels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1718.md)
+* [Access to clean cooking fuels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4657.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Clear sop guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_961.md)
+* [Clear sop guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3962.md)
 

@@ -65,8 +65,8 @@ Increased cases and potential overwhelmed healthcare system
 ## Technologies linked to the risk
 
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
-* [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1143.md)
 * [Mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
+* [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1143.md)
 
 ## Property: has_RiskType
 

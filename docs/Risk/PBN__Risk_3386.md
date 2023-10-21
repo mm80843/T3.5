@@ -2,6 +2,10 @@
 
 # __Requires continuous monitoring__
 
+## Link between Blueprint and General ontology
+
+* [Activities continuity](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_8.md)
+
 ## Category to which it belongs
 
 * [Insufficient oversight and data collection, limited sensor capabilities, and inadequate surveillance contribute to monitoring gaps in various contexts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
@@ -21,5 +25,5 @@
 
 ## Mitigations of this risk
 
-* [Monitoring data sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2338.md)
+* [Monitoring data sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5209.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_550.md)
+* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3598.md)
 

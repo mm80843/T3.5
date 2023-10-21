@@ -2,6 +2,10 @@
 
 # __Computer-aided design cad tools__
 
+## Link between Blueprint and General ontology
+
+* [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_226.md)
+
 ## Category to which it belongs
 
 * [Building design and construction practices prioritize sustainability, incorporate innovative technology, and consider social equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Performance-based modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1276.md)
+* [Performance-based modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4252.md)
 

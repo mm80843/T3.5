@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Enhancing accessibility for low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2140.md)
+* [Enhancing accessibility for low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5022.md)
 

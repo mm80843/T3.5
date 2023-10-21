@@ -42,7 +42,7 @@ Disruption of supply chains and labor shortage
 ## Mitigations of this risk
 
 * [Ensure material supply chain resumes quickly, address labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2108.md)
-* [Implementation of bim technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_132.md)
+* [Implementation of bim technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3235.md)
 
 ## Name of the risk
 

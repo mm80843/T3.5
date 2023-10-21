@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Creation of funds and other support measures to suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1923.md)
+* [Creation of funds and other support measures to suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4845.md)
 

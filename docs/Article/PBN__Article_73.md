@@ -48,25 +48,25 @@ The hierarchy of preventive measures to protect workers against the COVID-19 pan
 
 ## This article points to following mitigation
 
-* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_519.md)
-* [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_520.md)
-* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_524.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_522.md)
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_523.md)
+* [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_373.md)
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3572.md)
+* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3573.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3575.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3574.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_375.md)
 
 ## This article mentions these technologies
 
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_485.md)
+* [Face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_484.md)
 * [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
 * [Protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_154.md)
 * [Policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
 * [Facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
-* [Face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_484.md)
 * [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_481.md)
-* [Gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_485.md)
 * [Plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_477.md)
 * [Polycarbonate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_478.md)
 * [Tempered glass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_479.md)

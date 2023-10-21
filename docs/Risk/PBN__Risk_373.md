@@ -43,7 +43,7 @@ Exaggerated information can lead to inappropriate actions and fuel conspiracy th
 
 * [Fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_506.md)
 * [Verify sources and rely on accurate, evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2041.md)
-* [Sensationalism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_856.md)
+* [Sensationalism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3868.md)
 
 ## Name of the risk
 

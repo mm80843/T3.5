@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1644.md)
+* [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4589.md)
 

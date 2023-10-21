@@ -2,6 +2,10 @@
 
 # __Uv-c light__
 
+## Link between Blueprint and General ontology
+
+* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_188.md)
+
 ## Category to which it belongs
 
 * [Innovative technology utilizing ultraviolet light for sterilization and disinfection purposes in various systems and devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_244.md)
@@ -21,6 +25,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Uv-c cupboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
-* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_258.md)
+* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_310.md)
+* [Uv-c cupboards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4871.md)
 

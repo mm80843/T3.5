@@ -2,6 +2,14 @@
 
 # __Bigdata__
 
+## Link between Blueprint and General ontology
+
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_70.md)
+* [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_74.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_77.md)
+* [Big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_84.md)
+* [Big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_83.md)
+
 ## Category to which it belongs
 
 * [Efficiently manage, secure, analyze, and integrate diverse data through various advanced tools and platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)

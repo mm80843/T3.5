@@ -2,6 +2,10 @@
 
 # __Smartwatch data__
 
+## Link between Blueprint and General ontology
+
+* [Smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_142.md)
+
 ## Category to which it belongs
 
 * [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_161.md)
+* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3260.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Ventilation protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_277.md)
+* [Ventilation protection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3355.md)
 

@@ -2,6 +2,10 @@
 
 # __Inadequate water and sanitation facilities__
 
+## Link between Blueprint and General ontology
+
+* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_1.md)
+
 ## Category to which it belongs
 
 * [Limited access to clean water and sanitation, contamination of water bodies, poor water management and treatment, and the need for improved wastewater-based epidemiology methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
@@ -18,6 +22,10 @@
 * [Poor sanitation conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3146.md)
 * [Inadequate sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1156.md)
 * [Inadequate sanitation and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1432.md)
+
+## Blueprints with this risk
+
+* [Drinking water safety - restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
 
 ## Description of the risk
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1477.md)
+* [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4435.md)
 

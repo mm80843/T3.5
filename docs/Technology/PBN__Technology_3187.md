@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1607.md)
+* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4557.md)
 

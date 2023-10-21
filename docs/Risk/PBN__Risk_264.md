@@ -19,6 +19,10 @@
 * [Spread through air travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1430.md)
 * [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2154.md)
 
+## Blueprints with this risk
+
+* [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_4.md)
+
 ## Description of the risk
 
 Implementation of one-way mobility circulation to control and manage human movement in public places.
@@ -65,8 +69,8 @@ Improved management of human circulation, determination of access routes.
 ## Technologies linked to the risk
 
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
-* [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
 * [Floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
 
 ## Property: has_RiskType
 

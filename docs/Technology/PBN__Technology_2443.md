@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_421.md)
+* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_42.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Strengthening revenue generation from tourism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_481.md)
+* [Strengthening revenue generation from tourism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3543.md)
 

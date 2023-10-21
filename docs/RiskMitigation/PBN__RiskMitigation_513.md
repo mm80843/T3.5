@@ -23,7 +23,21 @@
 
 * [Identification and isolation of potential cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_499.md)
 
+## Property: has_MitigationPrinciple
+
+Trace and monitor close contacts of confirmed COVID-19 cases
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
 * [Covid-19 exposure in offshore workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_376.md)
+
+## Property: has_MitigationSource
+
+* [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Interviews](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_899.md)
+* [Cctv footage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3410.md)
 

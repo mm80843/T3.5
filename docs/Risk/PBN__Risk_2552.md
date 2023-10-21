@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Including local communities in pca governance and benefits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_483.md)
+* [Including local communities in pca governance and benefits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3545.md)
 

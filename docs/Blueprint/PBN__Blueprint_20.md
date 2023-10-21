@@ -20,18 +20,31 @@ Tracking and surveillance of infections allows better assessment of the spread o
 
 ## Enablers of the blueprint
 
+* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_32.md)
 * [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
+* [Telemedecine](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_17.md)
 * [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_9.md)
 * [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_13.md)
-* [Telemedecine](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_17.md)
-* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_32.md)
 
 ## Interventions of the blueprint
 
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_29.md)
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_31.md)
 * [Prevent fake news](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_36.md)
 * [Promote verified information](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_39.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_31.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_29.md)
+
+## Possible mitigations of the BP
+
+* [Adaptive hospital surveillance-based triggers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3687.md)
+* [Smart tracking of infected persons](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4130.md)
+* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4132.md)
+* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4134.md)
+* [Tracing and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4747.md)
+* [Outbreak tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4752.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5057.md)
+* [Remote monitoring of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4799.md)
+* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3121.md)
+* [Effective public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4487.md)
 
 ## Type of deployment of the blueprint
 
@@ -57,6 +70,19 @@ The restrictions and limitations of this proposal primarily concern data collect
 •	 the cost of tracking of infected people
 •	 the environmental impact from the plastic waste from the disposables
 •	 testing can be inaccurate and can give false sense of security or vice-versa.
+
+## Possible risks of the BP
+
+* [Population-based data and modeling unable to accurately predict infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1005.md)
+* [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1305.md)
+* [Tracking and containing outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2728.md)
+* [Early detection and mitigation of outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_882.md)
+* [Inaccurate identification and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
+* [Delay in reporting infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_846.md)
+* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
+* [Enhancement of global efforts in epidemic monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_425.md)
+* [Epidemic control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_585.md)
+* [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3366.md)
 
 ## Scale of the of the blueprint
 

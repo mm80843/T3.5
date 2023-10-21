@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2243.md)
+* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5121.md)
 

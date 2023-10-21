@@ -2,6 +2,11 @@
 
 # __Temperature sensors__
 
+## Link between Blueprint and General ontology
+
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
+* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
+
 ## Category to which it belongs
 
 * [Synonymous with monitoring and regulating heat levels, temperature-related equipment and devices are utilized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
@@ -21,8 +26,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Thermal comfort optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_179.md)
-* [Rapid screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1146.md)
-* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2293.md)
-* [Temperature adjustment in wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_744.md)
+* [Thermal comfort optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3274.md)
+* [Rapid screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4131.md)
+* [Temperature adjustment in wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3765.md)
+* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5168.md)
 

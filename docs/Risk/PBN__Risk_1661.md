@@ -64,9 +64,9 @@ Decreased physical and mental well-being
 
 ## Technologies linked to the risk
 
+* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
 * [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
 * [Windows with views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1009.md)
-* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
 * [Balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1007.md)
 
 ## Property: has_RiskType

@@ -2,6 +2,10 @@
 
 # __Coordinated services__
 
+## Link between Blueprint and General ontology
+
+* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_235.md)
+
 ## Category to which it belongs
 
 * [Enhanced travel experiences, seamless transportation, and real-time updates for optimal accessibility and convenience.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Person-centered integrated care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1742.md)
+* [Person-centered integrated care](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4681.md)
 

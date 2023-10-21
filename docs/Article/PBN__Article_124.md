@@ -46,21 +46,21 @@ The COVID-19 pandemic: Lessons on building more equal and sustainable societies
 
 ## This article points to following mitigation
 
-* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2191.md)
-* [Publicly funded and managed healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2185.md)
-* [Strengthening of un and who leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
-* [Strategic sectors development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2187.md)
-* [National and international conversations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2188.md)
-* [Enhanced commitment towards multilateralism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2189.md)
-* [Reducing inequality and poverty](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2190.md)
-* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2193.md)
-* [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2196.md)
-* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2194.md)
-* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2195.md)
-* [Promoting community voice and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2198.md)
-* [Enhanced regulation of global corporations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2197.md)
-* [Strengthening enforcement of labour standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2192.md)
-* [Green new deal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2199.md)
+* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5070.md)
+* [Publicly funded and managed healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5064.md)
+* [Strengthening of un and who leadership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5065.md)
+* [Strategic sectors development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5066.md)
+* [National and international conversations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5067.md)
+* [Enhanced commitment towards multilateralism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5068.md)
+* [Reducing inequality and poverty](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5069.md)
+* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5072.md)
+* [Strengthening enforcement of labour standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5071.md)
+* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5073.md)
+* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5074.md)
+* [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5075.md)
+* [Enhanced regulation of global corporations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5076.md)
+* [Promoting community voice and ownership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5077.md)
+* [Green new deal](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5078.md)
 
 ## This article mentions these technologies
 

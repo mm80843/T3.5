@@ -2,6 +2,12 @@
 
 # __Innovative design approaches__
 
+## Link between Blueprint and General ontology
+
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_227.md)
+* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_259.md)
+* [Incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_228.md)
+
 ## Category to which it belongs
 
 * [Building design and construction practices prioritize sustainability, incorporate innovative technology, and consider social equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
@@ -21,5 +27,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
+* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4828.md)
 

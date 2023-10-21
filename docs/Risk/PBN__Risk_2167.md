@@ -63,10 +63,10 @@ Decrease contact with infected surfaces
 
 ## Technologies linked to the risk
 
-* [Motion sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1721.md)
-* [Touchless household technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1724.md)
 * [Keycard swiping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1722.md)
 * [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1723.md)
+* [Motion sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1721.md)
+* [Touchless household technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1724.md)
 
 ## Property: has_RiskType
 

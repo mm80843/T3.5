@@ -41,7 +41,7 @@ Construction projects have been delayed or temporarily stopped due to workforce 
 ## Mitigations of this risk
 
 * [Developing robust contingency plans and alternative timelines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2086.md)
-* [System robustness against covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_922.md)
+* [System robustness against covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3927.md)
 
 ## Name of the risk
 

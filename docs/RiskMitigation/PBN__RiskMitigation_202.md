@@ -19,6 +19,10 @@
 * [Develop standardized protocols for detecting and quantifying the virus in wastewater, use waste-based epidemiology method for early warning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1595.md)
 * [Adjust wastewater temperature in data analysis to accurately estimate virus prevalence and inform public health responses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1956.md)
 
+## Blueprints with this mitigation
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+
 ## Benefits linked to a risk
 
 * [Real-time disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_216.md)
@@ -26,10 +30,27 @@
 * [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
 * [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_219.md)
 
+## Property: has_MitigationPrinciple
+
+Monitoring wastewater for the presence of viral RNA to estimate viral circulation in the population and detect ongoing outbreaks in the community.
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
 * [Disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_161.md)
 * [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_159.md)
 * [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
 * [Population growth and urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_162.md)
+
+## Property: has_MitigationSource
+
+* [First detection of SARS-CoV-2 in untreated wastewaters in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_37.md)
+* [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2849.md)
+* [Biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3343.md)
+* [Advanced mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3344.md)
+* [Pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3345.md)
 

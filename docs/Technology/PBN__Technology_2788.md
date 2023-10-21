@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Implement surface cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_954.md)
+* [Implement surface cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3955.md)
 

@@ -4,5 +4,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Portable noise measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1073.md)
+* [Portable noise measurement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4065.md)
 

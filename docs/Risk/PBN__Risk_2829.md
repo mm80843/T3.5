@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [External assistance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1005.md)
-* [Strengthening entrepreneurial ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1004.md)
+* [Strengthening entrepreneurial ecosystems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4003.md)
+* [External assistance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4004.md)
 

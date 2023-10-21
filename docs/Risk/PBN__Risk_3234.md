@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Integration of medical tools and devices through the internet](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1873.md)
+* [Integration of medical tools and devices through the internet](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4804.md)
 

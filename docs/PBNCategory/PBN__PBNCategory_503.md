@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_0.md)
 * [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_1.md)
+* [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_0.md)
 

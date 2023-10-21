@@ -2,6 +2,12 @@
 
 # __Machine learning algorithms__
 
+## Link between Blueprint and General ontology
+
+* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_72.md)
+* [Artificial intelligence and ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_167.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_86.md)
+
 ## Category to which it belongs
 
 * [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
@@ -21,7 +27,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_327.md)
-* [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2301.md)
-* [Machine learning algorithms for screening of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1356.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3401.md)
+* [Machine learning algorithms for screening of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4324.md)
+* [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5176.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Daily tasks and activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_293.md)
+* [Daily tasks and activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3369.md)
 

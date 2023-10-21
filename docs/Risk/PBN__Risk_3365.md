@@ -19,7 +19,11 @@
 * [Inadequate sanitation and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1432.md)
 * [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1667.md)
 
+## Blueprints with this risk
+
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+
 ## Mitigations of this risk
 
-* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2292.md)
+* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5167.md)
 

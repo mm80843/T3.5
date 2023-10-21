@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Video and audio devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1187.md)
+* [Video and audio devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4172.md)
 

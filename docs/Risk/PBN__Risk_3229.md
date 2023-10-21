@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Building sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1853.md)
+* [Building sanitization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4787.md)
 

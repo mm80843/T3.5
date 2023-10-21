@@ -2,6 +2,10 @@
 
 # __Transport__
 
+## Link between Blueprint and General ontology
+
+* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_237.md)
+
 ## Category to which it belongs
 
 * [Enhanced travel experiences, seamless transportation, and real-time updates for optimal accessibility and convenience.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Exposure response plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_295.md)
+* [Exposure response plan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3371.md)
 

@@ -43,9 +43,9 @@ Increased generation of organic and inorganic waste due to online shopping and m
 
 * [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1146.md)
 * [Implement proper waste management and recycling systems, encourage environmentally-friendly consumer behavior.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3096.md)
-* [Online shopping for home delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2380.md)
-* [Repeal of disposable bag bans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2384.md)
-* [Increased use of single-use packaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2385.md)
+* [Online shopping for home delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5246.md)
+* [Repeal of disposable bag bans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5250.md)
+* [Increased use of single-use packaging](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5251.md)
 
 ## Name of the risk
 

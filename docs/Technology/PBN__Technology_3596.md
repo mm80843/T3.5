@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Cleaning air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2235.md)
+* [Cleaning air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5113.md)
 

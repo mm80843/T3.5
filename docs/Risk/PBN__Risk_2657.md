@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Personalized indoor controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_699.md)
+* [Personalized indoor controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3725.md)
 

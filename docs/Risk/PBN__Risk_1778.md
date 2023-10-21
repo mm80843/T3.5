@@ -42,7 +42,7 @@ High cost of installing, operating, and maintaining UV systems
 ## Mitigations of this risk
 
 * [Explore cost-effective solutions and funding options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2371.md)
-* [Smart rotary car parking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1904.md)
+* [Smart rotary car parking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4826.md)
 
 ## Name of the risk
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_27.md)
+* [Crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3141.md)
 

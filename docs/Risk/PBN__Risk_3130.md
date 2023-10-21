@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Enhancing data quality verification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1590.md)
+* [Enhancing data quality verification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4540.md)
 

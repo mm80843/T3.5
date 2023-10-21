@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Differentiate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_855.md)
+* [Differentiate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3867.md)
 

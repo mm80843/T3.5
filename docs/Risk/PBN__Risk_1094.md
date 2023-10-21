@@ -62,8 +62,8 @@ Unhealthy living conditions, increased disease risk
 
 ## Technologies linked to the risk
 
-* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_147.md)
 * [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
+* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_147.md)
 
 ## Property: has_RiskType
 

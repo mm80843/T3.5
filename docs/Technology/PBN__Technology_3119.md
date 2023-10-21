@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Provision of water in informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1490.md)
+* [Provision of water in informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4448.md)
 

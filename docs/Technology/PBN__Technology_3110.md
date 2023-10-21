@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Drainage system management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1474.md)
+* [Drainage system management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4432.md)
 

@@ -2,6 +2,10 @@
 
 # __Mental health impact__
 
+## Link between Blueprint and General ontology
+
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_5.md)
+
 ## Category to which it belongs
 
 * [The toll of the pandemic on mental health, including increased mental health issues, domestic violence, and limited resources for support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)

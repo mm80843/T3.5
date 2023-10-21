@@ -2,6 +2,10 @@
 
 # __Contract review systems__
 
+## Link between Blueprint and General ontology
+
+* [Smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_106.md)
+
 ## Category to which it belongs
 
 * [Fact-checking tools, education initiatives, and ontology search engines are among the various resources and practices utilized to ensure the credibility and accuracy of information in different fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_240.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Reviewing contracts and service agreements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1843.md)
+* [Reviewing contracts and service agreements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4777.md)
 

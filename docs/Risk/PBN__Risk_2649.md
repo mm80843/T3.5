@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Permanent transformations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_673.md)
+* [Permanent transformations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1234.md)
 

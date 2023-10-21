@@ -40,11 +40,11 @@ Urban Community Sustainable Development Patterns under the Influence of COVID-19
 
 ## This article points to following mitigation
 
-* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2263.md)
-* [Virtualization of public services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2264.md)
-* [Composite space service facilities planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2265.md)
-* [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2266.md)
-* [Integration of physical and virtual space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2267.md)
+* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1393.md)
+* [Virtualization of public services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5140.md)
+* [Composite space service facilities planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5141.md)
+* [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5142.md)
+* [Integration of physical and virtual space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5143.md)
 
 ## This article mentions these technologies
 

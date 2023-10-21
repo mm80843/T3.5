@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2973 
 
-# __Robotic systems__
+# __Exposure response plan__
 
 ## Category to which it belongs
 
-* [Enhance monitoring and response systems while integrating various wearable sensors, biosensors, nanotechnology, contactless systems, and robotics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
+* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
-* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2975.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
-* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3480.md)
-* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3632.md)
-* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2357.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1958.md)
-* [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2974.md)
-* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3633.md)
-* [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3634.md)
-* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3635.md)
+* [Designing targeted responses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1625.md)
+* [Limiting media exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2972.md)
+* [Same building exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2971.md)
+* [Same room exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2970.md)
+* [Global response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3296.md)
+* [Implementation of level 1 response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2023.md)
+* [Increase sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_570.md)
+* [Demand response programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1616.md)
+* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_571.md)
+* [Communication plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2785.md)
 

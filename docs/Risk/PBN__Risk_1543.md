@@ -41,8 +41,8 @@ Transmission of the virus through aerosols formed during surgical and dental pro
 
 ## Mitigations of this risk
 
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
 * [Use of appropriate protective equipment, proper ventilation, and limiting aerosol-generating procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2081.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
 
 ## Name of the risk
 

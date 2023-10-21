@@ -66,8 +66,8 @@ Increased energy consumption, higher costs, and negative environmental impact.
 ## Technologies linked to the risk
 
 * [Occupancy sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_647.md)
-* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
 * [Energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
 
 ## Property: has_RiskType
 

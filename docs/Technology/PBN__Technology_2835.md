@@ -2,6 +2,14 @@
 
 # __Technology__
 
+## Link between Blueprint and General ontology
+
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_59.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_101.md)
+* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_102.md)
+* [Drone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_150.md)
+* [Augmented reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_224.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,6 +29,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1044.md)
-* [Technology adoption](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1317.md)
+* [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4039.md)
+* [Technology adoption](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4287.md)
 

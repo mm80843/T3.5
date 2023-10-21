@@ -2,6 +2,10 @@
 
 # __Molecular technologies__
 
+## Link between Blueprint and General ontology
+
+* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_259.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,6 +25,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2178.md)
-* [Medicine 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2184.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_598.md)
+* [Medicine 4.0](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5063.md)
 

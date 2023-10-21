@@ -40,11 +40,11 @@ Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based e
 
 ## This article points to following mitigation
 
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
-* [Combined use of wbe and clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_743.md)
-* [Temperature adjustment in wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_744.md)
-* [Increased sampling of wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_745.md)
-* [Online dashboard for wbe data communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_746.md)
+* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
+* [Combined use of wbe and clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3764.md)
+* [Temperature adjustment in wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3765.md)
+* [Increased sampling of wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3766.md)
+* [Online dashboard for wbe data communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3767.md)
 
 ## This article mentions these technologies
 

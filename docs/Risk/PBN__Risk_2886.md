@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Autonomous human behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
+* [Autonomous human behaviour](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4071.md)
 

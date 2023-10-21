@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_548.md)
+* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3596.md)
 

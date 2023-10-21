@@ -45,9 +45,9 @@ Proximity and post-COVID-19 urban development: Reflections from Milan, Italy
 
 ## This article points to following mitigation
 
-* [Experiment with innovative models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2123.md)
-* [Support widespread skills](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2122.md)
-* [Manage placemaking paths](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2124.md)
+* [Experiment with innovative models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5005.md)
+* [Support widespread skills](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5004.md)
+* [Manage placemaking paths](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5006.md)
 
 ## This article mentions these technologies
 

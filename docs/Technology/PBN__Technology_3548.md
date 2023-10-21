@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2159.md)
+* [Public health education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5039.md)
 

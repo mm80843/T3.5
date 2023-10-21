@@ -2,6 +2,10 @@
 
 # __Provide natural ventilation__
 
+## Link between Blueprint and General ontology
+
+* [Natural ventilation increase](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_5.md)
+
 ## Category to which it belongs
 
 * [Promoting optimal airflow and fresh air circulation to enhance indoor living conditions and ventilator manufacturing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_499.md)
@@ -9,7 +13,7 @@
 ## Closest similar item
 
 * [Increased natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_484.md)
-* [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3301.md)
+* [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5442.md)
 * [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_517.md)
 * [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
 * [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_606.md)

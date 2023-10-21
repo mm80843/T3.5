@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1118.md)
+* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4105.md)
 

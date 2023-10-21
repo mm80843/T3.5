@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Enhanced ventilation with provision of uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_461.md)
+* [Enhanced ventilation with provision of uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3523.md)
 

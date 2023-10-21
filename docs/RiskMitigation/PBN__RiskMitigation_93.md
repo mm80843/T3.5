@@ -2,13 +2,17 @@
 
 # __Quarantine for high-risk individuals__
 
+## Link between Blueprint and General ontology
+
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_30.md)
+
 ## Category to which it belongs
 
 * [Enforce strict measures such as containment strategies, isolation, quarantine, social distancing, and contact tracing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_493.md)
 
 ## Closest similar item
 
-* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3203.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5355.md)
 * [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_337.md)
 * [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_976.md)
 * [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_565.md)

@@ -40,11 +40,11 @@ A general modeling framework for exploring the impact of individual concern and 
 
 ## This article points to following mitigation
 
-* [Larvicides and adulticides](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1697.md)
-* [Targeted communications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1698.md)
-* [Surveillance of vector](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1699.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
-* [Community-level vector control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1700.md)
+* [Larvicides and adulticides](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4636.md)
+* [Targeted communications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4637.md)
+* [Surveillance of vector](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4638.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_865.md)
+* [Community-level vector control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4639.md)
 
 ## This article mentions these technologies
 

@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1016 
 
-# __Long-term measures__
+# __Ethical guidelines and approvals__
 
 ## Category to which it belongs
 
@@ -8,29 +8,14 @@
 
 ## Closest similar item
 
-* [Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2887.md)
-* [Combined measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_849.md)
-* [Case-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_660.md)
-* [Organizational measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2888.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3129.md)
-* [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3281.md)
-* [Environmental measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_740.md)
-* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
-* [Preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1810.md)
-* [Travel-related measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_741.md)
-
-## Property: has_MitigationPrinciple
-
-Focuses on long-term measures and strategies to resolve deeper, underlying issues and challenges within the startup ecosystem and economy, ensuring a sustainable recovery and growth in the post-crisis period.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Addressing fundamental problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2838.md)
-
-## Property: has_MitigationSource
-
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Ethical approval](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2859.md)
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1715.md)
+* [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2865.md)
+* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
+* [Clear guidelines and information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
+* [Lack of standardization, concerns over ethics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2035.md)
+* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_952.md)
+* [Broad informed consent](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2863.md)
+* [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_998.md)
+* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_953.md)
 

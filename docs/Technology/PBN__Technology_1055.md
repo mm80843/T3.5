@@ -32,8 +32,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5.md)
-* [Risk communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_6.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_382.md)
+* [Risk communication systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3122.md)
 
 ## Risks linked to this technology
 

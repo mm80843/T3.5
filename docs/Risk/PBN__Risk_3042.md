@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Material selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1436.md)
+* [Material selection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4400.md)
 

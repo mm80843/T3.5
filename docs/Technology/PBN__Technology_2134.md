@@ -2,6 +2,13 @@
 
 # __Diagnostic testing equipment and supplies__
 
+## Link between Blueprint and General ontology
+
+* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_32.md)
+* [Diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_272.md)
+* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_273.md)
+* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_274.md)
+
 ## Category to which it belongs
 
 * [Enhanced testing capacity and advanced diagnostic technologies ensure widespread and rapid disease screening and identification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
@@ -21,5 +28,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_21.md)
+* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3135.md)
 

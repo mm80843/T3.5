@@ -35,7 +35,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_314.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3389.md)
 
 ## Risks linked to this technology
 

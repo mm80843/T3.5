@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Real-time data capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_894.md)
+* [Real-time data capture](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3901.md)
 

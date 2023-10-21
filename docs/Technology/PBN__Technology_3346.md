@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1860.md)
-* [Antimicrobial resistance gene monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
+* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4791.md)
+* [Antimicrobial resistance gene monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4794.md)
 

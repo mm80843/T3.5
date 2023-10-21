@@ -40,16 +40,17 @@ The three modes of existence of the pandemic smart city
 
 ## This article points to following mitigation
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
-* [Solidarity networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1896.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1895.md)
-* [Integrated command and control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1893.md)
-* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1894.md)
-* [Sensory networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1897.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
+* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1198.md)
+* [Integrated command and control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4816.md)
+* [Solidarity networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4818.md)
+* [Sensory networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4819.md)
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4817.md)
 
 ## This article mentions these technologies
 
 * [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 * [Encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1540.md)
 * [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1592.md)
 * [Cybersecurity protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_577.md)
@@ -60,6 +61,5 @@ The three modes of existence of the pandemic smart city
 * [Open data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1590.md)
 * [Equitable governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1591.md)
 * [Infrastructure redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1593.md)
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 * [Technical support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1594.md)
 

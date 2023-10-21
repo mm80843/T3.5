@@ -44,7 +44,7 @@ Wild animal to human transmission of diseases facilitated by human disturbances 
 * [Prioritize urbanization patterns that reduce wildlife urban interfaces and regulate animal rearing practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2811.md)
 * [Reduce wildlife urban interfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_688.md)
 * [Improve food systems planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_689.md)
-* [Reduce wildlife urban interfaces wuis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1988.md)
+* [Reduce wildlife urban interfaces wuis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4904.md)
 
 ## Name of the risk
 

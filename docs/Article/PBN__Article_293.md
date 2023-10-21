@@ -46,21 +46,21 @@ Perception of COVID-19 impacts on the construction industry over time
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_60.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_306.md)
-* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_669.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_832.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3699.md)
 
 ## This article mentions these technologies
 
 * [Project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
 * [Communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
+* [Ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1461.md)
 * [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1460.md)
 * [Temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1459.md)
 * [Contingency planning frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1457.md)
 * [Simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1456.md)
-* [Ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1461.md)
 * [Real-time project tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
 * [Risk assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1455.md)
 * [Cloud-based systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1453.md)

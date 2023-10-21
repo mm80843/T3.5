@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Online tax assistance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
+* [Online tax assistance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3645.md)
 

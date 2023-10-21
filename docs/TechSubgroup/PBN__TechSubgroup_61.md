@@ -21,11 +21,11 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_830.md)
 * [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
+* [Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_830.md)
 * [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
 * [Hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1869.md)
 * [Personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2054.md)
 * [Personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_829.md)
-* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
 

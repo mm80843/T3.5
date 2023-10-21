@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Monitoring and prioritizing essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2289.md)
+* [Monitoring and prioritizing essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5164.md)
 

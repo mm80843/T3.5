@@ -2,6 +2,10 @@
 
 # __Telemedecine__
 
+## Link between Blueprint and General ontology
+
+* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_216.md)
+
 ## Category to which it belongs
 
 * [Remote healthcare services through virtual platforms and technologies, including telemedicine, teletherapy, teleconferencing, and teleworking, using tele-devices for mental health support and counseling.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)

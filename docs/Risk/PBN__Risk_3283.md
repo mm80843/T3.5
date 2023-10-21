@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Strengthen local partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2029.md)
+* [Strengthen local partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4939.md)
 

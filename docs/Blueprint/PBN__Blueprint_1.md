@@ -20,19 +20,32 @@ Following the outbreak of COVID-19 pandemic, e-commerce companies have invested 
 
 ## Enablers of the blueprint
 
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_4.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_4.md)
 * [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_21.md)
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
 
 ## Interventions of the blueprint
 
 * [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_13.md)
+* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_35.md)
 * [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_32.md)
 * [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_34.md)
-* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_35.md)
+
+## Possible mitigations of the BP
+
+* [Restrictions on shared facilities, devices, and services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1725.md)
+* [Privacy considerations and flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_482.md)
+* [Monitoring buying behavior and limiting purchases; optimizing supply chains; surveillance and enforcement against hoarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3035.md)
+* [Contactless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5347.md)
+* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4764.md)
+* [Smart personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1278.md)
+* [Establish temporary isolation and quarantine rooms with necessary equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2795.md)
+* [Safety wearables and carry-ons](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3376.md)
+* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3467.md)
+* [Proximity shopping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4020.md)
 
 ## Type of deployment of the blueprint
 
@@ -64,6 +77,19 @@ A number of limitations have been identified for this specific measure:
 •	 carrying capacity at peak time - limited capacity if the user does not collect the goods quickly
 •	 inability to carry large parcels 
 •	 partial job destruction
+
+## Possible risks of the BP
+
+* [Quarantine, self-isolation, and lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_852.md)
+* [Personal safety and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3562.md)
+* [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_328.md)
+* [Security and ownership of wearable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_686.md)
+* [Reducing inequalities in access to wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_687.md)
+* [Limited accessibility, security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3173.md)
+* [Underutilized smart solutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_808.md)
+* [Transportation protocols and precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2114.md)
+* [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
+* [Implement robust cybersecurity measures, such as encryption and secure data storage, to protect residents’ personal information. raise awareness about online safety and privacy protection.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3662.md)
 
 ## Scale of the of the blueprint
 

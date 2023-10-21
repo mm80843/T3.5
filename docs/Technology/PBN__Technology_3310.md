@@ -2,6 +2,16 @@
 
 # __Signage materials__
 
+## Link between Blueprint and General ontology
+
+* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_31.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_267.md)
+* [Signage and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_268.md)
+* [Use of signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_269.md)
+* [Social distancing signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_270.md)
+* [Clear signage and reminders](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_271.md)
+* [Hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_195.md)
+
 ## Category to which it belongs
 
 * [A compilation of various materials used for soundproofing, insulation, building, education, sustainability, and innovative purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
@@ -21,5 +31,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1785.md)
+* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4721.md)
 

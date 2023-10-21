@@ -23,20 +23,33 @@ During the COVID-19 pandemic, large organisations, as well as many educational p
 
 ## Enablers of the blueprint
 
+* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_32.md)
 * [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_4.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_23.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_23.md)
-* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_32.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_4.md)
 
 ## Interventions of the blueprint
 
-* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_18.md)
 * [Shift controls (occupancy control of total users)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_19.md)
+* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_18.md)
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_31.md)
 * [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_34.md)
+
+## Possible mitigations of the BP
+
+* [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2019.md)
+* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5294.md)
+* [Implement strict social distancing protocols, including spacing out workstations, staggering breaks, and limiting the number of workers in confined spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1652.md)
+* [Implementing physical distancing measures, staggering work shifts, reducing team sizes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2561.md)
+* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3230.md)
+* [Staff compartmentalization within zones/cohorts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3861.md)
+* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_515.md)
+* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4483.md)
+* [Online meetings and shift schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4887.md)
+* [Second shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3553.md)
 
 ## Type of deployment of the blueprint
 
@@ -64,6 +77,19 @@ A number of limitations and constraints were identified for this specific measur
 •	 misinformation
 •	 slow response time
 •	 number of users
+
+## Possible risks of the BP
+
+* [Covid-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_675.md)
+* [Covid-19 outbreaks in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_887.md)
+* [Deficiencies in office buildings and layouts in regards to infection spreading propensity during the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_435.md)
+* [Covid-19 transmission in crowded occupational environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_301.md)
+* [Covid-19 transmission in healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_372.md)
+* [Spread of covid-19 in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_434.md)
+* [Increased transportation and contact in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2843.md)
+* [Shift in customer needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1588.md)
+* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3653.md)
+* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3658.md)
 
 ## Scale of the of the blueprint
 

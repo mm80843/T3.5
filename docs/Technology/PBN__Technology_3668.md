@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2325.md)
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5197.md)
 

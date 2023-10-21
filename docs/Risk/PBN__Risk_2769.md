@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Reimagining post-lockdown workplace rules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_886.md)
+* [Reimagining post-lockdown workplace rules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3893.md)
 

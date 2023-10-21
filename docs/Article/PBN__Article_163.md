@@ -45,9 +45,9 @@ Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmissi
 
 ## This article points to following mitigation
 
-* [Supplementing with ceiling mounted fans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_260.md)
-* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_258.md)
-* [Good room air mixing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_259.md)
+* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_310.md)
+* [Supplementing with ceiling mounted fans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3344.md)
+* [Good room air mixing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3343.md)
 
 ## This article mentions these technologies
 

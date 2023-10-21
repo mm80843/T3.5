@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_550 
 
-# __Data sharing for secondary use__
+# __Reducing inequality and poverty__
 
 ## Category to which it belongs
 
-* [Promote seamless data sharing, real-time analysis, and collaboration through standardized protocols and integrated platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_97.md)
-* [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3516.md)
-* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2269.md)
-* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2534.md)
-* [Centralised primary data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_556.md)
-* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2535.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1401.md)
-* [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_865.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1287.md)
-* [Seamless data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3066.md)
-
-## Property: has_MitigationPrinciple
-
-Facilitate further research, provide quality assurance, enable analysis and reproducibility
-
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of standardization, concerns over ethics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2589.md)
-
-## Property: has_MitigationSource
-
-* [Data capture and sharing in the COVID-19 pandemic: a cause for concern](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_208.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_548.md)
+* [Social justice and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_546.md)
+* [Social and economic equality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_545.md)
+* [Social equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_547.md)
+* [Sustainable and equitable tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2925.md)
+* [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_551.md)
+* [Loss of jobs and livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3367.md)
+* [Provide financial assistance and resources to individuals and families facing economic hardship, promote economic empowerment programs for women](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3368.md)
+* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3369.md)
+* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3370.md)
 

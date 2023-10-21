@@ -2,6 +2,10 @@
 
 # __New designs, uses, and practices for green spaces__
 
+## Link between Blueprint and General ontology
+
+* [Space design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_6.md)
+
 ## Category to which it belongs
 
 * [Insufficiently maintained, overcrowded, and inequitably distributed public spaces contribute to a lack of access to green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
@@ -18,6 +22,10 @@
 * [Inadequate maintenance of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1533.md)
 * [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
 * [Increased recreational use in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_892.md)
+
+## Blueprints with this risk
+
+* [Acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_16.md)
 
 ## Mitigations of this risk
 

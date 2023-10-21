@@ -2,6 +2,10 @@
 
 # __Indoor environmental quality__
 
+## Link between Blueprint and General ontology
+
+* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_134.md)
+
 ## Category to which it belongs
 
 * [Promotion and implementation of sustainable and eco-friendly techniques, technologies, and initiatives for environmental conservation and management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2345.md)
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1389.md)
 

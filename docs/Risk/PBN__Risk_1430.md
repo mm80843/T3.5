@@ -66,8 +66,8 @@ Rapid global spread of contagious diseases
 ## Technologies linked to the risk
 
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
-* [Temperature screenings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_699.md)
 * [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_700.md)
+* [Temperature screenings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_699.md)
 
 ## Property: has_RiskType
 

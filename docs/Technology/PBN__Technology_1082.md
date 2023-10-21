@@ -2,6 +2,11 @@
 
 # __Manufacturing companies__
 
+## Link between Blueprint and General ontology
+
+* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_221.md)
+* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_222.md)
+
 ## Category to which it belongs
 
 * [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)

@@ -2,6 +2,11 @@
 
 # __Biological structures__
 
+## Link between Blueprint and General ontology
+
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_227.md)
+* [Incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_228.md)
+
 ## Category to which it belongs
 
 * [Innovative technologies and materials combat pathogens, enhance disinfection, and advance research in antiviral therapies and detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_54.md)
+* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3167.md)
 

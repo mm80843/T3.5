@@ -2,6 +2,10 @@
 
 # __Graph-based structure__
 
+## Link between Blueprint and General ontology
+
+* [Graphical representation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_91.md)
+
 ## Category to which it belongs
 
 * [The built environment for green, digital, healthcare, transportation, and technological needs with reliable and scalable features.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Safe pedestrian navigation service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_347.md)
+* [Safe pedestrian navigation service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3419.md)
 

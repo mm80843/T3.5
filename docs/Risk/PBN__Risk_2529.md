@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_410.md)
-* [Digital revolution in water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1197.md)
+* [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3477.md)
+* [Digital revolution in water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4182.md)
 

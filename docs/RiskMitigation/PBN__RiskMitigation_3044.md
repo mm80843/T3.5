@@ -2,6 +2,10 @@
 
 # __Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.__
 
+## Link between Blueprint and General ontology
+
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_22.md)
+
 ## Category to which it belongs
 
 * [Strengthen healthcare systems, increase capacity, and ensure access to essential healthcare services through telemedicine, medical facility expansion, and resource allocation planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_477.md)
@@ -9,7 +13,7 @@
 ## Closest similar item
 
 * [Implement safety protocols, provide protective equipment, increase training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1529.md)
-* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3201.md)
+* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5354.md)
 * [Provide adequate healthcare services and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1136.md)
 * [Improve maintenance and management practices, allocate sufficient resources for upkeep and maintenance, establish regular inspections and maintenance schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2409.md)
 * [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1453.md)

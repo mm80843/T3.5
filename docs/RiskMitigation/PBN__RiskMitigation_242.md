@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3287.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5430.md)
 * [Provide safe and social spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2866.md)
 * [Provide spaces for physical activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2867.md)
 * [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_155.md)
@@ -24,8 +24,23 @@
 * [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
 * [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_253.md)
 
+## Property: has_MitigationPrinciple
+
+Maintaining physical distance from others to reduce the risk of close contact and potential transmission
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
 * [Pc3: personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_203.md)
+* [Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3295.md)
 * [Comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_282.md)
+
+## Property: has_MitigationSource
+
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_196.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Room to member ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3468.md)
 

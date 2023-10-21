@@ -2,6 +2,10 @@
 
 # __Inventory management__
 
+## Link between Blueprint and General ontology
+
+* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_237.md)
+
 ## Category to which it belongs
 
 * [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
+* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4293.md)
 

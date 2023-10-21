@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Self-health evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1965.md)
+* [Self-health evaluation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4882.md)
 

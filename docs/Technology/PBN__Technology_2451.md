@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Online physical activity classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_435.md)
-* [Virtual exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_444.md)
+* [Online physical activity classes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3497.md)
+* [Virtual exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3506.md)
 

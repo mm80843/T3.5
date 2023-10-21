@@ -1,40 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_421 
 
-# __Teleconference format for academic conferences__
+# __Establish measures to control water quality and availability__
 
 ## Category to which it belongs
 
-* [Expanding healthcare access through remote technology, including telemedicine, telehealth clinics, and virtual consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
+* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Teleconferencing and virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1684.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2913.md)
-* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2908.md)
-* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2909.md)
-* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_603.md)
-* [Remote meetings and video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_875.md)
-* [Video conference platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_353.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_469.md)
-* [Telemedicine and telepsychology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_209.md)
-* [Telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_422.md)
-
-## Property: has_MitigationPrinciple
-
-Utilizing online video conferencing software to maintain interactive academic conferences with live video feed, participant engagement, and recording capabilities.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Some faculty struggling with novel technology and participants with poor bandwidth connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2536.md)
-
-## Property: has_MitigationSource
-
-* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Zoom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2443.md)
-* [Skype](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2445.md)
-* [Gotomeeting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2442.md)
-* [Webex](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2444.md)
+* [Water quality management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)
+* [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_425.md)
+* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_422.md)
+* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_423.md)
+* [Ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2759.md)
+* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
+* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_426.md)
+* [Provision of water infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2117.md)
+* [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_436.md)
+* [Water consumption and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_424.md)
 

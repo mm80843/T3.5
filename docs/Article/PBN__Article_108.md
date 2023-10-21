@@ -43,12 +43,12 @@ El impacto del teletrabajo en tiempos del COVID-19
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_524.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_243.md)
-* [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_455.md)
-* [Isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_457.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3575.md)
+* [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3517.md)
+* [Isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3519.md)
 
 ## This article mentions these technologies
 
@@ -56,6 +56,7 @@ El impacto del teletrabajo en tiempos del COVID-19
 * [Project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
 * [Video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_426.md)
 * [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [Etc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1400.md)
 * [Online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1402.md)
 * [Communication guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1405.md)
 * [Flexible scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1404.md)
@@ -67,5 +68,4 @@ El impacto del teletrabajo en tiempos del COVID-19
 * [Time management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1403.md)
 * [Time tracking software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1406.md)
 * [Wrist supports](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1398.md)
-* [Etc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1400.md)
 

@@ -2,6 +2,10 @@
 
 # __New green space designs__
 
+## Link between Blueprint and General ontology
+
+* [Space design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_6.md)
+
 ## Category to which it belongs
 
 * [The scarcity of urban green spaces and the deterioration of environmental conditions contribute to the loss of biodiversity and declining conservation efforts and revenue, while also impacting public health and community well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)

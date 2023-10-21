@@ -25,7 +25,21 @@
 * [Professional networking](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_455.md)
 * [Enhanced structured communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_456.md)
 
+## Property: has_MitigationPrinciple
+
+Develop digital communication strategies to share information, collaborate, and discuss digital health solutions
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2485.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_895.md)
+* [Online forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3236.md)
 

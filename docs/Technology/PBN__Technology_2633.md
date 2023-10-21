@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Panic button protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_717.md)
+* [Panic button protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3740.md)
 

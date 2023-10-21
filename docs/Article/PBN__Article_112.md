@@ -43,23 +43,23 @@ Covid-19 and community mitigation strategies in a pandemic
 
 ## This article points to following mitigation
 
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
-* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_583.md)
-* [Restrict mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_582.md)
-* [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_581.md)
-* [New guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_584.md)
-* [Timing of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_585.md)
+* [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_562.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
+* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_565.md)
+* [Restrict mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_563.md)
+* [New guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3627.md)
+* [Timing of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3628.md)
 
 ## This article mentions these technologies
 
 * [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
 * [Social media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_31.md)
+* [Remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_548.md)
 * [Telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
 * [Data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_552.md)
 * [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
 * [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_549.md)
 * [Travel surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_547.md)
-* [Remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_548.md)
 * [Event planning guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_546.md)
 * [Crowd management technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_545.md)
 * [Early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_551.md)

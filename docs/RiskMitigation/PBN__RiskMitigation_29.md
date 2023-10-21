@@ -23,7 +23,23 @@
 
 * [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_37.md)
 
+## Property: has_MitigationPrinciple
+
+Use of IoT devices, blockchain technology, and 5G networks to improve supply chain management for healthcare, including tracking and monitoring of supply chains, improving transparency, and efficient delivery of goods
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Negative impact on supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_23.md)
+* [Imbalance of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3239.md)
+
+## Property: has_MitigationSource
+
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [Mmwave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3358.md)
+* [Massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3359.md)
 

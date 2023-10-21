@@ -23,7 +23,19 @@
 
 * [Suppression of outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_44.md)
 
+## Property: has_MitigationPrinciple
+
+Implementing zone-based lockdowns to suppress outbreaks and prevent further spread of the virus, especially in areas with lower levels of employment and vulnerable populations.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Vulnerability of high-density districts to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_28.md)
+* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
+
+## Property: has_MitigationSource
+
+* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+
+## This Mitigation is enabled by the following technologies
+
 

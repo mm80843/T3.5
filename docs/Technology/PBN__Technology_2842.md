@@ -2,6 +2,11 @@
 
 # __Data sharing__
 
+## Link between Blueprint and General ontology
+
+* [Linked data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_174.md)
+* [Linked open data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_175.md)
+
 ## Category to which it belongs
 
 * [Efficiently manage, secure, analyze, and integrate diverse data through various advanced tools and platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Enhanced coordination and cooperation among institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1049.md)
+* [Enhanced coordination and cooperation among institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4044.md)
 

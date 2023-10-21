@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Active travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_307.md)
+* [Active travel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3382.md)
 

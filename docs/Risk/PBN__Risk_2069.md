@@ -63,8 +63,8 @@ Privacy violations, unauthorized access to personal information
 
 ## Technologies linked to the risk
 
-* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
 * [Privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1577.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
 * [Access control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1576.md)
 * [Software-defined privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1578.md)
 

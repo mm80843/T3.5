@@ -61,9 +61,9 @@ Increased sickness and absenteeism, potential long-term health consequences for 
 
 ## Technologies linked to the risk
 
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
 * [Remote inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_861.md)
 * [Sensors for contactless inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_863.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
 
 ## Property: has_RiskType
 

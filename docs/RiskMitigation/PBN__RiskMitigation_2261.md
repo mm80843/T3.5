@@ -2,6 +2,10 @@
 
 # __Implement physical distancing measures, modify layout to allow for more space between individuals, and limit occupancy in common areas__
 
+## Link between Blueprint and General ontology
+
+* [Shift controls (occupancy control of total users)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_19.md)
+
 ## Category to which it belongs
 
 * [Implement measures to control occupancy, enforce social distancing, and ensure clear communication about preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_468.md)

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Ppe usage and disposal protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_17.md)
+* [Ppe usage and disposal protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3131.md)
 

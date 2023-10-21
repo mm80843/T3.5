@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Robust linear regression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_323.md)
+* [Robust linear regression](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3398.md)
 

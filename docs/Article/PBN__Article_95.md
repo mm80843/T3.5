@@ -39,11 +39,11 @@ Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in t
 
 ## This article points to following mitigation
 
-* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1087.md)
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1088.md)
-* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1089.md)
-* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1086.md)
-* [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1085.md)
+* [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_485.md)
+* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4076.md)
+* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4075.md)
+* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4077.md)
+* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4078.md)
 
 ## This article mentions these technologies
 
@@ -53,8 +53,8 @@ Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in t
 * [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
 * [Green corridors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_971.md)
 * [Planting trees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_972.md)
-* [Collaborative planning and decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_982.md)
 * [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
+* [Collaborative planning and decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_982.md)
 * [Surveillance systems for disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
 * [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_980.md)
 * [Mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_977.md)

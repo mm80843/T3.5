@@ -42,8 +42,8 @@ Environmental degradation, including climate change and biodiversity loss, has c
 ## Mitigations of this risk
 
 * [Implement sustainable land use practices, protect and restore ecosystems, and mitigate climate change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1835.md)
-* [Sustainable farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_570.md)
-* [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1764.md)
+* [Sustainable farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3617.md)
+* [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4700.md)
 
 ## Name of the risk
 
@@ -66,8 +66,8 @@ Loss of biodiversity, increased vulnerability to infectious diseases, and ecosys
 
 ## Technologies linked to the risk
 
-* [Sustainable agriculture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_533.md)
 * [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_532.md)
+* [Sustainable agriculture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_533.md)
 * [Conservation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
 * [Ecosystem restoration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_535.md)
 

@@ -46,13 +46,13 @@ Using Technology to Maintain the Education of Residents During the COVID-19 Pand
 
 ## This article points to following mitigation
 
-* [Flipped classroom strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_418.md)
-* [Separate tracks for junior and senior residents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_419.md)
-* [Social media group for daily practice questions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)
-* [Telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_422.md)
-* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_421.md)
-* [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_423.md)
-* [Viewing surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_424.md)
+* [Flipped classroom strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_40.md)
+* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_42.md)
+* [Separate tracks for junior and senior residents](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3484.md)
+* [Social media group for daily practice questions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3485.md)
+* [Telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3486.md)
+* [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3487.md)
+* [Viewing surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3488.md)
 
 ## This article mentions these technologies
 

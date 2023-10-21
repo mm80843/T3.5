@@ -42,7 +42,7 @@ Difficulty in consolidating and exchanging data due to legal issues and limited 
 ## Mitigations of this risk
 
 * [Promote data sharing initiatives and create integrated platforms and open-source structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2318.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1287.md)
+* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4260.md)
 
 ## Name of the risk
 

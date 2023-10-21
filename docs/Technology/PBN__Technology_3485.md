@@ -2,6 +2,10 @@
 
 # __Solar energy__
 
+## Link between Blueprint and General ontology
+
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_264.md)
+
 ## Category to which it belongs
 
 * [Promotion and implementation of sustainable and eco-friendly techniques, technologies, and initiatives for environmental conservation and management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Solar chargers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2089.md)
+* [Solar chargers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4975.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Larviciding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2318.md)
+* [Larviciding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5190.md)
 

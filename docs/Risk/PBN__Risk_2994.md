@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Machine learning algorithms for screening of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1356.md)
-* [Ai algorithms for identification of covid-19 on ct chest](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1361.md)
+* [Machine learning algorithms for screening of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4324.md)
+* [Ai algorithms for identification of covid-19 on ct chest](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4329.md)
 

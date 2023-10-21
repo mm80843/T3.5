@@ -4,8 +4,8 @@
 
 ## Items covered in this category
 
-* [Smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_111.md)
-* [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_29.md)
 * [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_264.md)
+* [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_29.md)
+* [Smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_111.md)
 * [Energy storage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_265.md)
 

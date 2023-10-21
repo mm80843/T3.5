@@ -19,6 +19,10 @@
 * [Virus transmission through touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_508.md)
 * [Spreading of corona virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_116.md)
 
+## Blueprints with this risk
+
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
+
 ## Description of the risk
 
 Coronaviruses can be transferred from contaminated surfaces to hands, increasing the risk of infection

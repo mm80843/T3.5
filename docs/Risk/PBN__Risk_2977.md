@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Closure of educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1296.md)
+* [Closure of educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4267.md)
 

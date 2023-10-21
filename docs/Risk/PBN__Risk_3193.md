@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Access to clean cooking fuels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1718.md)
-* [Improved cooking stoves](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1715.md)
+* [Improved cooking stoves](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4654.md)
+* [Access to clean cooking fuels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4657.md)
 

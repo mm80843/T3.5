@@ -2,6 +2,10 @@
 
 # __Preventing virus propagation__
 
+## Link between Blueprint and General ontology
+
+* [Propagation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_7.md)
+
 ## Category to which it belongs
 
 * [The propagation and transmission risks of respiratory viruses, including the coronavirus, and the need for standardized representation and understanding of virus spread, survival, and inactivation in various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)

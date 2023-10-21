@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1031.md)
+* [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4027.md)
 

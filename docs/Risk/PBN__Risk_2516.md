@@ -2,6 +2,10 @@
 
 # __Insufficient user uptake, navigation issues__
 
+## Link between Blueprint and General ontology
+
+* [User journey](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_3.md)
+
 ## Category to which it belongs
 
 * [Barriers to access and connectivity pose challenges in various areas, from healthcare to education and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
@@ -21,5 +25,5 @@
 
 ## Mitigations of this risk
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
 

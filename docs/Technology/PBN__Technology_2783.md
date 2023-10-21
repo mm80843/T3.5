@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Decreased show-off behavior on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_943.md)
+* [Decreased show-off behavior on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3945.md)
 

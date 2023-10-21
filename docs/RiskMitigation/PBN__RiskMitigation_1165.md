@@ -19,6 +19,10 @@
 * [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1405.md)
 * [Mobile technology in tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1162.md)
 
+## Blueprints with this mitigation
+
+* [Tracking and enforcing use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
+
 ## Benefits linked to a risk
 
 * [Rapid reporting and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1163.md)

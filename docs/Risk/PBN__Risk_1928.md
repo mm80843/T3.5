@@ -19,6 +19,10 @@
 * [Spread of covid-19 through water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_577.md)
 * [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3556.md)
 
+## Blueprints with this risk
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+
 ## Description of the risk
 
 Variability in excretion of SARS-CoV-2 RNA in feces and uncertainty in the correlation between wastewater data and actual COVID-19 cases may result in inaccurate prevalence estimation.

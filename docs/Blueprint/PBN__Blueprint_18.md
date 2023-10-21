@@ -48,6 +48,19 @@ Animal vector control methods and technologies are central to preventing the tra
 * [Animal vectors control](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_16.md)
 * [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_38.md)
 
+## Possible mitigations of the BP
+
+* [Improve water and food safety measures, implement vector control strategies, strengthen health systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2190.md)
+* [Control environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3952.md)
+* [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4719.md)
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5197.md)
+* [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4700.md)
+* [Heightened surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3200.md)
+* [Prevention applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3253.md)
+* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4105.md)
+* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5579.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5537.md)
+
 ## Type of deployment of the blueprint
 
 * [Permanent & temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_2.md)
@@ -68,6 +81,19 @@ In areas where mosquito-borne diseases are endemic (e.g. dengue fever, malaria, 
 ## Restrictions of the blueprint
 
 The main obstacle to effective prevention and control of animal vectors is the inability or even lack of knowledge exchange between trained professionals, as well as the lack of expertise in non-traditional methods, which are still widely used in many EU countries. Furthermore, innovation in this particular sector cannot be considered rapid and there are currently not many alternatives to traditional methods. Moreover, training of personnel migh be costly and use of toxic pesticides and insecticides can harm the environment. 
+
+## Possible risks of the BP
+
+* [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
+* [Increased mosquito intrusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3041.md)
+* [Increase in vector-borne diseases due to suburban landscape design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_60.md)
+* [Urban pests and disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_66.md)
+* [Increase in pests and disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2902.md)
+* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3008.md)
+* [Improved surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_474.md)
+* [Limitations of broad-scale mosquito control programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_760.md)
+* [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1634.md)
+* [Increased exposure to mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2893.md)
 
 ## Scale of the of the blueprint
 

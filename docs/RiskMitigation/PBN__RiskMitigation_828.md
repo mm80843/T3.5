@@ -23,7 +23,21 @@
 
 * [Improved mental health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_11.md)
 
+## Property: has_MitigationPrinciple
+
+Monitor psychosocial needs, deliver support, link to services, encourage open discussions
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Emotional distress, unhealthy behaviors, noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3105.md)
 * [Negative emotional reactions and noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_591.md)
+
+## Property: has_MitigationSource
+
+* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Social and mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3151.md)
 

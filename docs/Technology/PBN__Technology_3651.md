@@ -2,6 +2,10 @@
 
 # __Local data collection methods__
 
+## Link between Blueprint and General ontology
+
+* [Data collection](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_85.md)
+
 ## Category to which it belongs
 
 * [Efficient use of data analysis and modeling techniques to analyze various types of data for targeted insights.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Local data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2315.md)
+* [Local data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5188.md)
 

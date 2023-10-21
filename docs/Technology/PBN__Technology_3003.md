@@ -2,6 +2,11 @@
 
 # __Location and bluetooth data__
 
+## Link between Blueprint and General ontology
+
+* [Gps location](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_158.md)
+* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_160.md)
+
 ## Category to which it belongs
 
 * [A compilation of various mobile apps and technologies used for reporting, contact tracing, banking, scheduling, and other functions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1284.md)
+* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4257.md)
 

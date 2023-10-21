@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Rights-based approach to public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1500.md)
+* [Rights-based approach to public health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_359.md)
 

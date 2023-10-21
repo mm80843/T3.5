@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Promoting community voice and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2198.md)
+* [Promoting community voice and ownership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5077.md)
 

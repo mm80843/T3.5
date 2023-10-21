@@ -2,6 +2,10 @@
 
 # __Hiv testing kits__
 
+## Link between Blueprint and General ontology
+
+* [Test kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_203.md)
+
 ## Category to which it belongs
 
 * [Enhanced testing capacity and advanced diagnostic technologies ensure widespread and rapid disease screening and identification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Voluntary hiv testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_571.md)
+* [Voluntary hiv testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3618.md)
 

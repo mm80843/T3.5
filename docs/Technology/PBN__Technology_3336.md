@@ -2,6 +2,13 @@
 
 # __Ip surveillance cameras__
 
+## Link between Blueprint and General ontology
+
+* [Cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_177.md)
+* [Video cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_180.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_181.md)
+* [Surveillance camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_182.md)
+
 ## Category to which it belongs
 
 * [Enhanced visual monitoring technology for communication, collaboration, data collection, and security purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
@@ -21,5 +28,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Smart city solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1847.md)
+* [Smart city solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4781.md)
 

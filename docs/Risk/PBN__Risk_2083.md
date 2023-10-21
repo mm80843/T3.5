@@ -62,8 +62,8 @@ Inefficient energy use, poor thermal performance, negative impact on the environ
 
 ## Technologies linked to the risk
 
-* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
 * [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_532.md)
+* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
 
 ## Property: has_RiskType
 

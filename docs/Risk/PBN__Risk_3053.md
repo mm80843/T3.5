@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Regional and global information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1447.md)
+* [Regional and global information exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4411.md)
 

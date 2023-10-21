@@ -43,8 +43,8 @@ Rise in poverty rates due to job losses and economic recession
 
 * [Implementing social protection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_284.md)
 * [Social safety nets, financial support for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2170.md)
-* [Social protection measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1757.md)
-* [Cash donations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1758.md)
+* [Social protection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4693.md)
+* [Cash donations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4694.md)
 
 ## Name of the risk
 

@@ -2,6 +2,10 @@
 
 # __Smart windows__
 
+## Link between Blueprint and General ontology
+
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_201.md)
+
 ## Category to which it belongs
 
 * [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2057.md)
+* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_218.md)
 

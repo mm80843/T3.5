@@ -2,6 +2,17 @@
 
 # __Technology devices__
 
+## Link between Blueprint and General ontology
+
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_61.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_68.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_108.md)
+* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_67.md)
+* [Wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_141.md)
+* [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_66.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
+* [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_183.md)
+
 ## Category to which it belongs
 
 * [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
@@ -21,7 +32,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_986.md)
-* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_873.md)
-* [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1245.md)
+* [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3987.md)
+* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_706.md)
+* [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4228.md)
 

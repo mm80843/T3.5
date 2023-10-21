@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
+* [Increased production of ventilators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_676.md)
 * [Innovative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1281.md)
-* [Increased production of ventilators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1403.md)
 

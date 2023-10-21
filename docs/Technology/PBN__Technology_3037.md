@@ -2,6 +2,10 @@
 
 # __Gis software__
 
+## Link between Blueprint and General ontology
+
+* [Bim software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_256.md)
+
 ## Category to which it belongs
 
 * [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Geographic information system gis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1339.md)
+* [Geographic information system gis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4307.md)
 

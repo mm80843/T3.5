@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Emergency preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_187.md)
+* [Emergency preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3282.md)
 

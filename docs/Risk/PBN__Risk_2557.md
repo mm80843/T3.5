@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and indoor air quality iaq](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_488.md)
+* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and indoor air quality iaq](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_801.md)
 

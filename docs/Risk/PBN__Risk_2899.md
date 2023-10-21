@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Maintaining immunosuppression in liver transplant recipients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1112.md)
+* [Maintaining immunosuppression in liver transplant recipients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4099.md)
 

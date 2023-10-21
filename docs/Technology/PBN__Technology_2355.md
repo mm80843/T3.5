@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2064.md)
-* [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_294.md)
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_225.md)
+* [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3370.md)
 

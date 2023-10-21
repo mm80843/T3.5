@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Wolbachia intervention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2324.md)
+* [Wolbachia intervention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5196.md)
 

@@ -42,12 +42,12 @@ Risk of data breaches or unauthorized access to the data collected by the Newcas
 ## Mitigations of this risk
 
 * [Implement robust data security measures, encryption, access controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2062.md)
-* [Local data processing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_166.md)
-* [Improved online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1827.md)
-* [Real-time health data capture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1866.md)
-* [Remote monitoring of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1868.md)
-* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1960.md)
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1963.md)
+* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1100.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1101.md)
+* [Local data processing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3265.md)
+* [Improved online education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4762.md)
+* [Real-time health data capture](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4797.md)
+* [Remote monitoring of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4799.md)
 
 ## Name of the risk
 

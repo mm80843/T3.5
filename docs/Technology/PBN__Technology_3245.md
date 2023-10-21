@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Zoning and staggered work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1683.md)
+* [Zoning and staggered work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4624.md)
 

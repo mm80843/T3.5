@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Proactive case finding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2250.md)
+* [Proactive case finding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5128.md)
 

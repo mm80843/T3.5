@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Workplace safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1571.md)
+* [Workplace safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4521.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Surge capacity planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_616.md)
+* [Surge capacity planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3650.md)
 

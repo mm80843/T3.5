@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Proximity shopping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1022.md)
+* [Proximity shopping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4020.md)
 

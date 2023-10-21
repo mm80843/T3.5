@@ -19,6 +19,10 @@
 * [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
 * [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_155.md)
 
+## Blueprints with this mitigation
+
+* [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
+
 ## Benefits linked to a risk
 
 * [Enhanced privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_468.md)

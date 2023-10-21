@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1676.md)
+* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4618.md)
 

@@ -25,7 +25,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1973.md)
+* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_513.md)
 
 ## Risks linked to this technology
 

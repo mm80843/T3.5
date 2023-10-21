@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Lockdown and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1604.md)
+* [Lockdown and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4554.md)
 

@@ -4,9 +4,9 @@
 
 ## Items covered in this category
 
-* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_192.md)
 * [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_28.md)
 * [Voice and face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_260.md)
 * [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_243.md)
 * [Voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_261.md)
+* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_192.md)
 

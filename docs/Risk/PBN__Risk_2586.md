@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_547.md)
+* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3595.md)
 

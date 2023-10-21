@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
+* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3471.md)
 

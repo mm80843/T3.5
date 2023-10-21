@@ -17,13 +17,27 @@
 * [Strict disinfection measures, hand](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3015.md)
 * [Mitigation function](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_771.md)
 * [Implement measures to reduce patient overcrowding, such as increasing healthcare facility capacity or redirecting patients to different facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1859.md)
-* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3346.md)
+* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5483.md)
 
 ## Benefits linked to a risk
 
 * [Removal of particles](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_314.md)
 
+## Property: has_MitigationPrinciple
+
+Supplying clean air to the room to decrease the risk of infections and reduce the concentration of contaminants through increased air change rates
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
+
+## Property: has_MitigationSource
+
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Natural](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2329.md)
+* [Mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2330.md)
+* [And hybrid ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2331.md)
 

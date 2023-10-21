@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_944.md)
+* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3946.md)
 

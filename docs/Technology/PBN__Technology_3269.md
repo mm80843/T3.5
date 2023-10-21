@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Efficient cooking practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1724.md)
+* [Efficient cooking practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4663.md)
 

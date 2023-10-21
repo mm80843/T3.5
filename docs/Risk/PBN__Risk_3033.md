@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Flexible delivery hours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1414.md)
+* [Flexible delivery hours](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4378.md)
 

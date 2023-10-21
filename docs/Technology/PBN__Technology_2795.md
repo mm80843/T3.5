@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Creation of resceu stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_973.md)
+* [Creation of resceu stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3974.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Targeted policies for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2142.md)
+* [Targeted policies for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5024.md)
 

@@ -23,7 +23,18 @@
 
 * [Increased awareness of severity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_377.md)
 
+## Property: has_MitigationPrinciple
+
+Influence adoption intention based on perceived risk of COVID-19
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Covid-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
+
+## Property: has_MitigationSource
+
+* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
+
+## This Mitigation is enabled by the following technologies
+
 

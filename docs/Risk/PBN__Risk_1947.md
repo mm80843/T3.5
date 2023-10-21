@@ -63,12 +63,12 @@ Increased risk of musculoskeletal disorders, decreased productivity, and potenti
 
 ## Technologies linked to the risk
 
+* [Etc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1400.md)
 * [Ergonomic furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1395.md)
 * [Ergonomic chairs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1397.md)
 * [Adjustable desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1396.md)
 * [Monitor risers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1399.md)
 * [Wrist supports](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1398.md)
-* [Etc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1400.md)
 
 ## Property: has_RiskType
 

@@ -2,6 +2,10 @@
 
 # __Geographical information systems__
 
+## Link between Blueprint and General ontology
+
+* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_160.md)
+
 ## Category to which it belongs
 
 * [Strategies for equitable urban planning, development, and design, integrating green spaces, technology, and spatial optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Spatial mapping of covid-19 hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_280.md)
+* [Spatial mapping of covid-19 hotspots](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3357.md)
 

@@ -43,17 +43,17 @@ Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactiv
 
 ## This article points to following mitigation
 
-* [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_235.md)
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_867.md)
-* [Health declaration border pass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2249.md)
-* [Proactive case finding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2250.md)
-* [Hotline for reporting symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2251.md)
-* [Addressing disease stigma](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2252.md)
-* [National health command center nhcc](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2253.md)
-* [Border control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2254.md)
-* [Case identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2255.md)
-* [Reassure and educate the public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2256.md)
-* [Clear and compassionate public communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2257.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_337.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3876.md)
+* [Health declaration border pass](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5127.md)
+* [Proactive case finding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5128.md)
+* [Hotline for reporting symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5129.md)
+* [Addressing disease stigma](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5130.md)
+* [National health command center nhcc](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5131.md)
+* [Border control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5132.md)
+* [Case identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5133.md)
+* [Reassure and educate the public](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5134.md)
+* [Clear and compassionate public communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5135.md)
 
 ## This article mentions these technologies
 

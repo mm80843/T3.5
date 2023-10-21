@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Portable acoustic partitions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1899.md)
+* [Portable acoustic partitions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4821.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Infrared thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_349.md)
+* [Infrared thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3421.md)
 

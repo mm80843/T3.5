@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Substantially increase funding for climate and development organizations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1927.md)
+* [Substantially increase funding for climate and development organizations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4849.md)
 

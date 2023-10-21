@@ -19,6 +19,10 @@
 * [Limited understanding of the spread and impact of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2941.md)
 * [Covid-19 outbreak impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1425.md)
 
+## Blueprints with this risk
+
+* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
+
 ## Mitigations of this risk
 
 * [Neighborhood-oriented development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_37.md)

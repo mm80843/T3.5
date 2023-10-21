@@ -21,8 +21,8 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
+* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1747.md)
 * [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_430.md)
 * [Air quality monitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1980.md)
 * [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1485.md)
-* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1747.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2239.md)
+* [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5117.md)
 

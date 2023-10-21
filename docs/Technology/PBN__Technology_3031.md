@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Negative pressure isolation ward](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1332.md)
+* [Negative pressure isolation ward](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4300.md)
 

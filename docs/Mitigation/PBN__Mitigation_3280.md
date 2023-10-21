@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3280 
 
-# __Scientific studies__
+# __Disaster response team__
 
 ## Category to which it belongs
 
-* [Promote cohesive teamwork, partnerships, and collective knowledge sharing for efficient research, analysis, and collaboration in various fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
+* [Build resilience, ensure food supply, manage crises, and enhance emergency plans for a sustainable and inclusive future.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
-* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3277.md)
-* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3275.md)
-* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3276.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_864.md)
-* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3282.md)
-* [Research priorities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3274.md)
-* [Research and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3234.md)
-* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1068.md)
-* [Reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3060.md)
-* [Science-based decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1767.md)
+* [Disaster response teams](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3348.md)
+* [Disaster management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3347.md)
+* [Crisis management teams](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3349.md)
+* [Disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_455.md)
+* [Emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2332.md)
+* [Crisis response leadership programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3730.md)
+* [Emergency management agency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2334.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1608.md)
+* [Emergency facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_453.md)
+* [Level 1 national emergency response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2025.md)
 

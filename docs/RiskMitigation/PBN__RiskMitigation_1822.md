@@ -2,6 +2,10 @@
 
 # __Regular and thorough cleaning and disinfection of surfaces.__
 
+## Link between Blueprint and General ontology
+
+* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_14.md)
+
 ## Category to which it belongs
 
 * [Implement thorough and regular disinfection practices, along with the use of antimicrobial coatings and materials to minimize surface contamination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_494.md)

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2194.md)
+* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5073.md)
 

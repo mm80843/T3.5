@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Eco-showerheads](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2088.md)
+* [Eco-showerheads](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4974.md)
 

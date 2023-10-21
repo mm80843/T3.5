@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Correlating health issues with movement patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
+* [Correlating health issues with movement patterns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5153.md)
 

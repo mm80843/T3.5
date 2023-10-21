@@ -2,13 +2,17 @@
 
 # __Build redundancies in supply chains and critical infrastructure__
 
+## Link between Blueprint and General ontology
+
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_32.md)
+
 ## Category to which it belongs
 
 * [Developing resilient supply chains through alternative delivery methods, supplier diversification, and proactive response strategies, as well as implementing blockchain technology for transparent and efficient management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_475.md)
 
 ## Closest similar item
 
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3147.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5306.md)
 * [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1040.md)
 * [Diversify supply chains, establish backup suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2144.md)
 * [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2054.md)

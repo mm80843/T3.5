@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Disinfecting masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_706.md)
+* [Disinfecting masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3730.md)
 

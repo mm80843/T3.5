@@ -25,7 +25,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_542.md)
+* [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3591.md)
 
 ## Risks linked to this technology
 

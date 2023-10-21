@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Balancing ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_796.md)
+* [Balancing ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3814.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [New guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_584.md)
+* [New guidelines for funerals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3627.md)
 

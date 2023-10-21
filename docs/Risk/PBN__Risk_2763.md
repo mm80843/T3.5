@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Induction process online](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_878.md)
+* [Induction process online](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3886.md)
 

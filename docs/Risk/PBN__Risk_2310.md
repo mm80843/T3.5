@@ -63,8 +63,8 @@ Shortage of essential goods and services; difficulty in maintaining supply
 
 ## Technologies linked to the risk
 
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
 
 ## Property: has_RiskType
 

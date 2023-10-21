@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Increased sharing of recovery stories and information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_947.md)
+* [Increased sharing of recovery stories and information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3949.md)
 

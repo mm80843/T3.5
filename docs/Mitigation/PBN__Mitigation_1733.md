@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1733 
 
-# __Products__
+# __Demographics__
 
 ## Category to which it belongs
 
@@ -8,28 +8,14 @@
 
 ## Closest similar item
 
-* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3302.md)
-* [Limiting product range](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1415.md)
-* [Marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3313.md)
-* [Hardware and devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2881.md)
-* [Designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1618.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_864.md)
-* [Technology and innovation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1761.md)
-* [Innovative projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3320.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1664.md)
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3622.md)
-
-## Property: has_MitigationPrinciple
-
-nan
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Social and demographic change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1734.md)
+* [Social and gender disparities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_549.md)
+* [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_551.md)
+* [Population screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1735.md)
+* [Gender](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1697.md)
+* [Inclusion of young people and women](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1736.md)
+* [Socioeconomic support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_552.md)
+* [Country-specific analyses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1737.md)
+* [Social distancing of the entire population](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1738.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
 

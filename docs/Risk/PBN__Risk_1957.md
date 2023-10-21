@@ -68,10 +68,10 @@ Increased risk of infection for healthcare workers.
 
 ## Technologies linked to the risk
 
+* [Manufacturing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1849.md)
 * [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1850.md)
 * [Increase ppe production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1417.md)
 * [Distribution strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1418.md)
-* [Manufacturing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1849.md)
 
 ## Property: has_RiskType
 

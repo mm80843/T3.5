@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_638.md)
-* [Aesthetic management practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_639.md)
+* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3670.md)
+* [Aesthetic management practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3671.md)
 

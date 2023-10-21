@@ -2,6 +2,10 @@
 
 # __Research collaborations__
 
+## Link between Blueprint and General ontology
+
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_232.md)
+
 ## Category to which it belongs
 
 * [Fact-checking tools, education initiatives, and ontology search engines are among the various resources and practices utilized to ensure the credibility and accuracy of information in different fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_240.md)

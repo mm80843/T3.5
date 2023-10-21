@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Relocating additional healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1084.md)
+* [Relocating additional healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4074.md)
 

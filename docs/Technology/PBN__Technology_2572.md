@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Position the kt platform as a credible source](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_595.md)
+* [Position the kt platform as a credible source](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_557.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1121.md)
+* [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4108.md)
 

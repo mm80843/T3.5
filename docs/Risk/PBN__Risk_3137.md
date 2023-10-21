@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Improved lift maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1597.md)
+* [Improved lift maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4547.md)
 

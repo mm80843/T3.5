@@ -2,6 +2,13 @@
 
 # __Technological tracking device__
 
+## Link between Blueprint and General ontology
+
+* [Positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_96.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_108.md)
+* [Wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_141.md)
+* [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_66.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,5 +28,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_658.md)
+* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3688.md)
 

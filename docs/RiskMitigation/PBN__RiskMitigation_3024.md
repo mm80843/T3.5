@@ -2,6 +2,10 @@
 
 # __Encourage a balanced approach to non-contact interaction activities, promoting a mix of virtual and physical interactions.__
 
+## Link between Blueprint and General ontology
+
+* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_26.md)
+
 ## Category to which it belongs
 
 * [Promote digital platforms, virtual activities, and social connections to facilitate remote trails, exercise programs, and community support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_497.md)
@@ -9,7 +13,7 @@
 ## Closest similar item
 
 * [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1393.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3240.md)
+* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5390.md)
 * [Encouraging virtual collaboration and social interaction through technology, implementing virtual team building activities and events](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1994.md)
 * [Encourage regular virtual team meetings and social activities, provide opportunities for teleworkers to connect with colleagues, and promote a healthy work-life balance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2582.md)
 * [Provide spaces for physical activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2867.md)

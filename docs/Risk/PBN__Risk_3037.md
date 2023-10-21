@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Virtual gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1418.md)
+* [Virtual gaming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4382.md)
 

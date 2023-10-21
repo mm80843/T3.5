@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Occupancy sensing setback thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_87.md)
+* [Occupancy sensing setback thermostats](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3194.md)
 

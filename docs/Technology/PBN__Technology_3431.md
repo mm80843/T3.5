@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Human movement analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2021.md)
+* [Human movement analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4931.md)
 

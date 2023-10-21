@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3644 
 
-# __Training resources__
+# __Implement distance learning solutions, provide technology and internet access to students.__
 
 ## Category to which it belongs
 
@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Educational and training resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2522.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2516.md)
-* [Training materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3751.md)
-* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2134.md)
-* [Training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3645.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2518.md)
-* [Job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3101.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_786.md)
-* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1466.md)
-* [Providing effective guidance and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1784.md)
+* [Implementing distance learning solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3815.md)
+* [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3814.md)
+* [Invest in digital infrastructure for remote learning, provide devices and internet access to students, support teachers and parents in adapting to remote education.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3645.md)
+* [Online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2542.md)
+* [Improved online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3642.md)
+* [Remote work and distance learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1428.md)
+* [Distance learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_930.md)
+* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_927.md)
+* [Implement remote learning strategies, provide support for students and families during closures.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1778.md)
+* [Remote work and online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3619.md)
 

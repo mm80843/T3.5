@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Support for children’s education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1467.md)
+* [Support for children’s education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4425.md)
 

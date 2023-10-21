@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1488 
 
-# __Closing of schools__
+# __Bioinformatics software and algorithms__
 
 ## Category to which it belongs
 
-* [Enhancing education access and equity through virtual learning, training programs, and closure of educational institutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
+* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
-* [School closing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_818.md)
-* [School and workplace closings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1342.md)
-* [Closure of schools and universities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2232.md)
-* [School closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_659.md)
-* [School and university closures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_10.md)
-* [Closure of educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1296.md)
-* [School and university closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_654.md)
-* [Closure of schools and entertainment venues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2035.md)
-* [Closure of educational institutions and workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3292.md)
-* [Isolate and test with school closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1548.md)
-
-## Property: has_MitigationPrinciple
-
-Stops the operation of schools to reduce the gathering of individuals and prevent the transmission of COVID-19
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_68.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1168.md)
+* [Ai and machine learning for gene analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3334.md)
+* [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2393.md)
+* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3258.md)
+* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1501.md)
+* [Comparative analysis of genome sequences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
+* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_852.md)
+* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2056.md)
+* [Data mining and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_858.md)
+* [Biosampler](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1166.md)
 

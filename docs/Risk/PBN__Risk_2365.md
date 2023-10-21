@@ -19,6 +19,10 @@
 * [Accumulation of water due to garbage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2410.md)
 * [Waste contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3290.md)
 
+## Blueprints with this risk
+
+* [Drinking water safety - restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
+
 ## Description of the risk
 
 Faulty drainage systems in buildings can lead to the transmission of airborne viruses through the plumbing and floor drains.

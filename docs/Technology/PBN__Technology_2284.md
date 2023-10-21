@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Establishing virtual platforms and telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_205.md)
+* [Establishing virtual platforms and telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3299.md)
 

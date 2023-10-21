@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Increase cooking and eating at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1492.md)
+* [Increase cooking and eating at home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4450.md)
 

@@ -2,6 +2,10 @@
 
 # __Data reporting mechanisms__
 
+## Link between Blueprint and General ontology
+
+* [Linked data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_174.md)
+
 ## Category to which it belongs
 
 * [A comprehensive range of measures and mechanisms to ensure safety, compliance, governance, transparency, and enforcement in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Enhanced surveillance and reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1804.md)
+* [Enhanced surveillance and reporting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4740.md)
 

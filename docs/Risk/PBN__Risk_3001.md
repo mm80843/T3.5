@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Ai technology for accurate and cost-effective tests](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1364.md)
+* [Ai technology for accurate and cost-effective tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4332.md)
 

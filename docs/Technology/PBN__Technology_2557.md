@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Standardized questionnaires](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_574.md)
+* [Standardized questionnaires](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3620.md)
 

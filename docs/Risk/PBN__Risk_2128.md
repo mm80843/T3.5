@@ -19,6 +19,10 @@
 * [Disparities in access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3373.md)
 * [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
 
+## Blueprints with this risk
+
+* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
+
 ## Description of the risk
 
 Lack of universal access to critical infrastructures like water and shelter increases susceptibility to disease

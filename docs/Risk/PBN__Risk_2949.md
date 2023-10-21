@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [5g cellular technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1215.md)
+* [5g cellular technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4199.md)
 

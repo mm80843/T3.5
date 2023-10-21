@@ -43,9 +43,9 @@ False information regarding infectious diseases can cause confusion, anxiety, an
 
 * [Store news and information on blockchain to prevent alteration, traceability, and prevention of false information spread](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1697.md)
 * [Storing information on blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1171.md)
-* [Prevention of false information spreading](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_359.md)
-* [Increased self-awareness of social media users](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_940.md)
-* [Increased sharing of scientific data by healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_941.md)
+* [Prevention of false information spreading](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3431.md)
+* [Increased self-awareness of social media users](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3942.md)
+* [Increased sharing of scientific data by healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3943.md)
 
 ## Name of the risk
 

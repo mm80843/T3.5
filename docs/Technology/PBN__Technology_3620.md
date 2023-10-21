@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2268.md)
+* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5144.md)
 

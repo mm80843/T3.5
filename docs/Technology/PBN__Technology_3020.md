@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Increasing fresh air supply in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1309.md)
+* [Increasing fresh air supply in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4279.md)
 

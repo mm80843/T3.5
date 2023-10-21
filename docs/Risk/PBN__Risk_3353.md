@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Knowledge extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2238.md)
+* [Knowledge extraction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5116.md)
 

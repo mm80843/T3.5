@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Bricolage approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)
-* [Purposeful bricolage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_998.md)
+* [Purposeful bricolage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_784.md)
+* [Bricolage approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3996.md)
 

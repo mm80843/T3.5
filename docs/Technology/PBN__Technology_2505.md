@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Development of public health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_514.md)
+* [Development of public health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3567.md)
 

@@ -19,6 +19,10 @@
 * [Insufficient preparedness for outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_468.md)
 * [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
 
+## Blueprints with this risk
+
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+
 ## Description of the risk
 
 The EU and Member States were not fully prepared for the rapid spread of the COVID-19 pandemic, leading to delays in response and a shortage of essential medical supplies

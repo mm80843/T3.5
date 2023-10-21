@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_795.md)
+* [Glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3813.md)
 

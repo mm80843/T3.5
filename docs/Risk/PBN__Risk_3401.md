@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Safe management of domestic waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2388.md)
+* [Safe management of domestic waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5254.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3368 
 
-# __Disaster management agencies__
+# __Compliance__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Enhance collaborative and resilient communication, establish effective channels, and address public concerns to mitigate risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_479.md)
+Ensure that workers adhere to safety regulations, reward compliance, discipline noncompliance, and enforce rules without distinguishing between vaccinated and non-vaccinated employees.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Disaster response teams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3373.md)
-* [Emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3374.md)
-* [Disaster response team](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3372.md)
-* [Emergency management agency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3375.md)
-* [Crisis management teams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3367.md)
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_382.md)
-* [Integration of urban technology for disaster preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_737.md)
-* [Establishing crisis management plans, allocating isolation areas, and providing necessary support and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1990.md)
-* [Efficient crisis management, timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2702.md)
-* [Increase investment in preventive medicine, community health, disaster management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2944.md)
+* [Noncompliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2486.md)
+
+## Property: has_MitigationSource
+
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Safety and health officers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2349.md)
+* [Procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2350.md)
 

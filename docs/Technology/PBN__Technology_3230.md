@@ -2,6 +2,11 @@
 
 # __Internet connection__
 
+## Link between Blueprint and General ontology
+
+* [Wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_39.md)
+* [Broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_40.md)
+
 ## Category to which it belongs
 
 * [Enhancing digital connectivity through internet-based communication, networking platforms, and wireless data transmission for efficient collaboration and reliable connectivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_873.md)
+* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_706.md)
 

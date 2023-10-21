@@ -2,6 +2,12 @@
 
 # __Virtual tours__
 
+## Link between Blueprint and General ontology
+
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_238.md)
+* [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_239.md)
+* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_241.md)
+
 ## Category to which it belongs
 
 * [Enhanced travel experiences, seamless transportation, and real-time updates for optimal accessibility and convenience.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)

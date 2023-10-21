@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [One-way systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_874.md)
+* [One-way systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3882.md)
 

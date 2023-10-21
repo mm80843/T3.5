@@ -2,6 +2,13 @@
 
 # __New delivery systems__
 
+## Link between Blueprint and General ontology
+
+* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_235.md)
+* [Online delivery platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_236.md)
+* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_225.md)
+* [Food delivery apps](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_230.md)
+
 ## Category to which it belongs
 
 * [Enhanced travel experiences, seamless transportation, and real-time updates for optimal accessibility and convenience.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)

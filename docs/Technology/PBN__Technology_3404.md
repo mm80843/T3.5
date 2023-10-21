@@ -2,6 +2,10 @@
 
 # __Medical equipment and personnel__
 
+## Link between Blueprint and General ontology
+
+* [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_164.md)
+
 ## Category to which it belongs
 
 * [Advancements in healthcare technology, remote care services, public health campaigns, and improved healthcare facilities contribute to a comprehensive and efficient healthcare system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Pre-employment and periodic mcus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1964.md)
+* [Pre-employment and periodic mcus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4881.md)
 

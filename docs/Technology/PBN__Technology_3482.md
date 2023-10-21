@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Smart power strip](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2086.md)
-* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2093.md)
+* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_351.md)
+* [Smart power strip](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4972.md)
 

@@ -23,7 +23,20 @@
 
 * [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
 
+## Property: has_MitigationPrinciple
+
+Automatically turning off lights in unoccupied rooms to reduce energy waste.
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Unnecessary energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2401.md)
 * [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
+
+## Property: has_MitigationSource
+
+* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Occupancy sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_647.md)
 

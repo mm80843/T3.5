@@ -2,6 +2,10 @@
 
 # __Improper architectural designs__
 
+## Link between Blueprint and General ontology
+
+* [Space design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_6.md)
+
 ## Category to which it belongs
 
 * [The built environment faces challenges in terms of occupant exposure, material shortages, high costs, inadequate design, and lack of flexibility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)

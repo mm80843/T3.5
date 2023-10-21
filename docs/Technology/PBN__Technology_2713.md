@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Tissue culture infectious dose at the 50% endpoint tcid50 technique](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_832.md)
+* [Tissue culture infectious dose at the 50% endpoint tcid50 technique](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3846.md)
 

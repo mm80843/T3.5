@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Water and sanitary system safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
+* [Water and sanitary system safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4520.md)
 

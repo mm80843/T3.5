@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Evaluation of symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1582.md)
+* [Evaluation of symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4532.md)
 

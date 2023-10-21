@@ -2,6 +2,10 @@
 
 # __Insurance providers__
 
+## Link between Blueprint and General ontology
+
+* [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_99.md)
+
 ## Category to which it belongs
 
 * [Efforts to provide financial assistance and support through various programs, incentives, grants, and investments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Commercial real-world data services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_552.md)
+* [Commercial real-world data services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3600.md)
 

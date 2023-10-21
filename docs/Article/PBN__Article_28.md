@@ -40,9 +40,9 @@ Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and 
 
 ## This article points to following mitigation
 
-* [Knowledge extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2238.md)
-* [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2240.md)
-* [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2239.md)
+* [Knowledge extraction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5116.md)
+* [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5117.md)
+* [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5118.md)
 
 ## This article mentions these technologies
 

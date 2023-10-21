@@ -45,16 +45,16 @@ Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
-* [System robustness against covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_922.md)
-* [Virus quantification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_924.md)
-* [Personal cleanliness, sanitization, and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_918.md)
-* [Social equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_919.md)
-* [Medical technological development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_925.md)
-* [Sustainable design and construction of projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_920.md)
-* [Adequate planning of infrastructural facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_921.md)
-* [Devising mitigation measures in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_923.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_698.md)
+* [System robustness against covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3927.md)
+* [Personal cleanliness, sanitization, and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3923.md)
+* [Social equity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3924.md)
+* [Sustainable design and construction of projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3925.md)
+* [Adequate planning of infrastructural facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3926.md)
+* [Devising mitigation measures in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3928.md)
+* [Virus quantification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3929.md)
+* [Medical technological development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3930.md)
 
 ## This article mentions these technologies
 
@@ -63,11 +63,11 @@ Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers
 * [Project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
 * [Waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_865.md)
 * [Public-private partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_55.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
 * [Remote inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_861.md)
 * [Sensors for contactless inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_863.md)
 * [Increased government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_860.md)
 * [Remote collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_125.md)
 * [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
 * [Wearable devices for social distancing monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_859.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
 

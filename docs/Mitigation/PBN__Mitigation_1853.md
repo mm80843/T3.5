@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1853 
 
-# __Building sanitization__
+# __Increase cooking and eating at home__
 
 ## Category to which it belongs
 
-* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
+* [Build resilience, ensure food supply, manage crises, and enhance emergency plans for a sustainable and inclusive future.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
-* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_669.md)
-* [Hygiene and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_297.md)
-* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_454.md)
-* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1851.md)
-* [Sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3910.md)
-* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3182.md)
-* [Regular cleaning and sanitization procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2740.md)
-* [Self-sanitizing surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_193.md)
-* [Personal cleanliness, sanitization, and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_918.md)
-* [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1783.md)
-
-## Property: has_MitigationPrinciple
-
-Clean and disinfect buildings to eliminate pathogens
-
-## Risks possibly mitigated by this Mitigation
-
-* [Contaminated environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3229.md)
-
-## Property: has_MitigationSource
-
-* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
+* [Efficient cooking practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3834.md)
+* [Increased household chores](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1751.md)
+* [Promotion of healthier lifestyles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3816.md)
+* [Improve food systems planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3552.md)
+* [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3818.md)
+* [Encourage physical exercise at home, balance and flexibility training, muscle strength exercise, and endurance training.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1859.md)
+* [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3551.md)
+* [Food security](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3555.md)
+* [Improved cooking stoves](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3835.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_750.md)
+* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3771.md)
 

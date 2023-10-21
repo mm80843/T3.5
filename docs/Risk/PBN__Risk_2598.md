@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Address health inequities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_559.md)
+* [Address health inequities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3607.md)
 

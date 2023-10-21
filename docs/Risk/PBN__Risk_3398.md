@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Regular updates on covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2371.md)
+* [Regular updates on covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5237.md)
 

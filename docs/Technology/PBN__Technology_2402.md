@@ -2,6 +2,13 @@
 
 # __Drone technology__
 
+## Link between Blueprint and General ontology
+
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_13.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_149.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_53.md)
+* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_151.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,6 +28,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Surveillance drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_350.md)
-* [Delivery drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1405.md)
+* [Surveillance drones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3422.md)
+* [Delivery drones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4369.md)
 

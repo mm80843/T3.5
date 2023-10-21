@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_861.md)
+* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3871.md)
 

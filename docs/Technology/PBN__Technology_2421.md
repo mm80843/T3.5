@@ -2,6 +2,10 @@
 
 # __Checkpoint stations__
 
+## Link between Blueprint and General ontology
+
+* [Gps location](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_158.md)
+
 ## Category to which it belongs
 
 * [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_401.md)
+* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_323.md)
 

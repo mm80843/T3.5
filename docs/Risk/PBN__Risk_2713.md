@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Multiple window opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_794.md)
+* [Multiple window opening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3812.md)
 

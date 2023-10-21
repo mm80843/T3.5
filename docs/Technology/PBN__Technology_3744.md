@@ -2,6 +2,14 @@
 
 # __Biophilic desing__
 
+## Link between Blueprint and General ontology
+
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_227.md)
+* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_259.md)
+* [Incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_228.md)
+* [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_194.md)
+* [Desiccation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_266.md)
+
 ## Category to which it belongs
 
 * [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)

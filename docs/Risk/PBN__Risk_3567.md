@@ -19,3 +19,7 @@
 * [Air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3551.md)
 * [Insufficient filtration of airborne particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3006.md)
 
+## Blueprints with this risk
+
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
+

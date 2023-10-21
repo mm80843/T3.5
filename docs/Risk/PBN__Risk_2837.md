@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Regional recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1015.md)
+* [Regional recovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4013.md)
 

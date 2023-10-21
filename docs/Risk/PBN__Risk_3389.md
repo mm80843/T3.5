@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Longitudinal analysis of wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2344.md)
+* [Longitudinal analysis of wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5215.md)
 

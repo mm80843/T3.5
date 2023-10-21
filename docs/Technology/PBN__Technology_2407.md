@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Video conference platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_353.md)
+* [Video conference platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3425.md)
 

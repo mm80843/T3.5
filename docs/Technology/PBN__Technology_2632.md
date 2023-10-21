@@ -2,6 +2,18 @@
 
 # __Wearables__
 
+## Link between Blueprint and General ontology
+
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_68.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_108.md)
+* [Wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_140.md)
+* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_67.md)
+* [Wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_141.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_128.md)
+* [Smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_142.md)
+* [Fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_143.md)
+* [Wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_144.md)
+
 ## Category to which it belongs
 
 * [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
@@ -25,9 +37,9 @@
 
 ## This Technology enables the following mitigations
 
-* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1143.md)
-* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1147.md)
-* [Iot-based solutions for quarantine time](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1153.md)
-* [Iot-based solutions for after recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1154.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_716.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1407.md)
+* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4128.md)
+* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4132.md)
+* [Iot-based solutions for quarantine time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4138.md)
+* [Iot-based solutions for after recovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4139.md)
 

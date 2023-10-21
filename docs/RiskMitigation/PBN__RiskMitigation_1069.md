@@ -23,7 +23,20 @@
 
 * [Improved food availability and quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1061.md)
 
+## Property: has_MitigationPrinciple
+
+Implement innovative strategies to strengthen food supply chains, support local food markets, and ensure access to nutritious food in vulnerable communities.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_777.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Context-specific initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2180.md)
+* [Innovative demand and supply-side initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2181.md)
 

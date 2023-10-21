@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1944.md)
+* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4863.md)
 

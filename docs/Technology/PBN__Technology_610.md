@@ -2,6 +2,11 @@
 
 # __Rapid diagnostic tests__
 
+## Link between Blueprint and General ontology
+
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_204.md)
+* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_275.md)
+
 ## Category to which it belongs
 
 * [Enhanced testing capacity and advanced diagnostic technologies ensure widespread and rapid disease screening and identification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
@@ -33,7 +38,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Rapid isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_991.md)
+* [Rapid isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3992.md)
 
 ## Risks linked to this technology
 

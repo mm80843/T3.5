@@ -64,9 +64,9 @@ Decreased mental well-being, increased negative emotions.
 
 ## Technologies linked to the risk
 
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1610.md)
 * [Skylights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_141.md)
 * [Sun tubes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1612.md)
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1610.md)
 * [Window views of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1613.md)
 * [Natural light solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1611.md)
 

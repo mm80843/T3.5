@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3816 
 
-# __Flawed communication__
+# __Promotion of healthier lifestyles__
 
 ## Category to which it belongs
 
-* [Effective, transparent, and targeted communication strategies are crucial for global coordination, cooperation, and risk prevention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
+* [Promote health, educate the public, implement interventions, strengthen health systems, and exchange health information for a healthier population.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
-* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4017.md)
-* [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3775.md)
-* [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4016.md)
-* [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_853.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1036.md)
-* [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4103.md)
-* [Communication challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3615.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_314.md)
-* [Clear and accurate communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3258.md)
-* [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3617.md)
+* [Promotion of healthy lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3817.md)
+* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1336.md)
+* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1334.md)
+* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_932.md)
+* [Physical activity promotion strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
+* [Retaining health as a priority in economic, political, food, and built environment sectors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3791.md)
+* [Emphasize public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2961.md)
+* [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1332.md)
+* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
 

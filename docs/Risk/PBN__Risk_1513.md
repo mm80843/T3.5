@@ -2,6 +2,10 @@
 
 # __Delays in project activities__
 
+## Link between Blueprint and General ontology
+
+* [Activities continuity](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_8.md)
+
 ## Category to which it belongs
 
 * [Supply chain and labor issues affecting project timelines, costs, and delivery are causing significant disruptions and setbacks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)

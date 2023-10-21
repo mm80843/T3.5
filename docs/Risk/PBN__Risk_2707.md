@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Addressing the impact on the informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_779.md)
+* [Addressing the impact on the informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3798.md)
 

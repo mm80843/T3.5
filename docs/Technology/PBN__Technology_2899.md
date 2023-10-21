@@ -2,6 +2,10 @@
 
 # __Beam sensors__
 
+## Link between Blueprint and General ontology
+
+* [Light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_130.md)
+
 ## Category to which it belongs
 
 * [A wide array of advanced technologies that detect and measure various environmental factors and human activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Video cameras and beam sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1103.md)
+* [Video cameras and beam sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4092.md)
 

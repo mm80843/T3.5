@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Inclusion of young people and women](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1763.md)
+* [Inclusion of young people and women](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4699.md)
 

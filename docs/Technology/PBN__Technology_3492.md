@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2096.md)
+* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4981.md)
 

@@ -67,9 +67,9 @@ Lack of adequate care for patients, increased mortality rates
 
 ## Technologies linked to the risk
 
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1650.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 * [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_207.md)
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1650.md)
 * [Mobile medical units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1651.md)
 * [Ai triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
 

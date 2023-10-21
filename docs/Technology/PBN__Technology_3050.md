@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Ai algorithms for identification of covid-19 on ct chest](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1361.md)
+* [Ai algorithms for identification of covid-19 on ct chest](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4329.md)
 

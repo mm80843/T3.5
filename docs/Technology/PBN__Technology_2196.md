@@ -2,6 +2,15 @@
 
 # __Blockchain technologies__
 
+## Link between Blueprint and General ontology
+
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_4.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_101.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_103.md)
+* [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_104.md)
+* [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_105.md)
+* [Smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_106.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,5 +30,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_97.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3204.md)
 

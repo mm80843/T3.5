@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Smart air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2171.md)
+* [Smart air quality control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5051.md)
 

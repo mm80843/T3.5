@@ -23,7 +23,18 @@
 
 * [Increased value](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_367.md)
 
+## Property: has_MitigationPrinciple
+
+Remove non-value added processes from construction activities to increase the value of the product or process
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Improper implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_297.md)
+
+## Property: has_MitigationSource
+
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
+
+## This Mitigation is enabled by the following technologies
+
 

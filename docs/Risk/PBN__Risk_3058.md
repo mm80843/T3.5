@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1464.md)
+* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4423.md)
 

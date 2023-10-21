@@ -63,8 +63,8 @@ Inability to effectively respond and manage outbreaks, leading to higher impact 
 
 ## Technologies linked to the risk
 
-* [Emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1054.md)
 * [Communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1055.md)
+* [Emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1054.md)
 
 ## Property: has_RiskType
 

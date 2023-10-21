@@ -24,14 +24,27 @@ It is well known that physical activity or exercise is essential for improving a
 
 ## Enablers of the blueprint
 
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
 * [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_27.md)
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
 
 ## Interventions of the blueprint
 
+* [Improve physical health](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_27.md)
 * [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_25.md)
 * [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_26.md)
-* [Improve physical health](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_27.md)
+
+## Possible mitigations of the BP
+
+* [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_73.md)
+* [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_154.md)
+* [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2274.md)
+* [Provide spaces for physical activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2867.md)
+* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_212.md)
+* [Promote safe physical activity guidelines and create opportunities for physical activity in public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2441.md)
+* [Promote home-based exercise programs, provide online resources for exercise routines, and encourage individuals to find alternative ways to stay active](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2277.md)
+* [Physical activity guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3185.md)
+* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4710.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3915.md)
 
 ## Type of deployment of the blueprint
 
@@ -53,6 +66,19 @@ People who stay active physically, mentally, socially and spiritually have bette
 ## Restrictions of the blueprint
 
 An official restriction in times of epidemics or pandemics could limit the use of facilities, so that physical activities do not become a source of contamination by themselves. Investment in building and operation can be high in most cases. 
+
+## Possible risks of the BP
+
+* [Decreased physical activity during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
+* [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3287.md)
+* [Reduced physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3075.md)
+* [Reduction of physical activity during covid-19 quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_62.md)
+* [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
+* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1056.md)
+* [Lack of physical activity opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_130.md)
+* [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
+* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
 
 ## Scale of the of the blueprint
 

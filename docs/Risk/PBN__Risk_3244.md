@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1890.md)
+* [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_34.md)
 

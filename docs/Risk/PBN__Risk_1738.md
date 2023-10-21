@@ -42,7 +42,7 @@ Concerns about exposing personal health information and cybersecurity threats
 ## Mitigations of this risk
 
 * [Implement policies and technologies to ensure data privacy and cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2320.md)
-* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1284.md)
+* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4257.md)
 
 ## Name of the risk
 

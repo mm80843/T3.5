@@ -42,8 +42,8 @@ Inability to provide adequate healthcare services due to high number of COVID-19
 ## Mitigations of this risk
 
 * [Increase healthcare capacity, prioritize resources, telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2168.md)
-* [Universal healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_568.md)
-* [Predicting hospital capacity and balancing loads](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2282.md)
+* [Universal healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3615.md)
+* [Predicting hospital capacity and balancing loads](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5157.md)
 
 ## Name of the risk
 

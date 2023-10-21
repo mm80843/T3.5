@@ -21,10 +21,10 @@
 
 ## Mitigations of this risk
 
-* [Avoidance of intense management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_629.md)
-* [Native plant species diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_631.md)
-* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_638.md)
-* [Inclusion of flowers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_634.md)
-* [Flat topography](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_636.md)
-* [Aesthetic management practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_639.md)
+* [Avoidance of intense management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3661.md)
+* [Native plant species diversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3663.md)
+* [Inclusion of flowers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3666.md)
+* [Flat topography](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3668.md)
+* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3670.md)
+* [Aesthetic management practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3671.md)
 

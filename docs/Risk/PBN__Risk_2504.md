@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Transparent donation process](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_358.md)
+* [Transparent donation process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3430.md)
 

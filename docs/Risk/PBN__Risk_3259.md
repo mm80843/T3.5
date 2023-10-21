@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Just transition strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1924.md)
+* [Just transition strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4846.md)
 

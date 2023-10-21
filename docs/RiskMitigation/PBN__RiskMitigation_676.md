@@ -23,7 +23,20 @@
 
 * [Increased supply of ventilators](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_681.md)
 
+## Property: has_MitigationPrinciple
+
+Scale up production of ventilators to meet the demand
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Shortages in icu beds and ventilators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_479.md)
+* [Shortage of ventilators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_926.md)
+
+## Property: has_MitigationSource
+
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Manufacturing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1849.md)
 

@@ -19,6 +19,10 @@
 * [Inadequate safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2631.md)
 * [Risk of collapse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2390.md)
 
+## Blueprints with this risk
+
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+
 ## Description of the risk
 
 Psychological resilience can support mental well-being during or after stressful conditions.

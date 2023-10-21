@@ -64,8 +64,8 @@ Service disruptions, delays in decision-making, decreased functionality
 
 ## Technologies linked to the risk
 
-* [Infrastructure redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1593.md)
 * [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
+* [Infrastructure redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1593.md)
 * [Technical support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1594.md)
 
 ## Property: has_RiskType

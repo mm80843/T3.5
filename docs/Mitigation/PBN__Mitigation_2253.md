@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2253 
 
-# __National health command center nhcc__
+# __Capacity overload__
 
 ## Category to which it belongs
 
-* [Promote health, educate the public, implement interventions, strengthen health systems, and exchange health information for a healthier population.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3162.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1688.md)
-* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3202.md)
-* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1227.md)
-* [Medical staff training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1878.md)
-* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3670.md)
-* [Emergency management agency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3344.md)
-* [Healthcare system preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1686.md)
-* [Health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3628.md)
-
-## Property: has_MitigationPrinciple
-
-Acts as the operational command point for direct communications among central, regional, and local authorities
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Disaster management center](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3612.md)
+* [Capacity limitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3372.md)
+* [Practical capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3371.md)
+* [Capacity limitations, lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3373.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2276.md)
+* [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3338.md)
+* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3337.md)
+* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3374.md)
+* [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_377.md)
+* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3376.md)
+* [Inefficient space utilization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3704.md)
 

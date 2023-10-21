@@ -2,6 +2,10 @@
 
 # __Implementing remote working__
 
+## Link between Blueprint and General ontology
+
+* [Support recovery of sectors via remote work](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_33.md)
+
 ## Category to which it belongs
 
 * [Enabling remote work and education through flexible arrangements, digital tools, telemedicine, and support resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_485.md)
@@ -23,7 +27,21 @@
 
 * [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
 
+## Property: has_MitigationPrinciple
+
+Allowing employees to work from home and limit physical interactions to prevent the spread of the virus
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of covid-19 on construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_771.md)
+* [Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3164.md)
+
+## Property: has_MitigationSource
+
+* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3217.md)
+* [It infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3218.md)
 

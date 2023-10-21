@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Use of non-toxic cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1732.md)
+* [Use of non-toxic cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4671.md)
 

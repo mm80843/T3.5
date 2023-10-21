@@ -19,6 +19,10 @@
 * [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3571.md)
 * [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3605.md)
 
+## Blueprints with this risk
+
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
+
 ## Description of the risk
 
 Hospitals may rely on portable air filters as a solution, but their effectiveness in reducing SARS-CoV-2 transmission is uncertain.

@@ -2,6 +2,11 @@
 
 # __Disinfection products__
 
+## Link between Blueprint and General ontology
+
+* [Biophilic desing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_30.md)
+* [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_194.md)
+
 ## Category to which it belongs
 
 * [The use of various technologies and products for the sterilization and cleaning of surfaces and waste, including uv disinfection and eco-friendly disinfectants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_738.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3760.md)
 

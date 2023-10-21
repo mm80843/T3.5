@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Dilution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_271.md)
+* [Dilution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_313.md)
 

@@ -42,7 +42,7 @@ Lack of cross-system interoperability and real-time access to healthcare data
 ## Mitigations of this risk
 
 * [Improve system interoperability and data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2317.md)
-* [Real-time data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1288.md)
+* [Real-time data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4261.md)
 
 ## Name of the risk
 

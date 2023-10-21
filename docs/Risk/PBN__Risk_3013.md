@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Regular air changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1385.md)
+* [Regular air changes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4350.md)
 

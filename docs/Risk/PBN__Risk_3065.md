@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Integration policies for migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1472.md)
+* [Integration policies for migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4430.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Efficient workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_967.md)
+* [Efficient workforce management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3968.md)
 

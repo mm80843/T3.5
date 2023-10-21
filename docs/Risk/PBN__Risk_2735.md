@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [School closing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_818.md)
+* [School closing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3834.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Deep learning-based drug discovery pipeline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1358.md)
+* [Deep learning-based drug discovery pipeline](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4326.md)
 

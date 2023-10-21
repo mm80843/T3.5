@@ -2,6 +2,11 @@
 
 # __Virtual exhibitions__
 
+## Link between Blueprint and General ontology
+
+* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_22.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_238.md)
+
 ## Category to which it belongs
 
 * [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)

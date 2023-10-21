@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Increased funding for vaccine research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1412.md)
+* [Increased funding for vaccine research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4376.md)
 

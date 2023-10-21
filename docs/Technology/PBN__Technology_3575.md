@@ -2,6 +2,15 @@
 
 # __Positioning technologies__
 
+## Link between Blueprint and General ontology
+
+* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_92.md)
+* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_10.md)
+* [Gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_157.md)
+* [Gps location](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_158.md)
+* [Location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_159.md)
+* [Mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_45.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,5 +30,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2182.md)
+* [Disaster management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5061.md)
 

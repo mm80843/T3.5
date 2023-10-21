@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Stay-at-home recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1301.md)
+* [Stay-at-home recommendations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4272.md)
 

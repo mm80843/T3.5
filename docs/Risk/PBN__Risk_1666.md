@@ -19,6 +19,10 @@
 * [Lack of proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1563.md)
 * [Inadequate ventilation in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_443.md)
 
+## Blueprints with this risk
+
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+
 ## Description of the risk
 
 Poor ventilation in indoor spaces can facilitate the spread of respiratory droplets and aerosols, increasing the risk of contagion.

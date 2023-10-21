@@ -11,7 +11,7 @@
 * [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_471.md)
 * [Relocation of healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_396.md)
 * [Conversion of public venues into makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_611.md)
-* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3210.md)
+* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5362.md)
 * [Containment spaces in hospitals and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_749.md)
 * [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_734.md)
 * [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_503.md)
@@ -23,7 +23,18 @@
 
 * [Addressing nursing staff shortage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_450.md)
 
+## Property: has_MitigationPrinciple
+
+Implement a deal between university hospitals to exchange nursing staff and address the shortage in the different hospitals.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Shortage of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_357.md)
+
+## Property: has_MitigationSource
+
+* [Management of the COVID-19 pandemic: challenges, practices, and organizational support](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_92.md)
+
+## This Mitigation is enabled by the following technologies
+
 

@@ -5,7 +5,10 @@
 ## Items covered in this category
 
 * [Advanced analytics and simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1128.md)
+* [Rollout mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1717.md)
+* [Appraising methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2564.md)
 * [Scheduling software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_632.md)
+* [Image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2234.md)
 * [Process optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_692.md)
 * [Grid optimization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_868.md)
 * [Simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1456.md)
@@ -28,7 +31,6 @@
 * [Statistical modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
 * [Statistical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)
 * [Statistical software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3525.md)
-* [Rollout mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1717.md)
 * [Simulation and forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3747.md)
 * [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_409.md)
 * [Integration programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3107.md)
@@ -53,8 +55,6 @@
 * [Complex modeling techniques incorporating variables such as excretion patterns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1359.md)
 * [Analytical tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3350.md)
 * [Hazard mapping tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1793.md)
-* [Appraising methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2564.md)
-* [Image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2234.md)
 * [Separation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3557.md)
 * [Spearman-karber method](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2719.md)
 * [Efficient recovery processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3511.md)

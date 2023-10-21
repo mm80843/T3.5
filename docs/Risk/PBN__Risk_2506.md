@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Reliable insurance claims](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_361.md)
+* [Reliable insurance claims](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3433.md)
 

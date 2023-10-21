@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Border closures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
+* [Border closures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3612.md)
 

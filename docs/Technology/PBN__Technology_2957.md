@@ -2,6 +2,10 @@
 
 # __Dehumidifiers__
 
+## Link between Blueprint and General ontology
+
+* [Desiccation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_266.md)
+
 ## Category to which it belongs
 
 * [Promotion and implementation of sustainable and eco-friendly techniques, technologies, and initiatives for environmental conservation and management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
@@ -21,6 +25,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_369.md)
-* [Control of moisture and humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1730.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3440.md)
+* [Control of moisture and humidity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4669.md)
 

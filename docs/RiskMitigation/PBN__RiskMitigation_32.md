@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3213.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5365.md)
 * [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_65.md)
 * [Addressing security and privacy issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1420.md)
 * [Enhanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2984.md)
@@ -23,7 +23,21 @@
 
 * [Improved cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_40.md)
 
+## Property: has_MitigationPrinciple
+
+Implementation of secure communication protocols, encryption, and distributed security solutions, such as blockchain, to protect healthcare systems from attacks and unauthorized access to sensitive data
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
+* [Attacks on healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3242.md)
+
+## Property: has_MitigationSource
+
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [Encrypted data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3363.md)
 

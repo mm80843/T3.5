@@ -11,7 +11,7 @@
 * [Portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_343.md)
 * [Use portable room air cleaners with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_190.md)
 * [Use of portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_774.md)
-* [Portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3271.md)
+* [Portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5416.md)
 * [Use of portable air filters to remove other pathogens from the air in hospital wards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2832.md)
 * [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_63.md)
 * [Implement germicidal ultraviolet or air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2350.md)
@@ -23,6 +23,19 @@
 
 * [Reduced concentration of airborne virus particles](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_607.md)
 
+## Property: has_MitigationPrinciple
+
+Removes airborne microdroplets and contaminants from the air, improving the indoor air quality and reducing the risk of airborne transmission
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+
+## Property: has_MitigationSource
+
+* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Mechanical filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3030.md)
 

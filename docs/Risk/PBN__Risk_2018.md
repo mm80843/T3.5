@@ -65,8 +65,8 @@ Decreased funds for other priorities, increased healthcare budgets.
 
 ## Technologies linked to the risk
 
-* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
 * [Health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1514.md)
 
 ## Property: has_RiskType

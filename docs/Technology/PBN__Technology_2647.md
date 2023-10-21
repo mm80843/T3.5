@@ -2,6 +2,12 @@
 
 # __Bim software__
 
+## Link between Blueprint and General ontology
+
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_27.md)
+* [Building information model bim](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_257.md)
+* [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_258.md)
+
 ## Category to which it belongs
 
 * [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
@@ -21,5 +27,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_734.md)
+* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3756.md)
 
