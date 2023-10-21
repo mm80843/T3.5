@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4459.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3818.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3815.md)
+* [Increase data sharing and collaboration among researchers and institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2280.md)
+* [Establish robust data collection and analysis systems, enhance data sharing and collaboration among countries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2006.md)
+* [Coordinate and fund national and international research efforts, establish databases for knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1798.md)
+* [Invest time and effort in overcoming technology barriers and considering multi-institutional collaborations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1741.md)
+* [Implement standardized data collection methods, invest in data integration platforms and tools.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1540.md)
 * [Establish mechanisms for coordinating and integrating research, data, and expertise across stakeholders and sectors, facilitate dialogue and exchange of information, and promote a multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1854.md)
-* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5149.md)
-* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4793.md)
+* [Promote transparency, standardization, and collaboration for data sharing across geographies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1507.md)
 * [Develop tools and platforms for easy access to data from multiple sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3069.md)
-* [Increased sharing of scientific data by healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5064.md)
-* [Centralised data repositories](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3816.md)
 * [Collaboration with data providers and experts from diverse domains, continuous expansion and updates of the kg](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3000.md)
+* [Promote data sharing initiatives and create integrated platforms and open-source structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2318.md)
 
 ## Risks possibly mitigated by this Mitigation
 

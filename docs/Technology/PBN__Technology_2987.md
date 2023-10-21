@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Direct uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5386.md)
-* [Uvgi in ahus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5387.md)
-* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5388.md)
-* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5389.md)
-* [Upper room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5390.md)
-* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5391.md)
-* [Lack of standardized tests and protocols for uvgi efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5392.md)
-* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4050.md)
-* [Uvgi systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5393.md)
-* [Use of 254 nm uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5394.md)
+* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3710.md)
+* [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2079.md)
+* [Uvgi lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2332.md)
+* [Uvc and uvgi lights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2520.md)
+* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
+* [Uv/uvgi/irradation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
+* [Design and engineering solutions for upper-room uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_257.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
+* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2056.md)
+* [Uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2415.md)
 
 ## This Technology enables the following mitigations
 

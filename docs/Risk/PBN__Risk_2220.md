@@ -62,8 +62,8 @@ Inadequate support for the general public, increased risk of anxiety and distres
 
 ## Technologies linked to the risk
 
-* [Virtual communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_144.md)
 * [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
+* [Virtual communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_144.md)
 
 ## Property: has_RiskType
 

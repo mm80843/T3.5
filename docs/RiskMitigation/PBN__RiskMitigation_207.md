@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3734.md)
 * [Implement effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_46.md)
-* [Increased communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3768.md)
 * [Improve communication channels and methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2529.md)
 * [Establishing effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_647.md)
 * [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_410.md)
-* [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3735.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3621.md)
 * [Targeted communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1373.md)
 * [Improve communication channels, provide clear and consistent information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2688.md)
+* [Encourage virtual communication, maintain social distancing guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1537.md)
+* [Establish effective communication channels, provide clear and transparent information, address concerns and questions, promote trust and understanding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1776.md)
+* [Implement communication campaigns, provide clear instructions and guidelines, and promote public awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2260.md)
+* [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_562.md)
 
 ## Benefits linked to a risk
 

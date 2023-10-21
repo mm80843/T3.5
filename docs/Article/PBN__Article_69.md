@@ -32,8 +32,8 @@ Understanding the role of urban design in disease spreading
 
 * [Spatial inequalities in mobility patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1204.md)
 * [Homogeneous mixing assumptions in epidemic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1206.md)
-* [Health inequalities resulting from urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1208.md)
 * [Lack of availability of mobility data for most cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1207.md)
+* [Health inequalities resulting from urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1208.md)
 * [Centralization of economic activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1205.md)
 
 ## This article points to following mitigation

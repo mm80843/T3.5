@@ -12,11 +12,11 @@
 * [Inadequate safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2631.md)
 * [Safety as an important factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1202.md)
 * [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
-* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3717.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3501.md)
 * [Safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1777.md)
 * [Safety risks for workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
 * [Safety and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2424.md)
-* [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3679.md)
+* [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3491.md)
 * [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1689.md)
 
 ## Description of the risk
@@ -64,8 +64,8 @@ Increased risk of exposure to contagious diseases and other safety hazards
 ## Technologies linked to the risk
 
 * [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_817.md)
-* [Regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1666.md)
 * [Safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1665.md)
+* [Regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1666.md)
 
 ## Property: has_RiskType
 

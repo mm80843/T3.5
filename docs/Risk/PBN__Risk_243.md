@@ -12,11 +12,11 @@
 * [Uncertainty in construction market](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1932.md)
 * [Delay in completion of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_306.md)
 * [Delays in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3814.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
 * [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
 * [Demolition and construction waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1818.md)
 * [Construction speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3303.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4009.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3474.md)
 * [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1060.md)
 
 ## Description of the risk

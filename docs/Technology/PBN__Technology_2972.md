@@ -15,7 +15,7 @@
 * [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2387.md)
 * [Fast prediction models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3538.md)
 * [Computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3170.md)
-* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4655.md)
+* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3767.md)
 * [Machine learning methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2538.md)
 * [Voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2993.md)
 

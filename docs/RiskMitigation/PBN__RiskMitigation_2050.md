@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1325.md)
-* [Video conference platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3637.md)
-* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3745.md)
-* [Remote meetings and video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3705.md)
-* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4790.md)
-* [Establishing virtual platforms and telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3596.md)
+* [Utilize video conferencing and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2057.md)
+* [Encouraging the use of videoconferencing tools, exploring innovative modes of remote communication.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2565.md)
 * [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_472.md)
-* [Face to face communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3772.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3251.md)
-* [Communication challenges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3575.md)
+* [Mobile chatbot applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1155.md)
+* [Development of reliable communication channels, sharing accurate information, coordination platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2597.md)
+* [Promotion of virtual communication and digital technologies for social interaction, designated public spaces that allow for safe socializing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2651.md)
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3224.md)
+* [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2977.md)
+* [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_410.md)
 
 ## Risks possibly mitigated by this Mitigation
 

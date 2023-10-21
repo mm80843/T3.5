@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Financial crisis in the construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_303.md)
 * [Environmental impact of construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2702.md)
+* [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
+* [Financial impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_553.md)
 * [Uncertainty in construction market](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1932.md)
 * [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
 * [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
-* [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1550.md)
-* [Devising mitigation measures in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3868.md)
-* [Decline in housing construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_304.md)
-* [Construction speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3303.md)
-* [Increase spending on development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4018.md)
-* [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3866.md)
+* [Covid-19 impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_987.md)
+* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
+* [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
 
 ## Description of the risk
 

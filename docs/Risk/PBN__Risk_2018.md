@@ -10,7 +10,7 @@
 
 * [Elevated healthcare expenditure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_663.md)
 * [Healthcare overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2391.md)
-* [Prioritize high-quality health care for those in need and ensure access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4429.md)
+* [Prioritize high-quality health care for those in need and ensure access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3621.md)
 * [Visible costs of policies versus unseen health benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1479.md)
 * [Overwhelming healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2502.md)
 * [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)

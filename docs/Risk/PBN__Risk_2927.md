@@ -10,14 +10,14 @@
 
 * [Contaminated personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1836.md)
 * [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
-* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4171.md)
+* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
 * [Contaminated tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3088.md)
 * [Operating room disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_255.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4168.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4182.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3587.md)
 * [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_254.md)
-* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3848.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3554.md)
 
 ## Mitigations of this risk
 

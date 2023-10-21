@@ -63,8 +63,8 @@ High risk of severe illness and death for infected individuals
 
 ## Technologies linked to the risk
 
-* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_269.md)
 * [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
+* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_269.md)
 
 ## Property: has_RiskType
 

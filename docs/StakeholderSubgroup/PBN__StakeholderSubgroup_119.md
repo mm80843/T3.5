@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Taiwanese citizen and community](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_729.md)
-* [Taiwanese citizens](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_730.md)
-* [Non-taiwanese citizens](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_731.md)
-* [Taiwanese citizen](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_732.md)
-* [Taiwanese government](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_733.md)
-* [Taiwan cdc](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_734.md)
-* [Indigenous populations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_735.md)
-* [Inhabitants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_736.md)
-* [Citizens](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_737.md)
-* [Individuals and communities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_738.md)
+* [Individuals in developing countries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_92.md)
+* [Rural individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_80.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_72.md)
+* [Residents/visitors](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_109.md)
+* [Geographically defined individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_74.md)
+* [Migrants and minorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_111.md)
+* [Community members](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_130.md)
+* [Community associations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_137.md)
+* [Community groups/organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_134.md)
+* [Specific populations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_91.md)
 
 ## Stakeholders in this stakeholder subgroup
 

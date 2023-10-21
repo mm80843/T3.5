@@ -13,7 +13,7 @@
 * [Hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3365.md)
 * [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
 * [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1461.md)
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4408.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3618.md)
 * [Contamination of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1326.md)
 * [Safety of laboratory personnel and environment during sample handling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1615.md)
 * [Cleaning purposes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2926.md)

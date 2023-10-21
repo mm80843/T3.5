@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Psychological tensions and social conflicts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_526.md)
+* [Psychological effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_855.md)
 * [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
+* [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1749.md)
+* [Psychological impact of social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2985.md)
+* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2349.md)
 * [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
 * [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2734.md)
-* [Social and psychological interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_859.md)
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3568.md)
-* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
-* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
-* [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2454.md)
-* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
-* [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
+* [Psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
 
 ## Description of the risk
 

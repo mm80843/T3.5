@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3869.md)
-* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3843.md)
-* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3870.md)
-* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3871.md)
-* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3476.md)
-* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3652.md)
-* [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3872.md)
-* [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3873.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3650.md)
-* [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3874.md)
+* [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1946.md)
+* [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
+* [Lack of access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1592.md)
+* [Limited access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1282.md)
+* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_693.md)
+* [No access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1531.md)
+* [Limited access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
+* [Low accessibility to green areas for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_944.md)
+* [Limited access to urban green spaces during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_709.md)
+* [Lack of access to green](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2263.md)
 
 ## Mitigations of this risk
 

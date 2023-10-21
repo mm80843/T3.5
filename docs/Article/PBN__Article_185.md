@@ -65,9 +65,9 @@ The changes in the effects of social media use of Cypriots due to COVID-19 pande
 ## This article mentions these technologies
 
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_878.md)
 * [Online platforms for information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_877.md)
 * [Online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_116.md)
-* [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_878.md)
 * [Transparent communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_875.md)
 * [Mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_874.md)
 * [Digital newsletters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_879.md)

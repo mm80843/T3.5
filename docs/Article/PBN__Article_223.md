@@ -63,6 +63,6 @@ The effect of a redesigned floor plan, occupant density and the quality of indoo
 * [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_895.md)
 * [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [Automatic hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1478.md)
-* [Hands-free fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1477.md)
 * [Touchless faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1479.md)
+* [Hands-free fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1477.md)
 

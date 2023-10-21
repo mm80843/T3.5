@@ -17,7 +17,7 @@
 * [Airborne and direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2991.md)
 * [Airborne pathogen](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_845.md)
 * [Airborne transmission via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_799.md)
-* [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3876.md)
+* [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3568.md)
 
 ## Mitigations of this risk
 

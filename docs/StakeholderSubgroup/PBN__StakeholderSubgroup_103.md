@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Environmental and living conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_98.md)
+* [Work and occupational context](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_108.md)
+* [Occupational and workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
 * [Sustainability and environment](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_115.md)
-* [Incorporating nature into living spaces](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_547.md)
-* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_548.md)
-* [Less crowded living environment](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_549.md)
-* [Determine which workers with comorbidities can work from home, provide necessary accommodations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_550.md)
+* [Workers/professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
 * [Health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_94.md)
-* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_551.md)
-* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_552.md)
-* [Provide guidelines and resources for remote work, promote work-life balance, and encourage ergonomic work setups.](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_553.md)
-* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_554.md)
+* [Environmental conditions and settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_107.md)
+* [Responsible or working individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_78.md)
+* [Ecology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_165.md)
+* [Environment and healthcare management tools](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_178.md)
 
 ## Stakeholders in this stakeholder subgroup
 

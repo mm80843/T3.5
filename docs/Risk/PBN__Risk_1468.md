@@ -65,8 +65,8 @@ Increased infection rates among the public, potential outbreaks, health and safe
 ## Technologies linked to the risk
 
 * [Contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_744.md)
-* [Crowd monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_743.md)
 * [Touchless entry systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_745.md)
+* [Crowd monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_743.md)
 
 ## Property: has_RiskType
 

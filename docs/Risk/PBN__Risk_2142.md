@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Lack of accurate risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
-* [Risk mapping process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4343.md)
+* [Risk mapping process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3515.md)
 * [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
 * [Risk connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_310.md)
 * [Biased risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
-* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3719.md)
+* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
 * [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1203.md)
-* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3743.md)
-* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4344.md)
-* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3718.md)
+* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3517.md)
+* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3502.md)
 
 ## Description of the risk
 
@@ -64,9 +64,9 @@ Inefficient deployment of resources, increased transmission of malaria, higher m
 
 ## Technologies linked to the risk
 
+* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
 * [Data quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1686.md)
 * [Statistical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)
-* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
 
 ## Property: has_RiskType
 

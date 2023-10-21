@@ -8,13 +8,13 @@
 
 ## Closest similar item
 
-* [Shift in customers’ needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4590.md)
-* [Customer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4591.md)
-* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4678.md)
-* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4763.md)
+* [Shift in customers’ needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3640.md)
+* [Customer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3641.md)
+* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3653.md)
+* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3658.md)
 * [Lack of communication and customer relationships](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2790.md)
 * [Service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3363.md)
-* [Implementing strategies to cope with staff shortages and consider alternative staffing options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3662.md)
+* [Implementing strategies to cope with staff shortages and consider alternative staffing options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3482.md)
 * [Reduced customer spending](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_677.md)
 * [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1754.md)
 

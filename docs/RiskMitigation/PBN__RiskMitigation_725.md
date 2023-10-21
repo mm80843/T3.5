@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Strengthened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3176.md)
-* [Health system strengthening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3175.md)
+* [Strengthening health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_282.md)
+* [Strengthen health care system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1031.md)
 * [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_966.md)
+* [Strengthen primary healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1071.md)
+* [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2283.md)
 * [Strengthen public and universal health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_16.md)
-* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3322.md)
-* [Increase availability of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3323.md)
-* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3324.md)
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3239.md)
-* [Increase healthcare system capacity, implement triage protocols, and prioritize care for severe cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2314.md)
-* [Increase investment in healthcare infrastructure and disease surveillance systems, improve access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2727.md)
+* [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2717.md)
+* [Strengthen healthcare systems, promote public health measures, increase access to testing and treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2269.md)
+* [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2005.md)
+* [Improve healthcare facilities, increase capacity and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2471.md)
 
 ## Benefits linked to a risk
 

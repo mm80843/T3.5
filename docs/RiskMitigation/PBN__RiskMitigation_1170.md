@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Blockchain-based donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1053.md)
-* [Donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3501.md)
 * [Store donation process in blockchain for transparency and verification, reducing corruption and improving social trust](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1696.md)
-* [Cash donations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3498.md)
-* [Transparent donation process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3510.md)
+* [Use of blockchain for reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1169.md)
+* [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1052.md)
 * [Strengthen supply chains, utilize blockchain for efficient tracking and distribution of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2698.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3220.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3149.md)
+* [Blockchain technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1055.md)
+* [Use blockchain for verifying insurance claims and payments, reducing the need for physical documentation and face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1698.md)
 * [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1103.md)
-* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3221.md)
-* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3511.md)
+* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3150.md)
 
 ## Benefits linked to a risk
 

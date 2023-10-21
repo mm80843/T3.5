@@ -13,7 +13,7 @@
 * [Misuse of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_50.md)
 * [Lack of healthcare data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1266.md)
 * [Lack of homogeneous data model for medical records](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_320.md)
-* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3614.md)
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
 * [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1224.md)
 * [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
 * [Need for common standards in health data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_817.md)

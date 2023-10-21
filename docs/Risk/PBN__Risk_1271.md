@@ -16,7 +16,7 @@
 * [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2097.md)
 * [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
 * [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
-* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3539.md)
+* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3445.md)
 * [Negative effects of sedentary behavior during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_645.md)
 
 ## Description of the risk

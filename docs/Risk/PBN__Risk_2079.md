@@ -14,7 +14,7 @@
 * [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_884.md)
 * [Inefficient space utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
 * [Capacity overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2630.md)
-* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3645.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3476.md)
 * [Imbalance of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3239.md)
 * [Increase in workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_166.md)
 * [Unnecessary energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2401.md)

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Adjustable room layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3420.md)
-* [Need for flexible room configurations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3419.md)
 * [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_748.md)
 * [Privacy considerations and flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_482.md)
 * [Optimize room layout, create flexible and multipurpose spaces, maximize use of natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2224.md)
-* [Adjustable indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4162.md)
 * [Design apartments with adaptable floor plans and flexible room dividers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2484.md)
+* [Optimize layout to provide separate spaces, utilize room dividers and soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2228.md)
 * [Provide adjustable and flexible indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2886.md)
-* [Housing layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4332.md)
+* [Partition rooms or corridors to create anterooms for each patient room, ensuring proper design and layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2184.md)
 * [Optimize space layout and arrangement, consider ergonomic principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2929.md)
+* [Levels of indoor space adjustability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_241.md)
+* [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_454.md)
 
 ## Benefits linked to a risk
 

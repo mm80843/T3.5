@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [People in developing countries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_850.md)
-* [Individual in developing country](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_851.md)
-* [Person in developing country](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_852.md)
-* [Developing countries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_853.md)
-* [Women and children in developing countries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_854.md)
-* [Individuals from lower socio-economic backgrounds](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_855.md)
-* [Woman and child in developing country](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_856.md)
-* [Rural households in developing countries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_857.md)
-* [Individuals in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_858.md)
-* [Rural household in developing country](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_859.md)
+* [Rural individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_80.md)
+* [Socioeconomic defined individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_89.md)
+* [Individuals in specific settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_87.md)
+* [Geographically defined individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_74.md)
+* [Responsible or working individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_78.md)
+* [General individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_88.md)
+* [Economic and social status](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_106.md)
+* [Individuals with specific conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_86.md)
+* [Homeless individuals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_96.md)
+* [Migrants and minorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_111.md)
 
 ## Stakeholders in this stakeholder subgroup
 

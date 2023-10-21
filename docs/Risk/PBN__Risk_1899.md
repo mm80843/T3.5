@@ -15,7 +15,7 @@
 * [Delayed decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_659.md)
 * [Misinformed decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2739.md)
 * [Lack of evidence-informed decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_393.md)
-* [Infuse risk communication into policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3722.md)
+* [Infuse risk communication into policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3506.md)
 * [Uncertainty of maintaining intensive policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_80.md)
 * [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2304.md)
 

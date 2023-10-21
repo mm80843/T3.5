@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Proper lighting design, use of glare-reducing fixtures, adjustable lighting controls.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1568.md)
 * [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1303.md)
-* [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3198.md)
 * [Improve lighting design, use daylighting strategies, provide task lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2477.md)
 * [Ensure sufficient lighting that meets safety standards and enhances visibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2927.md)
 * [Design for natural lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_136.md)
-* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3197.md)
 * [Enhanced lighting design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_151.md)
 * [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_218.md)
+* [Implement efficient lighting systems with timers or sensors, reduce unnecessary lighting, and optimize vital load usage.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1915.md)
 * [Incorporate ventilation systems and optimize natural lighting in building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1785.md)
-* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1391.md)
+* [Incorporate large windows, skylights, and daylighting strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1969.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2039.md)
+* [Lack of coordinated global governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_44.md)
 * [Governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
-* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3546.md)
-* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3547.md)
-* [Enhanced coordination and cooperation among institutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3548.md)
-* [Transparent governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3549.md)
-* [Government coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3550.md)
-* [Standardized protocols and governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3551.md)
-* [Improve governance models to be more collaborative, proactive, and integrated, focus on participatory decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3552.md)
-* [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3553.md)
-* [Stakeholder cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3554.md)
+* [Global coordination, political challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2876.md)
+* [Inadequate governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_631.md)
+* [Conflicting interests and governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1189.md)
+* [Lack of citizen cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2407.md)
+* [Limited collaboration and communication across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3281.md)
+* [Lack of multi-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1635.md)
+* [Fragmentation of efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2623.md)
 
 ## Mitigations of this risk
 

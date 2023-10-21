@@ -13,7 +13,7 @@
 * [Covid-19 impact on immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_981.md)
 * [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
 * [Unequal impact on the educational outcomes of children of immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1828.md)
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3663.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
 * [Economic recession for informal workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2707.md)
 * [Unemployment and underemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2014.md)
 * [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)

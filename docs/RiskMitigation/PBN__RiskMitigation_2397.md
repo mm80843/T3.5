@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3435.md)
-* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3522.md)
 * [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_809.md)
 * [Implement telehealth and telemedicine systems; increase healthcare infrastructure capacity; ensure access to essential healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2694.md)
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3436.md)
-* [Telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3521.md)
-* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3524.md)
-* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3532.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3432.md)
 * [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_27.md)
+* [Strengthen healthcare systems and ensure access to essential healthcare services through telemedicine and mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2362.md)
+* [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_43.md)
+* [Improve healthcare infrastructure, increase funding for healthcare services, implement telemedicine and mobile healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1895.md)
+* [Adapt and implement ai-driven tools in lmic healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2374.md)
+* [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_49.md)
+* [Adoption of telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_906.md)
+* [Expand telehealth services for virtual therapy and counseling; increase availability of online mental health resources; train and support mental health professionals in remote service delivery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2605.md)
 
 ## Risks possibly mitigated by this Mitigation
 

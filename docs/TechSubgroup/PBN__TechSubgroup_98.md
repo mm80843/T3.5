@@ -22,7 +22,7 @@
 ## This Technology belongs to this TechnologySubgroup
 
 * [City governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_338.md)
-* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_184.md)
 * [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_311.md)
+* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_184.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_339.md)
 

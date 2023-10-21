@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Border control and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4667.md)
-* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4668.md)
-* [Closing of borders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4669.md)
-* [Travel restrictions and border control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4670.md)
-* [Border closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4015.md)
-* [Border shutdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4671.md)
 * [Control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3270.md)
 * [Challenges in implementing and enforcing the carbon border tax](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2814.md)
 * [Governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
-* [Carbon border tax](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4672.md)
+* [Security and law enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
+* [Economic barrier](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2917.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2119.md)
+* [Community participation in control policies and preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_472.md)
+* [Ineffective mitigation policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_542.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
+* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
 
 ## Mitigations of this risk
 

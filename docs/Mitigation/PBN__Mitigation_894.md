@@ -33,6 +33,6 @@ Gathering real-time data to provide timely insights into policy decisions
 
 ## This Mitigation is enabled by the following technologies
 
-* [Data capture infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2759.md)
 * [Iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2754.md)
+* [Data capture infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2759.md)
 

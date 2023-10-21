@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [Inaccurate symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_674.md)
-* [Healthcare condition-specific individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3792.md)
+* [Healthcare condition-specific individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3540.md)
 * [Symptomatic vs asymptomatic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3126.md)
 * [Unreliable reporting, atypical symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2515.md)
 * [Presence of symptomatic and asymptomatic carriers in the population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1612.md)
 * [Inefficient disease identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1779.md)
 * [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2567.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3757.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
 * [Detection of asymptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_636.md)
 * [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1602.md)
 

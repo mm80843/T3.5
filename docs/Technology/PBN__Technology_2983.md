@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Improved air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
-* [Improve air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4755.md)
-* [Enhanced air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4754.md)
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
 * [Air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_308.md)
-* [Air filtration and purification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3852.md)
-* [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4756.md)
-* [High-level air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4757.md)
-* [Implementation of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3769.md)
 * [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2050.md)
+* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1750.md)
+* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
+* [High-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1348.md)
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
+* [Improved ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
+* [Portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2471.md)
 
 ## This Technology enables the following mitigations
 

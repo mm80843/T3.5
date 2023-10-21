@@ -8,10 +8,10 @@
 
 ## Closest similar item
 
-* [Architecture](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2632.md)
+* [Architecture](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2568.md)
 * [Architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
-* [Architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2630.md)
-* [Architecture engineering](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2633.md)
+* [Architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2570.md)
+* [Architecture engineering](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2569.md)
 * [Business associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1386.md)
 * [Community associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
 * [Property management associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1371.md)

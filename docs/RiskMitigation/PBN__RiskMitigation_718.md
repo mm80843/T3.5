@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1822.md)
-* [Regular disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4080.md)
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4079.md)
 * [Implement routine cleaning and disinfection of object surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3021.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
+* [Regular cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2296.md)
 * [Regular and thorough disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2074.md)
-* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3441.md)
 * [Regular cleaning and disinfection of surfaces, frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2311.md)
 * [Regular disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1926.md)
-* [Wiping surfaces with disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4081.md)
+* [Regular and thorough cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2654.md)
+* [Regular surface disinfection and use of self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2031.md)
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1188.md)
 
 ## Benefits linked to a risk
 

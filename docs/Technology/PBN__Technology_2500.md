@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Nested pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5337.md)
-* [Nucleic acid testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5335.md)
+* [Nucleic acid-based polymerase chain reaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2298.md)
+* [Real-time polymerase chain reaction rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
+* [Reverse transcription-quantitative polymerase chain reaction rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3630.md)
+* [Reverse transcriptase quantitative polymerase chain reaction rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2173.md)
+* [Pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
+* [Pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2296.md)
+* [Pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3345.md)
+* [Digital pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2044.md)
+* [Nucleic acid extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3682.md)
 * [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3632.md)
-* [Robust rt-qpcr assays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5339.md)
-* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5336.md)
-* [Dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1704.md)
-* [Crispr-based lateral flow assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5340.md)
-* [Digital rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5341.md)
-* [Taqman real-time rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5342.md)
-* [Next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3348.md)
 
 ## This Technology enables the following mitigations
 

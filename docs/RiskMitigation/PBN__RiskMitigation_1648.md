@@ -13,11 +13,11 @@
 * [Promotion of citizen engagement, participatory planning, transparency in decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2749.md)
 * [Foster social capital, trust, and participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2815.md)
 * [Foster collaboration and coordination among stakeholders, align governance models with common public health goals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1645.md)
-* [Governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3902.md)
 * [Foster collaboration and clear communication among stakeholders, establish effective project governance structure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1943.md)
+* [Engaging decision-makers and stakeholders in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_550.md)
 * [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_61.md)
-* [Transparent governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3903.md)
 * [Facilitating collaborative and integrated planning and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1105.md)
+* [Implementation of ets-based governance models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_874.md)
 
 ## Risks possibly mitigated by this Mitigation
 

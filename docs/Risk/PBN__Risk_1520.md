@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3395.md)
-* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3676.md)
-* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3675.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3488.md)
+* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3487.md)
 * [Remote work challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1853.md)
-* [Providing appropriate resources and support for remote work, implementing flexible working hours, and utilizing technology for virtual collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3688.md)
-* [Implementing remote work, flexible scheduling, and virtual meetings.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3677.md)
-* [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3672.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
+* [Providing appropriate resources and support for remote work, implementing flexible working hours, and utilizing technology for virtual collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3493.md)
+* [Implementing remote work, flexible scheduling, and virtual meetings.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3489.md)
+* [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3484.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3426.md)
 * [Difficulty in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
-* [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3674.md)
+* [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3486.md)
 
 ## Description of the risk
 

@@ -22,6 +22,6 @@
 * [Local residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_481.md)
 * [Community residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_525.md)
 * [Urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
-* [Residents/visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2727.md)
+* [Residents/visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2606.md)
 * [Resident](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2306.md)
 

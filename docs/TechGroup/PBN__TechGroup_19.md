@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_20.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_22.md)
-* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_21.md)
-* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_23.md)
-* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_25.md)
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_24.md)
-* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_27.md)
-* [Development of novel surveillance systems, improved reporting and communication channels](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_28.md)
-* [Mobile technology surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_26.md)
+* [Surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_22.md)
+* [Digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_20.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_25.md)
+* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_23.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_21.md)
+* [Video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_24.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_26.md)
+* [Monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_28.md)
+* [Digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_27.md)
 

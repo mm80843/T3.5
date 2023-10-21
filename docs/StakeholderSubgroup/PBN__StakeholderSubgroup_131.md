@@ -21,8 +21,8 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Social organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1489.md)
 * [Social organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2353.md)
+* [Social organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1489.md)
 * [Social institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_883.md)
 * [Social groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_638.md)
 * [Social group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2328.md)

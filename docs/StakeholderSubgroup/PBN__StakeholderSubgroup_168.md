@@ -12,16 +12,16 @@
 * [Urban management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_135.md)
 * [Environmental management and research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
 * [Water management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_117.md)
-* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_610.md)
-* [Environment and healthcare management tools](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_410.md)
-* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_459.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_180.md)
+* [Environment and healthcare management tools](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_178.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_187.md)
 * [Sustainability and environment](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_115.md)
 * [Government departments and ministries](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_121.md)
-* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_460.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_170.md)
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2513.md)
 * [Crisis management teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_951.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2513.md)
 * [Crisi management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2508.md)
 

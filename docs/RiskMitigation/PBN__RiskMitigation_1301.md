@@ -16,7 +16,7 @@
 * [Promote recycling and upcycling of construction and demolition waste to prevent the creation of mosquito breeding sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2419.md)
 * [Implement mosquito and tick control measures in urban greening initiatives and ensure proper maintenance of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2433.md)
 * [Water circulation and aeration, mosquito control measures, public education on mosquito prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2221.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3148.md)
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3123.md)
 * [Increase public education and awareness campaigns about mosquito-borne diseases and personal protective measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2624.md)
 
 ## Benefits linked to a risk

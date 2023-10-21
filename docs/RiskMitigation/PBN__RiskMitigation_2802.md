@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Maximizing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4774.md)
-* [Increasing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3960.md)
+* [Improve ventilation systems, limit pollutant sources, and implement air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1686.md)
 * [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1077.md)
-* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4775.md)
+* [Improve ventilation systems and air purification methods to ensure sufficient fresh air and control air pollutant levels.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1911.md)
 * [Reduce sources of chemical pollutants, improve ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2639.md)
 * [Increase ventilation rates, use air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2345.md)
 * [Increase ventilation rates and use air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2002.md)
-* [Increased ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4873.md)
-* [Increased ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4947.md)
 * [Enhanced ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1306.md)
+* [Increase ventilation rates, modify ventilation systems, avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2346.md)
+* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_517.md)
+* [Implement proper ventilation systems to reduce aerosol concentration in enclosed spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2955.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -15,7 +15,7 @@
 * [Improve vaccine efficacy through research and development.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2509.md)
 * [Investment in research and development for vaccines and agent-specific drugs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2066.md)
 * [Implement effective communication and education campaigns to address vaccine hesitancy, provide accurate information, and address concerns and misconceptions. engage with local communities and healthcare providers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2507.md)
-* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3838.md)
+* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3259.md)
 * [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_866.md)
 * [Improve surveillance for drug resistance, invest in vaccine development infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2134.md)
 

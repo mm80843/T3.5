@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Implementing social distancing measures, promoting good hygiene practices, and enforcing lockdowns or stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3560.md)
+* [Implementing social distancing measures, promoting good hygiene practices, and enforcing lockdowns or stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3451.md)
 * [Risk of non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2801.md)
 * [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3150.md)
 * [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2628.md)
 * [Impact of social distancing and home confinement on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1965.md)
 * [Psychological sequelae associated with mass home confinement directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_592.md)
 * [Mental health disturbances due to social distancing and home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_452.md)
-* [Timely implementation of travel restrictions, social distancing, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3738.md)
+* [Timely implementation of travel restrictions, social distancing, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3510.md)
 * [Negative impact of social confinement and distancing measures on well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_694.md)
 * [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3348.md)
 

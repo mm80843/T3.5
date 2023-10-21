@@ -10,14 +10,14 @@
 
 * [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
 * [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1091.md)
+* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2868.md)
+* [Lack of communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1686.md)
+* [Lack of communication and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
+* [Inadequate communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1491.md)
 * [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1747.md)
+* [Lack of communication and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1290.md)
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
-* [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2762.md)
-* [Difficulty in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
-* [Communication barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3178.md)
-* [Flawed communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_829.md)
-* [Increased communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3707.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3165.md)
+* [Lack of communication and customer relationships](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2790.md)
 
 ## Description of the risk
 

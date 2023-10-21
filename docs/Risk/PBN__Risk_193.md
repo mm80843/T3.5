@@ -14,7 +14,7 @@
 * [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
 * [Eu1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2185.md)
 * [High energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2403.md)
-* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3545.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3450.md)
 * [Unnecessary energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2401.md)
 * [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2201.md)
 * [Higher energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2656.md)

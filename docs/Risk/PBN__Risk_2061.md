@@ -9,9 +9,9 @@
 ## Closest similar item
 
 * [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_721.md)
-* [Data management and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3610.md)
-* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
-* [Data policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3721.md)
+* [Data management and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3461.md)
+* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3447.md)
+* [Data policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3505.md)
 * [Management problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_416.md)
 * [Lack of data support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
@@ -63,9 +63,9 @@ Inaccurate or incomplete data nan in the decision- nan nan making process
 
 ## Technologies linked to the risk
 
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
-* [Big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1570.md)
 * [Data nan nan warehousing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1571.md)
+* [Big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1570.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 
 ## Property: has_RiskType
 

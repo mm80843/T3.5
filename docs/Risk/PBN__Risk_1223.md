@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Use of far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4252.md)
-* [Far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4253.md)
-* [Uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4254.md)
-* [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4206.md)
-* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4255.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4256.md)
+* [Limited penetration of far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1219.md)
+* [Safety of far-uvc light exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1222.md)
 * [Limited awareness and expertise in germicidal uv technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_278.md)
-* [Upper-room uv light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4197.md)
-* [Upper room germicidal uv fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4200.md)
-* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4199.md)
+* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3595.md)
+* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
+* [Harmful effects of uv-c light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
+* [Inactivation of human coronaviruses by far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1221.md)
+* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3590.md)
+* [Exposing items or surfaces to uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2512.md)
+* [Upper-room uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3593.md)
 
 ## Description of the risk
 

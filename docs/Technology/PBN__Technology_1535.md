@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Social network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3790.md)
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
-* [Solidarity networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3791.md)
+* [Social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2605.md)
+* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_424.md)
 * [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1081.md)
-* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3792.md)
-* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3793.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3794.md)
-* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3758.md)
-* [Collaborative platforms and networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3652.md)
-* [Social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2574.md)
+* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3435.md)
+* [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1450.md)
+* [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_420.md)
+* [Online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1402.md)
+* [Social media communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2343.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 
 ## This Technology belongs to this TechGroup
 

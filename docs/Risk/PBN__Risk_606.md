@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Inefficient thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1785.md)
-* [Thermal comfort optimization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3798.md)
-* [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3804.md)
-* [Variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3800.md)
-* [Thermo-hygrometric comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3799.md)
-* [Indoor air quality and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3803.md)
-* [Ensure proper facade design and ventilation to maintain thermal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3805.md)
-* [Designing variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3802.md)
-* [Modification of occupants’ behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3807.md)
-* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3808.md)
+* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_342.md)
+* [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1861.md)
+* [Poor natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_956.md)
+* [Poor thermal comfort, inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2557.md)
+* [Comfort and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3298.md)
+* [Thermal discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_126.md)
+* [Increased thermal discomfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2891.md)
+* [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_953.md)
+* [Inadequate thermal environment control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
 
 ## Mitigations of this risk
 

@@ -12,22 +12,22 @@ enabler_004
 
 ## Closest similar item
 
-* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_185.md)
-* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_124.md)
-* [Data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_134.md)
-* [Timeline-based visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_138.md)
-* [Data visualization platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_135.md)
-* [Graphical representation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_186.md)
-* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_187.md)
-* [Infographics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_188.md)
-* [Supply chain mapping and visualization tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_189.md)
-* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_126.md)
+* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_82.md)
+* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_69.md)
+* [Data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_79.md)
+* [Timeline-based visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_81.md)
+* [Data visualization platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_80.md)
+* [Graphical representation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_91.md)
+* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_92.md)
+* [Infographics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_93.md)
+* [Supply chain mapping and visualization tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_94.md)
+* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_71.md)
 
 ## Thees blueprints use this enabler
 
 * [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3729.md)
 

@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3414 
 
-# __Social distancing measures__
+# __Social lockdown__
 
 ## Category to which it belongs
 
@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3420.md)
-* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
-* [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2047.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
-* [Implementing social distancing measures, reducing population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3422.md)
-* [Maintaining social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3413.md)
-* [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1152.md)
-* [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
-* [Social distancing guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
+* [Social inequalities exacerbated by lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_13.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1866.md)
+* [The lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_872.md)
+* [Lockdown impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_886.md)
+* [Mental health issues due to extended lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_729.md)
+* [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2454.md)
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
+* [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_889.md)
+* [City lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_988.md)
 

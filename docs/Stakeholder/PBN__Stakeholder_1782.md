@@ -11,7 +11,7 @@
 * [Journalists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1776.md)
 * [Reporter](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1779.md)
 * [Journalist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1771.md)
-* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2897.md)
+* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2601.md)
 * [News outlets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1783.md)
 * [News outlet](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1781.md)
 * [Media outlets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_455.md)

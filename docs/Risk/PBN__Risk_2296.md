@@ -10,14 +10,14 @@
 
 * [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
 * [Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2211.md)
-* [Healthcare administration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4467.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4598.md)
+* [Healthcare administration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3625.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3642.md)
 * [Healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2483.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3523.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
 * [Smart healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_992.md)
 * [Human health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2972.md)
 * [Overwhelming healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2502.md)
-* [Insurance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4679.md)
+* [Insurance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3654.md)
 
 ## Description of the risk
 
@@ -69,9 +69,9 @@ Increased risk of transmission
 ## Technologies linked to the risk
 
 * [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1908.md)
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_507.md)
 * [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1908.md)
 * [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1910.md)
 
 ## Property: has_RiskType

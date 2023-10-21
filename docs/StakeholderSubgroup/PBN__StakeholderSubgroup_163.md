@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Water utility](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_388.md)
-* [Water utilities/consumers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_389.md)
-* [Water utilities/workforce](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_390.md)
-* [Water utilities/public sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_391.md)
-* [Water utilities/policy makers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_392.md)
-* [Water utility employees](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_393.md)
-* [Water management agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_394.md)
-* [Water management agency](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_395.md)
-* [Water management authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_396.md)
-* [Water authority](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_397.md)
+* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_117.md)
+* [Water and waste management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_182.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_183.md)
+* [Landlords](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_71.md)
+* [Waste and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_161.md)
+* [Housing authorities/agencies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_73.md)
+* [Public and municipal services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_9.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_170.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_179.md)
+* [Emergency services and management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_166.md)
 
 ## Stakeholders in this stakeholder subgroup
 

@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Improve ventilation systems, increase outdoor air intake, and use air purifiers to enhance indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2503.md)
+* [Improve ventilation systems in buildings, increase air flow, open windows if possible, and use air purifiers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1919.md)
+* [Improve ventilation systems, increase airflow rates, use outdoor air ventilation, and consider the installation of air purifiers or filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1588.md)
+* [Improve ventilation systems, use air purifiers, increase fresh air intake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1814.md)
+* [Improve ventilation, use air purifiers, control humidity, minimize pollution sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2378.md)
+* [Improving ventilation systems, increasing fresh air intake, using air purifiers and filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1463.md)
 * [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2474.md)
 * [Increase ventilation rates and use air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2002.md)
 * [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1805.md)
 * [Improve ventilation systems, increase fresh air supply, and use air filters to reduce the spread of airborne particles.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2499.md)
-* [Increase ventilation rates, use air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2345.md)
-* [Improving ventilation systems, increasing airflow, using air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2018.md)
-* [Increase the amount of outdoor air in ventilation systems, open windows for natural ventilation, and ensure proper ventilation design and operation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1932.md)
-* [Improve indoor air quality by addressing pollution sources, ventilation, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1906.md)
-* [Reduce sources of chemical pollutants, improve ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2639.md)
 
 ## Risks possibly mitigated by this Mitigation
 

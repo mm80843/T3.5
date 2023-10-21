@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Temperature impact on virus detectability in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1435.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3656.md)
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3850.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
+* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3555.md)
 * [Contamination of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3367.md)
 * [Ethical considerations for wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1054.md)
 * [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_668.md)
 * [Contagious diseases transmission through hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2288.md)
 * [Improper disposal of infectious hospital wastes and wastewater could cause serious risks to public health and environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_665.md)
 * [Contaminated environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3229.md)
-* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3851.md)
+* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3556.md)
 
 ## Description of the risk
 

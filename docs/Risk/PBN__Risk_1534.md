@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
-* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3648.md)
-* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3478.md)
-* [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3649.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3650.md)
-* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3476.md)
-* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3651.md)
-* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3652.md)
-* [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3653.md)
-* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3654.md)
+* [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_325.md)
+* [Lack of green space in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_141.md)
+* [Lack of green space in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1407.md)
+* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_693.md)
+* [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
+* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+* [Lack of equitable distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1807.md)
+* [Loss of green spaces due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1371.md)
+* [Lack of knowledge about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1806.md)
+* [Limited access to urban green spaces during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_709.md)
 
 ## Description of the risk
 
@@ -50,9 +50,9 @@ Reduced opportunities for outdoor activities and physical exercise, increased st
 
 ## Stakeholders who can mitigate this risk
 
-* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 * [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [Developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_635.md)
+* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 
 ## Articles mentionning the risk
 

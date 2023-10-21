@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_702.md)
+* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
 * [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
 * [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_624.md)
+* [Sanitation supplies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2667.md)
 * [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1216.md)
 * [Sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_30.md)
-* [Improvement of sanitary infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4224.md)
 * [Sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1495.md)
-* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4222.md)
-* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4178.md)
-* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4221.md)
+* [Proper sanitation facilities and practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_858.md)
+* [Increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1822.md)
 
 ## This Technology enables the following mitigations
 

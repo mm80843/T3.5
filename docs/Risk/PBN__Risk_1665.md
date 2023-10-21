@@ -65,8 +65,8 @@ Higher risk of transmission and outbreaks, potential strain on healthcare system
 
 ## Technologies linked to the risk
 
-* [Use of digital platforms for public health education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1016.md)
 * [Automated monitoring systems for compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1017.md)
+* [Use of digital platforms for public health education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1016.md)
 
 ## Property: has_RiskType
 

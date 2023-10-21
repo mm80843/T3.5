@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3343.md)
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_832.md)
 * [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2049.md)
-* [Adaptation to remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3346.md)
 * [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1063.md)
-* [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3347.md)
+* [Implementing capacity limitations, optimizing space utilization, and promoting remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1691.md)
 * [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_479.md)
-* [Remote working](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3348.md)
 * [Provide necessary equipment and support for remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2461.md)
 * [Providing appropriate resources and support for remote work, implementing flexible working hours, and utilizing technology for virtual collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1993.md)
+* [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1528.md)
+* [Implementing remote work, flexible scheduling, and virtual meetings.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2450.md)
+* [Promoting remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_205.md)
 
 ## Benefits linked to a risk
 

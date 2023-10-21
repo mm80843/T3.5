@@ -14,7 +14,7 @@
 * [Implementing physical distancing measures, providing access to hand hygiene facilities, promoting mask-wearing, regular cleaning and disinfection of surfaces, and limiting the capacity of public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2229.md)
 * [Implement strict hygiene protocols, provide personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2458.md)
 * [Adequate disinfection of masks before discarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1927.md)
-* [Disinfection equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4787.md)
+* [Disinfection equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3383.md)
 * [Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1995.md)
 * [Develop and enforce strict sanitization protocols for all surfaces and equipment in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2022.md)
 * [Implement proper disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2881.md)

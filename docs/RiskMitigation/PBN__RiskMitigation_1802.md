@@ -10,7 +10,7 @@
 
 * [Increase public education and knowledge dissemination through government campaigns and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2400.md)
 * [Conducting public health campaigns, providing educational materials and resources, promoting accurate information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1614.md)
-* [Public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3776.md)
+* [Public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3239.md)
 * [Implement public awareness campaigns, provide education on disease prevention and transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2198.md)
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_865.md)
 * [Educate the public about preventive measures, promote health literacy, disseminate accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1816.md)

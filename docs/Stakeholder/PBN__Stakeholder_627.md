@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [None specified](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2814.md)
-* [](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2815.md)
-* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2806.md)
-* [Pm](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2816.md)
-* [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2817.md)
-* [Surveys](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2818.md)
-* [Rh](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1126.md)
-* [Posters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2819.md)
-* [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2820.md)
-* [Openings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2821.md)
+* [None specified](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2625.md)
+* [All individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2378.md)
+* [All individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1315.md)
+* [](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2626.md)
+* [Members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_271.md)
+* [Experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_538.md)
+* [Community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
+* [All residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_510.md)
+* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2627.md)
+* [Private](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_435.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -29,16 +29,16 @@
 * [Reduction in tourism revenue for pcas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
 * [Increase in local opportunity cost for pca-adjacent communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
 * [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_159.md)
+* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1591.md)
 * [Shift in public priorities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1596.md)
 * [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1748.md)
 * [Lack of effective pharmaceutical response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1589.md)
-* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1591.md)
 * [Variability and specificity of pcr assays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2313.md)
 * [Privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
 * [Limited access to software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1973.md)
+* [Associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
 * [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2314.md)
 * [Air recirculation in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1759.md)
-* [Associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
 * [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
 
 ## Risk affecting this stakeholder

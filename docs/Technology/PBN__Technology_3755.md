@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3755 
 
-# __Data analytics and modeling__
+# __Building systems and design__
 
 ## Category to which it belongs
 
-* [Efficient use of data analysis and modeling techniques to analyze various types of data for targeted insights.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
+* [Building design and construction practices prioritize sustainability, incorporate innovative technology, and consider social equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
 
 ## Closest similar item
 
-* [Data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2650.md)
-* [Research and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4690.md)
-* [Data collection and reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4689.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
-* [Software and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4693.md)
-* [Data management and communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4583.md)
-* [Communication and information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4576.md)
-* [Data management and recording systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4691.md)
-* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4655.md)
-* [Monitoring systems and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3849.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
+* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
+* [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2617.md)
+* [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
+* [Integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2439.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
+* [Building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2521.md)
+* [Building design and layout modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2671.md)
+* [Architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2784.md)
+* [Building design and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3592.md)
 

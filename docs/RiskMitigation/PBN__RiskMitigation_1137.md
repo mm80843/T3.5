@@ -11,13 +11,13 @@
 * [Strengthen psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1138.md)
 * [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_828.md)
 * [Provide counseling services, emphasize mental health support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2807.md)
-* [Creating mechanisms for psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3774.md)
+* [Providing mental health support services and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2610.md)
+* [Provide mental health support services and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2460.md)
 * [Promoting social connections, providing psychosocial support, mental health services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2333.md)
+* [Providing emotional support, counseling services, and resources to address mental health needs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1985.md)
 * [Provide adequate psychological services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_47.md)
-* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3765.md)
 * [Provide mental health support services, such as counseling and helplines, to individuals in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2275.md)
-* [Providing mental health support, counseling, and stress management techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2205.md)
-* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3161.md)
+* [Promote mental health resources and support, provide access to counseling and psychological services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2402.md)
 
 ## Benefits linked to a risk
 

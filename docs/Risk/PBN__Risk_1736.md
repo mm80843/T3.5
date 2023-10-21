@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3519.md)
 * [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
-* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3516.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3515.md)
 * [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
-* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3517.md)
-* [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3847.md)
 * [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_960.md)
-* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4615.md)
+* [Data sharing ethics, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2948.md)
+* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1075.md)
+* [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
+* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_721.md)
+* [Non-standardized data collection, data sharing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2587.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2411.md)
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
 
 ## Description of the risk
 

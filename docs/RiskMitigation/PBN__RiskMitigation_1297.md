@@ -10,13 +10,13 @@
 
 * [Incorporate health criteria into planning and design practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1971.md)
 * [Human-centric design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_139.md)
-* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4021.md)
-* [Self-health evaluation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4547.md)
-* [Common standards for health data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4548.md)
-* [Healthy building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3273.md)
+* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3285.md)
+* [Including health considerations in public space design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1254.md)
+* [Implement self-health evaluation protocols, use online questionnaires or applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2793.md)
+* [Self-health evaluation before onboard](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_511.md)
 * [Design venues with large, flexible spaces and prioritize medical equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2252.md)
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3162.md)
-* [Design and disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4549.md)
+* [Balanced approach combining technology with personal judgment and regular healthcare consultations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1683.md)
+* [Strengthening health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_282.md)
 * [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_137.md)
 
 ## Benefits linked to a risk

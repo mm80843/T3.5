@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3526.md)
-* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3525.md)
-* [Proper training and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3531.md)
-* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4301.md)
-* [Educational and training resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3970.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4302.md)
-* [Training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4303.md)
-* [Revamp education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3527.md)
-* [Workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3961.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3606.md)
+* [Technical skills and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
+* [Inadequate education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1959.md)
+* [Transmission, education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2638.md)
+* [Limited access to training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3060.md)
+* [Interrupted education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1617.md)
+* [Lack of proper training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2065.md)
+* [Lack of educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3180.md)
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3607.md)
+* [Disruption of education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2625.md)
 
 ## Description of the risk
 

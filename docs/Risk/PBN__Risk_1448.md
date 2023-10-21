@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3935.md)
-* [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3943.md)
-* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3944.md)
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3945.md)
-* [Quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3840.md)
-* [Access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3946.md)
-* [Improvement of the quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3839.md)
-* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3646.md)
-* [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3947.md)
-* [Green space area](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3948.md)
+* [New designs, uses, and practices for green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_911.md)
+* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3477.md)
+* [Neglected green space quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_533.md)
+* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+* [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1295.md)
+* [Poor quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1042.md)
+* [Lack of proximity to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_142.md)
+* [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2347.md)
+* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
+* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
 
 ## Description of the risk
 

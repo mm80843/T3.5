@@ -41,8 +41,8 @@ Force majeure, contractual disputes, and delayed projects.
 
 ## Mitigations of this risk
 
-* [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1014.md)
 * [Address force majeure provisions, revise contracts, establish clear communication channels.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1790.md)
+* [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1014.md)
 
 ## Name of the risk
 

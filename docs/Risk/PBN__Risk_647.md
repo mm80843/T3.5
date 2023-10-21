@@ -42,14 +42,14 @@ Adherence to traditional emergency management hinders community health intellige
 ## Mitigations of this risk
 
 * [Foster a "smart community" mindset and enhance knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2642.md)
-* [Phasing out of lockdown with local strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_904.md)
 * [Adoption of telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_906.md)
+* [Phasing out of lockdown with local strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_904.md)
+* [Enhanced health literacy strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_899.md)
 * [Integration of primary, hospital, long term, and social care](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_905.md)
+* [Adoption of smart communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_898.md)
 * [Implementation of wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_902.md)
 * [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_901.md)
 * [Adoption of early alert systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_903.md)
-* [Adoption of smart communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_898.md)
-* [Enhanced health literacy strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_899.md)
 * [Integration of person-centered care](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_900.md)
 * [Implementation of social prescribing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_907.md)
 

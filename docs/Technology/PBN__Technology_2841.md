@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5135.md)
+* [Community-based vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1340.md)
 * [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2145.md)
-* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4684.md)
+* [Vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3106.md)
 * [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2310.md)
 * [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
-* [Continued implementation of npis, vaccination campaigns, promote hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5136.md)
+* [Vaccination distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3101.md)
+* [Vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1603.md)
+* [Vaccine distribution to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_591.md)
 * [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
-* [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4082.md)
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
 
 ## This Technology enables the following mitigations
 

@@ -12,16 +12,16 @@ enabler_009
 
 ## Closest similar item
 
-* [Artificial intelligence and ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_355.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_356.md)
-* [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_357.md)
-* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_358.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_359.md)
-* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_360.md)
+* [Artificial intelligence and ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_167.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_166.md)
+* [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_168.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_87.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_86.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_107.md)
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_14.md)
 * [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
-* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_321.md)
+* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_156.md)
 
 ## Thees blueprints use this enabler
 
@@ -29,7 +29,7 @@ enabler_009
 * [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
 * [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Ai/ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3732.md)
 

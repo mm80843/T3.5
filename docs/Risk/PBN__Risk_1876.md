@@ -16,7 +16,7 @@
 * [Quarantine, self-isolation, and lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_852.md)
 * [Negative effects of sedentary behavior during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_645.md)
 * [Decreased physical activity during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
-* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3539.md)
+* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3445.md)
 * [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
 
 ## Description of the risk
@@ -49,8 +49,8 @@ Stress, depression, fear, frustration, stigma associated with quarantine
 
 ## Stakeholders who can mitigate this risk
 
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 * [Health care providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_344.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 
 ## Articles mentionning the risk
 

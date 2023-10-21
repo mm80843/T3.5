@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_196 
 
-# __Positioning technologies__
+# __Energy management systems__
 
 ## Category to which it belongs
 
-* [Cutting-edge advancements transforming the way we interact, from smart devices to virtual healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_55.md)
+* [Efficient systems to control and optimize energy usage in residences and manage power consumption.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_95.md)
 
 ## Closest similar item
 
-* [Mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_325.md)
-* [Location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_324.md)
-* [Gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_322.md)
-* [Tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_410.md)
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_48.md)
-* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_10.md)
-* [Gps location](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_323.md)
-* [Technological tracking device](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_422.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_50.md)
-* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_243.md)
+* [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_29.md)
+* [Improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_247.md)
+* [Power management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_197.md)
+* [Home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_246.md)
+* [Smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_111.md)
+* [Smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_118.md)
+* [Energy storage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_265.md)
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_264.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_137.md)
+* [Smart hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_131.md)
 

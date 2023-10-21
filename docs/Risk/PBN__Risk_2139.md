@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Inaccurate case-based risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2142.md)
-* [Risk mapping process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4343.md)
+* [Risk mapping process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3515.md)
 * [Risk connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_310.md)
-* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3717.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3501.md)
 * [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1203.md)
-* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3719.md)
-* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3718.md)
-* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4344.md)
-* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3743.md)
+* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3502.md)
+* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
+* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3517.md)
 * [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
 
 ## Description of the risk

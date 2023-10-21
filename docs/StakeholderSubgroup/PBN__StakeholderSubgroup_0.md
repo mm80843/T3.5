@@ -23,8 +23,8 @@
 
 * [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [Urban planning agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_550.md)
-* [Urban planning departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_775.md)
 * [City planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_750.md)
+* [Urban planning departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_775.md)
 * [Urban planning authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1606.md)
 * [Urban planning organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_829.md)
 * [Urban planning department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1597.md)

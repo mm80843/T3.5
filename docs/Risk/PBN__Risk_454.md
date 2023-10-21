@@ -15,7 +15,7 @@
 * [Restriction of large events, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2736.md)
 * [Seeding events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3268.md)
 * [Limited pre-event preparations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_804.md)
-* [Curfews](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3822.md)
+* [Curfews](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3544.md)
 * [Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3164.md)
 * [Herd immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_334.md)
 

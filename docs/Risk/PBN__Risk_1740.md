@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Uvgi systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
+* [Limited effectiveness of upper-room uvgi if room air is not well mixed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1167.md)
 * [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
-* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4194.md)
-* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4188.md)
+* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3590.md)
 * [Uvgi systems can cause health risks if not properly installed and maintained](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1741.md)
-* [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4210.md)
+* [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3597.md)
 * [Lack of standardized tests and protocols for uvgi efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1742.md)
-* [Uvgi systems for air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4257.md)
-* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4191.md)
-* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4195.md)
+* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3592.md)
+* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3595.md)
+* [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 
 ## Description of the risk
 

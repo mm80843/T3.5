@@ -11,13 +11,13 @@
 * [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
 * [Comparative analysis of genome sequences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3672.md)
 * [Bioinformatics software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2660.md)
-* [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5380.md)
 * [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
+* [Analytical tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3350.md)
 * [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3632.md)
 * [Ai and machine learning for gene analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2039.md)
 * [Next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3348.md)
+* [Dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3209.md)
 * [Sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2174.md)
-* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1949.md)
 
 ## This Technology enables the following mitigations
 

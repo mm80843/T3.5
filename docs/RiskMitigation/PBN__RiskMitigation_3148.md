@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3148 
 
-# __Selection of materials__
+# __Blockchain technology for supply chain transparency__
 
 ## Category to which it belongs
 
-* [Investigating droplet physics, improving surveillance, addressing over-exposure, international collaboration, raising awareness, and more for a comprehensive response to the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_459.md)
+* [Developing resilient supply chains through alternative delivery methods, supplier diversification, and proactive response strategies, as well as implementing blockchain technology for transparent and efficient management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_475.md)
 
 ## Closest similar item
 
-* [Material selection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4094.md)
-* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4086.md)
-* [Proper selection of indoor materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_217.md)
-* [Material shortage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3554.md)
-* [Use of local and sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4096.md)
-* [Resistance to new materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4815.md)
-* [Better isolating materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4816.md)
-* [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4309.md)
-* [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4099.md)
-* [Smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4087.md)
+* [Implement blockchain for transparent and efficient supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2701.md)
+* [Blockchain technology for supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1056.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1103.md)
+* [Implement supply chain visibility technologies, enhance data sharing and collaboration among supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2342.md)
+* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3150.md)
+* [Strengthen supply chains, utilize blockchain for efficient tracking and distribution of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2698.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3149.md)
+* [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1052.md)
+* [Store donation process in blockchain for transparency and verification, reducing corruption and improving social trust](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1696.md)
+* [Blockchain technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1055.md)
 

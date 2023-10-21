@@ -16,7 +16,7 @@
 * [Transport authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1617.md)
 * [Public transport](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1178.md)
 * [Public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_236.md)
-* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2822.md)
+* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2628.md)
 * [Public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_188.md)
 
 ## Risks that can be mitigated by this stakeholder

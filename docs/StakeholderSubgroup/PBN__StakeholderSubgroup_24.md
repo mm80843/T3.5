@@ -8,23 +8,23 @@
 
 ## Closest similar item
 
-* [Workers in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_314.md)
-* [Workers in enclosed indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_315.md)
-* [Indoor worker](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_316.md)
-* [Worker in indoor environment](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_317.md)
-* [Workers in enclosed indoorspaces](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_318.md)
-* [Workers in outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_319.md)
-* [People in indoor buildings and spaces](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_320.md)
-* [People in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_321.md)
-* [Workers in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_322.md)
-* [Outdoor workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_323.md)
+* [Workers/professionals](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_47.md)
+* [Occupational and workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
+* [Types of workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_22.md)
+* [People in buildings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_93.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_45.md)
+* [Specific building occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_68.md)
+* [Social workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_138.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
+* [Work and living environment](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_103.md)
+* [Work and occupational context](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_108.md)
 
 ## Stakeholders in this stakeholder subgroup
 
+* [Hospital workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_432.md)
 * [Office workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_129.md)
 * [Office worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1666.md)
 * [Workers in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1013.md)
-* [Hospital workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_432.md)
 * [Front desk staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_965.md)
 * [Hospital worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1801.md)
 * [Indoor workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_806.md)

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Monitoring social media content](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3986.md)
+* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2406.md)
+* [Social media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_31.md)
+* [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1450.md)
+* [Social media communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2343.md)
+* [Social media monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_564.md)
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
-* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3793.md)
-* [Content analysis of news](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4241.md)
-* [Social networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1535.md)
-* [Government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4242.md)
-* [Social network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3790.md)
-* [Use of social media by decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3987.md)
-* [Use of social media by firms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4243.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3794.md)
+* [Social behavior analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2764.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_878.md)
+* [Online platforms and social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2585.md)
 
 ## This Technology enables the following mitigations
 

@@ -16,8 +16,8 @@
 * [Vulnerability to control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
 * [Limited coordination across sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1986.md)
 * [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1829.md)
-* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3621.md)
-* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4637.md)
+* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
+* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3646.md)
 
 ## Mitigations of this risk
 

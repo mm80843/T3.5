@@ -69,8 +69,8 @@ Higher risk of mental health issues and decreased quality of life
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

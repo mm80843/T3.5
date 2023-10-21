@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Identifying and addressing vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_648.md)
-* [Vulnerability identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3592.md)
+* [Develop integrated approaches to address multiple systemic vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3051.md)
 * [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_65.md)
 * [Enhanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2984.md)
-* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3593.md)
 * [Mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1288.md)
+* [Risk prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_412.md)
 * [Implement robust cybersecurity measures, provide training on secure remote working practices, and ensure regular backups of data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2583.md)
+* [Implement strict control measures, protect vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1457.md)
+* [Strengthen cybersecurity measures and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2967.md)
 * [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_254.md)
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_32.md)
-* [Improved risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3594.md)
 
 ## Risks possibly mitigated by this Mitigation
 

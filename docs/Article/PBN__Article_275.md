@@ -38,8 +38,8 @@ Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure
 ## List of risks in an article
 
 * [Impact of lockdowns on access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2223.md)
-* [Limited accessibility for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
 * [Inequality in access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
+* [Limited accessibility for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2221.md)
 * [Limited accessibility due to education level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
 * [Lack of detailed analysis on visitors’ attributes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2224.md)
 
@@ -61,13 +61,13 @@ Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure
 
 ## This article mentions these technologies
 
+* [Increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1822.md)
 * [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
-* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
 * [Capacity limits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1823.md)
 * [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1827.md)
 * [Affordable transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1818.md)
 * [Targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1828.md)
-* [Increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1822.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
 * [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1821.md)
 * [Online booking systems for entrance fees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1819.md)
 * [Mobile apps for data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1825.md)

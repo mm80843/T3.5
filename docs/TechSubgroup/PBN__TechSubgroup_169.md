@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_206.md)
-* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_361.md)
-* [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_362.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_363.md)
-* [Blockchain for data security](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_364.md)
-* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_365.md)
-* [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_366.md)
-* [Use of blockchain for donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_367.md)
-* [Medication delivery through blockchain](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_368.md)
-* [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_369.md)
+* [Blockchain and quantum cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_145.md)
+* [Encryption and security algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_136.md)
+* [Encryption and authentication techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_6.md)
+* [Payment and transaction systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_171.md)
+* [Communication and information systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
+* [Cybersecurity and security protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_135.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_133.md)
+* [Communication and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
+* [Iot devices and protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_143.md)
+* [Data anonymization and protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_137.md)
 
 ## This Technology belongs to this TechnologySubgroup
 

@@ -12,7 +12,7 @@
 * [Impact of lockdowns on access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2223.md)
 * [Lack of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1078.md)
 * [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_328.md)
-* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4350.md)
+* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3612.md)
 * [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1606.md)
 * [Lack of natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2092.md)
 * [Increased recreational use on more remote trails](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_891.md)

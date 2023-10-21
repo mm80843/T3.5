@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2518 
 
-# __Public health initiatives__
+# __Research__
 
 ## Category to which it belongs
 
-* [Public health authorities and agencies are responsible for regulating, monitoring, and promoting health in communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_403.md)
+* [The knowledge-seeking community, from scientists to fact-checkers, investigates, studies, and explores various subjects and phenomena.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_405.md)
 
 ## Closest similar item
 
-* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2542.md)
-* [Implementing public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2545.md)
-* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2546.md)
-* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2547.md)
-* [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2539.md)
-* [Implementation of public health policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2548.md)
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2519.md)
-* [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2549.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2521.md)
-* [Strengthen public and universal health systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2550.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2520.md)
+* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2519.md)
+* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2521.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [Research projects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1464.md)
+* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2522.md)
+* [Research team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_699.md)
+* [Research organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2011.md)
+* [Research organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_849.md)
+* [Research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
 

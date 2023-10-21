@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Development of novel vector control tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_334.md)
-* [Animal vectors control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3315.md)
+* [Animal vectors control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3173.md)
 * [Improving capacity for essential vector control operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1048.md)
 * [Increased funding and capacity for vector control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_335.md)
 * [Monitoring and surveillance of vectors, implementing vector control measures, public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2677.md)
@@ -17,7 +17,7 @@
 * [Increased funding for vector control programs, allocation of resources to priority areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3053.md)
 * [Implement ecosystem-based approaches to control vectors, such as maintaining natural habitats and reducing breeding sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2430.md)
 * [Air control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_701.md)
-* [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4411.md)
+* [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3343.md)
 
 ## Benefits linked to a risk
 

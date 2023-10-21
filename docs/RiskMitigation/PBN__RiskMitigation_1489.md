@@ -10,14 +10,14 @@
 
 * [Promote home-based exercise programs, provide online resources for exercise routines, and encourage individuals to find alternative ways to stay active](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2277.md)
 * [Promote home-based exercise programs, provide alternative modes of exercise that can be done at home.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1488.md)
+* [Promotion of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_358.md)
 * [Home-based exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1173.md)
-* [Use of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4996.md)
-* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4013.md)
 * [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2274.md)
 * [Home-based exercises, online fitness classes, use of fitness apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1755.md)
-* [Physical activity promotion strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4592.md)
-* [Online supervised exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4997.md)
 * [Encourage physical exercise at home, balance and flexibility training, muscle strength exercise, and endurance training.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1486.md)
+* [Home-based exercises and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_894.md)
+* [Remote exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1174.md)
+* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_212.md)
 
 ## Risks possibly mitigated by this Mitigation
 

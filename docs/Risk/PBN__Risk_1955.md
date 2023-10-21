@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [Efficiently embedded in asset management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2929.md)
-* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3743.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3753.md)
-* [Smes’ difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4463.md)
+* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3517.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
+* [Smes’ difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3623.md)
 * [Reallocation of funds from pcas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2548.md)
 * [Asset value improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_883.md)
 * [Cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1521.md)
-* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3718.md)
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3502.md)
 * [Efficient distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3311.md)
 
 ## Description of the risk

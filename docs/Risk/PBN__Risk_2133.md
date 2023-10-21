@@ -12,7 +12,7 @@
 * [Non-standardized data collection, data sharing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2587.md)
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
 * [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1075.md)
-* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
+* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3447.md)
 * [Lack of interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2683.md)
 * [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_721.md)
 * [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)

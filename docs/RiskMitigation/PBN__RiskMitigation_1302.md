@@ -15,9 +15,9 @@
 * [Provide guidelines and resources for remote work, promote work-life balance, and encourage ergonomic work setups.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1524.md)
 * [Explore modular and flexible designs to accommodate different uses and activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1973.md)
 * [Provide spaces for physical activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2867.md)
-* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3345.md)
 * [Human-centric design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_139.md)
 * [Design venues with large, flexible spaces and prioritize medical equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2252.md)
+* [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_154.md)
 
 ## Benefits linked to a risk
 

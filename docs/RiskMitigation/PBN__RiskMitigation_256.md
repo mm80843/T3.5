@@ -11,7 +11,7 @@
 * [Encourage officers to engage with students and faculty, establish regular communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2808.md)
 * [Implement comprehensive safety education programs, disseminate safety information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2810.md)
 * [Proper training and enforcement of the use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2833.md)
-* [Student](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4875.md)
+* [Student](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3360.md)
 * [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1221.md)
 * [Clear communication, education about the importance of compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2492.md)
 * [Strengthening surveillance and control programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1504.md)

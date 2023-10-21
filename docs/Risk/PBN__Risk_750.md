@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
 * [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
-* [Socioeconomic support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
+* [Potential socioeconomic disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2499.md)
 * [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
+* [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3024.md)
 * [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2703.md)
 * [Social and demographic change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_737.md)
-* [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
-* [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2660.md)
-* [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3324.md)
-* [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_131.md)
-* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
+* [Social and economic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_776.md)
+* [Data gaps, limited research effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2586.md)
+* [Social inequalities and income disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_487.md)
 
 ## Description of the risk
 

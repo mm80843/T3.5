@@ -10,7 +10,7 @@
 
 * [Social media use during covid-19 increases awareness of official organizations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_652.md)
 * [Social media use increases panic and anxiety related to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_649.md)
-* [Social media use during covid-19 affects decision-makers’ decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4604.md)
+* [Social media use during covid-19 affects decision-makers’ decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3644.md)
 * [Fake news spread through social media during the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_648.md)
 * [Lack of public understanding of covid-19 mitigation and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_835.md)
 * [Avoidance of covid-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1215.md)

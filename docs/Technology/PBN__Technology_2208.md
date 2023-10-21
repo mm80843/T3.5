@@ -17,7 +17,7 @@
 * [Information and communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2142.md)
 * [Data integration technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2760.md)
 * [Data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2766.md)
-* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4148.md)
+* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3764.md)
 
 ## This Technology enables the following mitigations
 

@@ -17,7 +17,7 @@
 * [Effective crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3316.md)
 * [Inadequate preparedness for biological disasters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2420.md)
 * [Crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3223.md)
-* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3717.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3501.md)
 
 ## Description of the risk
 

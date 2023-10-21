@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
+* [Lack of facilities and time constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_851.md)
 * [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
+* [Lack of financial support for public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
 * [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
-* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_242.md)
-* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
-* [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
-* [Decreased demand for public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2782.md)
-* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2834.md)
-* [Internal travel constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4002.md)
-* [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2703.md)
-* [Implement travel restrictions, reduce travel demand, promote alternative methods of essential supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4003.md)
+* [Obstacles in production or transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3309.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2328.md)
+* [Lack of facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
+* [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1209.md)
+* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3035.md)
 
 ## Mitigations of this risk
 

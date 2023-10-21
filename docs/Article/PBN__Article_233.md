@@ -54,10 +54,10 @@ Persistence of coronaviruses on inanimate surfaces and their inactivation with b
 * [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
 * [Hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
 * [Biocidal agents such as hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_848.md)
+* [Education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_856.md)
+* [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_855.md)
 * [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_854.md)
 * [Alcohols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_849.md)
 * [Ethanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_851.md)
 * [Glutardialdehyde](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_853.md)
-* [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_855.md)
-* [Education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_856.md)
 

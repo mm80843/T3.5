@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4848.md)
 * [Provide backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2877.md)
 * [Access to backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_233.md)
-* [Sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4698.md)
 * [Implement renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2878.md)
 * [Promotion of sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_234.md)
-* [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4051.md)
-* [Deployment of energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3631.md)
 * [Implementation of backup systems, redundancy measures, technical support and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2747.md)
 * [Install energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2879.md)
+* [Implement energy-efficient technologies, promote renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2894.md)
+* [Diversify suppliers and establish backup systems to ensure a steady supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2897.md)
+* [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2939.md)
+* [Implement energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1371.md)
 
 ## Benefits linked to a risk
 

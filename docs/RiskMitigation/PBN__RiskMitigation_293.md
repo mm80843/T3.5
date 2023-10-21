@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Further develop and optimize off-site construction methods, invest in new materials and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1731.md)
-* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4917.md)
 * [Offsite construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1012.md)
-* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4918.md)
-* [Real-time building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4919.md)
-* [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4920.md)
+* [Developing alternative transportation options and ensuring safe access to construction sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2090.md)
 * [Implementation of green construction practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_670.md)
-* [Construction dewatering strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4921.md)
-* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4090.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3278.md)
+* [Selection of project sites away from breeding sites](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1298.md)
+* [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_109.md)
+* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1368.md)
+* [Improve construction techniques and standards, ensure the use of high-quality building materials.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1497.md)
+* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1289.md)
+* [Adaptive design of built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_753.md)
 
 ## Benefits linked to a risk
 

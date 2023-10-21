@@ -41,8 +41,8 @@ Insufficient or improper use of PPE by individuals at risk of exposure to COVID-
 
 ## Mitigations of this risk
 
-* [Providing appropriate ppe, training individuals on correct usage and disposal](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1761.md)
 * [Provide appropriate ppe such as masks, gloves, and face shields to individuals at risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2259.md)
+* [Providing appropriate ppe, training individuals on correct usage and disposal](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1761.md)
 
 ## Name of the risk
 

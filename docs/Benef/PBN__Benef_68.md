@@ -16,8 +16,8 @@ Multi-scalar governance allows for improved coordination and cooperation in sust
 
 ## Stakeholders benefitting from this Benefit
 
-* [Global governing bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_50.md)
 * [National governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
+* [Global governing bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_50.md)
 
 ## Risks which can benefit from this action
 

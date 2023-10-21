@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4518.md)
-* [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4519.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4520.md)
-* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4521.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4154.md)
-* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4522.md)
-* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4523.md)
-* [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4524.md)
-* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4481.md)
-* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4076.md)
+* [Data sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1424.md)
+* [Data sharing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3046.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
+* [Data collection and sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_939.md)
+* [Information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2790.md)
+* [Data sharing platforms and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1123.md)
+* [Inclusive data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_517.md)
+* [Information sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1896.md)
+* [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_884.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2069.md)
 
 ## This Technology enables the following mitigations
 

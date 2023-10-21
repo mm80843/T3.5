@@ -33,10 +33,10 @@ The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review
 ## List of risks in an article
 
 * [Spread of sars-cov-2 through droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1235.md)
+* [Privacy and security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1238.md)
 * [Indirect transmission via contaminated surfaces fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1236.md)
 * [Asymptomatic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1237.md)
 * [Technical limitations of wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1239.md)
-* [Privacy and security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1238.md)
 
 ## This article points to following mitigation
 

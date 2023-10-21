@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Use blockchain for verifying insurance claims and payments, reducing the need for physical documentation and face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1698.md)
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4683.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3366.md)
 * [Use of blockchain for reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1169.md)
 * [Blockchain-based medical record management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1057.md)
 * [Use blockchain for instant reporting of infectious disease data without intermediary processing, improving the efficiency of data transfer and response time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1695.md)
 * [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1052.md)
 * [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1103.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3220.md)
-* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4682.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3149.md)
+* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3365.md)
 * [Promote accurate information dissemination, fact-checking, and verification through blockchain-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2700.md)
 
 ## Benefits linked to a risk

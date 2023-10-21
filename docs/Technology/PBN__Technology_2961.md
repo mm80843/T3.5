@@ -14,10 +14,10 @@
 * [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_780.md)
 * [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
 * [Rapid testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2147.md)
-* [Reduced time from diagnosis to surgery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5140.md)
-* [Explore the use of additional physiological measurements to improve accuracy of diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5138.md)
-* [Early detection and rapid response systems, development of new diagnostic tools and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5141.md)
-* [Implement regular and widespread symptom monitoring and testing, both symptomatic and asymptomatic](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3826.md)
+* [Diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
+* [Diagnostic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3355.md)
+* [Disease diagnostic test kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3745.md)
+* [Symptom monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2599.md)
 
 ## This Technology enables the following mitigations
 

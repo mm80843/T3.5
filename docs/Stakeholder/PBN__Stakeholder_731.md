@@ -22,8 +22,8 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Risk of transmission in enclosed and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
-* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1211.md)
 * [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1209.md)
+* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1211.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

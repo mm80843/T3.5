@@ -33,7 +33,7 @@ AI-based tools can assist in decision-making for patient treatment, resource all
 ## Risks which can benefit from this action
 
 * [Ai for decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_654.md)
-* [Clear communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1016.md)
 * [Enhanced data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1004.md)
+* [Clear communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1016.md)
 * [Two-way dialogue between decision-makers and the public on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_911.md)
 

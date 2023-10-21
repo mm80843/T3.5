@@ -17,7 +17,7 @@
 * [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3024.md)
 * [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1190.md)
 * [Need for innovative and modern technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_424.md)
-* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3833.md)
+* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3546.md)
 
 ## Description of the risk
 

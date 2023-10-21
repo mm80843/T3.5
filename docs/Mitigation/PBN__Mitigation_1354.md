@@ -34,6 +34,6 @@ Room air cleaners remove airborne pathogens through filters or other disinfectio
 ## This Mitigation is enabled by the following technologies
 
 * [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_192.md)
-* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
 * [Or other disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3045.md)
+* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
 

@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_107.md)
-* [Biosensor](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_314.md)
+* [Biosensor](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_85.md)
+* [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_87.md)
 

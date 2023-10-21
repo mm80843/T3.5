@@ -22,10 +22,10 @@ A high level of hand hygiene is a well-known and proven measure to prevent the t
 ## Enablers of the blueprint
 
 * [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_31.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
 * [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
 * [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
 * [Telemedecine](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_17.md)
-* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
 
 ## Interventions of the blueprint
 

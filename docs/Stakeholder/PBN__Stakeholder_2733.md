@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2733 
 
-# __Community engagement initiatives__
+# __Surveillance technology__
 
 ## Category to which it belongs
 
-* [Groups and individuals who are at a disadvantage and in need of support in various community settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_415.md)
+* [All stakeholders involved in safeguarding, regulating, and controlling data access and security across vulnerable communities, surveillance systems, and communication channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_441.md)
 
 ## Closest similar item
 
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2657.md)
-* [Community engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3153.md)
-* [Public engagement strategies and community involvement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3154.md)
-* [Community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3162.md)
-* [Community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2593.md)
-* [Public engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3163.md)
-* [Community engagement platforms and participatory decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3164.md)
-* [Public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3161.md)
-* [Community mobilization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2732.md)
-* [Community mobilization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2730.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2734.md)
+* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2690.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2689.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_190.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2737.md)
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2736.md)
+* [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2735.md)
+* [Individuals under surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1405.md)
+* [Individual under surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2249.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2653.md)
 

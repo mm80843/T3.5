@@ -12,7 +12,7 @@
 
 ## Closest similar item
 
-* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2648.md)
+* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2583.md)
 * [Merchants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1997.md)
 * [Merchant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1921.md)
 * [Local businesses,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_385.md)

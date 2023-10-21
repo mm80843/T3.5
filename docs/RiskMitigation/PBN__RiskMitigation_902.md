@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4895.md)
-* [Improving spending effectiveness and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4366.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4896.md)
-* [Increase spending on development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4897.md)
-* [Implement mental health and well-being programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3791.md)
+* [Embrace well-being economies and prioritize sustainable economic development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2647.md)
+* [Promoting decent work and economic growth](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_288.md)
+* [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2664.md)
 * [Decentralizing economic activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_362.md)
-* [Socioeconomic support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3871.md)
-* [Social and economic equality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4898.md)
-* [Promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3872.md)
-* [Economic stability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4899.md)
+* [Implement wealth redistribution measures, provide social safety nets, invest in education and training opportunities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1949.md)
+* [Implement social welfare measures, provide support for vulnerable households, create opportunities for economic recovery and job creation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2443.md)
+* [Implementation of measures to promote occupant well-being and mental health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1310.md)
+* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3350.md)
+* [Ensuring domestic budgets support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_130.md)
+* [Addressing socioeconomic factors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_687.md)
 
 ## Benefits linked to a risk
 

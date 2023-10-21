@@ -15,7 +15,7 @@
 * [Lack of standardization in pcr methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_635.md)
 * [Inefficient testing for covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_462.md)
 * [Slow testing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_925.md)
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4408.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3618.md)
 * [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3116.md)
 * [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2681.md)
 

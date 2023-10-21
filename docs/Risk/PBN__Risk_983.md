@@ -21,9 +21,9 @@
 
 ## Mitigations of this risk
 
+* [Explore alternative data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1387.md)
 * [Embrace transparency and reproducibility practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1388.md)
 * [Employ longitudinal elements in research design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1386.md)
-* [Explore alternative data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1387.md)
-* [Capture and report on extra relevant data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1384.md)
 * [Consider implications for design, conduct, and interpretation of research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1385.md)
+* [Capture and report on extra relevant data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1384.md)
 

@@ -40,9 +40,10 @@ The Impact of COVID-19 on Public Space: A Review of the Emerging Questions
 
 * [Changes in use and behavior in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1453.md)
 * [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1448.md)
-* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
 * [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1449.md)
+* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
 * [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
+* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
 * [Fewer people in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1452.md)
 * [Mainstreaming health criteria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1447.md)
 * [Temporary transformations becoming permanent](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1450.md)
@@ -50,7 +51,6 @@ The Impact of COVID-19 on Public Space: A Review of the Emerging Questions
 * [Impact on micro-mobility and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_915.md)
 * [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1451.md)
 * [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1455.md)
-* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
 
 ## This article points to following mitigation
 
@@ -70,9 +70,9 @@ The Impact of COVID-19 on Public Space: A Review of the Emerging Questions
 
 * [Flexible and adaptable public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_724.md)
 * [Enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_727.md)
-* [Public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_730.md)
 * [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_657.md)
 * [Public engagement strategies and community involvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_731.md)
+* [Public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_730.md)
 * [Health-focused design principles and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_722.md)
 * [Enhanced cleaning and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_728.md)
 * [Transnational governance mechanisms and cooperative agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_734.md)

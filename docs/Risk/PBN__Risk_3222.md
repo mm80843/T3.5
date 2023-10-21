@@ -16,7 +16,7 @@
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2411.md)
 * [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2041.md)
 * [Privacy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3231.md)
-* [Data management and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3610.md)
+* [Data management and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3461.md)
 * [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_960.md)
 
 ## Mitigations of this risk

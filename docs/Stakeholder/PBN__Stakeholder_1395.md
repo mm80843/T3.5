@@ -12,7 +12,7 @@
 * [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1977.md)
 * [Data providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_847.md)
 * [Data owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1465.md)
-* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2995.md)
+* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2674.md)
 * [Data protection officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2466.md)
 * [Data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_625.md)
 * [Data curators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1302.md)

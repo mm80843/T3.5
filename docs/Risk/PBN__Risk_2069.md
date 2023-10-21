@@ -10,14 +10,14 @@
 
 * [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [Privacy protection measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3511.md)
-* [User privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3512.md)
+* [Privacy protection measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3442.md)
+* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
 * [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2059.md)
-* [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3508.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3443.md)
 * [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2041.md)
 * [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1096.md)
 * [Privacy and surveillance concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
-* [Privacy concerns and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_582.md)
+* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
 
 ## Description of the risk
 

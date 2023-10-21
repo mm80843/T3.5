@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3846.md)
+* [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3553.md)
 * [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
 * [Inadequate pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_700.md)
 * [Pandemic outbreak in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_512.md)

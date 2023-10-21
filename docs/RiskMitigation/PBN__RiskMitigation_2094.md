@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Encourage energy efficiency practices, educate households on energy use, and promote the use of energy-efficient appliances.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2091.md)
-* [Enhancement of energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3937.md)
+* [Promote inclusive policies for clean energy access, subsidize clean energy solutions for low-income households](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2146.md)
 * [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1709.md)
-* [Direct energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4711.md)
+* [Encourage energy efficiency practices, educate households on thermostat settings and hvac maintenance, and promote the use of energy-efficient hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2092.md)
 * [Conduct energy-saving education and awareness campaigns, provide energy feedback to occupants, and implement behavior change programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1916.md)
 * [Provide financial assistance and resources to individuals and families facing economic hardship, promote economic empowerment programs for women](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1468.md)
+* [Increase electricity rates to reflect the actual cost and reduce government subsidies, provide financial incentives for energy conservation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1499.md)
+* [Increased funding for clean energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_620.md)
+* [Implement demand response programs, promote energy conservation practices, and optimize grid operations to accommodate changing energy consumption patterns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2093.md)
 * [Provide stable housing options, create affordable housing programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1632.md)
-* [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2824.md)
-* [Implement financial support programs and resources for individuals and businesses; promote job creation and stability; provide financial education and counseling.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2603.md)
-* [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2939.md)
 
 ## Risks possibly mitigated by this Mitigation
 

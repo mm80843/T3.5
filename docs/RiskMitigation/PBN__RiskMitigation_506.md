@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4256.md)
+* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3325.md)
 * [Promote accurate information and fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2968.md)
 * [Promote fact-checking and reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2965.md)
 * [Fact-checking, reliable sources, education on identifying misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2354.md)

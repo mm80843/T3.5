@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Social and economic equality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3443.md)
+* [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
 * [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
-* [Reducing inequality and poverty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3442.md)
-* [Social equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
+* [Social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1912.md)
+* [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2027.md)
+* [Social inequalities and income disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_487.md)
+* [Social equity disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1410.md)
+* [Increased poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2865.md)
+* [Economic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2462.md)
 * [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2660.md)
-* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
-* [Social and gender disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2604.md)
-* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
-* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
-* [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
+* [Impact on peace, justice, and institutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_241.md)
 
 ## Mitigations of this risk
 

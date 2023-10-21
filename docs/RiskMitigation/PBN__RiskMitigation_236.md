@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4840.md)
 * [Proper waste management and segregation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_349.md)
 * [Implement separate collection of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2880.md)
 * [Develop waste management strategies, including proper waste segregation and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2937.md)
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4472.md)
 * [Proper classification and disinfection of hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_933.md)
 * [Management of increased waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_232.md)
 * [Develop waste separation and disinfection strategies, proper disposal and recycling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2895.md)
-* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4471.md)
 * [Appropriate disposal and disinfection of hospital wastes and wastewater before transportation or discharge.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3003.md)
+* [Proper disposal methods for pharmaceutical wastes, including incineration and hazardous waste treatment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3005.md)
+* [Proper disposal methods for chemical wastes, including hazardous waste treatment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3006.md)
+* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1146.md)
 
 ## Benefits linked to a risk
 

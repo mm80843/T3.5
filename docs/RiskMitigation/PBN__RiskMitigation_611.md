@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3470.md)
+* [Repurposing large public spaces for emergency health purposes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1256.md)
 * [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_734.md)
-* [Insufficient electrical infrastructure in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4987.md)
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3239.md)
-* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3513.md)
-* [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3472.md)
-* [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3473.md)
-* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3468.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3240.md)
-* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3547.md)
+* [Transforming public places for essential uses, such as food distribution, medical support, etc.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1724.md)
+* [Containment spaces in hospitals and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_749.md)
+* [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1574.md)
+* [Transformation of public places for essential uses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_326.md)
+* [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2717.md)
+* [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2990.md)
+* [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2005.md)
+* [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1704.md)
 
 ## Benefits linked to a risk
 

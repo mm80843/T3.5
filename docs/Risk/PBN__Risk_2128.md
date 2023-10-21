@@ -9,10 +9,10 @@
 ## Closest similar item
 
 * [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
-* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3735.md)
+* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3507.md)
 * [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
 * [Limited infrastructure, cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2949.md)
-* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3751.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3522.md)
 * [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
 * [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2944.md)
 * [Incomplete infrastructure, coordination challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2597.md)

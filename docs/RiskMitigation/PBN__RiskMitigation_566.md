@@ -14,7 +14,7 @@
 * [Development of detailed design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1081.md)
 * [Development of clear legal and ethical guidelines, establishment of ethical review committees.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2600.md)
 * [Ensuring proper ventilation, wearing masks in indoor settings with poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1759.md)
-* [Safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4018.md)
+* [Safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3218.md)
 * [Maintain good ventilation and air circulation in the hospital.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1823.md)
 * [Ensure staff oversight when reviewing videos of questionable quality; use video libraries from surgical societies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1744.md)
 * [Establish ethical guidelines and ensure transparency, fairness, and accountability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2780.md)

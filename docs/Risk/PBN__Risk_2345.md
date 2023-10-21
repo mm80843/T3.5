@@ -58,8 +58,8 @@ Increased risk of infection and spread of disease
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

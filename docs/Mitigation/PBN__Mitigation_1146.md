@@ -33,6 +33,6 @@ Allows for quick and efficient screening of individuals for symptoms, helping to
 
 ## This Mitigation is enabled by the following technologies
 
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 

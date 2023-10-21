@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4704.md)
-* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4705.md)
+* [Implement energy-efficient technologies, promote renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2894.md)
 * [Promotion of sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_234.md)
 * [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1709.md)
-* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4701.md)
-* [Promoting energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4700.md)
-* [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4051.md)
-* [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4706.md)
-* [Sustainable practices and renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4699.md)
-* [Energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4707.md)
+* [Implement sustainable strategies for economic recovery, promote clean and renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2457.md)
+* [Implement renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2878.md)
+* [Encourage energy efficiency practices, educate households on energy use, and promote the use of energy-efficient appliances.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2091.md)
+* [Promote the use of cleaner and more efficient cooking and heating fuels, improve access to modern energy sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2638.md)
+* [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_456.md)
+* [Promoting sustainable production and consumption methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_281.md)
+* [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2939.md)
 
 ## Risks possibly mitigated by this Mitigation
 

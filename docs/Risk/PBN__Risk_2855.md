@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Social equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
 * [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
 * [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
-* [Social norms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3559.md)
+* [Social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1912.md)
 * [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_131.md)
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3568.md)
 * [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2435.md)
 * [Reduction of socialization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1092.md)
 * [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2454.md)
-* [Social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3569.md)
+* [Social equity disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1410.md)
+* [Anti-social activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_994.md)
+* [Lack of social cohesion and trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3278.md)
 
 ## Mitigations of this risk
 

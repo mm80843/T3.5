@@ -12,22 +12,22 @@ enabler_016
 
 ## Closest similar item
 
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_495.md)
-* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_496.md)
-* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_497.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_498.md)
-* [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_499.md)
-* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_500.md)
-* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_501.md)
-* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_502.md)
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_186.md)
+* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_187.md)
+* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_169.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_188.md)
+* [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_189.md)
+* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_190.md)
+* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_191.md)
+* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_192.md)
 * [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_12.md)
-* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_457.md)
+* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_95.md)
 
 ## Thees blueprints use this enabler
 
 * [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Uv/uvgi/irradation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
 

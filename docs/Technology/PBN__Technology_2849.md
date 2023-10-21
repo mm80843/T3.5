@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3906.md)
+* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_705.md)
 * [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1961.md)
-* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5165.md)
-* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3905.md)
-* [Mass surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4074.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
-* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3907.md)
 * [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1101.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_997.md)
-* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3135.md)
+* [Increased surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_523.md)
+* [Community surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1688.md)
+* [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_268.md)
+* [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1856.md)
+* [Animal surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_832.md)
 
 ## This Technology enables the following mitigations
 

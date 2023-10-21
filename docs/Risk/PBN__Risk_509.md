@@ -11,13 +11,13 @@
 * [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3063.md)
 * [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2443.md)
 * [Transmission of covid-19 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_225.md)
+* [Transmission through airborne aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1787.md)
 * [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_337.md)
-* [Research on aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3624.md)
-* [Covid-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1137.md)
-* [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_338.md)
-* [Uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3623.md)
-* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3008.md)
-* [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3625.md)
+* [Virus transmission via air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1624.md)
+* [Transmission through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1368.md)
+* [Airborne transmission via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_799.md)
+* [Transmission via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1274.md)
+* [Aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1543.md)
 
 ## Mitigations of this risk
 

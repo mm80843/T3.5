@@ -21,6 +21,6 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Labor union](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1639.md)
 * [Labor organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1365.md)
+* [Labor union](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1639.md)
 

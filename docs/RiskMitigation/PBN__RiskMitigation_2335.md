@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Ventilation systems, air filtration, social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3076.md)
+* [Improve indoor ventilation systems and install physical barriers to reduce close contact and promote physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2039.md)
+* [Implement measures to reduce airborne transmission, such as improved ventilation and air filtration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1675.md)
 * [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1922.md)
+* [Improved ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1305.md)
+* [Implementation of proper ventilation and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_544.md)
 * [Increase ventilation rates, use proper air distribution patterns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1643.md)
 * [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2459.md)
-* [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2474.md)
-* [Implement proper ventilation systems to reduce aerosol concentration in enclosed spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2955.md)
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1062.md)
-* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3971.md)
-* [Improve indoor ventilation systems, increase air exchange rates, and use of air purifiers or filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2256.md)
-* [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1805.md)
-* [Air ventilation and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1274.md)
+* [Limiting occupancy, improving ventilation systems, promoting outdoor spaces, implementing social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1613.md)
+* [Implement public health measures based on climate, improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2294.md)
 
 ## Risks possibly mitigated by this Mitigation
 

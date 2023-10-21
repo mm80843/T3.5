@@ -14,14 +14,14 @@
 
 ## Closest similar item
 
-* [Healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2587.md)
+* [Healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2543.md)
 * [Healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
-* [Healthcare information systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2584.md)
+* [Healthcare information systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2540.md)
 * [Healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
-* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2778.md)
-* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2591.md)
-* [Smart healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2585.md)
-* [Health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2586.md)
+* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2617.md)
+* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2618.md)
+* [Smart healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2541.md)
+* [Health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2542.md)
 * [Healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_185.md)
 * [Patients receiving care outside of digitized healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_846.md)
 

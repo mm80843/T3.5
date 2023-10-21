@@ -16,7 +16,7 @@
 * [Lack of reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2798.md)
 * [Unreliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
 * [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
-* [Social media use during covid-19 affects decision-makers’ decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4604.md)
+* [Social media use during covid-19 affects decision-makers’ decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3644.md)
 
 ## Description of the risk
 

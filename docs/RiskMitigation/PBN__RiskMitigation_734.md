@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3470.md)
 * [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_755.md)
-* [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3472.md)
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3239.md)
-* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3468.md)
-* [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3473.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3240.md)
-* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3513.md)
-* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3538.md)
-* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3547.md)
+* [Increase the capacity of medical facilities, allocate resources efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1515.md)
+* [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2717.md)
+* [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2990.md)
+* [Design venues with large, flexible spaces and prioritize medical equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2252.md)
+* [Select patient rooms that are large enough and equipped with necessary medical devices and utilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2183.md)
+* [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2005.md)
+* [Conversion of public venues into makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_611.md)
+* [Expanding healthcare facilities, increasing medical staff, and implementing triage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2656.md)
+* [Containment spaces in hospitals and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_749.md)
 
 ## Benefits linked to a risk
 

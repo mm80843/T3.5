@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Energy saving and conservation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3938.md)
-* [Optimizing energy management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4851.md)
-* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4705.md)
-* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4704.md)
+* [Optimize hvac system operations, implement energy-efficient measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2981.md)
+* [Raise awareness about energy conservation and promote energy-saving behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1498.md)
 * [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1709.md)
-* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4852.md)
-* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4850.md)
+* [Raise awareness about energy conservation and promote energy-efficient designs and behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1495.md)
 * [Implement measures to reduce air pollution, promote clean energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2137.md)
-* [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4706.md)
 * [Promote energy efficiency measures and renewable energy production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2142.md)
+* [Implement energy management systems, automate controls, and educate occupants on energy-saving behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1912.md)
+* [Implement demand response programs, promote energy conservation practices, and optimize grid operations to accommodate changing energy consumption patterns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2093.md)
+* [Conduct energy-saving education and awareness campaigns, provide energy feedback to occupants, and implement behavior change programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1916.md)
+* [Improve energy modeling tools and methodologies to account for changes in occupancy behavior and energy consumption patterns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2095.md)
 
 ## Benefits linked to a risk
 

@@ -10,14 +10,14 @@
 
 * [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
 * [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
+* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1307.md)
+* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
+* [Diagnostic and testing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3751.md)
+* [Diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2732.md)
 * [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2027.md)
-* [Rapid diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2961.md)
-* [Utilize ai algorithms as an initial screening tool and develop alternative diagnostic tests.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3824.md)
-* [Patient respiratory and stool specimens testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3825.md)
-* [Rapid testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2147.md)
-* [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_780.md)
-* [Implement regular and widespread symptom monitoring and testing, both symptomatic and asymptomatic](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3826.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3815.md)
+* [Diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
+* [Improved diagnostic testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2804.md)
 
 ## This Technology belongs to this TechGroup
 

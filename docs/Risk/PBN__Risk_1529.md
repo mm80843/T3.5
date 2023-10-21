@@ -49,8 +49,8 @@ Reduced effectiveness of preventive measures and increased risk of disease trans
 
 ## Stakeholders who can mitigate this risk
 
-* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 
 ## Articles mentionning the risk
 

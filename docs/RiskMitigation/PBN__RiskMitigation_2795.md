@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Quarantine and isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3479.md)
-* [Isolation/quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3489.md)
-* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3481.md)
-* [Home isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3488.md)
 * [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_432.md)
-* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3480.md)
-* [Quarantine/isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3482.md)
-* [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3477.md)
-* [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4235.md)
+* [Improved design of quarantine facilities, separate air cycles for communal and private spaces, enhanced ventilation, and strict protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2770.md)
 * [Quarantine and self-isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_637.md)
+* [Augmented surveillance, prompt voluntary reporting, and provision of separate spaces for isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1010.md)
+* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_565.md)
+* [Implementation of containment strategies quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_758.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_337.md)
+* [Creating isolation room](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1319.md)
+* [Establish protocols for monitoring confirmed cases and close contacts, ensure compliance with quarantine and isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2797.md)
+* [Implement social distancing measures, case isolation, and home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1882.md)
 
 ## Risks possibly mitigated by this Mitigation
 

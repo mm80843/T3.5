@@ -6,6 +6,6 @@
 
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
 * [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
-* [Other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_160.md)
-* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_186.md)
+* [Other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_119.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_138.md)
 

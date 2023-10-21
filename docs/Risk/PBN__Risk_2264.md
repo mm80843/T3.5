@@ -11,13 +11,13 @@
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1866.md)
 * [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_328.md)
 * [The lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_872.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
-* [Virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4351.md)
-* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4350.md)
-* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3433.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
+* [Virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3613.md)
+* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3612.md)
+* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3419.md)
 * [Lack of safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2393.md)
-* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
-* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
 
 ## Description of the risk
 
@@ -61,8 +61,8 @@ physical well-being, increased stress levels
 
 ## Technologies linked to the risk
 
-* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1871.md)
 * [Nan promotion of outdoor nan nan activities during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1872.md)
+* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1871.md)
 
 ## Property: has_RiskType
 

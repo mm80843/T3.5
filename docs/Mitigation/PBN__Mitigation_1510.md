@@ -33,6 +33,6 @@ Enable work to continue while reducing person-to-person contact
 
 ## This Mitigation is enabled by the following technologies
 
-* [Internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
 * [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
 

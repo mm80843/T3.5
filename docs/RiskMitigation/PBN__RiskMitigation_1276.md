@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Facial mask detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4291.md)
-* [Face mask](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5076.md)
-* [Face masking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3877.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4379.md)
-* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4289.md)
-* [Face mask usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4378.md)
-* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4376.md)
 * [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_698.md)
-* [Face masks with integrated sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5077.md)
-* [Automated face recognition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4290.md)
+* [Face masks + 50% isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_699.md)
+* [Automated face recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_405.md)
+* [Implementation of facial recognition technology and ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2555.md)
+* [Develop cost-effective and easily replaceable filter systems for smart face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3112.md)
+* [Mandatory wearing of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_745.md)
+* [Personal protective equipment masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3336.md)
+* [Implement physical distancing measures and enforce face mask usage in public transportation. promote alternative modes of transportation such as biking and walking.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3085.md)
+* [Improve translation accuracy and reliability of speech-transcribing face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3110.md)
+* [Implementing automated face recognition technology with ai integration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2657.md)
 
 ## Benefits linked to a risk
 

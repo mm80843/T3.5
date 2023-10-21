@@ -57,15 +57,15 @@ Using Technology to Maintain the Education of Residents During the COVID-19 Pand
 ## This article mentions these technologies
 
 * [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
+* [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
 * [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_387.md)
 * [Simulation activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_394.md)
-* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_386.md)
 * [Screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_391.md)
 * [Flipped classroom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_384.md)
 * [Video lectures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_385.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_386.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
 * [Surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_388.md)
 * [Surgical video libraries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_392.md)
-* [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
 * [Staff oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_393.md)
 

@@ -15,7 +15,7 @@
 * [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_529.md)
 * [Improve access to clean water, promote hand hygiene, provide adequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1953.md)
 * [Increase testing capacity and use alternative surveillance methods such as sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2298.md)
-* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3135.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3121.md)
 * [Improve sanitation infrastructure, provide access to clean water, promote good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1921.md)
 * [Implement strict hygiene and sanitation measures, promote social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2468.md)
 

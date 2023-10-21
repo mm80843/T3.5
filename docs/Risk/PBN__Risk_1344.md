@@ -17,7 +17,7 @@
 * [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
 * [Increased expected number of deaths](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_787.md)
 * [Non-compliance with guidelines and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1688.md)
-* [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4346.md)
+* [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3610.md)
 
 ## Description of the risk
 

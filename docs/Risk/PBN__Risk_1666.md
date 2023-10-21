@@ -10,7 +10,7 @@
 
 * [Inadequate ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
 * [Inadequate ventilation in public buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1758.md)
-* [Indoor environment and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3756.md)
+* [Indoor environment and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3527.md)
 * [Insufficient ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1406.md)
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
 * [Inadequate ventilation in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_388.md)
@@ -59,8 +59,8 @@ Higher transmission rates within indoor spaces, potential for superspreader even
 
 ## People affected by this risk
 
-* [Schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
 * [Hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
+* [Schools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_366.md)
 * [Occupants of indoor spaces such as offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1103.md)
 * [Etc](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1104.md)
 

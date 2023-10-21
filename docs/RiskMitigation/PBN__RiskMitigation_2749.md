@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Citizen engagement and participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5131.md)
+* [Promote transparency, communication, and community engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2643.md)
 * [Improve governance models to be more collaborative, proactive, and integrated, focus on participatory decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1648.md)
-* [Public engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5132.md)
-* [Public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3984.md)
-* [Engaging decision-makers in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5133.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3679.md)
+* [Rely on community interventions, transparency, and public engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1840.md)
+* [Engaging decision-makers and stakeholders in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_550.md)
+* [Facilitate citizen participation in green area management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1314.md)
+* [Enhance implementation of open government projects, improve access to actionable open data, promote citizen engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1649.md)
 * [Increase public interest and awareness through targeted communication strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1670.md)
-* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_693.md)
-* [Citizen participation in green area management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4820.md)
-* [Facilitating collaborative and integrated planning and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1105.md)
+* [Ensure consistent and transparent communication, address public concerns and questions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2403.md)
+* [Inclusion of diverse stakeholders in decision-making processes, ensuring equal access to smart city initiatives and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2745.md)
+* [Ensure transparent communication, obtain public consent for projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1513.md)
 
 ## Risks possibly mitigated by this Mitigation
 

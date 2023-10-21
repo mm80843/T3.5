@@ -15,9 +15,9 @@
 * [Lack of effective disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_254.md)
 * [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4168.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
 * [Operating room disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_255.md)
-* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4171.md)
+* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
 
 ## Description of the risk
 

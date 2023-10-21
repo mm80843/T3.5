@@ -58,14 +58,14 @@ Maintain physical health and mental well-being
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 
-* [Sport and recreation spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1740.md)
 * [Parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1738.md)
 * [Gyms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1739.md)
+* [Sport and recreation spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1740.md)
 
 ## Property: has_RiskType
 

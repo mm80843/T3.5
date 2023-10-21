@@ -49,8 +49,8 @@ Reduced visual comfort, eyestrain, headaches, and decreased productivity.
 
 ## Stakeholders who can mitigate this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 
 ## Articles mentionning the risk

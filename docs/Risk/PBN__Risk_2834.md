@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Lack of support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2829.md)
+* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2046.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2328.md)
 * [Lack of educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3180.md)
+* [Lack of government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1906.md)
+* [Lack of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3237.md)
+* [Insufficient funding and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2576.md)
+* [Lack of facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
+* [Lack of financial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2551.md)
 * [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
-* [Availability of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3639.md)
-* [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3248.md)
-* [Lack of support for users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2797.md)
-* [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
-* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
-* [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
-* [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
 
 ## Mitigations of this risk
 

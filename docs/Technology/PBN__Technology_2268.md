@@ -10,12 +10,12 @@
 
 * [Classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1915.md)
 * [Online training courses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1693.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3749.md)
 * [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 * [Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2035.md)
 * [Training and certification programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3750.md)
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1117.md)
 * [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1154.md)
 

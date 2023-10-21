@@ -9,10 +9,10 @@
 ## Closest similar item
 
 * [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3366.md)
-* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4359.md)
+* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3615.md)
 * [Public health system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_738.md)
 * [Challenges in public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_520.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4271.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3604.md)
 * [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_749.md)
 * [Lack of public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
 * [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1608.md)

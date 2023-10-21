@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Patients in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1165.md)
-* [Healthcare information systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2584.md)
+* [Healthcare information systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2540.md)
 * [Users of healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_36.md)
 * [Patients receiving virtual care](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1563.md)
 * [Patients in need of medical care](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_891.md)
@@ -17,7 +17,7 @@
 * [Healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
 * [Healthcare facilities and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_225.md)
 * [Hospital patients and staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_309.md)
-* [Access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2544.md)
+* [Access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2615.md)
 
 ## Risk affecting this stakeholder
 

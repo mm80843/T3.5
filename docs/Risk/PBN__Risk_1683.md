@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
+* [Limited access to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3181.md)
+* [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1878.md)
 * [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_22.md)
-* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3489.md)
 * [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2416.md)
 * [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_807.md)
-* [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3760.md)
-* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
-* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3488.md)
-* [Design venues with large, flexible spaces and prioritize medical equipment.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3838.md)
+* [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1318.md)
+* [Limited healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2010.md)
+* [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1960.md)
+* [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1025.md)
+* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
 
 ## Description of the risk
 

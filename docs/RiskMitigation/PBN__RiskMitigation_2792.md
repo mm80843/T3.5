@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Support for working from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1219.md)
-* [Ability to work from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4562.md)
-* [Working from home, where possible with regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4564.md)
 * [Improve working conditions and support for healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2646.md)
 * [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_706.md)
-* [Proximities between jobs and homes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3394.md)
 * [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1059.md)
-* [Work-from-home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4373.md)
-* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4563.md)
+* [Work and living environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3354.md)
 * [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_419.md)
+* [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_505.md)
+* [Home quarantine of household members](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_407.md)
+* [Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1944.md)
+* [Implement policies and programs to prevent long-term sickness absence, such as workplace wellness programs and early intervention strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2670.md)
 
 ## Risks possibly mitigated by this Mitigation
 

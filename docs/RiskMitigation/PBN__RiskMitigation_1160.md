@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Mobile healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4554.md)
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3624.md)
+* [Mobile technology in tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1162.md)
+* [Mobile technology in counseling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1161.md)
 * [Mobile technology applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1148.md)
 * [Smartphone technology in research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1164.md)
 * [Mobile technology in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1159.md)
 * [Strengthen healthcare systems and ensure access to essential healthcare services through telemedicine and mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2362.md)
-* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3532.md)
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3435.md)
-* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4389.md)
 * [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1102.md)
+* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1156.md)
+* [Iot in healthcare iomt](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_142.md)
+* [Improve healthcare infrastructure, increase funding for healthcare services, implement telemedicine and mobile healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1895.md)
 
 ## Benefits linked to a risk
 

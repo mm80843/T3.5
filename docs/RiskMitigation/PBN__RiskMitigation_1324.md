@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_843.md)
-* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4237.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4238.md)
 * [Big data analytics for case identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_99.md)
 * [Big data and ai forecasting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_634.md)
-* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4244.md)
-* [Predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4242.md)
 * [Enhanced data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1004.md)
 * [Big data and facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1283.md)
-* [Performance-based modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4284.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1101.md)
+* [Data mining for insights](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1006.md)
+* [Introducing neighborhood-level processes in large-scale models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_363.md)
+* [Pandemic analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_525.md)
+* [Collaboration with data providers and experts from diverse domains, continuous expansion and updates of the kg](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3000.md)
 
 ## Benefits linked to a risk
 

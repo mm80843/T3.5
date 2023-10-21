@@ -16,8 +16,8 @@
 * [Implement wastewater-based epidemiology wbe , target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1795.md)
 * [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2559.md)
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
-* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3120.md)
-* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3121.md)
+* [Develop standardized protocols for detecting and quantifying the virus in wastewater, use waste-based epidemiology method for early warning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1595.md)
+* [Adjust wastewater temperature in data analysis to accurately estimate virus prevalence and inform public health responses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1956.md)
 
 ## Benefits linked to a risk
 

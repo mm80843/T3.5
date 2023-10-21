@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Ethical concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
 * [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
-* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3582.md)
-* [Ethical approval](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3585.md)
+* [Ethical dilemmas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3135.md)
 * [Lack of standardization, concerns over ethics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2589.md)
 * [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
 * [Data sharing ethics, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2948.md)
-* [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3508.md)
 * [Legal issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
-* [Broad informed consent](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3849.md)
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+* [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
+* [False claims and harmful actions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2740.md)
 
 ## Description of the risk
 

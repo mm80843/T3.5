@@ -30,13 +30,13 @@ Decreased risk of disease transmission through high-touch surfaces.
 ## Stakeholders benefitting from this Benefit
 
 * [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [Public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [General public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [Public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
 * [Construction organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_427.md)
 

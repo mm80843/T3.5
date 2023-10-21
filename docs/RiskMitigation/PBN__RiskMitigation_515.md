@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Online meetings and shift schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5012.md)
-* [Remote work and online meetings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3351.md)
+* [Implement online meetings and shift arrangements, provide training and company policies, enforce health protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2799.md)
 * [Implementing remote work, flexible scheduling, and virtual meetings.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2450.md)
-* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3187.md)
-* [Teleconferencing and virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3701.md)
+* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3132.md)
 * [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_375.md)
-* [Remote meetings and video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3705.md)
+* [Implement shift and break schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_385.md)
 * [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_937.md)
-* [Second shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5013.md)
-* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3345.md)
+* [Implement flexible work arrangements, such as remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2611.md)
+* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_504.md)
+* [Adjusting work schedules, staggering shifts, use of ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2705.md)
+* [Implement flexible working arrangements, remote working, and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1788.md)
 
 ## Benefits linked to a risk
 

@@ -8,15 +8,15 @@
 
 ## Closest similar item
 
-* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3471.md)
-* [Implementing temporary regulations to restrict group gatherings, overcrowding, and high-level interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3823.md)
+* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
+* [Implementing temporary regulations to restrict group gatherings, overcrowding, and high-level interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3545.md)
 * [Limited access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
 * [Monitoring and restriction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2527.md)
 * [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_269.md)
 * [Limited access to outdoor areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_344.md)
 * [Limited access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2701.md)
 * [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_522.md)
-* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4242.md)
+* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
 * [Limited access to outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2694.md)
 
 ## Description of the risk

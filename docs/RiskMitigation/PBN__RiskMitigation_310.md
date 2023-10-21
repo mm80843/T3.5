@@ -8,7 +8,6 @@
 
 ## Closest similar item
 
-* [Upper room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4772.md)
 * [Upper-room uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_846.md)
 * [Uvgi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_315.md)
 * [Direct uvgi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_316.md)
@@ -16,8 +15,9 @@
 * [Upper-room uv light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_522.md)
 * [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1356.md)
 * [Ensure that upper-room uvgi systems are properly designed with louvers or shields to prevent uv-c light exposure to room occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1622.md)
-* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4769.md)
-* [Upper room germicidal uv fixtures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4879.md)
+* [Ensure proper use and maintenance of uvgi systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2327.md)
+* [Ensure proper installation and maintenance of uvgi systems, provide protective clothing and eyewear for service personnel and occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2323.md)
+* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_521.md)
 
 ## Benefits linked to a risk
 

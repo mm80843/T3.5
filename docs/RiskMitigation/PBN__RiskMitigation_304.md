@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Optimal calibration of stockpiles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4930.md)
-* [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4309.md)
 * [Prioritizing shipments of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_301.md)
-* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3399.md)
 * [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1404.md)
-* [Use of local suppliers and warehouse stock](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4931.md)
+* [Establishing alternative sourcing and inventory buffers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_646.md)
 * [Ensure timely and appropriate distribution of supplies and address needs effectively.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2687.md)
 * [Material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_579.md)
-* [Creation of resceu stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4932.md)
+* [Diversify supply sources, strengthen local production capabilities, implement emergency stockpiling measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1575.md)
 * [Diversifying supply chains and promoting domestic production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2608.md)
+* [Diversify suppliers, optimize inventory management, establish alternative supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1902.md)
+* [Diversifying suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_941.md)
+* [Monitoring buying behavior and limiting purchases; optimizing supply chains; surveillance and enforcement against hoarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3035.md)
 
 ## Benefits linked to a risk
 

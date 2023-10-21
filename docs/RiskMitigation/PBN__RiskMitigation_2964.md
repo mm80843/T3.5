@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2482.md)
-* [Clear guidelines and information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4310.md)
+* [Ensuring access to healthcare and accurate information, providing support and resources, addressing social inequities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2332.md)
+* [Information and support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_789.md)
+* [Provide adequate healthcare services and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1136.md)
+* [Collaborating with healthcare professionals and authorities to develop and disseminate clear guidelines and protocols for property and facilities management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2674.md)
+* [Designated community-level areas for essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_329.md)
 * [Ensure access to information and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1140.md)
-* [Ensure access to essential services during curfew hours, increase enforcement and penalties for violations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2481.md)
-* [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1813.md)
-* [Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3044.md)
-* [Ensuring the quality and reliability of services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_103.md)
-* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3905.md)
-* [Support for people who cannot stop working and provide essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_146.md)
-* [Monitoring and prioritizing essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4303.md)
+* [Enforce strict adherence to guidelines and protocols through monitoring and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2262.md)
+* [Establish ethical guidelines and ensure transparency, fairness, and accountability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2780.md)
+* [Clear and concise communication of guidelines and recommendations, providing examples and demonstrations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2411.md)
 
 ## Risks possibly mitigated by this Mitigation
 

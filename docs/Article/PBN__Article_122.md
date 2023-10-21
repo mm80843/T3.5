@@ -62,8 +62,8 @@ Emergency Healthcare Facilities: Managing Design in a Post Covid-19 World
 
 * [Use of air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1043.md)
 * [Utilization of available infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1047.md)
-* [Reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1044.md)
 * [Upgrading ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1042.md)
+* [Reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1044.md)
 * [Building information model bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1041.md)
 * [Efficient gas distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1045.md)
 * [Efficient space planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1046.md)

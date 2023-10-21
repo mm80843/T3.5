@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Improved building insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3926.md)
-* [Proper insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3923.md)
-* [Proper insulation maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3925.md)
-* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4031.md)
 * [Contamination and microbial growth in insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3019.md)
-* [Removal of wet or contaminated insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3924.md)
-* [Technology and materials for protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3644.md)
-* [Noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4032.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3474.md)
 * [Contamination of insulation in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3010.md)
 * [Resistance to new materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2531.md)
+* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
+* [Inefficient thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1785.md)
+* [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1083.md)
+* [Improved thermal comfort of occupants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_606.md)
+* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1060.md)
+* [Shielding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2667.md)
 
 ## Description of the risk
 

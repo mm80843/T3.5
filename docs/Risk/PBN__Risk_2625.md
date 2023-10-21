@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
+* [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2210.md)
+* [Disruption in education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1793.md)
+* [Disruption of education, child development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2735.md)
+* [Disruption of work and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3176.md)
+* [Disrupted educational activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3179.md)
+* [Disrupted education during school closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3061.md)
 * [Interrupted education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1617.md)
 * [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
-* [Lack of educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3180.md)
-* [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
-* [Closure of educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3529.md)
-* [Inadequate education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1959.md)
-* [School closure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3530.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3531.md)
-* [Closure of educational institutions and workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3532.md)
+* [Lack of education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1505.md)
 
 ## Mitigations of this risk
 

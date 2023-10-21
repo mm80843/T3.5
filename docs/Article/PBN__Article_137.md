@@ -60,7 +60,7 @@ Learning from pandemics: Applying resilience thinking to identify priorities for
 * [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Ecological monitoring and regulation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1670.md)
 * [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_9.md)
+* [Community engagement platforms and participatory decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1673.md)
 * [Infrastructure development and provision technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1671.md)
 * [Environmental monitoring and pollution control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1672.md)
-* [Community engagement platforms and participatory decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1673.md)
 

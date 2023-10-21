@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3339.md)
+* [Adherence to safety measures such as wearing masks and practicing social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1690.md)
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
-* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3462.md)
+* [Public health measures such as quarantine, social distancing, and wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2606.md)
+* [Promoting social distancing, wearing masks, and implementing strict hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2653.md)
 * [Implement physical distancing measures and enforce face mask usage in public transportation. promote alternative modes of transportation such as biking and walking.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3085.md)
-* [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3464.md)
-* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3463.md)
-* [Use of face masks, social distancing, and proper hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2079.md)
-* [Implementing social distancing measures, reducing population density](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2291.md)
-* [Implement measures to decrease occupant density and increase social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1818.md)
-* [Wearing face masks, practicing physical distancing, using respiratory hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2382.md)
+* [Social distancing, wearing masks, hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2290.md)
+* [Implementation of measures to contain and slow the spread, such as border closures, stay-at-home orders, social distancing, and use of face masks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2766.md)
+* [Social distancing, hand hygiene, wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2786.md)
+* [Implement widespread testing and contact tracing measures, promote mask-wearing and physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1870.md)
+* [Implementing strict hygiene and sanitation measures, promoting social distancing, and enforcing mask-wearing in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1460.md)
 
 ## Risks possibly mitigated by this Mitigation
 

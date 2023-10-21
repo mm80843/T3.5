@@ -33,7 +33,7 @@ Learn from the pandemic experience to optimize city operations, enhance resilien
 
 ## This Mitigation is enabled by the following technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
 

@@ -58,8 +58,8 @@ Ensure stable and reliable access to ICT services
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

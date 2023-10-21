@@ -12,10 +12,10 @@
 
 ## Closest similar item
 
-* [Public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2745.md)
+* [Public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2607.md)
 * [Commercial buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_670.md)
 * [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_680.md)
-* [People in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2665.md)
+* [People in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2587.md)
 * [People in residential and commercial buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1531.md)
 * [Public place owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_766.md)
 * [Public space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1611.md)

@@ -13,7 +13,7 @@
 * [Limited access to care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3189.md)
 * [Limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3058.md)
 * [Limited capacity to comply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2254.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3757.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
 * [Limited healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2010.md)
 * [Limited access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_122.md)
 * [Limited evidence available](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_402.md)

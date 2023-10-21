@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Construction materials and equipment](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_164.md)
-* [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_166.md)
+* [Construction materials and equipment](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_123.md)
+* [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_125.md)
 

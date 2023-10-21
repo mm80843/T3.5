@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_189 
 
-# __Supply chain mapping and visualization tools__
+# __Uvgi systems__
 
 ## Category to which it belongs
 
-* [Tools and technology for visualizing and enhancing transparency in the supply chain process.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_60.md)
+* [Air purification technology utilizing ultraviolet germicidal irradiation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_79.md)
 
 ## Closest similar item
 
-* [Supply chain management tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_200.md)
-* [Supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_201.md)
-* [Supply chain design software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_202.md)
-* [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_203.md)
-* [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_204.md)
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_205.md)
-* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_206.md)
-* [Supply chain monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_207.md)
-* [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_208.md)
-* [Supply chain risk analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_209.md)
+* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_191.md)
+* [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_15.md)
+* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_190.md)
+* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_169.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_188.md)
+* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_187.md)
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_186.md)
+* [Cctv systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_176.md)
+* [Energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_196.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_114.md)
 

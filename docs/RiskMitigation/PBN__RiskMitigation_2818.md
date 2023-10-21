@@ -16,7 +16,7 @@
 * [Increase data sharing and collaboration among researchers and institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2280.md)
 * [Expand internet connectivity and digital infrastructure, provide access to digital devices and educational resources, and promote digital literacy and inclusion programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1862.md)
 * [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
-* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3213.md)
+* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3145.md)
 * [Strengthen local it support, allocate funding for it and data curation support, ensure compliance with data protection regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2820.md)
 
 ## Risks possibly mitigated by this Mitigation

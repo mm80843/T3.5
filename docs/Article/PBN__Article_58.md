@@ -82,7 +82,7 @@ COVID-19: IMPACT OF THE PANDEMIC ON THE SUSTAINABLE DEVELOPMENT GOALS
 * [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
 * [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
 * [Water purification technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1508.md)
+* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1506.md)
 * [Job support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1509.md)
 * [Income support measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1510.md)
-* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1506.md)
 

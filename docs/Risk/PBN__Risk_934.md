@@ -10,13 +10,13 @@
 
 * [Lack of effective disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
 * [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_668.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4168.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
 * [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
 * [Ineffectiveness of disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1160.md)
 * [Inadequate disinfection methods and side effects of chemical disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_655.md)
 * [Insufficient disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
-* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3848.md)
-* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4171.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3554.md)
+* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
 * [Operating room disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_255.md)
 
 ## Description of the risk

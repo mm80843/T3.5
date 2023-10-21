@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Transparent communication and prevention of fake news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5153.md)
-* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3770.md)
-* [Prevention of false information spreading](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4438.md)
-* [Censorship of fake news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5154.md)
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3224.md)
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3391.md)
+* [Ensure clear communication from health authorities, combat fake news and rumors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1841.md)
 * [Promote transparent communication and accurate reporting; combat misinformation through fact-checking and verification systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2695.md)
-* [Information transparency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3773.md)
-* [Clear and transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3619.md)
+* [Ensure consistent and transparent communication, address public concerns and questions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2403.md)
+* [Promote transparency, communication, and community engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2643.md)
+* [Build trust, communicate transparently with the public](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1459.md)
 * [Improving transparency and communication, providing accurate and timely information, addressing concerns and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2099.md)
-* [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_553.md)
-* [Trust in official governmental media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5155.md)
+* [Establish effective communication channels, provide clear and transparent information, address concerns and questions, promote trust and understanding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1776.md)
+* [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_101.md)
 
 ## Benefits linked to a risk
 

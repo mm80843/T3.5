@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Inconsistent results between concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1051.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4182.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3587.md)
 * [Conflicting results at low concentrations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2398.md)
 * [Dilution of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1183.md)
 * [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1819.md)
-* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3971.md)
+* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3578.md)
 * [Spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1731.md)
 * [High indoor pollutant concentrations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2716.md)
 * [Sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3394.md)
-* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4171.md)
+* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
 
 ## Description of the risk
 

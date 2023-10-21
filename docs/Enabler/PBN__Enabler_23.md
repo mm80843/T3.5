@@ -12,22 +12,22 @@ enabler_024
 
 ## Closest similar item
 
-* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_707.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_708.md)
-* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_709.md)
-* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_710.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_553.md)
-* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_711.md)
-* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_712.md)
-* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_713.md)
-* [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_714.md)
-* [Telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_715.md)
+* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_216.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_215.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_211.md)
+* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_218.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_217.md)
+* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_245.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_184.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_209.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_210.md)
+* [Telemedecine](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_17.md)
 
 ## Thees blueprints use this enabler
 
 * [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3329.md)
 

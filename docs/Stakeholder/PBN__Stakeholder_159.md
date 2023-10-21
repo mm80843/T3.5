@@ -12,14 +12,14 @@
 
 ## Closest similar item
 
-* [Community-level vector control](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3177.md)
-* [Vector surveillance and control](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3178.md)
-* [Surveillance of vector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3179.md)
-* [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3180.md)
-* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3181.md)
-* [Programmable thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3182.md)
-* [Integrated command and control](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3183.md)
-* [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3184.md)
-* [Computer-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3185.md)
-* [Simulation software tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3186.md)
+* [National and international vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_160.md)
+* [Vector-control organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2282.md)
+* [Vector-control organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1344.md)
+* [Vector control agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2284.md)
+* [Vector control agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1064.md)
+* [General populations in areas with vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1566.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2688.md)
+* [Access control system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2717.md)
+* [Urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2696.md)
+* [Automatic control of temperature](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2718.md)
 

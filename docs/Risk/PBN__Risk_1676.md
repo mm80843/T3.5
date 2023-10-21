@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Improve accessibility to ugs by creating inclusive infrastructure and providing transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4054.md)
-* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_246.md)
-* [High-rise density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4046.md)
-* [Density reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4045.md)
-* [Design spaces with lower occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3936.md)
-* [Space and density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3451.md)
-* [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1030.md)
-* [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
-* [Lack of testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_543.md)
-* [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3116.md)
+* [Uneven distribution of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1675.md)
+* [Inadequate maintenance of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1679.md)
+* [Lack of maintenance and upkeep of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
+* [Limited accessibility to ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1677.md)
+* [Heterogeneous access to ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_695.md)
+* [Lack of ugs during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1678.md)
+* [Underestimation of ugs in urban design and environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_696.md)
+* [Loss of ugs due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2233.md)
+* [Limited recognition of ugs as important places in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_697.md)
+* [Lack of quantitative evidence for ubpi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_899.md)
 
 ## Description of the risk
 

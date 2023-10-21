@@ -16,7 +16,7 @@
 * [Negative economic effects on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_785.md)
 * [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
 * [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2875.md)
-* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3440.md)
+* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3421.md)
 * [Economic impact, mobility restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2733.md)
 
 ## Mitigations of this risk

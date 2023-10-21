@@ -8,12 +8,12 @@
 
 ## Closest similar item
 
-* [Planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2918.md)
+* [Planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2659.md)
 * [Social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_681.md)
 * [Gym](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1967.md)
 * [Social gathering](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2334.md)
 * [Individuals spending time indoors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_304.md)
-* [Exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2919.md)
+* [Exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2660.md)
 * [Businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 * [Event organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_859.md)
 * [Community organizers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1550.md)

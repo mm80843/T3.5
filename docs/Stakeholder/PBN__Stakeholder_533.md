@@ -15,10 +15,10 @@
 * [Data scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_625.md)
 * [Data analysts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_477.md)
 * [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1977.md)
-* [Individuals’ data](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3497.md)
+* [Individuals’ data](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2588.md)
 * [Data management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1395.md)
 * [Study participants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1089.md)
 * [Datum analyst](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2468.md)
 * [Data curators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1302.md)
-* [Research databases](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3481.md)
+* [Research databases](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2775.md)
 

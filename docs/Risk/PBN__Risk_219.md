@@ -8,13 +8,13 @@
 
 ## Closest similar item
 
-* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3971.md)
+* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3578.md)
 * [Increased interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2489.md)
 * [Physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3092.md)
 * [Control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3270.md)
 * [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
 * [Coordination problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2426.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3617.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
 * [Communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_457.md)
 * [Flexibility and speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3301.md)
 * [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2118.md)

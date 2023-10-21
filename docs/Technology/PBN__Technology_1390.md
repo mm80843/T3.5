@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Green roofs and facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5062.md)
-* [Green rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4565.md)
-* [Promotion of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5063.md)
-* [Incentives for green roof installation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4315.md)
-* [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5064.md)
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4290.md)
-* [Incorporating green infrastructure and ugs in urban planning and development, implementing green roof and wall initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5065.md)
-* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3963.md)
-* [Implement urban greening initiatives to create and enhance green spaces in highly urbanized areas, consider green roofs and vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4295.md)
-* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1784.md)
+* [Green roof installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_845.md)
+* [Green roof technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_618.md)
+* [Green roof and wall technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1838.md)
+* [Green roof maintenance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1031.md)
+* [Cool roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_970.md)
+* [Green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1391.md)
+* [Green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3067.md)
+* [Roof spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1736.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
+* [Communal rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1268.md)
 
 ## This Technology belongs to this TechGroup
 

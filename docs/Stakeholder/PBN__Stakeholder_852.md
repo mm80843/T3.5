@@ -10,7 +10,7 @@
 
 * [Global market](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1999.md)
 * [Global economic and financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_24.md)
-* [Market competition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2651.md)
+* [Market competition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2604.md)
 * [And global economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_362.md)
 * [The global population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2381.md)
 * [National economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_86.md)

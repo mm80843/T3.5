@@ -11,13 +11,13 @@
 * [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_710.md)
 * [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_715.md)
 * [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_713.md)
+* [Ontology development and integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2661.md)
 * [Ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1342.md)
 * [Established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1345.md)
 * [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
 * [Ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1343.md)
 * [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3601.md)
-* [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5166.md)
-* [Reuse of ontological terms and models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5167.md)
+* [Upper-level ontologies gfo](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3192.md)
 
 ## This Technology enables the following mitigations
 

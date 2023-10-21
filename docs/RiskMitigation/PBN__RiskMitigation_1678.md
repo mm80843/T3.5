@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Uv light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4148.md)
-* [Use of uv-c light for disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4882.md)
-* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4143.md)
-* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4883.md)
-* [Uv disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4142.md)
-* [Uv-c disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4146.md)
-* [Uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4145.md)
 * [Uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_448.md)
-* [Uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5072.md)
-* [Uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4144.md)
+* [Incorporate far-uvc light as a disinfection measure in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1676.md)
+* [Use of robot-controlled noncontact uv surface disinfection for fast and effective disinfection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3079.md)
+* [Use uv-c disinfection as an adjunct to standard cleaning practices, not as a replacement.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1619.md)
+* [Provide appropriate training on the use of uv-c disinfection system and personal protective equipment for staff.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1620.md)
+* [Uvgi systems for air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1197.md)
+* [Air filtration and uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1129.md)
+* [Develop and implement effective disinfection protocols, invest in environmentally friendly disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1593.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3133.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3192.md)
 
 ## Risks possibly mitigated by this Mitigation
 

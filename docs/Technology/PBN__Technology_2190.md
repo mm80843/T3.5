@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2062.md)
+* [Energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1891.md)
 * [Energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2620.md)
 * [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
 * [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2813.md)
 * [Energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_650.md)
-* [Implement energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
-* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4027.md)
-* [Promoting energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4413.md)
+* [Energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_81.md)
+* [Energy-efficient technologies such as smart thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_78.md)
 * [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
-* [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3974.md)
+* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_353.md)
 
 ## This Technology enables the following mitigations
 

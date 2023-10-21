@@ -42,8 +42,8 @@ Failure to follow proper hygiene practices such as handwashing and respiratory e
 ## Mitigations of this risk
 
 * [Regularly educate and remind individuals about proper hygiene practices, provide access to hand sanitizers and cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2257.md)
-* [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2235.md)
 * [Education and awareness campaigns, providing access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2017.md)
+* [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2235.md)
 
 ## Name of the risk
 
@@ -69,8 +69,8 @@ Increased risk of disease transmission
 
 * [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [General population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Especially in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_960.md)
 
 ## Technologies linked to the risk

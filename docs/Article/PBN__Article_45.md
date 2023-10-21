@@ -55,13 +55,13 @@ Review and comparison of HVAC operation guidelines in different countries during
 
 * [In hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_681.md)
 * [Use of fans and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_683.md)
+* [Use of outdoor air and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_675.md)
+* [Installation and maintenance of high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_679.md)
 * [Implementation of hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_678.md)
 * [Improved design and operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
-* [Use of outdoor air and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_675.md)
 * [Correct use and maintenance of air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_676.md)
 * [Use of portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_677.md)
 * [Proper operation and maintenance of heat recovery systems in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_684.md)
-* [Installation and maintenance of high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_679.md)
 * [Such as merv-13](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_680.md)
 * [Continuous operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_682.md)
 

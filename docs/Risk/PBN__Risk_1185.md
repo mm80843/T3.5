@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4195.md)
-* [Uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4204.md)
-* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4203.md)
-* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4202.md)
-* [Use of uv-c germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4205.md)
-* [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4206.md)
-* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4207.md)
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4208.md)
-* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4209.md)
-* [Uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4251.md)
+* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3595.md)
+* [Limited awareness and expertise in germicidal uv technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_278.md)
+* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3590.md)
+* [Effectiveness of uvgi decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1740.md)
+* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3592.md)
+* [Uvgi systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
+* [Uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3588.md)
+* [Direct uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3589.md)
+* [Use of 254 nm uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3594.md)
+* [Comparability of far-uvc light with conventional germicidal uv light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1223.md)
 
 ## Description of the risk
 

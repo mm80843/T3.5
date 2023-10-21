@@ -11,7 +11,7 @@
 * [Implement hygiene protocols and regular cleaning of shared vehicles following health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1976.md)
 * [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_754.md)
 * [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_164.md)
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3680.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3231.md)
 * [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_529.md)
 * [Implementing and enforcing comprehensive hygiene and cleanliness protocols, including regular cleaning and disinfection, hand hygiene stations, and proper waste disposal.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2676.md)
 * [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_193.md)

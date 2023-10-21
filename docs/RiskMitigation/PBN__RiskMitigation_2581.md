@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3434.md)
+* [Encourage regular virtual team meetings and social activities, provide opportunities for teleworkers to connect with colleagues, and promote a healthy work-life balance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2582.md)
 * [Provide guidelines and resources for remote work, promote work-life balance, and encourage ergonomic work setups.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1524.md)
-* [Teleoperation for telemedicine and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3433.md)
 * [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_27.md)
-* [Teleconferencing and virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3701.md)
-* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4884.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3430.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3431.md)
 * [Ergonomic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1302.md)
-* [Telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3521.md)
+* [Ensuring informed consent, informing clients about the potential risks, implementing secure telepsychiatry platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2915.md)
+* [Implement online meetings and shift arrangements, provide training and company policies, enforce health protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2799.md)
+* [Telemedicine and remote consultations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1431.md)
+* [Addition of external communication corridors and emphasis on stair usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_273.md)
+* [Implement telehealth and telemedicine systems; increase healthcare infrastructure capacity; ensure access to essential healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2694.md)
+* [Provide necessary equipment and support for remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2461.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -4,5 +4,5 @@
 
 ## Items covered in this category
 
-* [Stress management](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_227.md)
+* [Stress management](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_111.md)
 

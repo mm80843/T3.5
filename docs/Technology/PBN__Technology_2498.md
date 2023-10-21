@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4949.md)
 * [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
-* [Effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4770.md)
-* [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4950.md)
 * [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2950.md)
-* [Thorough disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4947.md)
-* [Physical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4858.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
 * [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1908.md)
-* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4774.md)
+* [Disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2953.md)
+* [Disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2290.md)
 * [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3167.md)
+* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1288.md)
+* [Use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1726.md)
+* [Cleaning disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3716.md)
 
 ## This Technology enables the following mitigations
 

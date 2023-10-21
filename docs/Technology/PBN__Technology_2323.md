@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Uv-c light technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1647.md)
 * [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
-* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3995.md)
+* [Ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3604.md)
 * [Far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2988.md)
-* [Use of far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4624.md)
-* [Upper-room uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4626.md)
+* [Uv-c emitters or lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3593.md)
+* [Uv light systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_880.md)
+* [Uvc and uvgi lights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2520.md)
 * [Uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2313.md)
-* [Use of uv-c light for disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4051.md)
-* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4627.md)
-* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1251.md)
-* [Comparability of far-uvc light with conventional germicidal uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4625.md)
+* [Ultraviolet uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
+* [Far-uvc light sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_309.md)
 
 ## This Technology enables the following mitigations
 

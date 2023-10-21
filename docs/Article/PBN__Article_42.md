@@ -57,7 +57,7 @@ COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air 
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
 * [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_890.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 * [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_209.md)
 * [Medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1250.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 

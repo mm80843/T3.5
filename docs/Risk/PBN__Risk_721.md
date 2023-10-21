@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2061.md)
+* [Data management and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3461.md)
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3515.md)
-* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
-* [Data integration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4609.md)
-* [Centralized database](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4610.md)
-* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4611.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4612.md)
-* [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4613.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
-* [Data curation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4614.md)
+* [Data policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3505.md)
+* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3447.md)
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2411.md)
+* [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)
+* [Data acquisition and integration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1095.md)
+* [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1569.md)
 
 ## Mitigations of this risk
 

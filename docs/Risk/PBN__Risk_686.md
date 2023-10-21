@@ -14,7 +14,7 @@
 * [Technical limitations of wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1239.md)
 * [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
 * [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
-* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3509.md)
+* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
 * [Limited functionality and reliability of wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1004.md)
 * [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3222.md)
 * [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1362.md)

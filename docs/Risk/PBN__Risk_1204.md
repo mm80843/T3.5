@@ -50,8 +50,8 @@ Unequal spread of contagious diseases and variations in infection rates
 ## Stakeholders who can mitigate this risk
 
 * [Policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 * [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 
 ## Articles mentionning the risk
 

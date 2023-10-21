@@ -16,7 +16,7 @@
 * [Social service organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_660.md)
 * [Social welfare organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1786.md)
 * [Socially disadvantaged group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2042.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2728.md)
+* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2708.md)
 * [Social service organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2345.md)
 
 ## Risks that can be mitigated by this stakeholder

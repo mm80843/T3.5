@@ -10,7 +10,7 @@
 
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
 * [Lack of proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1563.md)
-* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3786.md)
+* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3534.md)
 * [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1418.md)
 * [Inadequate ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
 * [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)

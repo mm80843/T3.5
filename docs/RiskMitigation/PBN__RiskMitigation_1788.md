@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Implement flexible work arrangements, such as remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2611.md)
 * [Implementing remote work, flexible scheduling, and virtual meetings.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2450.md)
-* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3343.md)
 * [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1528.md)
 * [Providing appropriate resources and support for remote work, implementing flexible working hours, and utilizing technology for virtual collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1993.md)
 * [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_479.md)
 * [Provide guidelines and resources for remote work, promote work-life balance, and encourage ergonomic work setups.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1524.md)
+* [Implementing flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_206.md)
 * [Implementing remote work arrangements, implementing safety protocols, ensuring proper communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1898.md)
-* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3344.md)
-* [Remote work and distance learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3334.md)
-* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3345.md)
+* [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2049.md)
+* [Implement online meetings and shift arrangements, provide training and company policies, enforce health protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2799.md)
 
 ## Risks possibly mitigated by this Mitigation
 

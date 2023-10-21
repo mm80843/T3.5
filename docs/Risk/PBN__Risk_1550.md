@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Environmental impacts of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_931.md)
 * [Environmental impact of construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2702.md)
-* [Involvement of architectural and urban institutions in addressing pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3985.md)
-* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
-* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
-* [Financial impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1548.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3810.md)
-* [Reimagining large public spaces and events in a post-pandemic world](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3986.md)
-* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3987.md)
-* [Implementation of green construction practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3988.md)
-* [Reduction in commercial building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3989.md)
+* [Covid-19 impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_987.md)
+* [High impact of covid-19 on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1974.md)
+* [Inadequate pandemic preparedness in existing building stock](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_230.md)
+* [Limited access to urban green spaces during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_709.md)
+* [Spread of covid-19 on construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_771.md)
+* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
+* [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
+* [Economic impact of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_42.md)
 
 ## Description of the risk
 

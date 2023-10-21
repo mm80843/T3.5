@@ -39,9 +39,9 @@ Decision Making within the Built Environment as a Strategy for Mitigating the Ri
 
 * [Site selection near open water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1814.md)
 * [Demolition and construction waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1818.md)
-* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
 * [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
 * [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1815.md)
+* [Poor drainage and management of water systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1817.md)
 
 ## This article points to following mitigation
 

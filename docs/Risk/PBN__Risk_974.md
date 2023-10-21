@@ -44,6 +44,7 @@ Risk of COVID-19 transmission in the built environment
 
 ## Mitigations of this risk
 
+* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1364.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
 * [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
@@ -51,7 +52,7 @@ Risk of COVID-19 transmission in the built environment
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
 * [Hand washing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1363.md)
-* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1364.md)
+* [Hygiene and sanitation measures, promotion of nan social distancing and nan nan vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2970.md)
 * [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_46.md)
 * [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
 * [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
@@ -60,7 +61,6 @@ Risk of COVID-19 transmission in the built environment
 * [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1057.md)
 * [Infrared thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_349.md)
 * [Implement measures such as wearing masks, social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1965.md)
-* [Hygiene and sanitation measures, promotion of nan social distancing and nan nan vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2970.md)
 * [Tracking and tracing transmissions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_0.md)
 * [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
 * [Free testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_9.md)
@@ -102,9 +102,9 @@ High number of infections and potential overload of health systems
 ## Stakeholders who can mitigate this risk
 
 * [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
-* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [Government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [Systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1518.md)
 
 ## Articles mentionning the risk

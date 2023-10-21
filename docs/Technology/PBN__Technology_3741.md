@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Building information modelling bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4326.md)
-* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4006.md)
 * [Building information model bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1041.md)
 * [Bim software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2647.md)
-* [Implementation of bim technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4325.md)
+* [Construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_372.md)
 * [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2065.md)
 * [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2617.md)
 * [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4968.md)
-* [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4008.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
+* [Supply chain design software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1137.md)
+* [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3713.md)
+* [Project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
 

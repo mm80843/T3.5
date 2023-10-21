@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Increase ventilation rates and use air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2002.md)
+* [Improving ventilation systems, increasing fresh air intake, using air purifiers and filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1463.md)
 * [Improve indoor ventilation systems, increase air exchange rates, and use of air purifiers or filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2256.md)
+* [Improve ventilation systems in buildings, increase air flow, open windows if possible, and use air purifiers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1919.md)
+* [Improve ventilation systems, use air purifiers, increase fresh air intake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1814.md)
 * [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_606.md)
 * [Improving ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1318.md)
 * [Improve ventilation systems, increase outdoor air intake, and use air purifiers to enhance indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2503.md)
+* [Improve ventilation systems, limit pollutant sources, and implement air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1686.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)
-* [Increase ventilation rates, use air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2345.md)
-* [Improved ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_643.md)
-* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3447.md)
-* [Increase ventilation rates, modify ventilation systems, avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2346.md)
 
 ## Risks possibly mitigated by this Mitigation
 

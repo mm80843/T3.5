@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4100.md)
-* [Residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3919.md)
-* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3808.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
 * [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
-* [Common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3922.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3810.md)
-* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4120.md)
-* [Efficient home organization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4121.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3813.md)
-* [Building and housing reform](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4019.md)
+* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
+* [Poor housing quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1077.md)
+* [Housing conditions and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1178.md)
+* [Environmental factors in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_873.md)
+* [Information asymmetry between occupants and indoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_261.md)
+* [Challenges in adaptation of building envelope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_790.md)
+* [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
 
 ## Description of the risk
 

@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Communities with limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_958.md)
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2589.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2545.md)
 * [Areas with limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1268.md)
 * [Low-income populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_110.md)
-* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2791.md)
+* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2613.md)
 * [Communities and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_403.md)
 * [Healthcare facilities and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_225.md)
 * [Disadvantaged populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1343.md)
-* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2778.md)
+* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2617.md)
 * [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 
 ## Risk affecting this stakeholder

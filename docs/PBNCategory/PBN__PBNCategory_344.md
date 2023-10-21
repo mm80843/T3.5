@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_333.md)
-* [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_332.md)
+* [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_97.md)
+* [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_98.md)
 

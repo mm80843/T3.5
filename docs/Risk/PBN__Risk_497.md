@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Neighborhood isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3917.md)
-* [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3842.md)
-* [Designing smaller local, neighborhood green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3918.md)
 * [Lack of greenspace in low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_170.md)
-* [Residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3919.md)
-* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3920.md)
-* [Restrictions on shared facilities and uses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3921.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3650.md)
 * [Quality of greenspace in high-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_171.md)
-* [Common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3922.md)
+* [Exclusion of local communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2552.md)
+* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
+* [Homogeneity in urban park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1604.md)
+* [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
+* [Contamination of shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2123.md)
+* [Poor quality of green space in disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_144.md)
+* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
+* [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1606.md)
 
 ## Mitigations of this risk
 

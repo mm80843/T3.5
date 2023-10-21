@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4587.md)
-* [Portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5003.md)
+* [Air-conditioning system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2525.md)
 * [Portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2474.md)
+* [Air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2883.md)
 * [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
-* [Use of portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4588.md)
-* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5001.md)
-* [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5004.md)
+* [Personalized air supply devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2339.md)
+* [Use of portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_677.md)
 * [Portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2471.md)
-* [Independent ventilation system for each apartment unit](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5412.md)
-* [Use of portable air filters to remove other pathogens from the air in hospital wards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5413.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [Portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3075.md)
+* [Portable air cleaners pac](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3709.md)
 
 ## This Technology enables the following mitigations
 

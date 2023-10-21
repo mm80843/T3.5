@@ -12,26 +12,26 @@
 
 ## Closest similar item
 
-* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2642.md)
-* [Logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2643.md)
-* [Advanced logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2644.md)
-* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2645.md)
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2638.md)
-* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2646.md)
-* [Local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2639.md)
-* [Supply chain tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2641.md)
-* [Insurance providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2616.md)
-* [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2647.md)
+* [Logistics companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_424.md)
+* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2579.md)
+* [Logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2580.md)
+* [Advanced logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2581.md)
+* [Transportation providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1081.md)
+* [Service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_474.md)
+* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2582.md)
+* [Supply chain organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_14.md)
+* [Supply chain professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_16.md)
+* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2575.md)
 
 ## Risks that can be mitigated by this stakeholder
 
 * [Internal risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1757.md)
-* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
 * [Supply chain complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
+* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
 
 ## Risk affecting this stakeholder
 
 * [Internal risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1757.md)
-* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
 * [Supply chain complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
+* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
 

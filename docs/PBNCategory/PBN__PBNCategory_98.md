@@ -5,7 +5,7 @@
 ## Items covered in this category
 
 * [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_32.md)
-* [Diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_944.md)
-* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_949.md)
-* [Test kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_950.md)
+* [Diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_272.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_202.md)
+* [Test kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_203.md)
 

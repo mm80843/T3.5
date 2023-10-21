@@ -16,7 +16,7 @@
 * [Health care system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_12.md)
 * [Healthcare overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2391.md)
 * [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1878.md)
-* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3758.md)
+* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3529.md)
 * [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_22.md)
 
 ## Mitigations of this risk

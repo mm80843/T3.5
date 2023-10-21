@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Human interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3972.md)
+* [Emotional disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3108.md)
+* [Wildlife disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2635.md)
+* [Noise disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2452.md)
+* [Noise disturbances](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2546.md)
+* [Isolation and lack of human interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_167.md)
+* [Disruption of activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3253.md)
 * [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
-* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
-* [Nature interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3974.md)
-* [Interaction with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3977.md)
-* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_853.md)
-* [Social distancing between occupants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3983.md)
-* [Crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4342.md)
-* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
-* [Lack of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2400.md)
+* [Limited understanding of human behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_583.md)
+* [Mental health disturbances due to social distancing and home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_452.md)
+* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1404.md)
 
 ## Mitigations of this risk
 

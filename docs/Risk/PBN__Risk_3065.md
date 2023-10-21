@@ -13,7 +13,7 @@
 * [Safety risks for workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
 * [Concerns about job security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_165.md)
 * [Inherent vulnerabilities in](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_775.md)
-* [Softening labor market impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3858.md)
+* [Softening labor market impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3563.md)
 * [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
 * [Exploitation and mistreatment of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3341.md)
 * [Labour shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_730.md)

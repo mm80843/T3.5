@@ -8,15 +8,14 @@
 
 ## Closest similar item
 
-* [Engaging the finance sector and attracting private capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4510.md)
-* [Enhancing financial capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3509.md)
-* [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3500.md)
+* [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3208.md)
 * [Financial interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1013.md)
-* [Access to financial capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4451.md)
-* [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3517.md)
+* [Explore alternative funding options, build strong investor relationships.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2131.md)
+* [Seek alternative sources of funding, diversify revenue streams, engage in partnerships and collaborations for financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2840.md)
+* [Implement policies to ease smes’ access to finance, enhance financial literacy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3353.md)
+* [Enhanced availability of financial capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_790.md)
 * [Seek financial support, negotiate new payment terms, explore new markets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1525.md)
 * [Financial aids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_577.md)
-* [Decentralized finance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3916.md)
 * [Seek financial assistance, manage cashflow, renegotiate contracts, diversify revenue sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1792.md)
 
 ## Benefits linked to a risk

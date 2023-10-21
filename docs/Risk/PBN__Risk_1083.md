@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Material shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_555.md)
+* [Material shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3167.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3474.md)
+* [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2044.md)
+* [Delays in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_305.md)
 * [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1060.md)
+* [Shortage of supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3252.md)
+* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
+* [Disruption in material supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3160.md)
 * [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
-* [Further develop and optimize off-site construction methods, invest in new materials and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3630.md)
-* [Material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3631.md)
-* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
-* [Improve construction techniques and standards, ensure the use of high-quality building materials.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3632.md)
-* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
-* [Decline in housing construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_304.md)
-* [Smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3633.md)
 
 ## Description of the risk
 

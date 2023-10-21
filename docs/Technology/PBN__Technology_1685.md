@@ -17,7 +17,7 @@
 * [Predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3160.md)
 * [Statistical software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3525.md)
 * [Data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_297.md)
-* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
+* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3746.md)
 
 ## This technology is mentioned by
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1333.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2049.md)
-* [Stress management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1282.md)
-* [Hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1869.md)
-* [Personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2054.md)
-* [Digital well-being apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_873.md)
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2110.md)
-* [Well-being promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1512.md)
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2072.md)
-* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
+* [Healthy lifestyle apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2051.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_339.md)
+* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1215.md)
+* [Health education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_320.md)
+* [Official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3240.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_311.md)
+* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
+* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2375.md)
+* [Community health centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_221.md)
 
 ## This Technology enables the following mitigations
 

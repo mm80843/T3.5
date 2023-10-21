@@ -10,13 +10,13 @@
 
 * [Lack of monitoring capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3161.md)
 * [Monitoring and restriction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2527.md)
-* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3495.md)
+* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3435.md)
 * [Requires continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3386.md)
 * [Inadequate monitoring and evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_398.md)
 * [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
 * [Insufficient monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_739.md)
 * [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2329.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3426.md)
 * [Proprietary monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2573.md)
 
 ## Mitigations of this risk

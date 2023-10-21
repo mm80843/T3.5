@@ -10,10 +10,10 @@
 
 * [Donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_453.md)
 * [Donor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2364.md)
-* [International partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3130.md)
+* [International partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2703.md)
 * [International organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
 * [Governments and international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1242.md)
-* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3131.md)
+* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2704.md)
 * [Funding agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_993.md)
 * [Blood donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1374.md)
 * [Funding agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1949.md)

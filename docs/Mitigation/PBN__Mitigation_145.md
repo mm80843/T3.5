@@ -44,12 +44,12 @@ Facilitating remote consultations between patients and healthcare providers, red
 
 * [Video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
 * [Video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_426.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2155.md)
-* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
-* [Mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)
 * [Telecommunication technology internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3013.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
+* [Mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)
 

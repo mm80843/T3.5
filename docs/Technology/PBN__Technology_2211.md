@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Building sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3854.md)
-* [Hygiene and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
-* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3857.md)
+* [Sanitization procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1416.md)
+* [Sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2368.md)
+* [Enhanced sanitization measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1238.md)
+* [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)
 * [Sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1803.md)
-* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3855.md)
+* [Sanitization devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_718.md)
+* [Sanitizing products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3432.md)
+* [Sanitization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2601.md)
 * [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2363.md)
-* [Regular cleaning and sanitization procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3858.md)
-* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2480.md)
-* [Hand sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4995.md)
-* [Self-sanitizing surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4033.md)
+* [Easy-to-sanitize materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
 
 ## This Technology enables the following mitigations
 

@@ -15,9 +15,9 @@
 * [Conduct research to understand the unique aspects of loneliness during covid-19, including coping strategies and experiences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2119.md)
 * [Conduct validation studies to compare social media data with external data sources for validation and reliability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2121.md)
 * [Provide social support and promote social connections through technology.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2686.md)
-* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3492.md)
+* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3200.md)
 * [Promote data sharing initiatives and create integrated platforms and open-source structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2318.md)
-* [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3493.md)
+* [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3207.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -12,10 +12,10 @@
 * [Surgeons](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1168.md)
 * [Surgical teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_778.md)
 * [Surgical trainees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_42.md)
-* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2896.md)
-* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3257.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2595.md)
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2736.md)
 * [Surgical residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_777.md)
-* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2704.md)
+* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2597.md)
 * [Attending surgeons](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_780.md)
 * [Media outlets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_455.md)
 

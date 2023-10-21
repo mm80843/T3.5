@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3705.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3702.md)
-* [Communication and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3706.md)
 * [Communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_457.md)
-* [Increased communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3707.md)
-* [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3699.md)
-* [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3708.md)
-* [Information communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3709.md)
-* [Communication plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3701.md)
-* [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3710.md)
+* [Communication challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1933.md)
+* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
+* [Communication barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3178.md)
+* [Flawed communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_829.md)
+* [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1747.md)
+* [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1091.md)
+* [Difficulty in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
+* [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
+* [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2762.md)
 
 ## Mitigations of this risk
 

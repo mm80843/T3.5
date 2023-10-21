@@ -13,11 +13,11 @@
 * [Lack of air disinfection in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_274.md)
 * [Lack of supplemental air disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_277.md)
 * [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
-* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3627.md)
+* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3471.md)
 * [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
 * [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
 * [Insufficient disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
-* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3628.md)
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3472.md)
 
 ## Mitigations of this risk
 

@@ -12,7 +12,7 @@
 * [Spread of covid-19 in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_434.md)
 * [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
 * [Covid-19 outbreaks in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_887.md)
-* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3746.md)
+* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3518.md)
 * [Occupational exposure to coronavirus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1310.md)
 * [Spread of covid-19 on construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_771.md)
 * [Transmission of covid-19 within construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2784.md)
@@ -21,10 +21,10 @@
 ## Mitigations of this risk
 
 * [Protocols for managing confirmed covid-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_512.md)
+* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_513.md)
 * [Self-health evaluation before onboard](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_511.md)
 * [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
 * [Engineering controls physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_514.md)
 * [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_515.md)
 * [Pre-employment and periodic medical check-ups mcus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_510.md)
-* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_513.md)
 

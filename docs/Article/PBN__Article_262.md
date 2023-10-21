@@ -65,12 +65,12 @@ The role of green roofs in post COVID-19 confinement: An analysis of willingness
 
 * [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
 * [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
 * [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
 * [Green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1030.md)
 * [Financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1029.md)
 * [Green roof maintenance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1031.md)
 

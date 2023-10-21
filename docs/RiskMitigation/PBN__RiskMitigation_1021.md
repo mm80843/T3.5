@@ -8,16 +8,15 @@
 
 ## Closest similar item
 
-* [Statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4180.md)
 * [Automated sample collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_89.md)
-* [Correlation/association analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4181.md)
 * [Gather and analyze accurate data, rely on evidence-based estimates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2043.md)
-* [Reporting study conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4182.md)
 * [Conduct controlled experiments, consider confounding factors in analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1707.md)
 * [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_551.md)
-* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4183.md)
-* [Longitudinal analysis of wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4184.md)
 * [Conduct studies in diverse geographic regions to obtain more representative data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1718.md)
+* [Conduct more detailed surveys and analysis to gather data on visitors’ attributes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3313.md)
+* [Forming an ad hoc committee](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_467.md)
+* [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1846.md)
+* [Evidence-based research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1442.md)
 
 ## Benefits linked to a risk
 

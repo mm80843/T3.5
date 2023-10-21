@@ -17,16 +17,16 @@
 
 ## Closest similar item
 
+* [Public-health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_513.md)
+* [Public health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1805.md)
+* [Public-health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1804.md)
+* [Public health agencies/researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_136.md)
+* [Government health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_880.md)
 * [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
+* [Health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1245.md)
+* [Public health agencies and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_122.md)
 * [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
-* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2518.md)
-* [Official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1011.md)
-* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2519.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2521.md)
-* [Government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [Community health centers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2523.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [National public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1799.md)
 
 ## Risks that can be mitigated by this stakeholder
 

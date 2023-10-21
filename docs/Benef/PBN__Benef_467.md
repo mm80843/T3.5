@@ -25,6 +25,6 @@ Implementation of good sanitation practices and availability of clean water and 
 
 ## Risks which can benefit from this action
 
-* [Enhanced cleanliness and sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_480.md)
 * [Enhanced cleaning and sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_641.md)
+* [Enhanced cleanliness and sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_480.md)
 

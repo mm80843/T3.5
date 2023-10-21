@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Enhance healthcare capacity, stockpile medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2848.md)
+* [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2717.md)
 * [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1453.md)
+* [Enhance preparedness and response plans, stockpile essential medical supplies, and improve coordination between member states and eu institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2113.md)
 * [Investing in healthcare infrastructure, increasing medical facility capacity, improving supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1801.md)
 * [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_966.md)
-* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3238.md)
-* [Strengthened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3176.md)
-* [Increase production and distribution of personal protective equipment, stockpile reserves for emergencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2719.md)
-* [Strengthening healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_725.md)
-* [Enhance containment measures, strengthen healthcare systems, improve coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1445.md)
-* [Developing robust healthcare systems, stockpiling medical supplies, conducting regular drills and simulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1462.md)
+* [Strengthening health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_282.md)
+* [Increase public health funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_621.md)
+* [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2283.md)
+* [Increase the capacity of medical facilities, allocate resources efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1515.md)
 
 ## Risks possibly mitigated by this Mitigation
 

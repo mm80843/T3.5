@@ -16,7 +16,7 @@
 * [Inconvenience and cost of mask filters in smart face masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2372.md)
 * [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_272.md)
 * [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3150.md)
-* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3471.md)
+* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
 * [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2628.md)
 
 ## Mitigations of this risk

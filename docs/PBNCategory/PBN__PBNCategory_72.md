@@ -5,11 +5,11 @@
 ## Items covered in this category
 
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_14.md)
-* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_321.md)
-* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_317.md)
-* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_318.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_319.md)
-* [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_320.md)
-* [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_352.md)
-* [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_353.md)
+* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_156.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_152.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_153.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_154.md)
+* [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_155.md)
+* [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_164.md)
+* [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_165.md)
 

@@ -29,6 +29,7 @@
 * [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_430.md)
 * [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2072.md)
+* [Temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1459.md)
 * [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
 * [Reliable communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_325.md)
 * [Sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_641.md)
@@ -38,6 +39,5 @@
 * [Smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1019.md)
 * [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1747.md)
 * [Occupancy tracking sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_332.md)
-* [Temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1459.md)
 * [Sensor-activated faucets and soap dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_749.md)
 

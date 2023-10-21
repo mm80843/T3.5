@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
-* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_65.md)
+* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_44.md)
 * [Mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_37.md)
-* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_330.md)
-* [Smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_332.md)
+* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_49.md)
+* [Smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_51.md)
 * [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
-* [Smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_331.md)
-* [Phone](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_66.md)
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_48.md)
-* [Mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_67.md)
+* [Smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_50.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_43.md)
+* [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_52.md)
+* [Wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_140.md)
 

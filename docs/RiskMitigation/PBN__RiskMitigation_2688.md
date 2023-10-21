@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Establish effective communication channels, provide clear and transparent information, address concerns and questions, promote trust and understanding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1776.md)
 * [Improve communication channels and methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2529.md)
 * [Clear and accurate communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1439.md)
 * [Improving transparency and communication, providing accurate and timely information, addressing concerns and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2099.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3734.md)
+* [Ensure consistent and transparent communication, address public concerns and questions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2403.md)
+* [Maintain open communication and provide reassurance to the workforce.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2462.md)
 * [Encouraging effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_207.md)
 * [Establishing effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_647.md)
-* [Increased communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3768.md)
+* [Transparent and consistent communication, providing accurate and timely information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1794.md)
 * [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_562.md)
-* [Implement effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_46.md)
-* [Promote reliable and verifiable sources of information; educate the public on how to critically evaluate information; combat misinformation through fact-checking and debunking.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2602.md)
 
 ## Risks possibly mitigated by this Mitigation
 

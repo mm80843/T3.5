@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [Fact-checking organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1039.md)
-* [Fact-checking websites and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2876.md)
-* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2875.md)
-* [Fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3782.md)
-* [Fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3781.md)
-* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3841.md)
-* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3022.md)
-* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3840.md)
+* [Fact-checking websites and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2687.md)
+* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2684.md)
+* [Fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2683.md)
+* [Fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2682.md)
+* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2686.md)
+* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2681.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2685.md)
 * [Government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 * [Employment agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1246.md)
 

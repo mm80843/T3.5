@@ -37,9 +37,9 @@ Green in times of COVID-19: urban green space relevance during the COVID-19 pand
 
 ## List of risks in an article
 
+* [Lack of ugs density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
 * [Limited accessibility to ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1677.md)
 * [Uneven distribution of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1675.md)
-* [Lack of ugs density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
 * [Inadequate maintenance of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1679.md)
 * [Lack of ugs during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1678.md)
 

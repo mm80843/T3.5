@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Strategic sectors development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4235.md)
-* [Private sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4236.md)
-* [Technology sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4237.md)
-* [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4238.md)
-* [Support measures for commercial and small industrial activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4239.md)
-* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4240.md)
-* [Designating community-level areas for essential services and supplies.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4234.md)
-* [Monitoring and prioritizing essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4241.md)
-* [Providing resources and support, clear communication of guidelines, ensuring access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3581.md)
-* [Economic support and aid](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3774.md)
+* [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_268.md)
+* [Lack of coordination between sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3049.md)
+* [It sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3603.md)
+* [Facilitating essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2526.md)
+* [Essential services maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_995.md)
+* [Maintenance of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2311.md)
+* [Lack of multi-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1635.md)
+* [Lack of private sector investment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2553.md)
+* [Economic impacts, shortage of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2878.md)
+* [Limited collaboration and communication across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3281.md)
 
 ## Mitigations of this risk
 

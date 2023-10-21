@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Public places as informative nodes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
 * [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_267.md)
-* [Limited access nodes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4225.md)
-* [Limiting access nodes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4226.md)
+* [Limited access to outdoor areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_344.md)
 * [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_522.md)
-* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3485.md)
-* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3487.md)
-* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3484.md)
-* [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3486.md)
+* [Limited access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
+* [Limited access to outdoor space in urban centres](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_920.md)
+* [Limited access to outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2545.md)
+* [Limited access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2701.md)
+* [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1946.md)
 * [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_269.md)
+* [Limited access to outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2694.md)
 
 ## Description of the risk
 

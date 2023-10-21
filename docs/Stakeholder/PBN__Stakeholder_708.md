@@ -21,8 +21,8 @@
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Transiency and overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1176.md)
 * [Housing conditions and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1178.md)
+* [Transiency and overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1176.md)
 * [Lack of legal protections and financial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1177.md)
 * [Eviction and housing displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1175.md)
 

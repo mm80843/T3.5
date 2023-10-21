@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Implement data protection and privacy regulations, ensure transparency and consent in data collection and usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2059.md)
+* [Ensure anonymization of data, implement secure data-sharing protocols, and prioritize privacy and security.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1509.md)
 * [Implement privacy protection measures, obtain consent, anonymize data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2711.md)
 * [Implement strong data protection measures, obtain consent, and ensure data anonymity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2776.md)
 * [Implement strong data protection measures, ensure transparency and consent, use decentralized and secure systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2272.md)
-* [Enforcing data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3327.md)
-* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3580.md)
+* [Implement strong encryption and access control measures, comply with data privacy regulations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1541.md)
+* [Strengthen local it support, allocate funding for it and data curation support, ensure compliance with data protection regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2820.md)
 * [Implement robust security measures, use encryption and anonymization techniques, obtain informed consent from users, comply with data protection regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2571.md)
+* [Implement robust data protection measures and encryption protocols, ensure compliance with privacy regulations, provide transparent information and consent mechanisms for data collection and use.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1863.md)
 * [Standardize data protocols, promote data sharing and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1519.md)
-* [Clear guidelines and regulations on data usage, decentralization of data ownership.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1682.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4459.md)
-* [Ensure data sharing platforms and policies are in place for all interested stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2060.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -41,8 +41,8 @@ Lack of preparedness plan in place
 
 ## Mitigations of this risk
 
-* [Forming an ad hoc committee](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_467.md)
 * [Forming an ad hoc committee to establish a preparedness plan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1983.md)
+* [Forming an ad hoc committee](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_467.md)
 
 ## Name of the risk
 

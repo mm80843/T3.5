@@ -4,7 +4,7 @@
 
 ## Items covered in this category
 
-* [Monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_73.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_113.md)
-* [Monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_274.md)
+* [Monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_66.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_26.md)
+* [Monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_90.md)
 

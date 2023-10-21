@@ -9,12 +9,12 @@
 ## Closest similar item
 
 * [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
-* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3582.md)
+* [Ethical concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
+* [Ethical dilemmas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3135.md)
 * [Legal issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
 * [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
 * [Legal problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_418.md)
 * [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2108.md)
-* [Ethical approval](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3585.md)
 * [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
 * [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
 * [Lack of standardization, concerns over ethics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2589.md)

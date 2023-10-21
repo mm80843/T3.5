@@ -11,7 +11,7 @@
 * [Intensive policy maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2294.md)
 * [Limited information for policy decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1477.md)
 * [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
-* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3719.md)
+* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
 * [Uncertainty and changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2824.md)
 * [Uncertainty about future](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1854.md)
 * [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)

@@ -8,15 +8,15 @@
 
 ## Closest similar item
 
-* [Contact tracing mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3505.md)
-* [Develop and utilize digital contact tracing tools, emphasize privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3506.md)
+* [Contact tracing mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3437.md)
+* [Develop and utilize digital contact tracing tools, emphasize privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3438.md)
 * [Challenges in contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_766.md)
-* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
-* [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3492.md)
-* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3490.md)
+* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3425.md)
+* [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
+* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
 * [Lack of monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_24.md)
 * [Inefficient contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1488.md)
-* [Regular testing and contact tracing programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3507.md)
+* [Regular testing and contact tracing programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3439.md)
 * [Ineffective contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2055.md)
 
 ## Description of the risk

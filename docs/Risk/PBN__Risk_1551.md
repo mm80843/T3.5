@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3766.md)
-* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3735.md)
-* [Building transport networks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4005.md)
+* [Increased transportation and contact in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2843.md)
+* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3507.md)
 * [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
-* [Job proximity and active transportation support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4006.md)
-* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4007.md)
-* [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4008.md)
-* [Promote active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3768.md)
+* [Travel and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2005.md)
+* [Obstacles in production or transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3309.md)
+* [Disruption of transport operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_927.md)
 * [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3324.md)
-* [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3767.md)
+* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3035.md)
+* [Increased contact in public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2845.md)
+* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
 
 ## Description of the risk
 

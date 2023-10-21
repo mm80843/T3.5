@@ -14,16 +14,3 @@ Use of smart/innovative air quality controls technology
 
 * [Implementation of cutting-edge air quality management systems to improve environmental conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_350.md)
 
-## Closest similar item
-
-* [Smart air quality control](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_40.md)
-* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_41.md)
-* [Outdoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_42.md)
-* [Improvement of air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_43.md)
-* [Monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_44.md)
-* [Air quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_45.md)
-* [Improvement in air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_46.md)
-* [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_47.md)
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_3.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_48.md)
-

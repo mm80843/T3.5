@@ -16,7 +16,7 @@
 * [Inefficient emergency response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3113.md)
 * [Emergency facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3302.md)
 * [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1150.md)
-* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3717.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3501.md)
 * [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
 
 ## Description of the risk

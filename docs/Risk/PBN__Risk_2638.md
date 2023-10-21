@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4304.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3531.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3526.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1462.md)
-* [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4596.md)
-* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3735.md)
-* [Data transmission systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4597.md)
-* [Technical skills and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
-* [Interrupted education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1617.md)
-* [Transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4577.md)
+* [Transmission, economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2639.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+* [Transmission in the community](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2980.md)
+* [Transmission to others](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2582.md)
+* [Transmission among students and staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2977.md)
+* [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2154.md)
+* [Direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1541.md)
+* [Local transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1583.md)
+* [Transmission among colleagues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2978.md)
+* [Transmission, gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2641.md)
 
 ## Mitigations of this risk
 

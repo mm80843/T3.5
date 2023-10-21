@@ -16,8 +16,8 @@
 * [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
 * [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3601.md)
 * [Established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1345.md)
-* [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5166.md)
-* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4044.md)
+* [Ontology development and integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2661.md)
+* [Obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3187.md)
 
 ## This Technology belongs to this TechGroup
 

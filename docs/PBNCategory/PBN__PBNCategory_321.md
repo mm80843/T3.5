@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_209.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_208.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_106.md)
+* [Social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_109.md)
 

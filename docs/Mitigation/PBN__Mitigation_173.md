@@ -37,10 +37,10 @@ Incorporate nature elements into the built environment to enhance occupant well-
 
 ## This Mitigation is enabled by the following technologies
 
+* [Natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
 * [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1610.md)
 * [Natural elements plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2262.md)
 * [Indoor vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
-* [Natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
 * [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
 * [Natural views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2275.md)
 * [Water features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2263.md)

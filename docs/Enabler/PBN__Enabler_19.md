@@ -14,14 +14,14 @@ enabler_020
 
 * [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_41.md)
 * [Mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_37.md)
-* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_65.md)
+* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_44.md)
 * [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
-* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_330.md)
-* [Smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_331.md)
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_48.md)
-* [Smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_332.md)
-* [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_333.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_300.md)
+* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_49.md)
+* [Smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_50.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_43.md)
+* [Smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_51.md)
+* [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_52.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_68.md)
 
 ## Thees blueprints use this enabler
 
@@ -37,7 +37,7 @@ enabler_020
 * [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
 * [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2231.md)
 

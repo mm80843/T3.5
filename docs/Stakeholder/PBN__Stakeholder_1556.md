@@ -12,7 +12,7 @@
 * [Journalists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1776.md)
 * [Journal editors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1555.md)
 * [Retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
-* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2897.md)
+* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2601.md)
 * [Scientific journals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_968.md)
 * [Investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_49.md)
 * [Retailer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1833.md)

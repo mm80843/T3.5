@@ -17,7 +17,7 @@
 * [Air pollution sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2271.md)
 * [Smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1019.md)
 * [Iot devices for monitoring occupancy and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_245.md)
-* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3845.md)
+* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3752.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -24,7 +24,7 @@
 * [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
 * [Developing effective virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_992.md)
-* [Quantification of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_989.md)
 * [Sequencing wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_990.md)
+* [Quantification of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_989.md)
 * [Developing sensitive rt-qpcr assays for wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_991.md)
 

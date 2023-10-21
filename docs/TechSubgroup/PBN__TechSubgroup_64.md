@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_350.md)
 * [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
-* [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_351.md)
-* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_280.md)
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_352.md)
+* [Monitoring systems and sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
+* [Environmental and outdoor monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_91.md)
 * [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
-* [Mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_353.md)
-* [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_278.md)
-* [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_354.md)
-* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_355.md)
+* [Mobile and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_107.md)
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_103.md)
+* [Monitoring systems and maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_155.md)
+* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
+* [Technology and materials for protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_71.md)
+* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_25.md)
 
 ## This Technology belongs to this TechnologySubgroup
 

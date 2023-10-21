@@ -13,7 +13,7 @@
 * [Provide information on tourist destination safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1658.md)
 * [Develop and use accurate and timely risk maps for targeted deployment of control measures and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2826.md)
 * [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_254.md)
-* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3391.md)
+* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3184.md)
 * [Developing alternative transportation options and ensuring safe access to construction sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2090.md)
 * [Implementing transportation equity measures, prioritizing affordable and accessible public transport options in underserved areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2535.md)
 * [Providing accurate and up-to-date information, offering flexible travel options, and ensuring efficient transportation and service operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2209.md)

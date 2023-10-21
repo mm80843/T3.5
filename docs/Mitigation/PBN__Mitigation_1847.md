@@ -35,7 +35,7 @@ Provide situational intelligence and automated targeted response to ensure publi
 
 * [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
-* [Actuators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
 * [Thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2194.md)
 * [Ip surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3336.md)
+* [Actuators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
 

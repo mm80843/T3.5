@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Government support for healthcare systems, financial assistance programs, stimulus packages.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2599.md)
+* [Provide financial support to individuals and businesses, encourage investment and economic stimulus measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2952.md)
+* [Implementing financial support programs, providing loans and grants to affected individuals and businesses, implementing stimulus packages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1582.md)
 * [Implement financial support programs and resources for individuals and businesses; promote job creation and stability; provide financial education and counseling.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2603.md)
+* [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2664.md)
+* [Implement social welfare measures, provide support for vulnerable households, create opportunities for economic recovery and job creation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2443.md)
+* [Provide support and financial assistance to developing countries, promote debt relief and global cooperation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2950.md)
+* [Implement fiscal stimulus, provide financial support to affected businesses and individuals, invest in job creation and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2901.md)
+* [Develop alternative revenue streams, reduce costs, seek government support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2129.md)
 * [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2482.md)
-* [Provide financial assistance and resources to individuals and families facing economic hardship, promote economic empowerment programs for women](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1468.md)
-* [Loan restructuring, government assistance, financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2588.md)
-* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_940.md)
-* [Economic support and aid](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3518.md)
-* [Financial support programs, remote work options, community help initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2961.md)
-* [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_943.md)
-* [Financial interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1013.md)
-* [Implement social protection programs and financial incentives to support vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1491.md)
 
 ## Risks possibly mitigated by this Mitigation
 

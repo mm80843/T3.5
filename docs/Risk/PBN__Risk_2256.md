@@ -16,7 +16,7 @@
 * [Increased anxiety/panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3224.md)
 * [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_985.md)
 * [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
-* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3718.md)
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3502.md)
 * [Financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
 
 ## Description of the risk

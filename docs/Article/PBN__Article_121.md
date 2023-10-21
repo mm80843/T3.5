@@ -76,6 +76,6 @@ How can airborne transmission of COVID-19 indoors be minimised?
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_192.md)
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
-* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1140.md)
 * [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1142.md)
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1140.md)
 

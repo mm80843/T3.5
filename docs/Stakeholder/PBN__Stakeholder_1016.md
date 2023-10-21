@@ -13,7 +13,7 @@
 * [European](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_361.md)
 * [Labor union](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1639.md)
 * [Labor unions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_904.md)
-* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3131.md)
+* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2704.md)
 * [Third countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_319.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [Government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)

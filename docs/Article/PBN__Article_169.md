@@ -60,6 +60,6 @@ The effect of occupant distribution on energy consumption and COVID-19 infection
 
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
 * [Energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
-* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_248.md)
 * [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1127.md)
+* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_248.md)
 

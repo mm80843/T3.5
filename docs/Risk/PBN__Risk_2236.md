@@ -61,8 +61,8 @@ Increased spread of the virus, higher infection rates
 
 ## Technologies linked to the risk
 
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 * [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 
 ## Property: has_RiskType
 

@@ -10,14 +10,14 @@
 
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
 * [Travel policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
-* [Travel restrictions, testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4202.md)
-* [Restricted travel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4191.md)
 * [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1565.md)
-* [Imposing travel restrictions, implementing comprehensive screening and testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4190.md)
-* [Implement travel restrictions and controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4203.md)
-* [Travel restrictions and border control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4205.md)
-* [Travel restrictions, isolation, testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4204.md)
-* [Travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4207.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_700.md)
+* [Regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1175.md)
+* [Government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
+* [Travel management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2129.md)
+* [Travel advisories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_26.md)
+* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_560.md)
+* [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
 
 ## This Technology enables the following mitigations
 

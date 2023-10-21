@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Architectural design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1108.md)
 * [Architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2653.md)
-* [Optimal architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4559.md)
-* [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4562.md)
+* [Architecture engineering](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2437.md)
+* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
 * [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4561.md)
-* [Lightweight architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4560.md)
-* [Designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4262.md)
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2652.md)
-* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4972.md)
-* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3881.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
+* [Building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2521.md)
+* [Architects](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_378.md)
+* [Building design and layout modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2671.md)
+* [Spatial layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2787.md)
 
 ## This Technology enables the following mitigations
 

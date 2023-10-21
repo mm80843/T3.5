@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Designing variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4572.md)
-* [Inefficient thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4571.md)
-* [Improved thermal comfort of occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3929.md)
-* [Thermal comfort optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4570.md)
-* [Thermo-hygrometric comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4574.md)
-* [Indoor air quality and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4097.md)
+* [Thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3312.md)
+* [Implement measures to prevent heat stress, ensure comfortable conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2980.md)
 * [Optimal thermal environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_150.md)
 * [Ensure proper facade design and ventilation to maintain thermal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2485.md)
-* [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4575.md)
-* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4586.md)
+* [Improve insulation, adjust hvac systems, provide personal comfort devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2475.md)
+* [Optimize room layout, create flexible and multipurpose spaces, maximize use of natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2224.md)
+* [Design spaces that prioritize natural light and ventilation, incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2567.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1303.md)
+* [Improve living conditions, access to natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2893.md)
+* [Spatial variety in window design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1331.md)
 
 ## Benefits linked to a risk
 

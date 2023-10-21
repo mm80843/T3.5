@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4453.md)
-* [Improving supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4454.md)
-* [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4455.md)
-* [Supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4456.md)
-* [Supply chain management tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4457.md)
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4458.md)
-* [Advanced supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4459.md)
-* [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4460.md)
-* [Supply chain management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4461.md)
-* [Digital supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4462.md)
+* [Disruption in the supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_480.md)
+* [Supply chain complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
+* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1123.md)
+* [Reliance on global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1971.md)
+* [Disruption of supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_524.md)
+* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1392.md)
+* [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_500.md)
+* [Disrupted supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2310.md)
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
+* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_491.md)
 
 ## Mitigations of this risk
 

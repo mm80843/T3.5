@@ -15,9 +15,9 @@
 * [Evaluate and update nphis based on scientific evidence, implement a combination of interventions, ensure compliance with guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2027.md)
 * [Focus on non-pharmaceutical interventions, prioritize distribution to countries in need](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1607.md)
 * [Implement and enforce non-pharmaceutical interventions at early stages of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2135.md)
+* [Implement measures with caution, prioritize evidence-based interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2046.md)
 * [Continued implementation of npis, vaccination campaigns, promote hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2366.md)
-* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3166.md)
-* [Provide targeted interventions for individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_630.md)
+* [Improve reporting standards and conduct high-quality research studies on preventive interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2068.md)
 
 ## Benefits linked to a risk
 

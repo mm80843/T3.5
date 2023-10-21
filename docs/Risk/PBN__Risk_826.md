@@ -17,7 +17,7 @@
 * [Increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_842.md)
 * [Unnecessary energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2401.md)
 * [Reduction in waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2361.md)
-* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3545.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3450.md)
 
 ## Description of the risk
 

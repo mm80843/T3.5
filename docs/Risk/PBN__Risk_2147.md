@@ -16,8 +16,8 @@
 * [Inadequate air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1727.md)
 * [Lack of airtightness and safety concerns with reusable face shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
 * [Recycling of contaminated air within the hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3020.md)
-* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3879.md)
-* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4290.md)
+* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3571.md)
+* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3605.md)
 
 ## Description of the risk
 

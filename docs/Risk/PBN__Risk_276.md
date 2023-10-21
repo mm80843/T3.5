@@ -16,7 +16,7 @@
 * [Challenges in ventilation and air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_792.md)
 * [Insufficient air circulation and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1662.md)
 * [Insufficient outdoor air supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3016.md)
-* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3845.md)
+* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3552.md)
 * [Hvac systems failure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1753.md)
 
 ## Mitigations of this risk

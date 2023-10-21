@@ -10,12 +10,12 @@
 
 * [Privacy and security concerns with iot data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1001.md)
 * [Inherent vulnerabilities in](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_775.md)
-* [Identifying and addressing vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4478.md)
-* [Identify and assess vulnerabilities, implement risk mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4501.md)
+* [Identifying and addressing vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3626.md)
+* [Identify and assess vulnerabilities, implement risk mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3635.md)
 * [Transmission vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
 * [Systemic vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2326.md)
 * [Blockchain system vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
-* [Addressing security and privacy issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3603.md)
+* [Addressing security and privacy issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3456.md)
 * [Security threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2414.md)
 * [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2103.md)
 

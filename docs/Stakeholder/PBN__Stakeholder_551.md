@@ -11,7 +11,7 @@
 * [Travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_558.md)
 * [Traveler](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2382.md)
 * [Tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
-* [Traveling individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2834.md)
+* [Traveling individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2635.md)
 * [International travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1385.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
 * [International traveler](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2366.md)

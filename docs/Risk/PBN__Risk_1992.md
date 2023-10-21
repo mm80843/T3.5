@@ -59,9 +59,9 @@ Lack of awareness and knowledge about disease transmission and prevention.
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

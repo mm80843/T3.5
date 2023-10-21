@@ -16,7 +16,7 @@
 * [Increase testing capacity, implement contact tracing strategies, invest in surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2271.md)
 * [Strengthening public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_727.md)
 * [Strengthened public health preparedness and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1020.md)
-* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3128.md)
+* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3120.md)
 * [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_254.md)
 
 ## Risks possibly mitigated by this Mitigation

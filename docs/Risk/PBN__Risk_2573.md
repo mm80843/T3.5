@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Limited monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2455.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3426.md)
 * [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
 * [Lack of monitoring capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3161.md)
-* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3495.md)
+* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3435.md)
 * [Monitoring and restriction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2527.md)
 * [Requires continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3386.md)
-* [Environmental and outdoor monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3754.md)
-* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3601.md)
+* [Environmental and outdoor monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3525.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3454.md)
 * [Lack of monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_24.md)
 
 ## Mitigations of this risk

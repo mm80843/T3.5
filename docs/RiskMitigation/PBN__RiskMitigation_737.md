@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Design buildings with safety measures and emergency preparedness in mind, such as evacuation routes, emergency supplies, and structural resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2570.md)
-* [Disaster management agencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4687.md)
+* [Disaster management agencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3368.md)
 * [Develop and implement comprehensive emergency preparedness plans, including outbreak response protocols and contingency plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2263.md)
-* [Disaster response teams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4727.md)
+* [Disaster response teams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3373.md)
 * [Strengthen public health emergency preparedness and response systems to mitigate the impact of epidemics.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2432.md)
-* [Disaster response team](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4726.md)
+* [Disaster response team](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3372.md)
 * [Integration of smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1341.md)
-* [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3402.md)
+* [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3157.md)
 * [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_296.md)
-* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3403.md)
+* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3171.md)
 
 ## Benefits linked to a risk
 

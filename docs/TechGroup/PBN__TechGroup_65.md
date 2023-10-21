@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) >> Individual ID:PBN__TechGroup_65 
 
-# __Enforcement of regulations__
+# __Artificial intelligence__
 
 ## Category to which it belongs
 
-* [Measures and personnel dedicated to ensuring adherence and compliance with regulations and mitigation strategies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_304.md)
+* [Machine-based intelligence mimicking human cognitive functions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_318.md)
 
 ## Closest similar item
 
-* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_59.md)
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
-* [Enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_61.md)
-* [Monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_60.md)
-* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_67.md)
-* [Compliance measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_63.md)
-* [Regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_62.md)
-* [Enforcement personnel](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_64.md)
-* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_66.md)
-* [Regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_250.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_37.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_38.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_63.md)
+* [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+* [Ai support systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_64.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_32.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_34.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_45.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_36.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_35.md)
 

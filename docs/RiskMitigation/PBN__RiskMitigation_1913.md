@@ -11,7 +11,7 @@
 * [Implement efficient lighting systems with timers or sensors, reduce unnecessary lighting, and optimize vital load usage.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1915.md)
 * [Implement demand response programs, incentivize load shifting and energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1710.md)
 * [Smart personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1278.md)
-* [Hardware and devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5085.md)
+* [Hardware and devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3348.md)
 * [Encourage energy efficiency practices, educate households on energy use, and promote the use of energy-efficient appliances.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2091.md)
 * [Implement energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1371.md)
 * [Accelerate deployment plans, encourage small scale deployments, support purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2742.md)

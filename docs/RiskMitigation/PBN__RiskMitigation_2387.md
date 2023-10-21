@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Implement strict hygiene protocols, provide personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2458.md)
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3680.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3231.md)
 * [Regular disinfection, high-level hygiene practices, waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1722.md)
 * [Implementing and enforcing comprehensive hygiene and cleanliness protocols, including regular cleaning and disinfection, hand hygiene stations, and proper waste disposal.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2676.md)
 * [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_164.md)

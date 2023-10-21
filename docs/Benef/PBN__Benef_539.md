@@ -18,8 +18,8 @@ Credible hub of trustworthy evidence counters misinformation and provides eviden
 
 * [Policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
 * [Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_230.md)
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 * [Citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 
 ## Risks which can benefit from this action
 

@@ -1,4 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_198 
 
-# __Information brochures__
+# __Testing automation__
+
+## Category to which it belongs
+
+* [Simplifying tasks with advanced tools and systems that require minimal human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_80.md)
+
+## Closest similar item
+
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
+* [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_171.md)
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_172.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_173.md)
+* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_199.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_202.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_200.md)
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_201.md)
+* [Test kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_203.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_204.md)
 

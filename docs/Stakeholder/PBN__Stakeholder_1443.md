@@ -23,7 +23,7 @@
 
 * [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2118.md)
 * [Personal protective equipment ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2120.md)
-* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2116.md)
 * [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2119.md)
+* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2116.md)
 * [Self-health evaluation before boarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2113.md)
 

@@ -14,10 +14,10 @@
 * [Internet of things iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2195.md)
 * [Internet of things iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1133.md)
 * [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3154.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4019.md)
 * [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
 * [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_100.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
 
 ## This Technology enables the following mitigations
 

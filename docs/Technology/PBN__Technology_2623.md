@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [Retrofitting and equipment installation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2204.md)
-* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3876.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
 * [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
 * [Building design and layout modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2671.md)
 * [Building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2521.md)
 * [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
 * [Integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2439.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3928.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
 * [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2098.md)
 * [Use modular design systems and adjustable walls/screens in apartment layouts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1265.md)
 

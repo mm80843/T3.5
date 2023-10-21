@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5287.md)
-* [Implement measures to prevent heat stress, ensure comfortable conditions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5288.md)
-* [Optimal thermal environments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5289.md)
-* [Improve insulation, adjust hvac systems, provide personal comfort devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5154.md)
-* [Ensure proper facade design and ventilation to maintain thermal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5290.md)
+* [Personal comfort devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1253.md)
+* [Heat](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2626.md)
 * [Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2257.md)
-* [Improve insulation and heating systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3887.md)
-* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and indoor air quality iaq](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5291.md)
-* [Adjustability of indoor temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5292.md)
-* [Implement cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5293.md)
+* [Heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2850.md)
+* [Thermal sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3690.md)
+* [Heat source](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2414.md)
+* [Temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1061.md)
+* [Use operable windows and shading devices for natural ventilation and temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1266.md)
+* [Thermal screening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_137.md)
+* [Thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2194.md)
 
 ## This Technology enables the following mitigations
 

@@ -15,7 +15,7 @@
 * [Labour market vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3065.md)
 * [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1748.md)
 * [Job loss and exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2467.md)
-* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3746.md)
+* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3518.md)
 * [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
 
 ## Description of the risk

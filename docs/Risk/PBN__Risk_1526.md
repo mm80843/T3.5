@@ -66,8 +66,8 @@ Overburdened health services, increased mortality, and economic costs.
 * [Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_830.md)
 * [Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_831.md)
 * [Antivirals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_827.md)
-* [Personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_829.md)
 * [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
+* [Personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_829.md)
 * [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
 
 ## Property: has_RiskType

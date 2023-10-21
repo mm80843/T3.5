@@ -17,7 +17,7 @@
 * [Psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
 * [Mental stress and fatigue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2774.md)
 * [Negative emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
-* [Negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3541.md)
+* [Negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3446.md)
 
 ## Mitigations of this risk
 

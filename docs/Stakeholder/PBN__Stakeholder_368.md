@@ -13,16 +13,16 @@
 
 ## Closest similar item
 
-* [Social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2762.md)
+* [Mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_692.md)
+* [Mental health practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_476.md)
+* [Mental health providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1497.md)
+* [Mental health service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_475.md)
+* [Individuals with mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_8.md)
+* [Individuals with mental illness](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1559.md)
+* [Social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2609.md)
 * [Mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1029.md)
-* [Mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_603.md)
-* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
-* [Mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2613.md)
-* [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2609.md)
-* [Mental health care support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2608.md)
-* [Mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2610.md)
-* [Mental health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2612.md)
-* [Social and mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2611.md)
+* [Health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_593.md)
+* [Individuals with mental health needs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1369.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -39,8 +39,8 @@
 * [Impact of social distancing and home confinement on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1965.md)
 * [Negative impact of prolonged self-isolation on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1700.md)
 * [Stress and burnout among healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1877.md)
+* [Psychopathology in vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1875.md)
 * [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1969.md)
 * [Alexithymia](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2036.md)
-* [Psychopathology in vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1875.md)
 * [Suicidal ideation from economic crisis and uncertainties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1880.md)
 

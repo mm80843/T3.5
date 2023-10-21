@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3933.md)
-* [Flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4098.md)
-* [Adjustable room layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4099.md)
-* [Housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4100.md)
-* [Building layout and design for social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4101.md)
-* [Optimize space layout and arrangement, consider ergonomic principles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4102.md)
 * [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
-* [Distancing and building layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4103.md)
-* [Optimize north-south orientation of building layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4104.md)
-* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4049.md)
+* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
+* [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
+* [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1815.md)
+* [Need for flexible room configurations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2696.md)
+* [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2930.md)
+* [Overwhelming customization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2882.md)
+* [Home structure differences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1471.md)
+* [Increase or reduce the size of a building](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2921.md)
+* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
 
 ## Description of the risk
 
@@ -41,8 +41,8 @@ Changes in internal layouts of buildings for safety and health
 
 ## Mitigations of this risk
 
-* [Redesign of internal layouts for better safety and health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_297.md)
 * [Rethink internal layout designs, prioritize individual spaces, enhance safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1735.md)
+* [Redesign of internal layouts for better safety and health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_297.md)
 
 ## Name of the risk
 
@@ -59,8 +59,8 @@ Improved safety and well-being of users, personalized spaces
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

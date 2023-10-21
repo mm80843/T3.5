@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Exclusion from government support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
 * [Exclusion from support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2836.md)
-* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3771.md)
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3772.md)
-* [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3773.md)
-* [Economic support and aid](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3774.md)
-* [Support for unemployed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3775.md)
-* [Employee support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3776.md)
-* [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3777.md)
+* [Lack of government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1906.md)
+* [Lack of timely and effective government interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_584.md)
+* [Reduction in official development aid](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_107.md)
+* [Lack of legal protections and financial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1177.md)
+* [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1968.md)
 * [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
-* [Support for people who cannot stop working and provide essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3778.md)
+* [Lack of public awareness and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2554.md)
+* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
 
 ## Mitigations of this risk
 

@@ -41,8 +41,8 @@ Spatial disadvantages and inequalities contribute to disproportionate pandemic v
 
 ## Mitigations of this risk
 
-* [Affordable housing with resilient design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_23.md)
 * [Job proximity and active transportation support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_24.md)
+* [Affordable housing with resilient design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_23.md)
 * [Address spatial inequalities and social disparities in urban design and planning. improve access to healthcare, essential services, and amenities in disadvantaged neighborhoods.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3087.md)
 
 ## Name of the risk

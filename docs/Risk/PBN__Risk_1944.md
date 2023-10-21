@@ -59,8 +59,8 @@ Increased mortality rate during heat waves
 ## People affected by this risk
 
 * [Elderly](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_336.md)
-* [Socially disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_199.md)
 * [People with pre-existing medical conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1318.md)
+* [Socially disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_199.md)
 
 ## Technologies linked to the risk
 

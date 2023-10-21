@@ -8,15 +8,15 @@
 
 ## Closest similar item
 
-* [Spatial variety in window design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4964.md)
-* [Window and vent design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4965.md)
-* [Window ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4615.md)
-* [Window opening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4609.md)
-* [Design apartments with windows that offer views of nature and the sky.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4966.md)
-* [Glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4613.md)
-* [Multiple window opening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4610.md)
-* [Natural ventilation and operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4616.md)
-* [Window views, spatial variety and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4967.md)
+* [Window size](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3443.md)
+* [Double-glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2479.md)
+* [Provide large windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1262.md)
+* [Operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3147.md)
+* [Window views of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1613.md)
+* [Drive-through window systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3308.md)
+* [Increase window size](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1729.md)
+* [Openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
+* [Double or triple-glazed windows conducive to airtight construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2687.md)
 * [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
 
 ## This Technology enables the following mitigations

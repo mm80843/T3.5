@@ -12,22 +12,22 @@ enabler_002
 
 ## Closest similar item
 
-* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_83.md)
-* [Digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_84.md)
-* [Expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_85.md)
-* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_86.md)
-* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_87.md)
-* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_88.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_89.md)
-* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_90.md)
-* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_91.md)
+* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_55.md)
+* [Digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_56.md)
+* [Expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_57.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_58.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_59.md)
+* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_60.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_61.md)
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_62.md)
+* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
 * [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_31.md)
 
 ## Thees blueprints use this enabler
 
 * [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Digitalplatform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3728.md)
 

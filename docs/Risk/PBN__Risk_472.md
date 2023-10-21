@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Control measures in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4446.md)
-* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4447.md)
-* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3729.md)
-* [Improved access to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4448.md)
-* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3576.md)
-* [Preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4449.md)
-* [Government policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3730.md)
-* [Prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4450.md)
-* [Community action](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4451.md)
-* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4452.md)
+* [Community mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_405.md)
+* [Low adoption of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1803.md)
+* [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3348.md)
+* [Lack of community participation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2534.md)
+* [Timing of community measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1345.md)
+* [Misinterpretation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1810.md)
+* [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1606.md)
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
+* [Lack of community trust and empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3344.md)
+* [Lack of community-level vector control capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_759.md)
 
 ## Mitigations of this risk
 

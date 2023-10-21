@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2520 
 
-# __Public health guidelines__
+# __Research studies__
 
 ## Category to which it belongs
 
-* [Public health authorities and agencies are responsible for regulating, monitoring, and promoting health in communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_403.md)
+* [The knowledge-seeking community, from scientists to fact-checkers, investigates, studies, and explores various subjects and phenomena.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_405.md)
 
 ## Closest similar item
 
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2519.md)
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2554.md)
-* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2518.md)
-* [Health-focused design principles and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2555.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
-* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2556.md)
-* [Health-focused design considerations and standards](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2557.md)
-* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
-* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2558.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2518.md)
+* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2521.md)
+* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2519.md)
+* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2522.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
+* [Research projects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1464.md)
+* [Research organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_849.md)
+* [Research organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2011.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_413.md)
+* [Research team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_699.md)
 

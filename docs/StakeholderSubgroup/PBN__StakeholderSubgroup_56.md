@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_472.md)
-* [Home-based exercises, online fitness classes, use of fitness apps](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_473.md)
-* [Encourage physical exercise at home, balance and flexibility training, muscle strength exercise, and endurance training.](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_474.md)
-* [Improve physical health](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_475.md)
-* [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_476.md)
-* [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_477.md)
-* [Moderate physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_478.md)
-* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_479.md)
-* [Home-based exercises and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_480.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_226.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_173.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_172.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_48.md)
+* [Park and recreation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_28.md)
+* [Health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_94.md)
+* [Training organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_18.md)
+* [Work and living environment](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_103.md)
+* [Commuters/cyclists](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_144.md)
+* [Manufacturing and industry](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_62.md)
+* [Occupational and workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
 
 ## Stakeholders in this stakeholder subgroup
 
@@ -29,7 +29,7 @@
 * [Sports industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1219.md)
 * [Fitness industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1141.md)
 * [Gyms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_663.md)
-* [Fitness trainers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_791.md)
 * [Gym](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1967.md)
+* [Fitness trainers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_791.md)
 * [Gamer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1881.md)
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4063.md)
-* [Improved indoor climate quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4161.md)
 * [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
-* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3414.md)
-* [Healthy building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3273.md)
-* [Sustainable building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3411.md)
 * [Improve indoor air quality by addressing pollution sources, ventilation, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1906.md)
-* [Indoor building and finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4088.md)
 * [Improved understanding of indoor and outdoor environmental parameters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_260.md)
 * [Enhance indoor qualities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1216.md)
+* [Improve indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_452.md)
+* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and indoor air quality iaq](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_801.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1028.md)
+* [Ensure proper ventilation and air circulation systems, conduct regular maintenance and cleaning, and promote good indoor air quality practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1773.md)
+* [Improve indoor air quality, ensure proper humidity levels, address issues of poor lighting and acoustics.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2548.md)
+* [Implement regular maintenance plans and ensure proper care and upkeep of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2071.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Consideration of noise levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4418.md)
-* [Design level adjustments on noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4737.md)
-* [Noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4738.md)
-* [Implementing sound insulation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4739.md)
-* [Building lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3664.md)
-* [Portable noise measurement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4419.md)
-* [Enforce lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3661.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_863.md)
-* [Lockdown enforcement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3660.md)
-* [Flexibility in lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3662.md)
+* [Enhance sound insulation guidelines for buildings and encourage respectful neighbor behavior during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2173.md)
+* [Implement noise reduction measures, regulate noise levels in urban areas, promote soundproofing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2456.md)
+* [Implement measures to reduce bird noise such as bird deterrent devices or planting vegetation to create natural sound barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2175.md)
+* [Soundproofing, noise barriers, acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2476.md)
+* [Improve sound insulation in flats and promote respectful neighbor behavior through community engagement during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2176.md)
+* [Implement noise reduction measures, use sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2928.md)
+* [Implement proper noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2888.md)
+* [Sound insulation, use of acoustic materials, noise control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1565.md)
+* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_185.md)
+* [Implement measures to reduce traffic noise such as traffic restrictions or promotion of cycling and green transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2174.md)
 
 ## Risks possibly mitigated by this Mitigation
 

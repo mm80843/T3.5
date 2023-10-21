@@ -8,16 +8,15 @@
 
 ## Closest similar item
 
-* [Opening windows for increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4836.md)
-* [Modification of occupants’ behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3180.md)
+* [Modification of occupants’ behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3131.md)
 * [Improve ventilation systems, open windows and doors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1967.md)
 * [Window ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1383.md)
+* [Encourage regular breaks outside, open windows for fresh air circulation, provide information on benefits of sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1770.md)
 * [Increase the use of outdoor air through open windows and dampers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1807.md)
-* [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4835.md)
+* [Improve ventilation systems in buildings, increase air flow, open windows if possible, and use air purifiers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1919.md)
+* [Limiting occupancy, improving ventilation systems, promoting outdoor spaces, implementing social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1613.md)
+* [Upgrading ventilation systems to meet recommended air exchange rates and introducing measures such as air filtration, use of portable air cleaners, and opening windows for natural ventilation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2231.md)
 * [Increase ventilation rates, use proper air distribution patterns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1643.md)
-* [Natural ventilation and operable windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1335.md)
-* [Increase the amount of outdoor air in ventilation systems, open windows for natural ventilation, and ensure proper ventilation design and operation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1932.md)
-* [Educating building occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_892.md)
 
 ## Risks possibly mitigated by this Mitigation
 

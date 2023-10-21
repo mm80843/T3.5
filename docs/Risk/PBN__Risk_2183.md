@@ -58,13 +58,13 @@ Prevent spread of infection within the building
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 
-* [Separate toilets in every apartment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1754.md)
 * [Self-disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1755.md)
+* [Separate toilets in every apartment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1754.md)
 
 ## Property: has_RiskType
 

@@ -15,9 +15,9 @@
 * [Insufficient filtration of airborne particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3006.md)
 * [Poor filtration efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2974.md)
 * [Insufficient filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1420.md)
-* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3875.md)
+* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3567.md)
 * [Indoor air contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_125.md)
-* [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3876.md)
+* [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3568.md)
 
 ## Description of the risk
 

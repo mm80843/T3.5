@@ -40,8 +40,8 @@ Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Str
 
 * [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1382.md)
 * [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
-* [Healthcare system strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1855.md)
 * [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1856.md)
+* [Healthcare system strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1855.md)
 * [Gender-based violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1857.md)
 
 ## This article points to following mitigation

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5059.md)
-* [Improved health information system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5060.md)
-* [Common standards for health data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4548.md)
+* [Investment in digital health infrastructure, adoption of interoperable systems, data sharing protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2596.md)
+* [Implement comprehensive testing and reporting strategies, improve data collection and analysis systems, and strengthen communication channels between healthcare providers and public health authorities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1861.md)
 * [Blockchain-based decentralized framework for health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_399.md)
-* [E-healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5061.md)
-* [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3783.md)
+* [Adoption of standard protocols and interfaces, development of interoperability standards.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2779.md)
+* [Strengthen coordination and communication between public health authorities and governments at both eu and national levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2112.md)
+* [Blockchain-enabled system for ehr exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_401.md)
 * [Strengthen public and universal health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_16.md)
-* [Integration of medical tools and devices through the internet](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5062.md)
-* [Effective community health extension system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5063.md)
+* [Implement self-health evaluation protocols, use online questionnaires or applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2793.md)
 * [Accelerated digital transformation of healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_675.md)
+* [Implementation of public health policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1112.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Partitioning to make anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5371.md)
 * [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1930.md)
+* [Corticosteroids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3130.md)
+* [Alarms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3204.md)
+* [Medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3095.md)
+* [Rodenticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2906.md)
+* [Snomed](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3425.md)
+* [Announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_776.md)
+* [Aeroponics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3223.md)
 * [Plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3598.md)
-* [Disinfection of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5372.md)
-* [Evacuations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5365.md)
-* [Tick control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4822.md)
-* [Steroids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5373.md)
-* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2193.md)
-* [Medical consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5374.md)
-* [Immediate relief](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5375.md)
+* [Medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1250.md)
 
 ## This Technology enables the following mitigations
 

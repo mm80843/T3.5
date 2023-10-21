@@ -33,6 +33,6 @@ Removal of SARS-CoV-2 and other microbial bioaerosols from the air, reducing the
 
 ## This Mitigation is enabled by the following technologies
 
-* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
 * [Portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2471.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
 

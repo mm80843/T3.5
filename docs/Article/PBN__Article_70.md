@@ -50,10 +50,10 @@ SARS-CoV-2 in wastewater: potential health risk, but also data source
 
 * [Gastrointestinal monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_999.md)
 * [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1000.md)
+* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
 * [Data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1001.md)
 * [Diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
 * [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_996.md)
-* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_997.md)
 * [Research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_997.md)
 

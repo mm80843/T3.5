@@ -10,8 +10,8 @@
 
 * [Varied content and quality of available video libraries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2539.md)
 * [Access restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_734.md)
-* [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3698.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3600.md)
+* [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3500.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3453.md)
 * [Limited site access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1515.md)
 * [Limited access to software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1973.md)
 * [Limited accessibility, security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3173.md)

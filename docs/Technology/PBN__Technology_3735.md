@@ -16,6 +16,6 @@
 * [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2969.md)
 * [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3692.md)
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
-* [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1316.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+* [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3699.md)
+* [Risk detection systems and drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2071.md)
 

@@ -34,10 +34,10 @@ Overview of the mitigation strategies for COVID-19 pandemic
 
 * [Ineffective implementation of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1027.md)
 * [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
+* [Reliance on herd immunity without proper control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1029.md)
 * [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1030.md)
 * [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1028.md)
 * [Lack of trust and transparency in mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1031.md)
-* [Reliance on herd immunity without proper control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1029.md)
 
 ## This article points to following mitigation
 

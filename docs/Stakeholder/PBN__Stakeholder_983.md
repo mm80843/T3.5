@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Supply chain organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_14.md)
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2638.md)
+* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2575.md)
 * [Supply chain professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_16.md)
 * [Supply chain partners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_296.md)
 * [Supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_15.md)
 * [Workers in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1384.md)
 * [Worker in global supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1765.md)
 * [Logistics companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_424.md)
-* [Local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2639.md)
+* [Local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2576.md)
 * [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_535.md)
 
 ## Risks that can be mitigated by this stakeholder
@@ -27,14 +27,14 @@
 * [Disrupted supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2310.md)
 * [Internal risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1757.md)
 * [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1754.md)
-* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
 * [Supply chain complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
+* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
 
 ## Risk affecting this stakeholder
 
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 * [Internal risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1757.md)
 * [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1754.md)
-* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
 * [Supply chain complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
+* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
 

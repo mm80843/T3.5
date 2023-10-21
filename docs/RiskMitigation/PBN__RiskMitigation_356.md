@@ -11,13 +11,13 @@
 * [Ensure adequate food production, import, storage, and transportation, prioritize vulnerable families, establish neighborhood food markets.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2442.md)
 * [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_285.md)
 * [Promote urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2890.md)
-* [Food parcels and free meals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4867.md)
 * [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_245.md)
-* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4868.md)
-* [Food security](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4869.md)
 * [Increase in food deliveries and availability of basic food products](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_679.md)
-* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4736.md)
+* [Provide food parcels and free meals, increase availability of basic food products, adapt delivery services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2398.md)
 * [Implement innovative demand and supply-side initiatives to build resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1490.md)
+* [Improve food systems planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_689.md)
+* [Transforming public places for essential uses, such as food distribution, medical support, etc.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1724.md)
+* [Improve self-sufficiency by enhancing shopping and recreation facilities within communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1553.md)
 
 ## Benefits linked to a risk
 

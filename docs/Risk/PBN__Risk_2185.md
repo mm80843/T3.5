@@ -10,7 +10,7 @@
 
 * [Eu2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2186.md)
 * [Eu3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
-* [Eu](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3902.md)
+* [Eu](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3574.md)
 * [Eu1: energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_193.md)
 * [Wc1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2191.md)
 * [Pc1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2193.md)
@@ -58,8 +58,8 @@ Ensure stable energy supply during emergencies
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

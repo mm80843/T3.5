@@ -10,12 +10,12 @@
 
 * [Safety risks for workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
 * [Maintaining safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2521.md)
-* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3859.md)
+* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3564.md)
 * [Safety and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2424.md)
 * [Safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1777.md)
 * [Occupational health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1847.md)
-* [Personal safety and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3857.md)
-* [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4346.md)
+* [Personal safety and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3562.md)
+* [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3610.md)
 * [Health and safety of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1549.md)
 
 ## Description of the risk

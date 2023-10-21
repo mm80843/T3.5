@@ -17,7 +17,7 @@
 * [Risk of rebound and resurgence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1302.md)
 * [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
 * [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2002.md)
-* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3719.md)
+* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
 
 ## Mitigations of this risk
 

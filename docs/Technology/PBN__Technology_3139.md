@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1485.md)
-* [Air sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3730.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2084.md)
-* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1747.md)
-* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3914.md)
-* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1844.md)
-* [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2119.md)
-* [Biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2410.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [Wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3138.md)
+* [Smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2979.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2372.md)
+* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2264.md)
+* [Occupancy sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_647.md)
 
 ## This Technology enables the following mitigations
 

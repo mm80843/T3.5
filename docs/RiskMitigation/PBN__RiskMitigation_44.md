@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3706.md)
-* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3707.md)
+* [Augment resident learning with simulation activities and deliberate practice.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1745.md)
+* [Provide alternative learning methods such as simulation and viewing high-quality surgical videos.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1740.md)
 * [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_981.md)
-* [Virtual assessments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3708.md)
-* [Virtual e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3709.md)
-* [Computer simulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3710.md)
-* [E-learning packages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3711.md)
-* [Virtual classrooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3696.md)
-* [Simulation software tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3712.md)
-* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3713.md)
+* [Provide virtual reality-based training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2735.md)
+* [Rapid development of virtual educational platforms, e-learning packages, virtual assessments.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2594.md)
+* [Provide digital literacy training and support programs for residents to improve their digital skills and knowledge.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3025.md)
+* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1125.md)
+* [Educating building occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_892.md)
+* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1126.md)
+* [Implement remote learning strategies, provide support for students and families during closures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2480.md)
 
 ## Benefits linked to a risk
 

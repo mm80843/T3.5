@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2578 
 
-# __Government programs__
+# __Supply chain tracking technologies__
 
 ## Category to which it belongs
 
-* [Public administrators and decision-makers responsible for creating and implementing government policies and regulations at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_410.md)
+* [Various players in the global supply chain, including retailers, suppliers, and logistics providers, work together to ensure effective procurement and distribution.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_435.md)
 
 ## Closest similar item
 
-* [Government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2580.md)
-* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2568.md)
-* [Funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2845.md)
-* [Government financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2846.md)
-* [Government funding](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2583.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [Social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2847.md)
-* [Public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2848.md)
-* [Government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [Government legislation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2571.md)
+* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2575.md)
+* [Supply chain organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_14.md)
+* [Supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_983.md)
+* [Supply chain partners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_296.md)
+* [Supply chain professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_16.md)
+* [Logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2580.md)
+* [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_535.md)
+* [Local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2576.md)
+* [Advanced logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2581.md)
+* [Supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_15.md)
 

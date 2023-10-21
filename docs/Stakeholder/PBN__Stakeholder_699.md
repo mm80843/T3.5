@@ -14,7 +14,7 @@
 * [Research organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_849.md)
 * [Project team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_620.md)
 * [Research institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1795.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2531.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2518.md)
 * [Researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [Management team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_292.md)
 * [Research projects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1464.md)

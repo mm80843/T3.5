@@ -33,6 +33,6 @@ Analyzing traffic patterns using Machine Learning algorithms to provide real-tim
 
 ## This Mitigation is enabled by the following technologies
 
-* [Traffic camera data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2765.md)
 * [Iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2754.md)
+* [Traffic camera data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2765.md)
 

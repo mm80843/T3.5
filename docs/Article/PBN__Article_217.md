@@ -49,12 +49,12 @@ A general modeling framework for exploring the impact of individual concern and 
 ## This article mentions these technologies
 
 * [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
 * [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1156.md)
-* [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
-* [Climate change mitigation techniques and mosquito control methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1465.md)
-* [Coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1468.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 * [Strengthen border control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1466.md)
 * [Investment in resources and training for vector control organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1467.md)
+* [Climate change mitigation techniques and mosquito control methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1465.md)
+* [Coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1468.md)
 

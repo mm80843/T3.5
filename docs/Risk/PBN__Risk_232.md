@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3990.md)
-* [Ensure adequate food production, import, storage, and transportation, prioritize vulnerable families, establish neighborhood food markets.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3991.md)
-* [Ensure food supply chains, promote sustainable agriculture, and provide food assistance and support to vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3992.md)
-* [Improve food systems planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3993.md)
-* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3994.md)
-* [Food parcels and free meals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3995.md)
-* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3996.md)
-* [Implement innovative demand and supply-side initiatives to build resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3997.md)
-* [Interruption of access to food for children from households dependent on school-feeding programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3535.md)
-* [Establishing makeshift neighborhood food markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3998.md)
+* [Food and nutrition security threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_236.md)
+* [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1856.md)
+* [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_777.md)
+* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
+* [Food supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3296.md)
+* [Limited access to healthy food](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1837.md)
+* [Homelessness and food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2466.md)
+* [Impact on food sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_482.md)
+* [Insufficient and inappropriate food provision](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3138.md)
+* [Limited food availability, distribution challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3032.md)
 
 ## Description of the risk
 

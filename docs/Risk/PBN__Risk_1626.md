@@ -42,8 +42,8 @@ Risk of virus transmission due to inadequate hand hygiene practices.
 ## Mitigations of this risk
 
 * [Promote proper hand hygiene practices through education and awareness campaigns, provide hand sanitization stations, and enforce hand hygiene protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3107.md)
-* [Promote and enforce proper hand hygiene practices, provide hand sanitizing stations throughout the building.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2180.md)
 * [Public awareness campaigns, availability of hand sanitizer and handwashing facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2553.md)
+* [Promote and enforce proper hand hygiene practices, provide hand sanitizing stations throughout the building.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2180.md)
 
 ## Name of the risk
 
@@ -67,9 +67,9 @@ Increased risk of infection if hands are not regularly washed or sanitized.
 ## People affected by this risk
 
 * [General population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
 * [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Especially those who do not practice proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1591.md)
 
 ## Technologies linked to the risk

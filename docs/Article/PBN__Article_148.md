@@ -33,8 +33,8 @@ Responsible Transport: A post-COVID agenda for transport policy and practice
 ## List of risks in an article
 
 * [Transport-related greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1213.md)
-* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1211.md)
 * [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1209.md)
+* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1211.md)
 * [Lack of access to private car](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1212.md)
 * [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1210.md)
 

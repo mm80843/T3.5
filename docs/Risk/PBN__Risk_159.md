@@ -41,8 +41,8 @@ New pathogens are constantly being discovered, leading to outbreaks and public h
 
 ## Mitigations of this risk
 
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
 * [Enhance surveillance systems, strengthen global cooperation, and invest in research and development.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2723.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
 
 ## Name of the risk
 

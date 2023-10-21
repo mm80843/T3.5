@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Data collection and reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4689.md)
-* [Research and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4690.md)
-* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
-* [Data management and recording systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4691.md)
-* [Data management and communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4583.md)
-* [Bioinformatics and genomic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4692.md)
-* [Software and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4693.md)
-* [Electronic health records and data tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4694.md)
-* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [Data collection and analysis methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1815.md)
+* [Data collection and analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_614.md)
+* [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_753.md)
+* [Data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2735.md)
+* [Research and data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1121.md)
+* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2568.md)
+* [Data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1001.md)
+* [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_758.md)
+* [Efficient data collection and processing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_177.md)
+* [Data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1976.md)
 
 ## This Technology enables the following mitigations
 

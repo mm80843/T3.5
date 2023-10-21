@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Internet of things iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2195.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4019.md)
 * [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2171.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [Iot data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4021.md)
 * [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3154.md)
+* [Iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2754.md)
+* [Smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2979.md)
 * [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_100.md)
-* [Iot for monitoring and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4112.md)
-* [Iot-based systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4020.md)
+* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1708.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
 
 ## This Technology enables the following mitigations
 

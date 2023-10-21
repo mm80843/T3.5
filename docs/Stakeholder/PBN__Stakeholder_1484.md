@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3044.md)
-* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3045.md)
-* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3049.md)
-* [Improved waste management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3048.md)
-* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3052.md)
-* [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3051.md)
-* [Inadequate waste management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3198.md)
-* [Enhance waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3199.md)
-* [Implement additional waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3200.md)
-* [Implementing effective waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3201.md)
+* [Waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2691.md)
+* [Waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1439.md)
+* [Waste management system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2476.md)
+* [Waste management organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2283.md)
+* [Waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2692.md)
+* [Waste management industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1584.md)
+* [Waste management authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_590.md)
+* [Waste management organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1044.md)
+* [Waste management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1487.md)
+* [Waste management authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2293.md)
 
 ## Risk affecting this stakeholder
 

@@ -12,12 +12,12 @@
 * [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2416.md)
 * [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [Improving ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3784.md)
+* [Mechanical ventilation system with balanced air distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2688.md)
+* [Implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
 * [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1292.md)
-* [State-of-the-art ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3782.md)
-* [Air ventilation control system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4590.md)
 * [Ventilation system modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3031.md)
 * [Mechanical and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2099.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
 
 ## This Technology enables the following mitigations
 

@@ -16,7 +16,7 @@
 * [Test kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3159.md)
 * [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
 * [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
-* [Diagnostic and testing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3911.md)
+* [Diagnostic and testing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3751.md)
 * [Rapid testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_28.md)
 
 ## This Technology enables the following mitigations

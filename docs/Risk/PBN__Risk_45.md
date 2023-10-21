@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Cultural change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3558.md)
 * [Lack of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2400.md)
 * [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
 * [Changes in use and behavior in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1453.md)
 * [Social and demographic change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_737.md)
-* [Social norms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3559.md)
 * [Social and psychological interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_859.md)
-* [Implementing social distancing measures, promoting good hygiene practices, and enforcing lockdowns or stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3560.md)
-* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3561.md)
+* [Implementing social distancing measures, promoting good hygiene practices, and enforcing lockdowns or stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3451.md)
 * [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
+* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
+* [Lack of standardization, concerns over ethics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2589.md)
+* [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2448.md)
 
 ## Mitigations of this risk
 

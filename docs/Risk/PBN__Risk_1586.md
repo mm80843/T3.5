@@ -65,8 +65,8 @@ Limited opportunities for growth and innovation.
 
 ## Technologies linked to the risk
 
-* [Digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
 * [Online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_907.md)
+* [Digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
 
 ## Property: has_RiskType
 

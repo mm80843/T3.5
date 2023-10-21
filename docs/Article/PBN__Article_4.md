@@ -40,8 +40,8 @@ Mapping research in logistics and supply chain management during COVID-19 pandem
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 * [Internal risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1757.md)
 * [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1754.md)
-* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
 * [Supply chain complexity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1756.md)
+* [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
 
 ## This article points to following mitigation
 

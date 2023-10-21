@@ -34,8 +34,8 @@ Use smart solutions to promote teleworking, telemedicine, and online platforms, 
 ## This Mitigation is enabled by the following technologies
 
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3329.md)
 * [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3328.md)
 

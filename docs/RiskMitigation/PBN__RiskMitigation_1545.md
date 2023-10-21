@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Invest in 5g infrastructure, expand network coverage, prioritize high-bandwidth areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1547.md)
-* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3308.md)
-* [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3617.md)
+* [Implement standardized data collection methods, invest in data integration platforms and tools.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1540.md)
+* [Invest in and develop effective technical systems , data collection and analysis, communication networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1646.md)
+* [Improve data standardization and interoperability, increase data quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2282.md)
 * [Investing in healthcare infrastructure, allocating resources for healthcare facilities, enhancing surveillance and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1615.md)
+* [Ensure anonymization of data, implement secure data-sharing protocols, and prioritize privacy and security.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1509.md)
 * [Standardize data protocols, promote data sharing and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1519.md)
-* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3310.md)
 * [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_665.md)
-* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3309.md)
-* [Enforce data sharing requirements, incentivize data sharing, improve legal and regulatory frameworks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1829.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3228.md)
+* [Increase the capacity of medical facilities, allocate resources efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1515.md)
+* [Invest in research and development, address technical challenges, encourage innovation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2783.md)
 
 ## Risks possibly mitigated by this Mitigation
 

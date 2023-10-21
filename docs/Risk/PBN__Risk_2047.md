@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3414.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3413.md)
+* [Ineffective implementation of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1027.md)
 * [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1922.md)
 * [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
-* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3420.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
-* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
 * [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1152.md)
 * [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2121.md)
-* [Implementing social distancing measures, reducing population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3422.md)
+* [Lack of social distancing implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1196.md)
+* [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
+* [Limited physical/social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_120.md)
 
 ## Description of the risk
 
@@ -58,8 +58,8 @@ Increased risk of disease transmission, overwhelming healthcare facilities.
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [General public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

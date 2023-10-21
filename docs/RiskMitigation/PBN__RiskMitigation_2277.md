@@ -11,13 +11,13 @@
 * [Promote home-based exercise programs, provide alternative modes of exercise that can be done at home.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1488.md)
 * [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2274.md)
 * [Promote alternative forms of exercise, encourage online supervised exercise and remote social interaction.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1489.md)
-* [Home exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4016.md)
 * [Home-based exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1173.md)
 * [Home-based exercises, online fitness classes, use of fitness apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1755.md)
 * [Home-based exercises and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_894.md)
-* [Exercising at home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4015.md)
 * [Encourage physical exercise at home, balance and flexibility training, muscle strength exercise, and endurance training.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1486.md)
-* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4013.md)
+* [Promotion of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_358.md)
+* [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1175.md)
+* [Promote healthy habits through education and awareness campaigns, provide support systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1939.md)
 
 ## Risks possibly mitigated by this Mitigation
 

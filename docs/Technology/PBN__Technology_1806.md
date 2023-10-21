@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Virtual tours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_440.md)
+* [Promotion of virtual tours and classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1876.md)
+* [Virtual tourism platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1700.md)
 * [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1231.md)
 * [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2053.md)
+* [Virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_628.md)
 * [Augmented / virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
-* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4362.md)
-* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4363.md)
-* [Virtual classrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2094.md)
-* [Virtual platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3759.md)
-* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3021.md)
-* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
-* [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2976.md)
+* [Virtual personal trainers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1074.md)
+* [Virtual meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3134.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_364.md)
 
 ## This technology is mentioned by
 

@@ -21,8 +21,8 @@
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Decline in retail sales](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2207.md)
 * [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2051.md)
+* [Decline in retail sales](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2207.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

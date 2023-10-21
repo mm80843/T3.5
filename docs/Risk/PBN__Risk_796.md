@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4014.md)
-* [Compliance with building codes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4017.md)
-* [Revision of building codes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4155.md)
-* [Building and housing reform](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4019.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
 * [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1845.md)
-* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3809.md)
 * [Difficulty in adapting to new rules and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2769.md)
 * [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
-* [Devising mitigation measures in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3868.md)
+* [Insufficient design guidelines for transformation, adaptation, and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_788.md)
 * [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
+* [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
+* [Changes in use and regulation of interior public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_917.md)
+* [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
 
 ## Mitigations of this risk
 

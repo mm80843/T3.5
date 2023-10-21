@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2833 
 
-# __Education initiatives__
+# __Or vacant lots__
 
 ## Category to which it belongs
 
-* [The diverse array of entities and initiatives involved in fostering learning, development, and knowledge-sharing within communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_439.md)
+* [The diverse group of individuals, organizations, and professionals involved in the study, development, and management of cities and their communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_409.md)
 
 ## Closest similar item
 
-* [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4200.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1623.md)
-* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4201.md)
-* [Education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3081.md)
-* [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4202.md)
-* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2691.md)
-* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3079.md)
-* [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2694.md)
-* [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4203.md)
-* [Increase public education and communication efforts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4204.md)
+* [Especially those in densely populated and low-income neighborhood](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2154.md)
+* [Residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1294.md)
+* [Especially those in densely populated and low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1224.md)
+* [Such as homes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1123.md)
+* [Especially those living in flats](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1106.md)
+* [Housing and property](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2397.md)
+* [Individuals living in apartments without balconies or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_610.md)
+* [Public areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_63.md)
+* [Especially those in occupied public setting](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2072.md)
+* [Commercial areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1295.md)
 

@@ -33,6 +33,6 @@ Use AI and IoT technologies to develop solutions for enforcing social distancing
 
 ## This Mitigation is enabled by the following technologies
 
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 * [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2149.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 

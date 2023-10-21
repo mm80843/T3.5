@@ -13,7 +13,7 @@
 * [Labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2805.md)
 * [Labour shortages, low productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2562.md)
 * [Difficulties in labor control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2809.md)
-* [Softening labor market impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3858.md)
+* [Softening labor market impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3563.md)
 * [Labour impact and job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_596.md)
 * [Economic recession for informal workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2707.md)
 * [Exploitation of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3339.md)

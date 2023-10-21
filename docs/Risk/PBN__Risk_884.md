@@ -13,11 +13,11 @@
 * [Efficient distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3311.md)
 * [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
 * [Inefficient space utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
-* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3750.md)
-* [Availability of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3639.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3476.md)
 * [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3248.md)
+* [Increased cost and workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2670.md)
 * [Inequitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2859.md)
-* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3751.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3522.md)
 
 ## Mitigations of this risk
 

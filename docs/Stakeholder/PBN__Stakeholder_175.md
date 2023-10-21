@@ -12,14 +12,14 @@
 
 ## Closest similar item
 
-* [Variability in disease severity in reinfected patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3221.md)
-* [High prevalence of obesity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3222.md)
-* [Changes in disease distribution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3223.md)
-* [Disease severity in re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3224.md)
-* [Limited consideration of mobility patterns and heterogeneity in interactions in macroscopic epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3225.md)
-* [Higher covid-19 hospitalizations and mortality among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3226.md)
-* [Gastrointestinal symptoms in covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3227.md)
-* [Increase in chronic diseases from sedentary lifestyles](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3228.md)
-* [Importation of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3229.md)
-* [Increased risk of obesity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3230.md)
+* [Individuals with comorbidities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1256.md)
+* [Especially those with respiratory and cardiovascular problems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_682.md)
+* [Patients with chronic conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1260.md)
+* [Blood recipients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1375.md)
+* [Especially those with respiratory and cardiovascular problem](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2031.md)
+* [People with pre-existing medical conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1318.md)
+* [Donor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2364.md)
+* [Individuals with pre-existing health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1564.md)
+* [Especially elderly and individuals with chronic conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_790.md)
+* [Individuals with immunosuppression and chronic low-grade inflammation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_459.md)
 

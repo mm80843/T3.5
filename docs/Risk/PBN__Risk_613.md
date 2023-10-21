@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3891.md)
-* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3892.md)
-* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3890.md)
-* [Improved waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3893.md)
-* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3894.md)
 * [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2406.md)
 * [Inadequate waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1066.md)
-* [Enhance waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3895.md)
-* [Implement additional waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3896.md)
-* [Implementing effective waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3897.md)
+* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_575.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3481.md)
+* [Wm3: waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_198.md)
+* [Wm2: waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_197.md)
+* [Wm1: waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_196.md)
+* [Wwm2: waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_191.md)
+* [Wwm3: waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_192.md)
+* [Wwm1: waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_190.md)
 
 ## Description of the risk
 
@@ -43,8 +43,8 @@ Increased waste generation, including potentially infected waste
 
 ## Mitigations of this risk
 
-* [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_236.md)
 * [Develop waste management strategies, including proper waste segregation and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2937.md)
+* [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_236.md)
 * [Develop waste separation and disinfection strategies, proper disposal and recycling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2895.md)
 * [Management of an increased amount of waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2071.md)
 * [Segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2165.md)
@@ -69,8 +69,8 @@ Improper waste management and potential virus spread
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1485.md)
 * [Waste management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1487.md)
 

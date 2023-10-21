@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Hand-washing facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4131.md)
-* [Increased provision of hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5276.md)
-* [Regular provision of hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5275.md)
-* [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3649.md)
-* [Hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5252.md)
+* [Provide an adequate number of hand washing stations and sanitizers at multiple locations on construction sites, and require regular hand hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1653.md)
+* [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_754.md)
 * [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1437.md)
-* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4106.md)
-* [Hand washing station](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5253.md)
-* [Installing extra hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5277.md)
+* [Promote wash interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1073.md)
+* [Implement strategies for reduced contact and improved hygiene, provide access to water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3048.md)
+* [Improve access to basic water and sanitation facilities in housing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1786.md)
 * [Enhanced cleaning and sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_641.md)
+* [Implementing proper sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_888.md)
+* [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_571.md)
+* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_216.md)
 
 ## Risks possibly mitigated by this Mitigation
 

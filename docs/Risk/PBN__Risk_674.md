@@ -17,7 +17,7 @@
 * [Potential false positive results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3368.md)
 * [Limited diagnostic and screening tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2161.md)
 * [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2567.md)
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4408.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3618.md)
 
 ## Mitigations of this risk
 

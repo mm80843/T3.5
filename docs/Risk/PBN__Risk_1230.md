@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4064.md)
-* [Occupancy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4065.md)
-* [Reduced occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4066.md)
-* [Limited occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4067.md)
 * [High occupant density in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1320.md)
-* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4068.md)
-* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4069.md)
-* [Reduction in commercial building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3989.md)
+* [Building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
+* [High occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
 * [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
-* [Occupant density control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4070.md)
+* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_16.md)
+* [Population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_495.md)
+* [Low residential density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_621.md)
+* [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
+* [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
+* [Impact of population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1714.md)
 
 ## Description of the risk
 

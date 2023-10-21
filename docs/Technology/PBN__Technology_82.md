@@ -12,12 +12,12 @@
 * [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1154.md)
 * [Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2035.md)
 * [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3103.md)
+* [Training and certification programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
+* [Online training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1699.md)
 * [Training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2682.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
-* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3802.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3749.md)
 * [Training materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1659.md)
-* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
+* [Safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1665.md)
 
 ## This Technology belongs to this TechGroup
 

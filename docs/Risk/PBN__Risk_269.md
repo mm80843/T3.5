@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Restrictions on shared facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4140.md)
-* [Restrictions on shared facilities and uses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3921.md)
-* [Restrictions on shared facilities, devices, and services.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4141.md)
-* [Shared facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4139.md)
-* [Restrictions on private gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4227.md)
-* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3471.md)
+* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
 * [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_522.md)
-* [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4228.md)
-* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3485.md)
+* [Limited access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
 * [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
+* [Changes in use and regulation of interior public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_917.md)
+* [Limited access nodes for better management of public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_263.md)
+* [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_272.md)
+* [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1946.md)
+* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
+* [Ineffective use of isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_547.md)
 
 ## Description of the risk
 

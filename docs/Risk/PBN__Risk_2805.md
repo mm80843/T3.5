@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Labour shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_730.md)
+* [Labour shortages, low productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2562.md)
+* [Shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3358.md)
+* [Difficulties in labor control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2809.md)
+* [Labour market challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_451.md)
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
-* [Ensure material supply chain resumes quickly, address labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4426.md)
-* [Softening labor market impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3858.md)
-* [Implementing strategies to cope with staff shortages and consider alternative staffing options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3662.md)
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3663.md)
-* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3864.md)
-* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4359.md)
-* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3964.md)
-* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4427.md)
-* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3440.md)
+* [Shortage of supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3252.md)
+* [Labour impact and job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_596.md)
+* [Unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_857.md)
+* [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
 
 ## Mitigations of this risk
 

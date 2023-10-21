@@ -16,7 +16,7 @@
 * [Reduce wildlife urban interfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_688.md)
 * [Enhancing and promoting alternative ways for people to connect with nature such as virtual tours, online exercises, and nature-based mindfulness practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2930.md)
 * [Remote exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1174.md)
-* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3688.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3232.md)
 * [Increase park access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1317.md)
 
 ## Benefits linked to a risk

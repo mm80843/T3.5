@@ -16,8 +16,8 @@
 * [Establish a one-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_264.md)
 * [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
 * [Spatial inequalities in mobility patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1204.md)
-* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
+* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3425.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3426.md)
 
 ## Mitigations of this risk
 

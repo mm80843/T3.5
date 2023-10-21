@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5101.md)
-* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5102.md)
-* [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5103.md)
-* [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5104.md)
-* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5105.md)
-* [Emergency preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5106.md)
-* [Planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5107.md)
-* [Emergency plan development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5108.md)
-* [Integrated management and planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5109.md)
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5110.md)
+* [Planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
+* [Contingency planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_633.md)
+* [Contingency planning frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1457.md)
+* [Preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2847.md)
+* [Event planning guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_546.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
+* [Participatory planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3420.md)
+* [Emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1498.md)
+* [Planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_382.md)
+* [Create emergency preparedness plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1379.md)
 
 ## This Technology enables the following mitigations
 

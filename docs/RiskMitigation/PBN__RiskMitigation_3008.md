@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Travel restrictions and border control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_437.md)
-* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4231.md)
+* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3320.md)
 * [Border control and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_94.md)
 * [Implement travel restrictions and controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2845.md)
 * [Strengthen border control measures and screening procedures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3009.md)
@@ -17,7 +17,7 @@
 * [Implementing travel restrictions, screening protocols, and quarantine measures for travelers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2713.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
 * [Implement travel restrictions, quarantine measures, and health screenings for individuals moving between cities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2196.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3380.md)
+* [Travel policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3182.md)
 
 ## Risks possibly mitigated by this Mitigation
 

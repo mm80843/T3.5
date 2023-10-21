@@ -53,7 +53,7 @@ Recently employed engineering techniques to reduce the spread of COVID-19 (coron
 * [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1502.md)
 * [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1504.md)
+* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
 * [Robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1503.md)
 * [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1500.md)
-* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
 

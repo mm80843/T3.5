@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_693.md)
-* [Strengthen social capital and community coherence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3907.md)
 * [Improve governance models to be more collaborative, proactive, and integrated, focus on participatory decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1648.md)
-* [Governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3902.md)
-* [Transparent governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3903.md)
 * [Strengthen governance structures, promote transparency and accountability, and invest in strong leadership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1836.md)
 * [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_61.md)
-* [Access to social capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3908.md)
-* [Social equity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3909.md)
 * [Foster collaboration and clear communication among stakeholders, establish effective project governance structure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1943.md)
+* [Develop incentive mechanisms, build trust through transparency and accountability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1549.md)
+* [Foster collaboration and coordination among stakeholders, align governance models with common public health goals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1645.md)
+* [Build trust, communicate transparently with the public](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1459.md)
+* [Seek alternative markets and partners, adapt business models, leverage social capital.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2130.md)
+* [Strengthen urban governance structures, improve data collection and analysis, involve communities in decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1452.md)
 
 ## Risks possibly mitigated by this Mitigation
 

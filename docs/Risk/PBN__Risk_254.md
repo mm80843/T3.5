@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4156.md)
-* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3627.md)
-* [Regular disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4157.md)
-* [Regular surface disinfection and use of self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4158.md)
-* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3628.md)
-* [Regular cleaning and disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4159.md)
-* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3629.md)
-* [Regular disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4160.md)
-* [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4161.md)
-* [Physical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4162.md)
+* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3471.md)
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3472.md)
+* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3473.md)
+* [Poor air and surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
+* [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3554.md)
+* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
+* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3585.md)
+* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
 
 ## Mitigations of this risk
 

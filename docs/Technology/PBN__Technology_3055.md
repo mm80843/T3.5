@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Utilize cross-population train/test-based models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5436.md)
 * [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
 * [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
+* [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1316.md)
+* [Ai/ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3732.md)
 * [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2034.md)
-* [Artificial intelligence/machine learning ai/ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4228.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
-* [Ai for outbreak prediction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5437.md)
-* [Ai for decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4229.md)
-* [Ai algorithms for screening and triage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4230.md)
+* [Ai-backed systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1312.md)
+* [Ai triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
+* [Ai support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
+* [Artificial intelligence and ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3049.md)
 
 ## This Technology enables the following mitigations
 

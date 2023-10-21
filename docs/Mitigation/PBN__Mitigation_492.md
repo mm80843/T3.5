@@ -34,6 +34,6 @@ Use eco-active materials, regular disinfection of frequently touched surfaces, p
 ## This Mitigation is enabled by the following technologies
 
 * [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2498.md)
-* [Eco-active materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2496.md)
 * [Photocatalytic paints](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2497.md)
+* [Eco-active materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2496.md)
 

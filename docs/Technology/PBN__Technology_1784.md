@@ -12,12 +12,12 @@
 * [Gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1734.md)
 * [Urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_619.md)
 * [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_122.md)
-* [Green rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4565.md)
+* [Communal rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1268.md)
 * [Rain gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3109.md)
-* [Domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4556.md)
-* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4557.md)
 * [Pocket gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_846.md)
-* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4558.md)
+* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1390.md)
+* [Terrace or balcony design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2477.md)
+* [Balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2918.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -22,11 +22,11 @@
 ## This Technology belongs to this TechnologySubgroup
 
 * [Communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 * [Community engagement initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1301.md)
+* [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
 * [Community amenities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_170.md)
 * [Health-focused design principles and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_722.md)
-* [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 * [Community events](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_171.md)
 * [Community education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1338.md)
 

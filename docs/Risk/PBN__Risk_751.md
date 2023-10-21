@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Data gaps and lack of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2871.md)
-* [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3698.md)
+* [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3500.md)
 * [Fragmented information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1068.md)
 * [Knowledge gap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3095.md)
 * [Data gaps and heterogeneity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_725.md)

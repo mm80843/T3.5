@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4352.md)
-* [Emergency management agency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4353.md)
-* [Emergency support and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4354.md)
-* [Temporary emergency measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4355.md)
-* [Emergency plan development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4356.md)
-* [Emergency preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4094.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
-* [Evacuations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4357.md)
+* [Public-health emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_331.md)
+* [Inefficient emergency response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3113.md)
+* [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1689.md)
 * [Insufficient electrical infrastructure in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_444.md)
 * [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
+* [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2416.md)
+* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
+* [Need for effective disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_422.md)
+* [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_22.md)
+* [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
 
 ## Mitigations of this risk
 

@@ -10,14 +10,14 @@
 
 * [Technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3100.md)
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2061.md)
+* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
 * [Network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2063.md)
+* [Smart infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2923.md)
 * [Infrastructure support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2183.md)
 * [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
+* [Telecommunication infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3576.md)
 * [Improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_669.md)
-* [Transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2141.md)
-* [Infrastructure improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2225.md)
-* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2171.md)
+* [Utilization of available infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1047.md)
 
 ## This Technology enables the following mitigations
 

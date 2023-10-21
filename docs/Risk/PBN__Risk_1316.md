@@ -62,9 +62,9 @@ Increased risk of contracting COVID-19 due to inadequate protection.
 
 ## Technologies linked to the risk
 
+* [Facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
 * [Face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_484.md)
 * [Gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_485.md)
-* [Facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
 * [Respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_483.md)
 * [Gowns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
 

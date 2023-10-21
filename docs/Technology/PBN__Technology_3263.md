@@ -10,14 +10,14 @@
 
 * [Education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_85.md)
 * [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
 * [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
 * [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
-* [Public education campaigns, dissemination of accurate information, and awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3981.md)
 * [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
-* [Disseminating accurate and up-to-date information, providing education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4096.md)
 * [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3279.md)
-* [Clear communication channels, public education campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3980.md)
-* [Public awareness campaigns, educational materials, and access to reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4097.md)
+* [Information and education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2770.md)
+* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_889.md)
+* [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_878.md)
 
 ## This Technology enables the following mitigations
 

@@ -14,8 +14,8 @@
 * [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1631.md)
 * [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
 * [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3153.md)
-* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4749.md)
 * [Testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
+* [Smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3718.md)
 * [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
 * [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2034.md)
 

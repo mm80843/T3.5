@@ -13,7 +13,7 @@
 * [Poor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2474.md)
 * [Insufficient air circulation and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1662.md)
 * [Insufficient air circulation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1761.md)
-* [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3755.md)
+* [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3526.md)
 * [Respiratory transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2476.md)
 * [Virus transmission via air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1624.md)
 * [Establish a one-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_264.md)

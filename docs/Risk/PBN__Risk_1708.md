@@ -13,11 +13,11 @@
 * [Challenges in contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_766.md)
 * [Lack of monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_24.md)
 * [Difficulty in contact tracing and cluster identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1000.md)
-* [Improve contact tracing systems, increase testing capacity, utilize digital tools for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3491.md)
+* [Improve contact tracing systems, increase testing capacity, utilize digital tools for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3431.md)
 * [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2116.md)
-* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
-* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3490.md)
-* [Implementation of contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3494.md)
+* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3425.md)
+* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
+* [Implementation of contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3434.md)
 
 ## Description of the risk
 

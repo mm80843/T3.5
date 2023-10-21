@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_508.md)
 * [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
-* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_510.md)
-* [Regular inspection and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_511.md)
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_352.md)
-* [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_351.md)
-* [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_507.md)
-* [Continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_512.md)
-* [Remote monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_279.md)
-* [Good maintenance practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_513.md)
+* [Monitoring systems and sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
+* [Technologies for monitoring and mitigation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_64.md)
+* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
+* [Mobile and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_107.md)
+* [Environmental and outdoor monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_91.md)
+* [Remote monitoring and patient management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_108.md)
+* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
+* [Support systems and resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_42.md)
+* [Cybersecurity and security protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_135.md)
 
 ## This Technology belongs to this TechnologySubgroup
 

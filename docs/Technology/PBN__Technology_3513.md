@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
 * [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2568.md)
 * [Collaboration mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2579.md)
 * [Impact investment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1695.md)

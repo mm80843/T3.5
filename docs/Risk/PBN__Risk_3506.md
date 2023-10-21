@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3506 
 
-# __Develop and utilize digital contact tracing tools, emphasize privacy and security of data__
+# __Infuse risk communication into policy decisions__
 
 ## Category to which it belongs
 
-* [Insufficient monitoring, ineffective tracing processes, privacy concerns, and reliance on teleconferencing tools for reduced human contact.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
+* [The extensive list encompasses a range of potential dangers, from health risks and psychological risks to security risks and safety concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4915.md)
-* [Digital contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4912.md)
-* [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3492.md)
-* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4916.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3497.md)
-* [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4926.md)
-* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3500.md)
-* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3504.md)
-* [Contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
-* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3502.md)
+* [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2383.md)
+* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1153.md)
+* [Treat risk communication as a process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3516.md)
+* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
+* [Provide information to reduce perceived risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3513.md)
+* [Unclear risk messages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2363.md)
+* [Limited information for policy decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1477.md)
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3502.md)
+* [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3501.md)
 

@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Diversifying suppliers, local sourcing, implementing contingency plans for supply chain disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2837.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3215.md)
+* [Diversify supply chains, localize production, enhance transparency and resilience in supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2902.md)
+* [Diversifying supply chains, increasing local production, implementing alternative sourcing strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2449.md)
+* [Diversifying suppliers and exploring local sourcing options, establishing alternative supply chains, and improving communication and coordination with suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2673.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3147.md)
 * [Diversifying supply chains and promoting domestic production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2608.md)
+* [Diversify supply sources, strengthen local production capabilities, implement emergency stockpiling measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1575.md)
+* [Diversify energy supply chains and increase local production capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2759.md)
+* [Diversify suppliers, optimize inventory management, establish alternative supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1902.md)
 * [Diversify supply chains, establish backup suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2144.md)
-* [Promote diversification of supplies and improve flexibility in sourcing inputs across multiple suppliers and countries.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2423.md)
-* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3216.md)
-* [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1040.md)
-* [Provide relief measures and financial support to manufacturing businesses, explore alternative supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2391.md)
-* [Build redundancies in supply chains and critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2814.md)
-* [Diversified and localized production systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4944.md)
 
 ## Risks possibly mitigated by this Mitigation
 

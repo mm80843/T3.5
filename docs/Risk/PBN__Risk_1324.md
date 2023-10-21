@@ -43,8 +43,8 @@ Covid-19 virus detected on various surfaces in the hospital.
 ## Mitigations of this risk
 
 * [Use of robot-controlled noncontact uv surface disinfection for fast and effective disinfection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3079.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_243.md)
 * [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1822.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_243.md)
 * [Use of hygienic materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_757.md)
 
 ## Name of the risk
@@ -73,9 +73,9 @@ Increased risk of transmission and infection.
 ## Technologies linked to the risk
 
 * [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
+* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1983.md)
 * [Self-cleaning surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_506.md)
 * [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
-* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1983.md)
 
 ## Property: has_RiskType
 

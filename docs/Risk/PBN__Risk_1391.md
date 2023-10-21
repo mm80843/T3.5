@@ -67,10 +67,10 @@ Higher risk of disease transmission, increased rates of waterborne diseases, dec
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Low-income communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_27.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [Public housing residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_217.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_898.md)
 * [Areas with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_899.md)
 

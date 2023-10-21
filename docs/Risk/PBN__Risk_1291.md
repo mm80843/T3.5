@@ -11,13 +11,13 @@
 * [Insufficient disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
 * [Inadequate cleaning and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3139.md)
 * [Lack of effective disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4168.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
 * [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
 * [Failure to disinfect and clean work areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1198.md)
 * [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_668.md)
 * [Poor air and surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
 * [Inadequate cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3408.md)
-* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3848.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3554.md)
 
 ## Description of the risk
 

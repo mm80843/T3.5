@@ -37,11 +37,11 @@ Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmissi
 
 ## List of risks in an article
 
+* [Harmful effects of uv-c light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
+* [Decoupling of larger aerosol particles from air stream in upper-room uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1168.md)
+* [Limited effectiveness of upper-room uvgi if room air is not well mixed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1167.md)
 * [Insensitive to variations in viral species](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1169.md)
 * [Insufficient evidence of uv-c effectiveness against sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
-* [Harmful effects of uv-c light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
-* [Limited effectiveness of upper-room uvgi if room air is not well mixed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1167.md)
-* [Decoupling of larger aerosol particles from air stream in upper-room uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1168.md)
 
 ## This article points to following mitigation
 

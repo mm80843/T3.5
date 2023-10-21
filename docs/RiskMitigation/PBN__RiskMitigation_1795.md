@@ -11,13 +11,13 @@
 * [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
 * [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_880.md)
 * [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
+* [Increase testing capacity and accessibility, prioritize testing for high-risk individuals and areas, utilize alternative testing methods such as wastewater-based surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3070.md)
 * [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2388.md)
 * [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1291.md)
 * [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2559.md)
 * [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1001.md)
 * [Wastewater-based surveillance wbs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1203.md)
-* [Wastewater-based monitoring wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
+* [Adjust wastewater temperature in data analysis to accurately estimate virus prevalence and inform public health responses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1956.md)
 
 ## Risks possibly mitigated by this Mitigation
 

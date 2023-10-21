@@ -24,6 +24,6 @@ Improves coordination and communication with suppliers
 
 ## Risks which can benefit from this action
 
-* [Revised supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_710.md)
 * [Diversifying suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_941.md)
+* [Revised supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_710.md)
 

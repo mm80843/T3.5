@@ -5,7 +5,7 @@
 ## Items covered in this category
 
 * [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_31.md)
-* [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_915.md)
-* [Use of signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_917.md)
-* [Hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_922.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_267.md)
+* [Use of signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_269.md)
+* [Hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_195.md)
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Transparent governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3549.md)
-* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3546.md)
-* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3547.md)
+* [Inadequate governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_631.md)
+* [Conflicting interests and governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1189.md)
+* [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1336.md)
 * [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_805.md)
-* [Standardized protocols and governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3551.md)
-* [Foster social capital, trust, and participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3555.md)
-* [Improve governance models to be more collaborative, proactive, and integrated, focus on participatory decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3552.md)
-* [Implementation of ets-based governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3556.md)
-* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
-* [National authorities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3557.md)
+* [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2039.md)
+* [Lack of coordinated global governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_44.md)
+* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1024.md)
+* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3447.md)
+* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1192.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2119.md)
 
 ## Description of the risk
 

@@ -15,7 +15,7 @@
 * [Insufficient electrical infrastructure in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_444.md)
 * [Limited access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1960.md)
 * [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
-* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3980.md)
+* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3579.md)
 * [Lack of communication and surveillance capabilities in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_445.md)
 * [Limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3058.md)
 

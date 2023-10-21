@@ -11,13 +11,13 @@
 * [Hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2955.md)
 * [Increased provision of hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_290.md)
 * [Regular provision of hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2083.md)
-* [Hand washing station](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4836.md)
-* [Hand washing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4843.md)
-* [Hand washing prevention](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4845.md)
-* [Washing hands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4844.md)
-* [Ensuring the availability of hand hygiene facilities handwashing stations or sanitizer dispensers , regular cleaning and disinfection of surfaces, and proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4838.md)
 * [Hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2789.md)
-* [Frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4846.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
+* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_247.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_507.md)
+* [Hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1164.md)
+* [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_855.md)
 
 ## This Technology enables the following mitigations
 

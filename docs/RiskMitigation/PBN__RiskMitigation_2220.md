@@ -13,7 +13,7 @@
 * [Implement public awareness campaigns, provide education on disease prevention and transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2198.md)
 * [Public education, awareness campaigns, and enforcement of preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2067.md)
 * [Conduct public awareness campaigns and education programs to promote prevention measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2434.md)
-* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3167.md)
+* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3128.md)
 * [Educate the public about preventive measures, promote health literacy, disseminate accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1816.md)
 * [Educate the public about disease prevention, promote awareness campaigns, provide accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1954.md)
 * [Implement targeted prevention measures and public health campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2538.md)

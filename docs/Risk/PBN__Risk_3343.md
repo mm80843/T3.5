@@ -17,7 +17,7 @@
 * [Exploitation of weaknesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)
 * [Financial vulnerability of smes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_678.md)
 * [False claims and harmful actions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2740.md)
-* [Business](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4713.md)
+* [Business](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3624.md)
 
 ## Mitigations of this risk
 

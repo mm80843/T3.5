@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
-* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_181.md)
-* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_182.md)
-* [Air sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_183.md)
-* [Other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_160.md)
-* [Indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_184.md)
-* [Air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_185.md)
-* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_186.md)
-* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_163.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_167.md)
+* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_133.md)
+* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_134.md)
+* [Air sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_135.md)
+* [Other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_119.md)
+* [Indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_136.md)
+* [Air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_137.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_138.md)
+* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_122.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_126.md)
 
 ## Technology in the TechnologyGroup
 
@@ -40,11 +40,11 @@
 * [Data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1486.md)
 * [Air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_588.md)
 * [Uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1625.md)
+* [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1142.md)
 * [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1485.md)
 * [Mixing fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
 * [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1012.md)
 * [Use of advanced hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1018.md)
 * [Improved negative ionizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
-* [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1142.md)
 * [Reducing chemical use in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1484.md)
 

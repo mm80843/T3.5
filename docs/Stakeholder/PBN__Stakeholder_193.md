@@ -29,16 +29,16 @@
 
 ## Closest similar item
 
-* [Healthcare information systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2584.md)
-* [Smart healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2585.md)
-* [Health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2586.md)
-* [Healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2587.md)
-* [Integrated healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2588.md)
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2589.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [Equitable healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2590.md)
-* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2591.md)
+* [Healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
+* [Healthcare information systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2540.md)
+* [Public and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_402.md)
+* [Smart healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2541.md)
+* [Health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2542.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_192.md)
+* [Healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2543.md)
+* [Integrated healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2544.md)
+* [Healthcare industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_423.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2545.md)
 
 ## Risks that can be mitigated by this stakeholder
 

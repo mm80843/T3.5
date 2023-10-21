@@ -13,7 +13,7 @@
 * [Chlorination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3168.md)
 * [Chlorine gas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3605.md)
 * [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
-* [Chlorine disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3997.md)
+* [Chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2299.md)
 * [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
 * [Sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
 * [Sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2710.md)

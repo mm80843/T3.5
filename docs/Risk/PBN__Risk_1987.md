@@ -10,7 +10,7 @@
 
 * [Workforce distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
 * [Job loss and exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2467.md)
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3663.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
 * [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1989.md)
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
 * [Unemployment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_857.md)

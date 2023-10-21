@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Enhancing accessibility for low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5196.md)
+* [Increased testing in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_683.md)
 * [Increased testing access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1374.md)
-* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4481.md)
-* [Enhance accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5197.md)
-* [Lack of access to testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4675.md)
-* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4672.md)
+* [Reduce social disparities in access to testing and care, address underlying social determinants.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2536.md)
+* [Develop and implement policies that address the specific needs of deprived areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2539.md)
+* [Increase testing capacity and accessibility, prioritize testing for high-risk individuals and areas, utilize alternative testing methods such as wastewater-based surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3070.md)
 * [Improve accessibility to ugs by creating inclusive infrastructure and providing transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2246.md)
-* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4461.md)
 * [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2126.md)
-* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4676.md)
+* [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1887.md)
+* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2720.md)
+* [Ensure healthcare accessibility and affordability, address social determinants of health, provide targeted support to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2273.md)
 
 ## Risks possibly mitigated by this Mitigation
 

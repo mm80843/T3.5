@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Users of healthcare technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_36.md)
-* [Healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2587.md)
+* [Healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2543.md)
 * [Healthcare practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_542.md)
 * [Physicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1481.md)
 * [Healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)

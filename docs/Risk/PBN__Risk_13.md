@@ -8,15 +8,15 @@
 
 ## Closest similar item
 
-* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
+* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3414.md)
 * [Social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1912.md)
 * [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
 * [Lockdown impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_886.md)
 * [Mental health issues due to extended lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_729.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
 * [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_889.md)
 * [The lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_872.md)
-* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
 * [Social equity disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1410.md)
 
 ## Mitigations of this risk

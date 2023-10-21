@@ -10,14 +10,14 @@
 
 * [Need for remote access and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_76.md)
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3395.md)
-* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3676.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3678.md)
-* [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3674.md)
-* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3675.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3488.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3490.md)
+* [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3486.md)
+* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3487.md)
 * [Remote work challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1853.md)
-* [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3672.md)
-* [Provide necessary equipment and support for remote work.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3673.md)
-* [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3679.md)
+* [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3484.md)
+* [Provide necessary equipment and support for remote work.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3485.md)
+* [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3491.md)
 
 ## Description of the risk
 

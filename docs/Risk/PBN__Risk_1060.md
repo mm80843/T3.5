@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Improve construction techniques and standards, ensure the use of high-quality building materials.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3632.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3474.md)
 * [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1083.md)
-* [Further develop and optimize off-site construction methods, invest in new materials and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3630.md)
-* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3809.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3810.md)
-* [Healthy building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3811.md)
-* [Lightweight structures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3812.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3813.md)
+* [Poor housing quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1077.md)
 * [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
 * [Decline in housing construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_304.md)
+* [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1724.md)
+* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
+* [Inefficiency in building systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_979.md)
+* [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2129.md)
 
 ## Description of the risk
 

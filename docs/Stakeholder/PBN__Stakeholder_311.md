@@ -21,5 +21,5 @@
 * [Retail businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_418.md)
 * [Businesses and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_262.md)
 * [Business](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2002.md)
-* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2648.md)
+* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2583.md)
 

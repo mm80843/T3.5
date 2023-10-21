@@ -16,7 +16,7 @@
 * [Improve detection methods and adjust decay kinetics for accurate estimation of virus prevalence in wastewater samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1959.md)
 * [Implement wastewater treatment processes to effectively remove sars-cov-2 rna from wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3037.md)
 * [Improved controls for monitoring virus recovery efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2.md)
-* [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3127.md)
+* [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3119.md)
 * [Developing effective virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_992.md)
 
 ## Benefits linked to a risk

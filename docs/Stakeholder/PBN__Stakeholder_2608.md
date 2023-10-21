@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2608 
 
-# __Mental health care support__
+# __Improved healthcare facilities__
 
 ## Category to which it belongs
 
-* [People requiring mental health support, including those with pre-existing conditions and marginalized communities with limited access to services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_425.md)
+* [Caregivers and beneficiaries in the healthcare field with a focus on personnel, infrastructure, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_404.md)
 
 ## Closest similar item
 
-* [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2609.md)
-* [Mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1029.md)
-* [Mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3434.md)
-* [Mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2610.md)
-* [Social and mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2611.md)
-* [Remote mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3447.md)
-* [Mental health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2612.md)
-* [Mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2613.md)
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
-* [Online mental health resources and support groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3445.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+* [Healthcare facilities and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_225.md)
+* [Healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1250.md)
+* [Medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_187.md)
+* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2618.md)
+* [Patients in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1165.md)
+* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2619.md)
+* [Equip healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2620.md)
+* [Occupant of commercial and healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2405.md)
+* [Healthcare facility planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1000.md)
 

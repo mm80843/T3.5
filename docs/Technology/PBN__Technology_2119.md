@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4824.md)
-* [Development and mass production of biosensor systems that are portable, economical, user-friendly, and designed for wastewater analysis.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4825.md)
-* [Development of biosensors specifically designed to overcome interferences from the wastewater matrix by implementing extensive sample clean-up processes.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4826.md)
-* [Wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3138.md)
-* [Smart sterilizer sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4827.md)
-* [Integrated sensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4695.md)
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2110.md)
-* [Biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2503.md)
-* [Sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_642.md)
-* [Paper-based sensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4828.md)
+* [Biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2410.md)
+* [Biosensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_239.md)
+* [Bio-sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2968.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3084.md)
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2372.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3731.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
 
 ## This Technology belongs to this TechGroup
 

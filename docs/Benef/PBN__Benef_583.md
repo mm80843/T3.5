@@ -16,8 +16,8 @@ Implementing smart city solutions for social distancing monitoring can provide r
 
 ## Stakeholders benefitting from this Benefit
 
-* [Private organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_247.md)
 * [Public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+* [Private organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_247.md)
 
 ## Risks which can benefit from this action
 

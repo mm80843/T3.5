@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_262.md)
-* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_263.md)
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_264.md)
-* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_265.md)
+* [Public health measures and regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
 * [Public health and safety measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_52.md)
-* [Educate the public about preventive measures, promote health literacy, disseminate accurate information](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_266.md)
-* [Preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_267.md)
-* [Implementing public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_268.md)
-* [Prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_269.md)
-* [Implementation of public health policies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_270.md)
+* [Public health measures and education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_47.md)
+* [Public health and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_51.md)
+* [Local government and health organizations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_98.md)
+* [Public health and community engagement](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_57.md)
+* [Health behavior change interventions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_164.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+* [Health education and community outreach](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_41.md)
+* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_59.md)
 
 ## This Technology belongs to this TechnologySubgroup
 
@@ -28,10 +28,10 @@
 * [Antiviral drug research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_836.md)
 * [Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_830.md)
 * [Antivirals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_827.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
 * [Personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_829.md)
 * [Livelihood support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_448.md)
 * [Capacity building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_449.md)
-* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
 * [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
 * [Tele-response bots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1168.md)
 

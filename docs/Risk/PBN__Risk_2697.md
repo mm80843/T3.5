@@ -8,10 +8,10 @@
 
 ## Closest similar item
 
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4361.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3616.md)
 * [Lack of distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3089.md)
 * [Inadequate unit sizes and layouts for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_958.md)
-* [Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3865.md)
+* [Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3566.md)
 * [Limited physical/social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_120.md)
 * [Lack of awareness and safe distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3155.md)
 * [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)

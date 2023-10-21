@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4740.md)
-* [Use of advanced hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4754.md)
 * [Using high-efficiency air filters such as merv-13 or hepa filters , regularly replacing and cleaning filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2385.md)
-* [High-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4694.md)
 * [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_373.md)
-* [High-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4454.md)
 * [Use high-efficiency filters for air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2868.md)
-* [High-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4695.md)
-* [Clean and functional hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4755.md)
 * [Use high-efficiency air filters in ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1808.md)
+* [Regular maintenance and cleaning of hvac systems, improved ventilation and filtration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2178.md)
+* [Improve central air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_188.md)
+* [Regular maintenance and cleaning of hvac systems, following proper cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2386.md)
+* [Optimize hvac system operations, implement energy-efficient measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2981.md)
+* [High-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3371.md)
+* [Use high-efficiency air filters, regularly replace filters, and properly maintain air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2307.md)
 
 ## Risks possibly mitigated by this Mitigation
 

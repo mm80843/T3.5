@@ -33,6 +33,6 @@ Implementing a patient monitoring system, including video surveillance, to allow
 
 ## This Mitigation is enabled by the following technologies
 
-* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2878.md)
 * [Monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2879.md)
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2878.md)
 

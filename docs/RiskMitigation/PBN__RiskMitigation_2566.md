@@ -15,9 +15,9 @@
 * [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3077.md)
 * [Design spaces that prioritize natural light and ventilation, incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2567.md)
 * [Incorporate outdoor spaces in building design and provide access to communal gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1787.md)
+* [Increase access to nature through balconies, green spaces, and windows, maximize daylight and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2226.md)
 * [Encourage indoor gardening, provide access to natural light, create green views in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2762.md)
-* [Outdoor design and spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4333.md)
-* [Gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4064.md)
+* [Design buildings with access to green spaces, views of nature, and incorporate biophilic design elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2569.md)
 
 ## Risks possibly mitigated by this Mitigation
 

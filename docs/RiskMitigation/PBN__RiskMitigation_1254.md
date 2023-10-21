@@ -13,7 +13,7 @@
 * [Incorporating disease prevention principles in urban design, improving ventilation and sanitation, promoting active transportation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1800.md)
 * [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1704.md)
 * [Promote safe physical activity guidelines and create opportunities for physical activity in public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2441.md)
-* [Public health and safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3165.md)
+* [Public health and safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3127.md)
 * [Incorporate health criteria into planning and design practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1971.md)
 * [Incorporate mental health considerations into urban planning, prioritize the creation of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1874.md)
 * [Repurposing large public spaces for emergency health purposes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1256.md)

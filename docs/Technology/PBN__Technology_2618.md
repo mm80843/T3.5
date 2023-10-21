@@ -17,7 +17,7 @@
 * [Diagnostic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3355.md)
 * [Multiplexed measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2252.md)
 * [Testing and analysis equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_763.md)
-* [Physical distancing tools and measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3948.md)
+* [Physical distancing tools and measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3761.md)
 
 ## This Technology enables the following mitigations
 

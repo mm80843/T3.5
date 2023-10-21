@@ -10,14 +10,14 @@
 
 * [Disease transmission through personal contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2743.md)
 * [Ineffective contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2055.md)
-* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3490.md)
-* [Regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3493.md)
+* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
+* [Regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3433.md)
 * [Increased contact with disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3068.md)
 * [Inaccurate symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_674.md)
-* [Regular testing and contact tracing programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3507.md)
+* [Regular testing and contact tracing programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3439.md)
 * [Lack of monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_24.md)
 * [Disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2433.md)
-* [Improve contact tracing systems, increase testing capacity, utilize digital tools for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3491.md)
+* [Improve contact tracing systems, increase testing capacity, utilize digital tools for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3431.md)
 
 ## Description of the risk
 

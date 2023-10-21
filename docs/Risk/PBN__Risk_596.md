@@ -16,7 +16,7 @@
 * [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1840.md)
 * [Labour shortages, low productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2562.md)
 * [Labour market challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_451.md)
-* [Softening labor market impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3858.md)
+* [Softening labor market impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3563.md)
 * [Labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2805.md)
 
 ## Description of the risk
@@ -42,8 +42,8 @@ Workers are impacted by job losses, reduced working hours, and reduced income du
 
 ## Mitigations of this risk
 
-* [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_833.md)
 * [Providing financial support for affected workers, exploring alternative job opportunities, implementing safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1899.md)
+* [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_833.md)
 
 ## Name of the risk
 

@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3598.md)
-* [Green plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5013.md)
 * [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1610.md)
 * [Plant installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3552.md)
+* [Plant roots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3599.md)
 * [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
-* [Presence of indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5016.md)
-* [Dense vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5014.md)
+* [Natural elements plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2262.md)
+* [Online plant stores](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_418.md)
 * [Indoor vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
-* [Inclusion of flowers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5020.md)
+* [Vertical gardening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_620.md)
 * [Gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1734.md)
 
 ## This Technology enables the following mitigations

@@ -10,7 +10,7 @@
 
 * [Implementing strategies to cope with staff shortages and consider alternative staffing options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1984.md)
 * [Implementing measures for staff protection, monitoring and support, flexible work arrangements.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2593.md)
-* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3764.md)
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3238.md)
 * [Strengthening local support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1121.md)
 * [Improve working conditions and support for healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2646.md)
 * [Providing financial support for affected workers, exploring alternative job opportunities, implementing safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1899.md)

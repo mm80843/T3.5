@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_734.md)
-* [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3526.md)
-* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3470.md)
+* [Select patient rooms that are large enough and equipped with necessary medical devices and utilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2183.md)
 * [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_755.md)
-* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4321.md)
-* [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3473.md)
+* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3201.md)
 * [Developing robust healthcare systems, stockpiling medical supplies, conducting regular drills and simulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1462.md)
-* [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3472.md)
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3239.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3240.md)
+* [Partition rooms or corridors to create anterooms for each patient room, ensuring proper design and layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2184.md)
+* [Designing personalized indoor controls at room and patient levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_546.md)
+* [Rethink internal layout designs, prioritize individual spaces, enhance safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1735.md)
+* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_503.md)
+* [Increase the capacity of medical facilities, allocate resources efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1515.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -17,7 +17,7 @@
 * [Expanding urbanization and international travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1983.md)
 * [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1210.md)
 * [Increased travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2960.md)
-* [Timely implementation of travel restrictions, social distancing, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3738.md)
+* [Timely implementation of travel restrictions, social distancing, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3510.md)
 
 ## Description of the risk
 

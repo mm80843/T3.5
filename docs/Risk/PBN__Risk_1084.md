@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3663.md)
-* [Efficient workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3960.md)
-* [Workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3961.md)
-* [Worker education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3962.md)
-* [Overhaul employment services and vocational training systems, coordinate efforts to retrain and redeploy workers.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3963.md)
-* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3964.md)
-* [Support to overstretched staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3965.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3966.md)
-* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3967.md)
-* [Ensure labor supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3968.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
+* [Workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_720.md)
+* [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
+* [Workforce distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
+* [Impact on future workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_503.md)
+* [Labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2805.md)
+* [Loss of healthcare workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_408.md)
+* [Decreased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2710.md)
+* [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2804.md)
+* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1465.md)
 
 ## Description of the risk
 

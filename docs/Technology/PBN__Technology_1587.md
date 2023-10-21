@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1592.md)
+* [Privacy regulations compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_575.md)
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2069.md)
 * [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
+* [Policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
 * [Privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1577.md)
 * [Regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3173.md)
 * [Data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2200.md)
-* [Data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
-* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1150.md)
-* [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1961.md)
+* [Software defined privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3362.md)
+* [Software-defined privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1578.md)
 
 ## This Technology belongs to this TechGroup
 

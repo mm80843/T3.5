@@ -10,12 +10,12 @@
 
 * [Service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3363.md)
 * [Ict service disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3294.md)
-* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3752.md)
+* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3523.md)
 * [Interrupted or delayed access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_99.md)
 * [Maintenance of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2311.md)
 * [Interrupted access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1771.md)
 * [Essential services maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_995.md)
-* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3720.md)
+* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3504.md)
 * [Automation disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
 * [Disruption of main system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
 

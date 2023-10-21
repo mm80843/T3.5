@@ -10,7 +10,7 @@
 
 * [Management problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_416.md)
 * [Insufficient preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2157.md)
-* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4171.md)
+* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
 * [Coordination problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2426.md)
 * [Difficulties in management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1514.md)
 * [Poor contact tracing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1708.md)

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4953.md)
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3239.md)
-* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3538.md)
-* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3547.md)
+* [Increase the capacity of medical facilities, allocate resources efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1515.md)
+* [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2990.md)
+* [Improve healthcare facilities, increase capacity and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2471.md)
+* [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1111.md)
+* [Increase healthcare resources and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2005.md)
+* [Increase healthcare capacity, allocate resources effectively](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2941.md)
+* [Implement crowd management strategies, such as appointment systems, queue management, and social distancing measures. increase the number of vaccination sites and healthcare personnel.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2505.md)
 * [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1453.md)
-* [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4954.md)
 * [Increase healthcare system capacity, implement triage protocols, and prioritize care for severe cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2314.md)
-* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3546.md)
-* [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3473.md)
-* [Predicting hospital capacity and balancing loads](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4955.md)
+* [Tracking patient numbers and capacity prediction; balancing patient load across multiple hospitals; tracking key medical personnel and prioritizing their access to necessary items](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3034.md)
 
 ## Risks possibly mitigated by this Mitigation
 

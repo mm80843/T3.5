@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4383.md)
-* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4384.md)
-* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4385.md)
-* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4386.md)
-* [Equitable vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4387.md)
-* [Continued implementation of npis, vaccination campaigns, promote hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4388.md)
-* [Vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4389.md)
-* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4390.md)
-* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4391.md)
-* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4392.md)
+* [Lack of herd immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2612.md)
+* [Reliance on herd immunity without proper control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1029.md)
+* [Lack of immunity in the population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2685.md)
+* [Lack of immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2731.md)
+* [Host immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1716.md)
+* [Lack of vaccine or cure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
+* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2614.md)
+* [Inadequate vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3186.md)
+* [Disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2433.md)
+* [Lack of preexisting immunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
 
 ## Mitigations of this risk
 

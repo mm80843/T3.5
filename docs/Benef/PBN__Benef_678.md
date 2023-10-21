@@ -38,6 +38,6 @@ Robust contract and claims management minimizes the risk of disputes and legal i
 * [Environmental measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1366.md)
 * [Robust contract and claims management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_673.md)
 * [Credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1395.md)
-* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1015.md)
 * [Personal measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1367.md)
+* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1015.md)
 

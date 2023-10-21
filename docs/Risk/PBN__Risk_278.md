@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4206.md)
-* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4202.md)
-* [Uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4204.md)
-* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4195.md)
-* [Use of uv-c germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4205.md)
+* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3595.md)
 * [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
-* [Uv-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4196.md)
-* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4203.md)
-* [Upper room germicidal uv fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4200.md)
-* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4250.md)
+* [Comparability of far-uvc light with conventional germicidal uv light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1223.md)
+* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3590.md)
+* [Uvgi systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
+* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3592.md)
+* [Lack of standardized tests and protocols for uvgi efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1742.md)
+* [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
+* [Ensure proper use and maintenance of uvgi systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3596.md)
+* [Harmful effects of uv-c light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
 
 ## Mitigations of this risk
 

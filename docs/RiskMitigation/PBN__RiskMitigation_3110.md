@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Face mask usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4378.md)
 * [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_698.md)
-* [Face masking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3877.md)
-* [Face mask](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5076.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4379.md)
-* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4376.md)
-* [Face masks with integrated sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5077.md)
 * [Face masks + 50% isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_699.md)
-* [Universal masking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5075.md)
-* [Facial mask detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4291.md)
+* [Develop cost-effective and easily replaceable filter systems for smart face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3112.md)
+* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1276.md)
+* [Mandatory wearing of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_745.md)
+* [Implement physical distancing measures and enforce face mask usage in public transportation. promote alternative modes of transportation such as biking and walking.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3085.md)
+* [Use of face masks, social distancing, and proper hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2079.md)
+* [Mandatory use of masks,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_972.md)
+* [Implement widespread testing and contact tracing measures, promote mask-wearing and physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1870.md)
+* [Adherence to safety measures such as wearing masks and practicing social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1690.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -11,13 +11,13 @@
 * [Legal issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
 * [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
 * [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
+* [Contractual problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_731.md)
 * [Access to legal representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1180.md)
+* [Contractual issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_556.md)
+* [Lack of legal protections and financial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1177.md)
 * [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2108.md)
 * [Varying legal frameworks, sociopolitical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2595.md)
-* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
-* [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
-* [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
+* [Financial problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_415.md)
 
 ## Mitigations of this risk
 

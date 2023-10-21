@@ -62,8 +62,8 @@ Increased risk of rapid and widespread transmission of the virus across regional
 
 ## Technologies linked to the risk
 
-* [Use of digital communication tools for cross-regional collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_559.md)
 * [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_560.md)
+* [Use of digital communication tools for cross-regional collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_559.md)
 
 ## Property: has_RiskType
 

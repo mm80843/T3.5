@@ -12,7 +12,7 @@
 * [Reduction in tourism revenue for pcas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
 * [Impact of economic recovery responses on pcas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
 * [Increase in local opportunity cost for pca-adjacent communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3753.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
 * [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2128.md)
 * [Declining funding flows](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2549.md)
 * [Reduction of just transition fund in recovery plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2813.md)

@@ -16,7 +16,7 @@
 * [Improved hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_660.md)
 * [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_194.md)
 * [In hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_681.md)
-* [Hvac and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3850.md)
+* [Hvac and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3756.md)
 * [Air-conditioning system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2525.md)
 
 ## This Technology enables the following mitigations

@@ -15,7 +15,7 @@
 * [Public criticism of funding plans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2811.md)
 * [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
 * [Difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2134.md)
-* [Smes’ difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4463.md)
+* [Smes’ difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3623.md)
 * [Classical format of research funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_819.md)
 
 ## Description of the risk
@@ -40,8 +40,8 @@ Startups face difficulties in accessing capital for recovery and growth.
 
 ## Mitigations of this risk
 
-* [Bricolage crisis response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_786.md)
 * [Explore alternative funding options, build strong investor relationships.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2131.md)
+* [Bricolage crisis response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_786.md)
 
 ## Name of the risk
 

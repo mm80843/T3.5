@@ -10,13 +10,13 @@
 
 * [Challenges in public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_520.md)
 * [Public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_718.md)
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3599.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3600.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3453.md)
 * [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
 * [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_749.md)
 * [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1608.md)
 * [Surveillance and personal data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
-* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4229.md)
+* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3601.md)
 * [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2329.md)
 
 ## Mitigations of this risk

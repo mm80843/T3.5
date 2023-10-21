@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_787.md)
-* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4037.md)
-* [Applying antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4038.md)
 * [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1023.md)
-* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4039.md)
-* [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4040.md)
 * [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3318.md)
 * [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_228.md)
-* [Antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4041.md)
 * [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2664.md)
+* [Antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3061.md)
+* [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3442.md)
+* [Anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2666.md)
+* [Selection of anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1727.md)
+* [Surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_791.md)
 
 ## This Technology enables the following mitigations
 

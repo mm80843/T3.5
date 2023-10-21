@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Implement encryption, anonymity, and biometrics, establish clear data control policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1510.md)
-* [Data ownership decentralization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3917.md)
 * [Clear guidelines and regulations on data usage, decentralization of data ownership.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1682.md)
 * [Implement strong data protection measures, obtain consent, and ensure data anonymity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2776.md)
 * [Implement strong data protection measures, ensure transparency and consent, use decentralized and secure systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2272.md)
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3576.md)
-* [Anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3581.md)
-* [Enforcing data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3327.md)
-* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3585.md)
+* [Implement strong security measures, anonymize and encrypt data, and obtain user consent for data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1702.md)
+* [Implementation of strict security measures, encryption, anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2356.md)
 * [Implement robust security measures, use encryption and anonymization techniques, obtain informed consent from users, comply with data protection regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2571.md)
+* [Strong data encryption, secure data storage, consent-based data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1680.md)
+* [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1434.md)
+* [Implement privacy protection measures, obtain consent, anonymize data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2711.md)
 
 ## Benefits linked to a risk
 

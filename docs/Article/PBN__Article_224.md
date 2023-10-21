@@ -80,7 +80,7 @@ Building Transformation for Precautionary Measures against COVID-19 Pandemic: Ca
 * [Economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1599.md)
 * [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_532.md)
 * [Smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1598.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
 * [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
 * [Expert guidance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1600.md)
 

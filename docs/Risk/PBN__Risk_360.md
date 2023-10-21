@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4432.md)
+* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3529.md)
 * [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2159.md)
 * [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1461.md)
-* [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4433.md)
-* [Healthcare system preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3759.md)
 * [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2416.md)
-* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3488.md)
-* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3980.md)
-* [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4434.md)
-* [Field hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4435.md)
+* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3579.md)
+* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
+* [Inadequate ventilation in hospital settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1760.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
+* [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_22.md)
+* [Lack of capacity in traditional hospitals during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_441.md)
 
 ## Mitigations of this risk
 

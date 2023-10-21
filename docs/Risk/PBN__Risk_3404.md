@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Air leakage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3406.md)
-* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4290.md)
+* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3605.md)
 * [Insufficient filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1420.md)
 * [Inadequate air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1727.md)
 * [Ineffective air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1313.md)

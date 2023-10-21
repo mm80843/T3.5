@@ -29,6 +29,6 @@ Increased testing in densely populated areas leads to better control of the pand
 
 * [Improved access to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_686.md)
 * [Health-centric design criteria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1297.md)
-* [Including health considerations in public space design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1254.md)
 * [Increased testing in densely pop.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_684.md)
+* [Including health considerations in public space design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1254.md)
 

@@ -10,7 +10,7 @@
 
 * [Visitors of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1507.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
-* [Residents/visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2727.md)
+* [Residents/visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2606.md)
 * [Residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2356.md)
 * [All residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_509.md)
 * [Visitors to public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_765.md)

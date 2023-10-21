@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Centralized database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5414.md)
-* [Cloud service and database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5151.md)
-* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4151.md)
-* [Develop tools and platforms for easy access to data from multiple sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5266.md)
-* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4657.md)
-* [Local data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5415.md)
-* [Clinical data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5416.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2842.md)
-* [Develop platforms for real-time data collection and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5417.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
+* [Database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2611.md)
+* [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
+* [Open-access databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_784.md)
+* [Research databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2562.md)
+* [Knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2157.md)
+* [Data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2735.md)
+* [Data access platforms and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1967.md)
+* [Open data platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_282.md)
+* [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_758.md)
+* [Mobile apps for data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1825.md)
 
 ## This Technology enables the following mitigations
 

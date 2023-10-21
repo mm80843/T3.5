@@ -17,7 +17,7 @@
 * [Building health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1094.md)
 * [Inequalities in smart city development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
 * [Open green spaces in urban periphery providing resilience to public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_893.md)
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3422.md)
 
 ## Mitigations of this risk
 

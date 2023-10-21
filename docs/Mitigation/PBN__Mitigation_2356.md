@@ -33,6 +33,6 @@ Remote provision of healthcare and work, reducing disease transmission risk
 
 ## This Mitigation is enabled by the following technologies
 
-* [Teleoperation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3697.md)
 * [High-speed communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3698.md)
+* [Teleoperation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3697.md)
 

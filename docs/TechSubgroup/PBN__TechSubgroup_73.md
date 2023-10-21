@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Regular cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_422.md)
-* [Enhanced cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_423.md)
-* [Implement improved cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_424.md)
-* [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_425.md)
 * [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_167.md)
 * [Disinfection and cleaning techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_15.md)
-* [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_426.md)
-* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_427.md)
-* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_428.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_429.md)
+* [Purification and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
+* [Disinfection equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
+* [Hygiene and sanitation practices and protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+* [Cleaning supplies and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_61.md)
+* [Sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_129.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+* [Infectious agents management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_187.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
 
 ## This Technology belongs to this TechnologySubgroup
 

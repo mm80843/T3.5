@@ -12,16 +12,16 @@
 
 ## Closest similar item
 
-* [Community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2593.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2728.md)
-* [Community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2592.md)
-* [Fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2729.md)
-* [Community mobilization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2730.md)
-* [Community education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2731.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2657.md)
-* [Community mobilization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2732.md)
-* [Community engagement initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2733.md)
-* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
+* [Community organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2336.md)
+* [Social organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1489.md)
+* [Organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
+* [Community association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2320.md)
+* [Community associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
+* [Social organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2353.md)
+* [Community groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1312.md)
+* [Organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1864.md)
+* [Community engagement organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1066.md)
+* [Community organizer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2318.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -63,8 +63,10 @@
 * [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2056.md)
 * [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1131.md)
 * [Impact of social distancing and home confinement on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1965.md)
-* [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
+* [Systemic vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2326.md)
+* [Inequality in access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
 * [High costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2251.md)
+* [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
 * [Loss of family or friends and economic well-being due to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1703.md)
 * [Risk of high fatality rate in vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1370.md)
 * [Transmission vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
@@ -76,16 +78,14 @@
 * [Limited access to ugs for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2232.md)
 * [Uneven distribution of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1675.md)
 * [Lack of ugs during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1678.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
 * [Limited capacity to comply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2254.md)
-* [Systemic vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2326.md)
 * [Mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2215.md)
-* [Inequality in access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
 * [Incidence disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1914.md)
 * [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2006.md)
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
 * [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
-* [Frustration and boredom](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2032.md)
 * [Inequitable access to virtual community spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2300.md)
+* [Frustration and boredom](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2032.md)
 * [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2301.md)
 
 ## This Stakeholder belongs to this StakeholderGroup

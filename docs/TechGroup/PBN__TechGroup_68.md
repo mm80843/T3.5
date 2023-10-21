@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) >> Individual ID:PBN__TechGroup_68 
 
-# __Ai__
+# __Educational websites__
 
 ## Category to which it belongs
 
-* [Artificial intelligence encompasses a wide range of technologies, including tools, algorithms, and support systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_305.md)
+* [Valuable digital platforms for learning and accessing educational materials and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_338.md)
 
 ## Closest similar item
 
-* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_69.md)
-* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_187.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_72.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_70.md)
-* [Ai for decision-making](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_188.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_33.md)
-* [Artificial intelligence/machine learning ai/ml](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_189.md)
-* [Ai/ml/dl](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_190.md)
-* [Implementation of ai technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_191.md)
-* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_192.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
+* [Online educational materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_73.md)
+* [Online educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_71.md)
+* [Education resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_69.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_70.md)
+* [Education materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_72.md)
+* [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_74.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_75.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_45.md)
 

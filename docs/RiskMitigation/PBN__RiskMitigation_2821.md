@@ -11,7 +11,7 @@
 * [Credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1395.md)
 * [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_943.md)
 * [Implement stricter lending criteria, enhance credit risk assessment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2822.md)
-* [Develop sound credit guarantee schemes with varying guarantee ratios based on banks’ financial profile](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5194.md)
+* [Develop sound credit guarantee schemes with varying guarantee ratios based on banks’ financial profile](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3394.md)
 * [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2824.md)
 * [Implement policies to support revenue generation and payment flexibility.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2519.md)
 * [Central bank interventions, liquidity injections, fiscal stimulus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2587.md)

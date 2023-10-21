@@ -16,7 +16,7 @@
 * [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1689.md)
 * [Lack of global leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3342.md)
 * [Lack of coordinated global governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_44.md)
-* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3717.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3501.md)
 * [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_333.md)
 
 ## Description of the risk

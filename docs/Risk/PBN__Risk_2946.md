@@ -16,7 +16,7 @@
 * [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1069.md)
 * [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3247.md)
 * [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
-* [Data management and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3610.md)
+* [Data management and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3461.md)
 * [Breach of confidentiality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3319.md)
 
 ## Mitigations of this risk

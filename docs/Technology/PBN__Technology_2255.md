@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Data mining and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4653.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
 * [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2033.md)
 * [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2387.md)
-* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4657.md)
-* [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4652.md)
-* [Data mining for insights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5172.md)
-* [Statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_357.md)
-* [Machine learning methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2538.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
-* [Ai algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5173.md)
+* [Data mining techniques and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3053.md)
+* [Data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1976.md)
+* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2568.md)
+* [Data science](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2430.md)
+* [Spatial data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2435.md)
+* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3746.md)
+* [Data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_297.md)
 
 ## This Technology enables the following mitigations
 

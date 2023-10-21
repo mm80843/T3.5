@@ -11,13 +11,13 @@
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
 * [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2734.md)
 * [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2762.md)
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1353.md)
 * [Difficulty in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
+* [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_397.md)
+* [Lack of social interaction and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1948.md)
 * [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1747.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3796.md)
+* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2868.md)
 * [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_853.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2435.md)
-* [Communication and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3706.md)
-* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3716.md)
 
 ## Description of the risk
 

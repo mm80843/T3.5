@@ -10,13 +10,13 @@
 
 * [Respiratory illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2862.md)
 * [Respiratory transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2476.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3785.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3533.md)
 * [Respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2472.md)
 * [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3004.md)
 * [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
 * [Overwhelmed respiratory isolation capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1278.md)
 * [Spread through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1730.md)
-* [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3876.md)
+* [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3568.md)
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
 
 ## Mitigations of this risk

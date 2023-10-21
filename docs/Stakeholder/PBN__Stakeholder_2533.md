@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2533 
 
-# __Research studies__
+# __Government legislation__
 
 ## Category to which it belongs
 
-* [The knowledge-seeking community, from scientists to fact-checkers, investigates, studies, and explores various subjects and phenomena.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_405.md)
+* [Public administrators and decision-makers responsible for creating and implementing government policies and regulations at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_410.md)
 
 ## Closest similar item
 
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2531.md)
-* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
-* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2532.md)
-* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2535.md)
-* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3008.md)
-* [Research and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3472.md)
-* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3474.md)
-* [Research priorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3473.md)
-* [Marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3105.md)
-* [Evidence-based research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3476.md)
+* [Government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2539.md)
+* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2530.md)
+* [Government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [Government authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1608.md)
+* [Government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2641.md)
+* [Government programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2640.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [State government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1621.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 

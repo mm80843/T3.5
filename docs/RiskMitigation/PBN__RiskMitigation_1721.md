@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_323.md)
-* [Health checkpoints set up at terminals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4973.md)
-* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4976.md)
-* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3155.md)
-* [Monitoring mobility metrics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4970.md)
+* [Continuously improve location tracking algorithms, ensure reliable bluetooth connectivity, conduct regular testing and updates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2572.md)
+* [Providing accurate and up-to-date information, offering flexible travel options, and ensuring efficient transportation and service operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2209.md)
+* [Implement measures to control and monitor human movement, such as travel restrictions and enhanced surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2828.md)
+* [Conduct timely close contact tracing through interviews and cctv footage, maintain records of passenger names and seat numbers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2796.md)
+* [Logistical tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1409.md)
+* [Establish clear performance expectations, regular check-ins, and project milestones. implement software for monitoring progress, communication, and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2585.md)
+* [Real-time passenger information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_740.md)
 * [Continuously monitor and adjust policies based on the situation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3012.md)
 * [Implementing crowd control measures such as capacity limits, timed entry systems, one-way circulation, and designated waiting areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2233.md)
-* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_664.md)
-* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3158.md)
-* [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4977.md)
 
 ## Risks possibly mitigated by this Mitigation
 

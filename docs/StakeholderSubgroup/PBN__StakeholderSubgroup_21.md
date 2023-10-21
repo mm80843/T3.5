@@ -22,8 +22,8 @@
 ## Stakeholders in this stakeholder subgroup
 
 * [Domestic violence victims in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1486.md)
-* [Teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
 * [Professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1190.md)
+* [Teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
 * [Network administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1721.md)
 * [Project administration team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_321.md)
 * [Project developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_902.md)
@@ -32,6 +32,7 @@
 * [University staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1708.md)
 * [Restaurant staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1766.md)
 * [Office workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_129.md)
+* [Retail workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1724.md)
 * [Office worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1666.md)
 * [Office managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1285.md)
 * [Compliance officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1435.md)
@@ -53,7 +54,6 @@
 * [Nurses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_949.md)
 * [Nurse](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1737.md)
 * [Worker in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1642.md)
-* [Retail workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1724.md)
 * [Retail worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1645.md)
 * [Grocery store workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1757.md)
 * [Restaurant workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1662.md)
@@ -73,6 +73,8 @@
 * [Frontline worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1643.md)
 * [Transportation workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1358.md)
 * [Transportation worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1665.md)
+* [Cleaning service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1589.md)
+* [Cleaning service provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1749.md)
 * [Remote worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1719.md)
 * [Hvac specialist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1688.md)
 * [Hvac engineer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1727.md)
@@ -98,7 +100,5 @@
 * [Performer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1692.md)
 * [Plumbing professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1588.md)
 * [Plumbing professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1698.md)
-* [Cleaning service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1589.md)
-* [Cleaning service provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1749.md)
 * [Service industry worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1695.md)
 

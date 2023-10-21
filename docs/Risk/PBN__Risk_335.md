@@ -9,18 +9,18 @@
 ## Closest similar item
 
 * [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1030.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4315.md)
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3393.md)
-* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4393.md)
 * [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
-* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4317.md)
-* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4312.md)
-* [Rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4394.md)
-* [Screening masses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4395.md)
-* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4396.md)
+* [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3116.md)
+* [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1495.md)
+* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2681.md)
+* [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2567.md)
+* [Slow testing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_925.md)
+* [Lack of testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_543.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3618.md)
 
 ## Mitigations of this risk
 
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_441.md)
 * [Regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_440.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_441.md)
 

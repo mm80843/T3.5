@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Clinical data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4176.md)
-* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3539.md)
-* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3324.md)
-* [Increased sharing of scientific data by healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5064.md)
-* [Equitable healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3325.md)
+* [Blockchain-based medical record management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1057.md)
 * [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_504.md)
-* [Healthcare access and early treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5065.md)
-* [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3544.md)
+* [Tracking patient numbers and capacity prediction; balancing patient load across multiple hospitals; tracking key medical personnel and prioritizing their access to necessary items](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3034.md)
+* [Ensuring equitable access to healthcare services and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2607.md)
 * [Ensure access to information and support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1140.md)
-* [Tracking medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5066.md)
+* [Ensuring access to healthcare and accurate information, providing support and resources, addressing social inequities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2332.md)
+* [Adhere to privacy policies, standardize and regulate healthcare technology, obtain legal advice](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2744.md)
+* [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_474.md)
+* [Patient tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1408.md)
+* [Accurate and reliable medical data communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_398.md)
 
 ## Benefits linked to a risk
 

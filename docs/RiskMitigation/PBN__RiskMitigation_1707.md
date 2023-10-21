@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Evaluating control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3952.md)
+* [Control for confounding factors in analysis, use multivariable regression](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1708.md)
+* [Forced experimentation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_431.md)
+* [Consider implications for design, conduct, and interpretation of research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1385.md)
+* [Improve testing frequency and accuracy, conduct seroprevalence surveys.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2511.md)
 * [Optimizing experimental conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2987.md)
+* [Combine direct measurements with numerical simulations to inform decision-making, conduct rigorous study on intervention effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2007.md)
 * [Monitor reactions, provide psychosocial support and assistance, modify expectations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2495.md)
-* [Adjusting research design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4961.md)
 * [Conduct studies in diverse geographic regions to obtain more representative data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1718.md)
-* [Reporting study conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4182.md)
 * [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_62.md)
-* [Collect more data, conduct larger studies for more solid conclusions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2213.md)
-* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4465.md)
-* [Preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4264.md)
+* [Promoting regular testing, contact tracing, and adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1701.md)
 
 ## Risks possibly mitigated by this Mitigation
 

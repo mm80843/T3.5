@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Engagement of society](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4764.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4765.md)
-* [Education and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4766.md)
 * [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2435.md)
-* [Public engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4767.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3796.md)
-* [Public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4768.md)
-* [Citizen engagement and participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4769.md)
-* [Human interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3972.md)
-* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4770.md)
+* [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
+* [Lack of community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2125.md)
+* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
+* [Faculty engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1264.md)
+* [Lack of awareness or engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2853.md)
+* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
+* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2734.md)
+* [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
 
 ## Description of the risk
 

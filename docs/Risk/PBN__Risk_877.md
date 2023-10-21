@@ -11,13 +11,13 @@
 * [Privacy and surveillance concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2048.md)
 * [Privacy concerns and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_582.md)
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3508.md)
+* [Surveillance and personal data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
 * [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
 * [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2059.md)
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3599.md)
-* [Implementation of privacy safeguards, transparent and accountable surveillance practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3510.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3600.md)
-* [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
+* [Implementation of privacy safeguards, transparent and accountable surveillance practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3440.md)
+* [Inadequate surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1501.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3453.md)
 
 ## Description of the risk
 
@@ -51,8 +51,8 @@ Loss of privacy, potential misuse of personal data, erosion of civil liberties
 ## Stakeholders who can mitigate this risk
 
 * [Government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_973.md)
-* [Technology companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_717.md)
 * [Civil society organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_232.md)
+* [Technology companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_717.md)
 
 ## Articles mentionning the risk
 

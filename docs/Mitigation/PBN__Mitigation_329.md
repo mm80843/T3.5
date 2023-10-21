@@ -33,6 +33,6 @@ Enables patients to recover at home while being monitored by wearables and recal
 
 ## This Mitigation is enabled by the following technologies
 
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
 * [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
 

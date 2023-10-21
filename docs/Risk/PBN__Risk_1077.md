@@ -15,7 +15,7 @@
 * [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
 * [Decline in housing construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_304.md)
 * [Decline of public and social housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_385.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3814.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
 * [Inadequate housing hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_573.md)
 * [Low residential density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_621.md)
 

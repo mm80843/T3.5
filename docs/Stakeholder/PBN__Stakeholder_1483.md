@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2745.md)
+* [Facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1906.md)
+* [Facilities management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_656.md)
+* [Commercial facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_466.md)
+* [Public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2607.md)
+* [Facility management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_653.md)
 * [Medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_187.md)
 * [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2800.md)
-* [Research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2801.md)
-* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2566.md)
-* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2591.md)
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2802.md)
-* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2792.md)
-* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_885.md)
+* [Facilities managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_703.md)
+* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2622.md)
+* [Research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2623.md)
 
 ## Risks that can be mitigated by this stakeholder
 

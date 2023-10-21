@@ -4,9 +4,9 @@
 
 ## Items covered in this category
 
-* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_181.md)
-* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_182.md)
-* [Air sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_183.md)
-* [Indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_184.md)
-* [Air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_185.md)
+* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_133.md)
+* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_134.md)
+* [Air sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_135.md)
+* [Indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_136.md)
+* [Air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_137.md)
 

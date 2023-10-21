@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Name-and-shame or prosecute anti-social activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4232.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3796.md)
 * [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
 * [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
-* [Social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3569.md)
 * [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
 * [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2454.md)
 * [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
-* [Social norms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3559.md)
-* [Social gathering restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4127.md)
+* [Reduction of socialization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1092.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2435.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
+* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3414.md)
+* [Social workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3602.md)
 
 ## Mitigations of this risk
 

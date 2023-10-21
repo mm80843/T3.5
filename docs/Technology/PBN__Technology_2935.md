@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Marketing strategy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2934.md)
+* [Marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1702.md)
+* [Market research tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_913.md)
+* [Communication and marketing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_732.md)
+* [Online marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1799.md)
+* [Digital marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_906.md)
 * [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
 * [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1814.md)
+* [Digital marketing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_441.md)
 * [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1159.md)
-* [Research and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4690.md)
-* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_762.md)
-* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
-* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_269.md)
-* [Research priorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2743.md)
-* [Reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2744.md)
-* [Evidence-based research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4859.md)
 
 ## This Technology enables the following mitigations
 

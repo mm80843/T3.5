@@ -42,8 +42,8 @@ Lack of indicators to prevent the spread of viruses in residential buildings
 ## Mitigations of this risk
 
 * [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_215.md)
-* [Minimal natural light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_848.md)
 * [Implement touchless technologies, promote natural light, and establish self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2935.md)
+* [Minimal natural light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_848.md)
 
 ## Name of the risk
 
@@ -62,8 +62,8 @@ Increased risk of viral transmission and outbreaks
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4049.md)
-* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4058.md)
-* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4052.md)
-* [Flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4059.md)
+* [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2082.md)
 * [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_797.md)
-* [Flexibility and adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4060.md)
-* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4050.md)
-* [Adaptability and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4061.md)
-* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4062.md)
-* [Incorporate design flexibility in the planning and construction process.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4063.md)
+* [Insufficient design guidelines for transformation, adaptation, and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_788.md)
+* [Lack of flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2659.md)
+* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1059.md)
+* [Flexibility and speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3301.md)
+* [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2930.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
+* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
+* [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
 
 ## Description of the risk
 

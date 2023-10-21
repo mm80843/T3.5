@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2591 
 
-# __Healthcare technologies and facilities__
+# __Training and education__
 
 ## Category to which it belongs
 
-* [Caregivers and beneficiaries in the healthcare field with a focus on personnel, infrastructure, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_404.md)
+* [The diverse array of entities and initiatives involved in fostering learning, development, and knowledge-sharing within communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_439.md)
 
 ## Closest similar item
 
-* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2778.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-* [Medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_187.md)
-* [Healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2587.md)
-* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2759.md)
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2589.md)
-* [Investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2796.md)
-* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2792.md)
-* [Equip healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2793.md)
-* [Improved healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2797.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2590.md)
+* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2673.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1623.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2633.md)
+* [Training organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1331.md)
+* [Workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2632.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2592.md)
+* [Training organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1638.md)
+* [Educators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_43.md)
+* [Education institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1037.md)
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5185.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5186.md)
 * [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1101.md)
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5187.md)
-* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5188.md)
-* [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5189.md)
-* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5190.md)
+* [Sewage monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2501.md)
+* [Proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3480.md)
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_997.md)
-* [Implement wastewater-based epidemiology wbe , target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5191.md)
-* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4178.md)
+* [Wastewater-based epidemiology wbe methods and pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2045.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1216.md)
+* [Proper sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2728.md)
+* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_702.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3763.md)
+* [Sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1495.md)
 
 ## This Technology enables the following mitigations
 

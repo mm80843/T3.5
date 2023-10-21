@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3713.md)
-* [Communication and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3706.md)
 * [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3165.md)
 * [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1747.md)
-* [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3705.md)
-* [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3714.md)
-* [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3699.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3702.md)
-* [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3715.md)
-* [Implement effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3703.md)
+* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2868.md)
+* [Difficulty in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
+* [Coordination problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2426.md)
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1353.md)
+* [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2762.md)
+* [Communication challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1933.md)
+* [Lack of effective technical systems for coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_630.md)
+* [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_397.md)
 
 ## Mitigations of this risk
 

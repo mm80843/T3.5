@@ -15,9 +15,9 @@
 * [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1631.md)
 * [Testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
 * [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3153.md)
-* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4749.md)
-* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4010.md)
+* [Smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2478.md)
 * [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1352.md)
+* [Ai support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
 
 ## This Technology enables the following mitigations
 

@@ -19,7 +19,7 @@
 * [Academic institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_992.md)
 * [Education institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1037.md)
 * [University community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1454.md)
-* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2690.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2592.md)
 * [Education institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1625.md)
 * [Educational institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1636.md)
 

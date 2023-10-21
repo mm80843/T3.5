@@ -63,8 +63,8 @@ Higher risk of viral transmission and infection
 
 ## Technologies linked to the risk
 
-* [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_854.md)
 * [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_855.md)
+* [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_854.md)
 
 ## Property: has_RiskType
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Material selection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3635.md)
-* [Proper selection of indoor materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4036.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3634.md)
-* [Adaptation of building envelope materials and techniques](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3643.md)
-* [Smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3633.md)
-* [Indoor building and finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4037.md)
-* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4038.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3810.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3813.md)
-* [Improve construction techniques and standards, ensure the use of high-quality building materials.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3632.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3474.md)
+* [Environmental factors in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_873.md)
+* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1060.md)
+* [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1083.md)
+* [Challenges in adaptation of building envelope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_790.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
+* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
+* [High occupant density in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1320.md)
+* [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_797.md)
+* [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1724.md)
 
 ## Description of the risk
 

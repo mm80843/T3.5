@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4283.md)
-* [Predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4242.md)
 * [Enhanced data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1004.md)
-* [Data mining and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4292.md)
-* [Increase data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4241.md)
-* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4244.md)
-* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4243.md)
-* [Artificial intelligence in predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4286.md)
 * [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_843.md)
-* [Data mining methods for understanding the covid-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4293.md)
+* [Provide training and support for stakeholders in data analysis and interpretation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2063.md)
+* [Develop intelligent ieq monitoring devices that allow for simultaneous data collection of objective ieq data and occupant opinions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1909.md)
+* [Pandemic analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_525.md)
+* [Gather and analyze accurate data, rely on evidence-based estimates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2043.md)
+* [Explore alternative data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1387.md)
+* [Big data analytics for case identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_99.md)
+* [Big data and ai forecasting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_634.md)
+* [Vigilant maintenance of sensors and equipment, use statistical techniques for data validation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2523.md)
 
 ## Benefits linked to a risk
 

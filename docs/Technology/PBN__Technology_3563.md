@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Improved acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4707.md)
-* [Good acoustic design, use of sound-absorbing materials, acoustic panels, and partitions.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4708.md)
-* [Soundproofing, noise barriers, acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4709.md)
-* [Implement proper noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4710.md)
-* [Sound insulation, use of acoustic materials, noise control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3915.md)
-* [Improved sound](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4711.md)
+* [Acoustic technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2593.md)
+* [Acoustic materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_376.md)
+* [Acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)
+* [Acoustic treatments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1350.md)
+* [Soundproof materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3562.md)
+* [Sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_198.md)
+* [Soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
 * [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2276.md)
-* [Implement noise reduction measures, use sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4712.md)
-* [Optimize layout to provide separate spaces, utilize room dividers and soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4713.md)
-* [Design level adjustments on noise insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4714.md)
+* [Soundproofing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1832.md)
+* [Sound isolation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3501.md)
 
 ## This Technology enables the following mitigations
 

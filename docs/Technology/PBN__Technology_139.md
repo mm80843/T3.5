@@ -11,13 +11,13 @@
 * [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2416.md)
 * [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1011.md)
 * [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2354.md)
-* [Adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3889.md)
 * [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1292.md)
 * [Mechanical ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3244.md)
-* [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
 * [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3783.md)
+* [Implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
+* [Hvac and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3756.md)
+* [Ventilation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3105.md)
 
 ## This Technology belongs to this TechGroup
 

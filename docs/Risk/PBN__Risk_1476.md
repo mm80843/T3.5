@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
+* [Inadequate healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3185.md)
 * [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
+* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2861.md)
+* [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_515.md)
+* [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1318.md)
+* [Limited access to healthcare facilities, lack of in-person care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3182.md)
+* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1159.md)
+* [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2240.md)
 * [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_807.md)
-* [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_22.md)
-* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3425.md)
-* [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2416.md)
-* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
-* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3426.md)
-* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2159.md)
 
 ## Description of the risk
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Urban design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1176.md)
-* [Urban planning and design policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4119.md)
-* [Redesigning urban spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4120.md)
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2106.md)
-* [Walkable urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4121.md)
-* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4122.md)
-* [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4123.md)
-* [Urban geometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4124.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4125.md)
+* [Urban design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1214.md)
+* [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1106.md)
+* [Urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_381.md)
+* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_657.md)
+* [Urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_294.md)
+* [Urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
+* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1388.md)
+* [Urban planning and architectural strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2205.md)
 
 ## This Technology enables the following mitigations
 

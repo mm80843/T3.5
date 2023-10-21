@@ -17,7 +17,7 @@
 * [Lack of proximity to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_142.md)
 * [Lack of equitable distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1807.md)
 * [Lack of knowledge about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1806.md)
-* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3473.md)
+* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
 
 ## Description of the risk
 

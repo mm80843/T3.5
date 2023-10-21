@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3903.md)
-* [Energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3904.md)
-* [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3905.md)
-* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3906.md)
-* [Promote energy efficiency measures and renewable energy production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3907.md)
-* [Energy saving and conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3544.md)
-* [Energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3908.md)
-* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3545.md)
-* [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3909.md)
-* [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3910.md)
+* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3575.md)
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
+* [Higher energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2656.md)
+* [Inefficient energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2399.md)
+* [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
+* [Inefficient energy usage and high energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_345.md)
+* [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1245.md)
+* [High energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2403.md)
+* [Energy saving and conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3449.md)
+* [Low efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2564.md)
 
 ## Mitigations of this risk
 

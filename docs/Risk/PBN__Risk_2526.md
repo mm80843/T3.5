@@ -13,10 +13,10 @@
 * [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1107.md)
 * [Essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3338.md)
 * [Supporting essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2523.md)
-* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3752.md)
+* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3523.md)
 * [Reducing non-essential use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2525.md)
-* [Social services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3911.md)
-* [Ensure access to essential services during curfew hours, increase enforcement and penalties for violations.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3912.md)
+* [Social services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3576.md)
+* [Ensure access to essential services during curfew hours, increase enforcement and penalties for violations.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3577.md)
 * [Ensuring supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_989.md)
 
 ## Mitigations of this risk

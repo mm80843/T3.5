@@ -10,14 +10,14 @@
 
 * [Communication barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3178.md)
 * [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3165.md)
-* [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3699.md)
 * [Difficulty in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3700.md)
 * [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2762.md)
-* [Communication plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3701.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3702.md)
-* [Implement effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3703.md)
-* [Optimizing communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3704.md)
+* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
+* [Communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_457.md)
+* [Limited collaboration and communication across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3281.md)
+* [Flawed communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_829.md)
+* [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1747.md)
+* [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
 
 ## Description of the risk
 

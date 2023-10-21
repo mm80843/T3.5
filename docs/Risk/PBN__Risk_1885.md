@@ -64,9 +64,9 @@ Reduced vaccine efficacy, increased wastage of vaccines, limited availability of
 ## Technologies linked to the risk
 
 * [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1298.md)
+* [Vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1299.md)
 * [Cold chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1296.md)
 * [Ultra-cold freezers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1297.md)
-* [Vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1299.md)
 
 ## Property: has_RiskType
 

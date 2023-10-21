@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3396.md)
-* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3397.md)
-* [Temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3398.md)
-* [Temperature adjustments in data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3399.md)
-* [Thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3400.md)
-* [Automatic control of temperature](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3401.md)
-* [Temperature screenings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3402.md)
-* [Temperature monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3403.md)
-* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3404.md)
-* [Temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3405.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2745.md)
+* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2746.md)
+* [Temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2747.md)
+* [Temperature adjustments in data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2748.md)
+* [Thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2749.md)
+* [Automatic control of temperature](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2718.md)
+* [Temperature screenings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2750.md)
+* [Temperature monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2751.md)
+* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2752.md)
+* [Heat](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2753.md)
 
 ## Risk affecting this stakeholder
 

@@ -42,8 +42,8 @@ Potential overload of healthcare systems due to high number of COVID-19 cases
 
 ## Mitigations of this risk
 
-* [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2990.md)
 * [Implement policies and measures to reduce case numbers and flatten the curve](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1883.md)
+* [Increase healthcare capacity, establish additional temporary facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2990.md)
 
 ## Name of the risk
 

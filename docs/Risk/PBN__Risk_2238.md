@@ -8,11 +8,11 @@
 
 ## Closest similar item
 
-* [Neoliberalism’s impact on health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4487.md)
+* [Neoliberalism’s impact on health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3634.md)
 * [Political mismanagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1018.md)
 * [Governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
-* [Society](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4486.md)
-* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3440.md)
+* [Society](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3638.md)
+* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3421.md)
 * [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2051.md)
 * [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2039.md)
 * [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_805.md)

@@ -64,9 +64,9 @@ Slower identification and containment of infected individuals
 
 ## Technologies linked to the risk
 
+* [Antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2026.md)
 * [Point-of-care testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2024.md)
 * [Molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2025.md)
-* [Antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2026.md)
 
 ## Property: has_RiskType
 

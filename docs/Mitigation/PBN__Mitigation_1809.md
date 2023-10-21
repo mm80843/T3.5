@@ -33,8 +33,8 @@ Early detection of cases, hotspot identification, and prediction of spread patte
 
 ## This Mitigation is enabled by the following technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2033.md)
 * [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
 

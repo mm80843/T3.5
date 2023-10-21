@@ -11,11 +11,11 @@
 * [Research and evaluation of ubpi effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1237.md)
 * [Ultrabrief psychological interventions ubpi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1235.md)
 * [Task-shifting ubpi interventions to non-clinical staff or students, providing training and support for these individuals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2918.md)
-* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3242.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3159.md)
 * [Improve testing frequency and accuracy, conduct seroprevalence surveys.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2511.md)
 * [Improve reporting standards and conduct high-quality research studies on preventive interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2068.md)
-* [Rethinking the city’s landscape and role of ugs in life quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4005.md)
-* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4465.md)
+* [Rethinking the city’s landscape and role of ugs in life quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3282.md)
+* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3347.md)
 * [Conduct studies in diverse geographic regions to obtain more representative data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1718.md)
 
 ## Risks possibly mitigated by this Mitigation

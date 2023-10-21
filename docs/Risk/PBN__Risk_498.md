@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1866.md)
-* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3431.md)
+* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
 * [Delay in project](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2802.md)
-* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
 * [Delay in works due to staff members at high risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_499.md)
 * [The lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_872.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
-* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3433.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
+* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3419.md)
 * [Delays in project activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1513.md)
 * [Project delays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_554.md)
 

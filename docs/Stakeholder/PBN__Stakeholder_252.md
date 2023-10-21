@@ -25,15 +25,15 @@
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1683.md)
 * [Airborne transmission of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1279.md)
 * [Inadequate ventilation in hospital settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1760.md)
+* [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1683.md)
 * [Lack of green spaces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1535.md)
 * [Inefficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
-* [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
-* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1461.md)
 * [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
 * [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
+* [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1461.md)
 * [Regionalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1263.md)
 * [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
 * [Limited rotations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1256.md)

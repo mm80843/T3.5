@@ -12,10 +12,10 @@
 * [Policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
 * [Policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
 * [Policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2568.md)
+* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2530.md)
 * [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_706.md)
 * [Policy advisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1010.md)
-* [Policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2569.md)
+* [Policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2531.md)
 * [Government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
 * [Funding bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_848.md)
 

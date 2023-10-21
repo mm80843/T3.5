@@ -11,13 +11,13 @@
 * [Seek financial assistance, manage cashflow, renegotiate contracts, diversify revenue sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1792.md)
 * [Improve cashflow management, seek financial assistance and government support, renegotiate contracts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1789.md)
 * [Offer mortgage holidays, provide financial support for individuals, delay negotiations during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2395.md)
+* [Seek alternative sources of funding, diversify revenue streams, engage in partnerships and collaborations for financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2840.md)
+* [Seek alternative markets and partners, adapt business models, leverage social capital.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2130.md)
+* [Develop alternative revenue streams, reduce costs, seek government support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2129.md)
 * [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_780.md)
+* [Explore alternative funding options, build strong investor relationships.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2131.md)
+* [Seek funding and support from government and private sector, explore cost-saving measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1548.md)
 * [Engaging finance sector](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_133.md)
-* [Seeking short-term relief and long-term sustainable solutions for financial stability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2087.md)
-* [Implement financial support programs and resources for individuals and businesses; promote job creation and stability; provide financial education and counseling.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2603.md)
-* [Loan restructuring, government assistance, financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2588.md)
-* [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2824.md)
-* [Financial interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1013.md)
 
 ## Risks possibly mitigated by this Mitigation
 

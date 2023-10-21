@@ -33,8 +33,8 @@ Integrating rapid risk mapping and mobile phone call record data for strategic m
 ## List of risks in an article
 
 * [Limited data on human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2140.md)
-* [Insufficient surveillance of asymptomatic and unreported cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
 * [Lack of accurate risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
+* [Insufficient surveillance of asymptomatic and unreported cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
 * [Inaccurate case-based risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2142.md)
 * [Reintroduction of parasites through human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2141.md)
 
@@ -49,13 +49,13 @@ Integrating rapid risk mapping and mobile phone call record data for strategic m
 ## This article mentions these technologies
 
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
 * [Mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1689.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
 * [Data quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1686.md)
 * [Community surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1688.md)
 * [Satellite imagery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1682.md)
 * [Statistical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)
-* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
 * [Geographic information systems gis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1680.md)
 * [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1683.md)
 * [Mobile phone call data records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1681.md)

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Remote communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3089.md)
+* [Remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1239.md)
 * [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
+* [Remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_548.md)
 * [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
 * [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3752.md)
-* [Enhanced communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3925.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_814.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_207.md)
-* [Remote monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_460.md)
-* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1364.md)
-* [Wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2396.md)
+* [Remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_284.md)
+* [Communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_737.md)
+* [Remote working technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_218.md)
+* [Communication technology internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3010.md)
 
 ## This Technology enables the following mitigations
 

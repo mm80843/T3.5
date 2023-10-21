@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3621.md)
-* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3622.md)
+* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
+* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1315.md)
+* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
 * [Control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3270.md)
-* [Implement engineering and administrative controls, provide ppe.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3981.md)
-* [Implement administrative control measures, environmental control measures, and personal respiratory protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4677.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3617.md)
+* [Implement engineering and administrative controls, provide ppe.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3580.md)
+* [Implement administrative control measures, environmental control measures, and personal respiratory protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3652.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
 * [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2118.md)
-* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3616.md)
 * [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1569.md)
-* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4678.md)
+* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3653.md)
 
 ## Description of the risk
 
@@ -49,8 +49,8 @@ Minimizing exposure to COVID-19 through administrative measures
 
 ## Stakeholders who can mitigate this risk
 
-* [Management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1449.md)
 * [Company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1440.md)
+* [Management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1449.md)
 
 ## Articles mentionning the risk
 

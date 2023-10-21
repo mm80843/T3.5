@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_60.md)
-* [Regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_62.md)
+* [Monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_28.md)
+* [Regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_57.md)
 

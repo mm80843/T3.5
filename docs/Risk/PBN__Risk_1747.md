@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2868.md)
 * [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
 * [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
 * [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1091.md)
 * [Communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_457.md)
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1353.md)
+* [Lack of coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3378.md)
+* [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_397.md)
 * [Difficulty in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
 * [Difficulties in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2762.md)
-* [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3705.md)
-* [Flawed communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_829.md)
-* [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3713.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3702.md)
 
 ## Description of the risk
 

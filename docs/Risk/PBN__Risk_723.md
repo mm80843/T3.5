@@ -41,9 +41,9 @@ Some cities and stakeholders may restrict access to health data due to national 
 
 ## Mitigations of this risk
 
+* [Data mining for insights](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1006.md)
 * [Develop tools and platforms for easy access to data from multiple sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3069.md)
 * [Promote transparency, standardization, and collaboration for data sharing across geographies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1507.md)
-* [Data mining for insights](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1006.md)
 
 ## Name of the risk
 

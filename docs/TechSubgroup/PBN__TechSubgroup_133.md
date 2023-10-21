@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_557.md)
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_194.md)
-* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_558.md)
-* [Risk communication systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_559.md)
-* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_193.md)
+* [Firewalls and intrusion detection systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_144.md)
+* [Cybersecurity and security protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_135.md)
 * [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
+* [Encryption and security algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_136.md)
+* [Communication and information systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
 * [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
-* [Enhanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_560.md)
-* [Implement robust cybersecurity measures, provide training on secure remote working practices, and ensure regular backups of data.](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_561.md)
-* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_562.md)
+* [Encryption and authentication techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_6.md)
+* [Authentication and access control](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_140.md)
+* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
+* [Monitoring systems and sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
 
 ## This Technology belongs to this TechnologySubgroup
 

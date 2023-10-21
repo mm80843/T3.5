@@ -13,10 +13,10 @@
 * [Increased air change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2713.md)
 * [Uneven air distribution and stagnant air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2715.md)
 * [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3289.md)
-* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3879.md)
+* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3571.md)
 * [Poor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_712.md)
 * [Insufficient fresh air exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3013.md)
-* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3844.md)
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3551.md)
 * [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_496.md)
 
 ## Mitigations of this risk

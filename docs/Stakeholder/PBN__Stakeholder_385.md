@@ -17,7 +17,7 @@
 * [Businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 * [Local organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1459.md)
 * [Small businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_371.md)
-* [Local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2664.md)
+* [Local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2586.md)
 * [Private businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_291.md)
 * [Commercial areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1295.md)
 * [Small and medium-sized businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_416.md)

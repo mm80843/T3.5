@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3622 
 
-# __Administrative controls in hospitals__
+# __Job retention schemes__
 
 ## Category to which it belongs
 
-* [Challenges in governance coordination, geopolitical tensions, inadequate policies, limited collaboration, and ineffective management hinder effective response to crises.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
+* [The changing workforce landscape has led to job loss, remote work challenges, and increased job insecurity, affecting productivity and job opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_139.md)
 
 ## Closest similar item
 
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2119.md)
-* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3980.md)
-* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3621.md)
-* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4432.md)
-* [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4433.md)
-* [Hospital preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_360.md)
-* [Patient-controlled access to medical records](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4929.md)
-* [Implement administrative control measures, environmental control measures, and personal respiratory protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4677.md)
-* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4782.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
+* [Fragmentation of employment services and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2246.md)
+* [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
+* [Workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_720.md)
+* [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
+* [Job loss and exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2467.md)
+* [Job losses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2149.md)
+* [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1989.md)
+* [Personnel management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3361.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
+* [Recruitment challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1516.md)
 

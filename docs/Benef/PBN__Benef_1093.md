@@ -16,8 +16,8 @@ Digital platforms and social networks enable transparent reporting of pandemic i
 
 ## Stakeholders benefitting from this Benefit
 
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 * [Public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 
 ## Risks which can benefit from this action
 

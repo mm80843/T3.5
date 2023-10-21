@@ -50,8 +50,8 @@ Difficulty in interpretation of study results and uncertainty in the effectivene
 ## Stakeholders who can mitigate this risk
 
 * [Researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [Academic institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_992.md)
 * [Funding agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_993.md)
+* [Academic institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_992.md)
 
 ## Articles mentionning the risk
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Thermal comfort optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4570.md)
-* [Maintaining optimum temperatures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4163.md)
-* [Inefficient thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4571.md)
-* [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4171.md)
+* [Thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3312.md)
 * [Ensure proper facade design and ventilation to maintain thermal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2485.md)
-* [Improved thermal comfort of occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3929.md)
-* [Designing variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4572.md)
-* [Energy-efficient heating/cooling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4573.md)
-* [Thermo-hygrometric comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4574.md)
-* [Thermal treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4170.md)
+* [Maintaining optimum temperature and humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_257.md)
+* [Implement measures to prevent heat stress, ensure comfortable conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2980.md)
+* [Optimize hvac systems, provide individual temperature control options, insulate the building envelope](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2380.md)
+* [Improve insulation and heating systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_453.md)
+* [Installation of efficient hvac systems, proper insulation, and controls for temperature regulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1563.md)
+* [Optimizing experimental conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2987.md)
+* [Improve hvac systems and thermal insulation to achieve a balance between supply and demand.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1910.md)
+* [Variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1332.md)
 
 ## Benefits linked to a risk
 

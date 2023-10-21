@@ -63,12 +63,12 @@ Misunderstanding of risks, poor compliance with preventive measures, increased i
 * [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [Health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_422.md)
 * [Building facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_75.md)
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 * [Building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [Local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_566.md)
 * [Educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [Employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 * [Communication team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_967.md)
 
 ## Articles mentionning the risk
@@ -85,24 +85,24 @@ Misunderstanding of risks, poor compliance with preventive measures, increased i
 * [General population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [Specific at-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_696.md)
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
+* [Inhabitants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1012.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
 * [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
-* [Inhabitants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1012.md)
 * [Especially those with limited access to healthcare and education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_900.md)
 
 ## Technologies linked to the risk
 
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 * [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
 * [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
 * [Online platforms for sharing information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_253.md)
-* [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
 * [Online educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_627.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 * [Communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_566.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [Information brochures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_252.md)
 * [Information and communication technologies icts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_626.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [Information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_967.md)
 
 ## Property: has_RiskType

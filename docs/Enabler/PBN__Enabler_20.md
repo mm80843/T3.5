@@ -12,23 +12,23 @@ enabler_021
 
 ## Closest similar item
 
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_167.md)
-* [Social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_605.md)
-* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_606.md)
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_607.md)
-* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_608.md)
-* [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_168.md)
-* [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_609.md)
-* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_128.md)
-* [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_353.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_132.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_88.md)
+* [Social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_231.md)
+* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_185.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_232.md)
+* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_233.md)
+* [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_89.md)
+* [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_90.md)
+* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_73.md)
+* [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_165.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_77.md)
 
 ## Thees blueprints use this enabler
 
 * [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
 * [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Social networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1535.md)
 

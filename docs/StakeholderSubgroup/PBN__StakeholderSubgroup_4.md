@@ -21,8 +21,8 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 * [City authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_534.md)
+* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 * [City administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_718.md)
 * [City administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1616.md)
 * [City official](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1598.md)

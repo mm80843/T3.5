@@ -8,13 +8,13 @@
 
 ## Closest similar item
 
-* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4427.md)
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3663.md)
+* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3582.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
 * [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1465.md)
 * [Workforce distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
 * [Workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_720.md)
-* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4444.md)
+* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3581.md)
 * [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
 * [Insufficient design guidelines for transformation, adaptation, and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_788.md)
 * [Blurring of work-life boundaries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)

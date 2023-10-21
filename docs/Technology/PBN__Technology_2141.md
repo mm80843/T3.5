@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3704.md)
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1153.md)
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2061.md)
+* [Transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_542.md)
+* [Transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_659.md)
 * [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
+* [Road network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2892.md)
+* [Public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
 * [Infrastructure improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2225.md)
-* [Network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2063.md)
-* [Improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_669.md)
-* [Technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3100.md)
-* [Infrastructure support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2183.md)
-* [It infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3218.md)
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2106.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
+* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1827.md)
 
 ## This Technology enables the following mitigations
 

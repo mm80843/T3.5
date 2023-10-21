@@ -62,8 +62,8 @@ Immigrants have lower protection against COVID-19, increasing their risk of infe
 
 ## Technologies linked to the risk
 
-* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
 * [Mobile vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1205.md)
+* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
 * [Language-specific materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1206.md)
 
 ## Property: has_RiskType

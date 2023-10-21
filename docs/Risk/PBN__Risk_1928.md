@@ -13,11 +13,11 @@
 * [Presence of covid-19 in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
 * [Transmission of covid-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1789.md)
 * [Spread of covid-19 through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_932.md)
-* [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3655.md)
+* [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3479.md)
 * [Need for accurate and up-to-date covid-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_838.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3656.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
 * [Spread of covid-19 through water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_577.md)
-* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3851.md)
+* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3556.md)
 
 ## Description of the risk
 

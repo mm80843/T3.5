@@ -17,7 +17,7 @@
 * [Inadequate cleaning and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3139.md)
 * [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
 * [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
-* [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3876.md)
+* [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3568.md)
 
 ## Mitigations of this risk
 

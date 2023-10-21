@@ -38,7 +38,7 @@ enabler_001
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
 * [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3328.md)
 

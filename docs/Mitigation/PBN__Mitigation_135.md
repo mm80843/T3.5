@@ -45,10 +45,10 @@ Adequate natural ventilation helps dilute and remove viral particles from indoor
 ## This Mitigation is enabled by the following technologies
 
 * [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
 * [Air extractors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3479.md)
 * [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2416.md)
 * [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
 * [Openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
 * [Vents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2215.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
 

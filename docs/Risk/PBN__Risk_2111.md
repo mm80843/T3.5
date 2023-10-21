@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Implement regular medical check-ups following minimum requirements for each job position](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4428.md)
-* [Prioritize high-quality health care for those in need and ensure access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4429.md)
-* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4347.md)
-* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4359.md)
-* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4430.md)
-* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3856.md)
-* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3864.md)
-* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3964.md)
-* [Revised work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4424.md)
-* [Implement policies and programs to prevent long-term sickness absence, such as workplace wellness programs and early intervention strategies.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4431.md)
+* [Implement regular medical check-ups following minimum requirements for each job position](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3620.md)
+* [Increased workload for medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_998.md)
+* [Prioritize high-quality health care for those in need and ensure access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3621.md)
+* [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1631.md)
+* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3611.md)
+* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3615.md)
+* [Changes in work schedules for nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_359.md)
+* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3561.md)
+* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3565.md)
+* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3622.md)
 
 ## Description of the risk
 

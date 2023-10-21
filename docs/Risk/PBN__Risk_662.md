@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3725.md)
-* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3719.md)
+* [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3645.md)
+* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
 * [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1203.md)
 * [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_985.md)
 * [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
-* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3743.md)
+* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3517.md)
 * [Psychological risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
 * [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
 * [Health risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
-* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3717.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3501.md)
 
 ## Mitigations of this risk
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3391.md)
-* [Enhancing accessibility for low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5196.md)
-* [Enhance accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5197.md)
-* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4481.md)
-* [Inclusive urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3271.md)
+* [Develop strategies to ensure equal access and distribution of ugs throughout the city.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2244.md)
+* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3184.md)
+* [Providing support and assistance to vulnerable populations in accessing ugs, such as transportation services or home visits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2932.md)
+* [Limiting the number of visitors, enforcing social distancing measures, and increasing sanitation efforts in ugs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2931.md)
+* [Ensure equitable access and participation in public spaces through inclusive design and policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1981.md)
 * [Increase testing capacity and accessibility in deprived areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2537.md)
-* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4634.md)
-* [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_458.md)
-* [Mobility restrictions,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_975.md)
-* [Higher dependency on public transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3376.md)
+* [Provide education and training on mobile technology, enhance accessibility through simplified user interfaces, address barriers to internet and smartphone access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2573.md)
+* [Raising awareness about the relevance of ugs in urban landscape](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_963.md)
+* [Implementing transportation equity measures, prioritizing affordable and accessible public transport options in underserved areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2535.md)
+* [Develop affordable transportation options, reduce entrance fees, and provide flexible visiting hours](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2920.md)
 
 ## Risks possibly mitigated by this Mitigation
 

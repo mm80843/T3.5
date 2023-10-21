@@ -50,9 +50,9 @@ Increased risk of mosquito-borne diseases and disease outbreaks.
 ## Stakeholders who can mitigate this risk
 
 * [Public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+* [Community engagement organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1066.md)
 * [Vector control agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1064.md)
 * [Local government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_307.md)
-* [Community engagement organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1066.md)
 
 ## Articles mentionning the risk
 

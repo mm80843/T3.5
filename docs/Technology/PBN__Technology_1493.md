@@ -10,9 +10,9 @@
 
 * [Strong building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2635.md)
 * [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3876.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
 * [Building information modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3928.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
 * [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
 * [Building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2521.md)
 * [Building design and layout modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2671.md)

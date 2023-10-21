@@ -10,12 +10,12 @@
 
 * [Community relations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3275.md)
 * [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1099.md)
-* [Customer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4591.md)
+* [Customer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3641.md)
 * [Unknown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3352.md)
-* [Industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3834.md)
+* [Industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3547.md)
 * [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
-* [Business](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4713.md)
-* [Sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4680.md)
+* [Business](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3624.md)
+* [Sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3655.md)
 * [Trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3272.md)
 * [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2435.md)
 

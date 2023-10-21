@@ -50,9 +50,9 @@ Physical and mental health decline, reduced physical activity levels, increased 
 
 ## Stakeholders who can mitigate this risk
 
-* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 * [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [Developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_635.md)
+* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 
 ## Articles mentionning the risk
 

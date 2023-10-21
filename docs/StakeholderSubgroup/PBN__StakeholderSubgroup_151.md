@@ -10,12 +10,12 @@
 
 * [Telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_46.md)
 * [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_54.md)
-* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_408.md)
+* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_176.md)
 * [Technology and innovation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_61.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_409.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_181.md)
 * [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_105.md)
 * [Occupational and workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_27.md)
-* [Environment and healthcare management tools](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_410.md)
+* [Environment and healthcare management tools](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_178.md)
 * [Manufacturing and industry](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_62.md)
 * [Indoor workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_24.md)
 
@@ -31,9 +31,9 @@
 * [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1392.md)
 * [User of iot device](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2447.md)
 * [Iot device manufacturers and service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1432.md)
-* [Sensor manufacturers and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_910.md)
 * [Iot device manufacturer and service provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2467.md)
 * [Iot device](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2457.md)
+* [Sensor manufacturers and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_910.md)
 * [User of iot device and mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2442.md)
 * [User of iot device and network administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2455.md)
 

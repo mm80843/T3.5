@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Data ownership decentralization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3917.md)
+* [Implement data protection and privacy regulations, ensure transparency and consent in data collection and usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2059.md)
 * [Enforce data sharing requirements, incentivize data sharing, improve legal and regulatory frameworks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1829.md)
-* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3213.md)
-* [Data sharing ethics, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3981.md)
-* [Enforcing data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3327.md)
+* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3145.md)
 * [Transparency and governance of data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_815.md)
 * [Implement strong data protection measures, obtain consent, and ensure data anonymity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2776.md)
 * [Implement strong data protection measures, ensure transparency and consent, use decentralized and secure systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2272.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3818.md)
-* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3585.md)
+* [Adoption of universal standards for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1340.md)
+* [Increase public awareness, transparency in data usage, obtain informed consent for data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1512.md)
+* [Decentralizing data ownership and establishing secure transmission of biometric data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_950.md)
+* [Establish limits for private use of public data, ensure data is used solely for urban management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1514.md)
 
 ## Risks possibly mitigated by this Mitigation
 

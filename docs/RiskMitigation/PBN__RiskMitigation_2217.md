@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Maintenance of natural vegetation cover](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3689.md)
+* [Implementing regular maintenance and vegetation management programs in ugs, involving community in upkeep efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2934.md)
+* [Implement regular maintenance plans and ensure proper care and upkeep of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2071.md)
 * [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_485.md)
 * [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_171.md)
-* [Indoor vegetation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3690.md)
-* [Land-use planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3641.md)
+* [Incorporate diverse types of green spaces in urban planning and design, prioritize the creation of green spaces with diverse vegetation and design features](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2070.md)
 * [Increase vegetation, implement shading, improve urban geometry, use materials with higher albedo.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2189.md)
-* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3691.md)
-* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3643.md)
-* [Wider trails and walkways](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3681.md)
-* [Dense vegetation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3692.md)
+* [Widening trails and walkways](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_38.md)
+* [Suburban landscape design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_71.md)
+* [Create and maintain green spaces in urban areas, prioritize green space in urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1470.md)
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_35.md)
 
 ## Risks possibly mitigated by this Mitigation
 

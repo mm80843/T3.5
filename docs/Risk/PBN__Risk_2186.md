@@ -10,7 +10,7 @@
 
 * [Eu1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2185.md)
 * [Eu3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2187.md)
-* [Eu](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3902.md)
+* [Eu](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3574.md)
 * [Eu2: energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_194.md)
 * [Wc2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2192.md)
 * [Pc2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2194.md)
@@ -58,8 +58,8 @@ Reduce reliance on nonrenewable energy sources
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

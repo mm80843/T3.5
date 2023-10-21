@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
-* [Medications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3086.md)
+* [Pharmaceutical company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1858.md)
+* [Pharmaceutical industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1389.md)
+* [Medications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2700.md)
+* [Medical centers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1088.md)
+* [Healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1250.md)
+* [Hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
 * [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-* [Medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_187.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
-* [Personalized medicine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3091.md)
-* [Medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3092.md)
-* [Stores](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3093.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
+* [Hospital](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1469.md)
+* [Healthcare agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_541.md)
 
 ## Risks that can be mitigated by this stakeholder
 

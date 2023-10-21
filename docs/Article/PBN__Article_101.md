@@ -72,11 +72,11 @@ Coronavirus disease 2019: The harms of exaggerated information and non‐evidenc
 * [Data transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_799.md)
 * [Data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_552.md)
 * [Fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
+* [Public education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_802.md)
+* [Clear guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_803.md)
 * [Support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_805.md)
 * [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_804.md)
-* [Clear guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_803.md)
 * [Advanced testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_801.md)
-* [Public education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_802.md)
 * [Strengthen peer review process](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_800.md)
 * [Historical data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_807.md)
 

@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3833.md)
+* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3546.md)
 * [Technology access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1258.md)
 * [Reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
 * [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1226.md)
 * [Technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1776.md)
 * [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1949.md)
 * [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
-* [Industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3834.md)
+* [Industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3547.md)
 * [Technical performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2427.md)
 * [Technological limitations, lack of access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3025.md)
 

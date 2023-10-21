@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1404.md)
-* [Management of deliveries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3218.md)
 * [Prioritizing shipments of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_301.md)
+* [Ensure material supply chain resumes quickly, address labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2108.md)
 * [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_285.md)
 * [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2054.md)
-* [Assessing the possibility of late or halted deliveries of materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4319.md)
+* [Provide appropriate ppe and ensure proper usage and maintenance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1811.md)
 * [Diversify suppliers and establish backup systems to ensure a steady supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2897.md)
-* [Caution in receiving deliveries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4320.md)
 * [Ensure adequate food production, import, storage, and transportation, prioritize vulnerable families, establish neighborhood food markets.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2442.md)
+* [Stocking up on ppe supplies, establishing protocols for ppe usage and disposal.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2562.md)
 * [Promptly repair and maintain infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2528.md)
 
 ## Risks possibly mitigated by this Mitigation

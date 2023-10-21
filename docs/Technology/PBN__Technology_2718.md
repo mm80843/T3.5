@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Astm e1153 method](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2717.md)
-* [Rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3819.md)
-* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3816.md)
+* [Advanced testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_801.md)
+* [Development of new testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_462.md)
+* [Development of rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1969.md)
+* [Improvement of testing accuracy and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1971.md)
+* [Regular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1751.md)
+* [Testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3142.md)
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_401.md)
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3814.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3815.md)
-* [Testing and tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5434.md)
-* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_464.md)
-* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4161.md)
-* [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5380.md)
+* [Verification of results through multiple testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1357.md)
+* [Rapid testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3720.md)
 
 ## This Technology enables the following mitigations
 

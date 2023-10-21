@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Social support and connection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4792.md)
-* [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3777.md)
-* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3578.md)
-* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4594.md)
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4793.md)
-* [Promoting social connections, providing psychosocial support, mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4794.md)
-* [Provide mental health support services, financial assistance programs, and social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4795.md)
-* [Socioeconomic support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
-* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4796.md)
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3772.md)
+* [Social services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3576.md)
+* [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1968.md)
+* [Social workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3602.md)
+* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3414.md)
+* [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
+* [Support and information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3314.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
+* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
 
 ## Description of the risk
 

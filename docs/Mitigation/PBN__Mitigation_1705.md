@@ -33,6 +33,6 @@ Control of indoor temperatures is important to avoid negative effects on perform
 
 ## This Mitigation is enabled by the following technologies
 
-* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
 * [Hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
 

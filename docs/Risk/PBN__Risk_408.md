@@ -17,7 +17,7 @@
 * [Lack of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3237.md)
 * [Lack of healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3144.md)
 * [Collapse of health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2957.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3523.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
 
 ## Mitigations of this risk
 

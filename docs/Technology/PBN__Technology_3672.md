@@ -12,12 +12,12 @@
 * [Next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3348.md)
 * [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
 * [Sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2174.md)
-* [Sequence annotation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5171.md)
+* [Comparative data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_902.md)
 * [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1949.md)
 * [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
 * [Bioinformatics software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2660.md)
-* [Sanger sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5170.md)
 * [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3632.md)
+* [Comparative studies and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
 
 ## This Technology enables the following mitigations
 

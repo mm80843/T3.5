@@ -65,9 +65,9 @@ Lack of data for evidence-based conservation decision-making, reduced understand
 
 ## Technologies linked to the risk
 
+* [Online training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1699.md)
 * [Remote data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1698.md)
 * [Remote sensing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1697.md)
-* [Online training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1699.md)
 
 ## Property: has_RiskType
 

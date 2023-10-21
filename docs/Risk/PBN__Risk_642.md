@@ -42,12 +42,12 @@ Global transmission of novel coronavirus
 ## Mitigations of this risk
 
 * [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
+* [Adjusting for wastewater temperature in wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
 * [Quarantine and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_893.md)
 * [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1753.md)
 * [Combined use of wbe followed by clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1204.md)
 * [Use of wbe for tracking covid-19 prevalence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1206.md)
 * [Social distancing, wearing masks, hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2290.md)
-* [Adjusting for wastewater temperature in wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1205.md)
 * [Integration of latrine sampling in wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1207.md)
 
 ## Name of the risk

@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4350.md)
+* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3612.md)
 * [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_328.md)
 * [Lack of access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1592.md)
 * [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
@@ -16,7 +16,7 @@
 * [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_522.md)
 * [Inequality in access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
 * [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_693.md)
-* [Virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4351.md)
+* [Virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3613.md)
 * [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
 
 ## Description of the risk
@@ -64,8 +64,8 @@ Limited access to the physical and mental health benefits provided by green area
 
 ## Technologies linked to the risk
 
-* [Capacity limits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1823.md)
 * [Increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1822.md)
+* [Capacity limits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1823.md)
 * [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1821.md)
 
 ## Property: has_RiskType

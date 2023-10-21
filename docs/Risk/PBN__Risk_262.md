@@ -11,12 +11,12 @@
 * [Limited sensor capability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1396.md)
 * [Sensor failure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1229.md)
 * [Limited availability of biosensors for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1148.md)
-* [Environmental and outdoor monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3754.md)
+* [Environmental and outdoor monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3525.md)
 * [Proprietary monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2573.md)
 * [Error accumulation in sensor-only method](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_97.md)
 * [Limited monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2455.md)
 * [Lack of green space diversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1532.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3426.md)
 * [Need for alternative detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1145.md)
 
 ## Mitigations of this risk

@@ -38,6 +38,6 @@ Regular handwashing with soap and water reduces the risk of transmission by remo
 ## This Mitigation is enabled by the following technologies
 
 * [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
-* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 * [Soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2311.md)
+* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 

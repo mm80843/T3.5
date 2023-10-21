@@ -11,13 +11,13 @@
 * [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
 * [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2145.md)
 * [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
-* [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5100.md)
-* [Preventive vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5098.md)
-* [Development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4047.md)
+* [Vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1603.md)
 * [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1602.md)
 * [Vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_915.md)
-* [Universal vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5099.md)
 * [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1883.md)
+* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1305.md)
+* [Research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1235.md)
+* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2841.md)
 
 ## This Technology enables the following mitigations
 

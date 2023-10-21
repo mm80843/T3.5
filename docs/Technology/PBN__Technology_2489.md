@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2014.md)
 * [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_180.md)
+* [Natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
+* [Lightweight materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3506.md)
+* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
+* [Sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3275.md)
+* [Living materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3723.md)
 * [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
 * [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2098.md)
-* [Architectural & construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2097.md)
-* [Construction materials and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2203.md)
-* [Green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3067.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
-* [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3270.md)
-* [Education materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3548.md)
 
 ## This Technology enables the following mitigations
 

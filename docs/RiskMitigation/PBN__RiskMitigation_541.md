@@ -12,7 +12,7 @@
 * [Gender-specific interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_870.md)
 * [Promote gender equality in recovery plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_624.md)
 * [Conduct gender-specific research on green space benefits, develop targeted interventions based on gender.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2765.md)
-* [Implement measures to protect women’s health, income support, and address gender-based violence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3191.md)
+* [Implement measures to protect women’s health, income support, and address gender-based violence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3135.md)
 * [Provide financial assistance and resources to individuals and families facing economic hardship, promote economic empowerment programs for women](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1468.md)
 * [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_540.md)
 * [Investment in peace and justice](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_542.md)

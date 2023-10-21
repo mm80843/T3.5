@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2767.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3753.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
 * [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1569.md)
 * [Financial viability of businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3257.md)
 * [Financial sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_719.md)

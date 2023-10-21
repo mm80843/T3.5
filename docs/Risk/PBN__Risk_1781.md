@@ -17,7 +17,7 @@
 * [Lack of data for ai models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1780.md)
 * [Lack of reliable ai forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
 * [Healthcare inequalities in lmic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_467.md)
-* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3833.md)
+* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3546.md)
 
 ## Description of the risk
 

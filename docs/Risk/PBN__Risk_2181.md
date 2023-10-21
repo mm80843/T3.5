@@ -58,13 +58,13 @@ Ensure safe and clean water supply
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 
-* [Regular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1751.md)
 * [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Regular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1751.md)
 * [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1750.md)
 
 ## Property: has_RiskType

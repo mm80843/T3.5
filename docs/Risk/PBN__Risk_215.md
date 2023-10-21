@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Indoor humidity monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_258.md)
 * [Maintaining optimum temperature and humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_257.md)
+* [Indoor humidity monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_258.md)
 

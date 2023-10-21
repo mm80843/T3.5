@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Governments should establish and expand credit guarantee schemes cgss](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2821.md)
-* [Develop sound credit guarantee schemes with varying guarantee ratios based on banks’ financial profile](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5194.md)
+* [Develop sound credit guarantee schemes with varying guarantee ratios based on banks’ financial profile](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3394.md)
 * [Implement stricter lending criteria, enhance credit risk assessment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2822.md)
 * [Implement policies to support revenue generation and payment flexibility.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2519.md)
 * [Robust contract and claims management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_673.md)

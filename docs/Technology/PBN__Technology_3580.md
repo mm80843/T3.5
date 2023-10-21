@@ -11,13 +11,13 @@
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2072.md)
 * [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1844.md)
 * [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [Monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1743.md)
 * [Monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1861.md)
+* [Monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2879.md)
 * [Digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3647.md)
 * [Regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_285.md)
-* [Monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_287.md)
-* [Monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1657.md)
-* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1961.md)
+* [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1856.md)
+* [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1127.md)
 
 ## This Technology enables the following mitigations
 

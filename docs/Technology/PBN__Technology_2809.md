@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3758.md)
-* [Partnership](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4319.md)
-* [Social network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3790.md)
-* [Strengthening partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4320.md)
-* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4321.md)
-* [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4322.md)
-* [Collaboration with national and international partners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4323.md)
-* [Solidarity networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3791.md)
-* [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3984.md)
+* [Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3352.md)
+* [Partnership agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_445.md)
 * [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1081.md)
+* [Angel investor networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_910.md)
+* [Collaboration agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3532.md)
+* [Efficient network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2946.md)
+* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
+* [Social networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1535.md)
+* [Network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2063.md)
+* [Collaborative platforms and networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3652.md)
 
 ## This Technology enables the following mitigations
 

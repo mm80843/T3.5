@@ -15,7 +15,7 @@
 * [Supplier diversification technologies and supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1197.md)
 * [Diversified communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_578.md)
 * [Allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2794.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
 * [Efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2737.md)
 * [Microfinance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_955.md)
 

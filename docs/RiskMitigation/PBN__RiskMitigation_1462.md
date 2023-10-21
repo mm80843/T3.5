@@ -10,14 +10,14 @@
 
 * [Enhance healthcare capacity, stockpile medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2848.md)
 * [Design venues with large, flexible spaces and prioritize medical equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2252.md)
-* [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3526.md)
-* [Healthcare system preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4326.md)
 * [Strengthen and adequately fund public health systems, build stockpiles for critical medical supplies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2947.md)
-* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4321.md)
+* [Develop comprehensive pandemic preparedness plans and invest in healthcare infrastructure; conduct regular simulations and training exercises](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2692.md)
+* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3201.md)
 * [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_755.md)
 * [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1453.md)
 * [Investing in healthcare infrastructure, increasing medical facility capacity, improving supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1801.md)
 * [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_29.md)
+* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_734.md)
 
 ## Risks possibly mitigated by this Mitigation
 

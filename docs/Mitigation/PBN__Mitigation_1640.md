@@ -33,6 +33,6 @@ Allowing employees to work from home and limit physical interactions to prevent 
 
 ## This Mitigation is enabled by the following technologies
 
-* [It infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3218.md)
 * [Videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3217.md)
+* [It infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3218.md)
 

@@ -13,7 +13,7 @@
 * [Poor work productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2563.md)
 * [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_854.md)
 * [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2046.md)
-* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3864.md)
+* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3565.md)
 * [Labour shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_730.md)
 * [Difficulties in labor control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2809.md)
 * [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)

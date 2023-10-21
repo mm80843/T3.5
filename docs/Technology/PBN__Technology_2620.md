@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_650.md)
-* [Promoting energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4413.md)
-* [Implement energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4026.md)
 * [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2062.md)
 * [Energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)
+* [Energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1891.md)
 * [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
 * [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
-* [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3974.md)
 * [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2813.md)
-* [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3976.md)
+* [Energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_81.md)
+* [Energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2470.md)
 
 ## This Technology enables the following mitigations
 

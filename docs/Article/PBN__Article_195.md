@@ -39,9 +39,9 @@ Wearable technology and COVID-19
 
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
 * [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1224.md)
+* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1226.md)
 * [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
 * [Inequality of access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1225.md)
-* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1226.md)
 
 ## This article points to following mitigation
 

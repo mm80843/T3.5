@@ -10,7 +10,7 @@
 
 * [Eu1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2185.md)
 * [Eu2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2186.md)
-* [Eu](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3902.md)
+* [Eu](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3574.md)
 * [Eu3: energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_195.md)
 * [Pc3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2195.md)
 * [Eu1: energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_193.md)
@@ -58,8 +58,8 @@ Decrease energy consumption and increase efficiency
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

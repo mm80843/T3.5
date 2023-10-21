@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Transparent governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3903.md)
+* [Develop incentive mechanisms, build trust through transparency and accountability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1549.md)
+* [Improve crisis management strategies, increase transparency and accountability, strengthen communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1446.md)
+* [Establish ethical guidelines and ensure transparency, fairness, and accountability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2780.md)
 * [Foster social capital, trust, and participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2815.md)
+* [Establish effective communication channels, provide clear and transparent information, address concerns and questions, promote trust and understanding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1776.md)
 * [Foster collaboration and clear communication among stakeholders, establish effective project governance structure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1943.md)
-* [Promote local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3910.md)
-* [Governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3902.md)
+* [Improve sanitation infrastructure, provide access to clean water, promote good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1921.md)
+* [Promote transparency, communication, and community engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2643.md)
 * [Improve communication channels, provide clear and consistent information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2688.md)
-* [Implement strong data protection measures, ensure transparency and consent, use decentralized and secure systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2272.md)
-* [Strengthening of un and who leadership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3911.md)
-* [Promote reliable and verifiable sources of information; educate the public on how to critically evaluate information; combat misinformation through fact-checking and debunking.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2602.md)
-* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_693.md)
+* [Improve sanitation infrastructure, promote hygiene education and practices, increase access to clean water sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1896.md)
 
 ## Risks possibly mitigated by this Mitigation
 

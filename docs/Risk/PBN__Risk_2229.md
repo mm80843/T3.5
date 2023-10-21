@@ -10,14 +10,14 @@
 
 * [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
 * [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_884.md)
-* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3750.md)
 * [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3362.md)
-* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4068.md)
-* [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3933.md)
 * [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
+* [Unbalanced utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2079.md)
+* [Unbalanced utilization of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_784.md)
 * [Efficient distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3311.md)
-* [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4064.md)
-* [Capacity overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2630.md)
+* [Inefficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1402.md)
+* [Inefficient infrastructure and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2939.md)
+* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_640.md)
 
 ## Description of the risk
 

@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3747.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3211.md)
 * [Telemedicine and remote testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1426.md)
 * [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2049.md)
 * [Implementing proper hygiene measures, encouraging social distancing, and promoting remote work options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1992.md)
@@ -17,7 +17,7 @@
 * [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1327.md)
 * [Accelerated digital transformation of healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_675.md)
 * [Telemedicine and remote consultations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1431.md)
-* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4021.md)
+* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3285.md)
 
 ## Benefits linked to a risk
 

@@ -16,7 +16,7 @@
 * [Lower vaccination rates among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1826.md)
 * [Health risk, data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2896.md)
 * [Lack of digital health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1961.md)
-* [International and health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3740.md)
+* [International and health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3512.md)
 * [Disruption of immigrant employment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1827.md)
 
 ## Mitigations of this risk

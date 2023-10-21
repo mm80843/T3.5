@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) >> Individual ID:PBN__TechGroup_128 
 
-# __Iot protocols__
+# __Advanced materials__
 
 ## Category to which it belongs
 
-* [The interconnected web of smart devices, networks, sensors, and protocols known as the internet of things iot .](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_311.md)
+* [The compilation comprises various innovative and eco-friendly substances utilized in construction and architecture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_315.md)
 
 ## Closest similar item
 
-* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_125.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-* [Implementation of iot](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_130.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_123.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_126.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_124.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_127.md)
-* [Iot data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_132.md)
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_364.md)
-* [Implement iot technologies and data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_368.md)
+* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_122.md)
+* [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_127.md)
+* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_121.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
+* [Architectural & construction materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_120.md)
+* [Construction materials and equipment](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_123.md)
+* [Green building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_124.md)
+* [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_125.md)
+* [Molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_84.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_70.md)
 

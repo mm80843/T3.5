@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2632 
 
-# __Architecture__
+# __Workforce training__
 
 ## Category to which it belongs
 
-* [Building design professionals and construction industry stakeholders, including architects, contractors, and interior designers, aim to create comfortable and functional spaces for building occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_429.md)
+* [Workers across a wide range of industries, including both formal and informal sectors, who perform various roles.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_416.md)
 
 ## Closest similar item
 
-* [Architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2630.md)
-* [Optimal architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3488.md)
-* [Lightweight architecture](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3489.md)
-* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3490.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2618.md)
-* [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3491.md)
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2567.md)
-* [Designs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2924.md)
-* [Integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3492.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2891.md)
+* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2731.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2633.md)
+* [Training organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1331.md)
+* [Workforce support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2555.md)
+* [Training organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1638.md)
+* [Existing workforce](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_294.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2591.md)
+* [Trainees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1330.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2590.md)
+* [Trainees in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_206.md)
 

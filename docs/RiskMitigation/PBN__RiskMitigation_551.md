@@ -8,16 +8,15 @@
 
 ## Closest similar item
 
-* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4450.md)
-* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3762.md)
 * [Contextualising and disseminating actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_552.md)
-* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3760.md)
-* [Real-world evidence research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3761.md)
-* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5134.md)
-* [Evidence-based](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4189.md)
-* [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4449.md)
+* [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3345.md)
 * [Verify sources and rely on accurate, evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2041.md)
 * [Evidence-based research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1442.md)
+* [Filter and synthesize the best available evidence from reliable sources, provide user-friendly formats and plain language summaries, and actively counter misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1852.md)
+* [Harness the strength of complementary evidence networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_560.md)
+* [Gather and analyze accurate data, rely on evidence-based estimates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2043.md)
+* [Collect more data, conduct larger studies for more solid conclusions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2213.md)
+* [Ensuring critical evaluation of information, considering multiple sources, promoting evidence-based decision making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2098.md)
 
 ## Benefits linked to a risk
 

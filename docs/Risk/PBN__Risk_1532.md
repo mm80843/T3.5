@@ -51,8 +51,8 @@ Limited exposure to beneficial environmental conditions, reduced aesthetic appea
 
 ## Stakeholders who can mitigate this risk
 
-* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 * [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
+* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 * [Landscape architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_941.md)
 
 ## Articles mentionning the risk

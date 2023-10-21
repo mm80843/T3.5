@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Use of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1730.md)
 * [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2487.md)
-* [Minimal natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4705.md)
-* [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4703.md)
-* [Natural sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4623.md)
-* [Use of natural light, proper artificial lighting design, glare control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4704.md)
-* [Improve living conditions, access to natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5022.md)
-* [Natural daylight access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4619.md)
-* [Sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4620.md)
-* [Daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3144.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
+* [Access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2663.md)
+* [Natural light solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1611.md)
+* [Natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_422.md)
+* [Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3500.md)
+* [Natural light solutions skylights, sun tubes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2055.md)
+* [Natural](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2329.md)
+* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_118.md)
+* [Ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3604.md)
 
 ## This Technology enables the following mitigations
 

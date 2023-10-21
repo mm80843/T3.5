@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3521.md)
-* [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3520.md)
-* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3913.md)
-* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3735.md)
-* [Infrastructure development and planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3522.md)
+* [Limited infrastructure, cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2949.md)
+* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
+* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3507.md)
+* [Inefficient infrastructure and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2939.md)
+* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
 * [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
 * [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
-* [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3914.md)
-* [Electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3915.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3916.md)
+* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3035.md)
+* [Incomplete infrastructure, coordination challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2597.md)
+* [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
 
 ## Mitigations of this risk
 

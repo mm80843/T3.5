@@ -13,11 +13,11 @@
 * [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
 * [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3722.md)
 * [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2216.md)
-* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4010.md)
-* [Hardware and devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4261.md)
-* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1352.md)
-* [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_549.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+* [Monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1743.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2799.md)
+* [Digital and smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2491.md)
+* [Technological tracking device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2598.md)
 
 ## This Technology enables the following mitigations
 

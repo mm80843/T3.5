@@ -16,7 +16,7 @@
 * [Safety as an important factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1202.md)
 * [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
 * [Inadequate safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2631.md)
-* [Personal safety and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3857.md)
+* [Personal safety and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3562.md)
 * [Occupational health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1847.md)
 
 ## Mitigations of this risk

@@ -11,7 +11,7 @@
 * [Shortage in nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1457.md)
 * [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1631.md)
 * [Shortage of experienced healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_317.md)
-* [Implementing strategies to cope with staff shortages and consider alternative staffing options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3662.md)
+* [Implementing strategies to cope with staff shortages and consider alternative staffing options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3482.md)
 * [Changes in work schedules of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1459.md)
 * [Increased workload for nurses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_409.md)
 * [Changes in work schedules for nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_359.md)

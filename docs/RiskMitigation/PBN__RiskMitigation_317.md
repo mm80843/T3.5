@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4317.md)
-* [Good maintenance practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4315.md)
-* [Regular maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4345.md)
-* [Regular inspection and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4346.md)
-* [Regular cleaning and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4347.md)
-* [Monitoring systems and maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4348.md)
-* [Regular hvac maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4349.md)
+* [Measures in operation and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_108.md)
+* [Improve maintenance and management practices, allocate sufficient resources for upkeep and maintenance, establish regular inspections and maintenance schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2409.md)
 * [Maintenance and decontamination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_229.md)
 * [Promptly repair and maintain infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2528.md)
+* [Regular maintenance and inspections, backup systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2338.md)
 * [Regular maintenance and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2873.md)
+* [Implement regular maintenance plans and ensure proper care and upkeep of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2071.md)
+* [Implement regular maintenance schedules and allocate sufficient resources for ugs upkeep.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2248.md)
+* [Regular maintenance, cleanliness, proper lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1539.md)
+* [Regular maintenance and cleaning of hvac systems, following proper cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2386.md)
 
 ## Benefits linked to a risk
 

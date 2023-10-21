@@ -52,13 +52,13 @@ Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A o
 
 ## This article mentions these technologies
 
+* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
 * [Urban planning and design strategies that prioritize diversity in green space creation and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_841.md)
+* [Urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_840.md)
 * [Pocket gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_846.md)
 * [Maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_842.md)
-* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
-* [Urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_840.md)
+* [Outdoor terraces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_847.md)
 * [Urban planning and design strategies for green space integration in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_844.md)
 * [Green roof installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_845.md)
 * [Trained personnel for green space maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_843.md)
-* [Outdoor terraces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_847.md)
 

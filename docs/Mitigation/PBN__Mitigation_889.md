@@ -33,6 +33,6 @@ Monitoring and quantifying the reduction in traffic flow to understand the effic
 
 ## This Mitigation is enabled by the following technologies
 
-* [Traffic sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2755.md)
 * [Iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2754.md)
+* [Traffic sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2755.md)
 

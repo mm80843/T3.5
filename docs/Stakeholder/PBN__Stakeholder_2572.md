@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2572 
 
-# __National and local policies__
+# __Social networking platforms__
 
 ## Category to which it belongs
 
-* [Public administrators and decision-makers responsible for creating and implementing government policies and regulations at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_410.md)
+* [Users of various digital platforms including social media, apps, websites, and online networking platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_434.md)
 
 ## Closest similar item
 
-* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2568.md)
-* [Government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2840.md)
-* [Policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2839.md)
-* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2842.md)
-* [Community policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3139.md)
-* [Policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2569.md)
-* [Inclusive policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3441.md)
-* [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2841.md)
-* [City governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
-* [Policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3442.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_554.md)
+* [Social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2573.md)
+* [Online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2667.md)
+* [Social medium platform](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1784.md)
+* [Online platforms and social media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2574.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2571.md)
+* [Social medium user](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2346.md)
+* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2668.md)
+* [Social media users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_82.md)
+* [Social media companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_555.md)
 

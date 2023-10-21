@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4660.md)
-* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4661.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4662.md)
-* [Providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4663.md)
-* [User privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3512.md)
-* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4664.md)
-* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4390.md)
-* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3509.md)
-* [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4665.md)
-* [Personal protective equipment ppe use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4666.md)
+* [Personal safety and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3562.md)
+* [Prevention and protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_975.md)
+* [Inadequate protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2632.md)
+* [Lack of protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2492.md)
+* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
+* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2069.md)
+* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1096.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3443.md)
+* [Privacy protection measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3442.md)
 
 ## Mitigations of this risk
 

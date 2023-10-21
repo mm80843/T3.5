@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Nano-spray technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5397.md)
-* [Spraying disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4771.md)
-* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5001.md)
+* [Spraying equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2148.md)
+* [Cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2691.md)
+* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1114.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
+* [Plastic tubes with insecticide-laden electrostatic netting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3671.md)
+* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
+* [Spraying-down disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3475.md)
+* [High voltage electrodes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2991.md)
 * [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
-* [Update and improve the design of negative air ionizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5398.md)
-* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1140.md)
-* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3660.md)
-* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3667.md)
-* [Portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5003.md)
-* [Indoor residual spraying irs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5399.md)
+* [Air disinfector based on plasma](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3617.md)
 
 ## This Technology enables the following mitigations
 

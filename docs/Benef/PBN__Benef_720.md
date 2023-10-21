@@ -19,8 +19,8 @@ Disinfectants can kill and inactivate the virus on surfaces, reducing the risk o
 ## Stakeholders benefitting from this Benefit
 
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [Businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 * [Healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_215.md)
+* [Businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 
 ## Risks which can benefit from this action
 

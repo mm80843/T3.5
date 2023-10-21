@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Acetone cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5066.md)
-* [Avoid ace inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5067.md)
+* [Ethanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_851.md)
 * [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
+* [Polycarbonate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_478.md)
 * [Chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2966.md)
+* [Alcohols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_849.md)
+* [Activated carbon](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1889.md)
 * [Chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
 * [Products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3266.md)
 * [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1930.md)
-* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
-* [Sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2710.md)
-* [Copper coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3812.md)
+* [Pesticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
 
 ## This Technology enables the following mitigations
 

@@ -14,10 +14,10 @@
 * [Proper classification and disinfection of hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_933.md)
 * [Develop waste separation and disinfection strategies, proper disposal and recycling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2895.md)
 * [Regular disinfection, high-level hygiene practices, waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1722.md)
+* [Implementation of effective disinfection technologies for hospital wastewater treatment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3007.md)
 * [Develop waste management strategies, including proper waste segregation and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2937.md)
 * [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_237.md)
 * [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_324.md)
-* [Proper disposal methods for chemical wastes, including hazardous waste treatment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3006.md)
 
 ## Risks possibly mitigated by this Mitigation
 

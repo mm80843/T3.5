@@ -4,8 +4,8 @@
 
 ## Items covered in this category
 
-* [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_676.md)
-* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_678.md)
-* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_679.md)
-* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_680.md)
+* [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_239.md)
+* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_240.md)
+* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_241.md)
+* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_242.md)
 

@@ -13,7 +13,7 @@
 * [Blood recipients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1375.md)
 * [Blood banks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1376.md)
 * [International donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1474.md)
-* [Medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3092.md)
+* [Medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2612.md)
 * [Volunteers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_805.md)
 * [Aid recipients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_752.md)
 * [Funding body](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1823.md)

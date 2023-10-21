@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_65 
 
-# __Smartphone technology__
+# __Print media__
 
 ## Category to which it belongs
 
-* [Cutting-edge advancements transforming the way we interact, from smart devices to virtual healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_55.md)
+* [Advancements in additive manufacturing and specialized substrates for diverse applications in digital fabrication and publishing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_82.md)
 
 ## Closest similar item
 
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_48.md)
-* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_41.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
-* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_330.md)
-* [Mobile app technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_417.md)
-* [Mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_37.md)
-* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
-* [Smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_332.md)
-* [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_333.md)
-* [Smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_331.md)
+* [Ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_223.md)
+* [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_18.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_58.md)
+* [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_219.md)
+* [Improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_220.md)
+* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_221.md)
+* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_62.md)
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_1.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_61.md)
 

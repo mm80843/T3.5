@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4505.md)
-* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4500.md)
-* [Isolation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4501.md)
-* [Creating isolation room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5157.md)
-* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5158.md)
-* [Quarantine and isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4212.md)
-* [Home isolation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5159.md)
+* [Dedicated isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3039.md)
+* [Dedicated isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2768.md)
+* [Isolation rooms or designated isolation areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3011.md)
+* [Isolation areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2356.md)
 * [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
-* [Isolation space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4507.md)
-* [Isolation/quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5160.md)
+* [Isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1655.md)
+* [Isolation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_673.md)
+* [Public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2638.md)
+* [Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
+* [Shelter facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2156.md)
 
 ## This Technology enables the following mitigations
 

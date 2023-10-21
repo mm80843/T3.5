@@ -22,6 +22,6 @@
 ## This Technology belongs to this TechnologySubgroup
 
 * [Temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_359.md)
-* [Thermal scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1601.md)
 * [Temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1459.md)
+* [Thermal scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1601.md)
 

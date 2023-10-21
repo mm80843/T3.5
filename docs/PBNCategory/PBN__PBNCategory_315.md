@@ -5,9 +5,9 @@
 ## Items covered in this category
 
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
-* [Architectural & construction materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_161.md)
-* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_163.md)
-* [Green building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_165.md)
-* [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_168.md)
-* [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_169.md)
+* [Architectural & construction materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_120.md)
+* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_122.md)
+* [Green building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_124.md)
+* [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_127.md)
+* [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_128.md)
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Reliability and robustness of next-generation wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4616.md)
 * [Development of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_934.md)
 * [Develop wearable devices that are biocompatible, energy efficient, compliant, and compact without compromising performance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1559.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4612.md)
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_498.md)
-* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4614.md)
-* [Safety wearables and carry-ons](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4617.md)
 * [Develop device-agnostic adms that can be applied to various types of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1716.md)
-* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4613.md)
+* [Regular calibration and verification of wearable devices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1679.md)
 * [Integration of additional sensors into wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1422.md)
+* [Combining telemedicine with wearable technology for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_952.md)
+* [Smart personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1278.md)
+* [Establish standardized accuracy measures specific to covid-19 detection and adoption for evaluating the performance of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1717.md)
+* [Implement robust data security measures, ethical guidelines, and regulatory frameworks for collecting and utilizing wearable device data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1560.md)
 
 ## Benefits linked to a risk
 

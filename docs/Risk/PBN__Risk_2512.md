@@ -16,7 +16,7 @@
 * [Transmission through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1366.md)
 * [Transmission via contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_72.md)
 * [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
-* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4195.md)
+* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3595.md)
 * [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1324.md)
 
 ## Mitigations of this risk

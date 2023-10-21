@@ -12,14 +12,14 @@
 
 ## Closest similar item
 
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2638.md)
+* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2575.md)
 * [Supply chain organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_14.md)
 * [Supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_15.md)
 * [Supply chain professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_16.md)
 * [Supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_983.md)
 * [Suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_283.md)
 * [Supplier](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1831.md)
-* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2640.md)
-* [Local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2639.md)
+* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2577.md)
+* [Local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2576.md)
 * [Workers in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1384.md)
 

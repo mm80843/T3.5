@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Use of professional signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_792.md)
+* [Use of branded signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_795.md)
 * [Use of standardized signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_793.md)
-* [Retail store signs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4627.md)
 * [Retailers should prioritize the use of professional signs for important and standardized messaging, and remove or update informal signs to avoid confusion.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2288.md)
-* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4624.md)
-* [Professional signs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4625.md)
-* [Health and safety rule signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4623.md)
-* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4622.md)
-* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4626.md)
-* [Informal signs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5045.md)
+* [Retailers should provide clear and updated information through signage, online channels, and verbal communication.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2285.md)
+* [Small retailers should include alternative contact information on signs and other communication channels to stay connected with customers during closures or disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2287.md)
+* [Establish and enforce workplace rules and signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_386.md)
+* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3335.md)
+* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1015.md)
+* [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1813.md)
 
 ## Risks possibly mitigated by this Mitigation
 

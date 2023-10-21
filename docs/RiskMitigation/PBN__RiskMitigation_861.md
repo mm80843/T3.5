@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Proximity shopping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4364.md)
-* [Shared facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4478.md)
 * [Self-sufficiency in shopping facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_445.md)
-* [Use of local suppliers and warehouse stock](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4931.md)
-* [Online shopping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4940.md)
-* [Promoting online shopping and delivery services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5096.md)
-* [Supporting access to technology and capital goods in global south](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5097.md)
+* [Implementing digital and ict tools for retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1045.md)
+* [Provide access to hand hygiene stations, improve sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1968.md)
 * [Restrictions on shared facilities, devices, and services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1725.md)
-* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4481.md)
-* [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4363.md)
+* [Providing resources and support, clear communication of guidelines, ensuring access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2964.md)
+* [Service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_971.md)
+* [Localised manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_622.md)
+* [Monitoring buying behavior and limiting purchases; optimizing supply chains; surveillance and enforcement against hoarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3035.md)
+* [Provide food parcels and free meals, increase availability of basic food products, adapt delivery services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2398.md)
+* [Designated community-level areas for essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_329.md)
 
 ## Benefits linked to a risk
 

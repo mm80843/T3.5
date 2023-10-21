@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_708.md)
-* [Efficient workforce management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4907.md)
-* [Workforce training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4342.md)
-* [Worker education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4908.md)
+* [Labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_580.md)
+* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_936.md)
 * [Overhaul employment services and vocational training systems, coordinate efforts to retrain and redeploy workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2954.md)
+* [Softening labor market impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_496.md)
 * [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1376.md)
-* [Support to overstretched staff](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4909.md)
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4910.md)
-* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4341.md)
-* [Ensure labor supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4911.md)
+* [Implementing strategies to cope with staff shortages and consider alternative staffing options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1984.md)
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3238.md)
+* [Provide unemployment benefits, retrain and reskill workers, support job creation in emerging sectors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2903.md)
+* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_901.md)
 
 ## Benefits linked to a risk
 

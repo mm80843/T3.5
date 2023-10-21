@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1770.md)
-* [Identify and assess vulnerabilities, implement risk mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4501.md)
+* [Identify and assess vulnerabilities, implement risk mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3635.md)
 * [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
 * [False sense of security from preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1812.md)
-* [Implement robust data security measures, encryption, access controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3607.md)
+* [Implement robust data security measures, encryption, access controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3636.md)
 * [Low adoption of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1803.md)
 * [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3348.md)
 * [Misinterpretation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1810.md)
 * [Vulnerability assessment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_458.md)
-* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3602.md)
+* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3455.md)
 
 ## Description of the risk
 

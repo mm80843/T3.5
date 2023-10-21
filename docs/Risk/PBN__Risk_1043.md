@@ -8,13 +8,13 @@
 
 ## Closest similar item
 
-* [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3653.md)
-* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3646.md)
+* [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3548.md)
+* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3477.md)
 * [Inadequate maintenance and management of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1808.md)
 * [Loss of green spaces due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1371.md)
 * [Lack of green space in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_141.md)
 * [Lack of green space in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1407.md)
-* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3473.md)
+* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
 * [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
 * [Lack of equitable distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1807.md)
 * [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_325.md)

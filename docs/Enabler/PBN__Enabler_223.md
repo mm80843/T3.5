@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_223 
 
-# __Iot protocols__
+# __Ordinary printer paper__
 
 ## Category to which it belongs
 
-* [A compilation of interconnected devices, networks, sensors, and protocols known as the internet of things iot .](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_63.md)
+* [Advancements in additive manufacturing and specialized substrates for diverse applications in digital fabrication and publishing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_82.md)
 
 ## Closest similar item
 
-* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_240.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
-* [Implementation of iot](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_248.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_238.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_241.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_239.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_246.md)
-* [Iot data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_249.md)
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_242.md)
-* [Implement iot technologies and data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_256.md)
+* [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_18.md)
+* [Print media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_65.md)
+* [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_219.md)
+* [Improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_220.md)
+* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_221.md)
+* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_222.md)
+* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_60.md)
+* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
+* [Signage materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_229.md)
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_62.md)
 

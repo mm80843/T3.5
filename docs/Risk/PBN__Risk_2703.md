@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1135.md)
+* [Lack of control of environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1243.md)
+* [Environmental impacts, lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2780.md)
+* [Lack of environmental precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
+* [Lack of natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2092.md)
+* [Lack of nature exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2912.md)
+* [Lack of knowledge and awareness about green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3328.md)
 * [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
 * [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_131.md)
-* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
-* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2834.md)
-* [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3324.md)
-* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
-* [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
-* [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2047.md)
-* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2734.md)
 
 ## Mitigations of this risk
 

@@ -10,9 +10,9 @@
 
 * [Confidentiality breach in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2216.md)
 * [Confidentiality and risk management in telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_897.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3678.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3693.md)
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3835.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3490.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3498.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3499.md)
 * [Ineffective reachability to patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_997.md)
 * [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2387.md)
 * [Integration of telemedicine with wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_688.md)

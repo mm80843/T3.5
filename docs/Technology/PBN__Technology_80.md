@@ -11,13 +11,13 @@
 * [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3270.md)
 * [Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2257.md)
 * [Innovative insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_375.md)
-* [Development of new materials for better insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3885.md)
-* [Research and develop new materials for insulation and building performance, enhance construction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
 * [Proper insulation materials and cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3077.md)
-* [Improve insulation and heating systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3887.md)
 * [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2276.md)
-* [Technology and materials for protection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3888.md)
-* [Sound insulation, use of acoustic materials, noise control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3915.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
+* [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
+* [Physical barrier materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3307.md)
+* [Living materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3723.md)
+* [Architectural & construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2097.md)
 
 ## This Technology belongs to this TechGroup
 

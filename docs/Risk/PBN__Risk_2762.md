@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Difficulty in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2759.md)
-* [Communication and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3706.md)
+* [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_397.md)
+* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2868.md)
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1353.md)
 * [Poor communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1747.md)
 * [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
-* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3716.md)
+* [Limited collaboration and communication across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3281.md)
 * [Communication challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1933.md)
 * [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
 * [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
-* [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1091.md)
-* [Communication barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3178.md)
 
 ## Mitigations of this risk
 

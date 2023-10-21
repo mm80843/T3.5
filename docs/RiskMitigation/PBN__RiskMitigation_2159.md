@@ -16,7 +16,7 @@
 * [Promote reliable and verifiable sources of information; educate the public on how to critically evaluate information; combat misinformation through fact-checking and debunking.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2602.md)
 * [Fact-checking, reliable sources, education on identifying misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2354.md)
 * [Providing accurate information through reliable sources, fact-checking, education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2330.md)
-* [Education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3723.md)
+* [Education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3152.md)
 * [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_553.md)
 
 ## Risks possibly mitigated by this Mitigation

@@ -13,11 +13,11 @@
 * [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1926.md)
 * [Water and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_574.md)
 * [Inadequate treatment of wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3855.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3560.md)
 * [Drinking water treatment and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
 * [Poor quality drinking water, lack of proper wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2558.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3656.md)
-* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3853.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
+* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3558.md)
 
 ## Description of the risk
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Java language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5439.md)
-* [Tracetogether app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5440.md)
-* [Web scraping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5441.md)
-* [Online data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5442.md)
-* [Information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5443.md)
-* [Monitoring data sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5444.md)
-* [Phosphate buffered saline pbs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5445.md)
-* [Garden access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4563.md)
-* [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5446.md)
-* [Cluster identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5447.md)
+* [Html parsing library](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3033.md)
+* [Web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3133.md)
+* [Social media monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_564.md)
+* [Java programming language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3034.md)
+* [Data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1001.md)
+* [Ontology lookup service ols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
+* [Real-time data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3639.md)
+* [Web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_243.md)
+* [Open-source structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3006.md)
+* [Remote data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1698.md)
 
 ## This Technology enables the following mitigations
 

@@ -32,8 +32,8 @@ The Effect of Opening Windows on Air Change Rates in Two Homes
 
 ## List of risks in an article
 
-* [Hvac characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1472.md)
 * [Home structure differences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1471.md)
+* [Hvac characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1472.md)
 * [Occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1469.md)
 * [Meteorological conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1470.md)
 

@@ -14,10 +14,10 @@
 * [Linguistic experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1593.md)
 * [Individuals in multilingual environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1592.md)
 * [Individual in multilingual environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2233.md)
-* [Translation services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3847.md)
+* [Translation services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2826.md)
 * [European](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_361.md)
 * [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_551.md)
-* [Translation tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3844.md)
+* [Translation tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2823.md)
 
 ## Risk affecting this stakeholder
 

@@ -20,16 +20,16 @@
 
 ## Closest similar item
 
+* [Building designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_11.md)
 * [Urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_380.md)
+* [Design professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_365.md)
+* [Building designer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1851.md)
 * [Interior designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1414.md)
+* [Lighting designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_645.md)
+* [Building design professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1238.md)
+* [Urban planners and designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1225.md)
 * [Architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
-* [Interior design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2620.md)
-* [Universal design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2621.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2618.md)
-* [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2619.md)
-* [Architectural design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2622.md)
-* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1148.md)
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2567.md)
+* [Architect](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_364.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -47,16 +47,16 @@
 * [Lack of spatial variety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1867.md)
 * [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1861.md)
 * [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1449.md)
+* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
 * [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
+* [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 * [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
 * [Inefficient space utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
-* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
 * [Lack of passive survivability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1872.md)
 * [Mainstreaming health criteria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1447.md)
 * [Temporary transformations becoming permanent](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1450.md)
 * [Safety concerns with 3d-printed ppe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2369.md)
 * [Inadequate window views](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_951.md)
-* [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 * [Inadequate unit sizes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1871.md)
 * [Inconvenience and cost of mask filters in smart face masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2372.md)
 * [Noise and inconvenience of personal air-purifying shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2371.md)
@@ -66,7 +66,7 @@
 ## Risk affecting this stakeholder
 
 * [Site selection near open water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1814.md)
-* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
 * [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
+* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
 * [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 

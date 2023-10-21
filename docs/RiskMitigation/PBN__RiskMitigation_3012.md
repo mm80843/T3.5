@@ -10,14 +10,14 @@
 
 * [Continuously monitor and evaluate the impact of interventions, adjust policies accordingly](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1885.md)
 * [Continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1000.md)
-* [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4977.md)
 * [Ensure timely implementation of control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2846.md)
 * [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_664.md)
-* [Remain alert and responsive to changing needs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5137.md)
 * [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_555.md)
+* [Continuously monitor and adjust project plans and schedules to minimize delays, cost overruns, and scope changes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2614.md)
 * [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_831.md)
 * [Implement adaptive policies based on surveillance data to trigger interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1884.md)
-* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4046.md)
+* [Remain alert and responsive to changing priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_558.md)
+* [Continuous monitoring and adjustment of treatment processes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2514.md)
 
 ## Risks possibly mitigated by this Mitigation
 

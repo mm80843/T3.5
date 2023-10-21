@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3798.md)
 * [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1154.md)
+* [Public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1545.md)
+* [Information and education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2770.md)
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1117.md)
+* [Education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_871.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
-* [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_984.md)
-* [Job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_630.md)
-* [Educational and training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3800.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3749.md)
+* [Education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2154.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3750.md)
 
 ## This Technology belongs to this TechGroup
 
@@ -40,7 +40,7 @@
 
 ## Risks linked to this technology
 
-* [Lack of understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1525.md)
 * [Poor compliance with interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1529.md)
+* [Lack of understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1525.md)
 * [Limited accessibility due to education level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2222.md)
 

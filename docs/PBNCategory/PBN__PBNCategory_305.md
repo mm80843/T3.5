@@ -5,7 +5,7 @@
 ## Items covered in this category
 
 * [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_68.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_70.md)
-* [Ai support systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_71.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_37.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_63.md)
+* [Ai support systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_64.md)
 

@@ -11,13 +11,13 @@
 * [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2122.md)
 * [Robots, drones & automated vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3735.md)
+* [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1169.md)
+* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
+* [Risk detection systems and drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2071.md)
 * [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_414.md)
+* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
+* [Uavs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3331.md)
 * [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
-* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2034.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1650.md)
-* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
-* [Surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2852.md)
 
 ## This Technology enables the following mitigations
 

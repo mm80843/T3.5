@@ -39,9 +39,9 @@ Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights f
 ## List of risks in an article
 
 * [Transmission through person-to-person contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2084.md)
+* [Lack of preexisting immunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
 * [High infection-to-fatality ratio, particularly for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2087.md)
 * [Infections from asymptomatic individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2086.md)
-* [Lack of preexisting immunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
 * [Negative impact on renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2089.md)
 * [Disruption of energy supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2088.md)
 
@@ -79,9 +79,9 @@ Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights f
 * [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
 * [Rapid testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_28.md)
 * [Financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
+* [Thermal scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1601.md)
 * [Policy support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1607.md)
 * [Renewable energy development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1606.md)
-* [Thermal scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1601.md)
 * [Healthcare capacity planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1604.md)
 * [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1602.md)
 * [Vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1603.md)

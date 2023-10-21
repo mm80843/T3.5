@@ -12,16 +12,16 @@ enabler_008
 
 ## Closest similar item
 
-* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_261.md)
-* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_265.md)
-* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_244.md)
-* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_243.md)
-* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_264.md)
-* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_287.md)
-* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_288.md)
-* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_245.md)
-* [Light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_289.md)
-* [Sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_290.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_117.md)
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_126.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_115.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_114.md)
+* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
+* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_127.md)
+* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_129.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_116.md)
+* [Light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_130.md)
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_119.md)
 
 ## Thees blueprints use this enabler
 
@@ -30,7 +30,7 @@ enabler_008
 * [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
 * [Drinking water safety - restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3731.md)
 

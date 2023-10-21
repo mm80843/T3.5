@@ -14,8 +14,8 @@
 * [Financial sustainability of water sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1896.md)
 * [Financial sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_719.md)
 * [Lack of access to clean energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3261.md)
-* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3737.md)
-* [Sustainable practices and renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3543.md)
+* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3509.md)
+* [Sustainable practices and renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3448.md)
 * [Financial viability of businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3257.md)
 * [Energy poverty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3255.md)
 

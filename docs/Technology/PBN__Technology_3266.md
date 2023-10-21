@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4259.md)
-* [Limiting product range](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4260.md)
-* [Marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2935.md)
-* [Hardware and devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4261.md)
-* [Designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4262.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
-* [Technology and innovation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4263.md)
-* [Innovative projects](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4264.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2857.md)
+* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
+* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2534.md)
+* [Sanitizing products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3432.md)
+* [Cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_881.md)
+* [Advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2858.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2470.md)
+* [Supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2681.md)
+* [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
+* [Marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1702.md)
+* [Software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3372.md)
 
 ## This Technology enables the following mitigations
 

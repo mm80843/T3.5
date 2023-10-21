@@ -35,11 +35,11 @@ Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronav
 
 ## List of risks in an article
 
+* [Comparability of far-uvc light with conventional germicidal uv light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1223.md)
 * [Contagious transmission of pathogens in public settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1220.md)
 * [Safety of far-uvc light exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1222.md)
 * [Inactivation of human coronaviruses by far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1221.md)
 * [Limited penetration of far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1219.md)
-* [Comparability of far-uvc light with conventional germicidal uv light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1223.md)
 
 ## This article points to following mitigation
 
@@ -54,10 +54,10 @@ Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronav
 
 * [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_311.md)
 * [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_184.md)
 * [Air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_308.md)
-* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_311.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_312.md)
 * [Far-uvc light sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_309.md)
 * [Irradiation chambers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_310.md)
-* [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_312.md)
 

@@ -1,4 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2563 
 
-# __Public awareness campaigns__
+# __Urban design principles__
+
+## Category to which it belongs
+
+* [The diverse group of individuals, organizations, and professionals involved in the study, development, and management of cities and their communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_409.md)
+
+## Closest similar item
+
+* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2529.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2565.md)
+* [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2566.md)
+* [Urban planners and designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1225.md)
+* [Urban planning and architectural institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_308.md)
+* [Urban systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_597.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2605.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2567.md)
+* [Urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_380.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 

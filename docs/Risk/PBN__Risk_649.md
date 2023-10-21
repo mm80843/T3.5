@@ -11,7 +11,7 @@
 * [Social media use during covid-19 increases public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_650.md)
 * [Social media use during covid-19 increases awareness of official organizations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_652.md)
 * [Psychological impact of covid-19 infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_34.md)
-* [Social media use during covid-19 affects decision-makers’ decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4604.md)
+* [Social media use during covid-19 affects decision-makers’ decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3644.md)
 * [Psychological and mental health challenges during covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_822.md)
 * [Covid-19 travel anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1200.md)
 * [Fear of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1217.md)

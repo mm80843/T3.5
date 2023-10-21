@@ -29,6 +29,6 @@
 * [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1011.md)
 * [Use of air purifiers or ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_857.md)
 * [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
-* [Upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_645.md)
 * [Upgrading ventilation systems and implementing air purification methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_646.md)
+* [Upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_645.md)
 

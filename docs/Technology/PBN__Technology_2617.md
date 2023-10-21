@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Smart building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_208.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
 * [Integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2439.md)
 * [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
-* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4007.md)
 * [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
 * [Building information modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
-* [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4008.md)
-* [Non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4750.md)
-* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4006.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4751.md)
+* [Design & construction software bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3741.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
+* [Smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1598.md)
+* [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
 
 ## This Technology enables the following mitigations
 

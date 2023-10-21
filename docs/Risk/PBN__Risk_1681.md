@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Inefficient ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1726.md)
-* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3788.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3787.md)
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3789.md)
-* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3790.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3791.md)
-* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3786.md)
+* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3536.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3535.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3537.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3538.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3539.md)
+* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3534.md)
 * [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
 * [Inadequate natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_275.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3784.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3532.md)
 
 ## Description of the risk
 

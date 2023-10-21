@@ -10,7 +10,7 @@
 
 * [Uvgi systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
 * [Effect of rh on uv susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2274.md)
-* [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4210.md)
+* [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3597.md)
 * [Lack of definitive epidemiologic data on the ability of uvgi systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1746.md)
 * [Health risks from uv-c radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2271.md)
 * [Lack of standardized tests and protocols for uvgi efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1742.md)

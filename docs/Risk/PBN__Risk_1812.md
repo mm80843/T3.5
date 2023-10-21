@@ -12,12 +12,12 @@
 * [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
 * [Low adoption of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1803.md)
 * [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3348.md)
-* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3602.md)
-* [Enhanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3604.md)
+* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3455.md)
+* [Enhanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
 * [Vulnerability to control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
 * [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1106.md)
 * [Prevention and protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_975.md)
-* [Personal safety and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3857.md)
+* [Personal safety and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3562.md)
 
 ## Description of the risk
 

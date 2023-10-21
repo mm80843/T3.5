@@ -16,7 +16,7 @@
 * [Publishers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1556.md)
 * [Journalists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1776.md)
 * [Journalist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1771.md)
-* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2897.md)
+* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2601.md)
 * [Reporters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1782.md)
 
 ## Risks that can be mitigated by this stakeholder

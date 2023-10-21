@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3021.md)
-* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4979.md)
-* [Virtual assessments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4980.md)
-* [Virtual e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4398.md)
-* [Rapid development of virtual educational platforms, e-learning packages, virtual assessments.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4400.md)
-* [Online education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4981.md)
-* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4137.md)
+* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1420.md)
+* [Virtual classes and workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_417.md)
 * [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2053.md)
-* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4399.md)
-* [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4017.md)
+* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2128.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1231.md)
+* [Virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_68.md)
+* [Virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_628.md)
+* [Virtual team-building activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1401.md)
+* [Virtual training tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_813.md)
 
 ## This Technology belongs to this TechGroup
 

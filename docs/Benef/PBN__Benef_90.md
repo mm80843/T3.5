@@ -16,8 +16,8 @@ Predators such as fish and birds feed on mosquito larvae, reducing tick populati
 
 ## Stakeholders benefitting from this Benefit
 
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [Public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 
 ## Risks which can benefit from this action
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2640.md)
-* [Supplies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2649.md)
-* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2642.md)
-* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2648.md)
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2638.md)
-* [Alternative sourcing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2650.md)
-* [Market competition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2651.md)
-* [Ppe equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2652.md)
-* [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_535.md)
-* [Incentives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2653.md)
+* [Procurement department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1684.md)
+* [Procurement departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_950.md)
+* [Procurement teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_905.md)
+* [Procurement team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1751.md)
+* [Suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_283.md)
+* [Equipment suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_747.md)
+* [Supplier](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1831.md)
+* [Equipment supplier](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1844.md)
+* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2577.md)
+* [Supplies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2584.md)
 
 ## Risks that can be mitigated by this stakeholder
 

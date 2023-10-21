@@ -13,6 +13,6 @@
 * [Crowd-management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1866.md)
 * [Social nan distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1867.md)
 * [Prevention protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1864.md)
-* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1871.md)
 * [Nan promotion of outdoor nan nan activities during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1872.md)
+* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1871.md)
 

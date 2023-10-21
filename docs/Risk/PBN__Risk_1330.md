@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
-* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3519.md)
 * [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
-* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3516.md)
-* [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3847.md)
-* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3517.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
-* [Enforcing data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3615.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3515.md)
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
 * [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_960.md)
+* [Limited data availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2943.md)
+* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1075.md)
+* [Limited access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_381.md)
+* [Non-standardized data collection, data sharing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2587.md)
+* [Data sharing barriers, legal frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2590.md)
+* [Limited access to patient health data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_158.md)
 
 ## Description of the risk
 

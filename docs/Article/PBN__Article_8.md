@@ -45,6 +45,7 @@ COVID-19 and the rise of intimate partner violence
 ## This article mentions these technologies
 
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [Online campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_46.md)
 * [Digital platforms and online resources for reporting and seeking help](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_39.md)
 * [Centralized reporting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_41.md)
 * [Digital platforms for counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_42.md)
@@ -52,5 +53,4 @@ COVID-19 and the rise of intimate partner violence
 * [Helpline services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_43.md)
 * [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
 * [Job creation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_45.md)
-* [Online campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_46.md)
 

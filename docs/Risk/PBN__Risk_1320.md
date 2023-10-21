@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1230.md)
-* [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4064.md)
-* [High-rise density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4046.md)
-* [Reduction in commercial building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3989.md)
+* [High occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
+* [Low residential density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_621.md)
 * [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
-* [Density of cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3445.md)
-* [Rethinking of density in cities and urban layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3446.md)
-* [Occupant density control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4070.md)
-* [Reducing population density of built-up areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3450.md)
-* [Design spaces with lower occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3936.md)
+* [Environmental factors in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_873.md)
+* [High energy consumption in unoccupied buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_976.md)
+* [Inadequate airflow in apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_229.md)
+* [Building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
+* [Unbalanced utilization of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_784.md)
+* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_16.md)
 
 ## Description of the risk
 
@@ -60,8 +60,8 @@ Increase in risk of transmission of pathogens, including SARS-CoV-2.
 ## People affected by this risk
 
 * [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

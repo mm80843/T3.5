@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Improve healthcare infrastructure, increase funding for healthcare services, implement telemedicine and mobile healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1895.md)
+* [Increase healthcare capacity, prioritize resources, telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2168.md)
 * [Strengthen healthcare systems and ensure access to essential healthcare services through telemedicine and mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2362.md)
+* [Increased healthcare capacity, resource allocation planning, telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2790.md)
 * [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_49.md)
+* [Strengthen healthcare infrastructure, increase resources and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2283.md)
 * [Increase investment in healthcare infrastructure and disease surveillance systems, improve access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2727.md)
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3436.md)
 * [Expanding healthcare facilities, increasing medical staff, and implementing triage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2656.md)
 * [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_43.md)
 * [Investing in healthcare infrastructure, allocating resources for healthcare facilities, enhancing surveillance and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1615.md)
-* [Increase healthcare system capacity, implement triage protocols, and prioritize care for severe cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2314.md)
-* [Deploy telehealth solutions, use of ai and robotics in healthcare, support research and development efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2397.md)
 
 ## Risks possibly mitigated by this Mitigation
 

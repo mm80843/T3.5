@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Dilution and dispersion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4950.md)
-* [Concentration method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3144.md)
-* [Concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3140.md)
 * [Increase ventilation rate to dilute contaminants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2802.md)
-* [Virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3139.md)
 * [Developing effective virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_992.md)
 * [Increase water movement and aeration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_79.md)
 * [Implement strict disinfection and](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3019.md)
-* [Reducing population flow](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4483.md)
-* [Differentiate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4951.md)
+* [Reduction in traffic volumes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_814.md)
+* [Implement proper disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2881.md)
+* [Strict disinfection measures, hand](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3015.md)
+* [Mitigation function](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_771.md)
+* [Implement measures to reduce patient overcrowding, such as increasing healthcare facility capacity or redirecting patients to different facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1859.md)
+* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3346.md)
 
 ## Benefits linked to a risk
 

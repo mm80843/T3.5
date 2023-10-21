@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Educational and training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3800.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 * [Training materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1659.md)
 * [Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2035.md)
 * [Training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2682.md)
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+* [Resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2860.md)
+* [Education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2154.md)
 * [Job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_630.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
-* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3802.md)
-* [Providing effective guidance and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4435.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3749.md)
+* [Training and certification programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
 
 ## This Technology enables the following mitigations
 

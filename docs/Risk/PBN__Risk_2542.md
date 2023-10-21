@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3625.md)
 * [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_337.md)
+* [Spread of respiratory viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_71.md)
 * [Virus transmission through aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_509.md)
 * [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3063.md)
-* [Dilution and removal of infectious particles in room air through ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3659.md)
 * [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2443.md)
 * [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_338.md)
-* [Chemical deactivation of viral particles on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3660.md)
-* [Uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3623.md)
-* [Modeling studies of viral activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3661.md)
+* [Exposure to the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1851.md)
+* [Spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2415.md)
+* [Virus transmission via air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1624.md)
+* [Airborne transmission of respiratory particles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3004.md)
 
 ## Mitigations of this risk
 

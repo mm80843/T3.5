@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Implementing preventive measures such as hygiene practices, social distancing, and vaccination; improving ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2016.md)
+* [Implement public health measures based on climate, improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2294.md)
+* [Encourage the use of face masks, maintain physical distancing, and implement good respiratory hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2255.md)
+* [Implement hygiene and sanitation measures, promote social distancing, improve air ventilation and filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2906.md)
 * [Implement measures to reduce air pollution, promote clean energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2137.md)
-* [Enhanced respiratory protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5018.md)
-* [Public health and safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3165.md)
-* [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2204.md)
-* [Implement physical distancing measures, improve ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2335.md)
-* [Wearing face masks, practicing physical distancing, using respiratory hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2382.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4351.md)
-* [Respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4877.md)
-* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3275.md)
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_375.md)
+* [Implement effective infection control measures, such as regular cleaning and disinfection, ventilation systems, and promoting personal hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2504.md)
+* [Implementing physical distancing measures, providing access to hand hygiene facilities, promoting mask-wearing, regular cleaning and disinfection of surfaces, and limiting the capacity of public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2229.md)
+* [Implement proper ventilation systems in buildings, maintain good airflow and air exchange rates.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2637.md)
+* [Maintain physical distance, wear masks, ensure proper ventilation, and practice good respiratory hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1866.md)
+* [Implement infection control measures, improve ventilation systems, implement air filtration and uv light sterilisation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1765.md)
 
 ## Risks possibly mitigated by this Mitigation
 

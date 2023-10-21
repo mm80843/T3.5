@@ -11,8 +11,8 @@
 
 ## This article mentions these technologies
 
-* [Data validation and quality control nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1573.md)
-* [Cybersecurity technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1574.md)
 * [Data filtering and processing nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1575.md)
+* [Data validation and quality control nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1573.md)
 * [Improved wireless communication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1569.md)
+* [Cybersecurity technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1574.md)
 

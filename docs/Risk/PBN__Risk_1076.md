@@ -57,8 +57,8 @@ Decreased quality of life, increased psychological distress, and potential long-
 * [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [Support organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_789.md)
 * [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 * [Mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1029.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 
 ## Articles mentionning the risk
 

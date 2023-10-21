@@ -14,10 +14,10 @@
 * [Improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1524.md)
 * [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_194.md)
 * [Energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
-* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3845.md)
+* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3752.md)
 * [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
 * [Hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
-* [Hvac and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3850.md)
+* [Hvac and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3756.md)
 
 ## This Technology enables the following mitigations
 

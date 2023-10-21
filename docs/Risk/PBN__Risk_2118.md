@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3980.md)
+* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3579.md)
 * [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2119.md)
 * [Control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3270.md)
-* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3621.md)
-* [Implement engineering and administrative controls, provide ppe.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3981.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3617.md)
-* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3616.md)
-* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3495.md)
-* [Evaluating control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3618.md)
-* [Vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3982.md)
+* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
+* [Implement engineering and administrative controls, provide ppe.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3580.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
+* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3435.md)
+* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_496.md)
+* [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2930.md)
+* [Vulnerability to control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
 
 ## Description of the risk
 

@@ -66,9 +66,9 @@ Higher infection rates, potential outbreaks, and increased risk of cross-contami
 ## Technologies linked to the risk
 
 * [Uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1024.md)
+* [Use of touchless technologies such as automatic faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1020.md)
 * [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1023.md)
 * [Soap dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1021.md)
-* [Use of touchless technologies such as automatic faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1020.md)
 * [Trash bins](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1022.md)
 
 ## Property: has_RiskType

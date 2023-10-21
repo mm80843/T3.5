@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Wider trails and walkways](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3681.md)
 * [Widening sidewalks and re-designing pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1253.md)
-* [Broad sidewalks and pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3682.md)
 * [Re-design streets to widen sidewalks, create more bike lanes, and prioritize pedestrian spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1970.md)
+* [Trails that are more remote](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1228.md)
 * [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_741.md)
-* [Creating more bike lanes and pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3683.md)
+* [Improve transportation to green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1311.md)
+* [Increase park access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1317.md)
+* [Wider corridors and doorways](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1436.md)
+* [Replacement with bicycle paths and walking opportunities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_291.md)
 * [Proper planning and spacing of roadside vegetation, regular maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2217.md)
-* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3234.md)
-* [Wider doorways and corridors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3684.md)
-* [Allocation of entry and exit points, signage, and wayfinding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1720.md)
+* [Green trail segments with greater tree cover and vegetation greenness values](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1227.md)
 
 ## Benefits linked to a risk
 

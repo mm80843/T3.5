@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Implement widespread testing and contact tracing measures, promote mask-wearing and physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1870.md)
+* [Social distancing, wearing masks, frequent handwashing, testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2329.md)
+* [Promoting social distancing, wearing masks, and implementing strict hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2653.md)
+* [Testing, contact tracing, social distancing, hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2940.md)
+* [Promote and educate on the importance of preventive measures, enforce regulations on mask wearing and hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2404.md)
 * [Use of face masks, social distancing, and proper hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2079.md)
+* [Increased testing capacity, contact tracing, and public health campaigns to promote preventive measures such as mask-wearing and social distancing can help mitigate the risk.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2163.md)
+* [Implementing strict social distancing measures, promoting proper hygiene practices, and widespread testing and contact tracing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2835.md)
+* [Implementing strict hygiene and sanitation measures, promoting social distancing, and enforcing mask-wearing in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1460.md)
 * [Encouraging the use of face masks, practicing respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1758.md)
-* [Mandatory use of masks,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_972.md)
-* [Mask prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5079.md)
-* [Cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5199.md)
-* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3882.md)
-* [Wearing face masks, practicing physical distancing, using respiratory hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2382.md)
-* [Wearing of masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3880.md)
-* [Personal protective equipment masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5200.md)
-* [Mandatory wearing of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_745.md)
 
 ## Risks possibly mitigated by this Mitigation
 

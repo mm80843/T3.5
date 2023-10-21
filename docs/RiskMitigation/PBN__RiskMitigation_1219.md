@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Ability to work from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4562.md)
 * [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_706.md)
-* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4563.md)
-* [Work-from-home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4373.md)
-* [Working from home, where possible with regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4564.md)
 * [Determine which workers with comorbidities can work from home, provide necessary accommodations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2792.md)
 * [Support for people who cannot stop working and provide essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_146.md)
-* [Stay at home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4371.md)
 * [Financial support programs, remote work options, community help initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2961.md)
-* [Proximities between jobs and homes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3394.md)
+* [Providing appropriate resources and support for remote work, implementing flexible working hours, and utilizing technology for virtual collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1993.md)
+* [Financial support, loans, grants, and stimulus packages for businesses. support for transitioning to online sales and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2836.md)
+* [Provide guidelines and resources for remote work, promote work-life balance, and encourage ergonomic work setups.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1524.md)
+* [Promote home-based exercise programs, provide alternative modes of exercise that can be done at home.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1488.md)
+* [Implement flexible working arrangements, remote working, and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1788.md)
+* [Providing support and assistance to vulnerable populations in accessing ugs, such as transportation services or home visits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2932.md)
 
 ## Benefits linked to a risk
 

@@ -12,12 +12,12 @@
 * [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_989.md)
 * [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
 * [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1939.md)
-* [Gps-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4281.md)
+* [Real-time tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1705.md)
 * [Improved location tracking algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1381.md)
-* [Real-time tracking map](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4282.md)
 * [Information filtering systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1285.md)
 * [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_192.md)
-* [Robot-assisted temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5261.md)
+* [State-transition matrix](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2875.md)
+* [Real-time occupancy tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1026.md)
 
 ## This Technology enables the following mitigations
 

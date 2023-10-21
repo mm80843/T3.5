@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Social media platforms’ moderation policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4233.md)
+* [Social media platforms’ moderation policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3765.md)
 * [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1997.md)
 * [Clear guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_803.md)
 * [Community mobilization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_77.md)

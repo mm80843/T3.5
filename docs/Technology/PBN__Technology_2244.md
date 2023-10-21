@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Evaluation of symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5404.md)
-* [Self-reported questionnaires](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5405.md)
-* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4956.md)
-* [Self-health evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5406.md)
-* [Implement regular and widespread symptom monitoring and testing, both symptomatic and asymptomatic](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3826.md)
-* [Hotline for reporting symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5407.md)
-* [Recognizing stress symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5306.md)
-* [Testing and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3818.md)
-* [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4953.md)
-* [Perceived restorativeness scale](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5408.md)
+* [Symptom monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2599.md)
+* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1000.md)
+* [Rapid diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2961.md)
+* [Signs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
+* [Self-reporting functionality in wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2388.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [Including confirmation with clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1358.md)
+* [Mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_597.md)
+* [Reporting guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_838.md)
 
 ## This Technology enables the following mitigations
 

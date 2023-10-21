@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Behavioral interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3565.md)
-* [Behavior change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3563.md)
-* [Mental and psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3573.md)
-* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3574.md)
-* [Provide targeted interventions for individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3575.md)
-* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3576.md)
-* [Provide adequate psychological services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3577.md)
-* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3578.md)
-* [Attitude change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3566.md)
-* [Creating mechanisms for psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3579.md)
+* [Poor compliance with interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1529.md)
+* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2349.md)
+* [Negative impact of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1381.md)
+* [Psychological impact and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1749.md)
+* [Mental health, social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3334.md)
+* [Psychological effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_855.md)
+* [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1074.md)
+* [Psycho-social effects of npis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1772.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2435.md)
+* [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1385.md)
 
 ## Mitigations of this risk
 

@@ -4,7 +4,7 @@
 
 ## Items covered in this category
 
-* [Well-being promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_203.md)
-* [Digital well-being apps](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_204.md)
-* [Promotion of alternative greetings and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_205.md)
+* [Well-being promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_103.md)
+* [Digital well-being apps](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_104.md)
+* [Promotion of alternative greetings and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_108.md)
 

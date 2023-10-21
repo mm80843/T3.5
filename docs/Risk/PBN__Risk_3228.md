@@ -13,9 +13,9 @@
 * [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_684.md)
 * [Detection of asymptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_636.md)
 * [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1360.md)
-* [Development of expert systems and mobile applications for early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4223.md)
+* [Development of expert systems and mobile applications for early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3599.md)
 * [Under-reporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_544.md)
-* [Development of a mobile application with an expert system for early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4224.md)
+* [Development of a mobile application with an expert system for early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3600.md)
 * [Insufficient surveillance of asymptomatic and unreported cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
 * [Monitoring of confirmed cases and close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2117.md)
 

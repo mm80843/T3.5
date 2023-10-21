@@ -17,7 +17,7 @@
 * [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3366.md)
 * [High number of undetected cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2933.md)
 * [Challenges in public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_520.md)
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3599.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
 
 ## Description of the risk
 

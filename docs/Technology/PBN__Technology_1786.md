@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_532.md)
-* [Implement renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4440.md)
-* [Backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4901.md)
-* [Provide backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4902.md)
-* [Promotion of sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4444.md)
-* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2104.md)
-* [Increase sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4621.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
-* [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2062.md)
-* [Portable air conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3380.md)
+* [Solar panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1760.md)
+* [Solar](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3300.md)
+* [Solar energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3485.md)
+* [Off-grid solar systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_930.md)
+* [Sun tubes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1612.md)
+* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_353.md)
+* [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
+* [Develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_306.md)
+* [Implement electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_305.md)
+* [Energy storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1763.md)
 
 ## This technology is mentioned by
 

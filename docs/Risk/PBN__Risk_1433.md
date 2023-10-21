@@ -81,13 +81,13 @@ People engage in risky behaviors, lower compliance with preventive measures
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 * [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_895.md)
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
 * [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_878.md)
+* [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
+* [Public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1545.md)
+* [Community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_964.md)
 * [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1215.md)
 * [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [Public health messaging systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_703.md)
-* [Community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_964.md)
-* [Public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1545.md)
 
 ## Property: has_RiskType
 

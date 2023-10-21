@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Transparent donation process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3510.md)
 * [Use of blockchain for donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1170.md)
 * [Blockchain-based donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1053.md)
-* [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3219.md)
-* [Trust and transparency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3519.md)
-* [Donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3501.md)
-* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3511.md)
-* [Cash donations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3498.md)
-* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3221.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3220.md)
+* [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3148.md)
+* [Promote accurate information dissemination, fact-checking, and verification through blockchain-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2700.md)
+* [Build trust, communicate transparently with the public](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1459.md)
+* [Implement blockchain technology to ensure accurate and secure data collection and storage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2697.md)
+* [Develop incentive mechanisms, build trust through transparency and accountability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1549.md)
+* [Implement blockchain technology for secure and decentralized data storage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2699.md)
+* [Implement blockchain for transparent and efficient supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2701.md)
+* [Store news and information on blockchain to prevent alteration, traceability, and prevention of false information spread](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1697.md)
 
 ## Risks possibly mitigated by this Mitigation
 

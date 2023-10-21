@@ -10,9 +10,9 @@
 
 * [Iot industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1396.md)
 * [Iot device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_788.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3450.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2770.md)
 * [Iot device](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2457.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3451.md)
+* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2771.md)
 * [Iot technology provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2462.md)
 * [Iot device manufacturer and service provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2467.md)
 * [Iot technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_911.md)

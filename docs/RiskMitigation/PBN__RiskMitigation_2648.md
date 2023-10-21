@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3126.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3118.md)
 * [Encourage data completion and presentation of overall infection rates.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2510.md)
 * [Implement measures to control the spread of infectious diseases, such as social distancing, improved hygiene practices, and vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2240.md)
 * [Avoid close contact with infected individuals, practice good hand hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1868.md)

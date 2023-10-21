@@ -32,8 +32,8 @@ Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Prima
 ## List of risks in an article
 
 * [Health disparities and equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1179.md)
-* [Transiency and overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1176.md)
 * [Housing conditions and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1178.md)
+* [Transiency and overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1176.md)
 * [Access to legal representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1180.md)
 * [Lack of legal protections and financial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1177.md)
 * [Eviction and housing displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1175.md)

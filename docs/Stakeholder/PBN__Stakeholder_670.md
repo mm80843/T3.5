@@ -15,7 +15,7 @@
 * [Building industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1108.md)
 * [Commercial property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_326.md)
 * [Occupant of residential building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2406.md)
-* [People in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2665.md)
+* [People in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2587.md)
 * [Person in residential and commercial building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2147.md)
 * [Building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 

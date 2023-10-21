@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Material shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3167.md)
 * [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1083.md)
-* [Material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3631.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3634.md)
-* [Material selection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3635.md)
-* [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3636.md)
+* [Disruption in material supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3160.md)
+* [Shortage of supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3252.md)
+* [Shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3358.md)
+* [Ensure material supply chain resumes quickly, address labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3475.md)
+* [Inventory shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2988.md)
+* [Shortage of critical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3277.md)
+* [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_491.md)
 * [Resistance to new materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2531.md)
-* [Assessing the possibility of late or halted deliveries of materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3637.md)
-* [Resume material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3638.md)
-* [Availability of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3639.md)
-* [Use of local and sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3640.md)
 
 ## Mitigations of this risk
 

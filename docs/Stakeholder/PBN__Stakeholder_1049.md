@@ -10,12 +10,12 @@
 
 * [Wastewater testing laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_936.md)
 * [Testing laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1155.md)
-* [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2565.md)
-* [Wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2597.md)
+* [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2527.md)
+* [Wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2551.md)
 * [Researchers in wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_689.md)
 * [Wastewater sampling personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_574.md)
-* [Wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2598.md)
-* [Wastewater treatment technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2599.md)
+* [Wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2552.md)
+* [Wastewater treatment technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2553.md)
 * [Wastewater treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_687.md)
 * [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_885.md)
 

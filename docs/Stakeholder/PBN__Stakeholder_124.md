@@ -16,16 +16,16 @@
 
 ## Closest similar item
 
+* [Pharmaceutical company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1858.md)
+* [Pharmaceutical industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1389.md)
+* [Companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_67.md)
 * [Pharmacies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1482.md)
+* [Technology companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_717.md)
+* [Company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1440.md)
+* [Corporations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_388.md)
+* [Medical industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_420.md)
 * [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1148.md)
-* [Medications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3086.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_452.md)
-* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2648.md)
-* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2806.md)
-* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2800.md)
-* [Biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3087.md)
+* [Drug developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1196.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -36,11 +36,11 @@
 * [Lack of medication and vaccines for covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1483.md)
 * [Lack of covid-19 vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2277.md)
 * [Lack of effective treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1849.md)
-* [Lack of drugs and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1341.md)
 * [Lack of vaccine or cure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
+* [Lack of preexisting immunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
+* [Lack of drugs and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1341.md)
 * [Lack of drug therapy options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1139.md)
 * [Lack of novel treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2165.md)
-* [Lack of preexisting immunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2085.md)
 * [Lack of vaccines and agent-specific drugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1528.md)
 
 ## This Stakeholder belongs to this StakeholderGroup

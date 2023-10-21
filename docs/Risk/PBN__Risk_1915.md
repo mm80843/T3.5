@@ -13,7 +13,7 @@
 * [Limited acceptance of measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2653.md)
 * [Non-evidence-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_375.md)
 * [Vulnerability to control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3753.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
 * [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1770.md)
 * [Impact of reduced](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2265.md)
 * [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4662.md)
-* [Implementing public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4664.md)
-* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4238.md)
-* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4673.md)
-* [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4236.md)
-* [Implementation of public health policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4674.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_311.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_334.md)
 * [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
-* [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4675.md)
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
-* [Strengthen public and universal health systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4676.md)
+* [Official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3240.md)
+* [Government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1640.md)
+* [Community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2139.md)
+* [Public health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3161.md)
+* [Implementation of targeted public health interventions based on regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_562.md)
 
 ## This Technology enables the following mitigations
 

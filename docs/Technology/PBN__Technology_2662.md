@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3973.md)
-* [Water and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4454.md)
-* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4455.md)
-* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4432.md)
-* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4028.md)
-* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4219.md)
-* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4405.md)
-* [Sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4227.md)
-* [Air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
-* [Cleaning supplies and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4456.md)
+* [Waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_865.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
+* [Waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3461.md)
+* [Improved waste management infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_944.md)
+* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2881.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3763.md)
+* [Waste segregation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1845.md)
+* [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_92.md)
+* [Waste disposal infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2838.md)
+* [Waste separation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3493.md)
 
 ## This Technology enables the following mitigations
 

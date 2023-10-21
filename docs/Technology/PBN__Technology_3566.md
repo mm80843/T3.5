@@ -8,15 +8,15 @@
 
 ## Closest similar item
 
-* [Promote urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5091.md)
-* [Urban farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5092.md)
-* [Urban farming integrated approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5093.md)
-* [Self-dependent services and urban farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5094.md)
-* [Sustainable farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5095.md)
+* [Community-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3472.md)
+* [Urban farming technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1219.md)
+* [Apartment-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3471.md)
+* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1505.md)
+* [Organic farming methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2553.md)
+* [Vertical farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3224.md)
 * [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1847.md)
-* [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4564.md)
+* [Urban forestry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_663.md)
 * [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_122.md)
-* [Urban planning and infrastructure to accommodate growing populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5057.md)
 * [Urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_619.md)
 
 ## This Technology enables the following mitigations

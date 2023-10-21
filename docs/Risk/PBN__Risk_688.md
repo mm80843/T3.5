@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Expansion of wearable technology in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_689.md)
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3835.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3693.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3499.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3498.md)
 * [Technical limitations of wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1239.md)
 * [Limited functionality and reliability of wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1004.md)
-* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3692.md)
+* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3497.md)
 * [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1113.md)
 * [Reducing inequalities in access to wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_687.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3678.md)
-* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3689.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3490.md)
+* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3494.md)
 
 ## Mitigations of this risk
 

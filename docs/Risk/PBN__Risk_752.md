@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4627.md)
-* [Building resilience measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4628.md)
-* [Development of resilience strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4629.md)
-* [Resilience building](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4630.md)
-* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4631.md)
-* [Resilience, flexibility, and emotional regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4632.md)
-* [Resilient approach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4633.md)
-* [Resilient supply chain design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4634.md)
-* [Diversification of supply chains, local production capabilities, and contingency planning for disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4635.md)
-* [Practical capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3861.md)
+* [Gaps in capacity and resilience across industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1609.md)
+* [Building resilience capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3315.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
+* [Changing needs and capacities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2919.md)
+* [Abrupt adjustment of organizational infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_561.md)
+* [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3024.md)
+* [Financial fragility on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_412.md)
+* [Lack of capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3187.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
 
 ## Mitigations of this risk
 

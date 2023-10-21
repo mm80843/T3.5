@@ -12,12 +12,12 @@
 * [Financial viability of clean energy sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3260.md)
 * [Insufficient adoption of clean energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3264.md)
 * [Energy poverty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3255.md)
-* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3903.md)
-* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3545.md)
+* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3575.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3450.md)
 * [Inequitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2859.md)
 * [Inequitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1309.md)
 * [Lack of reliable energy access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3263.md)
-* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3737.md)
+* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3509.md)
 
 ## Description of the risk
 

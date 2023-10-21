@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Maintain social distancing, practice good hygiene, wear masks in public, and follow public health guidelines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1917.md)
+* [Maintain physical distance, wear masks, ensure proper ventilation, and practice good respiratory hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1866.md)
+* [Practice social distancing, wear masks, and maintain good hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2295.md)
 * [Wearing face masks, practicing social distancing, and promoting good respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1699.md)
-* [Use of face masks, social distancing, and proper hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2079.md)
-* [Encouraging the use of face masks, practicing respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1758.md)
-* [Wearing face masks, practicing physical distancing, using respiratory hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2382.md)
-* [Encourage the use of face masks, proper disposal of tissues, and regular disinfection practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2436.md)
-* [Promoting proper hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2973.md)
-* [Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1995.md)
-* [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1704.md)
-* [Implement strict hygiene protocols, provide personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2458.md)
-* [Regular testing, contact tracing, promoting mask-wearing and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2788.md)
+* [Ensure adequate ventilation, maintain physical distancing, wear masks, practice good hand hygiene, and clean and disinfect surfaces regularly.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1586.md)
+* [Encourage individuals to wear masks, practice respiratory hygiene, and maintain physical distance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2310.md)
+* [Encourage the use of face masks, maintain physical distancing, and implement good respiratory hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2255.md)
+* [Improve hygiene practices, use personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1637.md)
+* [Promoting social distancing, wearing masks, and implementing strict hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2653.md)
+* [Implement social distancing measures, promote hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2707.md)
 
 ## Risks possibly mitigated by this Mitigation
 

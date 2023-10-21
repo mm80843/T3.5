@@ -14,7 +14,7 @@
 * [Limited access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_381.md)
 * [Lack of dynamic and timely information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2789.md)
 * [Timeliness of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3232.md)
-* [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3698.md)
+* [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3500.md)
 * [Lack of dynamic information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2791.md)
 * [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1643.md)
 * [Lack of real-time data for policy intervention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_580.md)

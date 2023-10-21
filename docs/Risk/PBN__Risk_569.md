@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
-* [Technology adoption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4132.md)
-* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4133.md)
-* [Increased use of technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4134.md)
-* [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4135.md)
-* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4136.md)
+* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1949.md)
 * [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_797.md)
-* [Adoption of digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4137.md)
-* [Shift towards integrated and non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4029.md)
+* [Technological limitations, lack of access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3025.md)
+* [Increased energy consumption in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2270.md)
+* [Insufficient adoption of clean energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3264.md)
 * [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_250.md)
+* [Lack of understanding of factors influencing building energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_977.md)
+* [Need for innovative and modern technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_424.md)
+* [Inefficiency in building systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_979.md)
 
 ## Mitigations of this risk
 

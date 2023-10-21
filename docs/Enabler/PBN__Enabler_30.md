@@ -12,18 +12,18 @@ enabler_031
 
 ## Closest similar item
 
-* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_867.md)
-* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_868.md)
-* [Incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_869.md)
-* [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_870.md)
-* [Desiccation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_871.md)
-* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_872.md)
-* [Biodegradable materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_873.md)
-* [Biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_874.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_875.md)
-* [Disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_876.md)
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_227.md)
+* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_259.md)
+* [Incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_228.md)
+* [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_194.md)
+* [Desiccation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_266.md)
+* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_134.md)
+* [Biodegradable materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_193.md)
+* [Anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_255.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_26.md)
+* [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_254.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Biophilic desing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3744.md)
 

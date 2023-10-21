@@ -35,6 +35,6 @@ Increasing the frequency and thoroughness of cleaning and sanitation measures in
 
 ## This Mitigation is enabled by the following technologies
 
-* [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
 * [Cleaning and sanitation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3183.md)
+* [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
 

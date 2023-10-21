@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Public awareness initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_444.md)
-* [Public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3835.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
 * [Public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1300.md)
 * [Public awareness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3096.md)
+* [Public education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1870.md)
+* [Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2227.md)
 * [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3279.md)
 * [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_889.md)
-* [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4236.md)
-* [Communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4498.md)
 * [Public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_730.md)
+* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
 
 ## This Technology enables the following mitigations
 

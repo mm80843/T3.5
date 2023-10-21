@@ -16,7 +16,7 @@
 * [Decreased physical activity during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
 * [Quarantine, self-isolation, and lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_852.md)
 * [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
-* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3539.md)
+* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3445.md)
 * [Negative impact of social confinement and distancing measures on well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_694.md)
 
 ## Description of the risk

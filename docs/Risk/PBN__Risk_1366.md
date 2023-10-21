@@ -64,8 +64,8 @@ High risk of infection for individuals who come into contact with contaminated s
 
 ## Technologies linked to the risk
 
-* [Increased use of cleaning and disinfecting products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_584.md)
 * [Touchless technologies for doors and faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_585.md)
+* [Increased use of cleaning and disinfecting products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_584.md)
 
 ## Property: has_RiskType
 

@@ -66,8 +66,8 @@ Increased risk of disease transmission and decreased overall health and well-bei
 
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
 * [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
-* [Hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_433.md)
 * [Disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_434.md)
+* [Hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_433.md)
 
 ## Property: has_RiskType
 

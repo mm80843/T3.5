@@ -11,7 +11,7 @@
 * [Enhance preparedness and response plans, stockpile essential medical supplies, and improve coordination between member states and eu institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2113.md)
 * [Strengthen eu-level coordination and cooperation, establish common protocols and guidelines, and promote information sharing between member states](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2114.md)
 * [Foster collaboration and coordination among stakeholders, align governance models with common public health goals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1645.md)
-* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3164.md)
+* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3126.md)
 * [Strengthen public and universal health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_16.md)
 * [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_966.md)
 * [Implementation of public health policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1112.md)

@@ -34,9 +34,9 @@ Local response in health emergencies: key considerations for addressing the COVI
 
 * [Epidemiological vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
 * [Health system vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
-* [Transmission vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
 * [Vulnerability to control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
 * [Systemic vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2326.md)
+* [Transmission vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
 
 ## This article points to following mitigation
 
@@ -53,7 +53,7 @@ Local response in health emergencies: key considerations for addressing the COVI
 * [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1944.md)
 * [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1942.md)
 * [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [Digital payment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1945.md)
 * [Water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1943.md)
+* [Digital payment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1945.md)
 * [Comprehensive urban planning and risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
 

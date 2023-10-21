@@ -63,8 +63,8 @@ Strain on healthcare resources and negative economic consequences
 
 ## Technologies linked to the risk
 
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
 * [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_605.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
 
 ## Property: has_RiskType
 

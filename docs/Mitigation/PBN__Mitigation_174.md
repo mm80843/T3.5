@@ -35,10 +35,10 @@ Reduce the need for physical contact with surfaces by utilizing touch-free syste
 
 ## This Mitigation is enabled by the following technologies
 
+* [Nan nan antibacterial fabrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3199.md)
+* [Nan nan nan sound-activated nan nan nan nan elevator design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3200.md)
 * [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2216.md)
 * [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2264.md)
 * [Automatic doors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3197.md)
 * [Hands-free light nan switches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3198.md)
-* [Nan nan nan sound-activated nan nan nan nan elevator design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3200.md)
-* [Nan nan antibacterial fabrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3199.md)
 

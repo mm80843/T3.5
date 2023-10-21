@@ -14,7 +14,7 @@
 * [Hiring managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_981.md)
 * [Unemployed workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_260.md)
 * [Employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
-* [Employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3072.md)
+* [Employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2698.md)
 * [Workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_675.md)
 * [Unemployed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_265.md)
 * [Freelancers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1758.md)

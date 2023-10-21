@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3440.md)
+* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3421.md)
 * [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
 * [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
 * [Economic impacts, shortage of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2878.md)
@@ -50,8 +50,8 @@ Higher contact rates and increased risk of infection among residents of central 
 ## Stakeholders who can mitigate this risk
 
 * [Policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
-* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 * [Business owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_726.md)
+* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 
 ## Articles mentionning the risk
 

@@ -8,13 +8,13 @@
 
 ## Closest similar item
 
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3663.md)
-* [Overhaul employment services and vocational training systems, coordinate efforts to retrain and redeploy workers.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3963.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
+* [Overhaul employment services and vocational training systems, coordinate efforts to retrain and redeploy workers.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3656.md)
 * [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
-* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3964.md)
+* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3622.md)
 * [Workforce distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
-* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4425.md)
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3607.md)
 * [Job loss and exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2467.md)
 * [Workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_720.md)
 * [Labour market challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_451.md)

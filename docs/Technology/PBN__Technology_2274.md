@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1610.md)
-* [Presence of indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5016.md)
-* [Enclosed vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5021.md)
 * [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
-* [Dense vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5014.md)
-* [Encourage indoor gardening, provide access to natural light, create green views in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5019.md)
-* [Indoor plants as air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5018.md)
-* [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5017.md)
+* [Vegetation management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1840.md)
 * [Indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3684.md)
 * [Gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1783.md)
+* [Plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3598.md)
+* [Landscaping materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
+* [Outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_145.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
+* [Landscaping techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_921.md)
 
 ## This Technology enables the following mitigations
 

@@ -11,7 +11,7 @@
 * [Temporary transformations becoming permanent](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1450.md)
 * [Workplace transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
 * [Perception of climate change measures as temporary](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2649.md)
-* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4444.md)
+* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3581.md)
 * [Resistance to change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2530.md)
 * [Insufficient design guidelines for transformation, adaptation, and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_788.md)
 * [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2930.md)

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4139.md)
-* [Hand-washing facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4131.md)
-* [Regular hand hygiene practices, cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1700.md)
-* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5251.md)
-* [Implement hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4137.md)
-* [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5273.md)
-* [Regular cleaning and disinfection of surfaces, frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2311.md)
-* [Hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5274.md)
-* [Practicing hand hygiene, disinfecting commonly touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1760.md)
-* [Regular provision of hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5275.md)
+* [Provide an adequate number of hand washing stations and sanitizers at multiple locations on construction sites, and require regular hand hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1653.md)
+* [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2235.md)
+* [Provide access to hand hygiene stations, improve sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1968.md)
+* [Implement regular cleaning and disinfection protocols, promote good hand hygiene, and encourage the use of protective barriers and personal protective equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1587.md)
+* [Promote regular hand hygiene, use of hand sanitizers, and disinfection of commonly touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2254.md)
+* [Regular cleaning and disinfection of frequently touched surfaces, promoting hand hygiene, and providing hand sanitizers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2501.md)
+* [Promote and enforce proper hand hygiene practices, provide hand sanitizing stations throughout the building.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2180.md)
+* [Regular and thorough cleaning and disinfection of surfaces, promote hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2379.md)
+* [Hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3308.md)
+* [Implementing and enforcing comprehensive hygiene and cleanliness protocols, including regular cleaning and disinfection, hand hygiene stations, and proper waste disposal.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2676.md)
 
 ## Risks possibly mitigated by this Mitigation
 

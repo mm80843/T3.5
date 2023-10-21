@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Green sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3686.md)
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
+* [Green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1391.md)
+* [Green building strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3274.md)
 * [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2098.md)
+* [Green roof and wall technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1838.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
+* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1390.md)
 * [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
 * [Architectural & construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2097.md)
-* [Construction materials and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2203.md)
-* [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3270.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
-* [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_180.md)
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2652.md)
 
 ## This Technology enables the following mitigations
 

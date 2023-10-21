@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4214.md)
-* [Comprehensive building design and maintenance strategies to ensure optimal indoor environmental quality.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4215.md)
-* [Improved indoor climate quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4216.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4217.md)
-* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4218.md)
-* [Enhance indoor qualities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4219.md)
-* [Improve indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4220.md)
-* [Improved understanding of indoor and outdoor environmental parameters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4221.md)
-* [Indoor air quality and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3803.md)
-* [Improve indoor air quality by addressing pollution sources, ventilation, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4222.md)
+* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
+* [Indoor pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3198.md)
+* [Indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_939.md)
+* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1288.md)
+* [Lack of monitoring of indoor environmental quality ieq](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_566.md)
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
+* [High indoor pollutant concentrations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2716.md)
+* [Indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_259.md)
+* [Lack of adequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_341.md)
+* [Low indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1409.md)
 
 ## Mitigations of this risk
 

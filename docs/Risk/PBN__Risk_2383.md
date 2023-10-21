@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1153.md)
-* [Risk communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3742.md)
+* [Treat risk communication as a process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3516.md)
+* [Infuse risk communication into policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3506.md)
 * [Unclear risk messages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2363.md)
-* [Promoting accurate and evidence-based risk communication, addressing misinformation and rumors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3745.md)
 * [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_985.md)
+* [Provide information to reduce perceived risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3513.md)
 * [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1203.md)
-* [Risk management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3724.md)
 * [Risk connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_310.md)
+* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
 * [Concealed information, ambiguity in risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3403.md)
-* [Risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3741.md)
 
 ## Mitigations of this risk
 

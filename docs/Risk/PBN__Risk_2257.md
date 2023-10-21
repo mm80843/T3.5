@@ -10,12 +10,12 @@
 
 * [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1887.md)
 * [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
-* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3601.md)
-* [Implement robust cybersecurity measures, provide training on secure remote working practices, and ensure regular backups of data.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3608.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3454.md)
+* [Implement robust cybersecurity measures, provide training on secure remote working practices, and ensure regular backups of data.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3458.md)
 * [Cybersecurity risks and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2303.md)
 * [Security threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2414.md)
 * [Privacy and cybersecurity concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2934.md)
-* [Security and law enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3609.md)
+* [Security and law enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
 * [Intrusion and hacking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_48.md)
 * [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
 

@@ -8,12 +8,12 @@
 
 ## Closest similar item
 
-* [Upper-room uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4192.md)
-* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4189.md)
+* [Upper-room uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3593.md)
+* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3591.md)
 * [Effectiveness of uvgi decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1740.md)
 * [Uvgi systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
 * [Decoupling of larger aerosol particles from air stream in upper-room uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1168.md)
-* [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4210.md)
+* [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3597.md)
 * [Dilution of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1183.md)
 * [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1357.md)
 * [Uvgi systems can cause health risks if not properly installed and maintained](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1741.md)

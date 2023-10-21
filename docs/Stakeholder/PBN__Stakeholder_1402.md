@@ -17,7 +17,7 @@
 * [Building administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1406.md)
 * [Public administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1677.md)
 * [Community administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2354.md)
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3187.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2719.md)
 
 ## Risks that can be mitigated by this stakeholder
 

@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3422.md)
 * [Health inequalities resulting from urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1208.md)
 * [Inequalities in health driven by urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_286.md)
-* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
-* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
+* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
+* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
 * [Limited focus on pandemic preparedness in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2422.md)
 * [Lack of awareness and education on disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1640.md)
-* [Incorporate placemaking and public place design in spatial planning, include hygiene development and spatial use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3647.md)
+* [Incorporate placemaking and public place design in spatial planning, include hygiene development and spatial use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3478.md)
 * [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2240.md)
 * [Fragile socio-economic and spatial structures of cities exposed by covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_753.md)
 

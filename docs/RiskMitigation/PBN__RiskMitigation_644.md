@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Development of resilience strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_736.md)
-* [Resilience building](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3407.md)
 * [Building resilience measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_156.md)
-* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3322.md)
+* [Resilience training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1182.md)
 * [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2898.md)
 * [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1040.md)
-* [Resilient supply chain design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3400.md)
-* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3216.md)
-* [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3410.md)
+* [Foster economic resilience through improved risk management and diversification strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2421.md)
 * [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1069.md)
+* [Affordable housing with resilient design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_23.md)
+* [Promote resilience through education, social support, and fostering a sense of hope.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2690.md)
+* [Improve capacity and resilience in the health sector, enhance surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2157.md)
 
 ## Benefits linked to a risk
 

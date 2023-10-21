@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3490 
 
-# __Widespread testing and contact tracing__
+# __Teleconferencing__
 
 ## Category to which it belongs
 
-* [Insufficient monitoring, ineffective tracing processes, privacy concerns, and reliance on teleconferencing tools for reduced human contact.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
+* [The challenges and consequences of the global pandemic, including domestic violence, interrupted education, communication barriers, and employment issues, highlight the complexity of our interconnected world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
 
 ## Closest similar item
 
-* [Increased testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4925.md)
-* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4923.md)
-* [Rapid testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4924.md)
-* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4917.md)
-* [Regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3493.md)
-* [Regular testing and contact tracing programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3507.md)
-* [Implementation of contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3494.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3497.md)
-* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3504.md)
-* [Improve contact tracing systems, increase testing capacity, utilize digital tools for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3491.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3495.md)
+* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3494.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2387.md)
+* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3497.md)
+* [Limited access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3054.md)
+* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3496.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3499.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3498.md)
+* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2350.md)
+* [Confidentiality and risk management in telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_897.md)
 

@@ -17,7 +17,7 @@
 * [Lack of public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2158.md)
 * [Health and safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_557.md)
 * [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
-* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3605.md)
+* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3460.md)
 
 ## Description of the risk
 

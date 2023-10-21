@@ -63,11 +63,11 @@ Respiratory pandemics, urban planning and design: A multidisciplinary rapid revi
 * [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
 * [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_488.md)
 * [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
+* [Temperature screenings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_699.md)
 * [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_702.md)
 * [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_700.md)
 * [Water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
-* [Natural ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_701.md)
 * [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)
-* [Temperature screenings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_699.md)
+* [Natural ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_701.md)
 * [Public health messaging systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_703.md)
 

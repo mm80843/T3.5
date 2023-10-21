@@ -14,8 +14,8 @@
 * [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2058.md)
 * [Lack of epidemiological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_904.md)
 * [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3348.md)
-* [Enhanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3604.md)
-* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3602.md)
+* [Enhanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
+* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3455.md)
 * [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
 * [Lack of drugs and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1341.md)
 

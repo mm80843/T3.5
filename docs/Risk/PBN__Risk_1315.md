@@ -9,8 +9,8 @@
 ## Closest similar item
 
 * [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2119.md)
-* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3621.md)
-* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3622.md)
+* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
+* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
 * [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
 * [Lack of supervision and accountability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1951.md)
 * [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1336.md)

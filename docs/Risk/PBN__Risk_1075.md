@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
+* [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_397.md)
 * [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3515.md)
 * [Non-standardized data collection, data sharing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2587.md)
-* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3516.md)
-* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3517.md)
-* [Centralised primary data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3518.md)
-* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3519.md)
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1353.md)
+* [Lack of communication and information sharing among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3053.md)
+* [Lack of effective technical systems for coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_630.md)
+* [Lack of interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2683.md)
+* [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
 
 ## Description of the risk
 

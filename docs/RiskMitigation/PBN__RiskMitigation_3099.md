@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_556.md)
-* [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3261.md)
 * [Immediate response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1231.md)
 * [Continuously monitor and adjust policies based on the situation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3012.md)
 * [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_555.md)
+* [Clearly define criteria and values for decision-making, use policy simulation tools.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2522.md)
 * [Implement effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_46.md)
 * [Ensure timely implementation of control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2846.md)
-* [Designing targeted responses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3300.md)
+* [Implementing data-driven decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_14.md)
 * [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_831.md)
-* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3301.md)
+* [Promote the use of research evidence in decision-making processes, engage decision-makers in priority setting, and provide accessible and relevant evidence to inform critical decisions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1851.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -19,8 +19,8 @@ Monitoring the virus in sewage can serve as an early warning system for the (re-
 ## Stakeholders benefitting from this Benefit
 
 * [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [Communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 * [Public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+* [Communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [Healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
 

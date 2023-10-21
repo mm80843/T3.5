@@ -41,8 +41,8 @@ Movement of infected individuals across regions and countries can contribute to 
 
 ## Mitigations of this risk
 
-* [Imposing travel restrictions, implementing comprehensive screening and testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1464.md)
 * [Implement travel restrictions, reduce travel demand, promote alternative methods of essential supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1843.md)
+* [Imposing travel restrictions, implementing comprehensive screening and testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1464.md)
 
 ## Name of the risk
 
@@ -71,9 +71,9 @@ Rapid spread of pathogens, difficulty in containment and control
 ## Technologies linked to the risk
 
 * [Testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_37.md)
+* [Travel surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_547.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
 * [Travel tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_38.md)
-* [Travel surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_547.md)
 * [Remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_548.md)
 
 ## Property: has_RiskType

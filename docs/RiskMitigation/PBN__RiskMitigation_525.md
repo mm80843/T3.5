@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Ai-based prediction models for pandemic forecasting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4287.md)
-* [Open data sharing and analysis for pandemic dataset creation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5126.md)
-* [Pandemic preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3651.md)
-* [Outbreak tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4444.md)
-* [Data mining methods for understanding the covid-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4293.md)
-* [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3654.md)
+* [Proper handling of pandemic impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1402.md)
+* [Consider possible impacts of the pandemic on findings, adjust research design and data collection, report extra contextual detail.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1877.md)
+* [Capture and report additional contextual factors , pandemic-related policies, restrictions, social and economic impacts during data collection and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1880.md)
+* [Monitor and limit exposure to pandemic-related news, provide accurate and filtered information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2497.md)
+* [Anticipate how the pandemic may affect variables of interest, measure and test these additional variables to assess their impact on study results.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1878.md)
+* [Develop comprehensive pandemic preparedness plans and invest in healthcare infrastructure; conduct regular simulations and training exercises](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2692.md)
+* [Develop international strategies that integrate the built environment in pandemic response plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2136.md)
+* [Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1944.md)
+* [Adoption of pandemic preparedness protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_738.md)
 * [Implement and enforce non-pharmaceutical interventions at early stages of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2135.md)
-* [Reimagining large public spaces and events in a post-pandemic world](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3656.md)
-* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4244.md)
-* [Predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4242.md)
 
 ## Benefits linked to a risk
 

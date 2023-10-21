@@ -59,8 +59,8 @@ Increased infection rates and potential for outbreaks, leading to health and saf
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [The general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_952.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_197.md)
 
 ## Technologies linked to the risk

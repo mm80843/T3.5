@@ -12,12 +12,12 @@
 * [Education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2154.md)
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
 * [Online educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2092.md)
+* [Training materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1659.md)
 * [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1143.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
+* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2128.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1117.md)
 * [Online educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_627.md)
-* [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3103.md)
-* [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
-* [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_180.md)
 
 ## This Technology enables the following mitigations
 

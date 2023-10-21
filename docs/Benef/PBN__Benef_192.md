@@ -41,24 +41,25 @@ Improved respiratory health and reduced risk of COVID-19 transmission due to cle
 ## Stakeholders benefitting from this Benefit
 
 * [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
+* [Public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [General population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [General public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [Vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_115.md)
 * [Public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
-* [Public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
 * [Building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [City residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_332.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Municipalities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_491.md)
 
 ## Risks which can benefit from this action
 
 * [Encouraging active travel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_739.md)
+* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_701.md)
 * [Indoor plants as air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_366.md)
 * [Nan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_123.md)
 * [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_218.md)
@@ -66,7 +67,6 @@ Improved respiratory health and reduced risk of COVID-19 transmission due to cle
 * [Implementation of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_173.md)
 * [Increase in green spaces and tree coverage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_174.md)
 * [Reduced no2 emissions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_183.md)
-* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_701.md)
 * [Building ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_192.md)
 * [Increased natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_484.md)
 * [Reduction in traffic volumes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_814.md)

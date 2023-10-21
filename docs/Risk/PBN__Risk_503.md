@@ -13,7 +13,7 @@
 * [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
 * [Workforce distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
 * [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3663.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
 * [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
 * [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
 * [Impact on working performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1080.md)

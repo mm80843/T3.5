@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Increase water movement and aeration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5370.md)
-* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5002.md)
+* [Aeration control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3179.md)
+* [Emanators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3669.md)
+* [Air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2629.md)
+* [Respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_483.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [Actuators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
 * [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
-* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4741.md)
-* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4197.md)
-* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4193.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2983.md)
-* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
-* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1140.md)
-* [Water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5208.md)
+* [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
+* [Encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
 
 ## This Technology enables the following mitigations
 

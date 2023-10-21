@@ -17,7 +17,7 @@
 * [Impact on financial stability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_502.md)
 * [Financial problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_415.md)
 * [Financial burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2463.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3753.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
 
 ## Description of the risk
 
@@ -41,8 +41,8 @@ The construction industry experiences financial difficulties due to reduced dema
 
 ## Mitigations of this risk
 
-* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_836.md)
 * [Seek financial assistance or stimulus packages, explore cost-saving measures, diversify revenue streams.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1901.md)
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_836.md)
 
 ## Name of the risk
 

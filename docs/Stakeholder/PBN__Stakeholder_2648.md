@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2648 
 
-# __Commercial vendors__
+# __Government websites__
 
 ## Category to which it belongs
 
-* [Various players in the global supply chain, including retailers, suppliers, and logistics providers, work together to ensure effective procurement and distribution.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_435.md)
+* [Users of various digital platforms including social media, apps, websites, and online networking platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_434.md)
 
 ## Closest similar item
 
-* [Digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3101.md)
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2638.md)
-* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1148.md)
-* [Local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2639.md)
-* [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_535.md)
-* [Online marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3102.md)
-* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2806.md)
-* [Local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2664.md)
-* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2640.md)
-* [Digital supply chain platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3103.md)
+* [Government sites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_421.md)
+* [Government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [Government authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_302.md)
+* [Government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
+* [Federal government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1187.md)
+* [Websites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2649.md)
+* [Government department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2294.md)
+* [Government agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2277.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
+* [Government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 

@@ -8,25 +8,25 @@
 
 ## Closest similar item
 
-* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_546.md)
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_547.md)
-* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_548.md)
-* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_499.md)
-* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_504.md)
-* [Improved waste management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_549.md)
-* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_550.md)
-* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_502.md)
-* [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_551.md)
-* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_552.md)
+* [Waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_161.md)
+* [Water and waste management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_134.md)
+* [Sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_129.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+* [Hygiene and sanitation practices and protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_11.md)
+* [Cleaning supplies and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_61.md)
+* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_167.md)
+* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_120.md)
+* [Disinfection and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_73.md)
 
 ## This Technology belongs to this TechnologySubgroup
 
 * [Enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_735.md)
 * [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
 * [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_702.md)
+* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
 * [Uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1625.md)
 * [Mixing fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
-* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
 * [Improved negative ionizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
 * [Water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
 * [Safe management of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1765.md)

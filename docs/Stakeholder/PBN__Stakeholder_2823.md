@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2823 
 
-# __Improved public transportation services__
+# __Translation tools__
 
 ## Category to which it belongs
 
-* [People using public transportation, travelers during a pandemic, tourism industry, transportation providers, and industries reliant on tourism and travel.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_445.md)
+* [Public and private entities, including decision-makers, procurement, healthcare facilities, vulnerable communities, and the general public.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_411.md)
 
 ## Closest similar item
 
-* [Transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2921.md)
-* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2822.md)
-* [Public transport](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1178.md)
-* [Affordable transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4083.md)
-* [Promote active transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4084.md)
-* [Transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2900.md)
-* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3254.md)
-* [Transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2920.md)
-* [Urban planning and transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2726.md)
-* [Alternative transportation methods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4085.md)
+* [Translation software](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2824.md)
+* [Advancements in translation software](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2825.md)
+* [Translation services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2826.md)
+* [Translators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1021.md)
+* [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_875.md)
+* [Individuals in multilingual environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1592.md)
+* [Individual in multilingual environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2233.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2685.md)
+* [International collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2744.md)
+* [Non-english speakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1019.md)
 

@@ -16,7 +16,7 @@
 * [Lack of private sector investment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2553.md)
 * [Poor infrastructure, inadequate housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2409.md)
 * [Low residential density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_621.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3814.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
 * [Housing conditions and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1178.md)
 
 ## Description of the risk

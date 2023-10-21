@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Safety risks for workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
-* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3859.md)
+* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3564.md)
 * [Occupational health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1847.md)
 * [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
 * [Health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_733.md)
 * [Health and safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_557.md)
 * [Safety and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2424.md)
 * [Concerns about health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1976.md)
-* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4347.md)
+* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3611.md)
 
 ## Description of the risk
 

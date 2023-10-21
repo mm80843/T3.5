@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Limited monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2455.md)
-* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3495.md)
+* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3435.md)
 * [Requires continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3386.md)
 * [Lack of monitoring capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3161.md)
 * [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
 * [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_272.md)
 * [Monitoring compliance of self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3240.md)
 * [Proprietary monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2573.md)
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3599.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
 * [Limited sensor capability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1396.md)
 
 ## Mitigations of this risk

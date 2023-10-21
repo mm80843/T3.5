@@ -16,7 +16,7 @@
 * [Misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_971.md)
 * [Spread of inaccurate news on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1015.md)
 * [Inaccurate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_972.md)
-* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3614.md)
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
 
 ## Description of the risk
 

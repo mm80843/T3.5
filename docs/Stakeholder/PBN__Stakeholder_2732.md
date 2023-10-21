@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2732 
 
-# __Community mobilization efforts__
+# __Workplace policies__
 
 ## Category to which it belongs
 
-* [Groups and individuals who are at a disadvantage and in need of support in various community settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_415.md)
+* [Workers across a wide range of industries, including both formal and informal sectors, who perform various roles.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_416.md)
 
 ## Closest similar item
 
-* [Community mobilization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2730.md)
-* [Community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2593.md)
-* [Community engagement initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2733.md)
-* [Public engagement strategies and community involvement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3154.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2728.md)
-* [Community engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3153.md)
-* [Fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2729.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2657.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3138.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
+* [Workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_675.md)
+* [Policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2531.md)
+* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2530.md)
+* [Regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2532.md)
+* [Employers and managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_954.md)
+* [Workers and firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_211.md)
+* [Employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [Employer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1943.md)
+* [Policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
+* [Policy makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3.md)
 

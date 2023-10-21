@@ -33,8 +33,8 @@ The three modes of existence of the pandemic smart city
 ## List of risks in an article
 
 * [Inequalities in smart city development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
-* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
 * [Technological limitations and dependencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2076.md)
+* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
 * [Data security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2077.md)
 * [Lack of public participation and citizen empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2078.md)
 

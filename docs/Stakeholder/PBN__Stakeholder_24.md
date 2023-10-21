@@ -16,7 +16,7 @@
 * [Financial institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_405.md)
 * [Global market](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1999.md)
 * [Finance sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_90.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2713.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2603.md)
 * [Financial institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1983.md)
 * [And global economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_362.md)
 * [National economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_86.md)

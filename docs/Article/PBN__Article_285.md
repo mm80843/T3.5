@@ -53,7 +53,7 @@ Design and Implementation of Entry-level COVID-19 Digital Signage Player support
 * [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_430.md)
 * [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_769.md)
 * [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)
-* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_248.md)
 * [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)
+* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_248.md)
 * [Crowd monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_743.md)
 

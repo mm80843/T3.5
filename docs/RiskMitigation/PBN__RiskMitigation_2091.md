@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Encourage energy efficiency practices, educate households on thermostat settings and hvac maintenance, and promote the use of energy-efficient hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2092.md)
 * [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2939.md)
 * [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1709.md)
 * [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_235.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4708.md)
 * [Provide financial assistance programs, energy efficiency upgrades, and education on energy-saving practices for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2094.md)
+* [Promote the use of cleaner and more efficient cooking and heating fuels, improve access to modern energy sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2638.md)
+* [Raise awareness about energy conservation and promote energy-efficient designs and behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1495.md)
+* [Raise awareness about energy conservation and promote energy-saving behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1498.md)
 * [Install energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2879.md)
-* [Conduct energy-saving education and awareness campaigns, provide energy feedback to occupants, and implement behavior change programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1916.md)
-* [Energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4640.md)
-* [Promote energy efficiency measures and renewable energy production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2142.md)
-* [Promoting energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4700.md)
+* [Implement energy management systems, automate controls, and educate occupants on energy-saving behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1912.md)
 
 ## Risks possibly mitigated by this Mitigation
 

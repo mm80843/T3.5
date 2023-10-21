@@ -51,8 +51,8 @@ Limited access to therapy and counseling services; decreased availability of men
 
 * [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 * [Technology companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_717.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 
 ## Articles mentionning the risk
 

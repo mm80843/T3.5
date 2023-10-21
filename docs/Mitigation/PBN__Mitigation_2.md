@@ -137,11 +137,11 @@ Minimize close contact and maintain physical distance to reduce the spread of th
 * [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
 * [Floor markings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_358.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3279.md)
 * [Internet-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_23.md)
+* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3279.md)
 * [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2411.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [Technology-enabled monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2143.md)
-* [Physical space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2314.md)
 * [Physical distance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2602.md)
+* [Physical space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2314.md)
 

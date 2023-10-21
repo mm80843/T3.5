@@ -12,12 +12,12 @@
 * [Job training programs, re-skilling initiatives, and government assistance for unemployed individuals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2839.md)
 * [Employment retraining and redeployment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_626.md)
 * [Provide unemployment benefits, retrain and reskill workers, support job creation in emerging sectors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2903.md)
-* [Workforce training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4342.md)
 * [Enhance job training and reskilling programs, promote entrepreneurship, and support job creation in new industries.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2626.md)
-* [Training and upskilling of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4901.md)
 * [Provide job retention schemes and financial support for affected industries, promote job transitions and reskilling opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2428.md)
-* [Job training programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4900.md)
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_833.md)
+* [Implement countercyclical policies, support job creation in growing industries, and provide reemployment assistance and training.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2628.md)
+* [Implement flexible working arrangements, remote working, and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1788.md)
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3238.md)
 
 ## Risks possibly mitigated by this Mitigation
 

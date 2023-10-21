@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Decontamination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4279.md)
+* [Increased decontamination efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_252.md)
+* [Use individual or limited capacity transportation with partitions/barriers, enforce mask-wearing and no talking, disinfect vehicles after each use](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2794.md)
 * [Maintenance and decontamination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_229.md)
-* [Patrol separately](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4874.md)
-* [Decontamination and sterilization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4281.md)
+* [Separate patrol for officers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_253.md)
+* [Implement hygiene protocols and regular cleaning of shared vehicles following health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1976.md)
+* [Strict implementation of hygiene measures, such as mask-wearing, hand sanitizing, and regular cleaning of vehicles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2531.md)
 * [Increase production and distribution of personal protective equipment, stockpile reserves for emergencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2719.md)
-* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3177.md)
-* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2056.md)
-* [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3658.md)
-* [Improved sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3138.md)
-* [Mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1288.md)
+* [Increase production and distribution of ppe, stockpiling for emergencies, and implementing reuse and decontamination strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2772.md)
+* [Improve cleanliness and maintenance of urban green spaces, implement social distancing measures and capacity limits, provide clear communication on safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2406.md)
+* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3130.md)
 
 ## Risks possibly mitigated by this Mitigation
 

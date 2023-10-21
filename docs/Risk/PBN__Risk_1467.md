@@ -63,8 +63,8 @@ Increased infection rates among employees, potential outbreaks, health and safet
 
 ## Technologies linked to the risk
 
-* [Enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_740.md)
 * [Temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_742.md)
+* [Enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_740.md)
 * [Designated workspaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_741.md)
 
 ## Property: has_RiskType

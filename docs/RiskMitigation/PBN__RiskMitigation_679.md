@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Provide food parcels and free meals, increase availability of basic food products, adapt delivery services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2398.md)
 * [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_285.md)
-* [Food parcels and free meals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4867.md)
-* [Online grocery delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4892.md)
-* [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4363.md)
-* [Management of deliveries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3218.md)
 * [Implement innovative demand and supply-side initiatives to build resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1490.md)
 * [Prioritizing shipments of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_301.md)
-* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4868.md)
 * [Ensure adequate food production, import, storage, and transportation, prioritize vulnerable families, establish neighborhood food markets.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2442.md)
 * [Ensure food supply chains, promote sustainable agriculture, and provide food assistance and support to vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2465.md)
+* [Improve food systems planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_689.md)
+* [Implement travel restrictions, reduce travel demand, promote alternative methods of essential supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1843.md)
+* [Increase availability and affordability of healthy food options, support urban agriculture, and provide nutritional education and guidance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2440.md)
+* [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2054.md)
 
 ## Benefits linked to a risk
 

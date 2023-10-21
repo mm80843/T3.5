@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3746.md)
-* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4359.md)
+* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3518.md)
+* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3615.md)
 * [Covid-19 exposure in offshore workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_376.md)
-* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4347.md)
+* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3611.md)
 * [Healthcare workers at risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_477.md)
 * [Worker infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3162.md)
 * [Spread of covid-19 in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_434.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3523.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
 * [Health and safety of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1549.md)
 
 ## Description of the risk

@@ -17,7 +17,7 @@
 * [Implement blockchain technology for secure and decentralized data storage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2699.md)
 * [Collaborate with blockchain companies for secure and timely medication delivery with accurate tracking.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2856.md)
 * [Patient-controlled access to medical records](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_400.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3220.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3149.md)
 
 ## Benefits linked to a risk
 

@@ -13,7 +13,7 @@
 * [Decreasing interest in news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_534.md)
 * [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3329.md)
 * [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_805.md)
-* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3440.md)
+* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3421.md)
 * [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2039.md)
 * [Decreased interest, avoidance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2495.md)
 * [Economic strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1963.md)

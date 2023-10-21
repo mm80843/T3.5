@@ -17,7 +17,7 @@
 * [Neighborhood association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2327.md)
 * [Community organizer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2318.md)
 * [Local communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_85.md)
-* [Community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2593.md)
+* [Community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2547.md)
 
 ## Risks that can be mitigated by this stakeholder
 

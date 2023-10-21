@@ -41,8 +41,8 @@ Hospitals and masses face a shortage of medical equipment
 
 ## Mitigations of this risk
 
-* [Strengthen supply chains, utilize blockchain for efficient tracking and distribution of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2698.md)
 * [Blockchain-based donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1053.md)
+* [Strengthen supply chains, utilize blockchain for efficient tracking and distribution of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2698.md)
 
 ## Name of the risk
 

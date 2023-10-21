@@ -10,14 +10,14 @@
 
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
 * [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_960.md)
-* [Enforcing data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3615.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3515.md)
-* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3516.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
 * [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
 * [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
 * [Data privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3120.md)
 * [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)
+* [Data security, encryption, ethics, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1114.md)
+* [Misuse of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_50.md)
+* [Poor compliance, concern over data misuse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2600.md)
+* [Data privacy and public perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1898.md)
 
 ## Mitigations of this risk
 

@@ -58,8 +58,8 @@ Uncertainty in policy effectiveness, potential for ineffective policies
 
 ## People affected by this risk
 
-* [Policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [Public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [General population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Technologies linked to the risk

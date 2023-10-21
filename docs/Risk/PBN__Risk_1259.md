@@ -8,12 +8,12 @@
 
 ## Closest similar item
 
-* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3757.md)
-* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3758.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
+* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3529.md)
 * [Inadequate patient-centered care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1997.md)
 * [Patient overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
 * [Inadequate patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_465.md)
-* [Clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3837.md)
+* [Clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3550.md)
 * [Psychosocial needs and support during direct patient encounters curtailed by home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_593.md)
 * [Lack of patient education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2066.md)
 * [Ineffective reachability to patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_997.md)

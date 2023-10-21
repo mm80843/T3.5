@@ -64,8 +64,8 @@ Potential difficulty in interpreting diagnostic images.
 
 ## Technologies linked to the risk
 
-* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
 * [Screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_391.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
 
 ## Property: has_RiskType
 

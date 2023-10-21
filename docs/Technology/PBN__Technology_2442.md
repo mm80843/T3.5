@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2049.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1961.md)
-* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
-* [Well-being promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1512.md)
-* [Mhealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3227.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2061.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2072.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_904.md)
+* [](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3195.md)
+* [Phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1092.md)
+* [Ble](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3361.md)
+* [Telephones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3327.md)
+* [Music](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2456.md)
+* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3266.md)
+* [Rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1060.md)
+* [Snomed](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3425.md)
+* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3435.md)
 
 ## This Technology enables the following mitigations
 

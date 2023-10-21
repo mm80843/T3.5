@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5174.md)
-* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3946.md)
-* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4125.md)
-* [Changes in use and regulation of interior public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5175.md)
-* [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5176.md)
-* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4292.md)
-* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5177.md)
-* [Changes in use and behavior in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5178.md)
-* [Design and develop public spaces that encourage social interaction and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5179.md)
-* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4279.md)
+* [Public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2638.md)
+* [Communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3148.md)
+* [Designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2279.md)
+* [Updated terminology and classification systems for public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_725.md)
+* [Public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1497.md)
+* [Public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1220.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
+* [Flexible and adaptable public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_724.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1982.md)
+* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
 
 ## This Technology enables the following mitigations
 

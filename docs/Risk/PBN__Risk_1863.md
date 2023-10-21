@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3164.md)
-* [Timely implementation of travel restrictions, social distancing, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3738.md)
+* [Timely implementation of travel restrictions, social distancing, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3510.md)
 * [Reduction in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2152.md)
 * [Disruption in the travel and tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_679.md)
-* [Destination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3736.md)
+* [Destination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3508.md)
 * [Individual responsibility for travel choices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_531.md)
 * [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2057.md)
 * [Travel and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2005.md)
 * [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1028.md)
-* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3739.md)
+* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3511.md)
 
 ## Description of the risk
 

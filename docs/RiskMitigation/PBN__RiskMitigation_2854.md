@@ -10,14 +10,14 @@
 
 * [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1327.md)
 * [Telemedicine and remote consultations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1431.md)
-* [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3535.md)
-* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3534.md)
-* [Remote consultation solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3536.md)
-* [Telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3523.md)
-* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3530.md)
-* [Telemedicine consultation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3529.md)
+* [Expand telehealth services for virtual therapy and counseling; increase availability of online mental health resources; train and support mental health professionals in remote service delivery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2605.md)
+* [Implementation of telemedicine consultation approaches, remote consultation solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2595.md)
 * [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_638.md)
 * [Use virtual reality to educate patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2736.md)
+* [Rapid development of virtual educational platforms, e-learning packages, virtual assessments.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2594.md)
+* [Telemedicine and remote testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1426.md)
+* [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_43.md)
+* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1126.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Human interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3972.md)
-* [Restriction of inter-individual physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3973.md)
-* [Nature interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3974.md)
-* [Physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3975.md)
-* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3976.md)
-* [Interaction with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3977.md)
+* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2301.md)
+* [Increased interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2489.md)
 * [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2435.md)
-* [Encourage a balanced approach to non-contact interaction activities, promoting a mix of virtual and physical interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3978.md)
-* [Reduced physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3979.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3642.md)
+* [Lack of face-to-face interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2760.md)
+* [Reduced human contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3320.md)
+* [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2006.md)
+* [Communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_457.md)
+* [Airborne or close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2958.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3165.md)
+* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_853.md)
 
 ## Mitigations of this risk
 

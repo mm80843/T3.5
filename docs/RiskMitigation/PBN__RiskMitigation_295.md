@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3367.md)
-* [Density of cities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4488.md)
 * [Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1733.md)
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3357.md)
-* [Redesigning urban spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3362.md)
-* [Reducing population density of built-up areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3360.md)
+* [Promote medium density housing, create mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2139.md)
+* [Urban planning and design that balances density and social distancing measures, building design that supports healthy environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2649.md)
+* [Redesign and allocate more space for street open spaces in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2579.md)
+* [Reduce population density of built-up areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_127.md)
+* [Reduce population density and improve housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2003.md)
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
-* [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3188.md)
-* [Space and density](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4489.md)
+* [Create and maintain green spaces in urban areas, prioritize green space in urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1470.md)
 * [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_454.md)
+* [Address spatial inequalities and social disparities in urban design and planning. improve access to healthcare, essential services, and amenities in disadvantaged neighborhoods.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3087.md)
 
 ## Benefits linked to a risk
 

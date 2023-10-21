@@ -60,9 +60,9 @@ A Surface Coating that Rapidly Inactivates SARS-CoV-2
 
 * [Regulatory oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_267.md)
 * [Safe coating materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_266.md)
+* [Cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_264.md)
 * [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_269.md)
 * [Anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_263.md)
-* [Cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_264.md)
 * [Testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_265.md)
 * [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_268.md)
 

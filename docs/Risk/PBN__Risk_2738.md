@@ -17,7 +17,7 @@
 * [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1989.md)
 * [Reinfection cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_672.md)
 * [Delayed treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3219.md)
-* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3720.md)
+* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3504.md)
 
 ## Mitigations of this risk
 

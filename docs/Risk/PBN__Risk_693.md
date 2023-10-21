@@ -16,7 +16,7 @@
 * [Low accessibility to green areas for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_944.md)
 * [Lack of green space in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1407.md)
 * [Lack of equitable distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1807.md)
-* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3473.md)
+* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
 * [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
 
 ## Mitigations of this risk

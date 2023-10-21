@@ -10,12 +10,12 @@
 
 * [Recontamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2738.md)
 * [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1324.md)
-* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3628.md)
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3472.md)
 * [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1784.md)
 * [Contamination of object surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_921.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_254.md)
 * [Contamination of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1413.md)
-* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3629.md)
+* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3473.md)
 * [Surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2579.md)
 * [Surface transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
 

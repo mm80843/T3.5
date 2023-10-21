@@ -14,10 +14,10 @@
 * [Wwm3: waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_192.md)
 * [Wwm1: waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_190.md)
 * [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3891.md)
-* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3892.md)
-* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3890.md)
-* [Improved waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3893.md)
+* [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2406.md)
+* [Inadequate waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1066.md)
+* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_575.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3481.md)
 
 ## Mitigations of this risk
 

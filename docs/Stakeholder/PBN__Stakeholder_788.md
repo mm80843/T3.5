@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Iot device manufacturers and service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1432.md)
+* [Iot device manufacturer and service provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2467.md)
+* [Iot industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1396.md)
+* [Device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1431.md)
+* [Device manufacturer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1837.md)
+* [Iot device](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2457.md)
 * [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1392.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3450.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3451.md)
-* [Purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3502.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3500.md)
-* [Internet of things iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3452.md)
-* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3503.md)
-* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3504.md)
-* [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3780.md)
-* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3501.md)
+* [Iot technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_911.md)
+* [Iot technology provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2462.md)
+* [Wearable device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_742.md)
 
 ## Risks that can be mitigated by this stakeholder
 

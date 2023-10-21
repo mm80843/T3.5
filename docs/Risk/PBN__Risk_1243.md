@@ -10,7 +10,7 @@
 
 * [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1135.md)
 * [Lack of environmental precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3617.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
 * [Lack of natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2092.md)
 * [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2703.md)
 * [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1504.md)

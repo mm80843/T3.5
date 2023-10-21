@@ -10,14 +10,14 @@
 
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
 * [Natural or mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3043.md)
-* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4000.md)
 * [Mechanical and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2099.md)
 * [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1012.md)
 * [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
-* [Forced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4866.md)
-* [Enhance natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4001.md)
 * [Natural ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_701.md)
-* [Increased natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4002.md)
+* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2354.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [Use of outdoor air and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_675.md)
 
 ## This Technology enables the following mitigations
 

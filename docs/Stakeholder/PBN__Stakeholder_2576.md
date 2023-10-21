@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2576 
 
-# __Regulatory measures__
+# __Local supply chains__
 
 ## Category to which it belongs
 
-* [Interconnected actors and entities operating within various environmental, economic, and regulatory systems striving for conservation, sustainability, and cooperation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_438.md)
+* [Various players in the global supply chain, including retailers, suppliers, and logistics providers, work together to ensure effective procurement and distribution.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_435.md)
 
 ## Closest similar item
 
-* [Monitoring regulatory environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3759.md)
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3760.md)
-* [Regulatory adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3761.md)
-* [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2871.md)
-* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2842.md)
-* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3762.md)
-* [Environmental measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3763.md)
-* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2682.md)
-* [Government policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2684.md)
-* [Organizational measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2973.md)
+* [Businesses and industries with localized supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1243.md)
+* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2575.md)
+* [Business and industry with localized supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1998.md)
+* [Busines and industry with localized supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1953.md)
+* [Supply chain professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_16.md)
+* [Supply chain organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_14.md)
+* [Local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2586.md)
+* [Workers in global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1384.md)
+* [Local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_300.md)
+* [Supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_983.md)
 

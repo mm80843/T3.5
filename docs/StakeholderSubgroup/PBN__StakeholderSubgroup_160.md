@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Conservation funding](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_421.md)
-* [Lobby for continued or increased budget allocations, integrate biodiversity benefits into national development strategies, and prioritize conservation in recovery packages.](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_422.md)
-* [Strengthen partnerships with donors, improve access to funding opportunities, and highlight the importance of conservation in development efforts.](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_423.md)
-* [Implement biodiversity conservation strategies in urban planning, prioritize the creation of diverse green spaces](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_424.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_177.md)
 * [Ecology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_165.md)
 * [Sustainability and environment](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_115.md)
-* [Advocate for green recovery initiatives that support pca conservation, monitor policy changes and investment opportunities, and ensure effective use of funding for conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_425.md)
-* [Increasing public awareness towards energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_366.md)
-* [Mobilize online fundraising campaigns, promote virtual conservation initiatives](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_426.md)
-* [Preserving and developing forests and other green spaces](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_427.md)
+* [Environmental management and research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_162.md)
+* [Advocacy and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_164.md)
+* [Environmental and living conditions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_98.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_114.md)
+* [Energy](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_30.md)
+* [Environmental conditions and settings](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_107.md)
+* [Park and recreation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_28.md)
 
 ## Stakeholders in this stakeholder subgroup
 

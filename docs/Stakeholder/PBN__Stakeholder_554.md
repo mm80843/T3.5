@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2636.md)
-* [Online platforms and social media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2637.md)
-* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2635.md)
-* [Online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2951.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2634.md)
-* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2704.md)
-* [Social media communication](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2952.md)
+* [Social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2573.md)
+* [Online platforms and social media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2574.md)
+* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2572.md)
+* [Online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2667.md)
+* [Social medium platform](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1784.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2571.md)
+* [Social media companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_555.md)
+* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2597.md)
 * [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1270.md)
-* [Social media platforms can be used to provide accurate and timely information to customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2953.md)
-* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2954.md)
+* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2668.md)
 
 ## Risks that can be mitigated by this stakeholder
 

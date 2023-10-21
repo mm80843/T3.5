@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
+* [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
 * [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
 * [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3521.md)
-* [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3520.md)
+* [Poor infrastructure, inadequate housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2409.md)
+* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
+* [Inefficient infrastructure and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2939.md)
 * [Incomplete infrastructure, coordination challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2597.md)
-* [Robustness of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4144.md)
-* [Resourcefulness of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4145.md)
-* [Rapidity of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4146.md)
-* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
-* [Redundancy of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4147.md)
+* [Lack of facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
 
 ## Description of the risk
 

@@ -57,8 +57,8 @@ Limited transparency and citizen participation, missed opportunities for collabo
 
 ## People affected by this risk
 
-* [Citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [Government officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_333.md)
+* [Citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 
 ## Technologies linked to the risk
 

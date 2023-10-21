@@ -12,23 +12,23 @@ enabler_025
 
 ## Closest similar item
 
-* [Smart hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_291.md)
-* [Hvac technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_292.md)
-* [Hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_293.md)
-* [Hvac technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_294.md)
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_295.md)
-* [Hvac systems with this capability](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_296.md)
-* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_297.md)
-* [Smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_298.md)
-* [Smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_262.md)
-* [Hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_299.md)
+* [Smart hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_131.md)
+* [Hvac technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_133.md)
+* [Hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_136.md)
+* [Hvac technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_132.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_137.md)
+* [Hvac systems with this capability](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_138.md)
+* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_135.md)
+* [Smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_111.md)
+* [Smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_123.md)
+* [Hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_139.md)
 
 ## Thees blueprints use this enabler
 
 * [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
 * [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Smart hvac](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3740.md)
 

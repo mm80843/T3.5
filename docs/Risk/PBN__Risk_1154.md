@@ -55,8 +55,8 @@ Increased prevalence of mental health issues, potential social chaos
 * [Support organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_789.md)
 * [Mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_603.md)
 * [Healthcare institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_269.md)
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 * [Mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_692.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 * [Social workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_693.md)
 
 ## Articles mentionning the risk

@@ -14,10 +14,10 @@
 * [Labour market vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3065.md)
 * [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1840.md)
 * [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2242.md)
-* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3856.md)
+* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3561.md)
 * [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
 * [Labour market challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_451.md)
-* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3859.md)
+* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3564.md)
 
 ## Mitigations of this risk
 

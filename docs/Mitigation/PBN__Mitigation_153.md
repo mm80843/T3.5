@@ -34,8 +34,8 @@ Creating a dynamic and efficient healthcare system by integrating various digita
 ## This Mitigation is enabled by the following technologies
 
 * [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
 * [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 * [Mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)

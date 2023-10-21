@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2533.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2531.md)
-* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2532.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2520.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2518.md)
+* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2519.md)
 * [Research team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_699.md)
 * [Researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
-* [Research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2801.md)
+* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2521.md)
+* [Research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2623.md)
 * [Research groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_172.md)
 * [Research organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_849.md)
-* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2535.md)
+* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2522.md)
 
 ## Risks that can be mitigated by this stakeholder
 

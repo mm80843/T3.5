@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Portable air conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3380.md)
-* [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5010.md)
+* [Portable medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_953.md)
 * [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
-* [Outdoor space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4569.md)
-* [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3936.md)
 * [Energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2620.md)
-* [Outdoor access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4570.md)
+* [Wind catchers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2188.md)
 * [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2641.md)
-* [Delivery drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5009.md)
-* [Availability of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3961.md)
+* [Portable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3376.md)
+* [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_549.md)
+* [Iot devices for monitoring and controlling occupancy and airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1518.md)
+* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
 
 ## This Technology enables the following mitigations
 

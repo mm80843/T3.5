@@ -10,14 +10,14 @@
 
 * [Enhance job training and reskilling programs, promote entrepreneurship, and support job creation in new industries.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2626.md)
 * [Provide job retention schemes and financial support for affected industries, promote job transitions and reskilling opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2428.md)
+* [Implement countercyclical policies, support job creation in growing industries, and provide reemployment assistance and training.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2628.md)
+* [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2664.md)
+* [Increase healthcare capacity, provide additional resources and support to healthcare workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2660.md)
+* [Implement social welfare measures, provide support for vulnerable households, create opportunities for economic recovery and job creation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2443.md)
+* [Provide support and financial assistance to developing countries, promote debt relief and global cooperation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2950.md)
 * [Job training programs, re-skilling initiatives, and government assistance for unemployed individuals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2839.md)
 * [Implement financial support programs and resources for individuals and businesses; promote job creation and stability; provide financial education and counseling.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2603.md)
-* [Overhaul employment services and vocational training systems, coordinate efforts to retrain and redeploy workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2954.md)
-* [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2824.md)
-* [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2482.md)
-* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3868.md)
-* [Improve healthcare infrastructure, increase funding for healthcare services, implement telemedicine and mobile healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1895.md)
-* [Ensure food supply chains, promote sustainable agriculture, and provide food assistance and support to vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2465.md)
+* [Provide financial support and assistance programs, promote job creation and training opportunities, offer financial education and counseling services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1772.md)
 
 ## Risks possibly mitigated by this Mitigation
 

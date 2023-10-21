@@ -34,7 +34,7 @@ Use robots for medical tasks, adopt telemedicine for remote consultation, and pr
 ## This Mitigation is enabled by the following technologies
 
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
 

@@ -65,7 +65,7 @@ The impact of the COVID-19 pandemic on the importance of urban green spaces to t
 * [Policy and regulation changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1177.md)
 * [Adequate funding and staffing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1183.md)
 * [Community workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1180.md)
-* [Enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
 * [Signage and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1179.md)
+* [Enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
 * [Targeted investment in underserved neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1181.md)
 

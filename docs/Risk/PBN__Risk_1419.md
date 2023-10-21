@@ -17,7 +17,7 @@
 * [Insufficient fresh air delivery in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_276.md)
 * [Poor ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2693.md)
 * [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1288.md)
-* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3845.md)
+* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3552.md)
 
 ## Description of the risk
 

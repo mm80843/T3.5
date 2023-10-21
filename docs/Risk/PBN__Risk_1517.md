@@ -14,7 +14,7 @@
 * [Shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3358.md)
 * [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
 * [Seeding events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3268.md)
-* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3752.md)
+* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3523.md)
 * [Early detection of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3228.md)
 * [Coordination problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2426.md)
 * [Time overrun](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_597.md)

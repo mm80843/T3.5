@@ -8,9 +8,9 @@
 
 ## Closest similar item
 
-* [Identifying and addressing vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4478.md)
+* [Identifying and addressing vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3626.md)
 * [Systemic vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2326.md)
-* [Identify and assess vulnerabilities, implement risk mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4501.md)
+* [Identify and assess vulnerabilities, implement risk mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3635.md)
 * [Blockchain system vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
 * [Vulnerability assessment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_458.md)
 * [Exploitation of weaknesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3308.md)

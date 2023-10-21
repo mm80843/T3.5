@@ -12,12 +12,12 @@
 * [Exclusion from support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2836.md)
 * [Policy measures to support startups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_564.md)
 * [Adversity facing innovative startups during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_558.md)
-* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3431.md)
+* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
 * [Exclusion from government support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
 * [Protection of innovative startups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_565.md)
 * [Exclusion from government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_563.md)
 * [Delayed treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3219.md)
-* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
 
 ## Mitigations of this risk
 

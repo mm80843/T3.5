@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1776.md)
 * [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1462.md)
-* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4714.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3526.md)
-* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4301.md)
-* [Proper training and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
-* [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4656.md)
-* [Training materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4715.md)
-* [Educational and training resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3970.md)
-* [Workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3961.md)
-* [Support widespread skills](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4592.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3606.md)
+* [High cost, technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2950.md)
+* [Technical performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2427.md)
+* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
+* [Transmission, education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2638.md)
+* [Technology access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1258.md)
+* [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1099.md)
+* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3546.md)
 
 ## Mitigations of this risk
 

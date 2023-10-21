@@ -10,7 +10,7 @@
 
 * [Reliance on digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1363.md)
 * [Resistance to digital adoption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3121.md)
-* [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3698.md)
+* [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3500.md)
 * [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1190.md)
 * [Lack of digital literacy and skills](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2302.md)
 * [Lack of digital health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1961.md)

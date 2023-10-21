@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_588.md)
+* [Portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3075.md)
 * [Hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_770.md)
 * [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1690.md)
 * [Hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_672.md)
-* [Use portable room air cleaners with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
+* [Negative air machines with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_968.md)
 * [Implementation of hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_678.md)
-* [Using high-efficiency air filters such as merv-13 or hepa filters , regularly replacing and cleaning filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3892.md)
-* [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4587.md)
-* [Portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2474.md)
-* [Use of portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4588.md)
+* [Use of air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1043.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
 
 ## This Technology enables the following mitigations
 

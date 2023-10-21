@@ -64,8 +64,8 @@ Discourages people from using urban green spaces, reduced physical activity and 
 
 ## Technologies linked to the risk
 
-* [Enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
 * [Signage and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1179.md)
+* [Enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
 
 ## Property: has_RiskType
 

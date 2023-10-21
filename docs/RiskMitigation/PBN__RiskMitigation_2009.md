@@ -16,7 +16,7 @@
 * [Implement infection control measures, promote hygiene practices, and enforce social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1812.md)
 * [Education and training on infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1275.md)
 * [Improve access to testing and healthcare facilities, promote and enforce proper infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3090.md)
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3126.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3118.md)
 * [Incorporate small-scale heterogeneity in epidemic models to account for neighborhood-level processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1662.md)
 
 ## Risks possibly mitigated by this Mitigation

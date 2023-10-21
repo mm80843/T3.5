@@ -13,7 +13,7 @@
 * [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_680.md)
 * [Public and users of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_37.md)
 * [Public buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_189.md)
-* [Public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2745.md)
+* [Public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2607.md)
 * [Public areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_63.md)
 * [Visitors to public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_765.md)
 * [Public space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1611.md)
@@ -28,6 +28,6 @@
 * [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_269.md)
 * [Establish a one-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_264.md)
 * [Checkpoint allocation for monitory and recording opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_265.md)
-* [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_270.md)
 * [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_272.md)
+* [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_270.md)
 

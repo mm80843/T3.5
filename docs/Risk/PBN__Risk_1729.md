@@ -14,7 +14,7 @@
 * [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1060.md)
 * [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
 * [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1059.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3814.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
 * [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
 * [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
 * [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)

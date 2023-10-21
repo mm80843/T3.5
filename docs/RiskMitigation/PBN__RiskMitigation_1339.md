@@ -13,7 +13,7 @@
 * [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1440.md)
 * [Adoption of standard protocols and interfaces, development of interoperability standards.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2779.md)
 * [Implement reliable communication protocols and redundancy measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1687.md)
-* [Regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3985.md)
+* [Regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3223.md)
 * [Establish standardized protocols for data sharing and communication between smart cities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1505.md)
 * [Standardization of pcr platforms and protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_877.md)
 * [Implement open protocols and ensure data integrity and safety during communication and transmission.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1506.md)

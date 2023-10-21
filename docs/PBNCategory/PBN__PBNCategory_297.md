@@ -5,5 +5,5 @@
 ## Items covered in this category
 
 * [Laboratory and research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_44.md)
-* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_536.md)
+* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_174.md)
 

@@ -12,12 +12,12 @@
 * [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2969.md)
 * [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3692.md)
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
+* [Social robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3696.md)
 * [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3699.md)
 * [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3298.md)
-* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5279.md)
-* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5012.md)
 * [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2034.md)
-* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5278.md)
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3722.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1469.md)
 
 ## This Technology enables the following mitigations
 

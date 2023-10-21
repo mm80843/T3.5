@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
 * [Changes in use and behavior in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1453.md)
-* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3930.md)
 * [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1317.md)
 * [Changes in use and regulation of interior public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_917.md)
+* [Inadequate public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
+* [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
 * [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1449.md)
-* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3843.md)
-* [Design and develop public spaces that encourage social interaction and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3458.md)
 * [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3321.md)
-* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4233.md)
+* [Fewer people in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1452.md)
+* [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_267.md)
+* [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
 
 ## Description of the risk
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2829 
 
-# __Specific building occupants__
+# __Alternative sourcing strategies__
 
 ## Category to which it belongs
 
-* [Building design professionals and construction industry stakeholders, including architects, contractors, and interior designers, aim to create comfortable and functional spaces for building occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_429.md)
+* [Various players in the global supply chain, including retailers, suppliers, and logistics providers, work together to ensure effective procurement and distribution.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_435.md)
 
 ## Closest similar item
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
-* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1485.md)
-* [Building occupants in all types of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_652.md)
-* [Occupants in the building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_165.md)
-* [Occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_914.md)
-* [Occupants of the building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_140.md)
-* [Building owners/occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_61.md)
-* [Building owners and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_143.md)
-* [Building occupants and workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_907.md)
-* [Building occupants and management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_78.md)
+* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2577.md)
+* [Procurement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_984.md)
+* [Supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_15.md)
+* [Supply chain organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_14.md)
+* [Supply chain partners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_296.md)
+* [Supply chain professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_16.md)
+* [Suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_283.md)
+* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2575.md)
+* [Countries heavily reliant on specific suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1239.md)
+* [Supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_983.md)
 

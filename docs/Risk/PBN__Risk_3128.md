@@ -14,10 +14,10 @@
 * [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2448.md)
 * [Incomplete evaluation of proposed solutions with lack of concrete implementations and real-world validations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1048.md)
 * [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3168.md)
-* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3864.md)
+* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3565.md)
 * [Lack of evaluation planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
-* [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4122.md)
-* [Lack of detailed analysis on visitors’ attributes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4784.md)
+* [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3583.md)
+* [Lack of detailed analysis on visitors’ attributes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3660.md)
 
 ## Mitigations of this risk
 

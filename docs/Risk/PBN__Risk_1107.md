@@ -62,8 +62,8 @@ Increased reliance on external sources and potential exposure to infection
 
 ## Technologies linked to the risk
 
-* [Community amenities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_170.md)
 * [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
+* [Community amenities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_170.md)
 
 ## Property: has_RiskType
 

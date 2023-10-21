@@ -16,7 +16,7 @@
 * [Increased energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2201.md)
 * [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3197.md)
 * [Unnecessary energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2401.md)
-* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3903.md)
+* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3575.md)
 * [Energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_614.md)
 
 ## Mitigations of this risk

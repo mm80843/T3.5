@@ -4,5 +4,5 @@
 
 ## Items covered in this category
 
-* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_254.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_82.md)
 

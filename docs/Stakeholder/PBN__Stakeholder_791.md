@@ -12,11 +12,11 @@
 * [Staff trainers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_966.md)
 * [Fitness industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1141.md)
 * [Fitnes trainer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1961.md)
-* [Fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3583.md)
+* [Fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2794.md)
 * [Gyms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_663.md)
-* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2831.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2633.md)
 * [Gym](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1967.md)
-* [Online fitness programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3688.md)
+* [Online fitness programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2811.md)
 * [Training organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1331.md)
 
 ## Risks that can be mitigated by this stakeholder

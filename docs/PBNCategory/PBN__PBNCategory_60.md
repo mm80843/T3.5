@@ -4,7 +4,7 @@
 
 ## Items covered in this category
 
-* [Supply chain mapping and visualization tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_189.md)
-* [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_216.md)
-* [Digital supply chain platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_642.md)
+* [Supply chain mapping and visualization tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_94.md)
+* [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_105.md)
+* [Digital supply chain platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_64.md)
 

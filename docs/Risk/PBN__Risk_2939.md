@@ -13,7 +13,7 @@
 * [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
 * [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
 * [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
-* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3751.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3522.md)
 * [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2944.md)
 * [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
 * [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)

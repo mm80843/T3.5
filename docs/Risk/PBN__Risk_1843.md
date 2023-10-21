@@ -17,7 +17,7 @@
 * [Lack of evidence synthesis and filtering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_394.md)
 * [Inadequate data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_382.md)
 * [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
-* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4290.md)
+* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3605.md)
 
 ## Description of the risk
 

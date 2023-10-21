@@ -15,7 +15,7 @@
 * [Inaccurate or sensationalized information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2757.md)
 * [Unreliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
 * [Misinformation and confusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3220.md)
-* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3614.md)
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
 * [Information overload and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1351.md)
 
 ## Mitigations of this risk

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Walking, cycling, and public transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4916.md)
-* [Implementing low-cost and temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3686.md)
+* [Promote sustainable practices, invest in infrastructure for active transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2365.md)
+* [Invest in non-car based infrastructures, promote cycling and walking, reallocate street space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1729.md)
+* [Implement measures to reduce traffic noise such as traffic restrictions or promotion of cycling and green transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2174.md)
 * [Implementing temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1258.md)
 * [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1952.md)
-* [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3687.md)
+* [Improve public transportation infrastructure, increase capacity, enforce social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2197.md)
 * [Promote active transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_21.md)
-* [Creation of space for walking and cycling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4023.md)
-* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3234.md)
-* [Creating more bike lanes and pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3683.md)
-* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3373.md)
+* [Implement crowd control measures, promote physical distancing, limit occupancy in congested areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2179.md)
+* [Improve transportation to green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1311.md)
+* [Implement stricter vehicle emissions standards, promote electric vehicles and low-carbon fuels, improve public transport and active travel options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1669.md)
 
 ## Risks possibly mitigated by this Mitigation
 

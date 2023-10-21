@@ -10,14 +10,14 @@
 
 * [Improve self-sufficiency by enhancing shopping and recreation facilities within communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1553.md)
 * [Self-sufficiency in recreational facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_446.md)
-* [Self-sufficiency in recreation facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4362.md)
-* [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4363.md)
 * [Access to shops and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_861.md)
 * [Monitoring buying behavior and limiting purchases; optimizing supply chains; surveillance and enforcement against hoarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3035.md)
-* [Proximity shopping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4364.md)
-* [Inefficiency in building systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4365.md)
-* [Improving spending effectiveness and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4366.md)
 * [Create self-dependent and sustainable services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2889.md)
+* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_244.md)
+* [Promote diversification and self-sufficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_18.md)
+* [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_285.md)
+* [Implementation of wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_902.md)
+* [Implement proper waste management and recycling systems, encourage environmentally-friendly consumer behavior.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3096.md)
 
 ## Benefits linked to a risk
 

@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Lc1: local services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_205.md)
-* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3752.md)
+* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3523.md)
 * [Limited access to services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3376.md)
 * [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1107.md)
 * [Essential services maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_995.md)

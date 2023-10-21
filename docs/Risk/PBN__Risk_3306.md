@@ -14,7 +14,7 @@
 * [Environmental-based](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
 * [Limited access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2701.md)
 * [Building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3617.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
 * [Limited access to outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2694.md)
 * [Contaminated environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3098.md)
 * [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1335.md)

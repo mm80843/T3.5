@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3655 
 
-# __Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.__
+# __Sources__
 
 ## Category to which it belongs
 
-* [Limited access to clean water and sanitation, contamination of water bodies, poor water management and treatment, and the need for improved wastewater-based epidemiology methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
+* [The challenges and consequences of the global pandemic, including domestic violence, interrupted education, communication barriers, and employment issues, highlight the complexity of our interconnected world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
 
 ## Closest similar item
 
-* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3853.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3855.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3656.md)
-* [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3854.md)
-* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4845.md)
-* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3851.md)
-* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1895.md)
-* [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3815.md)
-* [Implement wastewater-based epidemiology wbe , target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3852.md)
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3850.md)
+* [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
+* [Outdated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2282.md)
+* [Inaccurate news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3083.md)
+* [Biased estimates and inferences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2755.md)
+* [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3248.md)
+* [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1099.md)
+* [Limited evidence available](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_402.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
+* [Associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
+* [Unreliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
 

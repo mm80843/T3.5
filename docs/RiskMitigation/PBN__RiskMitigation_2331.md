@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Establish mechanisms for coordinating and integrating research, data, and expertise across stakeholders and sectors, facilitate dialogue and exchange of information, and promote a multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1854.md)
-* [Two-way dialogue between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5128.md)
-* [Regular communication and coordination among project teams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3264.md)
+* [Establish standards and protocols, promote collaboration and knowledge sharing among stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1543.md)
 * [Foster collaboration and clear communication among stakeholders, establish effective project governance structure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1943.md)
-* [Community stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4915.md)
-* [Stakeholder cooperation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4914.md)
+* [Implement risk management strategies, establish contingency plans, enhance communication and collaboration among supply chain stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2344.md)
 * [Improve communication channels and methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2529.md)
-* [Communication and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3263.md)
+* [Provide training and support for stakeholders in data analysis and interpretation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2063.md)
 * [Simplify supply chain structures, build collaborative relationships, enhance communication and coordination among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2343.md)
-* [Difficulty in collaboration and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5129.md)
+* [Development of reliable communication channels, sharing accurate information, coordination platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2597.md)
+* [Improve coordination and communication between sub-populations through centralized planning and information sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2625.md)
+* [Improve communication channels, provide clear and consistent information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2688.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_231 
 
-# __Smart contracts__
+# __Social support networks__
 
 ## Category to which it belongs
 
-* [Blockchain-based automated agreements that execute predefined actions when specific conditions are met.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_62.md)
+* [The interconnected web of digital platforms enabling data analysis and online communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_59.md)
 
 ## Closest similar item
 
-* [Contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_232.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_4.md)
-* [Partnership agreements](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_233.md)
-* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_211.md)
-* [Temporary use agreements](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_234.md)
-* [Contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_235.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_210.md)
-* [Collaboration agreements](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_236.md)
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_212.md)
-* [Procurement](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_237.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
+* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_185.md)
+* [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_90.md)
+* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_233.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_88.md)
+* [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_89.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_232.md)
+* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_73.md)
+* [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_165.md)
+* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_234.md)
 

@@ -24,8 +24,8 @@
 * [Communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 * [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
 * [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
-* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
-* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
-* [Screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_391.md)
 * [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
+* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
+* [Screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_391.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
 

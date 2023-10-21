@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Deployment of energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3631.md)
-* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4850.md)
 * [Implement energy-efficient systems and smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1685.md)
-* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4702.md)
-* [Direct energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4711.md)
-* [Optimizing energy management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4851.md)
-* [Energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4640.md)
+* [Implement energy management systems, automate controls, and educate occupants on energy-saving behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1912.md)
+* [Improve insulation, use energy management systems, and implement efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1684.md)
 * [Provide backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2877.md)
-* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4852.md)
-* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4704.md)
+* [Implement energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1371.md)
+* [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2939.md)
+* [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_235.md)
+* [Encourage energy efficiency practices, educate households on thermostat settings and hvac maintenance, and promote the use of energy-efficient hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2092.md)
+* [Continuous monitoring of energy demands and adaptive design of the built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_548.md)
+* [Access to backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_233.md)
 
 ## Benefits linked to a risk
 

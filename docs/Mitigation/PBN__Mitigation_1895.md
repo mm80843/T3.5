@@ -33,6 +33,6 @@ Companies like Airbnb and Uber use data to manage their services related to food
 
 ## This Mitigation is enabled by the following technologies
 
-* [Digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3375.md)
 * [Big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3374.md)
+* [Digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3375.md)
 

@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Incorporate uncertainty and variability in input parameters using a monte carlo approach in the estimation model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1482.md)
-* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3316.md)
+* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3174.md)
 * [People flow model identification method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_117.md)
 * [Simulation-based people flow modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_116.md)
 * [Ai for testing optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_652.md)

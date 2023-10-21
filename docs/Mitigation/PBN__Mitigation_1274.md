@@ -36,6 +36,6 @@ Implementing technology that eliminates or reduces the need for physical contact
 
 * [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
 * [Motion sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1721.md)
-* [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3072.md)
 * [Voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2993.md)
+* [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3072.md)
 

@@ -17,7 +17,7 @@
 * [Inadequate hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
 * [Inadequate hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3163.md)
 * [Lack of hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1473.md)
-* [Implementing strategies to cope with staff shortages and consider alternative staffing options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3662.md)
+* [Implementing strategies to cope with staff shortages and consider alternative staffing options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3482.md)
 
 ## Mitigations of this risk
 

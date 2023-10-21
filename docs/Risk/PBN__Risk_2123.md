@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
-* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4548.md)
-* [Ensure availability of private spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4549.md)
-* [Implement self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4550.md)
-* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3920.md)
-* [Isolation space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4551.md)
-* [Compartmentalization of private and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3781.md)
-* [Common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3922.md)
-* [Neighborhood isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3917.md)
-* [Containment space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4379.md)
+* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
+* [Contamination of object surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_921.md)
+* [Contaminated environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3098.md)
+* [Lack of private space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3148.md)
+* [Limited access to natural spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2090.md)
+* [Lack of safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2393.md)
+* [Lack of self-sufficient spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1934.md)
+* [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1324.md)
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
 
 ## Description of the risk
 

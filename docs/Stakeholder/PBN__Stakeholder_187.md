@@ -14,13 +14,13 @@
 ## Closest similar item
 
 * [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2591.md)
+* [Healthcare facilities and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_225.md)
+* [Healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1250.md)
+* [Patients in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1165.md)
+* [Hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
+* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2618.md)
+* [Hospital](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1469.md)
 * [Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1483.md)
-* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2759.md)
-* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2791.md)
-* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2792.md)
-* [Equip healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2793.md)
-* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2778.md)
-* [Build new hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2794.md)
-* [Mobile medical units](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2795.md)
+* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2608.md)
+* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2613.md)
 

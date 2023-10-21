@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Lack of standardized tests and protocols for uvgi efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4770.md)
-* [Uvgi systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4763.md)
-* [Lack of definitive epidemiologic data on the ability of uvgi systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4949.md)
+* [Conduct further research and studies to determine the effectiveness of uvgi systems in preventing healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2328.md)
 * [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1356.md)
 * [Ensure proper use and maintenance of uvgi systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2327.md)
-* [Uvgi systems may not be a reliable method for preventing surgical site infections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4878.md)
-* [Uvgi systems can cause health risks if not properly installed and maintained](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4771.md)
-* [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4764.md)
+* [Conduct further research and studies on the effectiveness of uvgi in preventing tuberculosis transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2321.md)
 * [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_521.md)
 * [Ensure proper installation and maintenance of uvgi systems, provide protective clothing and eyewear for service personnel and occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2323.md)
+* [More research on uv susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2985.md)
+* [Uvgi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_315.md)
+* [Direct uvgi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_316.md)
+* [Train and certify more uv technicians](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2369.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -17,7 +17,7 @@
 * [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1599.md)
 * [Unreliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3084.md)
 * [False and misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2102.md)
-* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3614.md)
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
 
 ## Description of the risk
 
@@ -51,8 +51,8 @@ Misallocation of resources, panic shopping
 
 ## Stakeholders who can mitigate this risk
 
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 * [Government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_973.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 
 ## Articles mentionning the risk
 

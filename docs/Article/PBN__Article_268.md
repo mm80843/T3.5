@@ -38,10 +38,10 @@ Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers
 
 * [Spread of virus among construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1546.md)
 * [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1550.md)
+* [Transportation challenges for construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1551.md)
 * [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
 * [Financial impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1548.md)
 * [Health and safety of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1549.md)
-* [Transportation challenges for construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1551.md)
 
 ## This article points to following mitigation
 
@@ -68,6 +68,6 @@ Strategies to Mitigate COVID-19 Pandemic Impacts on Health and Safety of Workers
 * [Increased government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_860.md)
 * [Remote collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_125.md)
 * [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
 * [Wearable devices for social distancing monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_859.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
 

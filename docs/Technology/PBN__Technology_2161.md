@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Microalgae structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2990.md)
 * [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1888.md)
+* [Structural foundations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2945.md)
+* [Substrate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2932.md)
+* [Graph-based structure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2399.md)
 * [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3149.md)
-* [Lightweight structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3882.md)
-* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5360.md)
-* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1949.md)
-* [Enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2015.md)
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_228.md)
-* [Architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2653.md)
-* [Sensory networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5361.md)
-* [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5362.md)
+* [Microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+* [Incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1376.md)
+* [Open-source structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3006.md)
+* [Living materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3723.md)
 
 ## This Technology enables the following mitigations
 

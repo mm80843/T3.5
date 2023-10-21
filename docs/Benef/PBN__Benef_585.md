@@ -16,8 +16,8 @@ Smart city solutions can analyze real-time video data to provide insights into s
 
 ## Stakeholders benefitting from this Benefit
 
-* [Government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [Public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+* [Government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 
 ## Risks which can benefit from this action
 

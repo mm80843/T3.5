@@ -17,7 +17,7 @@
 * [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2210.md)
 * [Loss of data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1227.md)
 * [Data breaches, technological limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3022.md)
-* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3752.md)
+* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3523.md)
 
 ## Mitigations of this risk
 

@@ -5,8 +5,8 @@
 ## Items covered in this category
 
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [Improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_244.md)
-* [Technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_245.md)
-* [Network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_247.md)
-* [It infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_212.md)
+* [Technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_48.md)
+* [It infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_49.md)
+* [Network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_52.md)
+* [Improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_54.md)
 

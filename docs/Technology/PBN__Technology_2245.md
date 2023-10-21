@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Smartwatch](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2383.md)
+* [Smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2241.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
+* [Apple watches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2243.md)
+* [Smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2979.md)
+* [Wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2385.md)
 * [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2411.md)
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
-* [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4377.md)
-* [Wearable devices for social distancing monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_859.md)
-* [Smart metering](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5402.md)
-* [Mobile and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3828.md)
-* [Iot data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4021.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
-* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5403.md)
+* [Cell phone data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3207.md)
+* [Smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
+* [Data tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2699.md)
 
 ## This Technology enables the following mitigations
 

@@ -21,11 +21,11 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1085.md)
 * [Ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_183.md)
+* [Safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1665.md)
+* [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1085.md)
 * [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_184.md)
 * [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1667.md)
 * [Data standardization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1084.md)
-* [Safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1665.md)
 * [Safety workshops and trainings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1668.md)
 

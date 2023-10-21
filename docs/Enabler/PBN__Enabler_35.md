@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_34.md)
-* [Wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_54.md)
 * [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
-* [L5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_55.md)
 * [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_36.md)
-* [Small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_56.md)
-* [Internet and wi-fi networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_57.md)
-* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_53.md)
 * [Wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_39.md)
-* [Wireless data transmission 3g](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_43.md)
+* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_46.md)
+* [Massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_38.md)
+* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_33.md)
+* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_47.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_48.md)
+* [Broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_40.md)
 

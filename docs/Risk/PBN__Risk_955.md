@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Restorative spaces to support positive social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3818.md)
 * [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_131.md)
-* [Providing integrated spaces for social interaction and relaxation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3819.md)
-* [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3779.md)
 * [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
-* [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3816.md)
-* [Provide safe and social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3780.md)
-* [Design communal spaces that support physical distancing and social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3820.md)
 * [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2435.md)
-* [Accessible open green space and adherence to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3821.md)
+* [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
+* [Lack of self-sufficient spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1934.md)
+* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_853.md)
+* [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1922.md)
+* [Social disruptions, transmission in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2841.md)
+* [Lack of face-to-face interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2760.md)
 
 ## Mitigations of this risk
 

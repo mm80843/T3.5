@@ -13,9 +13,9 @@
 * [Lack of understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1525.md)
 * [Lack of clarity and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2764.md)
 * [Misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_971.md)
-* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3971.md)
+* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3578.md)
 * [Inadequate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2035.md)
-* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3748.md)
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3520.md)
 * [Confusion and uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1709.md)
 * [Misleading content](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3039.md)
 

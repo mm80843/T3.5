@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_837.md)
-* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4757.md)
-* [Adequate control of air conditioning and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3965.md)
-* [Run hvac system longer hours](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4758.md)
-* [Improve indoor ventilation systems, increase air exchange rates, and use of air purifiers or filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2256.md)
-* [Improved ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4535.md)
-* [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2023.md)
-* [Increasing fresh air supply in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4759.md)
-* [Reduce occupancy rates, enforce physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1966.md)
-* [Optimizing ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_247.md)
+* [Optimize hvac system operations, implement energy-efficient measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2981.md)
+* [Optimized operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1026.md)
+* [Optimize hvac systems, provide individual temperature control options, insulate the building envelope](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2380.md)
+* [Improve energy modeling tools and methodologies to account for changes in occupancy behavior and energy consumption patterns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2095.md)
+* [Improve insulation, use energy management systems, and implement efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1684.md)
+* [Keep hvac systems running for longer hours, even 24/7 if possible, and promote continuous air circulation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1935.md)
+* [Operate hvac systems for longer hours or 24/7](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_189.md)
+* [Limiting occupancy, improving ventilation systems, promoting outdoor spaces, implementing social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1613.md)
+* [Improve indoor ventilation systems and install physical barriers to reduce close contact and promote physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2039.md)
 
 ## Risks possibly mitigated by this Mitigation
 

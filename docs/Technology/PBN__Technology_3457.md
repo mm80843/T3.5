@@ -10,7 +10,7 @@
 
 * [Waste disposal infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2838.md)
 * [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_92.md)
-* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3973.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3763.md)
 * [Sustainable manufacturing and disposal methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1646.md)
 * [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
 * [Proper disposal of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1749.md)

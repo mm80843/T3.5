@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_241.md)
-* [Sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_242.md)
 * [Sustainable practices and renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_131.md)
-* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_243.md)
 * [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_118.md)
-* [Promotion of sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_244.md)
-* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_245.md)
 * [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_95.md)
-* [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_246.md)
-* [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_247.md)
+* [Energy saving and conservation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_177.md)
+* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_183.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_185.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_126.md)
+* [Waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_161.md)
+* [Lighting and hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_78.md)
+* [Urban planning and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_82.md)
 
 ## This Technology belongs to this TechnologySubgroup
 

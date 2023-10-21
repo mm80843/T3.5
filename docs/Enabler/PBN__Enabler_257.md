@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_257 
 
-# __Air quality sensors__
+# __Building information model bim__
 
 ## Category to which it belongs
 
-* [Devices designed to monitor and measure the quality and pollution levels of both indoor and outdoor air.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_64.md)
+* [Comprehensive tools for building design, construction, management, and modeling, including bim and building design software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_90.md)
 
 ## Closest similar item
 
-* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_259.md)
-* [Air pollution sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_258.md)
-* [Smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_262.md)
-* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_266.md)
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_6.md)
-* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_267.md)
-* [Air quality monitors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_268.md)
-* [Air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_269.md)
-* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_260.md)
-* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_265.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_27.md)
+* [Bim software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_256.md)
+* [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_205.md)
+* [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_258.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_207.md)
+* [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_226.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_200.md)
+* [Construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_206.md)
+* [Linked data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_174.md)
+* [Database](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_170.md)
 

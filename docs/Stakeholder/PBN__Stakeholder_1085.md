@@ -11,11 +11,11 @@
 * [Diagnostic test manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1388.md)
 * [General population in areas with limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1026.md)
 * [Individual monitoring health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2244.md)
-* [Testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3466.md)
+* [Testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2676.md)
 * [Clinical laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1380.md)
 * [Individuals monitoring health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_760.md)
 * [Clinical laboratory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1789.md)
-* [Testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2595.md)
+* [Testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2549.md)
 * [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_885.md)
 * [Suspected cases](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1194.md)
 

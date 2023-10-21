@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1152.md)
-* [Maintaining social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3413.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3414.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3413.md)
 * [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
 * [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
 * [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2121.md)
 * [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1922.md)
-* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
 * [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_307.md)
-* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
+* [Social distancing rule](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3410.md)
+* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_853.md)
+* [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2047.md)
 
 ## Description of the risk
 
@@ -43,11 +43,11 @@ Measures of social distancing reduce face-to-face physical activity and group ph
 ## Mitigations of this risk
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_432.md)
 * [Continuity of essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_436.md)
 * [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2459.md)
 * [Closure of educational institutions and workplaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_433.md)
 * [Promote alternative forms of exercise, encourage online supervised exercise and remote social interaction.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1489.md)
-* [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_432.md)
 * [Cancellation of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_434.md)
 * [Internet-based communication and mental well-being support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_435.md)
 * [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_608.md)

@@ -11,10 +11,10 @@
 * [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2148.md)
 * [Reduced sales and fixed costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1585.md)
 * [Reduction in consumer choice, impact on manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3034.md)
-* [Shift in customers’ needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4590.md)
+* [Shift in customers’ needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3640.md)
 * [Cutting public social expenditures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2239.md)
 * [Increased cost and workload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2670.md)
-* [Customer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4591.md)
+* [Customer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3641.md)
 * [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_106.md)
 * [Increased contact in crowded shops](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2844.md)
 

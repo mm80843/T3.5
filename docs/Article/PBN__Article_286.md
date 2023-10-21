@@ -41,8 +41,8 @@ Addressing the impact of COVID-19 lockdown on energy use in municipal buildings:
 
 * [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1404.md)
 * [High energy use during unoccupied periods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1400.md)
-* [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1401.md)
 * [Inefficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1402.md)
+* [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1401.md)
 * [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1403.md)
 
 ## This article points to following mitigation

@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2411.md)
+* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
+* [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1362.md)
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
-* [Privacy-preserving data storage and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4605.md)
-* [Secure and transparent data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4606.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
+* [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
+* [Privacy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3231.md)
+* [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3222.md)
+* [Privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
 * [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)
 * [Data privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3120.md)
-* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2041.md)
-* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3516.md)
-* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3519.md)
 
 ## Mitigations of this risk
 

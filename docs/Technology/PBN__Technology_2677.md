@@ -13,10 +13,10 @@
 * [Sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
 * [Housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_454.md)
 * [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3928.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
 * [Ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_318.md)
 * [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2617.md)
-* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3876.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
 * [Building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1493.md)
 
 ## This Technology enables the following mitigations

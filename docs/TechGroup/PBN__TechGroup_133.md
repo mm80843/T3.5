@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) >> Individual ID:PBN__TechGroup_133 
 
-# __Urban design__
+# __Indoor air quality sensors__
 
 ## Category to which it belongs
 
-* [The study and application of strategies and technologies to shape cities and enhance urban environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_343.md)
+* [Detection and measurement devices for monitoring and optimizing the quality of both indoor and outdoor air.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_342.md)
 
 ## Closest similar item
 
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_135.md)
-* [Urban planning and design policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_326.md)
-* [Redesigning urban spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_142.md)
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-* [Walkable urban design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_327.md)
-* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_137.md)
-* [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_328.md)
-* [Urban geometry](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_139.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_167.md)
-* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_329.md)
+* [Air sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_135.md)
+* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_134.md)
+* [Indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_136.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_18.md)
+* [Other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_119.md)
+* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_93.md)
+* [Air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_137.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_138.md)
+* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_88.md)
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Social equity disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1410.md)
 * [Social and gender disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2604.md)
-* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
-* [Social and demographic change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_737.md)
-* [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
-* [Address underlying socioeconomic disparities, promote inclusive economic growth, strengthen social safety nets, and engage in dialogue and reconciliation processes.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3793.md)
-* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
-* [Social distancing of the entire population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3572.md)
-* [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_131.md)
-* [Social justice and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3259.md)
-* [Social equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
+* [Social inequalities and income disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_487.md)
+* [Potential socioeconomic disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2499.md)
+* [Disparities in economic, political, and cultural contexts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2650.md)
+* [Social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1912.md)
+* [Incidence disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1914.md)
+* [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
+* [Health disparities and equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1179.md)
+* [Testing disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1913.md)
 
 ## Mitigations of this risk
 

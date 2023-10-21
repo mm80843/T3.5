@@ -12,12 +12,12 @@
 * [Wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2396.md)
 * [Data transmission systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2391.md)
 * [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2980.md)
-* [5g cellular technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5144.md)
 * [Encrypted data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3363.md)
+* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3328.md)
+* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1776.md)
+* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2608.md)
+* [Cell phone data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3207.md)
 * [Wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3138.md)
-* [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5145.md)
-* [Wireless sensor networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4696.md)
-* [Timely data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5146.md)
 
 ## This Technology enables the following mitigations
 

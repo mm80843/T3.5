@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Insufficient data for analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3156.md)
+* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_740.md)
 * [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1030.md)
+* [Insufficient monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_739.md)
 * [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2681.md)
 * [Lack of access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3141.md)
+* [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2658.md)
 * [Lack of testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_543.md)
+* [Limited data and sample size](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1648.md)
 * [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3116.md)
-* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2340.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3393.md)
-* [Improve testing methods, consider testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3664.md)
-* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3665.md)
-* [Slow testing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_925.md)
 
 ## Description of the risk
 

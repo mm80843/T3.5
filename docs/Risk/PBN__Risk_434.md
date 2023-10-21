@@ -13,7 +13,7 @@
 * [Spread of covid-19 in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1956.md)
 * [Covid-19 transmission in healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_372.md)
 * [Spread of covid-19 in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_690.md)
-* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3746.md)
+* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3518.md)
 * [Covid-19 exposure in offshore workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_376.md)
 * [Covid-19 transmission in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_371.md)
 * [Spread of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)

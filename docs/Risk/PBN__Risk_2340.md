@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Limited testing access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_881.md)
 * [Lack of access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3141.md)
-* [Increased testing access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4405.md)
 * [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2681.md)
+* [Limited testing and treatment capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2786.md)
+* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_740.md)
+* [Limited site access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1515.md)
+* [Lack of access to tests in lmic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3001.md)
 * [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1495.md)
-* [Free testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4399.md)
-* [Increase testing capacity and accessibility in deprived areas.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4586.md)
+* [Access restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_734.md)
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3393.md)
-* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3665.md)
-* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4312.md)
-* [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4403.md)
 
 ## Description of the risk
 

@@ -11,7 +11,7 @@
 * [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
 * [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1295.md)
 * [Lack of access to green](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2263.md)
-* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3472.md)
+* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
 * [Lack of proximity to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_142.md)
 * [Lack of access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1040.md)
 * [Lack of access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1592.md)

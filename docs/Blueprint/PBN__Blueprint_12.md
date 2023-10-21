@@ -20,9 +20,9 @@ Even before the recent pandemic, most employers have developed strategies and to
 
 ## Enablers of the blueprint
 
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
 * [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
-* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
 * [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_21.md)
 * [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_22.md)
 

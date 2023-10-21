@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3540 
 
-# __Implement comprehensive contact tracing, testing, and quarantine protocols for close contacts__
+# __Healthcare condition-specific individuals__
 
 ## Category to which it belongs
 
-* [Insufficient monitoring, ineffective tracing processes, privacy concerns, and reliance on teleconferencing tools for reduced human contact.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
+* [The strain on health systems due to overwhelming demand, inadequate resources, and limited access to healthcare has led to a collapse in healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
-* [Contact tracing and testing of close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3496.md)
-* [Implementation of contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3494.md)
-* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3490.md)
-* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3502.md)
-* [Advanced contact tracing and monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4913.md)
-* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2116.md)
-* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
-* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4917.md)
-* [Implement regular testing, contact tracing, and isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4918.md)
-* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3504.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
+* [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_854.md)
+* [Poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1057.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
+* [Identifying symptomatic individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2730.md)
+* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3529.md)
+* [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_515.md)
+* [Healthcare workers at risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_477.md)
+* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
+* [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2699.md)
 

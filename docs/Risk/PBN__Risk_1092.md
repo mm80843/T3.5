@@ -10,14 +10,14 @@
 
 * [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
 * [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2734.md)
-* [Increasing social distance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3588.md)
 * [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3568.md)
 * [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2454.md)
 * [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_131.md)
+* [Insufficient social adaptive capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
 * [Social and demographic change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_737.md)
-* [Social equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
 * [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
+* [Social inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1912.md)
+* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_853.md)
 
 ## Description of the risk
 

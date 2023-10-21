@@ -12,11 +12,11 @@
 * [Surgical trainees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_42.md)
 * [Service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1167.md)
 * [Staff trainers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_966.md)
-* [Workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2674.md)
+* [Workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2632.md)
 * [Service workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1671.md)
 * [Medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
-* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2831.md)
-* [Trained cleaning personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2832.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2633.md)
+* [Trained cleaning personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2634.md)
 * [Medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
 
 ## Risk affecting this stakeholder

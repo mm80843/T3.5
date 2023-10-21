@@ -9,9 +9,9 @@
 ## Closest similar item
 
 * [Inadequate physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2697.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4361.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3616.md)
 * [Lack of distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3089.md)
-* [Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3865.md)
+* [Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3566.md)
 * [Limited physical/social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_120.md)
 * [Ineffective implementation of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1027.md)
 * [Inability to physically distance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3103.md)

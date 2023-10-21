@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Internet and wi-fi networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_57.md)
-* [Wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_54.md)
-* [Internet connection](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_72.md)
-* [Internet](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_73.md)
-* [Internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_74.md)
-* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_75.md)
-* [Internet access](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_76.md)
+* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_47.md)
 * [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
-* [Free wi-fi hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_77.md)
-* [Internet-connected devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_78.md)
+* [Broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_40.md)
+* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_33.md)
+* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_41.md)
+* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_36.md)
+* [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_35.md)
+* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_54.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
 

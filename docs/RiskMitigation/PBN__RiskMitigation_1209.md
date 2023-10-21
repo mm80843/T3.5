@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Promoting safe and responsible behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_102.md)
+* [Provide information to reduce perceived risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1659.md)
 * [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_379.md)
+* [Emphasizing use of personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1049.md)
 * [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_926.md)
-* [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4297.md)
-* [Biased risk perception](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4298.md)
-* [Designing targeted responses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3300.md)
-* [Personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4299.md)
-* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4300.md)
-* [Risk reduction in face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4301.md)
-* [Encouraging effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_207.md)
-* [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_692.md)
+* [Implement measures to reduce interpersonal conflict](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1139.md)
+* [Reduction in perceived impact over time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1400.md)
+* [Strengthening enforcement, increasing certainty of punishment, awareness of penalties and consequences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2963.md)
+* [Reduce negative emotions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1211.md)
+* [Enhance core capacities, improve risk communication, engage communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1606.md)
 
 ## Benefits linked to a risk
 

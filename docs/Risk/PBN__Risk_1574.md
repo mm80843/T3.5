@@ -17,7 +17,7 @@
 * [Lack of public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
 * [Public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_718.md)
 * [Public health system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_738.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4271.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3604.md)
 
 ## Description of the risk
 

@@ -12,12 +12,12 @@
 * [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
 * [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
 * [Chlorination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3168.md)
-* [Chlorine disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3997.md)
+* [Chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2299.md)
 * [Chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
 * [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
-* [Utilization of ozone, ultraviolet irradiation, liquid chlorine, chlorine dioxide, and sodium hypochlorite disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3990.md)
-* [Increase chlorine dose in drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3998.md)
 * [Sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2710.md)
+* [Sodium dichloroisocyanurate solution containing 500 mg/l chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2524.md)
+* [Sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
 
 ## This Technology enables the following mitigations
 

@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
-* [Mass media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2892.md)
-* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2704.md)
-* [Media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2893.md)
-* [Media sources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2894.md)
-* [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2895.md)
-* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2896.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
-* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2897.md)
-* [Media literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2898.md)
+* [Media outlets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_455.md)
+* [Mass media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2594.md)
+* [Organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
+* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2597.md)
+* [Media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2598.md)
+* [Medium organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1778.md)
+* [Media sources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2596.md)
+* [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2599.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2595.md)
 
 ## Risks that can be mitigated by this stakeholder
 

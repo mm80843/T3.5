@@ -16,7 +16,7 @@
 * [Contaminated environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3229.md)
 * [Contaminated environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3098.md)
 * [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
-* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3657.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3481.md)
 * [Waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_843.md)
 
 ## Mitigations of this risk

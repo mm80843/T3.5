@@ -15,7 +15,7 @@
 * [Lack of knowledge and awareness about green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3328.md)
 * [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1946.md)
 * [Lack of access to green](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2263.md)
-* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3646.md)
+* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3477.md)
 * [Lack of environmental management and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_946.md)
 * [Limited understanding of the value and meaning of green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_948.md)
 

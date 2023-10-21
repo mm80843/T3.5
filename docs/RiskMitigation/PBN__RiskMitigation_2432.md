@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Emergency preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3653.md)
-* [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3652.md)
-* [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3658.md)
-* [Healthcare system preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4326.md)
-* [Emergency plan development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5042.md)
-* [Emergency facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5038.md)
+* [Develop and implement comprehensive emergency preparedness plans, including outbreak response protocols and contingency plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2263.md)
+* [Strengthened public health preparedness and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1020.md)
+* [Increase healthcare capacity, optimize resource allocation, and enhance emergency preparedness.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2464.md)
+* [Increasing healthcare system capacity, surge capacity planning, emergency preparedness measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2652.md)
+* [Repurposing large public spaces for emergency health purposes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1256.md)
 * [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_966.md)
-* [Emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5035.md)
-* [Level 1 national emergency response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5041.md)
-* [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3654.md)
+* [Efficient public health response, quarantine measures, widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2586.md)
+* [Emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3374.md)
+* [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1574.md)
+* [Adoption of pandemic preparedness protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_738.md)
 
 ## Risks possibly mitigated by this Mitigation
 

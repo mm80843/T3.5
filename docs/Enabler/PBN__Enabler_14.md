@@ -12,18 +12,18 @@ enabler_015
 
 ## Closest similar item
 
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_319.md)
-* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_351.md)
-* [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_352.md)
-* [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_353.md)
-* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_321.md)
-* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_354.md)
-* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_317.md)
-* [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_320.md)
-* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_318.md)
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_313.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_154.md)
+* [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_164.md)
+* [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_165.md)
+* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_156.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_152.md)
+* [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_155.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_153.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_149.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_166.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_53.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
 

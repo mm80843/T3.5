@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3431.md)
+* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
 * [Delayed decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_659.md)
 * [Time overrun](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_597.md)
 * [Delayed treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3219.md)
@@ -16,7 +16,7 @@
 * [The lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_872.md)
 * [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
 * [Control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3270.md)
-* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
 * [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
 
 ## Description of the risk

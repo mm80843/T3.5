@@ -11,10 +11,10 @@
 * [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
 * [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
 * [Insufficient disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4168.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
 * [Lack of effective disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
-* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4171.md)
-* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3848.md)
+* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3554.md)
 * [Improper disposal of infectious hospital wastes and wastewater could cause serious risks to public health and environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_665.md)
 * [Improper disposal of infectious hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2287.md)
 * [Operating room disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_255.md)
@@ -41,8 +41,8 @@ Inadequate disinfection of hospital wastewater can result in the release of path
 
 ## Mitigations of this risk
 
-* [Utilization of ozone, ultraviolet irradiation, liquid chlorine, chlorine dioxide, and sodium hypochlorite disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_932.md)
 * [Implementation of effective disinfection technologies for hospital wastewater treatment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3007.md)
+* [Utilization of ozone, ultraviolet irradiation, liquid chlorine, chlorine dioxide, and sodium hypochlorite disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_932.md)
 
 ## Name of the risk
 

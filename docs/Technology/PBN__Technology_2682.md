@@ -13,11 +13,11 @@
 * [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3103.md)
 * [Training materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1659.md)
 * [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_481.md)
-* [Training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4145.md)
-* [Training protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4436.md)
 * [Workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2831.md)
-* [Providing effective guidance and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4435.md)
 * [Job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_630.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3749.md)
+* [Online training platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1208.md)
+* [Online training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1699.md)
 
 ## This Technology enables the following mitigations
 

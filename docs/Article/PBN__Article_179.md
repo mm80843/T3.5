@@ -39,11 +39,11 @@ Biophilic Design to Enhance Residence Comfort in Covid Era
 
 ## List of risks in an article
 
+* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
 * [Insufficient air circulation and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1662.md)
 * [Limited space in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1659.md)
 * [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
 * [Limited access to nature and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1661.md)
-* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
 
 ## This article points to following mitigation
 

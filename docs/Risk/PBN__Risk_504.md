@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Remote work challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1853.md)
-* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3675.md)
+* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3487.md)
 * [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3395.md)
-* [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3674.md)
+* [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3486.md)
 * [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2364.md)
-* [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3672.md)
-* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3676.md)
-* [Promoting remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3687.md)
-* [Providing appropriate resources and support for remote work, implementing flexible working hours, and utilizing technology for virtual collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3688.md)
+* [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3484.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3488.md)
+* [Promoting remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3492.md)
+* [Providing appropriate resources and support for remote work, implementing flexible working hours, and utilizing technology for virtual collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3493.md)
 * [Workplace transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
 
 ## Mitigations of this risk

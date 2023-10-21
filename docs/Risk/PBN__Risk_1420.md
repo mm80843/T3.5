@@ -16,7 +16,7 @@
 * [Filtration of air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1184.md)
 * [Aq1: air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_184.md)
 * [Aq2: air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_185.md)
-* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3875.md)
+* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3567.md)
 * [Insufficient sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1444.md)
 
 ## Description of the risk

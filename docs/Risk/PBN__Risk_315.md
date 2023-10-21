@@ -14,7 +14,7 @@
 * [Inadequate pressure levels in existing hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2655.md)
 * [External pressure to adapt](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2833.md)
 * [Negative economic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2080.md)
-* [Negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3541.md)
+* [Negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3446.md)
 * [Poor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2474.md)
 * [Negative emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
 * [Insufficient filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1420.md)
@@ -41,8 +41,8 @@ Failure to generate reliable and stable negative pressure in AIIRs
 
 ## Mitigations of this risk
 
-* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_394.md)
 * [Seal walls, ceilings, and windows, and use negative air machines with hepa filters to maintain pressure differentials and prevent pathogen spread](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2185.md)
+* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_394.md)
 
 ## Name of the risk
 

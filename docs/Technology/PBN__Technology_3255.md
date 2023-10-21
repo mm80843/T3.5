@@ -10,9 +10,9 @@
 
 * [Number of building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3254.md)
 * [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3928.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
 * [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2617.md)
-* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3876.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
 * [Building information modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
 * [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
 * [Ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1779.md)

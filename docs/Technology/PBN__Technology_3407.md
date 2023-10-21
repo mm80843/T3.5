@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
-* [Physical barriers , plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3864.md)
 * [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
+* [Physical barrier materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3307.md)
 * [Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_831.md)
 * [Barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2510.md)
-* [Reducing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3863.md)
 * [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1878.md)
-* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3866.md)
 * [Physical barrier installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_798.md)
-* [Barrier measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4806.md)
+* [Partition barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1654.md)
+* [Noise barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_960.md)
+* [Glass walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
 
 ## This Technology enables the following mitigations
 

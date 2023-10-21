@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) >> Individual ID:PBN__TechGroup_31 
 
-# __Drones__
+# __Drone technology__
 
 ## Category to which it belongs
 
-* [Automated devices for surveillance and monitoring congestion and population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_301.md)
+* [Innovations in urban, ai, monitoring, building materials, and drones are all examples of cutting-edge technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_312.md)
 
 ## Closest similar item
 
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_29.md)
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
-* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_29.md)
-* [Surveillance drones](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_32.md)
-* [Drones and robot technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_30.md)
-* [Delivery drones](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_34.md)
-* [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_35.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_33.md)
-* [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_369.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_36.md)
-* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_37.md)
+* [Robots, drones & automated vehicules](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_30.md)
+* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_33.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_45.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_38.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_34.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_39.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_21.md)
+* [Surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_22.md)
 

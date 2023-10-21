@@ -65,8 +65,8 @@ Effectiveness of non-pharmaceutical public health interventions against COVID-19
 * [Mobile testing units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_782.md)
 * [Open-access databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_784.md)
 * [Real-time data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_777.md)
-* [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_780.md)
 * [Early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_551.md)
+* [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_780.md)
 * [Behavioral change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_778.md)
 * [Testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_781.md)
 

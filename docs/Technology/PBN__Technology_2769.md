@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Quarantine and isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4212.md)
-* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4193.md)
+* [Quarantine facilities or designated quarantine areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3012.md)
 * [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2144.md)
-* [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4192.md)
+* [Quarantine protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_834.md)
 * [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_27.md)
-* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4197.md)
-* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4213.md)
-* [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4208.md)
-* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4209.md)
-* [Compliance of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4195.md)
+* [Quarantine guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3247.md)
+* [Isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1655.md)
+* [Material quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2365.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_624.md)
+* [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2126.md)
+* [Shelter facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2156.md)
 
 ## This Technology enables the following mitigations
 

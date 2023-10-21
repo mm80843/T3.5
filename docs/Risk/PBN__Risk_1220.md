@@ -49,8 +49,8 @@ Increased risk of infection and spread of contagious diseases
 
 ## Stakeholders who can mitigate this risk
 
-* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [Building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [Government regulators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_737.md)
 
 ## Articles mentionning the risk

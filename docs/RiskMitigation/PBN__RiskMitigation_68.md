@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3616.md)
-* [Governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3902.md)
 * [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_61.md)
+* [Establish standards and protocols, promote collaboration and knowledge sharing among stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1543.md)
 * [Implementation of ets-based governance models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_874.md)
 * [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_693.md)
-* [Transparent governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3903.md)
-* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3905.md)
-* [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3904.md)
-* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3906.md)
-* [Foster collaboration and coordination among stakeholders, align governance models with common public health goals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1645.md)
+* [Standardization of protocols and networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_735.md)
+* [Adoption of standard protocols and interfaces, development of interoperability standards.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2779.md)
+* [Standardization of communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1339.md)
+* [Adoption of common standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1122.md)
+* [Collaborating with healthcare professionals and authorities to develop and disseminate clear guidelines and protocols for property and facilities management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2674.md)
+* [Meta-harmonization of common data standards, standardized processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2817.md)
 
 ## Benefits linked to a risk
 

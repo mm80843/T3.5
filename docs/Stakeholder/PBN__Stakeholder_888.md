@@ -26,8 +26,8 @@
 * [Confounding variables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1376.md)
 * [Loss of validity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
 * [Data collection and harmonization challenges in observational studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2132.md)
-* [Contextual factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1378.md)
 * [Centralized vs. federated approaches to data infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2133.md)
+* [Contextual factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1378.md)
 
 ## Risk affecting this stakeholder
 

@@ -13,11 +13,11 @@
 ## Closest similar item
 
 * [Neighborhood associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2333.md)
-* [Designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2830.md)
+* [Designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2631.md)
 * [Especially those in densely populated and low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1224.md)
 * [Particularly those in densely populated areas or shared living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_811.md)
 * [Residents of neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_39.md)
-* [Communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3369.md)
+* [Communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2742.md)
 * [Residents of underserved neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1229.md)
 * [Residents of low-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_133.md)
 * [Especially those in densely populated and low-income neighborhood](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2154.md)

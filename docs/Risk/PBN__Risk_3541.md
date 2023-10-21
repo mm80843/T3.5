@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3541 
 
-# __Negative emotion__
+# __Monitor and control indoor air pollution__
 
 ## Category to which it belongs
 
-* [The ramifications of a global crisis include disrupted education, reduced socialization, resistance to change, misinterpretation, inconsistent implementation, and increased poverty.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
+* [Inadequate ventilation, poor air quality, and high levels of indoor pollutants pose health risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
 
 ## Closest similar item
 
-* [Reduce negative emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4967.md)
-* [Emotional support and motivation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4625.md)
-* [And distressing content](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4968.md)
-* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4969.md)
-* [Positive media representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4970.md)
-* [Minimize negative](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4971.md)
-* [Increase perceived threat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4972.md)
-* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4594.md)
-* [Reduction in perceived impact over time](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4973.md)
-* [Monitor reactions, provide psychosocial support and assistance, modify expectations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4974.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3598.md)
+* [Indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_939.md)
+* [Indoor air pollution iap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
+* [Indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_259.md)
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3551.md)
+* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3571.md)
+* [High indoor pollutant concentrations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2716.md)
+* [Harmful indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_969.md)
+* [Indoor pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3198.md)
+* [Indoor air contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_125.md)
 

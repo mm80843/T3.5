@@ -22,7 +22,7 @@
 * [Building occupants and workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_907.md)
 * [Building occupants and researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_909.md)
 * [Occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_914.md)
-* [Specific building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2829.md)
+* [Specific building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2589.md)
 * [Building occupants in all types of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_652.md)
 * [Occupants in the building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_165.md)
 

@@ -63,8 +63,8 @@ Increased public awareness and access to information
 
 ## Technologies linked to the risk
 
-* [Online platforms for information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_877.md)
 * [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_878.md)
+* [Online platforms for information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_877.md)
 * [Digital newsletters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_879.md)
 
 ## Property: has_RiskType

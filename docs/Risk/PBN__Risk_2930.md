@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3938.md)
-* [Active design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4048.md)
-* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4049.md)
-* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3809.md)
-* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4050.md)
-* [Passive design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4051.md)
-* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4052.md)
-* [Innovative design approaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3942.md)
-* [Optimal architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3940.md)
-* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4053.md)
+* [Insufficient design guidelines for transformation, adaptation, and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_788.md)
+* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3581.md)
+* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
+* [Overwhelming customization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2882.md)
+* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3582.md)
+* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
+* [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_797.md)
+* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1059.md)
+* [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2082.md)
+* [Reduction in innovation and experimentation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2832.md)
 
 ## Mitigations of this risk
 

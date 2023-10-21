@@ -10,7 +10,7 @@
 
 * [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3366.md)
 * [Public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_718.md)
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3599.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
 * [Inadequate surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1501.md)
 * [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_749.md)
 * [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2058.md)

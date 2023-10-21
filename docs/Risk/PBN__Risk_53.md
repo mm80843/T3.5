@@ -13,7 +13,7 @@
 * [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1784.md)
 * [Contamination of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1413.md)
 * [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1324.md)
-* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3626.md)
+* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
 * [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2675.md)
 * [Surface contamination transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3147.md)
 * [Contamination of floor surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1412.md)

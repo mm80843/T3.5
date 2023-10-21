@@ -17,7 +17,7 @@
 * [Early deployment of viral testing for asymptomatic and frontline healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_674.md)
 * [Conducting training programs and educational sessions on covid-19 protocols and infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1989.md)
 * [Avoid close contact with infected individuals, practice good hand hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1868.md)
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3126.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3118.md)
 
 ## Risks possibly mitigated by this Mitigation
 

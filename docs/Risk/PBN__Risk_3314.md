@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Ensure access to information and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3580.md)
-* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4789.md)
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
+* [Lack of communication and information sharing among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3053.md)
 * [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
 * [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_960.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
-* [Real-time information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4790.md)
-* [Collaboration and knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4791.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3515.md)
-* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3516.md)
+* [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
+* [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
+* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1075.md)
+* [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
 
 ## Mitigations of this risk
 

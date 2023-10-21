@@ -8,12 +8,12 @@
 
 ## Closest similar item
 
-* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3614.md)
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
 * [Information overload during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1013.md)
 * [Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_446.md)
 * [Disseminating information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2522.md)
 * [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1599.md)
-* [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3698.md)
+* [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3500.md)
 * [Global pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1426.md)
 * [Lack of data for pandemic management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_876.md)
 * [Cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2257.md)

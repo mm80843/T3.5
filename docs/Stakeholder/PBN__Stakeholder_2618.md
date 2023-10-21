@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2618 
 
-# __Building design__
+# __Healthcare technologies and facilities__
 
 ## Category to which it belongs
 
-* [Building design professionals and construction industry stakeholders, including architects, contractors, and interior designers, aim to create comfortable and functional spaces for building occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_429.md)
+* [Caregivers and beneficiaries in the healthcare field with a focus on personnel, infrastructure, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_404.md)
 
 ## Closest similar item
 
-* [Healthy building design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2934.md)
-* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2935.md)
-* [Sustainable building design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2936.md)
-* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2937.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2938.md)
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2939.md)
-* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2940.md)
-* [Architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2630.md)
-* [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2941.md)
-* [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2942.md)
+* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2617.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
+* [Healthcare facilities and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_225.md)
+* [Medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_187.md)
+* [Healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1250.md)
+* [Healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2543.md)
+* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2608.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2545.md)
+* [Investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2621.md)
+* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2619.md)
 

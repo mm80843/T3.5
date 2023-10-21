@@ -11,13 +11,13 @@
 * [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1142.md)
 * [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1349.md)
 * [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_232.md)
-* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4788.md)
 * [Uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_225.md)
-* [Use of uv-c germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4046.md)
+* [Germicidal uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3042.md)
 * [Uv germicidal irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1877.md)
-* [Implement germicidal ultraviolet or air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4791.md)
+* [Uv-c germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1005.md)
+* [Ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3604.md)
 * [Ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3059.md)
-* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3995.md)
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1902.md)
 
 ## This Technology enables the following mitigations
 

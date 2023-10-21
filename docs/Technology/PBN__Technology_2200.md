@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Open data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_821.md)
+* [Data ownership policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
+* [Data sharing platforms and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1123.md)
+* [Data governance policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_106.md)
+* [Limits on data use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_107.md)
 * [Regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3173.md)
+* [Policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
 * [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1587.md)
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2069.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2842.md)
-* [Data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
-* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1150.md)
-* [Enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1148.md)
-* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1592.md)
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
-* [Regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_285.md)
+* [Policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3268.md)
 
 ## This Technology enables the following mitigations
 

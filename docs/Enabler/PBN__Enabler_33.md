@@ -14,8 +14,8 @@
 * [Mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_37.md)
 * [Broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_40.md)
 * [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
-* [Wireless data transmission 3g](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_43.md)
 * [Wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_39.md)
 * [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_41.md)
-* [Mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_44.md)
+* [Massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_38.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
 

@@ -13,11 +13,11 @@
 * [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1100.md)
 * [Invest in scalable infrastructure, optimize data storage and processing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1545.md)
 * [Improve digital infrastructure and provide equal access to reliable internet connection for all residents.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3023.md)
-* [5g cellular technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3598.md)
-* [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3233.md)
+* [Implement strong security measures, update firmware regularly, and monitor network.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2777.md)
 * [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_353.md)
+* [Develop alternative revenue streams, reduce costs, seek government support.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2129.md)
 * [Improve healthcare infrastructure, increase funding for healthcare services, implement telemedicine and mobile healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1895.md)
-* [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_665.md)
+* [Invest in research and development, address technical challenges, encourage innovation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2783.md)
 
 ## Risks possibly mitigated by this Mitigation
 

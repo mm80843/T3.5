@@ -16,7 +16,7 @@
 * [Good acoustic design, use of sound-absorbing materials, acoustic panels, and partitions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1569.md)
 * [Implement measures to reduce bird noise such as bird deterrent devices or planting vegetation to create natural sound barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2175.md)
 * [Implement noise reduction measures such as sound barriers or regulations on construction noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2172.md)
-* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4587.md)
+* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3359.md)
 * [Design level adjustments on noise insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_243.md)
 
 ## Risks possibly mitigated by this Mitigation

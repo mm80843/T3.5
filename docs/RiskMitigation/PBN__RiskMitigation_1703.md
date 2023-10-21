@@ -17,7 +17,7 @@
 * [Accelerate deployment plans, encourage small scale deployments, support purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2742.md)
 * [Implement efficient lighting systems with timers or sensors, reduce unnecessary lighting, and optimize vital load usage.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1915.md)
 * [Upgrade inefficient systems and equipment, improve maintenance practices, and implement energy-efficient technologies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1914.md)
-* [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4168.md)
+* [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3310.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -41,8 +41,8 @@ Lack of criteria to ensure safe and accessible water in residential buildings
 
 ## Mitigations of this risk
 
-* [Safety measures for drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_850.md)
 * [Establish measures to control water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2936.md)
+* [Safety measures for drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_850.md)
 
 ## Name of the risk
 
@@ -59,8 +59,8 @@ Risk of contaminated or insufficient water supply
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Decentralizing economic activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_362.md)
-* [Decentralization of activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3915.md)
 * [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1434.md)
-* [Centralization and decentralization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3914.md)
-* [Decentralized finance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3916.md)
+* [Designing cities with evenly distributed activity hubs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_360.md)
+* [Promoting decent work and economic growth](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_288.md)
 * [Promote a more horizontally distributed urban development. ensure adequate housing and living conditions to minimize crowding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3084.md)
-* [Balanced allocation of urban services and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4487.md)
 * [Implement measures to reduce population density, such as decentralization and expanding horizontally](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2300.md)
-* [Inequitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3330.md)
-* [Incentives to the local economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3870.md)
+* [Design interventions to evenly distribute activity hubs and transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1660.md)
+* [Prioritize green space in deprived areas, consider equitable distribution in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1471.md)
+* [Diversify and strengthen economic and financial systems, reduce interdependencies, and promote local and regional self-sufficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1834.md)
+* [Implement urban regeneration initiatives, incentivize the use of vacant spaces, support local businesses and entrepreneurship.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2905.md)
 
 ## Risks possibly mitigated by this Mitigation
 

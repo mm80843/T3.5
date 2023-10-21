@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Mobile technology in education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4982.md)
+* [Remote education technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1260.md)
 * [Education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1117.md)
-* [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4017.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
+* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3021.md)
+* [Education and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2701.md)
+* [User education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_649.md)
 * [Education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_871.md)
-* [Invest in digital infrastructure for remote learning, provide devices and internet access to students, support teachers and parents in adapting to remote education.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4983.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
-* [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_940.md)
-* [Implement distance learning solutions, provide technology and internet access to students.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4984.md)
-* [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4012.md)
+* [Educational platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1858.md)
+* [Technology for remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1167.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
 
 ## This Technology enables the following mitigations
 

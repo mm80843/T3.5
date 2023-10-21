@@ -11,7 +11,7 @@
 * [Financial management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1329.md)
 * [Financial support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_71.md)
 * [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
 * [Financial practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2816.md)
 * [Financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2854.md)
 * [Debt management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1412.md)

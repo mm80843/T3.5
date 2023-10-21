@@ -10,14 +10,14 @@
 
 * [Next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3348.md)
 * [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
-* [Sanger sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5170.md)
-* [Sequence annotation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5171.md)
 * [Comparative analysis of genome sequences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3672.md)
 * [Scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3023.md)
 * [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
-* [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4877.md)
+* [Algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3123.md)
+* [Coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3092.md)
+* [Planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
+* [Allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2794.md)
 * [Dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1704.md)
-* [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5103.md)
 
 ## This Technology enables the following mitigations
 

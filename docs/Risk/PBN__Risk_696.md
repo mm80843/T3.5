@@ -12,7 +12,7 @@
 * [Limited recognition of ugs as important places in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_697.md)
 * [Inadequate maintenance of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1679.md)
 * [Lack of ugs density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3422.md)
 * [Limited accessibility to ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1677.md)
 * [Lack of maintenance and upkeep of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2234.md)
 * [Heterogeneous access to ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_695.md)

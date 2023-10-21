@@ -14,7 +14,7 @@
 * [Shift in energy consumption behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1554.md)
 * [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
 * [Unnecessary energy usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2401.md)
-* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3545.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3450.md)
 * [Fall in energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1594.md)
 * [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1245.md)
 * [Inefficient energy usage and high energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_345.md)

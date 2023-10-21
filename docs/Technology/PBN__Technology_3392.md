@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Continuous monitoring and adjustment of sewer operation and treatment processes.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5448.md)
-* [Revised waste collection protocol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5449.md)
-* [Implement separate collection of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5450.md)
-* [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1101.md)
-* [Improvement of sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5451.md)
-* [Improving water infrastructure and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5452.md)
-* [Enhance waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4458.md)
-* [Enhancing drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5453.md)
-* [Implementing effective waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4460.md)
-* [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1843.md)
+* [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_92.md)
+* [Waste disposal infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2838.md)
+* [Proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3480.md)
+* [Improved waste management infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_944.md)
+* [Infrastructure development and plumbing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_456.md)
+* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_702.md)
+* [Sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2136.md)
+* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
+* [Rainwater collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3570.md)
+* [Drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3110.md)
 
 ## This Technology enables the following mitigations
 

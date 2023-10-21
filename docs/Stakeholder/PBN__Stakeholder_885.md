@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2596.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3009.md)
-* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3007.md)
-* [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3549.md)
-* [Increase production and distribution of testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3550.md)
-* [Voluntary testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3005.md)
-* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3551.md)
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3552.md)
-* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3553.md)
-* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3554.md)
+* [Access to testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2788.md)
+* [Testing laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1155.md)
+* [Testing centers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_553.md)
+* [Testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2676.md)
+* [Testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2548.md)
+* [Testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2549.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2550.md)
+* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2528.md)
+* [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2527.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2774.md)
 
 ## Risks that can be mitigated by this stakeholder
 

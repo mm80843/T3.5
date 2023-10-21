@@ -68,9 +68,9 @@ Increased risk of disease transmission and higher infection rates.
 
 ## Technologies linked to the risk
 
+* [Mobile applications for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_615.md)
 * [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1104.md)
 * [Crowd management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_617.md)
-* [Mobile applications for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_615.md)
 * [Ai-based monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_616.md)
 
 ## Property: has_RiskType

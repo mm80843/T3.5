@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4168.md)
-* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3848.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3554.md)
 * [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
 * [Lack of effective disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
 * [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
-* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4171.md)
+* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
 * [Failure to disinfect and clean work areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1198.md)
 * [Poor air and surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
-* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4176.md)
+* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3585.md)
 
 ## Description of the risk
 

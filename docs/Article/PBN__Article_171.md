@@ -73,7 +73,7 @@ A review of facilities management interventions to mitigate respiratory infectio
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
 * [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2007.md)
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
-* [Real-time occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2008.md)
 * [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)
+* [Real-time occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2008.md)
 * [Space management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2009.md)
 

@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Implement touchless technologies, promote natural light, and establish self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2935.md)
+* [Promote regular hand hygiene, use of hand sanitizers, and disinfection of commonly touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2254.md)
+* [Implement regular cleaning and disinfection protocols, promote good hand hygiene, and encourage the use of protective barriers and personal protective equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1587.md)
+* [Increase frequency of cleaning, provide hand sanitizers, promote personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1572.md)
 * [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1581.md)
+* [Public awareness campaigns, availability of hand sanitizer and handwashing facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2553.md)
 * [Practicing hand hygiene, disinfecting commonly touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1760.md)
+* [Implementing physical distancing measures, providing access to hand hygiene facilities, promoting mask-wearing, regular cleaning and disinfection of surfaces, and limiting the capacity of public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2229.md)
 * [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2056.md)
-* [Hygiene and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4129.md)
-* [Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1995.md)
-* [Touchless household technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4216.md)
-* [Implement touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2859.md)
-* [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_571.md)
-* [Regular cleaning and disinfection, minimizing contact with high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2787.md)
+* [Regular cleaning and disinfection of frequently touched surfaces, promoting hand hygiene, and providing hand sanitizers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2501.md)
 
 ## Risks possibly mitigated by this Mitigation
 

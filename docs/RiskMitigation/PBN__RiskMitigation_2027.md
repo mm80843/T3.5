@@ -10,14 +10,14 @@
 
 * [Application of evidence-based non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1008.md)
 * [Non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_666.md)
+* [Implement measures with caution, prioritize evidence-based interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2046.md)
+* [Promote awareness and education about preventive measures, enforce guidelines and restrictions, and encourage responsible behavior and adherence to protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1590.md)
 * [Non-pharmaceutical public health interventions nphis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_74.md)
-* [Preventive and therapeutic measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4044.md)
+* [Improve reporting standards and conduct high-quality research studies on preventive interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2068.md)
+* [Improved guidelines and scientific research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1361.md)
+* [Improve public awareness and understanding of the importance of prevention measures, enforce compliance with guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3091.md)
+* [Implement nphis in a timely manner, closely monitor the spread of the virus, prioritize early intervention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2026.md)
 * [Continuously monitor and evaluate the impact of interventions, adjust policies accordingly](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1885.md)
-* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3275.md)
-* [Continued implementation of npis, vaccination campaigns, promote hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2366.md)
-* [Implementation of non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_723.md)
-* [Behavior change interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_869.md)
-* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3166.md)
 
 ## Risks possibly mitigated by this Mitigation
 

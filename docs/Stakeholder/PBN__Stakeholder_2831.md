@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2831 
 
-# __Training__
+# __Etc.__
 
 ## Category to which it belongs
 
-* [People using public transportation, travelers during a pandemic, tourism industry, transportation providers, and industries reliant on tourism and travel.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_445.md)
+* [All individuals and entities involved in various aspects of public life and ownership responsibilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_423.md)
 
 ## Closest similar item
 
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2992.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2687.md)
-* [Training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3236.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2686.md)
-* [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3235.md)
-* [Training materials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3710.md)
-* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3073.md)
-* [Workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2674.md)
-* [Training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2993.md)
-* [Exercises and trainings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3711.md)
+* [Etc](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1104.md)
+* [Specifically men](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_351.md)
+* [Particularly females](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1333.md)
+* [Particularly female](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2029.md)
+* [Particularly children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_918.md)
+* [Including workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_679.md)
+* [Including children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_820.md)
+* [Websites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2649.md)
+* [Such as employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_666.md)
+* [And speakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2832.md)
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Lack of qualified staff for testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2348.md)
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3393.md)
 * [Lack of access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3141.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4315.md)
+* [Lack of coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2284.md)
+* [Lack of knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2615.md)
 * [Insufficient testing data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1300.md)
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4397.md)
-* [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3116.md)
-* [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1030.md)
-* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4393.md)
-* [Testing and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4398.md)
-* [Voluntary testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4311.md)
+* [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2937.md)
+* [Lack of expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2440.md)
+* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
+* [Lack of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2658.md)
 
 ## Description of the risk
 

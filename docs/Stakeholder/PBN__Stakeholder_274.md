@@ -13,16 +13,16 @@
 
 ## Closest similar item
 
+* [Clinician](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1807.md)
+* [Medical professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_425.md)
 * [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
+* [Health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_593.md)
+* [Medical doctors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_499.md)
+* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_32.md)
+* [Physicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1481.md)
 * [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1057.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_192.md)
-* [Healthcare administration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2600.md)
-* [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2527.md)
-* [Patient rapport](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2601.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
-* [Healthcare condition-specific individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2602.md)
+* [Medical professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1934.md)
+* [Hospital personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_500.md)
 
 ## Risks that can be mitigated by this stakeholder
 

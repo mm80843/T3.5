@@ -63,8 +63,8 @@ Inadequate healthcare infrastructure and capacity
 
 ## Technologies linked to the risk
 
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
 * [Healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1852.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
 
 ## Property: has_RiskType
 

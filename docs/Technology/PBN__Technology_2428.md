@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Monitoring regulatory environment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4508.md)
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4349.md)
-* [Regulatory adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4509.md)
+* [Regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1643.md)
+* [Regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
+* [Enhanced regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_184.md)
 * [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2753.md)
 * [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2808.md)
-* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4352.md)
-* [Environmental measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4510.md)
-* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4065.md)
-* [Government policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4060.md)
-* [Organizational measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4142.md)
+* [Restrictive measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2805.md)
+* [Regulatory oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_267.md)
+* [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
+* [Adherence to regulatory standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2032.md)
 
 ## This Technology enables the following mitigations
 

@@ -50,8 +50,8 @@ Inaccurate beliefs, conspiracy theories, politicization, non-compliance with pre
 
 ## Stakeholders who can mitigate this risk
 
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 * [Government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 * [Communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_828.md)
 
 ## Articles mentionning the risk

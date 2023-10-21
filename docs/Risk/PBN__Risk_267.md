@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Public places as informative nodes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
 * [Limited access nodes for better management of public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_263.md)
-* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3484.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
 * [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
 * [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1449.md)
+* [Urban activities and points of interests pois](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2353.md)
 * [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1317.md)
-* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3485.md)
-* [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3486.md)
-* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3487.md)
+* [Urban activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_18.md)
+* [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
+* [Need for a new typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_913.md)
+* [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_271.md)
+* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_16.md)
 
 ## Description of the risk
 

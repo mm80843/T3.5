@@ -63,8 +63,8 @@ Infected individuals may go undetected, leading to the spread of the virus
 
 ## Technologies linked to the risk
 
-* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1500.md)
 * [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
+* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1500.md)
 
 ## Property: has_RiskType
 

@@ -63,11 +63,11 @@ Increased risk of waterborne and other sanitation-related diseases.
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Marginalized populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_275.md)
 * [Urban residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_209.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_917.md)
 
 ## Technologies linked to the risk
@@ -75,9 +75,9 @@ Increased risk of waterborne and other sanitation-related diseases.
 * [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
 * [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)
 * [Automatic hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1478.md)
+* [Touchless faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1479.md)
 * [Water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
 * [Hands-free fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1477.md)
-* [Touchless faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1479.md)
 
 ## Property: has_RiskType
 

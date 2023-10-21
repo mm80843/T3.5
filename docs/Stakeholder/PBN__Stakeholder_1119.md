@@ -15,7 +15,7 @@
 * [Local residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_481.md)
 * [Residents,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_467.md)
 * [All residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_509.md)
-* [Residents/visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2727.md)
+* [Residents/visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2606.md)
 * [Residents of neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_39.md)
 * [Residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1223.md)
 

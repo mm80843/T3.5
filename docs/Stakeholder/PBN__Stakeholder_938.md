@@ -14,9 +14,9 @@
 * [Experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_538.md)
 * [Domain experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1534.md)
 * [Domain expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2444.md)
-* [Knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3499.md)
+* [Knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2779.md)
 * [Linguistic experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1593.md)
-* [Knowledge management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3498.md)
+* [Knowledge management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2778.md)
 * [Communication expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1785.md)
 
 ## Risks that can be mitigated by this stakeholder

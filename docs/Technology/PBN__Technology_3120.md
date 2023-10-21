@@ -10,14 +10,14 @@
 
 * [Appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3559.md)
 * [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
-* [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3974.md)
-* [Use of low-power appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3977.md)
-* [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3976.md)
-* [Install energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3975.md)
+* [Clean cooking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1480.md)
 * [Energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_866.md)
-* [Efficient cooking practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4415.md)
-* [Improved cooking stoves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4416.md)
-* [Water-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3978.md)
+* [Cooking techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3269.md)
+* [Improved stove technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3260.md)
+* [Clean cookstoves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1481.md)
+* [Microwave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3608.md)
+* [Food supply technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3182.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
 
 ## This Technology enables the following mitigations
 

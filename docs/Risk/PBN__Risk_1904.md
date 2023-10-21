@@ -14,10 +14,10 @@
 * [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
 * [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
 * [Limited infrastructure, cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2949.md)
-* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3735.md)
+* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3507.md)
 * [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
 * [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2128.md)
-* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3751.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3522.md)
 
 ## Description of the risk
 

@@ -17,7 +17,7 @@
 * [Promote proper hand hygiene practices through education and awareness campaigns, provide hand sanitization stations, and enforce hand hygiene protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3107.md)
 * [Implementing and enforcing comprehensive hygiene and cleanliness protocols, including regular cleaning and disinfection, hand hygiene stations, and proper waste disposal.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2676.md)
 * [Implement strict environmental and hand hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2435.md)
-* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5251.md)
+* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3400.md)
 
 ## Risks possibly mitigated by this Mitigation
 

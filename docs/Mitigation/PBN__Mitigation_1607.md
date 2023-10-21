@@ -33,8 +33,8 @@ Enable data sharing and formal reasoning for biomedical data and research
 
 ## This Mitigation is enabled by the following technologies
 
+* [Obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3187.md)
 * [Semantic web standard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
 * [Owl 2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3186.md)
-* [Obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3187.md)
 * [Dl-based formalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3188.md)
 

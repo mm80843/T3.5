@@ -50,8 +50,8 @@ Urban nature in a time of crisis: recreational use of green space increases duri
 ## This article mentions these technologies
 
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1176.md)
-* [Platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1874.md)
 * [Improved sanitation and](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1868.md)
 * [Expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1873.md)
+* [Platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1874.md)
 * [Suitable treatment and](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1863.md)
 

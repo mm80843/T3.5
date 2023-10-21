@@ -14,10 +14,10 @@
 * [Inactivation of human coronaviruses by far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1221.md)
 * [Exposing items or surfaces to uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2512.md)
 * [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
-* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4195.md)
+* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3595.md)
 * [Limited awareness and expertise in germicidal uv technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_278.md)
 * [Health risks from uv-c radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2271.md)
-* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4188.md)
+* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3590.md)
 
 ## Description of the risk
 
@@ -49,8 +49,8 @@ Limited effectiveness in killing pathogens in living cells in the skin and eyes.
 
 ## Stakeholders who can mitigate this risk
 
-* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [Building managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_10.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [Government regulators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_737.md)
 
 ## Articles mentionning the risk

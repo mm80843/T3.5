@@ -11,13 +11,13 @@
 * [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3692.md)
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
 * [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
-* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5012.md)
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
 * [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3699.md)
-* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5279.md)
+* [Control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
 * [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3298.md)
-* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5278.md)
-* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5006.md)
+* [Coordination systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1283.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2122.md)
+* [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
 
 ## This Technology enables the following mitigations
 

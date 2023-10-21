@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3930.md)
-* [Outdoor space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3931.md)
-* [Architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3932.md)
+* [Inadequate public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
+* [Inequities and exclusions in public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_918.md)
+* [Lack of space and poor spatial organization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_343.md)
 * [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1059.md)
-* [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3933.md)
 * [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1448.md)
-* [Considering the needs of vulnerable groups in future public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3934.md)
-* [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3935.md)
-* [Design spaces with lower occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3936.md)
-* [Spatial variety in window design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3937.md)
+* [Lack of spatial variety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1867.md)
+* [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1449.md)
+* [Need for a new typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_913.md)
+* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
+* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_640.md)
 
 ## Mitigations of this risk
 

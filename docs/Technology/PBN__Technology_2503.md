@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5381.md)
-* [Protein-based inflammation biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5382.md)
-* [Biosampler](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5169.md)
-* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4824.md)
+* [Biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2305.md)
+* [Biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3343.md)
+* [Molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2025.md)
+* [Biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2410.md)
+* [Molecular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2851.md)
+* [Clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2656.md)
+* [Urine proteomics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3349.md)
 * [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2119.md)
-* [Testing and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3818.md)
-* [Precision medicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5383.md)
-* [Quick and accurate disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4957.md)
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
-* [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3632.md)
+* [Identification of potential therapeutic targets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1954.md)
+* [Clinical assessment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3166.md)
 
 ## This Technology enables the following mitigations
 

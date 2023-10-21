@@ -16,7 +16,7 @@
 * [Development of a covid-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_356.md)
 * [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1937.md)
 * [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2043.md)
-* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3718.md)
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3502.md)
 * [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
 
 ## Mitigations of this risk

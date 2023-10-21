@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Quarantine, self-isolation, and lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_852.md)
-* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3539.md)
+* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3445.md)
 * [Ineffective use of isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_547.md)
 * [Emotional distress from quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
 * [Challenges with quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)

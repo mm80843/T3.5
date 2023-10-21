@@ -10,12 +10,12 @@
 
 * [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1230.md)
 * [High occupant density in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1320.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3814.md)
-* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4763.md)
-* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3646.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
+* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3658.md)
+* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3477.md)
 * [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
 * [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
-* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3472.md)
+* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
 * [Limited access to outdoor space in urban centres](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_920.md)
 * [Limited access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1725.md)
 

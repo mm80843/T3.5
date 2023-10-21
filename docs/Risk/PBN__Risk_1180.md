@@ -10,14 +10,14 @@
 
 * [Legal issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
 * [Legal problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_418.md)
-* [Civil right to counsel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4470.md)
 * [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
-* [Civil right to counsel in eviction cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4471.md)
-* [Establish civil right to counsel in eviction cases, provide legal aid resources.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4472.md)
+* [Limited access to actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
 * [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
-* [Ensuring equitable access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4473.md)
-* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3856.md)
+* [Lack of legal protections and financial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1177.md)
+* [Disclosures through public records acts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3131.md)
+* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3561.md)
 * [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2108.md)
+* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
 
 ## Description of the risk
 

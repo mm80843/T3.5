@@ -33,7 +33,7 @@ Detect outbreaks early through real-time monitoring and analysis of temperature 
 
 ## This Mitigation is enabled by the following technologies
 
+* [Thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2194.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 * [Internet of things iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2195.md)
-* [Thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2194.md)
 

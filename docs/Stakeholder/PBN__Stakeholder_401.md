@@ -16,11 +16,11 @@
 * [Regulatory authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1293.md)
 * [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_706.md)
 * [Regulatory authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1604.md)
-* [Regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2570.md)
+* [Regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2532.md)
 * [Government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [Regulatory oversight](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2574.md)
-* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2576.md)
-* [Regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2575.md)
+* [Regulatory oversight](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2536.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2538.md)
+* [Regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2537.md)
 * [Government regulators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_737.md)
 
 ## Risks that can be mitigated by this stakeholder

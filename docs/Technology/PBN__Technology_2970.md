@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Digital twins](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3169.md)
+* [Digitalplatform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3728.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
 * [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
+* [Expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1873.md)
+* [Digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3375.md)
+* [Digital integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3619.md)
+* [Digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3176.md)
 * [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3099.md)
-* [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4879.md)
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4118.md)
-* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_638.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_814.md)
-* [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3788.md)
-* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5356.md)
-* [Accelerated digital transformation of healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5438.md)
 
 ## This Technology enables the following mitigations
 

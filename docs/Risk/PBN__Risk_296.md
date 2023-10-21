@@ -8,9 +8,9 @@
 
 ## Closest similar item
 
-* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3748.md)
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3520.md)
 * [Cost overrun](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_598.md)
-* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3749.md)
+* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3521.md)
 * [Lack of holistic strategic planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_633.md)
 * [Lack of evaluation planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
 * [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)

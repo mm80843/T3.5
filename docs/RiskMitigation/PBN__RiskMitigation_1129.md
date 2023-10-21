@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Air filtration and uv sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5098.md)
-* [Uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5072.md)
-* [Enhanced ventilation with provision of uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5099.md)
-* [Portable air filters with uv sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4761.md)
+* [Improve ventilation, implement air filtration and uv light sterilisation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1764.md)
+* [Increase respiratory isolation capacity, improve ventilation systems, implement air filtration and uv light sterilisation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1763.md)
 * [Uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_448.md)
-* [Uv light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4148.md)
-* [Use of uv-c light for disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4882.md)
-* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4883.md)
+* [Implement infection control measures, improve ventilation systems, implement air filtration and uv light sterilisation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1765.md)
 * [Conduct further research and studies to compare the two types of uv light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1678.md)
-* [Air filtration and purification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4277.md)
+* [Increase ventilation and air filtration, use uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2979.md)
+* [Uvgi systems for air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1197.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3272.md)
+* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3327.md)
+* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3370.md)
 
 ## Benefits linked to a risk
 

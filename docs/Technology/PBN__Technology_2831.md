@@ -11,13 +11,13 @@
 * [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_481.md)
 * [Job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_630.md)
 * [Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2035.md)
+* [Workforce support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3290.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
-* [Worker education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4924.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
-* [Medical staff training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4526.md)
-* [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5068.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3749.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3750.md)
 * [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3103.md)
+* [Workforce management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1489.md)
+* [Training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2682.md)
 
 ## This Technology enables the following mitigations
 

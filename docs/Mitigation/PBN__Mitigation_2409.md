@@ -33,7 +33,7 @@ Incorporate natural elements into the building design to improve physical and me
 
 ## This Mitigation is enabled by the following technologies
 
-* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2259.md)
 * [Living materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3723.md)
+* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2259.md)
 * [Greenery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3724.md)
 

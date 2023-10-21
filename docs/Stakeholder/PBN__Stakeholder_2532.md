@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2532 
 
-# __Scientific research__
+# __Regulatory policies__
 
 ## Category to which it belongs
 
-* [The knowledge-seeking community, from scientists to fact-checkers, investigates, studies, and explores various subjects and phenomena.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_405.md)
+* [Public administrators and decision-makers responsible for creating and implementing government policies and regulations at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_410.md)
 
 ## Closest similar item
 
-* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
-* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2535.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2531.md)
-* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2533.md)
-* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3008.md)
-* [Research priorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3473.md)
-* [Research and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3472.md)
-* [Reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3475.md)
-* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3474.md)
-* [Evidence-based research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3476.md)
+* [Policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2531.md)
+* [Regulatory authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1293.md)
+* [Regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2537.md)
+* [Regulatory authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1604.md)
+* [Government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2539.md)
+* [Regulatory agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_401.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2538.md)
+* [Regulatory oversight](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2536.md)
+* [Regulations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2740.md)
+* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2530.md)
 

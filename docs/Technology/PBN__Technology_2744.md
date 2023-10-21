@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Use reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4853.md)
+* [Reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1860.md)
+* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_580.md)
 * [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1994.md)
 * [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
-* [Evidence-based research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4859.md)
-* [Verify sources and rely on accurate, evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4090.md)
 * [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_762.md)
-* [Access to accurate and reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4166.md)
-* [Timely research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4861.md)
-* [Real-world evidence research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4865.md)
+* [Credible sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3122.md)
 * [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1814.md)
+* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1159.md)
+* [Validation studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_903.md)
+* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
 
 ## This Technology enables the following mitigations
 

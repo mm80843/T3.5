@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Density of cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3445.md)
-* [Rethinking of density in cities and urban layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3446.md)
+* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_16.md)
+* [Low residential density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_621.md)
+* [Population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_495.md)
+* [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
+* [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2050.md)
 * [Urban mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_17.md)
 * [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1230.md)
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3447.md)
-* [Homogeneous distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3448.md)
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3449.md)
-* [Reducing population density of built-up areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3450.md)
-* [Space and density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3451.md)
-* [High occupant density in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1320.md)
+* [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1022.md)
+* [Urban crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
+* [Urban management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2388.md)
 
 ## Description of the risk
 

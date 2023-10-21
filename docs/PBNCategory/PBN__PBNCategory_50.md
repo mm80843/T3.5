@@ -7,8 +7,8 @@
 * [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
 * [4g](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_33.md)
 * [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_34.md)
-* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_185.md)
+* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_82.md)
 * [AI/ML](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_8.md)
-* [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_357.md)
+* [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_168.md)
 * [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_10.md)
 

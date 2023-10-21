@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_186 
 
-# __Graphical representation__
+# __Uv irradiation__
 
 ## Category to which it belongs
 
-* [Harnessing and presenting data insights through modern technology and visual representation techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_56.md)
+* [Ultraviolet light and systems that use it for disinfection or sterilization purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_78.md)
 
 ## Closest similar item
 
-* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_3.md)
-* [Data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_134.md)
-* [Graph-based structure](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_193.md)
-* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_124.md)
-* [Infographics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_188.md)
-* [Timeline-based visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_138.md)
-* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_185.md)
-* [Data visualization platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_135.md)
-* [Vector-based](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_194.md)
-* [Image processing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_121.md)
+* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_190.md)
+* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_187.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_188.md)
+* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_169.md)
+* [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_15.md)
+* [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_189.md)
+* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_191.md)
+* [Biodegradable materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_193.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_108.md)
+* [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_194.md)
 

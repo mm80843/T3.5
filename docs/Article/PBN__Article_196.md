@@ -58,9 +58,9 @@ Toilets dominate environmental detection of SARS-CoV-2 virus in a hospital
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 * [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
 * [Proper training on ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_509.md)
-* [Strict adherence to hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_510.md)
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_507.md)
 * [Self-cleaning surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_506.md)
 * [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
 * [Regular cleaning and disinfection of toilets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_508.md)
+* [Strict adherence to hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_510.md)
 

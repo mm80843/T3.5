@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_499.md)
-* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_501.md)
+* [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_189.md)
+* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_191.md)
 

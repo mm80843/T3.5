@@ -15,7 +15,7 @@
 * [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2050.md)
 * [Increased recreational use in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_892.md)
 * [Urban density and crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_16.md)
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3422.md)
 * [Homogeneity in urban park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1604.md)
 * [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_267.md)
 

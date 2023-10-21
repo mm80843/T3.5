@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Quick and accurate information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5180.md)
-* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4083.md)
-* [Information communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3751.md)
-* [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5181.md)
-* [Development of mobile applications, websites, and communication channels for information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4370.md)
-* [Information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5182.md)
-* [Promote reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4852.md)
-* [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5183.md)
-* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3750.md)
-* [Cultural dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5184.md)
+* [Information dissemination technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2780.md)
+* [Accurate and timely information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_876.md)
+* [Dissemination of accurate information through various channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1993.md)
+* [Information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2790.md)
+* [Improved communication and information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_729.md)
+* [Real-time information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2567.md)
+* [Information sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1896.md)
+* [Digital representation and information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2952.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
+* [Public communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2561.md)
 
 ## This Technology enables the following mitigations
 

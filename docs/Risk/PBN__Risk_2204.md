@@ -16,7 +16,7 @@
 * [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
 * [Inadequate communication and spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_806.md)
 * [Security threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2414.md)
-* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3614.md)
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
 
 ## Description of the risk
 

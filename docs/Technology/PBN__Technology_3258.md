@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4814.md)
-* [Control of indoor temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5162.md)
-* [Monitoring temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3839.md)
-* [Temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3840.md)
-* [Maintaining optimum temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5163.md)
+* [Automatic control of temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1731.md)
+* [Smart temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3483.md)
+* [Temperature monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3319.md)
+* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
+* [Climate control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1098.md)
+* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1298.md)
+* [Temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1061.md)
+* [Thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2956.md)
 * [Temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
-* [Temperature checks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3838.md)
-* [Temperature testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3837.md)
-* [Programmable thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5164.md)
-* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3446.md)
+* [Temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_742.md)
 
 ## This Technology enables the following mitigations
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Architecture engineering](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2437.md)
 * [Architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2784.md)
-* [Optimal architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4559.md)
-* [Lightweight architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4560.md)
-* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4561.md)
+* [Architects](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_378.md)
+* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
+* [Architectural design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1108.md)
 * [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4562.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
+* [Architectural & construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2097.md)
 * [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2652.md)
-* [Designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4262.md)
 * [Integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2439.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2061.md)
 
 ## This Technology enables the following mitigations
 

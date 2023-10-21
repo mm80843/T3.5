@@ -4,7 +4,7 @@
 
 ## Items covered in this category
 
-* [Facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_812.md)
-* [Facial recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_813.md)
-* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_815.md)
+* [Facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_244.md)
+* [Facial recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_262.md)
+* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_208.md)
 

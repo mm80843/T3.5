@@ -49,8 +49,8 @@ Increased misinformation and rumors, decreased trust in government, decreased ad
 
 ## Stakeholders who can mitigate this risk
 
-* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [Government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 
 ## Articles mentionning the risk
 

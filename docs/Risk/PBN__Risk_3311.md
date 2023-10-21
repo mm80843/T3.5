@@ -12,11 +12,11 @@
 * [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3362.md)
 * [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_884.md)
 * [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
-* [Availability of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3639.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3476.md)
 * [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
 * [Misallocation of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2753.md)
-* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3751.md)
-* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3545.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3522.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3450.md)
 * [Inefficient space utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
 
 ## Mitigations of this risk

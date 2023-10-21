@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Efficient space planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4071.md)
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
-* [Land-use planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4072.md)
-* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
-* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3749.md)
-* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3748.md)
-* [Enhanced urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4073.md)
-* [Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3836.md)
-* [Urban planning and design policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4074.md)
-* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3646.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3422.md)
+* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
+* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3521.md)
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3520.md)
+* [Future city planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_996.md)
+* [Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3549.md)
+* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3477.md)
+* [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3548.md)
+* [Incorporate placemaking and public place design in spatial planning, include hygiene development and spatial use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3478.md)
+* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
 
 ## Description of the risk
 

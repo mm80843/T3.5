@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_126 
 
-# __Data analysis__
+# __Environmental sensors__
 
 ## Category to which it belongs
 
-* [Harnessing and presenting data insights through modern technology and visual representation techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_56.md)
+* [Devices that detect and measure various aspects such as water, environment, pressure, temperature, light, and can be worn by individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_65.md)
 
 ## Closest similar item
 
-* [Data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_148.md)
-* [Statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_149.md)
-* [Data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_150.md)
-* [Modeling and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_151.md)
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
-* [Data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_152.md)
-* [Data collection and analysis methods](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_153.md)
-* [Data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_131.md)
-* [Real-time data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_154.md)
-* [Data science](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_155.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_117.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_114.md)
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_119.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_115.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
+* [Air pollution sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_120.md)
+* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_127.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_116.md)
+* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_121.md)
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_6.md)
 

@@ -16,8 +16,8 @@ Use existing resources efficiently and provide targeted support for pandemic mit
 
 ## Stakeholders benefitting from this Benefit
 
-* [Citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [Civil society organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_232.md)
+* [Citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 
 ## Risks which can benefit from this action
 

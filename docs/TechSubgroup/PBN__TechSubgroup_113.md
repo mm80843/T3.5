@@ -21,17 +21,17 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
+* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1983.md)
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
 * [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_414.md)
 * [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2122.md)
-* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1983.md)
+* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
+* [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1169.md)
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
 * [Tele-response bots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1168.md)
-* [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1169.md)
+* [Teleoperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1986.md)
 * [Robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1503.md)
-* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
 * [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1985.md)
 * [Robot-assisted swabbing and blood testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1984.md)
-* [Teleoperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1986.md)
 

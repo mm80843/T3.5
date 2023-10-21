@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Control of moisture and humidity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5224.md)
-* [Indoor humidity monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5225.md)
-* [Maintaining optimum humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5226.md)
-* [Maintaining indoor relative humidity between 40% and 60%](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5227.md)
-* [Adjustability of indoor temperature/humidity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5228.md)
-* [Humidification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5229.md)
+* [Humidity control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1163.md)
+* [Hvac systems with humidity control capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2101.md)
+* [Humidity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2355.md)
+* [Moisture management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3276.md)
+* [Humidifier](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2413.md)
+* [Humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_923.md)
+* [Humidification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2519.md)
 * [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
-* [Climate control in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5230.md)
-* [Outdoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4730.md)
-* [Control of indoor temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5162.md)
+* [Climate control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1098.md)
+* [Automatic control of temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1731.md)
 
 ## This Technology enables the following mitigations
 

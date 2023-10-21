@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_328.md)
-* [Virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4351.md)
-* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4350.md)
+* [Virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3613.md)
+* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3612.md)
 * [Impact of lockdowns on access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2223.md)
 * [Lack of access to green spaces during covid-19 lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_860.md)
 * [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2091.md)
-* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3431.md)
+* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
 * [Limited access to green views during covid-19 containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_350.md)
-* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
 * [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_889.md)
 
 ## Mitigations of this risk

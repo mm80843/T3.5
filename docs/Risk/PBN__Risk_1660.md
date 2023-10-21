@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Design apartments with more generous living spaces and multiple bathrooms in shared units.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4138.md)
-* [Shared facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4139.md)
-* [Restrictions on shared facilities and uses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3921.md)
-* [Restrictions on shared facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4140.md)
+* [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
+* [Limited space in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1659.md)
 * [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_269.md)
-* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3920.md)
-* [Restrictions on shared facilities, devices, and services.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4141.md)
-* [Rent controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4142.md)
-* [Independent ventilation system for each apartment unit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4143.md)
-* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4110.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
+* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
+* [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)
+* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_250.md)
+* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
+* [Inequitable access to virtual community spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2300.md)
+* [Mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_497.md)
 
 ## Description of the risk
 

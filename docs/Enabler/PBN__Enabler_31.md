@@ -12,23 +12,23 @@ enabler_032
 
 ## Closest similar item
 
-* [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_915.md)
-* [Signage and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_916.md)
-* [Use of signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_917.md)
-* [Signage materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_918.md)
-* [Social distancing signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_919.md)
-* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_920.md)
-* [Clear signage and reminders](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_921.md)
-* [Hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_922.md)
-* [Digital signatures](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_592.md)
-* [Signs and information boards](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_923.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_267.md)
+* [Signage and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_268.md)
+* [Use of signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_269.md)
+* [Signage materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_229.md)
+* [Social distancing signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_270.md)
+* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_234.md)
+* [Clear signage and reminders](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_271.md)
+* [Hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_195.md)
+* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_241.md)
+* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_60.md)
 
 ## Thees blueprints use this enabler
 
 * [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
 * [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_364.md)
 

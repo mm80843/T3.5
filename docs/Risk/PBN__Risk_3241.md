@@ -10,9 +10,9 @@
 
 * [Unauthorized access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1228.md)
 * [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
-* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3509.md)
+* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
 * [Data privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2723.md)
-* [Regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3612.md)
+* [Regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3464.md)
 * [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2041.md)
 * [Data privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3120.md)
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2411.md)

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2535 
 
-# __Scientific studies__
+# __International policy framework__
 
 ## Category to which it belongs
 
-* [The knowledge-seeking community, from scientists to fact-checkers, investigates, studies, and explores various subjects and phenomena.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_405.md)
+* [Public administrators and decision-makers responsible for creating and implementing government policies and regulations at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_410.md)
 
 ## Closest similar item
 
-* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
-* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2532.md)
-* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2533.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2531.md)
-* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3008.md)
-* [Research priorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3473.md)
-* [Research and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3472.md)
-* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3474.md)
-* [Reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3475.md)
-* [Science-based decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3480.md)
+* [Government and international organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2299.md)
+* [Governments and international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1242.md)
+* [International coordination](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2647.md)
+* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2530.md)
+* [International partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2703.md)
+* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2704.md)
+* [Economic policymaker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2280.md)
+* [International organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
+* [National and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
+* [International cooperation and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2743.md)
 

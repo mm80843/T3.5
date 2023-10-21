@@ -10,11 +10,11 @@
 
 * [Cyberchondria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1598.md)
 * [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2585.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3757.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
 * [Unknown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3352.md)
 * [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2296.md)
 * [Asymptomatic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_670.md)
-* [Clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3837.md)
+* [Clinicians](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3550.md)
 * [Infections from asymptomatic individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2086.md)
 * [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2379.md)
 * [Stigmatisation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1903.md)

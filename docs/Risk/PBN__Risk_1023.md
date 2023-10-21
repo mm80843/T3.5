@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Implement policies to address inequalities in access to resources, provide support to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4607.md)
+* [Unequal access to resources and opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2870.md)
+* [Inequality of access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1225.md)
+* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1902.md)
+* [Disparities in access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3373.md)
 * [Inequitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2859.md)
 * [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3362.md)
+* [Access restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_734.md)
 * [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_884.md)
-* [Availability of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3639.md)
-* [Misallocation of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2753.md)
-* [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3248.md)
-* [Ensuring equitable access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4473.md)
-* [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
-* [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
+* [Inequality in education access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2864.md)
+* [Inequality in access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
 
 ## Description of the risk
 

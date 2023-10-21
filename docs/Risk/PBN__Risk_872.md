@@ -10,13 +10,13 @@
 
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1866.md)
 * [City lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_988.md)
-* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
-* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
-* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
+* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3414.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
 * [Lockdown impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_886.md)
-* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3433.md)
-* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3431.md)
+* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3419.md)
+* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
 * [Social inequalities exacerbated by lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_13.md)
 
 ## Mitigations of this risk

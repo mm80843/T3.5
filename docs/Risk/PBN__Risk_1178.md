@@ -13,7 +13,7 @@
 * [Poor housing quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1077.md)
 * [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_781.md)
 * [Poor housing, lack of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3814.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
 * [Decline of public and social housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_385.md)
 * [Building health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1094.md)
 * [Poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1057.md)

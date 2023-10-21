@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4443.md)
+* [Failure to detect non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
 * [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
 * [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3168.md)
 * [Low compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_541.md)
 * [Importance of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1769.md)
 * [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2628.md)
+* [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3348.md)
 * [Compliance, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2952.md)
 * [High costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2251.md)
-* [Risk of non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2801.md)
-* [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_505.md)
+* [Poor compliance, concern over data misuse](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2600.md)
 
 ## Description of the risk
 

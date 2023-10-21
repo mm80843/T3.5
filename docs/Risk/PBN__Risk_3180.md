@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Lack of access to education and information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2468.md)
+* [Lack of education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1505.md)
+* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1158.md)
 * [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2834.md)
+* [Lack of communication and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
 * [Inadequate education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1959.md)
+* [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1433.md)
 * [Lack of support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2829.md)
-* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
-* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
-* [Disruption of education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2625.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3969.md)
-* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
-* [Educational and training resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3970.md)
-* [Lack of proper training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2065.md)
+* [Lack of treatment and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2046.md)
+* [Lack of knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2615.md)
 
 ## Mitigations of this risk
 

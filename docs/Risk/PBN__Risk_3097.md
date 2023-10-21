@@ -16,7 +16,7 @@
 * [Circulation of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2792.md)
 * [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1364.md)
 * [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
-* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3614.md)
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
 
 ## Mitigations of this risk
 

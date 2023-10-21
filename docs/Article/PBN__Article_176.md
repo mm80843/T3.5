@@ -63,10 +63,10 @@ Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: 
 * [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
 * [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
 * [Dissemination of accurate information through various channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1993.md)
+* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1997.md)
 * [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1994.md)
 * [Media literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_581.md)
 * [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1996.md)
-* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1997.md)
 * [Access to testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1995.md)
 * [Empathy-building programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
 

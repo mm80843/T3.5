@@ -17,7 +17,7 @@
 * [Indoor air pollution iap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
 * [Harmful indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_969.md)
 * [Ozone emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2971.md)
-* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3844.md)
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3551.md)
 
 ## Description of the risk
 
@@ -43,10 +43,10 @@ Poor air quality caused by pollution
 
 * [Encouraging active travel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_739.md)
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
+* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_701.md)
 * [Improve air quality, reduce emissions from industrial sources and transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2469.md)
 * [Implement measures to reduce air pollution, promote clean energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2137.md)
 * [Reduced no2 emissions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_183.md)
-* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_701.md)
 * [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2064.md)
 
 ## Name of the risk
@@ -59,8 +59,8 @@ Increased susceptibility to respiratory diseases, higher mortality rates
 * [Government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [Environmental agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_683.md)
-* [Regulatory agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_401.md)
 * [Industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_389.md)
+* [Regulatory agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_401.md)
 
 ## Articles mentionning the risk
 

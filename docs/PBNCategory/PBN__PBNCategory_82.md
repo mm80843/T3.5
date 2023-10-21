@@ -5,9 +5,9 @@
 ## Items covered in this category
 
 * [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_18.md)
-* [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_577.md)
-* [Improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_578.md)
-* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_579.md)
-* [Ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_581.md)
-* [Print media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_582.md)
+* [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_219.md)
+* [Improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_220.md)
+* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_221.md)
+* [Ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_223.md)
+* [Print media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_65.md)
 

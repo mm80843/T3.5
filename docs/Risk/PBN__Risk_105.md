@@ -41,8 +41,8 @@ Travel restrictions have led to a decline in global tourism, resulting in reduce
 
 ## Mitigations of this risk
 
-* [Improving revenue generation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_129.md)
 * [Diversify funding sources, develop alternative revenue streams, promote domestic tourism, and enhance marketing strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1778.md)
+* [Improving revenue generation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_129.md)
 
 ## Name of the risk
 

@@ -10,14 +10,14 @@
 
 * [Uvgi systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
 * [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
-* [Ensure proper use and maintenance of uvgi systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4201.md)
-* [Ensure proper installation and maintenance of uvgi systems, provide protective clothing and eyewear for service personnel and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4211.md)
+* [Ensure proper use and maintenance of uvgi systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3596.md)
 * [Lack of definitive epidemiologic data on the ability of uvgi systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1746.md)
 * [Uvgi systems may not be a reliable method for preventing surgical site infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1743.md)
-* [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4210.md)
+* [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3597.md)
 * [Lack of standardized tests and protocols for uvgi efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1742.md)
-* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4194.md)
-* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4191.md)
+* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3592.md)
+* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3590.md)
+* [Effectiveness of uvgi decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1740.md)
 
 ## Description of the risk
 

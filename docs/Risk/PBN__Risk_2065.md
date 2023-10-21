@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Inadequate education and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1959.md)
-* [Proper training and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
+* [Lack of expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2440.md)
+* [Lack of knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2615.md)
 * [Limited access to training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3060.md)
-* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4301.md)
-* [Lack of educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3180.md)
-* [Lack of testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_543.md)
-* [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4302.md)
-* [Providing effective guidance and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4788.md)
-* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
+* [Lack of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1936.md)
+* [Lack of preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_492.md)
+* [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1702.md)
+* [Lack of knowledge and inhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3048.md)
+* [Lack of awareness/ability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2616.md)
+* [Lack of confidence in service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3134.md)
 
 ## Description of the risk
 

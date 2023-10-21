@@ -10,7 +10,7 @@
 
 * [Isolation and quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2115.md)
 * [Challenges with quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1343.md)
-* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3539.md)
+* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3445.md)
 * [Emotional distress from quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1876.md)
 * [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_33.md)
 * [Negative physical effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_644.md)

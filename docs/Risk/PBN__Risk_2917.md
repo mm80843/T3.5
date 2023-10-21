@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3711.md)
-* [Reducing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3712.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3642.md)
-* [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4039.md)
-* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4042.md)
-* [Barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4587.md)
-* [Communication barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3178.md)
-* [Economic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4288.md)
-* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4588.md)
-* [Barrier measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4589.md)
+* [Obstacles in production or transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3309.md)
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
+* [Economic strain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1963.md)
+* [Lack of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1314.md)
+* [Economic impact, mobility restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2733.md)
+* [Barriers to progress, existing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2602.md)
+* [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
+* [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
+* [Technological limitations, lack of productivity, isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3024.md)
+* [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
 
 ## Mitigations of this risk
 

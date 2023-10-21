@@ -23,8 +23,8 @@
 
 * [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
 * [Spread of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Lack of accurate risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
 * [Insufficient surveillance of asymptomatic and unreported cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
 * [Inequality in access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1970.md)
-* [Lack of accurate risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
 * [Transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1365.md)
 

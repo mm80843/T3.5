@@ -10,12 +10,12 @@
 
 * [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1360.md)
 * [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2116.md)
-* [Implement comprehensive contact tracing, testing, and quarantine protocols for close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3540.md)
-* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
+* [Implement comprehensive contact tracing, testing, and quarantine protocols for close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3436.md)
+* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3425.md)
 * [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2473.md)
 * [Early detection of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3228.md)
 * [Lack of monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_24.md)
-* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3490.md)
+* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
 * [Underreporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2156.md)
 * [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1782.md)
 

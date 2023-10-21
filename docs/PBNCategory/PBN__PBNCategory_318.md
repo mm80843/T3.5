@@ -4,5 +4,5 @@
 
 ## Items covered in this category
 
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_72.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_65.md)
 

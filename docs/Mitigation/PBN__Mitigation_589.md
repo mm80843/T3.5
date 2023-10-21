@@ -33,7 +33,7 @@ KT platforms can filter the best evidence from multiple sources to provide decis
 
 ## This Mitigation is enabled by the following technologies
 
-* [Systematic reviews](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2563.md)
 * [Research databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2562.md)
+* [Systematic reviews](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2563.md)
 * [Appraising methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2564.md)
 

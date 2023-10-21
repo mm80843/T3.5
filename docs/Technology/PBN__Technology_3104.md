@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3375.md)
 * [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3099.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
+* [It infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3218.md)
 * [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2061.md)
+* [Technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3100.md)
 * [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_638.md)
-* [Improve digital infrastructure and provide equal access to reliable internet connection for all residents.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4114.md)
-* [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3788.md)
-* [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4115.md)
+* [Network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2063.md)
+* [Telecommunication infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3576.md)
 * [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
-* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4116.md)
-* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4117.md)
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4118.md)
 
 ## This Technology enables the following mitigations
 

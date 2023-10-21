@@ -16,7 +16,7 @@
 * [Infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2298.md)
 * [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2585.md)
 * [Exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2396.md)
-* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3848.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3554.md)
 * [Variation in protection against re-infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1891.md)
 
 ## Description of the risk

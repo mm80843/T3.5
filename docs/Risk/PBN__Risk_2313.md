@@ -15,7 +15,7 @@
 * [Limited accuracy and specificity of biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1149.md)
 * [Diagnostic accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3233.md)
 * [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4408.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3618.md)
 * [Limited diagnostic and screening tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2161.md)
 * [Safety of laboratory personnel and environment during sample handling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1615.md)
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Use of portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4588.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
 * [Portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2471.md)
+* [Portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3075.md)
 * [High-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1113.md)
 * [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_499.md)
 * [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
 * [High-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1741.md)
-* [Use high-efficiency filters for air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3913.md)
-* [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4587.md)
-* [Portable air filters with uv sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5161.md)
-* [Use portable room air cleaners with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
+* [Hvac filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2958.md)
+* [High-efficiency particulate filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2472.md)
+* [Use of portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_677.md)
 
 ## This Technology enables the following mitigations
 

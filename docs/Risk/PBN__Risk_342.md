@@ -42,9 +42,9 @@ Uncomfortable indoor temperatures can lead to discomfort, reduced productivity, 
 ## Mitigations of this risk
 
 * [Ieq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1132.md)
+* [Improve insulation and heating systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_453.md)
 * [Proper design and maintenance of hvac systems, use of individual controls, insulation, and shading.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1567.md)
 * [Improve insulation, use energy management systems, and implement efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1684.md)
-* [Improve insulation and heating systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_453.md)
 
 ## Name of the risk
 
@@ -52,8 +52,8 @@ Reduced productivity, discomfort, thermal stress, and decreased overall well-bei
 
 ## Stakeholders who can mitigate this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 
 ## Articles mentionning the risk
@@ -63,9 +63,9 @@ Reduced productivity, discomfort, thermal stress, and decreased overall well-bei
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Especially those with medical conditions and sensitivity to temperature](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_649.md)
 
 ## Technologies linked to the risk

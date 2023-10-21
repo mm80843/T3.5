@@ -36,9 +36,9 @@ Allows employees to work while maintaining social distancing and reducing the ri
 
 ## This Mitigation is enabled by the following technologies
 
+* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
 * [Remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_548.md)
 * [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2799.md)
 * [Internet connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3230.md)
 * [Internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
-* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
 

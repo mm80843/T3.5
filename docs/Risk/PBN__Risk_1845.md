@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4014.md)
-* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3949.md)
-* [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3486.md)
-* [Border closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4015.md)
 * [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_270.md)
-* [Workplace closure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4016.md)
+* [Workplace closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3114.md)
 * [Insufficient building regulations and codes for transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_796.md)
-* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3920.md)
-* [Compliance with building codes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4017.md)
 * [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
+* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
+* [School closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1864.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
+* [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_269.md)
+* [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1815.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
 
 ## Description of the risk
 

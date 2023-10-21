@@ -63,8 +63,8 @@ Higher risk of infections and increased disease burden.
 
 ## Technologies linked to the risk
 
-* [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1156.md)
 * [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
+* [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1156.md)
 
 ## Property: has_RiskType
 

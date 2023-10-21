@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Blurring of work-life boundaries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
-* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3864.md)
+* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3565.md)
 * [Workplace transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
 * [Disruption of work and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3176.md)
 * [Poor work productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2563.md)

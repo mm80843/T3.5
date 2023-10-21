@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3589.md)
-* [Physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3590.md)
-* [Types of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3591.md)
-* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3592.md)
-* [Intensity of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3593.md)
-* [Physical activity guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3594.md)
-* [Frequency of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3595.md)
-* [Moderate physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3596.md)
-* [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3597.md)
-* [Physical activity promotion strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3598.md)
+* [Reduced physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3075.md)
+* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1056.md)
+* [Lack of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1936.md)
+* [Lack of physical activity opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_130.md)
+* [Link between human activity and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_46.md)
+* [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
+* [Physical health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2942.md)
+* [Impact of control measures on diet and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_283.md)
+* [And physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2267.md)
+* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
 
 ## Mitigations of this risk
 

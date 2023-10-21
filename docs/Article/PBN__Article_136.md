@@ -57,8 +57,8 @@ COVID-19 and social inequalities: a complex and dynamic interaction
 * [Targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1337.md)
 * [Community education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1338.md)
 * [Widening testing networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1335.md)
-* [Social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1333.md)
 * [Equitable healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1334.md)
 * [Tailored interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
+* [Social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1333.md)
 * [Community-based vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1340.md)
 

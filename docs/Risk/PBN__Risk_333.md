@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Mass gathering containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4374.md)
-* [Specific approaches for containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4375.md)
-* [Implementation of regional containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4376.md)
-* [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3553.md)
-* [Implementation of containment strategies quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4377.md)
-* [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4378.md)
-* [Containment space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4379.md)
-* [Enhance containment measures, strengthen healthcare systems, improve coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4380.md)
-* [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4381.md)
-* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4382.md)
+* [Ineffective containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2742.md)
+* [Global coordination, political challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2876.md)
+* [Failure in containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1017.md)
+* [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1150.md)
+* [Challenges in global climate diplomacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_552.md)
+* [Lack of coordinated global governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_44.md)
+* [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
+* [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2051.md)
+* [Global supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_456.md)
+* [Pandemic containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_706.md)
 
 ## Mitigations of this risk
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Rapid testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3720.md)
+* [Rapid testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_794.md)
+* [Development of rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1969.md)
+* [Rapid testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_28.md)
+* [Rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1362.md)
 * [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3815.md)
-* [Develop rapid testing methods to reduce turnaround time](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4214.md)
-* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4215.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_401.md)
 * [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_780.md)
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
-* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4216.md)
-* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1159.md)
-* [Rapid testing and vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1622.md)
-* [Improve testing methods, consider testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4217.md)
+* [Testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3142.md)
+* [Improved testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_569.md)
 
 ## This Technology enables the following mitigations
 

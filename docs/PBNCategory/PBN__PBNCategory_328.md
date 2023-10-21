@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_250.md)
-* [Data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_252.md)
+* [Data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_77.md)
+* [Regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_79.md)
 

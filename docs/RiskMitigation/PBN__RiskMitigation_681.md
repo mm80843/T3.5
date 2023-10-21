@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Improving revenue generation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_129.md)
-* [Virtual gaming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4495.md)
 * [Exergames and active video games](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_895.md)
-* [Strengthening revenue generation from tourism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4490.md)
-* [Incentives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4493.md)
 * [Adoption of emerging technologies , virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_466.md)
 * [Seek financial assistance, manage cashflow, renegotiate contracts, diversify revenue sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1792.md)
-* [Financial-incentive based models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4492.md)
-* [Income](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3506.md)
+* [Industry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3146.md)
+* [Provide financial support to cultural and creative industries, promote digital cultural events and experiences.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2908.md)
+* [Provide financial support to affected businesses, develop alternative revenue sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2751.md)
+* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3350.md)
 * [Engaging finance sector](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_133.md)
+* [Foster competition and diversification in gvcs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_308.md)
 
 ## Benefits linked to a risk
 

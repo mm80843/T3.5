@@ -10,14 +10,14 @@
 
 * [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2416.md)
 * [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_807.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
+* [Overwhelmed healthcare systems and operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1878.md)
+* [Overwhelmed healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1007.md)
+* [Overwhelmed healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1616.md)
+* [Overwhelmed medical facilities and disruption of normal functioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2418.md)
 * [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
-* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3425.md)
-* [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1683.md)
-* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3426.md)
-* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
-* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
+* [Overwhelmed health sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
+* [Overwhelming healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2502.md)
+* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1379.md)
 
 ## Mitigations of this risk
 

@@ -24,6 +24,6 @@
 * [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1565.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
 * [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_560.md)
-* [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1683.md)
 * [Border control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1547.md)
+* [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1683.md)
 

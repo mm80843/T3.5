@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3562.md)
-* [Behavior change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3563.md)
+* [Lack of occupant awareness and behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1404.md)
+* [Insufficient behavior and adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1136.md)
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
+* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
 * [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
-* [Analysis of root causes of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3564.md)
-* [Behavioral interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3565.md)
+* [Lack of awareness or engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2853.md)
 * [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_45.md)
-* [Attitude change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3566.md)
-* [Monitoring changing social behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3567.md)
-* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
+* [Limited understanding of human behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_583.md)
+* [Poor compliance with interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1529.md)
+* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2868.md)
 
 ## Mitigations of this risk
 

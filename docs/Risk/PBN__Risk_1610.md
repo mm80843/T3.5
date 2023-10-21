@@ -16,7 +16,7 @@
 * [Waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_843.md)
 * [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)
 * [Wm2: waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_197.md)
-* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3657.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3481.md)
 * [Wwm2: waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_191.md)
 
 ## Description of the risk

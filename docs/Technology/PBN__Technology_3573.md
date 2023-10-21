@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Molecular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2851.md)
+* [Genetic modification technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3664.md)
 * [Biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2125.md)
+* [Molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2025.md)
 * [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2110.md)
+* [Biosensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_239.md)
+* [Emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_275.md)
+* [Membrane technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3636.md)
 * [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
 * [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2119.md)
-* [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_180.md)
-* [Biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2410.md)
-* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2196.md)
-* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
 
 ## This Technology enables the following mitigations
 

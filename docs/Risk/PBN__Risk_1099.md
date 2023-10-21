@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Expertise and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4647.md)
-* [Interdisciplinary expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4648.md)
-* [Expert consultation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4649.md)
-* [Expert systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4650.md)
-* [Communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4651.md)
-* [Expert guidance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4652.md)
-* [Collaboration among experts from various fields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4653.md)
-* [Skilled team](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4654.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4275.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4655.md)
+* [Technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1776.md)
+* [Lack of expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2440.md)
+* [Limited access to expert knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_837.md)
+* [High cost, technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2950.md)
+* [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3329.md)
+* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
+* [Associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
+* [Industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3547.md)
+* [Technical skills and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2507.md)
+* [Knowledge gap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3095.md)
 
 ## Description of the risk
 

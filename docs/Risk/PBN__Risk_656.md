@@ -10,8 +10,8 @@
 
 * [Inadequate antibacterial and antiviral properties of stainless steel surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1482.md)
 * [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
-* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3626.md)
-* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3627.md)
+* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
+* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3471.md)
 * [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2675.md)
 * [Risk of resistance development to anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1174.md)
 * [Risk of ineffective anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1172.md)

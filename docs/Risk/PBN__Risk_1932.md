@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Financial crisis in the construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_303.md)
+* [Real estate industry uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_481.md)
 * [Financial impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1548.md)
 * [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
+* [Uncertainty about future](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1854.md)
+* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
+* [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2389.md)
+* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
 * [Environmental impact of construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2702.md)
 * [Construction speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3303.md)
-* [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3866.md)
-* [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
-* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
-* [Decline in housing construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_304.md)
-* [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3867.md)
-* [Devising mitigation measures in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3868.md)
 
 ## Description of the risk
 

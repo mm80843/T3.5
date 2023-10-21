@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Transmission of covid-19 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_225.md)
-* [Virus transmission through aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_509.md)
-* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3008.md)
-* [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_337.md)
-* [Uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3623.md)
-* [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_338.md)
-* [Research on aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3624.md)
-* [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3625.md)
-* [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3063.md)
-* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2443.md)
+* [Spread of covid-19 through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_52.md)
+* [Airborne spread of covid-19 in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_692.md)
+* [Spread of covid-19 due to air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_146.md)
+* [Airborne transmission of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_967.md)
+* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Spread of covid-19 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_653.md)
+* [Temperature and covid-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_521.md)
+* [Spread of sars-cov-2 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_69.md)
+* [Spread of covid19 in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_387.md)
 
 ## Description of the risk
 

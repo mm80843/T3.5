@@ -21,8 +21,8 @@
 
 ## Stakeholders in this stakeholder subgroup
 
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 * [Media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_545.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 * [Media outlets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_455.md)
 * [News outlet](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1781.md)
 * [Medium organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1778.md)

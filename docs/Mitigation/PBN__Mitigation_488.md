@@ -33,8 +33,8 @@ Ensure optimal use of sunlight, natural heat and light, reduce energy consumptio
 
 ## This Mitigation is enabled by the following technologies
 
-* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2487.md)
 * [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2487.md)
 * [Correct orientation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2486.md)
 * [Albedo control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2488.md)
 

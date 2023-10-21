@@ -33,8 +33,8 @@ Implementation of emerging technologies such as sensors, AI, and robots can assi
 
 ## This Mitigation is enabled by the following technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
 

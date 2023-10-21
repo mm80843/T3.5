@@ -20,8 +20,8 @@ Modulating urban environments can reduce contact between ticks and humans, decre
 
 ## Stakeholders benefitting from this Benefit
 
-* [General population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [Public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+* [General population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [Urban and periurban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_279.md)
 
 ## Risks which can benefit from this action

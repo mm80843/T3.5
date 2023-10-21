@@ -14,7 +14,7 @@
 * [Modeling and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3414.md)
 * [Computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3170.md)
 * [Mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2159.md)
-* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
+* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3746.md)
 * [Data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_297.md)
 * [Predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3160.md)
 * [Mathematical modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_296.md)

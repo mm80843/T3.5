@@ -15,7 +15,7 @@
 * [Facial recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1711.md)
 * [Acoustic technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2593.md)
 * [Sanger technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3631.md)
-* [Smartphone’s microphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5435.md)
+* [Smartphone’s microphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3771.md)
 * [Facial recognition software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
 
 ## This Technology enables the following mitigations

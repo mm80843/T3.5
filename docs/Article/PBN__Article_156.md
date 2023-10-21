@@ -57,8 +57,8 @@ Borders and Catastrophe: lessons from COVID-19 for the European Green Deal
 ## This article mentions these technologies
 
 * [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_890.md)
-* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_889.md)
 * [Improved communication and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_887.md)
+* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_889.md)
 * [Targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_893.md)
 * [Financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_892.md)
 * [Standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_888.md)

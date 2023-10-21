@@ -33,7 +33,7 @@ Supports policy simulation, testing, and anticipation of consequences before imp
 
 ## This Mitigation is enabled by the following technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_387.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3170.md)
 

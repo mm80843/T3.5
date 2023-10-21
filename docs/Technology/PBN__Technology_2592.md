@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4638.md)
-* [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4639.md)
-* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4555.md)
-* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4640.md)
-* [Quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4641.md)
-* [Access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4629.md)
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4290.md)
-* [Improvement of the quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4642.md)
-* [Green space area](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4643.md)
-* [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4632.md)
+* [Green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_723.md)
+* [Green space management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2594.md)
+* [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1617.md)
+* [Green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2771.md)
+* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1030.md)
+* [Availability of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2828.md)
+* [Provide access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1377.md)
+* [Green space quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_594.md)
+* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1871.md)
 
 ## This Technology enables the following mitigations
 

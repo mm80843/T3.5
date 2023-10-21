@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Shift towards integrated and non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4009.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
 * [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2617.md)
-* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4007.md)
-* [Integration of smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4004.md)
 * [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
-* [Non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4750.md)
-* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4752.md)
+* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
 * [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [Multi-functional buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4753.md)
 * [Smart building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_208.md)
+* [Smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1598.md)
+* [Building information modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
+* [Architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2653.md)
 
 ## This Technology enables the following mitigations
 

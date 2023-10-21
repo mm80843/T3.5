@@ -48,11 +48,11 @@ Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a
 
 ## This article mentions these technologies
 
+* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 * [Encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1068.md)
 * [Virtual communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_144.md)
 * [Data collection and analysis methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1815.md)
-* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
 * [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1814.md)
 * [Verbal communication techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1812.md)
 * [Task-shifting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)

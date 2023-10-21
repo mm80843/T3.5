@@ -53,10 +53,10 @@ Public housing and COVID-19: contestation, challenge and change
 * [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
 * [Lobbying and advocacy efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1325.md)
 * [Automated cleaning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1319.md)
+* [Notifications systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1324.md)
 * [Translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1320.md)
 * [Touchless fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
 * [Regular maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1323.md)
 * [Multilingual resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1321.md)
-* [Notifications systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1324.md)
 * [Lift monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1322.md)
 

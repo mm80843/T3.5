@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
 * [Inadequate compliance monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1713.md)
+* [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3348.md)
+* [Lack of knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1277.md)
 * [Low compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_541.md)
-* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2628.md)
-* [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3168.md)
-* [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2448.md)
-* [Importance of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1769.md)
-* [Public awareness campaigns, strict enforcement of rules, penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4555.md)
-* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4443.md)
-* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
-* [Risk of non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2801.md)
+* [Lack of awareness and compliance with public health protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1665.md)
+* [Lack of communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1686.md)
+* [Lack of public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2158.md)
+* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1158.md)
+* [Lack of public awareness and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2554.md)
 
 ## Description of the risk
 

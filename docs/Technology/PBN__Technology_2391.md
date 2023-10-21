@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_643.md)
+* [Communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1055.md)
 * [Encrypted data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3363.md)
+* [Data sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1424.md)
 * [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_814.md)
+* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_40.md)
+* [Data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
 * [Wireless data transmission 3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2607.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4076.md)
-* [Timely data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5146.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2842.md)
-* [Information communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3751.md)
+* [Data sharing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3046.md)
+* [Data recording systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
 
 ## This Technology enables the following mitigations
 

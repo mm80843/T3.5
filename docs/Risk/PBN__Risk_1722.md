@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4100.md)
-* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3808.md)
-* [Redesign housing layouts to include more partitions, wider corridors, and improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4105.md)
+* [Poor housing quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1077.md)
 * [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
-* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4021.md)
-* [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3933.md)
-* [Even distribution of housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4022.md)
-* [Adjustable room layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4099.md)
-* [Building and housing reform](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4019.md)
-* [Middle density housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4047.md)
+* [Poor housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1064.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
+* [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
+* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_640.md)
+* [Inadequate room selection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1627.md)
+* [Overcrowding, inadequate space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2556.md)
+* [Limited space in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1659.md)
 
 ## Description of the risk
 

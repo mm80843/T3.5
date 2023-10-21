@@ -13,10 +13,10 @@
 * [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_190.md)
 * [Individual under surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2249.md)
 * [Legal experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_630.md)
-* [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3273.md)
+* [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2735.md)
 * [Infected persons](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_114.md)
 * [Individuals under surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1405.md)
-* [Fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3781.md)
+* [Fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2682.md)
 * [Epidemiologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_6.md)
 
 ## Risk affecting this stakeholder

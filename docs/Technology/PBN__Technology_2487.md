@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2259.md)
-* [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4703.md)
-* [Use of natural light, proper artificial lighting design, glare control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4704.md)
-* [Minimal natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4705.md)
-* [Design for natural lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4596.md)
-* [Additional lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4603.md)
-* [Natural sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4623.md)
-* [Enhanced lighting design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4706.md)
-* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4601.md)
-* [Incorporate ventilation systems and optimize natural lighting in building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4598.md)
+* [Natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_422.md)
+* [Use of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1730.md)
+* [Access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2663.md)
+* [Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3500.md)
+* [Natural light solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1611.md)
+* [Lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3311.md)
+* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_118.md)
+* [Led lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_188.md)
+* [Lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2258.md)
 
 ## This Technology enables the following mitigations
 

@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3168.md)
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
+* [Lack of understanding of regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2771.md)
 * [Importance of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1769.md)
-* [Monitoring regulatory environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4553.md)
-* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4443.md)
-* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4289.md)
 * [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2628.md)
 * [Difficulty in adapting to new rules and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2769.md)
-* [Regulatory adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4554.md)
-* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4474.md)
+* [Non-compliance with guidelines and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1688.md)
+* [Economic impacts, compliance issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3117.md)
+* [Inadequate compliance monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1713.md)
+* [High costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2251.md)
+* [Low compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_541.md)
 
 ## Mitigations of this risk
 

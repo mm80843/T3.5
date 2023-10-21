@@ -49,8 +49,8 @@ Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based e
 ## This article mentions these technologies
 
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Quality control in wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_709.md)
 * [Surveillance planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_706.md)
+* [Quality control in wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_709.md)
 * [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_705.md)
 * [Improved detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_707.md)
 * [Temperature adjustments in data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_704.md)

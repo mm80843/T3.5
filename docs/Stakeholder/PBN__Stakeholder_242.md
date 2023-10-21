@@ -13,16 +13,16 @@
 
 ## Closest similar item
 
-* [International coordination](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2869.md)
-* [International partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3130.md)
-* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3131.md)
-* [International collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3132.md)
-* [International cooperation and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3133.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
-* [International policy framework](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2573.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_545.md)
-* [Official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1011.md)
+* [Governments and international organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1242.md)
+* [Government and international organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2299.md)
+* [Organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
+* [International coordination](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2647.md)
+* [International partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2703.md)
+* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2704.md)
+* [Business organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_596.md)
+* [Organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1864.md)
+* [Global health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_857.md)
+* [Organisations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_298.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -39,9 +39,9 @@
 * [Indoor air pollution iap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
 * [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1385.md)
 * [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1353.md)
-* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
 * [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1150.md)
-* [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2051.md)
 * [Disruption of global settlement system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1456.md)
+* [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2051.md)
+* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
 * [Vulnerability to covid-19 in lmics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1695.md)
 

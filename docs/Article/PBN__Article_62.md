@@ -62,8 +62,8 @@ An Intelligent IEQ Monitoring and Feedback System: Development and Applications
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [Sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_642.md)
 * [Sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_641.md)
-* [Upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_645.md)
 * [Upgrading ventilation systems and implementing air purification methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_646.md)
+* [Upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_645.md)
 * [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_643.md)
 * [Cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
 

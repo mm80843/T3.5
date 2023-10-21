@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3449.md)
-* [Mobility restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3459.md)
-* [Population mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3460.md)
-* [Mobility limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3461.md)
-* [Mobility restrictions,](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
+* [Urban mobility and commute patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2352.md)
+* [Population mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_705.md)
+* [Lack of availability of mobility data for most cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1207.md)
+* [Global mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2049.md)
+* [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2050.md)
+* [Urban activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_18.md)
+* [Urban management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2388.md)
+* [Monitoring mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2520.md)
 * [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3447.md)
-* [Benchmarking mobility metrics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3463.md)
-* [Pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3464.md)
-* [Walkable urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3465.md)
+* [Spatial inequalities in mobility patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1204.md)
 
 ## Mitigations of this risk
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3051.md)
+* [Surveillance camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2400.md)
 * [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2878.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
 * [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1961.md)
+* [Surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2852.md)
+* [Ip surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3336.md)
 * [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3135.md)
-* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3905.md)
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3906.md)
-* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3907.md)
-* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3908.md)
-* [Augmented surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3909.md)
-* [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3910.md)
+* [Cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2631.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -4,8 +4,8 @@
 
 ## Items covered in this category
 
-* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_33.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_36.md)
-* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_38.md)
-* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_198.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_32.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_34.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_35.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_36.md)
 

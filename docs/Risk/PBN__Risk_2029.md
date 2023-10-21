@@ -58,8 +58,8 @@ Increased risk to public health and blood supply
 
 ## People affected by this risk
 
-* [Blood donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1374.md)
 * [Blood recipients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1375.md)
+* [Blood donors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1374.md)
 
 ## Technologies linked to the risk
 

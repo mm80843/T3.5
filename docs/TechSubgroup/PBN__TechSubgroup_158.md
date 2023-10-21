@@ -22,11 +22,11 @@
 ## This Technology belongs to this TechnologySubgroup
 
 * [Enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1148.md)
-* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
 * [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
+* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1997.md)
+* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
 * [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
 * [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1150.md)
 * [Verification processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1385.md)
-* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1997.md)
 * [App store policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1386.md)
 

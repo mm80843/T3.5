@@ -12,16 +12,16 @@ enabler_022
 
 ## Closest similar item
 
-* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_636.md)
-* [Online delivery platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_637.md)
-* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_638.md)
-* [Logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_639.md)
-* [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_640.md)
-* [Advanced logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_641.md)
-* [Digital supply chain platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_642.md)
-* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_643.md)
-* [Food delivery apps](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_644.md)
-* [Digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_645.md)
+* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_235.md)
+* [Online delivery platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_236.md)
+* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_225.md)
+* [Logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_100.md)
+* [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_99.md)
+* [Advanced logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_110.md)
+* [Digital supply chain platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_64.md)
+* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_237.md)
+* [Food delivery apps](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_230.md)
+* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_199.md)
 
 ## Thees blueprints use this enabler
 
@@ -30,7 +30,7 @@ enabler_022
 * [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
 * [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3738.md)
 

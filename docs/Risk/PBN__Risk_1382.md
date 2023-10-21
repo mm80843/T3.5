@@ -42,8 +42,8 @@ Increased risk of mental health issues due to social isolation and economic stre
 ## Mitigations of this risk
 
 * [Provide mental health support services, promote social connectedness, and address economic challenges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1886.md)
-* [Provide mental health support services, promote social connections, and raise awareness about mental health.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2466.md)
 * [Increase access to mental health services, promote mental health awareness and support, provide coping mechanisms and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2910.md)
+* [Provide mental health support services, promote social connections, and raise awareness about mental health.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2466.md)
 * [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1205.md)
 
 ## Name of the risk

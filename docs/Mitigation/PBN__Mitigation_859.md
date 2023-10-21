@@ -34,7 +34,7 @@ Promoting personal hygiene practices such as frequent hand washing, using hand s
 ## This Mitigation is enabled by the following technologies
 
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
+* [Soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2291.md)
 * [Proper sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2728.md)
 * [Respiratory etiquette](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2729.md)
-* [Soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2291.md)
 

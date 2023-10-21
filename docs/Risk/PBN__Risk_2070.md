@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3601.md)
-* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3602.md)
-* [Addressing security and privacy issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3603.md)
-* [Enhanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3604.md)
+* [Security threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2414.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3454.md)
+* [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2103.md)
+* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3455.md)
+* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1069.md)
+* [Addressing security and privacy issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3456.md)
+* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
+* [Enhanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
 * [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2059.md)
-* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3605.md)
-* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
-* [Special access and spaces for vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3606.md)
-* [Communication challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1933.md)
-* [Implement robust data security measures, encryption, access controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3607.md)
+* [Intrusion and hacking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_48.md)
 
 ## Description of the risk
 
@@ -65,8 +65,8 @@ Breach of sensitive information, disruption of healthcare services
 
 * [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 * [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1579.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 
 ## Property: has_RiskType
 

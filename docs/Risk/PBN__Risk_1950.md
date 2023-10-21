@@ -12,10 +12,10 @@
 * [Workforce distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
 * [Workplace transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
 * [Disruption of work and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3176.md)
-* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3864.md)
+* [Adoption of better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3565.md)
 * [Poor work productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2563.md)
 * [Workplace closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3114.md)
-* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4427.md)
+* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3582.md)
 * [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
 * [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1465.md)
 
@@ -62,8 +62,8 @@ Increased stress, decreased work-life balance, and potential impact on mental an
 
 ## Technologies linked to the risk
 
-* [Flexible scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1404.md)
 * [Communication guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1405.md)
+* [Flexible scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1404.md)
 * [Time management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1403.md)
 
 ## Property: has_RiskType

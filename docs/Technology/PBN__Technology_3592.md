@@ -12,12 +12,12 @@
 * [Implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [Natural ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_701.md)
-* [Indoor environment and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3868.md)
+* [Indoor environment and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
 * [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2416.md)
 * [Ventilation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3105.md)
 * [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1292.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
-* [Hvac and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3850.md)
+* [Hvac and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3756.md)
 
 ## This Technology enables the following mitigations
 

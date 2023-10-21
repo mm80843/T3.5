@@ -68,9 +68,9 @@ Higher likelihood of close contact, aerosol and droplet transmission, and contam
 ## Technologies linked to the risk
 
 * [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 * [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 
 ## Property: has_RiskType
 

@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3660.md)
-* [Elimination of indoor pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5256.md)
-* [Shielding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4792.md)
+* [Insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3658.md)
 * [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
-* [Self-sanitizing surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4033.md)
-* [Removal of visible contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5257.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
+* [Pesticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
+* [Spraying equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2148.md)
 * [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2363.md)
-* [Environmental-friendly personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3809.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
-* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2193.md)
+* [Mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_977.md)
+* [Mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2111.md)
+* [Toxic baited sugar traps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_979.md)
 
 ## This Technology enables the following mitigations
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Rapid covid-19 screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4415.md)
-* [System robustness against covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4416.md)
-* [Isolation of suspected covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4417.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4315.md)
-* [Strict adherence to covid-19 preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4418.md)
-* [Regular updates on covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4419.md)
-* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3665.md)
-* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4396.md)
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4397.md)
-* [Improve testing methods, consider testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3664.md)
+* [Long turnaround time for covid-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2374.md)
+* [Shortage of covid-19 testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_353.md)
+* [False-negative results in covid-19 testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2375.md)
+* [Inefficient early detection of covid-19 infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
+* [Poor practices for covid-19 prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_626.md)
+* [Lack of public understanding of covid-19 mitigation and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_835.md)
+* [Asymptomatic and pre-symptomatic cases of covid-19 not being detected early](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1002.md)
+* [Inadequate monitoring of the spread of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1301.md)
+* [Rapidly changing understanding of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1443.md)
+* [Need for accurate and up-to-date covid-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_838.md)
 
 ## Mitigations of this risk
 

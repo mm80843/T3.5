@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Rapid diagnosis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4952.md)
-* [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4953.md)
-* [Testing and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3818.md)
-* [Rapid screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4954.md)
-* [Rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3819.md)
-* [Testing and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4955.md)
-* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4956.md)
-* [Quick and accurate disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4957.md)
-* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3816.md)
-* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3817.md)
+* [Rapid diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2961.md)
+* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1000.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [Rapid testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2147.md)
+* [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2027.md)
+* [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_780.md)
+* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
+* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1307.md)
+* [Rapid testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3720.md)
+* [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
 
 ## This Technology belongs to this TechGroup
 

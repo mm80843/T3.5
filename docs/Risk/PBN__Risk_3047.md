@@ -16,7 +16,7 @@
 * [Waste contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3290.md)
 * [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_575.md)
 * [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2406.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4009.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3474.md)
 * [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1550.md)
 
 ## Mitigations of this risk

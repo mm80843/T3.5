@@ -62,8 +62,8 @@ Global value chains: Efficiency and risks in the context of COVID-19
 * [Policy analysis and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1201.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 * [Advanced modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1199.md)
+* [Risk assessment and management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1198.md)
 * [Supplier diversification technologies and supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1197.md)
 * [Forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
-* [Risk assessment and management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1198.md)
 * [Supply chain management systems and technologies enabling quick supplier switching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1200.md)
 

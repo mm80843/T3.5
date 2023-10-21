@@ -14,7 +14,7 @@
 * [Artificial intelligence and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
 * [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3438.md)
 * [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
-* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4655.md)
+* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3767.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 * [Artificial intelligence and mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3057.md)
 * [Ultrasound imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3693.md)

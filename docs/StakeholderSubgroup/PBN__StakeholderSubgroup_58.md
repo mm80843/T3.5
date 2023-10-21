@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_237.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_175.md)
 * [Retail and consumer services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_29.md)
 * [Companies and institutions](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_23.md)
 * [Sector/industry](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_57.md)
@@ -34,16 +34,16 @@
 * [Investment professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1329.md)
 * [Venture capitalist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1951.md)
 * [Investment professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1914.md)
+* [Funding agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_993.md)
 * [Businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)
 * [Small business owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_76.md)
 * [Business owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_726.md)
 * [Small business](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1972.md)
 * [Small and medium-sized businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_416.md)
-* [Funding agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_993.md)
 * [Funding agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1949.md)
 * [Financial team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_929.md)
-* [Economic organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_974.md)
 * [Business](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2002.md)
+* [Economic organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_974.md)
 * [Business associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1386.md)
 * [Banks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_526.md)
 * [Startups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_322.md)

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2727 
 
-# __Residents/visitors__
+# __Expertise__
 
 ## Category to which it belongs
 
-* [People in urban areas, especially those in high-risk, low-income, and underserved neighborhoods, living in substandard housing and lacking access to basic amenities and natural areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_430.md)
+* [A diverse group of individuals with specialized knowledge and expertise in various fields and professions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_408.md)
 
 ## Closest similar item
 
-* [Residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2356.md)
-* [All residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_509.md)
-* [Including residents and visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1232.md)
-* [Resident and visitor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2377.md)
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
-* [Other residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_511.md)
-* [Residents,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_467.md)
-* [Nearby residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1271.md)
-* [Local residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_481.md)
+* [Experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_538.md)
+* [It expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2427.md)
+* [It experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1466.md)
+* [Technical expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2450.md)
+* [Technical experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_716.md)
+* [Communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_828.md)
+* [Iaq experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1356.md)
+* [Communication expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1785.md)
+* [Iaq expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1755.md)
+* [Professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1190.md)
 

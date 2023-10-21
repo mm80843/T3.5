@@ -16,7 +16,7 @@
 * [Portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2474.md)
 * [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_192.md)
 * [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
-* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3845.md)
+* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3752.md)
 * [Hvac technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_489.md)
 
 ## This Technology enables the following mitigations

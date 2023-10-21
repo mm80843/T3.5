@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Resource requirements, sociopolitical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2599.md)
+* [Data sharing barriers, legal frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2590.md)
+* [Lack of legal protections and financial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1177.md)
 * [Legal issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
 * [Legal problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_418.md)
-* [Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3711.md)
+* [Barriers to progress, existing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2602.md)
 * [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
 * [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
 * [Communication barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3178.md)
-* [Reducing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3712.md)
-* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2108.md)
-* [Economic barrier](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2917.md)
-* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
+* [Lack of legislation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1101.md)
 
 ## Mitigations of this risk
 

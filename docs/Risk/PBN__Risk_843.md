@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Reduction in waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2361.md)
+* [Increased waste, reduced waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3400.md)
 * [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
-* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3892.md)
-* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3890.md)
-* [Sustainable alternatives, proper disposal of waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4258.md)
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3891.md)
-* [Improved waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3893.md)
-* [Implement proper waste management and recycling systems, encourage environmentally-friendly consumer behavior.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4259.md)
-* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3894.md)
+* [Waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_280.md)
+* [Waste contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3290.md)
 * [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2406.md)
-* [Enhance waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3895.md)
+* [Energy waste](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_826.md)
+* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_575.md)
+* [Inadequate waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1066.md)
+* [Environmental impact and waste management challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1610.md)
 
 ## Mitigations of this risk
 

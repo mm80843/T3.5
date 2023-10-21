@@ -13,7 +13,7 @@
 * [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1295.md)
 * [Lack of gardening/activity in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
 * [Lack of green space diversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1532.md)
-* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3472.md)
+* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
 * [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_325.md)
 * [Inadequate maintenance of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1533.md)
 * [Neglected or poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3327.md)

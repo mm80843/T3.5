@@ -8,15 +8,15 @@
 
 ## Closest similar item
 
-* [Strengthen security measures such as identification checks and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4858.md)
-* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4327.md)
-* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3509.md)
+* [Strengthen security measures such as identification checks and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3663.md)
+* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3609.md)
+* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
 * [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1362.md)
 * [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2069.md)
 * [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3247.md)
-* [Data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4645.md)
+* [Data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3649.md)
 * [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3222.md)
-* [Implement encryption, anonymity, and biometrics, establish clear data control policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4644.md)
+* [Implement encryption, anonymity, and biometrics, establish clear data control policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3661.md)
 * [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2059.md)
 
 ## Mitigations of this risk

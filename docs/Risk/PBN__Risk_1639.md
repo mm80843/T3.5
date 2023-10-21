@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
+* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
+* [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1209.md)
 * [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
-* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3766.md)
-* [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3767.md)
 * [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
 * [Decreased demand for public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2782.md)
 * [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
-* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3735.md)
+* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3507.md)
 * [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3324.md)
-* [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3765.md)
-* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3999.md)
+* [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_406.md)
 
 ## Description of the risk
 

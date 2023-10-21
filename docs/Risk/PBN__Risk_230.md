@@ -15,8 +15,8 @@
 * [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1937.md)
 * [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1572.md)
 * [Pandemic containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_706.md)
-* [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3846.md)
-* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3717.md)
+* [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3553.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3501.md)
 * [Inadequate global preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_726.md)
 
 ## Mitigations of this risk

@@ -1,4 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3748 
 
-# __Telemedical services__
+# __Air quality and filtration systems__
+
+## Category to which it belongs
+
+* [Air and water purification systems, including filters, machines, purifiers, and technologies for improved air quality and filtration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
+
+## Closest similar item
+
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_308.md)
+* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
+* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2050.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2983.md)
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
+* [High-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1348.md)
+* [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1843.md)
+* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3752.md)
+* [Improved ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
 

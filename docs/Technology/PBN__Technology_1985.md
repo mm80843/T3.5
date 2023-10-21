@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5343.md)
-* [Deployment of social robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5344.md)
+* [Social robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3696.md)
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
-* [Robotics for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4994.md)
-* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3792.md)
 * [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3794.md)
-* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5012.md)
-* [Autonomous human behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5345.md)
+* [Social pods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3400.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2969.md)
+* [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3298.md)
+* [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1450.md)
+* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_424.md)
+* [Social networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1535.md)
 
 ## This Technology belongs to this TechGroup
 

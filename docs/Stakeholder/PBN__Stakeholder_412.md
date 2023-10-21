@@ -15,7 +15,7 @@
 * [Local businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_300.md)
 * [Local businesses,](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_385.md)
 * [Local economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_518.md)
-* [Local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2664.md)
+* [Local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2586.md)
 * [Local organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1459.md)
 * [Businesses and industries with localized supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1243.md)
 * [Businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_147.md)

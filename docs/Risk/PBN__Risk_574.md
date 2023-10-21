@@ -15,9 +15,9 @@
 * [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1926.md)
 * [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2013.md)
 * [Inadequate treatment of wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3855.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3560.md)
 * [Drinking water treatment and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3656.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
 
 ## Mitigations of this risk
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4726.md)
-* [Sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5039.md)
-* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4971.md)
-* [Sustainable building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4970.md)
-* [Improve environmental quality through better site design and regional planning, reduce pollution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5040.md)
-* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5041.md)
-* [Promoting sustainable design and construction practices, proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5042.md)
-* [Green and sustainable design practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5043.md)
-* [Implement sustainable land use practices, protect and restore ecosystems, and mitigate climate change](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5044.md)
-* [Sustainable urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4130.md)
+* [Sustainable site design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3416.md)
+* [Sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
+* [Sustainable development initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_450.md)
+* [Sustainable tourism initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1701.md)
+* [Sustainable development goals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2209.md)
+* [Sustainable manufacturing and disposal methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1646.md)
+* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_50.md)
+* [Green space management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2594.md)
+* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1505.md)
+* [Sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3275.md)
 
 ## This Technology enables the following mitigations
 

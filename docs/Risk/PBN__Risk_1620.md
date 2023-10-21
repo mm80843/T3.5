@@ -12,10 +12,10 @@
 * [Increase in outdoor noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1618.md)
 * [Increased annoyance from neighbour noise in flats during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1622.md)
 * [Increased annoyance from bird noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1621.md)
-* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3431.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
 * [Increased recreational activity during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_889.md)
-* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
 * [Lockdown impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_886.md)
 * [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_328.md)
 

@@ -17,7 +17,7 @@
 * [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
 * [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2061.md)
 * [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2930.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3753.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
 
 ## Mitigations of this risk
 

@@ -11,13 +11,13 @@
 * [Augmented reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2423.md)
 * [Augmented / virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
 * [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1231.md)
-* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4363.md)
-* [Augmented surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3909.md)
-* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4362.md)
+* [Augmented surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2309.md)
 * [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2975.md)
+* [Camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2698.md)
+* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2870.md)
 * [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2976.md)
-* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1806.md)
-* [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2053.md)
+* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2871.md)
+* [Video cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2898.md)
 
 ## This Technology enables the following mitigations
 

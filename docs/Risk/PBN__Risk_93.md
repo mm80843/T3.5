@@ -15,7 +15,7 @@
 * [Inaccurate input](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2992.md)
 * [Inconsistent implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2533.md)
 * [Inaccurate identification and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
-* [Ai for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3747.md)
+* [Ai for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3519.md)
 * [Difficulty in contact tracing and cluster identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1000.md)
 * [Identification of new variants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3382.md)
 

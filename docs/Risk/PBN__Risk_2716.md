@@ -16,7 +16,7 @@
 * [High concentrations of air contaminants in specific locations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3007.md)
 * [Indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3199.md)
 * [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
-* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3797.md)
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3541.md)
 * [Indoor air contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_125.md)
 
 ## Mitigations of this risk

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4123.md)
-* [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3842.md)
-* [Neighborhood isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3917.md)
+* [Community mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_405.md)
 * [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1606.md)
-* [Including local communities in pca governance and benefits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4124.md)
+* [Lack of community participation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2534.md)
+* [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1286.md)
 * [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_271.md)
 * [Mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_497.md)
-* [Creating green space in existing communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4125.md)
-* [Reducing community environmental impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4126.md)
-* [Social gathering restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4127.md)
+* [Lack of community ownership and involvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3325.md)
+* [Increase in local opportunity cost for pca-adjacent communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
+* [Lack of community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2125.md)
+* [Exclusion of non-english speaking populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1578.md)
 
 ## Mitigations of this risk
 

@@ -13,11 +13,11 @@
 * [Layout design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3502.md)
 * [Spatial layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2787.md)
 * [Urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
-* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3876.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
 * [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
 * [Proper layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2217.md)
 * [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3928.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
 
 ## This Technology enables the following mitigations
 

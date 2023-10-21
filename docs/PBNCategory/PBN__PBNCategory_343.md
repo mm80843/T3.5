@@ -4,8 +4,8 @@
 
 ## Items covered in this category
 
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_133.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_226.md)
-* [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_330.md)
-* [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_331.md)
+* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_99.md)
+* [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_100.md)
+* [Urban planning and design technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_101.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_102.md)
 

@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Inadequate cleaning and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3139.md)
-* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3626.md)
+* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
 * [Lack of effective disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
 * [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
 * [Ineffectiveness of disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1160.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4182.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3587.md)
 * [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2024.md)
 * [Inherent vulnerabilities in](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_775.md)
-* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4176.md)
+* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3585.md)
 * [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_668.md)
 
 ## Description of the risk

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Inadequate site facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1931.md)
 * [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
-* [Facility management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4106.md)
-* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3488.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
+* [Lack of facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
+* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_640.md)
+* [Inadequate room selection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1627.md)
+* [Lack of facilities and time constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_851.md)
+* [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
 * [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
-* [Adequate planning of infrastructural facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4081.md)
-* [Optimize space layout and arrangement, consider ergonomic principles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4102.md)
-* [Design venues with large, flexible spaces and prioritize medical equipment.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3838.md)
-* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3809.md)
-* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
-* [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4107.md)
+* [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2299.md)
 
 ## Description of the risk
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Curfews](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3822.md)
-* [Curfew part one](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4771.md)
-* [Curfew part two](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4772.md)
-* [Ensure access to essential services during curfew hours, increase enforcement and penalties for violations.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3912.md)
-* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3739.md)
-* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4773.md)
-* [Public events ban](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4774.md)
-* [Social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3569.md)
-* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
+* [Curfews](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3544.md)
+* [Ensure access to essential services during curfew hours, increase enforcement and penalties for violations.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3577.md)
+* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3511.md)
+* [Gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3164.md)
+* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3414.md)
 * [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1866.md)
+* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
+* [Domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1750.md)
+* [Disrupted educational activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3179.md)
 
 ## Description of the risk
 

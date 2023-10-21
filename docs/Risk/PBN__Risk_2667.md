@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4039.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3642.md)
-* [Technology and materials for protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3644.md)
-* [Physical barriers , plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4040.md)
-* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4041.md)
-* [Isolation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3668.md)
-* [Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3711.md)
-* [Plastic barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3641.md)
-* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4042.md)
-* [Using appropriate protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4043.md)
+* [Noise and inconvenience of personal air-purifying shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2371.md)
+* [Lack of airtightness and safety concerns with reusable face shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
+* [Harmful effects of uv-c light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
+* [Ineffective use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
+* [Inadequate protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2632.md)
+* [Prevention and protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_975.md)
+* [Contamination, transmission through close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2457.md)
+* [Contamination of insulation in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3010.md)
+* [Transmission through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1366.md)
+* [Ineffective use of isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_547.md)
 
 ## Mitigations of this risk
 

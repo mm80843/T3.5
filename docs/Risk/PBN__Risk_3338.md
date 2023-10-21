@@ -17,7 +17,7 @@
 * [Supporting essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2523.md)
 * [Reducing non-essential use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2525.md)
 * [Inadequate supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2034.md)
-* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3440.md)
+* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3421.md)
 
 ## Mitigations of this risk
 

@@ -15,7 +15,7 @@
 * [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2029.md)
 * [Contamination and exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2672.md)
 * [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3523.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
 * [Surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2579.md)
 * [Waste contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3290.md)
 

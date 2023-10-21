@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Collaboration and knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4658.md)
-* [Support and information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5400.md)
+* [Information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2790.md)
+* [Knowledge management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2971.md)
+* [Collaboration platforms for information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1893.md)
+* [Expertise and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2210.md)
+* [Knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2157.md)
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2842.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4520.md)
+* [Information sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1896.md)
 * [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
-* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4522.md)
-* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4521.md)
-* [Communication and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4513.md)
-* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5401.md)
-* [Knowledge-engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4045.md)
+* [Knowledge-base system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2398.md)
+* [Information sharing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3284.md)
 
 ## This Technology enables the following mitigations
 

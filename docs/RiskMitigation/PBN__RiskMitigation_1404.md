@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Ensure timely and appropriate distribution of supplies and address needs effectively.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2687.md)
-* [Ensure labor supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4911.md)
 * [Prioritizing shipments of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_301.md)
 * [Stocking up on necessary medical supplies, personal protective equipment, and establishing protocols for infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1988.md)
-* [Disinfection equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4787.md)
-* [Cleaning supplies and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4937.md)
-* [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4309.md)
+* [Disinfection equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3383.md)
 * [Designating community-level areas for essential services and supplies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1727.md)
 * [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_285.md)
 * [Promote diversification of supplies and improve flexibility in sourcing inputs across multiple suppliers and countries.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2423.md)
+* [Increase production and distribution of personal protective equipment, stockpile reserves for emergencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2719.md)
+* [Strengthen and adequately fund public health systems, build stockpiles for critical medical supplies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2947.md)
+* [Enhance healthcare capacity, stockpile medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2848.md)
 
 ## Benefits linked to a risk
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Trusted sources certification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4716.md)
-* [Credible sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4717.md)
-* [Secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4500.md)
-* [Reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4718.md)
-* [Heat](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4719.md)
-* [Secure protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4720.md)
-* [Network of partners](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4721.md)
-* [Validation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4722.md)
-* [Scientific integrity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4723.md)
-* [Support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4724.md)
+* [Lack of trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2413.md)
+* [Adoption and trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1104.md)
+* [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1600.md)
+* [Lack of public trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_741.md)
+* [Lack of trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1998.md)
+* [Lack of trust in information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_973.md)
+* [Lack of trust in evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1352.md)
+* [Lack of trustable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2042.md)
+* [Lack of social cohesion and trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3278.md)
+* [Decreased trust in official sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1560.md)
 
 ## Mitigations of this risk
 

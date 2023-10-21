@@ -53,7 +53,7 @@
 * [Reduction in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2152.md)
 * [Livelihood and trade disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_774.md)
 * [Increased wildlife exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2153.md)
+* [Lack of accurate risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
 * [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
 * [Insufficient surveillance of asymptomatic and unreported cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
-* [Lack of accurate risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
 

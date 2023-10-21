@@ -18,8 +18,8 @@ UV radiation can effectively eliminate germs and microorganisms on surfaces, red
 
 ## Stakeholders benefitting from this Benefit
 
-* [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [Medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_187.md)
+* [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
 * [Public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_188.md)
 
 ## Risks which can benefit from this action

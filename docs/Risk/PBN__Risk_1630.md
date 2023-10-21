@@ -16,8 +16,8 @@
 * [Ineffective use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
 * [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1957.md)
 * [Inadequate personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1276.md)
-* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
 
 ## Description of the risk
 

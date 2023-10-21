@@ -20,6 +20,6 @@
 * [General populations in areas with vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1566.md)
 * [Countries and industries reliant on gvcs for foreign inputs and exports](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1240.md)
 * [Country and industry reliant on gvc for foreign input and export](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2274.md)
-* [International policy framework](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2573.md)
+* [International policy framework](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2535.md)
 * [Countries participating in gvcs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1241.md)
 

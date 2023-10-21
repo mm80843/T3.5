@@ -17,7 +17,7 @@
 * [Tourism providers and destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_195.md)
 * [Tourist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2367.md)
 * [Refugees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_948.md)
-* [Traveling individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2834.md)
+* [Traveling individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2635.md)
 
 ## Risk affecting this stakeholder
 

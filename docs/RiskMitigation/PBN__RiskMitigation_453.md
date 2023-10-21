@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Improve insulation, use energy management systems, and implement efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1684.md)
-* [Upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4578.md)
+* [Upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3356.md)
 * [Installation of efficient hvac systems, proper insulation, and controls for temperature regulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1563.md)
 * [Improve hvac systems and thermal insulation to achieve a balance between supply and demand.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1910.md)
 * [Insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1192.md)
 * [Improve insulation, adjust hvac systems, provide personal comfort devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2475.md)
 * [Development of new materials for better insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_294.md)
-* [Innovative insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4579.md)
-* [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4580.md)
-* [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4581.md)
+* [Innovative insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3357.md)
+* [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3358.md)
+* [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3297.md)
 
 ## Benefits linked to a risk
 

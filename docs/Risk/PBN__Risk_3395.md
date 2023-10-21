@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Remote working](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3680.md)
-* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3681.md)
-* [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3682.md)
-* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3676.md)
-* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3675.md)
-* [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3683.md)
-* [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3684.md)
-* [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3674.md)
-* [Remote work and online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3685.md)
-* [Remote work and distance learning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3686.md)
+* [Remote work challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1853.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3488.md)
+* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3487.md)
+* [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3486.md)
+* [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3484.md)
+* [Remote collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1520.md)
+* [Promoting remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3492.md)
+* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2350.md)
+* [Provide necessary equipment and support for remote work.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3485.md)
+* [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3491.md)
 
 ## Mitigations of this risk
 

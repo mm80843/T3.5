@@ -39,9 +39,9 @@ The psychological impact of COVID-19 on the mental health in the general populat
 * [Inadequate supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2034.md)
 * [Disabling loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2033.md)
 * [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2030.md)
-* [Alexithymia](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2036.md)
 * [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
 * [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
+* [Alexithymia](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2036.md)
 * [Frustration and boredom](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2032.md)
 
 ## This article points to following mitigation

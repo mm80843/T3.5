@@ -11,13 +11,13 @@
 * [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_80.md)
 * [Innovative insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_375.md)
 * [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3270.md)
-* [Development of new materials for better insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3885.md)
-* [Improve insulation and heating systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3887.md)
 * [Proper insulation materials and cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3077.md)
-* [Research and develop new materials for insulation and building performance, enhance construction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
 * [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2276.md)
-* [Improve insulation, use energy management systems, and implement efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4417.md)
 * [Upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_645.md)
+* [Thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3145.md)
+* [Protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2559.md)
+* [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2014.md)
+* [Electrical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2942.md)
 
 ## This Technology enables the following mitigations
 

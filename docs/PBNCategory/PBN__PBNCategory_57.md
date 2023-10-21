@@ -4,8 +4,8 @@
 
 ## Items covered in this category
 
-* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_124.md)
-* [Timeline-based visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_138.md)
-* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_187.md)
-* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_457.md)
+* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_69.md)
+* [Timeline-based visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_81.md)
+* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_92.md)
+* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_95.md)
 

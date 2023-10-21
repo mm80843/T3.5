@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_505.md)
-* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4474.md)
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
+* [Lack of understanding of regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2771.md)
+* [Lack of regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3249.md)
 * [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2448.md)
 * [Insufficient building regulations and codes for transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_796.md)
-* [Regulatory adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4554.md)
+* [Insufficient behavior and adherence to guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1136.md)
+* [Lack of legislation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1101.md)
+* [Barriers to progress, existing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2602.md)
 * [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3168.md)
-* [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
-* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
-* [Temporary regulations for certain activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4556.md)
+* [Challenges of new](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_902.md)
 
 ## Mitigations of this risk
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4117.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
 * [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2748.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2801.md)
 * [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
+* [Digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3176.md)
 * [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_814.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_638.md)
-* [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4878.md)
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4118.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4879.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
+* [Information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2130.md)
+* [Digital and smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2491.md)
 
 ## This Technology enables the following mitigations
 

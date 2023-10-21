@@ -75,10 +75,10 @@ Increased morbidity and mortality, strain on healthcare system
 
 * [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
 * [General population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [Vulnerable population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_547.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [General public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [Vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_748.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_547.md)
 
 ## Technologies linked to the risk
 

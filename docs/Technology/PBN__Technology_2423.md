@@ -10,14 +10,14 @@
 
 * [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3403.md)
 * [Augmented / virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
-* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4363.md)
 * [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1231.md)
-* [Augmented surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3909.md)
-* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4362.md)
+* [Augmented surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2309.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
+* [Information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2130.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
 * [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2975.md)
-* [Adoption of emerging technologies , virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4701.md)
+* [Tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1720.md)
 * [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2976.md)
-* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3021.md)
 
 ## This Technology enables the following mitigations
 

@@ -10,8 +10,8 @@
 
 * [Indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3199.md)
 * [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4212.md)
-* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3797.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3598.md)
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3541.md)
 * [Lack of adequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_341.md)
 * [Indoor air pollution iap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
 * [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1288.md)

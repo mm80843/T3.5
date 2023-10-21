@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
 * [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
-* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4474.md)
 * [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
-* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4289.md)
 * [Legal issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
 * [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_505.md)
 * [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
-* [Public health policies and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4475.md)
 * [Legal problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_418.md)
+* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
+* [Violation of privacy laws and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3246.md)
+* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_811.md)
+* [Lack of regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3249.md)
 
 ## Description of the risk
 

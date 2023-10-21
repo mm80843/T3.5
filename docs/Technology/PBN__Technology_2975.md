@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Vision algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3691.md)
+* [Image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2234.md)
+* [Object detection algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3541.md)
+* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
 * [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2878.md)
 * [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1231.md)
 * [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3473.md)
 * [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3403.md)
-* [Augmented / virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
-* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2033.md)
-* [Ai for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5281.md)
-* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
-* [Automated face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4489.md)
+* [Video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3540.md)
+* [Visual aids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1184.md)
 
 ## This Technology enables the following mitigations
 

@@ -16,13 +16,13 @@
 * [Risk of covid-19 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_364.md)
 * [Transmission of covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_579.md)
 * [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1550.md)
-* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3746.md)
+* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3518.md)
 
 ## Mitigations of this risk
 
 * [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1401.md)
+* [Proper handling of pandemic impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1402.md)
 * [Increase in preparedness level](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1399.md)
 * [Reduction in perceived impact over time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1400.md)
 * [Adoption of proper software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1398.md)
-* [Proper handling of pandemic impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1402.md)
 

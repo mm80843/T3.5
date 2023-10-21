@@ -28,8 +28,8 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Inequalities in smart city development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2075.md)
-* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
 * [Inadequate governance and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1336.md)
+* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
 * [Lack of public participation and citizen empowerment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2078.md)
 * [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
 

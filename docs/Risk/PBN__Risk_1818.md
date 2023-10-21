@@ -12,7 +12,7 @@
 * [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_613.md)
 * [Reduction in waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2361.md)
 * [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_575.md)
-* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3657.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3481.md)
 * [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2406.md)
 * [Waste recycling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_843.md)
 * [Inadequate waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1066.md)

@@ -13,7 +13,7 @@
 * [Inability to physically distance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3103.md)
 * [Lack of effective treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1849.md)
 * [Inadequate patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_465.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3757.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
 * [Ineffective non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1478.md)
 * [Difficulty of access for medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2889.md)
 * [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2699.md)

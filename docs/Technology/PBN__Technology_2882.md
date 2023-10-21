@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3928.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
 * [Housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_454.md)
 * [Housing policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3703.md)
 * [Affordable and sustainable housing solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_90.md)

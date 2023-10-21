@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2110.md)
+* [Genetic modification technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3664.md)
 * [Molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3573.md)
+* [Microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+* [Agricultural technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_69.md)
 * [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
-* [Biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2410.md)
-* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_262.md)
-* [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2119.md)
-* [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_312.md)
-* [Technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3100.md)
-* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2034.md)
-* [Drone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2402.md)
+* [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
+* [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1888.md)
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_761.md)
+* [Pathogen reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3324.md)
 
 ## This Technology enables the following mitigations
 

@@ -4,8 +4,8 @@
 
 ## Items covered in this category
 
-* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_66.md)
-* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_67.md)
-* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_213.md)
-* [Privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_249.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_61.md)
+* [Privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_78.md)
+* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_62.md)
+* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_80.md)
 

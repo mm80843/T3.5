@@ -10,10 +10,10 @@
 
 * [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2567.md)
 * [Screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3391.md)
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4408.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3618.md)
 * [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2937.md)
 * [Limited testing and treatment capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2786.md)
-* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4347.md)
+* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3611.md)
 * [Inaccurate symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_674.md)
 * [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1782.md)
 * [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)

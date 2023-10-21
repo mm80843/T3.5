@@ -13,8 +13,8 @@
 * [Psychological distress in healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_896.md)
 * [Increased stress for students and faculty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_213.md)
 * [Student and faculty stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2124.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4598.md)
-* [Shift in customers’ needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4590.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3642.md)
+* [Shift in customers’ needs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3640.md)
 * [Disruption in the supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_480.md)
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 

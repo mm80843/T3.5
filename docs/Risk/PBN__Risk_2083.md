@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1570.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3617.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
 * [Environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_581.md)
 * [Indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3199.md)
 * [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)

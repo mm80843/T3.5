@@ -13,7 +13,7 @@
 * [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
 * [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1028.md)
 * [Need for sustainable travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_530.md)
-* [Timely implementation of travel restrictions, social distancing, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3738.md)
+* [Timely implementation of travel restrictions, social distancing, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3510.md)
 * [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
 * [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1210.md)
 * [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2057.md)

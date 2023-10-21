@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5409.md)
+* [Or oil of lemon eucalyptus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3663.md)
+* [Soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2291.md)
 * [Hand soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3229.md)
+* [Soap and water or hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3009.md)
 * [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3660.md)
-* [Hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2789.md)
-* [Personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_829.md)
-* [Access to clean cooking fuels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5410.md)
-* [Regular hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4835.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_507.md)
-* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2480.md)
-* [Eco-showerheads](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5411.md)
+* [Humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_923.md)
+* [Anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_238.md)
+* [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_854.md)
+* [Humidifier](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2413.md)
+* [Soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2311.md)
 
 ## This Technology enables the following mitigations
 

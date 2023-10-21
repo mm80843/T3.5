@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3788.md)
 * [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
 * [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_895.md)
 * [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3549.md)
 * [Digital learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1807.md)
 * [Digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_15.md)
-* [Virtual platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3759.md)
 * [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
 * [Platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1874.md)
 * [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3099.md)
+* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
 
 ## This Technology belongs to this TechGroup
 

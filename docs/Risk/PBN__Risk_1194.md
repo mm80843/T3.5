@@ -10,7 +10,7 @@
 
 * [Spread of covid-19 in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_434.md)
 * [Covid-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_675.md)
-* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3746.md)
+* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3518.md)
 * [Covid-19 outbreaks in workplace settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_887.md)
 * [Covid-19 transmission in healthcare workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_372.md)
 * [Covid-19 transmission in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_371.md)

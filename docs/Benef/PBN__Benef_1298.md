@@ -16,8 +16,8 @@ Using materials that are easy to clean and have anti-bacterial properties can re
 
 ## Stakeholders benefitting from this Benefit
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Risks which can benefit from this action
 

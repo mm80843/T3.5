@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Social support and connection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4384.md)
-* [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4285.md)
-* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4385.md)
-* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4386.md)
+* [Social support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_941.md)
+* [Social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2605.md)
+* [Welfare support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2837.md)
+* [Legal measures and social support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2137.md)
+* [Community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1443.md)
+* [Community support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
+* [Community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_593.md)
+* [Social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
+* [Community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
 * [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_605.md)
-* [Promoting social connections, providing psychosocial support, mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4387.md)
-* [Provide mental health support services, financial assistance programs, and social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4388.md)
-* [Socioeconomic support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4389.md)
-* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4390.md)
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4391.md)
 
 ## This Technology enables the following mitigations
 

@@ -26,10 +26,10 @@
 * [Delay in works due to lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_498.md)
 * [Concerns about project time, cost, and scope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1975.md)
 * [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
+* [Ensure material supply chain resumes quickly, address labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3475.md)
 * [Time overrun](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_597.md)
 * [Delayed treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3219.md)
 * [Delayed decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_659.md)
 * [Delay in control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2155.md)
 * [Delayed reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2503.md)
-* [Ensure material supply chain resumes quickly, address labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4426.md)
 

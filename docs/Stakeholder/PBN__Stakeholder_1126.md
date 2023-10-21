@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Measuring rh](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3662.md)
-* [](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2815.md)
-* [Yolo](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3627.md)
-* [Chws](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3663.md)
-* [-](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3625.md)
-* [Can be used to regulate ah and rh levels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3664.md)
-* [Fans](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3628.md)
-* [Nfv](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3665.md)
-* [Its](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3626.md)
-* [R software](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3666.md)
+* [Measuring rh](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2805.md)
+* [](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2626.md)
+* [Yolo](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2669.md)
+* [Chws](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2806.md)
+* [Public health authorities are responsible for regulating ah and rh levels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1121.md)
+* [-](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2758.md)
+* [Can be used to regulate ah and rh levels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2807.md)
+* [Fans](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2801.md)
+* [Gamer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1881.md)
+* [Research institutions and public health authorities are responsible for conducting research and developing guidelines to understand and regulate ah and rh levels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1128.md)
 
 ## Risk affecting this stakeholder
 

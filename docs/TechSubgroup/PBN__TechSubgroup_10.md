@@ -25,7 +25,7 @@
 * [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_890.md)
 * [Fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_579.md)
 * [Data validation and quality control nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1573.md)
-* [Data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1317.md)
 * [Ai algorithms for content analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2037.md)
+* [Data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1317.md)
 * [Artificial intelligence for content filtering](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1859.md)
 

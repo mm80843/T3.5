@@ -17,7 +17,7 @@
 * [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
 * [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1840.md)
 * [Labour shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_730.md)
-* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3746.md)
+* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3518.md)
 
 ## Mitigations of this risk
 

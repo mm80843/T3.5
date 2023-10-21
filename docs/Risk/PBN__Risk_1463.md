@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
-* [Employee support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3776.md)
-* [Support to overstretched staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3965.md)
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3772.md)
-* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3578.md)
-* [Support widespread skills](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4592.md)
-* [Creating mechanisms for psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3579.md)
-* [Strengthen psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4636.md)
-* [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3777.md)
-* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3771.md)
+* [Support and information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3314.md)
+* [Limited engagement of professionals and lack of comprehensive support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2423.md)
+* [Lack of support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2829.md)
+* [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_878.md)
+* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
+* [Lack of support for users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2797.md)
+* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2834.md)
+* [Gaps in capacity and resilience across industries and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_752.md)
+* [Supporting essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2523.md)
 
 ## Description of the risk
 
@@ -49,8 +49,8 @@ Improved coordination and allocation of resources to address challenges and meet
 
 ## Stakeholders who can mitigate this risk
 
-* [Crisis management teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_951.md)
 * [Hospital administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_252.md)
+* [Crisis management teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_951.md)
 
 ## Articles mentionning the risk
 

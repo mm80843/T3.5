@@ -12,16 +12,16 @@ enabler_014
 
 ## Closest similar item
 
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_313.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_314.md)
-* [Drone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_315.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_149.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_53.md)
+* [Drone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_150.md)
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_14.md)
-* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_316.md)
-* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_317.md)
-* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_318.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_319.md)
-* [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_320.md)
-* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_321.md)
+* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_151.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_152.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_153.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_154.md)
+* [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_155.md)
+* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_156.md)
 
 ## Thees blueprints use this enabler
 
@@ -30,7 +30,7 @@ enabler_014
 * [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
 * [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Robots, drones & automated vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3735.md)
 

@@ -13,16 +13,16 @@
 
 ## Closest similar item
 
+* [City government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1110.md)
+* [Local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_566.md)
+* [City authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_534.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [Government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2568.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2631.md)
-* [Government programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2578.md)
-* [National and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2572.md)
-* [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2722.md)
-* [Government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2580.md)
-* [Digital platforms for urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2838.md)
+* [Local government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_307.md)
+* [Local and national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_548.md)
+* [City councils](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_798.md)
+* [State governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1186.md)
+* [City authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1610.md)
+* [City officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_724.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -45,8 +45,8 @@
 * [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_246.md)
 * [Restricted movement in and out of cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2309.md)
 * [Increased risk of zoonotic diseases from urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1655.md)
-* [Neglected mental health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
 * [Surveillance and personal data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
+* [Neglected mental health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
 * [Increased air pollution from emissions of volatile organic compounds by urban trees](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
 * [Air circulation-limiting potential of tall, planted roadside vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1652.md)
 * [Increased population of urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1654.md)

@@ -10,12 +10,12 @@
 
 * [Seeding events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3268.md)
 * [Extreme events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_132.md)
-* [Implementing temporary regulations to restrict group gatherings, overcrowding, and high-level interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3823.md)
+* [Implementing temporary regulations to restrict group gatherings, overcrowding, and high-level interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3545.md)
 * [Restriction of large events, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2736.md)
 * [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1689.md)
-* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3717.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3501.md)
 * [Ensuring supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_989.md)
-* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3748.md)
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3520.md)
 * [Hospital preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_360.md)
 * [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
 

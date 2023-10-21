@@ -16,16 +16,16 @@
 
 ## Closest similar item
 
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2631.md)
+* [City planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_750.md)
+* [Urban planner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1609.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2567.md)
+* [City planner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1602.md)
 * [Planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_622.md)
-* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2720.md)
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2625.md)
-* [Urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2721.md)
-* [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2722.md)
-* [Urban planning guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2723.md)
-* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2724.md)
-* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2725.md)
-* [Urban planning and transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2726.md)
+* [Urban planning authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1068.md)
+* [Urban planners and designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1225.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2605.md)
+* [Urban planning agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_550.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2565.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -38,8 +38,9 @@
 * [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
 * [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1022.md)
 * [Overcrowded cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1405.md)
-* [Urban activities and points of interests pois](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2353.md)
+* [Lack of availability of mobility data for most cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1207.md)
 * [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2050.md)
+* [Urban activities and points of interests pois](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2353.md)
 * [Urban inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_19.md)
 * [Health inequalities resulting from urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1208.md)
 * [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
@@ -62,9 +63,11 @@
 * [Increased population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1389.md)
 * [Population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_495.md)
 * [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2299.md)
+* [Inadequate public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
 * [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1448.md)
 * [Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2212.md)
 * [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_242.md)
+* [Lack of ugs density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
 * [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
 * [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
 * [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1944.md)
@@ -72,16 +75,13 @@
 * [Urban heat islands uhis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
 * [Uneven distribution of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1942.md)
 * [Inequitable distribution of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1041.md)
-* [Inadequate public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
 * [Lack of access to outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1670.md)
 * [Lack of access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1592.md)
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
 * [Crowded living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1474.md)
 * [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1210.md)
 * [Uneven distribution of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1675.md)
-* [Lack of ugs density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
 * [Lack of ugs during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1678.md)
-* [Lack of availability of mobility data for most cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1207.md)
 * [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1829.md)
 * [Mainstreaming health criteria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1447.md)
 * [Neglected mental health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
@@ -106,6 +106,6 @@
 ## Risk affecting this stakeholder
 
 * [Impact of population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1714.md)
-* [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
 * [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1591.md)
+* [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
 

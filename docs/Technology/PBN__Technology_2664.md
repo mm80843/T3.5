@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3442.md)
+* [Anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2666.md)
 * [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3318.md)
-* [Use of anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4794.md)
+* [Selection of anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1727.md)
 * [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_228.md)
 * [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2704.md)
 * [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_787.md)
-* [Antimicrobial indoor finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4796.md)
-* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4037.md)
-* [Use of hygienic and anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4797.md)
+* [Anti-bacterial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3126.md)
 * [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1023.md)
+* [Antimicrobial additives for indoor finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3478.md)
 
 ## This Technology enables the following mitigations
 

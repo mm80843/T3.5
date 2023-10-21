@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4444.md)
-* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4432.md)
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4464.md)
-* [Value management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4465.md)
-* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4466.md)
-* [Integrated management and planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4082.md)
-* [Effective healthcare management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3763.md)
-* [Risk management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3724.md)
-* [Facility management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4106.md)
+* [Personnel management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3361.md)
+* [Management problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_416.md)
+* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3581.md)
+* [Workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_720.md)
+* [Difficulties in management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1514.md)
+* [Business](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3624.md)
+* [Urban management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2388.md)
 * [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_721.md)
+* [Political mismanagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1018.md)
+* [Control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3270.md)
 
 ## Description of the risk
 

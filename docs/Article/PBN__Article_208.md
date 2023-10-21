@@ -61,9 +61,9 @@ Data capture and sharing in the COVID-19 pandemic: a cause for concern
 
 * [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
 * [Data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
+* [Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_521.md)
 * [Data governance agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_515.md)
 * [Reporting standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_519.md)
-* [Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_521.md)
 * [Audit and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_516.md)
 * [Standardized data recording structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_518.md)
 * [Electronic health record systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_513.md)

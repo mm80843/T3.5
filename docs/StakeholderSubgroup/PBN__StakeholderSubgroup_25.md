@@ -15,16 +15,16 @@
 * [Geographical areas](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_118.md)
 * [Technology and innovation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_61.md)
 * [Business and financial services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
-* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_610.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_180.md)
 * [Unions and organizations](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_20.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_237.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_175.md)
 
 ## Stakeholders in this stakeholder subgroup
 
+* [Workers in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1683.md)
 * [Workers in the service industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1681.md)
 * [Workers in the manufacturing sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1667.md)
 * [Workers in the tourism industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1734.md)
-* [Workers in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1683.md)
 * [Workers in affected industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1472.md)
 * [Workers in the hospitality industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1760.md)
 * [Workers in poorly ventilated work environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_833.md)

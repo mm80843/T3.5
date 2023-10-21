@@ -18,8 +18,8 @@ IBEM provides real-time monitoring and feedback on indoor temperature and humidi
 
 ## Stakeholders benefitting from this Benefit
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_92.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Risks which can benefit from this action
 

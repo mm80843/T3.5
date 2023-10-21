@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_363.md)
-* [Raise awareness about energy conservation and promote energy-saving behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_364.md)
-* [Raise awareness about energy conservation and promote energy-efficient designs and behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_365.md)
-* [Increasing public awareness towards energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_366.md)
-* [Conduct energy-saving education and awareness campaigns, provide energy feedback to occupants, and implement behavior change programs.](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_367.md)
-* [Encourage energy efficiency practices, educate households on energy use, and promote the use of energy-efficient appliances.](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_368.md)
-* [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_369.md)
-* [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_370.md)
-* [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_371.md)
-* [Continue implementing social distancing measures and transitioning to cleaner energy sources.](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_372.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_179.md)
+* [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_63.md)
+* [Conservation](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_160.md)
+* [Work and living environment](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_103.md)
+* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_39.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_180.md)
+* [Fitness and sports](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_56.md)
+* [Sustainability and environment](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_115.md)
+* [Ecology](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_165.md)
+* [Advocacy and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_164.md)
 
 ## Stakeholders in this stakeholder subgroup
 
@@ -34,6 +34,6 @@
 * [Energy manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1887.md)
 * [Energy modelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1008.md)
 * [Energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1007.md)
-* [Energy modeler](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2012.md)
 * [Energy assistance program](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2001.md)
+* [Energy modeler](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2012.md)
 

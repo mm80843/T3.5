@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3758.md)
 * [Collaborative platforms and networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3652.md)
 * [Social networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1535.md)
-* [Social network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3790.md)
 * [Collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1130.md)
-* [Collaborative projects](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3757.md)
-* [Solidarity networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3791.md)
 * [Collaborative tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2266.md)
 * [Network of partners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2809.md)
 * [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [Collaboration among experts from various fields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_919.md)
+* [Research collaborations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_466.md)
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2679.md)
 
 ## This Technology belongs to this TechGroup
 

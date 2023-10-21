@@ -62,6 +62,6 @@ Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1878.md)
 * [Uv germicidal irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1877.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1878.md)
 

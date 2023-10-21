@@ -15,7 +15,7 @@
 * [Risk of adverse effects from anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1173.md)
 * [High cost of replacing steel surfaces with copper bulk parts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_55.md)
 * [Material shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_555.md)
-* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3626.md)
+* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
 * [Insufficient knowledge of covid-19 inactivation mechanisms on copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1484.md)
 * [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1127.md)
 

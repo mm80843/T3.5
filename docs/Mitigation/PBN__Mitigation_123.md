@@ -36,6 +36,6 @@ Ensuring access to green spaces in the neighbourhood can promote mental health a
 ## This Mitigation is enabled by the following technologies
 
 * [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
-* [Green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
 * [Parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1738.md)
+* [Green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
 

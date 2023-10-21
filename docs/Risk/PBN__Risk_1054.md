@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3850.md)
-* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3851.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3656.md)
-* [Implement wastewater-based epidemiology wbe , target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3852.md)
+* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3555.md)
+* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3556.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
+* [Implement wastewater-based epidemiology wbe , target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3557.md)
 * [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1895.md)
 * [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_365.md)
-* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3853.md)
-* [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3854.md)
+* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3558.md)
+* [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3559.md)
 * [Improper disposal of infectious hospital wastes and wastewater could cause serious risks to public health and environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_665.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3855.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3560.md)
 
 ## Description of the risk
 

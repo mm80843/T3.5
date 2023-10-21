@@ -43,9 +43,9 @@ Breakdown of global and local supply chains during outbreaks
 ## Mitigations of this risk
 
 * [Diversifying suppliers, local sourcing, implementing contingency plans for supply chain disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2837.md)
+* [Diversify supply sources, strengthen local production capabilities, implement emergency stockpiling measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1575.md)
 * [Diversify supply chains, localize production, enhance transparency and resilience in supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2902.md)
 * [Diversifying supply chains, increasing local production, implementing alternative sourcing strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2449.md)
-* [Diversify supply sources, strengthen local production capabilities, implement emergency stockpiling measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1575.md)
 
 ## Name of the risk
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Use of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3957.md)
-* [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3958.md)
-* [Outdoor design and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3959.md)
-* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3960.md)
-* [Availability of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3961.md)
-* [Increased outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3962.md)
 * [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2641.md)
-* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3963.md)
 * [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1269.md)
-* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3964.md)
+* [Outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_250.md)
+* [Outdoor seating areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2221.md)
+* [Outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_145.md)
+* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2800.md)
+* [Temporary parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2067.md)
+* [Gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1783.md)
+* [Outdoor terraces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_847.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -16,8 +16,8 @@ Outdoor spaces can serve as places for recreation, physical activity, and fresh 
 
 ## Stakeholders benefitting from this Benefit
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Risks which can benefit from this action
 

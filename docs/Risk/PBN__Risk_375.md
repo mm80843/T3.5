@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Nonevidence-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2741.md)
-* [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4122.md)
+* [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3583.md)
 * [Limited acceptance of measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2653.md)
 * [Lack of evidence synthesis and filtering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_394.md)
 * [Lack of evidence-based policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3207.md)

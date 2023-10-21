@@ -12,7 +12,7 @@
 * [Environmental-based](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2083.md)
 * [Environmental degradation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1335.md)
 * [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3617.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
 * [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2129.md)
 * [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
 * [Contaminated environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3229.md)

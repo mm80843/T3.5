@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3813.md)
-* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4055.md)
-* [Healthy building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3811.md)
-* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3809.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
 * [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_797.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3810.md)
-* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4028.md)
-* [Multi-functional buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4056.md)
-* [Sustainable building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4024.md)
-* [Enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4057.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
+* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1059.md)
+* [Challenges in adaptation of building envelope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_790.md)
+* [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
+* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3474.md)
+* [Inefficiency in building systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_979.md)
+* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1060.md)
 
 ## Mitigations of this risk
 

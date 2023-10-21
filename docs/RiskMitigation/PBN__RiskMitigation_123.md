@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Implement efficient data management nan strategies and nan nan robust data nan nan nan governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2730.md)
+* [Implement quality control measures nan to ensure accurate nan nan and reliable data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2732.md)
+* [Implement strong security measures nan to protect data nan nan and privacy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2728.md)
+* [Hygiene and sanitation measures, promotion of nan social distancing and nan nan vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2970.md)
+* [Limiting the number of people in public spaces and nan implementing social nan nan distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2972.md)
+* [Adopt common protocols and nan standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2731.md)
+* [Implement data filtering and nan analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2734.md)
+* [Implement robust cybersecurity nan measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2733.md)
+* [To green spaces, creating new green spaces in urban nan areas, promoting outdoor nan nan activities within lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2976.md)
 * [Ensure reliable connectivity and nan data transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2729.md)
-* [Sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4439.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3220.md)
-* [Water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3887.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3222.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3293.md)
-* [Nanotechnology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4440.md)
-* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3190.md)
-* [Copper coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4441.md)
-* [Age](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4442.md)
 
 ## Benefits linked to a risk
 
@@ -62,6 +62,6 @@
 * [Increased residential energy consumption during the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_369.md)
 * [Lack of incentive for building owners to invest in ieq improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_570.md)
 * [Time spent at home during](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_871.md)
-* [And capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_773.md)
 * [Social and economic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_776.md)
+* [And capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_773.md)
 

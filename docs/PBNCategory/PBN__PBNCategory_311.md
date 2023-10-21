@@ -5,10 +5,10 @@
 ## Items covered in this category
 
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_123.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_124.md)
-* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_125.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_126.md)
-* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_128.md)
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_364.md)
+* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_46.md)
+* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_94.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_91.md)
+* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_92.md)
+* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_93.md)
+* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_96.md)
 

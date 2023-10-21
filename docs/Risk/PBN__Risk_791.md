@@ -12,7 +12,7 @@
 * [Inadequate natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1445.md)
 * [Overreliance on artificial lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_112.md)
 * [Inadequate lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1116.md)
-* [Lighting and hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3782.md)
+* [Lighting and hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3530.md)
 * [Poor lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_127.md)
 * [Insufficient lighting and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_953.md)
 * [Inadequate natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1087.md)

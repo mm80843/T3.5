@@ -10,8 +10,8 @@
 
 * [Client confidence in project completion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_501.md)
 * [Lack of confidence in service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3134.md)
-* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4344.md)
-* [Provide information to reduce perceived risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3744.md)
+* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
+* [Provide information to reduce perceived risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3513.md)
 * [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2389.md)
 * [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1600.md)
 * [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1153.md)

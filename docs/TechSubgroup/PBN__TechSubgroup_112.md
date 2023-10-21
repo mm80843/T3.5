@@ -23,11 +23,11 @@
 
 * [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
 * [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_638.md)
+* [Improved wireless communication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1569.md)
 * [Communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_737.md)
 * [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
 * [Remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
 * [Geographic information systems gis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_539.md)
 * [Internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_570.md)
 * [Improved connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1384.md)
-* [Improved wireless communication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1569.md)
 

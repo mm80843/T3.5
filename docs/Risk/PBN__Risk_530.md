@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [Individual responsibility for travel choices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_531.md)
-* [Sustainable practices and renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3543.md)
+* [Sustainable practices and renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3448.md)
 * [Travel and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2005.md)
-* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3737.md)
+* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3509.md)
 * [Financial sustainability of energy providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3256.md)
 * [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2057.md)
 * [Lack of sustainable development plans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3203.md)
-* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3472.md)
+* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
 * [Expanding urbanization and international travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1983.md)
 * [Lack of environmental management and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_946.md)
 

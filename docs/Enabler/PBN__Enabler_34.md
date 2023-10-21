@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [5g cellular technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_45.md)
-* [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_46.md)
-* [Invest in 5g infrastructure, expand network coverage, prioritize high-bandwidth areas.](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_47.md)
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_48.md)
-* [Wireless data transmission 3g](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_43.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_49.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_50.md)
-* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_51.md)
-* [Enhanced communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_52.md)
-* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_53.md)
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
+* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_33.md)
+* [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_35.md)
+* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_36.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_43.md)
+* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_44.md)
+* [Mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_37.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
+* [Mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_45.md)
+* [Massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_38.md)
 

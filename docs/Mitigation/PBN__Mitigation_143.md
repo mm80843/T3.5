@@ -33,6 +33,6 @@ Establishing guidelines for social distancing helps prevent the spread of contag
 
 ## This Mitigation is enabled by the following technologies
 
-* [Community policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
 * [Awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2227.md)
+* [Community policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
 

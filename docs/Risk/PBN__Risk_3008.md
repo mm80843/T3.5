@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Dilution and removal of infectious particles in room air through ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3659.md)
+* [Airborne transmission of infectious microorganisms indoors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_336.md)
+* [Lack of air disinfection in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_274.md)
+* [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_943.md)
 * [Virus transmission through aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_509.md)
+* [Aerosol transmission in dry environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2840.md)
 * [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_337.md)
-* [Implement proper ventilation systems to reduce aerosol concentration in enclosed spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4247.md)
+* [Airborne transmission of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2674.md)
+* [Spread of other airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2272.md)
 * [Covid-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1137.md)
-* [Research on aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3624.md)
-* [Transmission of covid-19 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_225.md)
-* [Disinfection of indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4248.md)
-* [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3625.md)
-* [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4249.md)
+* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
 
 ## Mitigations of this risk
 

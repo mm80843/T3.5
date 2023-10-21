@@ -4,14 +4,14 @@
 
 ## Items covered in this category
 
-* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_128.md)
-* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_75.md)
+* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_73.md)
 * [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_167.md)
-* [Social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_605.md)
-* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_606.md)
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_607.md)
-* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_608.md)
-* [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_168.md)
-* [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_609.md)
+* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_47.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_88.md)
+* [Social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_231.md)
+* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_185.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_232.md)
+* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_233.md)
+* [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_89.md)
+* [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_90.md)
 

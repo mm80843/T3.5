@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3765.md)
 * [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
 * [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_406.md)
-* [Suspension of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3769.md)
-* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3766.md)
-* [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3767.md)
-* [Increase public transport capacity to ensure physical distancing, provide alternative transport options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3770.md)
-* [Suspension of intracity public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4004.md)
-* [Promote active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3768.md)
+* [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1209.md)
+* [Impact on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_916.md)
+* [Overcrowding on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_528.md)
+* [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1451.md)
 * [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
+* [Increased contact in public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2845.md)
+* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1211.md)
+* [Decreased demand for public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2782.md)
 
 ## Mitigations of this risk
 

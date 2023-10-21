@@ -35,6 +35,6 @@ Topical repellents are applied directly to the skin to repel mosquitoes and prev
 
 * [Such as deet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3661.md)
 * [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3660.md)
-* [Picaridin](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3662.md)
 * [Or oil of lemon eucalyptus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3663.md)
+* [Picaridin](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3662.md)
 

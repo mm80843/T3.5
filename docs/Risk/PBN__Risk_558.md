@@ -9,12 +9,12 @@
 ## Closest similar item
 
 * [Protection of innovative startups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_565.md)
-* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3431.md)
-* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
+* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
 * [Policy measures to support startups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_564.md)
-* [Phasing out of lockdown with local strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4552.md)
+* [Phasing out of lockdown with local strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3420.md)
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1866.md)
-* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
 * [Exclusion of startups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2823.md)
 * [The lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_872.md)
 * [Delay in works due to lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_498.md)

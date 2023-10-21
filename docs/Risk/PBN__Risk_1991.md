@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_708.md)
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
+* [Crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3223.md)
+* [Economic crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_231.md)
 * [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
+* [Economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2002.md)
 * [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2454.md)
+* [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
+* [Psychological tensions and social conflicts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_526.md)
 * [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1074.md)
-* [Social and economic equality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3443.md)
-* [Social and demographic change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_737.md)
-* [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
-* [Social justice and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3259.md)
-* [Social distancing of the entire population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3572.md)
-* [Social equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
 
 ## Description of the risk
 

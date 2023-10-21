@@ -8,12 +8,12 @@
 
 ## Closest similar item
 
-* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3845.md)
+* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3552.md)
 * [High energy consumption of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_600.md)
 * [Hvac systems failure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1753.md)
 * [Contamination of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1788.md)
 * [Inadequate maintenance and operation of hvac systems and components](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3017.md)
-* [Lighting and hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3782.md)
+* [Lighting and hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3530.md)
 * [Challenges in ventilation and air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_792.md)
 * [Inadequate pressure levels in existing hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2655.md)
 * [Increased hvac loads during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1553.md)

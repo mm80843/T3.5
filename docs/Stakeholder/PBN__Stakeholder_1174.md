@@ -17,7 +17,7 @@
 * [Lower-income households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1251.md)
 * [Individuals living in substandard housing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_607.md)
 * [Vulnerable households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_254.md)
-* [Housing policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3496.md)
+* [Housing policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2777.md)
 
 ## Risk affecting this stakeholder
 

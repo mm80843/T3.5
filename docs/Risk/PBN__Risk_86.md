@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3743.md)
+* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3517.md)
 * [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_985.md)
 * [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
 * [Internal risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1757.md)
@@ -16,7 +16,7 @@
 * [Psychological risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
 * [Inefficient usage and risk behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2779.md)
 * [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2103.md)
-* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3717.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3501.md)
 * [Time risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_88.md)
 
 ## Description of the risk

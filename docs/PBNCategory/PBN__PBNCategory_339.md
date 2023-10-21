@@ -4,7 +4,7 @@
 
 ## Items covered in this category
 
-* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_170.md)
-* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_104.md)
-* [Education materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_291.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_70.md)
+* [Education materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_72.md)
+* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_75.md)
 

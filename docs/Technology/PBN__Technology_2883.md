@@ -17,7 +17,7 @@
 * [Portable air conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3380.md)
 * [In hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_681.md)
 * [Hvac technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_489.md)
-* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3845.md)
+* [Hvac and air quality systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3752.md)
 
 ## This Technology enables the following mitigations
 

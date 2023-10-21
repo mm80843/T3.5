@@ -42,8 +42,8 @@ Spread of COVID-19 within built environment
 
 ## Mitigations of this risk
 
-* [Maintain social distancing, hygiene practices, and proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1530.md)
 * [Adherence to safety measures such as wearing masks and practicing social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1690.md)
+* [Maintain social distancing, hygiene practices, and proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1530.md)
 * [Rapid isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_991.md)
 * [Cordon sanitaire](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_993.md)
 

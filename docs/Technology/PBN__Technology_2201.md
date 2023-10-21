@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4010.md)
-* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4741.md)
+* [Control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
+* [Individual controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_195.md)
 * [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3156.md)
+* [Voice control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3474.md)
+* [Source control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3271.md)
+* [Crowd control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2651.md)
+* [Control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1103.md)
 * [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
-* [Evaluating control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4742.md)
-* [Management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4328.md)
-* [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4743.md)
-* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2193.md)
-* [Controlling source](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4744.md)
-* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4745.md)
+* [Remote control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3482.md)
+* [Controlled access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3554.md)
 
 ## This Technology enables the following mitigations
 

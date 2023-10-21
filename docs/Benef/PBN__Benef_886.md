@@ -27,6 +27,6 @@ Access to nature and green spaces can improve mental and physical health, reduci
 ## Risks which can benefit from this action
 
 * [Provide access to nature and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_886.md)
-* [Balcony design and biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1336.md)
 * [Installation of green roofs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1264.md)
+* [Balcony design and biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1336.md)
 

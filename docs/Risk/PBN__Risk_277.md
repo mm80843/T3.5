@@ -13,10 +13,10 @@
 * [Poor air and surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
 * [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
 * [Lack of effective disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4182.md)
-* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4176.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3587.md)
+* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3585.md)
 * [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4168.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
 * [Insufficient disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
 
 ## Mitigations of this risk

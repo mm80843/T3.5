@@ -66,10 +66,10 @@ How loneliness is talked about in social media during COVID-19 pandemic: Text mi
 * [Video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_426.md)
 * [Social media monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_564.md)
 * [Surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
+* [Research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
 * [Validation studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_903.md)
 * [Translation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_901.md)
 * [Multilingual social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
 * [Comparative data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_902.md)
-* [Research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
 * [Interviews](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_899.md)
 

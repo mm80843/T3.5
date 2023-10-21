@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Continuously monitor and evaluate the impact of interventions, adjust policies accordingly](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4661.md)
+* [Policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3268.md)
 * [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2808.md)
-* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4662.md)
-* [Government policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4060.md)
-* [Implement adaptive policies based on surveillance data to trigger interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4663.md)
-* [Implementing public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4664.md)
-* [Behavioral interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4665.md)
-* [Tailored policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4066.md)
-* [Behavior change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4666.md)
-* [Ineffective mitigation policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4061.md)
+* [Policy support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1607.md)
+* [Policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
+* [Policy engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_160.md)
+* [Targeted interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1277.md)
+* [Government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2781.md)
+* [Tailored interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
+* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
+* [Policy advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_451.md)
 
 ## This Technology enables the following mitigations
 

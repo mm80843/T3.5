@@ -10,7 +10,7 @@
 
 * [Develop climate-specific adaptations and technologies, incorporate renewable energy sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2754.md)
 * [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_665.md)
-* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3370.md)
+* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3179.md)
 * [Highlight the permanent nature of climate change and the need for permanent transformations in various aspects of society.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1905.md)
 * [Infrastructure development and planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_668.md)
 * [Implement sustainable land use practices, protect and restore ecosystems, and mitigate climate change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1835.md)

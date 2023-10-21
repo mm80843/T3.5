@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3840.md)
-* [Monitoring temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3839.md)
-* [Temperature testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3837.md)
-* [Robot-assisted temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5261.md)
-* [Temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
-* [Temperature checks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3838.md)
-* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
-* [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3844.md)
-* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5346.md)
-* [Implementation of thermal imaging cameras and temperature screening protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3841.md)
+* [Thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3131.md)
+* [Infrared thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2468.md)
+* [Infrared thermometer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2694.md)
+* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
+* [Temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_359.md)
+* [Temperature detection devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2422.md)
+* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1298.md)
+* [Temperature monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3319.md)
+* [Temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1459.md)
+* [Thermographic cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3296.md)
 
 ## This Technology enables the following mitigations
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Mobile technology applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4365.md)
-* [Mobile technology in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5239.md)
-* [Mobile technology in education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4982.md)
-* [Smartphone technology in research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5240.md)
-* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2690.md)
-* [Mobile healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5241.md)
-* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4364.md)
-* [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3910.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2405.md)
+* [Mobile app technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2374.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
+* [Mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)
+* [Mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+* [Mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
+* [Mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3624.md)
+* [Mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1689.md)
+* [Mobile interface](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2613.md)
+* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3353.md)
 
 ## This Technology enables the following mitigations
 

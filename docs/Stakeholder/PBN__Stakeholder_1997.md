@@ -10,7 +10,7 @@
 
 * [Merchant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1921.md)
 * [Street vendors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_490.md)
-* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2648.md)
+* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2583.md)
 * [Retailers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_323.md)
 * [Retail businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_418.md)
 * [Retailer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1833.md)

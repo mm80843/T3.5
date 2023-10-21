@@ -24,6 +24,7 @@
 * [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
 * [Gastrointestinal monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_999.md)
 * [Virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_68.md)
+* [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
 * [Widespread testing programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1941.md)
 * [Home-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_63.md)
 * [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_64.md)
@@ -31,7 +32,6 @@
 * [Combination of vital sign screening and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1940.md)
 * [Monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1743.md)
 * [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
-* [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
 * [Rapid and reliable covid-19 testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_792.md)
 * [Vital sign monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2074.md)
 

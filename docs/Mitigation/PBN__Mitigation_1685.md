@@ -34,6 +34,6 @@ Designing neighbourhoods with accessible outdoor spaces to promote physical acti
 ## This Mitigation is enabled by the following technologies
 
 * [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
-* [Green areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3246.md)
 * [Parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1738.md)
+* [Green areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3246.md)
 

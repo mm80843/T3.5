@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [Portable medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_953.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2470.md)
+* [Medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1250.md)
+* [Proper equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2261.md)
+* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2127.md)
+* [Laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3038.md)
+* [Medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2131.md)
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
 * [Use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_556.md)
-* [Providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3803.md)
-* [Equipping personnel with protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4525.md)
-* [Medical staff training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4526.md)
-* [Tracking medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4527.md)
-* [Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4528.md)
-* [Design venues with large, flexible spaces and prioritize medical equipment.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4529.md)
-* [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4530.md)
-* [Stocking up on necessary medical supplies, personal protective equipment, and establishing protocols for infection control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4531.md)
 
 ## This Technology enables the following mitigations
 

@@ -17,7 +17,7 @@
 * [Financial impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_553.md)
 * [Financial difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2808.md)
 * [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
-* [Smes’ difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4463.md)
+* [Smes’ difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3623.md)
 
 ## Mitigations of this risk
 

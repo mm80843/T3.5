@@ -26,6 +26,7 @@
 * [Such as hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_673.md)
 * [Public hospital](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1672.md)
 * [Essential service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_156.md)
+* [Labor organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1365.md)
 * [Professional organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1332.md)
 * [Domestic abuse charity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1641.md)
 * [Labor unions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_904.md)
@@ -35,6 +36,5 @@
 * [Such a employee](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1746.md)
 * [Such a hospital](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1744.md)
 * [Such as homes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1123.md)
-* [Labor organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1365.md)
 * [Pest control companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1096.md)
 

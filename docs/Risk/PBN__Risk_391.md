@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Lack of understanding of factors influencing building energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_977.md)
-* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4350.md)
+* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3612.md)
 * [Increased energy consumption in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2270.md)
 * [High energy consumption in unoccupied buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_976.md)
 * [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_328.md)
 * [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
 * [Inadequate energy modeling for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1556.md)
 * [Lack of information on energy performance of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_980.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
 * [Energy supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3293.md)
 
 ## Mitigations of this risk

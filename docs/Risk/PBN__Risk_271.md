@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3487.md)
-* [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3842.md)
-* [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3486.md)
-* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3485.md)
+* [Flexible public places to support essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_268.md)
 * [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_270.md)
 * [Limited access nodes for better management of public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_263.md)
 * [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1606.md)
-* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4123.md)
-* [Designating community-level areas for essential services and supplies.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4234.md)
 * [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_267.md)
+* [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_269.md)
+* [Exclusion of local communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2552.md)
+* [Low accessibility to green areas for low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_944.md)
+* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
+* [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_522.md)
 
 ## Description of the risk
 

@@ -50,8 +50,8 @@ Higher population flow increases the transmission potential of diseases between 
 ## Stakeholders who can mitigate this risk
 
 * [Government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [Immigration authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1072.md)
 * [Transportation authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_944.md)
+* [Immigration authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1072.md)
 
 ## Articles mentionning the risk
 

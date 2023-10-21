@@ -33,8 +33,8 @@ Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and 
 ## List of risks in an article
 
 * [Low data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2283.md)
-* [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
 * [Lack of coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2284.md)
+* [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
 * [Outdated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2282.md)
 * [Misalignment of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
 
@@ -49,10 +49,10 @@ Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and 
 * [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
 * [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
 * [Information sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1896.md)
+* [Data encryption tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1899.md)
 * [Data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
 * [Data integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1897.md)
 * [Collaboration platforms for information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1893.md)
-* [Data encryption tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1899.md)
 * [Expert review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1895.md)
 * [Data validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1894.md)
 * [Validation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1898.md)

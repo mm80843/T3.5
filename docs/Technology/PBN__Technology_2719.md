@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Integration of multiple measurement methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5349.md)
-* [Value integrated bidding process](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5350.md)
-* [Participative design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5351.md)
-* [Willing co-operation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5352.md)
-* [Challenges in centralized and federated approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5325.md)
-* [Targeted operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5353.md)
-* [Implementing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3804.md)
-* [Induction process online](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5354.md)
-* [Using multiple data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5355.md)
-* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4171.md)
+* [Multi-factor authentication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1862.md)
+* [Authentication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_398.md)
+* [Advanced testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_801.md)
+* [Rule-based methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
+* [Communication methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_463.md)
+* [Development of new testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_462.md)
+* [Tcid50 technique](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2713.md)
+* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
+* [Encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
+* [Development of various vaccine strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1958.md)
 
 ## This Technology enables the following mitigations
 

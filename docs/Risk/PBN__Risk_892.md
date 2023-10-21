@@ -13,9 +13,9 @@
 * [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
 * [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_325.md)
 * [Inadequate maintenance and management of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1808.md)
-* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3472.md)
+* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
 * [Lack of knowledge about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1806.md)
-* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3473.md)
+* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
 * [Lack of green space in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_141.md)
 * [Lack of gardening/activity in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
 

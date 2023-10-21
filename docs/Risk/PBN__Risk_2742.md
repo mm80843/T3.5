@@ -15,7 +15,7 @@
 * [Pandemic containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_706.md)
 * [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
 * [False sense of security from preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1812.md)
-* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3602.md)
+* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3455.md)
 * [Lack of compliance with preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3348.md)
 * [Ineffective use of isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_547.md)
 

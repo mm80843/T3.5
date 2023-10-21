@@ -33,6 +33,6 @@ Wearable devices with stress detection systems and AI algorithms can help monito
 
 ## This Mitigation is enabled by the following technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 

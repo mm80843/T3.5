@@ -15,7 +15,7 @@
 * [Data validation and quality control nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1573.md)
 * [Quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_83.md)
 * [Data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1317.md)
-* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3924.md)
+* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3758.md)
 * [Quality control tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_690.md)
 * [Data validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1894.md)
 

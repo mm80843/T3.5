@@ -10,7 +10,7 @@
 
 * [Transparent and consistent communication, providing accurate and timely information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1794.md)
 * [Monitor data sources to ensure they provide consistent and accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3066.md)
-* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3747.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3211.md)
 * [Implement comprehensive testing and reporting strategies, improve data collection and analysis systems, and strengthen communication channels between healthcare providers and public health authorities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1861.md)
 * [Regular updates and validation of data sources, collaboration with reliable sources for real-time information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2998.md)
 * [Improving data quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_773.md)

@@ -45,12 +45,12 @@ The Role of Architecture and Urbanism in Preventing Pandemics
 
 * [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
 * [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
-* [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
 * [Inadequate public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
+* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1591.md)
+* [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
 * [Lack of access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1592.md)
 * [Lack of effective pharmaceutical response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1589.md)
 * [Insufficient non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
-* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1591.md)
 
 ## This article points to following mitigation
 
@@ -76,10 +76,10 @@ The Role of Architecture and Urbanism in Preventing Pandemics
 * [Zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_658.md)
 * [Urban design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
+* [Government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
 * [Landscape architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_121.md)
 * [Landscaping techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_921.md)
 * [Collaboration among experts from various fields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_919.md)
-* [Government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
 * [Vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_915.md)
 * [International coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_918.md)
 * [Drug resistance surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_916.md)

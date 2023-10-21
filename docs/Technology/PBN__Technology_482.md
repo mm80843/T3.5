@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Wearing facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5069.md)
-* [Smart facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5070.md)
 * [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
-* [Face mask](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3898.md)
-* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3899.md)
-* [Face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4882.md)
-* [Face masking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3901.md)
-* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3900.md)
+* [Facemasks or respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2513.md)
+* [Smart facemask technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2389.md)
 * [Masks or face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2292.md)
 * [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1051.md)
+* [Face mask usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1989.md)
+* [Face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_484.md)
+* [Surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2723.md)
+* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3473.md)
+* [Cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3705.md)
 
 ## This Technology belongs to this TechGroup
 

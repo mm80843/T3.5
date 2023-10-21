@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2878.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
 * [Digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1558.md)
 * [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3135.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
 * [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
+* [Surveillance camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2400.md)
 * [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
+* [Video and audio surveillance solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2947.md)
 * [Surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2852.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1961.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
-* [Digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3647.md)
-* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1844.md)
 
 ## This Technology enables the following mitigations
 

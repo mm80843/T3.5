@@ -15,7 +15,7 @@
 * [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2159.md)
 * [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2861.md)
 * [Inadequate healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3185.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3757.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
 * [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
 * [Lack of effective treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1849.md)
 

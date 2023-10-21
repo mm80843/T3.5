@@ -13,11 +13,11 @@
 * [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
 * [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1814.md)
 * [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_262.md)
+* [Research methodology improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
 * [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1159.md)
-* [Timely research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4861.md)
-* [Adjusting research design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4862.md)
-* [Research and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4690.md)
-* [Collect more data, conduct larger studies for more solid conclusions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4863.md)
+* [Research funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2739.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_312.md)
+* [Research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
 
 ## This Technology enables the following mitigations
 

@@ -12,23 +12,23 @@ enabler_018
 
 ## Closest similar item
 
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_551.md)
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_552.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_553.md)
-* [Telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_554.md)
-* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_555.md)
-* [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_556.md)
-* [Telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_557.md)
-* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_558.md)
-* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_559.md)
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_484.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_209.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_210.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_211.md)
+* [Telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_212.md)
+* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_213.md)
+* [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_214.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_184.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_215.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_23.md)
+* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_216.md)
 
 ## Thees blueprints use this enabler
 
 * [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
 * [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Telemedecine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3737.md)
 

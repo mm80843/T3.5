@@ -15,8 +15,8 @@
 * [Building health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1094.md)
 * [Health disparities and equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1179.md)
 * [Housing conditions and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1178.md)
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
-* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3422.md)
+* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
 * [Open green spaces in urban periphery providing resilience to public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_893.md)
 
 ## Description of the risk

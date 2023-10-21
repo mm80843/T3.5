@@ -24,7 +24,7 @@
 * [Social inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_858.md)
 * [Social equity disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1410.md)
 * [Food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1856.md)
+* [Inequality in access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
 * [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
 * [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
-* [Inequality in access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2225.md)
 

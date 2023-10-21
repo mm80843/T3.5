@@ -10,12 +10,12 @@
 
 * [Regulatory body](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1596.md)
 * [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_706.md)
-* [Universal design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2621.md)
+* [Universal design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2665.md)
 * [Government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_973.md)
 * [Organizations developing data standards](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1462.md)
 * [Medical equipment manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_546.md)
-* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2761.md)
-* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2791.md)
+* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2611.md)
+* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2613.md)
 * [Global governing bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_50.md)
 * [Policy bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1403.md)
 

@@ -42,10 +42,10 @@ Extended stay in buildings during lockdowns has led to increased energy consumpt
 
 ## Mitigations of this risk
 
+* [Use more energy-efficient building designs, integrate energy-saving technologies , dbaf .](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2997.md)
 * [Optimized operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1026.md)
 * [Optimize occupant presence schedules, improve energy efficiency of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2336.md)
 * [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_456.md)
-* [Use more energy-efficient building designs, integrate energy-saving technologies , dbaf .](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2997.md)
 * [High ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1291.md)
 * [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2075.md)
 * [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2076.md)
@@ -74,10 +74,10 @@ Higher carbon emissions, increased costs
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
 * [Society](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_53.md)
 * [Energy managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1526.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 
 ## Technologies linked to the risk

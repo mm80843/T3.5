@@ -38,7 +38,7 @@ Reduce the need for individuals to leave their homes, minimizing the risk of vir
 
 * [Internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1209.md)
 * [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
+* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
 * [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
 * [Internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
-* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
 

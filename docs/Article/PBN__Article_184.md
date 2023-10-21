@@ -58,10 +58,10 @@ Coronavirus questions that will not go away: interrogating urban and socio-spati
 * [Investment in healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1499.md)
 * [Emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1498.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
+* [Testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1258.md)
 * [Sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1495.md)
 * [Remote work options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1496.md)
 * [Public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1497.md)
-* [Testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1258.md)
 * [Building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1493.md)
 * [Mixed-use development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1494.md)
 

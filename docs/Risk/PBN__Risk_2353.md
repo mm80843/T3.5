@@ -13,10 +13,10 @@
 * [Urban management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2388.md)
 * [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2050.md)
 * [Urban mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_17.md)
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3422.md)
 * [Increased recreational use in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_892.md)
-* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3471.md)
-* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
+* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
+* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
 * [Homogeneity in urban park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1604.md)
 
 ## Description of the risk

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Healthy building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4969.md)
-* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3881.md)
-* [Sustainable building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4970.md)
-* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3883.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4751.md)
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4290.md)
-* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4971.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
+* [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
+* [Building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2521.md)
+* [Building design and layout modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2671.md)
+* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
 * [Architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2784.md)
 * [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2617.md)
-* [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4968.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
+* [Building information modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2213.md)
 
 ## This Technology enables the following mitigations
 

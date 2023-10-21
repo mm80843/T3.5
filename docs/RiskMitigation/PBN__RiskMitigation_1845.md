@@ -14,7 +14,7 @@
 * [Establish ethical guidelines and ensure transparency, fairness, and accountability.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2780.md)
 * [Improve public awareness and understanding of the importance of prevention measures, enforce compliance with guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3091.md)
 * [Public health education and awareness campaigns, communication of guidelines and protocols through various channels, enforcement of regulations, and penalties for non-compliance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2230.md)
-* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3986.md)
+* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3274.md)
 * [Maintain clear communication, demonstrate safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2055.md)
 * [Clear and concise communication of guidelines and recommendations, providing examples and demonstrations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2411.md)
 * [Promote evidence-based decision-making, improve public health messaging, and address misinformation and conspiracy theories](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2115.md)

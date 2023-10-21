@@ -58,7 +58,7 @@
 * [Investment in local production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_943.md)
 * [Support for entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1802.md)
 * [Investment in emerging sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1798.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
 * [Online financial education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_429.md)
 * [Grant applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_447.md)
 * [Income support measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1510.md)

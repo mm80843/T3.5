@@ -12,14 +12,14 @@
 
 ## Closest similar item
 
-* [Disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3054.md)
 * [Disaster response teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2509.md)
 * [Emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1249.md)
 * [Disaster response team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2514.md)
 * [Emergency management agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2515.md)
+* [Emergency response agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_556.md)
+* [Emergency response agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2510.md)
 * [Crisis management teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_951.md)
+* [Emergency response teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_469.md)
 * [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2513.md)
-* [Investing in disaster risk reduction and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3055.md)
-* [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3056.md)
-* [Emergency facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3057.md)
+* [Emergency responders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_482.md)
 

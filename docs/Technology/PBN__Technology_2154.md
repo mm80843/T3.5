@@ -15,9 +15,9 @@
 * [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1143.md)
 * [Online educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2092.md)
 * [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3103.md)
-* [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_312.md)
-* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_262.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
+* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1154.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1117.md)
 
 ## This Technology enables the following mitigations
 

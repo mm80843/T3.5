@@ -33,6 +33,6 @@ Face recognition technology can be used to track individuals who may be infected
 
 ## This Mitigation is enabled by the following technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1355.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 

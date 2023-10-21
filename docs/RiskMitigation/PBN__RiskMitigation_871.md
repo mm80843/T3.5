@@ -9,9 +9,9 @@
 ## Closest similar item
 
 * [Implement targeted interventions and resources in areas with high risk factors, such as increased access to healthcare services, targeted education campaigns, and economic support for affected populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1850.md)
-* [Targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3787.md)
+* [Targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3241.md)
 * [Combination of multiple interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_409.md)
-* [Targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4565.md)
+* [Targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3230.md)
 * [Tailoring interventions to target regions, investment in technology and infrastructure, subsidised mobile phone plans, free wi-fi hotspots, training programs, use of devices that do not require continuous network access.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3043.md)
 * [Improved access to healthcare, public awareness and education, targeted interventions for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2679.md)
 * [Continuously monitor and evaluate the impact of interventions, adjust policies accordingly](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1885.md)

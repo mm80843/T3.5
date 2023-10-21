@@ -16,7 +16,7 @@
 * [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1203.md)
 * [Performance risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
 * [Risk connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_310.md)
-* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3719.md)
+* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
 * [Time constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3093.md)
 
 ## Description of the risk

@@ -17,7 +17,7 @@
 * [Limited access to expert knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_837.md)
 * [Lack of expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2440.md)
 * [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3329.md)
-* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3833.md)
+* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3546.md)
 
 ## Description of the risk
 

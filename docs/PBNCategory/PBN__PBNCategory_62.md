@@ -4,5 +4,5 @@
 
 ## Items covered in this category
 
-* [Smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_231.md)
+* [Smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_106.md)
 

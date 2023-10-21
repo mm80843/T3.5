@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2387.md)
-* [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4652.md)
 * [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2033.md)
-* [Data mining and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4653.md)
-* [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4654.md)
-* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4655.md)
-* [Artificial intelligence/machine learning ai/ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4228.md)
+* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3767.md)
 * [Ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_754.md)
 * [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
 * [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+* [Advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_173.md)
+* [Research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
+* [Deep learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3048.md)
+* [Computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3170.md)
 
 ## This Technology enables the following mitigations
 

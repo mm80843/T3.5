@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Free access to gym](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3684.md)
-* [Fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3583.md)
-* [Exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2919.md)
-* [Exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3685.md)
-* [Treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3686.md)
-* [Online fitness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3687.md)
-* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2831.md)
-* [Online fitness programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3688.md)
-* [Virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3689.md)
-* [Physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3690.md)
+* [Gym](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1967.md)
+* [Fitness trainers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_791.md)
+* [Free access to gym](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2808.md)
+* [Fitness industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1141.md)
+* [Fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2794.md)
+* [Exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2660.md)
+* [Athletes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1217.md)
+* [Especially individuals who relied on gyms or public spaces for exercise](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1144.md)
+* [Exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2809.md)
+* [Treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2810.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 

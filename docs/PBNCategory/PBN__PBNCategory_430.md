@@ -5,8 +5,8 @@
 ## Items covered in this category
 
 * [Individual in high-risk area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2133.md)
-* [Individuals living in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1416.md)
 * [Individuals in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2383.md)
+* [Individuals living in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1416.md)
 * [Residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1223.md)
 * [Individual living in urban area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2118.md)
 * [Residents of high-density districts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_38.md)
@@ -19,7 +19,7 @@
 * [Residents of underserved neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1229.md)
 * [Residents of less affluent neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_171.md)
 * [Individual in urban area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2359.md)
-* [Residents/visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2727.md)
+* [Residents/visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2606.md)
 * [Residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1294.md)
 * [Residents of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_95.md)
 * [Resident of informal settlement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2224.md)

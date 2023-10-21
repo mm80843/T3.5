@@ -35,8 +35,8 @@ Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construc
 
 * [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
 * [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
-* [Labour shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_730.md)
 * [Contractual problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_731.md)
+* [Labour shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_730.md)
 * [Insolvency risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1299.md)
 
 ## This article points to following mitigation

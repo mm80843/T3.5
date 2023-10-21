@@ -15,8 +15,8 @@
 * [Inadequate safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2631.md)
 * [Safety and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2424.md)
 * [Safety as an important factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1202.md)
-* [Personal safety and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3857.md)
-* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3605.md)
+* [Personal safety and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3562.md)
+* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3460.md)
 * [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
 
 ## Description of the risk

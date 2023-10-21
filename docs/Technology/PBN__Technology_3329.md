@@ -10,14 +10,14 @@
 
 * [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1419.md)
 * [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_386.md)
-* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4830.md)
-* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4978.md)
 * [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1447.md)
 * [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3233.md)
 * [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
 * [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3354.md)
-* [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4985.md)
-* [Telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4829.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1650.md)
+* [Telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3297.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
 
 ## This Technology enables the following mitigations
 

@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_367.md)
-* [Public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2745.md)
+* [Public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2607.md)
 * [Public areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_63.md)
 * [Public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_680.md)

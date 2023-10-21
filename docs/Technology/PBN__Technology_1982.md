@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4448.md)
-* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4292.md)
 * [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
-* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4300.md)
-* [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4554.md)
-* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4452.md)
-* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4449.md)
-* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4291.md)
-* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4555.md)
-* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4297.md)
+* [Green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
+* [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1617.md)
+* [Availability of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2828.md)
+* [Urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1618.md)
+* [Urban planning and design strategies for green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_453.md)
+* [Urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_840.md)
+* [Public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1220.md)
+* [Temporary parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2067.md)
+* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1871.md)
 
 ## This Technology belongs to this TechGroup
 

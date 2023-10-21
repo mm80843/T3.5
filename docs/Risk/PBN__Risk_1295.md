@@ -51,10 +51,10 @@ Increased heat, pollution, and mental health issues
 
 ## Stakeholders who can mitigate this risk
 
+* [Public health officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_818.md)
 * [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [City governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_354.md)
 * [Architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
-* [Public health officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_818.md)
 
 ## Articles mentionning the risk
 

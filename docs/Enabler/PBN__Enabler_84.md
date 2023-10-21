@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_84 
 
-# __Digitalisation__
+# __Big urban data__
 
 ## Category to which it belongs
 
-* [The collection consists of various digital devices and tools including wearable and mobile devices, as well as automated and vr devices, and digital imaging techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_53.md)
+* [Harnessing and analyzing extensive amounts of information, both structured and unstructured, for insights and patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_58.md)
 
 ## Closest similar item
 
-* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_83.md)
-* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_87.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_94.md)
-* [Expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_85.md)
-* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_88.md)
-* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_98.md)
-* [Digital services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_102.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_99.md)
-* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_86.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_89.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_77.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_9.md)
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_70.md)
+* [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_74.md)
+* [Data collection](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_85.md)
+* [Linked data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_174.md)
+* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_160.md)
+* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_75.md)
+* [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_78.md)
+* [Big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_83.md)
 

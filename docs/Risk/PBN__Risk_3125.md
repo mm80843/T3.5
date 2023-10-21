@@ -12,12 +12,12 @@
 * [Variability in disease severity in reinfected patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_863.md)
 * [Higher risk of reinfection in unvaccinated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_862.md)
 * [Unreported infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3124.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4168.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
 * [Inactivation of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3387.md)
 * [Virus inactivation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2459.md)
 * [Lack of air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1728.md)
 * [Persistence of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2778.md)
-* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4176.md)
+* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3585.md)
 
 ## Mitigations of this risk
 

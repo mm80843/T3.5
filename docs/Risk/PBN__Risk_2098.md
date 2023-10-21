@@ -13,7 +13,7 @@
 * [Negative physical effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_644.md)
 * [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_33.md)
 * [Isolation and quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2115.md)
-* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3539.md)
+* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3445.md)
 * [Negative psychological effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_643.md)
 * [Seeding events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3268.md)
 * [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)

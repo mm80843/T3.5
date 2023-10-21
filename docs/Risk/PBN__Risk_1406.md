@@ -60,8 +60,8 @@ Increased risk of airborne transmission of contagious diseases.
 ## People affected by this risk
 
 * [Customers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_221.md)
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

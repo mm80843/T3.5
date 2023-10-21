@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [And models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4890.md)
-* [Animal models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4891.md)
-* [Established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1345.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
-* [Topic modelling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4892.md)
-* [Semi-mechanistic bayesian hierarchical model](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4893.md)
-* [Develop models that integrate crowd dynamics with epidemiological modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4894.md)
-* [Introducing neighborhood-level processes in large-scale models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4895.md)
-* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4655.md)
-* [Cross-population ai models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3055.md)
+* [Mathematical modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_296.md)
+* [Computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3170.md)
+* [Statistical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)
+* [Modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1977.md)
+* [Statistical modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
+* [Simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1456.md)
+* [Advanced modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1199.md)
+* [Predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3160.md)
+* [Modeling and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3414.md)
+* [Diffusion models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2874.md)
 
 ## This Technology enables the following mitigations
 

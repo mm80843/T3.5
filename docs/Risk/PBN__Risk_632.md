@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
+* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3422.md)
 * [Urban mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_17.md)
-* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
+* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
 * [Urban management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2388.md)
 * [Future city planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_996.md)
-* [Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3836.md)
-* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3749.md)
+* [Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3549.md)
+* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3521.md)
 * [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
-* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3748.md)
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3520.md)
 
 ## Mitigations of this risk
 

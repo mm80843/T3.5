@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4006.md)
-* [Building information modelling bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4326.md)
 * [Building information model bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1041.md)
-* [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4008.md)
 * [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2617.md)
 * [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
 * [Integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2439.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4751.md)
+* [Building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2521.md)
+* [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
 * [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2065.md)
-* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4007.md)
+* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
 
 ## This Technology enables the following mitigations
 

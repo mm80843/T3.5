@@ -35,6 +35,6 @@ Using light-activated catalysts to accelerate the oxidation of airborne pathogen
 
 ## This Mitigation is enabled by the following technologies
 
-* [Photocatalysts such as tio2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2989.md)
 * [Photocatalyst tio2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2333.md)
+* [Photocatalysts such as tio2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2989.md)
 

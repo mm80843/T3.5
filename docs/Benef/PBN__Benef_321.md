@@ -20,9 +20,9 @@ IBEM continuously monitors CO2 and PM2.5 levels, allowing for real-time adjustme
 
 ## Stakeholders benefitting from this Benefit
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [Building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_430.md)
 
 ## Risks which can benefit from this action

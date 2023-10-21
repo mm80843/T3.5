@@ -4,9 +4,9 @@
 
 ## Items covered in this category
 
-* [Signage and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_916.md)
-* [Signage materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_918.md)
-* [Social distancing signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_919.md)
-* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_920.md)
-* [Clear signage and reminders](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_921.md)
+* [Signage and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_268.md)
+* [Signage materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_229.md)
+* [Social distancing signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_270.md)
+* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_234.md)
+* [Clear signage and reminders](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_271.md)
 

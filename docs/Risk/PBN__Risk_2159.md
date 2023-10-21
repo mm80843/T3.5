@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1025.md)
+* [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
 * [Hospital preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_360.md)
+* [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_515.md)
+* [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2861.md)
 * [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
-* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
-* [Healthcare system preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3759.md)
-* [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3760.md)
-* [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2416.md)
-* [Enhance healthcare capacity, stockpile medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3761.md)
-* [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_22.md)
-* [Improve working conditions and support for healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3762.md)
-* [Effective healthcare management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3763.md)
+* [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1318.md)
+* [Inadequate healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3185.md)
+* [Insufficient preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2157.md)
+* [Inadequate patient-centered care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1997.md)
 
 ## Description of the risk
 

@@ -11,7 +11,7 @@
 * [Voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2993.md)
 * [Voice recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3550.md)
 * [Control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
-* [Noise control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3851.md)
+* [Noise control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3753.md)
 * [Control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
 * [Individual controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_195.md)
 * [Voice and face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3497.md)

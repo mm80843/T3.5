@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Information filtering tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_934.md)
+* [Artificial intelligence for content filtering](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1859.md)
 * [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_192.md)
-* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3793.md)
 * [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1939.md)
-* [Information source selection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5231.md)
-* [Expert system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5232.md)
-* [Rule-based expert system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5233.md)
-* [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
-* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3908.md)
-* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
-* [Information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2318.md)
+* [Data tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2699.md)
+* [Fact-checking and content filtering](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3757.md)
+* [Data filtering and processing nan techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1575.md)
+* [Intelligent information feedback](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2011.md)
+* [Rule-based system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2397.md)
+* [Filtering devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3028.md)
 
 ## This technology is mentioned by
 

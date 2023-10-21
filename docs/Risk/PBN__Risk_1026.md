@@ -10,7 +10,7 @@
 
 * [Inadequate pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_700.md)
 * [Limited focus on pandemic preparedness in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2422.md)
-* [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3846.md)
+* [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3553.md)
 * [Inadequate global preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_726.md)
 * [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1572.md)
 * [Lack of planning and management for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2419.md)

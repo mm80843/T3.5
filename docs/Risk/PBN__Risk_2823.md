@@ -14,7 +14,7 @@
 * [Adversity facing innovative startups during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_558.md)
 * [Exclusion from support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2836.md)
 * [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1455.md)
-* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
 * [Unnecessary stand-by loads](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1401.md)
 * [Exclusion from government support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1587.md)
 * [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)

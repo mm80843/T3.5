@@ -16,7 +16,7 @@
 * [Hvac systems with this capability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3591.md)
 * [Ssd](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3340.md)
 * [Smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1004.md)
-* [Noise control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3851.md)
+* [Noise control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3753.md)
 * [Digital rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2177.md)
 
 ## This Technology enables the following mitigations

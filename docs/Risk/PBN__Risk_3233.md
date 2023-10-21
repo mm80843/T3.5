@@ -12,7 +12,7 @@
 * [Data accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2993.md)
 * [Data accuracy and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2438.md)
 * [Inaccurate symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_674.md)
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4408.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3618.md)
 * [Inconsistencies in accuracy measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1253.md)
 * [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1644.md)
 * [Limited accuracy and specificity of biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1149.md)

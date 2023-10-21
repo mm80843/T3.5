@@ -60,8 +60,8 @@ Increased risk of virus transmission among occupants.
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 
 ## Technologies linked to the risk

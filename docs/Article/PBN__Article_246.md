@@ -32,9 +32,9 @@ A Continuously Active Antimicrobial Coating effective against Human Coronavirus 
 ## List of risks in an article
 
 * [Recontamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_865.md)
+* [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
 * [Limited efficacy against specific viruses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1500.md)
 * [Contamination of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1497.md)
-* [Insufficient self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1499.md)
 * [Inefficacy of liquid disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1498.md)
 
 ## This article points to following mitigation

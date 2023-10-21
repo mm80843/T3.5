@@ -41,8 +41,8 @@ Limited access to fresh produce may lead to increased consumption of processed a
 
 ## Mitigations of this risk
 
-* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1069.md)
 * [Implement innovative demand and supply-side initiatives to build resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1490.md)
+* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1069.md)
 * [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_79.md)
 
 ## Name of the risk
@@ -61,8 +61,8 @@ Increased risk of undernutrition and related health issues
 
 ## People affected by this risk
 
-* [Children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
 * [Families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_578.md)
+* [Children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
 
 ## Technologies linked to the risk
 

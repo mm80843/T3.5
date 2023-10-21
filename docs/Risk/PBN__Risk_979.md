@@ -8,12 +8,12 @@
 
 ## Closest similar item
 
+* [Inefficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1402.md)
+* [Logistics inefficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3360.md)
 * [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
-* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3809.md)
-* [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4027.md)
-* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4028.md)
-* [Energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4131.md)
-* [Integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4026.md)
+* [Inefficient infrastructure and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2939.md)
+* [Unbalanced utilization of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_784.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
 * [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
 * [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
 * [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1083.md)

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5278.md)
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
+* [Robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1503.md)
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
 * [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
 * [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3692.md)
 * [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3699.md)
 * [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2969.md)
-* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5012.md)
-* [Deploy telehealth solutions, use of ai and robotics in healthcare, support research and development efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5280.md)
-* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5006.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1506.md)
+* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3404.md)
 
 ## This Technology enables the following mitigations
 

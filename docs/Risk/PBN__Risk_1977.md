@@ -17,7 +17,7 @@
 * [Differential impact of measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1915.md)
 * [Noncompliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2486.md)
 * [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1224.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3753.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
 
 ## Description of the risk
 

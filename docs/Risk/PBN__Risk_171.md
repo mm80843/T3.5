@@ -10,14 +10,14 @@
 
 * [Lack of greenspace in low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_170.md)
 * [Poor quality of green space in disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_144.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3650.md)
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
-* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3478.md)
-* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3652.md)
+* [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_325.md)
+* [Lack of equitable distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1807.md)
 * [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
-* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3476.md)
-* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3843.md)
-* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3648.md)
+* [Lack of green space in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_141.md)
+* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_693.md)
+* [Neglected or poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3327.md)
+* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
+* [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
 
 ## Mitigations of this risk
 

@@ -16,8 +16,8 @@
 * [Research team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_699.md)
 * [Organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
 * [Research staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1050.md)
-* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2533.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2531.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2520.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2518.md)
 
 ## Risks that can be mitigated by this stakeholder
 

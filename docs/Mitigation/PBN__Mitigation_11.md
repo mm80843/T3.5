@@ -69,13 +69,13 @@ Restrict and control travel to and from areas with high infection rates to minim
 ## This Mitigation is enabled by the following technologies
 
 * [Nan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_22.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
-* [Travel regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3323.md)
-* [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_700.md)
-* [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2803.md)
-* [Travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3250.md)
 * [Travel management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2129.md)
-* [Border control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3249.md)
+* [Travel policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
+* [Travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3250.md)
+* [Travel regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3323.md)
+* [Travel tracking and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2803.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_700.md)
 * [Border control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2859.md)
+* [Border control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3249.md)
 * [Border controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2317.md)
 

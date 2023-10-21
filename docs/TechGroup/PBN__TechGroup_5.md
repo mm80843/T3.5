@@ -8,15 +8,16 @@
 
 ## Closest similar item
 
-* [Data privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_95.md)
-* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_96.md)
-* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_97.md)
-* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_98.md)
-* [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_99.md)
-* [User privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_100.md)
-* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_101.md)
-* [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_102.md)
-* [Anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_103.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_61.md)
+* [Data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_77.md)
+* [Privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_78.md)
+* [Regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_79.md)
+* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_62.md)
+* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_80.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_67.md)
+* [Data policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_81.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_82.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_25.md)
 
 ## Technology in the TechnologyGroup
 
@@ -45,11 +46,10 @@
 * [Data encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_182.md)
 * [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_100.md)
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2069.md)
-* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
+* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1380.md)
 * [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1587.md)
 * [Privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1577.md)
-* [Anonymization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1380.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2069.md)
 * [Anonymous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1934.md)
 * [Biometric identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1546.md)
 * [Network security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_101.md)
@@ -78,6 +78,7 @@
 * [Inclusive data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_517.md)
 * [Data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1314.md)
 * [Backup systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_576.md)
+* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
 * [Opt-in systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1935.md)
 * [Intrusion detection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1634.md)
 * [Software-defined privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1578.md)

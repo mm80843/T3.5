@@ -61,8 +61,8 @@ Increased risk of transmission of infectious diseases.
 ## People affected by this risk
 
 * [Workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
-* [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
 * [Inhabitants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1012.md)
+* [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
 
 ## Technologies linked to the risk
 

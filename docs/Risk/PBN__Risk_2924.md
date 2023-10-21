@@ -12,11 +12,11 @@
 * [Dilution of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1183.md)
 * [Inefficient ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1726.md)
 * [Inefficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
-* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3786.md)
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3789.md)
+* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3534.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3537.md)
 * [Shortage of ventilators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_926.md)
 * [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1357.md)
-* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3788.md)
+* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3536.md)
 * [Hospital preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_360.md)
 
 ## Mitigations of this risk

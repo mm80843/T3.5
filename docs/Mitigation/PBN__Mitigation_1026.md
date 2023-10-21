@@ -33,7 +33,7 @@ Government investments in green energy projects and infrastructure to stimulate 
 
 ## This Mitigation is enabled by the following technologies
 
+* [Clean energy infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2814.md)
 * [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2813.md)
 * [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_532.md)
-* [Clean energy infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2814.md)
 

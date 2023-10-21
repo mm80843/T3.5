@@ -33,6 +33,6 @@ Manage and handle deliveries safely to minimize virus exposure risks, including 
 
 ## This Mitigation is enabled by the following technologies
 
-* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2364.md)
 * [Material quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2365.md)
+* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2364.md)
 

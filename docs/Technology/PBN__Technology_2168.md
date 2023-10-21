@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4873.md)
+* [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1709.md)
 * [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
-* [Big-data analytics modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4875.md)
-* [Big data analytics for case identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4876.md)
-* [Big data and ai forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4874.md)
-* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4657.md)
-* [Predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2924.md)
-* [Enhanced data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4880.md)
-* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
-* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4881.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
+* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2406.md)
+* [Big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1570.md)
+* [Big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3374.md)
+* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_769.md)
+* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3746.md)
+* [Bigdata](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3733.md)
+* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_18.md)
 
 ## This Technology enables the following mitigations
 

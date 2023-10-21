@@ -16,7 +16,7 @@
 * [Non-compliance with mask mandates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1195.md)
 * [Lack of airtightness and safety concerns with reusable face shields](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2373.md)
 * [Poor translation accuracy in speech-transcribing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2370.md)
-* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4290.md)
+* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3605.md)
 * [False sense of security from portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
 
 ## Description of the risk

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Urban planner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1609.md)
 * [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2631.md)
-* [Planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2918.md)
-* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2720.md)
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2625.md)
-* [Community planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3111.md)
-* [Urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2721.md)
-* [Participatory planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3112.md)
-* [Regional planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3113.md)
-* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2724.md)
+* [City planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_750.md)
+* [City planner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1602.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2567.md)
+* [Planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2659.md)
+* [Urban planners and designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1225.md)
+* [Urban planning authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1068.md)
+* [Urban planning organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1601.md)
+* [Urban planning organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_829.md)
 
 ## Risks that can be mitigated by this stakeholder
 

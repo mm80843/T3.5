@@ -33,6 +33,6 @@ Scalable solution for removing respirable SARS-CoV-2 and other pathogens from th
 
 ## This Mitigation is enabled by the following technologies
 
-* [Portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2474.md)
 * [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
+* [Portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2474.md)
 

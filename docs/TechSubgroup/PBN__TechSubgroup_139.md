@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_370.md)
-* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_371.md)
-* [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_372.md)
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_373.md)
-* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_374.md)
-* [User privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_375.md)
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_376.md)
-* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_377.md)
-* [Privacy protection measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_378.md)
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_379.md)
+* [Data anonymization and protection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_137.md)
+* [Encryption and authentication techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_6.md)
+* [Communication and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_3.md)
+* [Public awareness and information sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_50.md)
+* [Encryption and security algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_136.md)
+* [Apps and software for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_149.md)
+* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
+* [Communication and information systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_46.md)
+* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
+* [Cybersecurity and security protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_135.md)
 
 ## This Technology belongs to this TechnologySubgroup
 
@@ -25,9 +25,9 @@
 * [Anonymity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_98.md)
 * [Data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
 * [Privacy regulations compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_575.md)
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2069.md)
-* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
 * [Anonymization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1380.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2069.md)
 * [Anonymous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1934.md)
+* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
 * [Opt-in systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1935.md)
 

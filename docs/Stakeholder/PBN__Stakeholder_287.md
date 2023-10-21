@@ -17,7 +17,7 @@
 * [Companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_67.md)
 * [Tech companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_964.md)
 * [Internet companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2453.md)
-* [Online gaming platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3408.md)
+* [Online gaming platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2757.md)
 * [Sports companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_576.md)
 * [Technology company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1990.md)
 * [Company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1440.md)

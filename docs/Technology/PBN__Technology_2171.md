@@ -12,12 +12,12 @@
 * [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
 * [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3154.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4019.md)
 * [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_100.md)
 * [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2149.md)
-* [Iot and ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4466.md)
-* [Implementation of iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4467.md)
-* [Iot data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4021.md)
+* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1708.md)
+* [Iot buttons](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2925.md)
+* [Internet of things iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1133.md)
+* [Purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1585.md)
 
 ## This Technology enables the following mitigations
 

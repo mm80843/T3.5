@@ -34,7 +34,7 @@ Using active video games that involve physical activity through interaction with
 
 ## This Mitigation is enabled by the following technologies
 
+* [Video game consoles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2455.md)
 * [Electronic products for human-computer interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2178.md)
 * [Motion sensor controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2454.md)
-* [Video game consoles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2455.md)
 

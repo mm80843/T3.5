@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Interior design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2620.md)
+* [Interior design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2564.md)
 * [Designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
+* [Building designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_11.md)
 * [Urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_380.md)
+* [Building designer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1851.md)
+* [Architect](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_364.md)
+* [Design professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_365.md)
+* [Building design professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1238.md)
 * [Architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
-* [Specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2628.md)
-* [Architectural & construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2629.md)
-* [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2619.md)
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2567.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2618.md)
-* [Architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2630.md)
+* [Urban planners and designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1225.md)
 
 ## Risks that can be mitigated by this stakeholder
 

@@ -14,7 +14,7 @@
 * [Lack of environmental precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1323.md)
 * [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2703.md)
 * [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2129.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3617.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
 * [Lack of natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2092.md)
 * [Neglecting climate change measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2835.md)
 * [Lack of comprehensive and coordinated climate action](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3267.md)
@@ -63,8 +63,8 @@ Increased risk of airborne transmission and lack of physical distancing
 
 ## Technologies linked to the risk
 
-* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_797.md)
 * [Physical barrier installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_798.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_797.md)
 
 ## Property: has_RiskType
 

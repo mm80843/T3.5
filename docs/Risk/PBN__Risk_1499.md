@@ -8,15 +8,15 @@
 
 ## Closest similar item
 
-* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3628.md)
-* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3629.md)
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3472.md)
+* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3473.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_254.md)
 * [Poor air and surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
-* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3627.md)
+* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3471.md)
 * [Insufficient disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
 * [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
 * [Failure to disinfect and clean work areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1198.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4168.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
 * [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2675.md)
 
 ## Description of the risk

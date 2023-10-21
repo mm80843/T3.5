@@ -10,14 +10,14 @@
 
 * [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
 * [Ai and machine learning for gene analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2039.md)
+* [Data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1532.md)
 * [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
 * [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
+* [Statistical software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3525.md)
+* [Data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1976.md)
+* [Statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2555.md)
 * [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2387.md)
-* [Comparative analysis of genome sequences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3672.md)
-* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
-* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1949.md)
-* [Data mining and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4653.md)
-* [Biosampler](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5169.md)
+* [Algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3123.md)
 
 ## This Technology enables the following mitigations
 

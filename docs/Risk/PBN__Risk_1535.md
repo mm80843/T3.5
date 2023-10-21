@@ -67,8 +67,8 @@ Reduced opportunities for healing, stress reduction, and mental restoration, lim
 ## Technologies linked to the risk
 
 * [Pocket gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_846.md)
-* [Green roof installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_845.md)
 * [Outdoor terraces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_847.md)
+* [Green roof installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_845.md)
 
 ## Property: has_RiskType
 

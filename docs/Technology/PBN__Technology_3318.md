@@ -12,12 +12,12 @@
 * [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2664.md)
 * [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3442.md)
 * [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1023.md)
+* [Anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2666.md)
+* [Selection of anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1727.md)
 * [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2704.md)
 * [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_787.md)
-* [Use of anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4794.md)
 * [Covering high-touch surfaces with antimicrobial material](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1728.md)
-* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4037.md)
-* [Applying antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4038.md)
+* [Antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3061.md)
 
 ## This Technology enables the following mitigations
 

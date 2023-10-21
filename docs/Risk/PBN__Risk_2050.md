@@ -66,8 +66,8 @@ Higher transmission rates, increased burden on healthcare systems, and greater v
 ## Technologies linked to the risk
 
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
 * [Urban surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1548.md)
+* [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
 
 ## Property: has_RiskType
 

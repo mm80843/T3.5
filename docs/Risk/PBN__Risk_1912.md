@@ -62,8 +62,8 @@ Higher risk of contracting SARS-CoV-2, lower likelihood of testing.
 
 ## Technologies linked to the risk
 
-* [Social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1333.md)
 * [Equitable healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1334.md)
+* [Social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1333.md)
 
 ## Property: has_RiskType
 

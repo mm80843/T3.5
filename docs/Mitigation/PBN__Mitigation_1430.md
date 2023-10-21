@@ -33,6 +33,6 @@ Accurate information on the importance of hand washing for prevention of coronav
 
 ## This Mitigation is enabled by the following technologies
 
-* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 * [Soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2311.md)
+* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 

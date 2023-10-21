@@ -65,8 +65,8 @@ Increased transmission of SARS-CoV-2 and higher risk of infection
 
 ## Technologies linked to the risk
 
-* [Anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_263.md)
 * [Cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_264.md)
+* [Anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_263.md)
 
 ## Property: has_RiskType
 

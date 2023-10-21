@@ -59,11 +59,11 @@ Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mo
 ## This article mentions these technologies
 
 * [Mobile phone apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_601.md)
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
 * [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_605.md)
 * [Online support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_124.md)
 * [Enhanced surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_604.md)
 * [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_602.md)
 * [Teletherapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
 * [Allocate resources efficiently](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_603.md)
 

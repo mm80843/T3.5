@@ -13,7 +13,7 @@
 * [Business viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2464.md)
 * [Lack of effective partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3206.md)
 * [Lack of sustainable development plans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3203.md)
-* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3749.md)
+* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3521.md)
 * [Lack of evaluation planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2618.md)
 * [Financial viability of businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3257.md)
 * [Ineffective cost planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_296.md)

@@ -14,7 +14,7 @@
 * [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_530.md)
 * [Financial planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_461.md)
 * [Financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2182.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
 * [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
 * [Crisis management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2140.md)
 * [Financial support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_71.md)

@@ -33,8 +33,8 @@ Spatial repellents are chemicals that prevent mosquitoes or other vectors from e
 
 ## This Mitigation is enabled by the following technologies
 
-* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3667.md)
 * [Emanators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3669.md)
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3667.md)
 * [Or impregnated fabric](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3670.md)
 * [Such as coils](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3668.md)
 

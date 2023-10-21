@@ -36,8 +36,8 @@ The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisatio
 * [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2050.md)
 * [Spread of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 * [Population characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2052.md)
-* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
 * [Globalization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2051.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
 
 ## This article points to following mitigation
 
@@ -61,6 +61,7 @@ The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisatio
 * [Remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_12.md)
 * [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Urban surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1548.md)
 * [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1502.md)
 * [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
 * [Mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1550.md)
@@ -68,9 +69,8 @@ The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisatio
 * [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_621.md)
 * [Biometric identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1546.md)
 * [Healthcare resource optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1552.md)
-* [Urban surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1548.md)
 * [Risk assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1455.md)
-* [Digital platforms for trade monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1549.md)
 * [Border control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1547.md)
+* [Digital platforms for trade monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1549.md)
 * [Personalized medicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1551.md)
 

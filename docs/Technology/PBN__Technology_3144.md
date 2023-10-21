@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4617.md)
-* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4601.md)
-* [Proper use of daylight and sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4618.md)
-* [Natural daylight access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4619.md)
-* [Improve lighting design, use daylighting strategies, provide task lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4602.md)
-* [Sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4620.md)
-* [Increase sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4621.md)
-* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4622.md)
-* [Natural sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4623.md)
+* [Daylighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_187.md)
+* [Daylight sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2273.md)
+* [Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3500.md)
+* [Ensure proper daylight exposure in bedrooms and create dark environments for restful sleep](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1273.md)
 * [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2487.md)
+* [Solar](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3300.md)
+* [Skylights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_141.md)
+* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_118.md)
+* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2259.md)
+* [Lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3311.md)
 
 ## This Technology enables the following mitigations
 

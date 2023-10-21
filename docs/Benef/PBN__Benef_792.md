@@ -31,6 +31,6 @@ Reducing loan interest rates or improving loan availability
 
 * [Cash payments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1179.md)
 * [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_967.md)
-* [Bailouts for industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_979.md)
 * [Enhanced availability of financial capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_790.md)
+* [Bailouts for industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_979.md)
 

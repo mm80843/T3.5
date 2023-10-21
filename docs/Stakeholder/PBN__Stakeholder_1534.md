@@ -14,7 +14,7 @@
 * [It expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2427.md)
 * [Experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_538.md)
 * [It experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1466.md)
-* [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2820.md)
+* [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2727.md)
 * [Ontology experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_938.md)
 * [Cybersecurity experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_787.md)
 * [Communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_828.md)

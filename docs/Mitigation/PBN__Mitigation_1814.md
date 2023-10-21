@@ -33,8 +33,8 @@ Use smart distribution and delivery systems, automation, teleworking, and teleme
 
 ## This Mitigation is enabled by the following technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [3d printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_133.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1449.md)
 

@@ -17,7 +17,7 @@
 * [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
 * [Security risks, spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3172.md)
 * [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1069.md)
-* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3605.md)
+* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3460.md)
 
 ## Description of the risk
 

@@ -18,9 +18,9 @@ Integrated management platforms and observatories facilitate data sharing, commu
 
 * [Public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [Private](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_435.md)
+* [Healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_246.md)
 * [Civil society stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_436.md)
 * [Urban authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_434.md)
-* [Healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_246.md)
 
 ## Risks which can benefit from this action
 

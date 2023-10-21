@@ -38,8 +38,8 @@ The impacts of knowledge, risk perception, emotion and information on citizensâ€
 * [Fear and negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1801.md)
 * [Low adoption of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1803.md)
 * [Lack of understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1525.md)
-* [Biased risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
 * [Lack of official communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
+* [Biased risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
 
 ## This article points to following mitigation
 
@@ -62,11 +62,11 @@ The impacts of knowledge, risk perception, emotion and information on citizensâ€
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
 * [Regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1175.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 * [Risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1172.md)
 * [Counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_113.md)
-* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
 * [Mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_874.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
 * [Press releases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1174.md)
 * [Official websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
 

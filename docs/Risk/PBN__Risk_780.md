@@ -10,13 +10,14 @@
 
 * [Interrupted education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1617.md)
 * [Disruption of education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2625.md)
+* [Disrupted education during school closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3061.md)
 * [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_234.md)
-* [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
-* [Support for children’s education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3534.md)
-* [Closure of educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3529.md)
-* [Interruption of access to food for children from households dependent on school-feeding programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3535.md)
-* [School closure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3530.md)
-* [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3536.md)
+* [Disruption of education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2210.md)
+* [Disruption in education system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1793.md)
+* [Disrupted educational activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3179.md)
+* [Disruption of education, child development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2735.md)
+* [Cancellation of educational activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_361.md)
+* [Disruption of work and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3176.md)
 
 ## Description of the risk
 
@@ -40,8 +41,8 @@ Closure of educational facilities limits access to education and school nutritio
 
 ## Mitigations of this risk
 
-* [Utilize informal education systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1072.md)
 * [Develop alternative learning methods and strategies to reach children in low-income countries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1493.md)
+* [Utilize informal education systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1072.md)
 * [Mobilizing informal institutions for education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_83.md)
 
 ## Name of the risk

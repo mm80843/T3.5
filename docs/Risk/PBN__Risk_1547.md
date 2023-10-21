@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Devising mitigation measures in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3868.md)
+* [Delays in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
+* [Delay in completion of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_306.md)
+* [Financial crisis in the construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_303.md)
 * [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
+* [Production disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2990.md)
+* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
 * [Environmental impact of construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2702.md)
 * [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1083.md)
 * [Financial impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1548.md)
-* [Uncertainty in construction market](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1932.md)
-* [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
-* [Sustainable design and construction of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4010.md)
-* [Decline in housing construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_304.md)
-* [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1550.md)
+* [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 
 ## Description of the risk
 

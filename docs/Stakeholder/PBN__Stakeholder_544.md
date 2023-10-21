@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Communication agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1775.md)
-* [Government communications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2813.md)
+* [Government communications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2650.md)
 * [Communication team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_967.md)
 * [Marketing agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1857.md)
 * [Marketing agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1885.md)
@@ -17,7 +17,7 @@
 * [Communication expert](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1785.md)
 * [Communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_828.md)
 * [Government agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2277.md)
-* [Communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2878.md)
+* [Communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2651.md)
 
 ## Risks that can be mitigated by this stakeholder
 

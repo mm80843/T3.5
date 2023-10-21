@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3772.md)
-* [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3777.md)
-* [Support widespread skills](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4592.md)
-* [Employee support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3776.md)
-* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3578.md)
-* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3771.md)
-* [Socioeconomic support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
-* [Well-being support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4593.md)
-* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4594.md)
+* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
+* [Support and information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3314.md)
+* [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_878.md)
+* [Limited engagement of professionals and lack of comprehensive support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2423.md)
+* [Lack of support for users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2797.md)
+* [Lack of support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2829.md)
+* [Exclusion from support programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2836.md)
+* [Exclusion from government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_563.md)
+* [Support life-saving equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2923.md)
 
 ## Description of the risk
 

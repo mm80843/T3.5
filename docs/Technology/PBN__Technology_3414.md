@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_297.md)
-* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
+* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3746.md)
 * [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2568.md)
 * [Statistical modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2938.md)
 * [Advanced data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2096.md)

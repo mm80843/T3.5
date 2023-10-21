@@ -10,13 +10,13 @@
 
 * [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_382.md)
 * [Establishing crisis management plans, allocating isolation areas, and providing necessary support and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1990.md)
-* [Crisis management teams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4686.md)
+* [Crisis management teams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3367.md)
 * [Improve crisis management strategies, increase transparency and accountability, strengthen communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1446.md)
 * [Enhance monitoring and early warning systems to detect and respond to shocks in a timely manner.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2422.md)
-* [Emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5035.md)
-* [Emergency management agency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5036.md)
+* [Emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3374.md)
+* [Emergency management agency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3375.md)
 * [Develop and implement comprehensive emergency preparedness plans, including outbreak response protocols and contingency plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2263.md)
-* [Disaster management agencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4687.md)
+* [Disaster management agencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3368.md)
 * [Implement proactive measures to control outbreak spread and minimize economic disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1508.md)
 
 ## Risks possibly mitigated by this Mitigation

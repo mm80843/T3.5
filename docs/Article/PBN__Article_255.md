@@ -58,8 +58,8 @@ COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review a
 * [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_793.md)
 * [Manufacturing and supply chain of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_795.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
-* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_797.md)
 * [Physical barrier installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_798.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_797.md)
 * [Rapid and reliable covid-19 testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_792.md)
 * [Employers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_796.md)
 

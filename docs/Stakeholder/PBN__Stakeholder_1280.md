@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Property developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1937.md)
+* [Real estate developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2022.md)
+* [Property managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_935.md)
+* [Property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_177.md)
+* [Property management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_624.md)
+* [Property manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1964.md)
+* [Real estate developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1827.md)
+* [Commercial property owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_326.md)
+* [Property owner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1927.md)
 * [Housing developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_611.md)
-* [Property matching](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3508.md)
-* [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2619.md)
-* [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2901.md)
-* [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2899.md)
-* [Urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_380.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
-* [Planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_622.md)
-* [Designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
-* [Building codes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3509.md)
 
 ## Risks that can be mitigated by this stakeholder
 

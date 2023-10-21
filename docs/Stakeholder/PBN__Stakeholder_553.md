@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_885.md)
-* [Access to testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3471.md)
+* [Access to testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2788.md)
 * [Testing laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1155.md)
-* [Testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2594.md)
-* [Testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2595.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2596.md)
-* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3467.md)
-* [Testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3466.md)
+* [Testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2548.md)
+* [Testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2549.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2550.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2774.md)
+* [Testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2676.md)
 * [Medical centers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1088.md)
-* [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2565.md)
+* [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2527.md)
 
 ## Risks that can be mitigated by this stakeholder
 

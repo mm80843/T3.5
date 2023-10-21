@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_154.md)
-* [Hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_155.md)
+* [Personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_113.md)
+* [Hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_114.md)
 

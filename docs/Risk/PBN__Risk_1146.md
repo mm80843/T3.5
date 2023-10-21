@@ -11,12 +11,12 @@
 * [Limited availability of biosensors for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1148.md)
 * [Limited availability of biosensors and loc/poc technologies for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_638.md)
 * [Complexity of wastewater matrix](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_634.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3855.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3560.md)
 * [Lack of specific biomarkers for covid-19 detection in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1147.md)
 * [Detection of sars-cov-2 in wastewater as a data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_291.md)
 * [Detection of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1434.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3656.md)
-* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3851.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
+* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3556.md)
 * [Water and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_574.md)
 
 ## Description of the risk

@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Changes in use and behavior in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1453.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
-* [Reconsidering regulations and designs of interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3570.md)
 * [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
-* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3471.md)
-* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3843.md)
-* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3930.md)
+* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
+* [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
+* [Inadequate public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
 * [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3321.md)
 * [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1449.md)
-* [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3869.md)
+* [Inequities and exclusions in public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_918.md)
+* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1317.md)
+* [Insufficient public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1723.md)
 
 ## Mitigations of this risk
 

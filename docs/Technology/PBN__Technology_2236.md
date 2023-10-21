@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3902.md)
 * [Cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3705.md)
-* [Mask prevention](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4586.md)
-* [Wearing of masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3903.md)
 * [Surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2723.md)
 * [Masks or face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2292.md)
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
-* [Mask wearing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3904.md)
-* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3899.md)
+* [Widespread use of masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_582.md)
 * [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1051.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_949.md)
+* [Education on the importance of masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
+* [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_589.md)
 
 ## This Technology enables the following mitigations
 

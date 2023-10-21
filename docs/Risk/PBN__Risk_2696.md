@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4098.md)
-* [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4112.md)
-* [Provide adjustable and flexible indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4113.md)
-* [Adjustable room layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4099.md)
-* [Optimize room layout, create flexible and multipurpose spaces, maximize use of natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4114.md)
-* [Design apartments with adaptable floor plans and flexible room dividers.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4115.md)
-* [Adjustable indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4116.md)
-* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4055.md)
-* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4028.md)
-* [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4117.md)
+* [Limited space and function of rooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2544.md)
+* [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
+* [Inadequate room selection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1627.md)
+* [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
+* [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_797.md)
+* [Limited space and inadequate room quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_640.md)
+* [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3486.md)
+* [Limited space in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1659.md)
+* [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
+* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
 
 ## Mitigations of this risk
 

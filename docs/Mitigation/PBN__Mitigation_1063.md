@@ -36,7 +36,7 @@ Educates the public about the virus, transmission risks, and mitigation measures
 ## This Mitigation is enabled by the following technologies
 
 * [Media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2857.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [Advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2858.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [Information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2318.md)
 

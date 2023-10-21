@@ -14,8 +14,8 @@
 * [Negative economic effects unemployment, inequity, poverty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_102.md)
 * [Economic downfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_707.md)
 * [Negative emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
-* [Negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3541.md)
-* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3440.md)
+* [Negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3446.md)
+* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3421.md)
 * [Negative impact on renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2089.md)
 * [Economic downturn](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_525.md)
 

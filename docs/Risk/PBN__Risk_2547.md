@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Availability of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3639.md)
 * [Efficient distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3311.md)
 * [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3362.md)
 * [Misallocation of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2753.md)
 * [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
 * [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_884.md)
 * [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3248.md)
+* [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3329.md)
+* [Inefficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1402.md)
+* [Inefficient energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2399.md)
 * [Inefficient space utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
-* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2834.md)
-* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3545.md)
 
 ## Mitigations of this risk
 

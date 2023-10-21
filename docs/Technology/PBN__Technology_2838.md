@@ -15,7 +15,7 @@
 * [Waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2662.md)
 * [Recycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2001.md)
 * [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
-* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3973.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3763.md)
 * [Waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3461.md)
 * [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2881.md)
 

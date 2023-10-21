@@ -33,6 +33,6 @@ Tracking and analyzing environmental indicators to understand the impact of poli
 
 ## This Mitigation is enabled by the following technologies
 
-* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
 * [Iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2754.md)
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
 

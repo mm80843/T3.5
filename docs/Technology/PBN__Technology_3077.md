@@ -12,12 +12,12 @@
 * [Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2257.md)
 * [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3270.md)
 * [Innovative insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_375.md)
-* [Development of new materials for better insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3885.md)
-* [Improve insulation and heating systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3887.md)
-* [Research and develop new materials for insulation and building performance, enhance construction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
-* [Regular cleaning and disinfection, proper ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4418.md)
-* [Regular cleaning and sanitization procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3858.md)
-* [Proper maintenance and cleaning of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4419.md)
+* [Proper cleaning procedures and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3079.md)
+* [Proper cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1725.md)
+* [Proper cleaning equipment and procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3076.md)
+* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3317.md)
+* [Cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2776.md)
+* [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
 
 ## This Technology enables the following mitigations
 

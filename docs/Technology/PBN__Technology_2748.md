@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2515.md)
 * [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3099.md)
-* [Digital communication and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3753.md)
-* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4117.md)
-* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_638.md)
-* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4118.md)
-* [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4879.md)
-* [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3788.md)
-* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_242.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_717.md)
+* [Digital integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
+* [Digital content creation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3237.md)
+* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
+* [Software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2160.md)
+* [Digital management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2036.md)
 
 ## This Technology enables the following mitigations
 

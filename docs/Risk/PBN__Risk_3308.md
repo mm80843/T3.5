@@ -16,7 +16,7 @@
 * [Vulnerability to control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
 * [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
 * [Vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2385.md)
-* [Identifying and addressing vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4478.md)
+* [Identifying and addressing vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3626.md)
 * [Exploitation of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3339.md)
 
 ## Mitigations of this risk

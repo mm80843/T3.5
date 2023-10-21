@@ -5,6 +5,6 @@
 ## Items covered in this category
 
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_11.md)
-* [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_86.md)
-* [Education resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_290.md)
+* [Education resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_69.md)
+* [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_74.md)
 

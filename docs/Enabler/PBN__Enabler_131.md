@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_131 
 
-# __Data analysis technology__
+# __Smart hvac systems__
 
 ## Category to which it belongs
 
-* [Harnessing and presenting data insights through modern technology and visual representation techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_56.md)
+* [Intelligent heating, ventilation, and air conditioning systems that have advanced capabilities for improved control and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_66.md)
 
 ## Closest similar item
 
-* [Research and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_178.md)
-* [Comparative studies and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_179.md)
-* [Data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_180.md)
-* [Data collection and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_181.md)
-* [Data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_139.md)
-* [Data tracking and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_182.md)
-* [Data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_134.md)
-* [Data collection and analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_183.md)
-* [Data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_137.md)
-* [Data integration technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_184.md)
+* [Smart HVAC](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_24.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_137.md)
+* [Hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_136.md)
+* [Hvac technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_132.md)
+* [Hvac systems with this capability](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_138.md)
+* [Hvac technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_133.md)
+* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_135.md)
+* [Smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_118.md)
+* [Hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_139.md)
+* [Home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_246.md)
 

@@ -50,8 +50,8 @@ Increased risk of depression, anxiety, and other mental health disorders.
 ## Stakeholders who can mitigate this risk
 
 * [Community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_150.md)
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 * [Local governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_566.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 
 ## Articles mentionning the risk
 

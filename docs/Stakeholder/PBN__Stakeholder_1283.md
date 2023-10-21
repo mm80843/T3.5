@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [People facing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_710.md)
+* [Person facing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2179.md)
+* [Individuals and households facing job loss or economic instability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1337.md)
+* [Individuals and households facing job loss or economic instability; small businesses and self-employed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2171.md)
+* [Individual and household facing job lo or economic instability; small busines and self-employed individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2149.md)
+* [Individual and household facing job lo or economic instability; small busine and self-employed individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2167.md)
+* [Individual and household facing job los or economic instability; small business and self-employed individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2049.md)
 * [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2513.md)
-* [Economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3774.md)
-* [Simplified loan and insurance services during the crisis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3775.md)
-* [Crisis management teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_951.md)
-* [Wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3776.md)
-* [Economic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2979.md)
-* [Crisis response leadership programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3126.md)
-* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3777.md)
-* [Promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3778.md)
-* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3779.md)
+* [Individuals at risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_796.md)
+* [Individuals affected by the loss of loved ones or economic hardships](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1145.md)
 
 ## Risk affecting this stakeholder
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1487.md)
 * [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3321.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
-* [Less crowded environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3453.md)
-* [Crowd control on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3454.md)
+* [Urban crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
+* [Crowded living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1474.md)
+* [Fewer people in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1452.md)
 * [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
+* [Urban density and crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_16.md)
 * [Social disruptions, transmission in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2841.md)
-* [Avoidance of large gatherings, and gatherings in smaller public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3455.md)
-* [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3456.md)
-* [Implement social distancing measures, crowd control, and capacity regulations in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3457.md)
-* [Design and develop public spaces that encourage social interaction and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3458.md)
+* [Future of large public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_912.md)
+* [Crowding and congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1625.md)
 
 ## Description of the risk
 

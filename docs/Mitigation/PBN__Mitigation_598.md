@@ -33,6 +33,6 @@ KT platforms should establish mechanisms for coordinating and integrating resear
 
 ## This Mitigation is enabled by the following technologies
 
-* [Interdisciplinary expertise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2580.md)
 * [Collaboration mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2579.md)
+* [Interdisciplinary expertise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2580.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_260 
 
-# __Outdoor air monitoring__
+# __Voice and face recognition__
 
 ## Category to which it belongs
 
-* [Devices designed to monitor and measure the quality and pollution levels of both indoor and outdoor air.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_64.md)
+* [Identification through facial and vocal characteristics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_92.md)
 
 ## Closest similar item
 
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_6.md)
-* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_259.md)
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_263.md)
-* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_272.md)
-* [Indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_271.md)
-* [Air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_274.md)
-* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_276.md)
-* [Other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_273.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_277.md)
-* [Digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_278.md)
+* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_28.md)
+* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_243.md)
+* [Voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_261.md)
+* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_192.md)
+* [Facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_244.md)
+* [Voice recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_263.md)
+* [Facial recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_262.md)
+* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_208.md)
+* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_95.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_181.md)
 

@@ -16,7 +16,7 @@
 * [Network providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1393.md)
 * [Network operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1401.md)
 * [Network administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1429.md)
-* [Online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3176.md)
+* [Online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2716.md)
 * [Support network](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2314.md)
 * [Support networks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1146.md)
 * [Network and system administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1400.md)

@@ -16,7 +16,7 @@
 * [Individuals with underlying health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_886.md)
 * [Workers in affected industries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1472.md)
 * [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [Community health workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2760.md)
+* [Community health workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2610.md)
 * [Workers in the healthcare sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1683.md)
 
 ## Risk affecting this stakeholder

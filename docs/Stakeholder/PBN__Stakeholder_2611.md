@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2611 
 
-# __Social and mental health services__
+# __Medical equipment and personnel__
 
 ## Category to which it belongs
 
-* [People requiring mental health support, including those with pre-existing conditions and marginalized communities with limited access to services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_425.md)
+* [Caregivers and beneficiaries in the healthcare field with a focus on personnel, infrastructure, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_404.md)
 
 ## Closest similar item
 
-* [Mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1029.md)
-* [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2609.md)
-* [Online mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3329.md)
-* [Social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2762.md)
-* [Mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2610.md)
-* [Mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_603.md)
-* [Mental health care support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2608.md)
-* [Mental health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2612.md)
-* [Emergency psychiatric services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3433.md)
-* [Remote mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3447.md)
+* [Medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_184.md)
+* [Medical equipment manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_546.md)
+* [Medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2612.md)
+* [Healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_185.md)
+* [Hospital personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_500.md)
+* [Medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_93.md)
+* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2613.md)
+* [Health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1060.md)
+* [Medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_187.md)
+* [Service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1167.md)
 

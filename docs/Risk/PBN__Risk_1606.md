@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Limited access to parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2857.md)
+* [Social vulnerability and park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1605.md)
+* [Inadequate provision of public parks without government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_143.md)
 * [Homogeneity in urban park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1604.md)
-* [Restricting access to public parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3477.md)
+* [Limited quality of parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2858.md)
+* [Decline in urban park visitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1603.md)
+* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_693.md)
+* [Misinterpretation of park use data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1607.md)
 * [Lack of greenspace in low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_170.md)
-* [Improve park quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3474.md)
-* [Poor quality of green space in disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_144.md)
-* [Equitable park access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3481.md)
-* [Governance of urban space to improve access to neighborhood resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3841.md)
-* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3652.md)
-* [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_522.md)
-* [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3842.md)
+* [Lack of community participation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2534.md)
 
 ## Description of the risk
 

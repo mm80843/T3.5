@@ -17,7 +17,7 @@
 * [Exposure to chemical and biological contaminants on stainless steel surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_53.md)
 * [Contaminated environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3229.md)
 * [Indoor pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3198.md)
-* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3626.md)
+* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3470.md)
 
 ## Description of the risk
 

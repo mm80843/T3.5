@@ -13,7 +13,7 @@
 * [Urbanization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2050.md)
 * [Urban management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2388.md)
 * [Pandemic outbreak in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_512.md)
-* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
+* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
 * [City lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_988.md)
 * [Lack of urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1024.md)
 * [Open green spaces in urban periphery providing resilience to public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_893.md)

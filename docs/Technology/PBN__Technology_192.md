@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
+* [Water filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
+* [Hvac filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2958.md)
+* [Information filtering tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_934.md)
 * [Hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_672.md)
 * [Information filtering systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1285.md)
+* [Filtering devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3028.md)
 * [High-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_272.md)
-* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3793.md)
-* [Portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2474.md)
-* [Improve central air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3912.md)
-* [High-efficiency particulate filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2472.md)
-* [Use high-efficiency filters for air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3913.md)
-* [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1939.md)
-* [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
+* [Efficient filter replacement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2021.md)
+* [Merv-8/13 filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2517.md)
 
 ## This Technology belongs to this TechGroup
 

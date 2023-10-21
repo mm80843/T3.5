@@ -34,8 +34,8 @@ Harnessing new-generation technologies to improve response capabilities and addr
 ## This Mitigation is enabled by the following technologies
 
 * [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 * [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2149.md)
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 * [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2010.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 

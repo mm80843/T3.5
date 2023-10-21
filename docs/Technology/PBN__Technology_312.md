@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2734.md)
+* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1814.md)
+* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_762.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
+* [Research funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2739.md)
 * [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_262.md)
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2110.md)
-* [Technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3100.md)
-* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
-* [Biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2125.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2061.md)
-* [It infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3218.md)
-* [Molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3573.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
+* [Research databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2562.md)
+* [Research collaborations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_466.md)
+* [Open research platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2540.md)
 
 ## This Technology belongs to this TechGroup
 

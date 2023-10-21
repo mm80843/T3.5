@@ -16,8 +16,8 @@
 * [Focus on non-pharmaceutical interventions, prioritize distribution to countries in need](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1607.md)
 * [Implement and enforce non-pharmaceutical interventions at early stages of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2135.md)
 * [Continued implementation of npis, vaccination campaigns, promote hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2366.md)
-* [Medication prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4043.md)
-* [Preventive and therapeutic measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4044.md)
+* [Implementation of npis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
+* [Develop and distribute effective medications and vaccines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2013.md)
 
 ## Benefits linked to a risk
 

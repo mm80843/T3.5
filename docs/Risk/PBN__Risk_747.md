@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Promoting mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4617.md)
-* [Implementation of measures to promote occupant well-being and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4618.md)
-* [Implement interventions and programs to promote flourishing and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4619.md)
-* [Embrace well-being economies and prioritize sustainable economic development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4620.md)
-* [Implement programs and policies to promote mental health and well-being, including enhancing population levels of well-being.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4621.md)
-* [Encouraging healthy social media habits, promoting digital well-being, providing mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4622.md)
-* [Promote alternative and complementary activities that promote mental health and well-being during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4623.md)
-* [Work and living environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4624.md)
-* [Emotional support and motivation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4625.md)
-* [Internet-based communication and mental well-being support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4626.md)
+* [Mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_941.md)
+* [Impact on psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1558.md)
+* [Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2211.md)
+* [Low levels of psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2016.md)
+* [Decline in well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1055.md)
+* [Mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2432.md)
+* [Human health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2972.md)
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_611.md)
+* [And physical health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2267.md)
+* [Negative impact of social confinement and distancing measures on well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_694.md)
 
 ## Mitigations of this risk
 

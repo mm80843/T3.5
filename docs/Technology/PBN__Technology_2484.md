@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5059.md)
-* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4974.md)
-* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4972.md)
-* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4975.md)
-* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5061.md)
-* [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5071.md)
-* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3880.md)
-* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5072.md)
-* [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5073.md)
-* [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5074.md)
+* [Flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3394.md)
+* [Flexible layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1778.md)
+* [Flexible mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2941.md)
+* [Flexible furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2476.md)
+* [Flexible production technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3026.md)
+* [Innovative design approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3382.md)
+* [Flexibility policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3312.md)
+* [Flexible working models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3158.md)
+* [Flexible floor plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
+* [Flexibility in operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3419.md)
 
 ## This Technology enables the following mitigations
 

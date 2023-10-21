@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) >> Individual ID:PBN__TechGroup_66 
 
-# __Privacy policies__
+# __Monitoring tools__
 
 ## Category to which it belongs
 
-* [Measures taken to protect personal information by designing systems, implementing regulations, and utilizing technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_327.md)
+* [Effective solutions for observing, inspecting, and evaluating systems, tools, and software for optimal performance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_333.md)
 
 ## Closest similar item
 
-* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_67.md)
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_213.md)
-* [Privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_249.md)
-* [Regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_250.md)
-* [Data policies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_251.md)
-* [Data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_252.md)
-* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_59.md)
-* [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_65.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_22.md)
+* [Monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_90.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_88.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_26.md)
+* [Monitoring mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_89.md)
+* [Digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_27.md)
+* [Regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_57.md)
+* [Monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_28.md)
+* [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_134.md)
 

@@ -15,7 +15,7 @@
 * [Optimize storage conditions and protocols to minimize degradation of viral rna, conduct regular quality control checks on stored samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3073.md)
 * [Improve data collection and analysis, enhance understanding of the virus and its transmission, validate models with real-world data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2010.md)
 * [Regular monitoring of wastewater treatment plants to detect the virus and inform public health interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1955.md)
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3126.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3118.md)
 * [Improve wastewater treatment and disinfection processes, monitor wastewater for viral fragments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2270.md)
 * [Improve detection methods and adjust decay kinetics for accurate estimation of virus prevalence in wastewater samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1959.md)
 

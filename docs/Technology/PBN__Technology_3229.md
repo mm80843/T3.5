@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2311.md)
+* [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_855.md)
+* [Soap and water or hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3009.md)
+* [Soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2291.md)
 * [Use of soap and hot water for handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_502.md)
 * [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_507.md)
-* [Hand washing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4843.md)
 * [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
 * [Hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2480.md)
-* [Regular hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4835.md)
-* [Washing hands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4844.md)
-* [Improved hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4841.md)
-* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4840.md)
-* [Hand sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4995.md)
+* [Soap and clean water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2214.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
 
 ## This Technology enables the following mitigations
 

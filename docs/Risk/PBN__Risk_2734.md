@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2875.md)
 * [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
 * [Reduction of socialization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1092.md)
+* [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
+* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2349.md)
+* [Economic and social disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1510.md)
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
 * [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_853.md)
 * [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3796.md)
-* [Social and demographic change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_737.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2435.md)
-* [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1074.md)
-* [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2006.md)
+* [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
 
 ## Mitigations of this risk
 

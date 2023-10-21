@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2813 
 
-# __Government communications__
+# __Virtual fitness classes__
 
 ## Category to which it belongs
 
-* [Public administrators and decision-makers responsible for creating and implementing government policies and regulations at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_410.md)
+* [Public and private entities, including decision-makers, procurement, healthcare facilities, vulnerable communities, and the general public.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_411.md)
 
 ## Closest similar item
 
-* [Public communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2877.md)
-* [Communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2878.md)
-* [Telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2879.md)
-* [Public communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2880.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2707.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2881.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2882.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2710.md)
-* [Communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2883.md)
-* [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2884.md)
+* [Online fitness programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2811.md)
+* [Online fitness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2812.md)
+* [Fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2794.md)
+* [Fitness trainers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_791.md)
+* [Fitness industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1141.md)
+* [Exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2660.md)
+* [Gyms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_663.md)
+* [Gym](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1967.md)
+* [Fitne trainer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1845.md)
+* [Fitnes trainer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1961.md)
 

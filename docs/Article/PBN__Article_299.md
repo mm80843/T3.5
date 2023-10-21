@@ -33,8 +33,8 @@ Infodemic and the spread of fake news in the COVID-19-era
 ## List of risks in an article
 
 * [Spread of inaccurate medical information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1842.md)
-* [Lack of filters for reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1843.md)
 * [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
+* [Lack of filters for reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1843.md)
 
 ## This article points to following mitigation
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Social distancing guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
-* [Maintaining social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3413.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
-* [Clear and consistent social distancing guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3419.md)
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3420.md)
-* [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3421.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3414.md)
-* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
+* [Ineffective implementation of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1027.md)
+* [Lack of social distancing implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1196.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3413.md)
 * [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1152.md)
 * [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_307.md)
+* [Social distancing rule](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3410.md)
+* [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2047.md)
+* [Limited physical/social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_120.md)
+* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3412.md)
 
 ## Mitigations of this risk
 

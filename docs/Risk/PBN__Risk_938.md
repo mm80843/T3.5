@@ -22,7 +22,7 @@
 ## Mitigations of this risk
 
 * [Material selection to minimize mosquito attraction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1301.md)
+* [Selection of project sites away from breeding sites](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1298.md)
 * [Modification of building envelopes to reduce mosquito accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1299.md)
 * [Proper drainage systems to prevent stagnant water pools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1300.md)
-* [Selection of project sites away from breeding sites](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1298.md)
 

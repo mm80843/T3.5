@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Collaboration platforms and emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3824.md)
-* [Technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3825.md)
-* [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3826.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3700.md)
-* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3827.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3828.md)
-* [Continued technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3829.md)
-* [Smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3830.md)
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3831.md)
-* [Telecommunication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3832.md)
+* [Need for innovative and modern technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_424.md)
+* [Technology access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1258.md)
+* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1949.md)
+* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
+* [Reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
+* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1226.md)
+* [Limited innovation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2629.md)
+* [Technological limitations, lack of access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3025.md)
+* [Emerging variants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_432.md)
+* [Expansion of wearable technology in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_689.md)
 
 ## Mitigations of this risk
 

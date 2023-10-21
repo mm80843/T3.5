@@ -12,7 +12,7 @@
 * [Mainstreaming health criteria in public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_910.md)
 * [Inadequate health-oriented features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2699.md)
 * [Need for common standards in health data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_817.md)
-* [Healthcare condition-specific individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3792.md)
+* [Healthcare condition-specific individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3540.md)
 * [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_854.md)
 * [Noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1874.md)
 * [Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2211.md)

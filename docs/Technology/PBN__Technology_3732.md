@@ -17,5 +17,5 @@
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 * [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1316.md)
 * [Ai in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1506.md)
-* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4655.md)
+* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3767.md)
 

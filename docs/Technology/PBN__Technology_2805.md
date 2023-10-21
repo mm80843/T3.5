@@ -17,7 +17,7 @@
 * [Compliance measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1644.md)
 * [Inclusive policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1804.md)
 * [Neighborhood control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3342.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
 
 ## This Technology enables the following mitigations
 

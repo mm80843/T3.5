@@ -16,7 +16,7 @@
 * [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
 * [Insufficient disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
 * [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4168.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
 * [Failure to disinfect and clean work areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1198.md)
 
 ## Description of the risk

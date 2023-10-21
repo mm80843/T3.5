@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3856.md)
+* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3561.md)
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
 * [Concerns about job security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_165.md)
 * [Workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_720.md)
 * [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
 * [Lack of protection for staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1164.md)
-* [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3679.md)
+* [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3491.md)
 * [Workforce distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
 * [Impact on future workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_503.md)
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3663.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
 
 ## Description of the risk
 

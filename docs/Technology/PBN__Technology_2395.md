@@ -13,7 +13,7 @@
 * [Knowledge-base system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2398.md)
 * [Fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
 * [Fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_579.md)
-* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3924.md)
+* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3758.md)
 * [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_890.md)
 * [Credible sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3122.md)
 * [Reliable sources of information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_580.md)

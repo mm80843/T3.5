@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2049.md)
-* [Digital well-being apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_873.md)
-* [Well-being promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1512.md)
-* [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2652.md)
-* [Green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3067.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2061.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2487.md)
+* [Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3500.md)
+* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2259.md)
+* [Access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2663.md)
+* [Natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_422.md)
+* [Use of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1730.md)
+* [Lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3311.md)
+* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_118.md)
+* [Green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1391.md)
+* [Ensure proper daylight exposure in bedrooms and create dark environments for restful sleep](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1273.md)
 
 ## This Technology enables the following mitigations
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4745.md)
-* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4746.md)
+* [Individual controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_195.md)
+* [Access control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1576.md)
+* [Controlled access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3554.md)
 * [Control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
-* [Implement engineering and administrative controls, provide ppe.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4747.md)
-* [Implement administrative control measures, environmental control measures, and personal respiratory protection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4729.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+* [Access control system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2235.md)
+* [Control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
+* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
 * [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
-* [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4743.md)
-* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4010.md)
-* [Management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4328.md)
-* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4748.md)
+* [Access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_327.md)
 
 ## This Technology enables the following mitigations
 

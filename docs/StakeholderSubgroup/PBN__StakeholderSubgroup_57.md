@@ -22,7 +22,7 @@
 ## Stakeholders in this stakeholder subgroup
 
 * [Real estate sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1822.md)
-* [Housing and property](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2397.md)
 * [Real estate industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1216.md)
 * [Housing industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1908.md)
+* [Housing and property](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2397.md)
 

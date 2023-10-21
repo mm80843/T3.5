@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Smes’ difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4463.md)
+* [Smes’ difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3623.md)
 * [Pandemic impact on smes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_676.md)
 * [Financial fragility on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_412.md)
 * [Financial risks, stranded assets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2850.md)

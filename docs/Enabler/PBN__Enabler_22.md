@@ -12,22 +12,22 @@ enabler_023
 
 ## Closest similar item
 
-* [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_673.md)
-* [Augmented reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_674.md)
-* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_675.md)
-* [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_676.md)
-* [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_677.md)
-* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_678.md)
-* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_679.md)
-* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_457.md)
-* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_680.md)
-* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_187.md)
+* [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_97.md)
+* [Augmented reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_224.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_238.md)
+* [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_239.md)
+* [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_183.md)
+* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_240.md)
+* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_241.md)
+* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_95.md)
+* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_242.md)
+* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_92.md)
 
 ## Thees blueprints use this enabler
 
 * [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Augmented / virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
 

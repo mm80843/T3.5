@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3932.md)
-* [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3938.md)
-* [Architecture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3939.md)
-* [Optimal architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3940.md)
-* [Designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3941.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
 * [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3813.md)
+* [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2082.md)
 * [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
-* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3809.md)
-* [Innovative design approaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3942.md)
+* [Inadequate public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
+* [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
+* [Impact of space type and architectural characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_209.md)
+* [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2930.md)
+* [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_797.md)
+* [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
 
 ## Description of the risk
 
@@ -50,8 +50,8 @@ Higher energy consumption, increased costs, and potential discomfort for occupan
 ## Stakeholders who can mitigate this risk
 
 * [Architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
-* [Ministry of electricity and water mew](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_582.md)
 * [Architectural associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_584.md)
+* [Ministry of electricity and water mew](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_582.md)
 
 ## Articles mentionning the risk
 

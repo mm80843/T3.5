@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Hospital preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_360.md)
-* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3980.md)
+* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3579.md)
 * [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2416.md)
 * [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1461.md)
 * [Lack of healthcare data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1266.md)
-* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3622.md)
+* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
 * [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_22.md)
 * [Lack of capacity in traditional hospitals during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_441.md)
-* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3758.md)
+* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3529.md)
 * [Improper disposal of infectious hospital wastes and wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2287.md)
 
 ## Description of the risk

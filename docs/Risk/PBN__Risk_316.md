@@ -13,7 +13,7 @@
 * [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
 * [Limited access to healthcare facilities, lack of in-person care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3182.md)
 * [Limited access to patient health data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_158.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3757.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
 * [Ineffective reachability to patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_997.md)
 * [Healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2483.md)
 * [Lack of access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2469.md)

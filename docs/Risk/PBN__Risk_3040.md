@@ -14,7 +14,7 @@
 * [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
 * [Spread of covid-19 through water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_577.md)
 * [Spatial variations in disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_287.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3656.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
 * [Airborne transmission of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2747.md)
 * [Airborne transmission of disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2726.md)
 * [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)

@@ -26,7 +26,7 @@ Remote healthcare services, including delivery of care, diagnosis, and treatment
 
 ## Risks which can benefit from this action
 
+* [Strengthening health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_282.md)
 * [Implementation of npis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
 * [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_27.md)
-* [Strengthening health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_282.md)
 

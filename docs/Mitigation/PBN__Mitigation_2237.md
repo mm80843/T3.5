@@ -33,8 +33,8 @@ Adsorbing, absorbing, and degrading VOCs using activated carbon, water, and micr
 
 ## This Mitigation is enabled by the following technologies
 
-* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 * [Plant roots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3599.md)
 * [Activated carbon](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1889.md)
+* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 * [Microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
 

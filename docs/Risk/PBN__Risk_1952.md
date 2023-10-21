@@ -16,7 +16,7 @@
 * [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2767.md)
 * [Impact on financial stability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_502.md)
 * [Changes in sales and markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2826.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3753.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
 * [Financial vulnerability of smes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_678.md)
 
 ## Description of the risk

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Human interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3972.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3796.md)
 * [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2006.md)
 * [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
-* [Social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3569.md)
-* [Communication and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3706.md)
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
 * [Physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3092.md)
 * [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
-* [Social network](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4595.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3165.md)
+* [Communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_457.md)
+* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
+* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2734.md)
+* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_853.md)
 
 ## Mitigations of this risk
 

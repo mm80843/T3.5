@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2122.md)
-* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5006.md)
-* [Surveillance drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5007.md)
-* [Drones and robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5008.md)
-* [Delivery drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5009.md)
-* [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5010.md)
+* [Drone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2402.md)
+* [Robots, drones & automated vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3735.md)
+* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_414.md)
+* [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1169.md)
+* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
+* [Uavs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3331.md)
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
-* [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5011.md)
+* [Risk detection systems and drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2071.md)
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
-* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5012.md)
 
 ## This Technology belongs to this TechGroup
 

@@ -17,7 +17,7 @@
 * [Water and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_574.md)
 * [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1562.md)
 * [Increase in risk of west nile virus infection due to urban greening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_61.md)
-* [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3655.md)
+* [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3479.md)
 
 ## Description of the risk
 

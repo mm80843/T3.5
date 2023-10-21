@@ -64,8 +64,8 @@ Increased risk of infection for healthcare workers and the general public
 
 ## Technologies linked to the risk
 
-* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
 * [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2010.md)
+* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
 * [Intelligent information feedback](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2011.md)
 
 ## Property: has_RiskType

@@ -13,11 +13,11 @@
 * [Online educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2092.md)
 * [Education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2154.md)
 * [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1143.md)
+* [Training materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1659.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
+* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2128.md)
+* [Educational platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1858.md)
 * [Online educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_627.md)
-* [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3103.md)
-* [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
-* [Construction materials and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2203.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
 
 ## This Technology belongs to this TechGroup
 

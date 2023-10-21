@@ -13,7 +13,7 @@
 * [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_797.md)
 * [Insufficient building regulations and codes for transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_796.md)
 * [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2082.md)
-* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4427.md)
+* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3582.md)
 * [Workplace transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
 * [Changing needs and capacities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2919.md)
 * [Insufficient technical installations for adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_794.md)

@@ -11,13 +11,13 @@
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
 * [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3412.md)
 * [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)
-* [Maintaining social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3413.md)
 * [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1152.md)
-* [Social distancing guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
+* [Lack of social distancing implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1196.md)
 * [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2047.md)
 * [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1922.md)
 * [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3150.md)
 * [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3413.md)
 
 ## Description of the risk
 

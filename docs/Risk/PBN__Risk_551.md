@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Resistance to european solidarity and grants under next generation eu](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2817.md)
-* [Eu](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3902.md)
+* [Eu](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3574.md)
 * [Fragmented governance and lack of cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2039.md)
 * [Economic divisions in the eu due to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_550.md)
 * [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_805.md)

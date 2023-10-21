@@ -10,14 +10,14 @@
 
 * [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1592.md)
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2069.md)
+* [Privacy regulations compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_575.md)
 * [Data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2200.md)
 * [Data anonymization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
 * [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1587.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2842.md)
-* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
-* [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
-* [Privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1577.md)
-* [Regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_285.md)
+* [Data ownership policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
+* [Limits on data use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_107.md)
+* [Open data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_821.md)
+* [Data governance policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_106.md)
 
 ## This Technology enables the following mitigations
 

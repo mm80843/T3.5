@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_80.md)
+* [Innovative insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_375.md)
+* [Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2257.md)
 * [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
 * [Architectural & construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2097.md)
 * [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2098.md)
+* [Proper insulation materials and cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3077.md)
 * [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
 * [Construction materials and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2203.md)
 * [Green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3067.md)
-* [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
-* [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_180.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_797.md)
 
 ## This Technology enables the following mitigations
 

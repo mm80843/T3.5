@@ -17,7 +17,7 @@
 * [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
 * [Noise disturbances](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2546.md)
 * [Shifts in energy demands for the building sector during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_391.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
 
 ## Description of the risk
 

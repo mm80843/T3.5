@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Access to testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1995.md)
+* [Testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1065.md)
+* [Testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_37.md)
+* [Testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3142.md)
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_401.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3815.md)
-* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4161.md)
-* [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4437.md)
-* [Increase production and distribution of testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4438.md)
-* [Voluntary testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4159.md)
-* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3817.md)
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3814.md)
-* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4215.md)
-* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4216.md)
+* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2733.md)
+* [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1910.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
+* [Mobile testing centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1336.md)
+* [Rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1362.md)
 
 ## This Technology enables the following mitigations
 

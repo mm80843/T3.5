@@ -38,8 +38,8 @@ Maintain social distance and decrease droplet transmission by limiting human-to-
 ## This Mitigation is enabled by the following technologies
 
 * [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
+* [Physical barrier materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3307.md)
 * [Partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_199.md)
 * [Barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2510.md)
 * [Shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2725.md)
-* [Physical barrier materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3307.md)
 

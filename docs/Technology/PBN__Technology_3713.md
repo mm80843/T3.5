@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Bim software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2647.md)
-* [Implementation of bim technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4325.md)
 * [Design & construction software bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3741.md)
 * [Building information model bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1041.md)
-* [Building information modelling bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4326.md)
-* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4006.md)
-* [Ibem](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4327.md)
-* [Management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4328.md)
-* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4329.md)
-* [Value management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4330.md)
+* [Ble](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3361.md)
+* [Wbe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2297.md)
+* [Chws](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2185.md)
+* [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
+* [Mmtc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3360.md)
+* [Bicycles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2369.md)
 
 ## This Technology enables the following mitigations
 

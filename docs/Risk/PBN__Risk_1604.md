@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Improve park quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3474.md)
+* [Misinterpretation of park use data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1607.md)
 * [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1606.md)
-* [Park quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3475.md)
-* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3476.md)
-* [Restricting access to public parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3477.md)
-* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3478.md)
-* [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3479.md)
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
-* [Equitable park access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3481.md)
-* [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3482.md)
+* [Social vulnerability and park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1605.md)
+* [Limited quality of parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2858.md)
+* [Increased recreational use in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_892.md)
+* [Decline in urban park visitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1603.md)
+* [Limited access to parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2857.md)
+* [Inadequate provision of public parks without government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_143.md)
+* [Urban activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_18.md)
+* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_693.md)
 
 ## Description of the risk
 

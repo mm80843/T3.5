@@ -12,10 +12,10 @@
 * [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
 * [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
 * [Layout design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3502.md)
-* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3876.md)
+* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
 * [Spatial layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2787.md)
 * [Urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3928.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
 * [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
 * [Use modular design systems and adjustable walls/screens in apartment layouts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1265.md)
 

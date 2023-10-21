@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_438.md)
-* [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_439.md)
-* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_440.md)
-* [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_441.md)
-* [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_442.md)
-* [Privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_443.md)
-* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_444.md)
-* [Data management issues](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_445.md)
-* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_446.md)
 * [Data protection authorities](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_159.md)
+* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_184.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_169.md)
+* [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_105.md)
+* [Security and law enforcement](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_167.md)
+* [Cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_155.md)
+* [Personal safety and security](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_113.md)
+* [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_185.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_186.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_180.md)
 
 ## Stakeholders in this stakeholder subgroup
 
@@ -31,8 +31,8 @@
 * [Data owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1465.md)
 * [Data curators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1302.md)
 * [Data security professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1536.md)
-* [Datum collector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2454.md)
 * [Data protection officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2466.md)
+* [Datum collector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2454.md)
 * [Datum handler](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2430.md)
 * [Datum sharing partner](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2434.md)
 * [Datum protection officer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2432.md)

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2800.md)
-* [Manufacturing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2804.md)
-* [Local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2664.md)
-* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_124.md)
-* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2805.md)
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2638.md)
-* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2648.md)
-* [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_535.md)
-* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2806.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
+* [Manufacturing company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1955.md)
+* [Manufacturing industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1211.md)
+* [Companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_67.md)
+* [Manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_34.md)
+* [Technology companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_717.md)
+* [Industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_764.md)
+* [Company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1440.md)
+* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2622.md)
+* [Manufacturing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2624.md)
+* [Tech companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_964.md)
 
 ## Risks that can be mitigated by this stakeholder
 

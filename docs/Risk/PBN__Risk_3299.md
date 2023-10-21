@@ -14,8 +14,8 @@
 * [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1096.md)
 * [Comfort and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3298.md)
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4242.md)
-* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4270.md)
+* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3443.md)
 * [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
 * [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
 

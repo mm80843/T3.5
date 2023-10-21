@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2108.md)
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
-* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4474.md)
-* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4289.md)
 * [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
-* [Monitoring regulatory environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4553.md)
 * [Legal issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
 * [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_505.md)
 * [Varying legal frameworks, sociopolitical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2595.md)
 * [Legal problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_418.md)
+* [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1846.md)
+* [Difficulty in adapting to new rules and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2769.md)
+* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_811.md)
+* [Access to legal representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1180.md)
 
 ## Description of the risk
 

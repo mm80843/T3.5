@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Design spaces with lower occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3936.md)
-* [Compact design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4044.md)
-* [Density reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4045.md)
-* [Space and density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3451.md)
-* [Rethinking of density in cities and urban layouts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3446.md)
 * [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2930.md)
-* [High-rise density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4046.md)
-* [Middle density housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4047.md)
-* [Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3836.md)
-* [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3867.md)
+* [Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3549.md)
+* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1059.md)
+* [Lack of ugs density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
+* [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1448.md)
+* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2698.md)
+* [Impact of space type and architectural characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_209.md)
+* [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2004.md)
+* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1680.md)
+* [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1230.md)
 
 ## Description of the risk
 

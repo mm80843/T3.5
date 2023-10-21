@@ -10,14 +10,14 @@
 
 * [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
 * [Outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_250.md)
-* [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3958.md)
-* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3960.md)
-* [Outdoor design and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3959.md)
-* [Use of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3957.md)
-* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3963.md)
-* [Increased outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3962.md)
-* [Designate areas for relaxation within built environment, create outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4628.md)
-* [Availability of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3961.md)
+* [Outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_145.md)
+* [Outdoor terraces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_847.md)
+* [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2641.md)
+* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1269.md)
+* [Communal lounge areas in apartment designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1272.md)
+* [On-site recreational amenities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2239.md)
+* [Ergonomic chairs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1397.md)
+* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
 
 ## This Technology enables the following mitigations
 

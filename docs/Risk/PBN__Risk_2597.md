@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
 * [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
-* [Redundancy of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4147.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3521.md)
+* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
 * [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
-* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3913.md)
+* [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
+* [Lack of effective technical systems for coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_630.md)
 * [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
 * [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2944.md)
-* [Infrastructure development and planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3522.md)
-* [Rapidity of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4146.md)
-* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3735.md)
+* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3507.md)
+* [Lack of coordination and duplicative efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2572.md)
 
 ## Mitigations of this risk
 

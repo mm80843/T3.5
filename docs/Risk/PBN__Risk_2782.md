@@ -10,14 +10,14 @@
 
 * [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
 * [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_406.md)
-* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3766.md)
-* [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3767.md)
 * [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
+* [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1209.md)
+* [Overcrowding on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_528.md)
 * [Decreased revenue for transport operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_928.md)
-* [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3765.md)
+* [Increased contact in public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2845.md)
+* [Impact on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_916.md)
+* [Impacts on public transit](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1451.md)
 * [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_242.md)
-* [Higher dependency on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3057.md)
-* [Reduction in traffic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4001.md)
 
 ## Mitigations of this risk
 

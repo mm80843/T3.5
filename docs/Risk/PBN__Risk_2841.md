@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1317.md)
-* [Social distancing between occupants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3983.md)
-* [Less crowded environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3453.md)
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1487.md)
+* [Risk of transmission during social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_228.md)
+* [Increased commuting and social disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2846.md)
+* [Transmission in gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3072.md)
+* [Crowding and congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1625.md)
+* [Risk of transmission in enclosed and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2096.md)
+* [Crowd congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3090.md)
 * [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3321.md)
-* [Avoidance of large gatherings, and gatherings in smaller public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3455.md)
-* [Avoidance of crowds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3984.md)
-* [Population-wide social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
-* [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_131.md)
-* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_853.md)
-* [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3816.md)
+* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1468.md)
 
 ## Mitigations of this risk
 

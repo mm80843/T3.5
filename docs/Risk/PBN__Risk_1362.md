@@ -17,7 +17,7 @@
 * [Privacy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3231.md)
 * [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
 * [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_960.md)
-* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3509.md)
+* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
 
 ## Description of the risk
 

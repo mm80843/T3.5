@@ -10,14 +10,14 @@
 
 * [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_471.md)
 * [Implement strict hygiene protocols, provide personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2458.md)
+* [Strict precautions and infection control training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1093.md)
 * [Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1995.md)
-* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5109.md)
-* [Strict infection control and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4685.md)
-* [Providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4601.md)
-* [Implementation of safety protocols, including personal protective equipment ppe , proper handling and disposal of samples, and adherence to biosafety guidelines, can minimize the risk of exposure and spread of the virus in the laboratory.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2166.md)
-* [Disinfection equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4787.md)
-* [Use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4092.md)
-* [Increase production and distribution of personal protective equipment, stockpile reserves for emergencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2719.md)
+* [Deploy viral testing for healthcare staff, ensure availability of protective equipment and medical supplies, increase investment in disease prevention infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2393.md)
+* [Improve access to testing and healthcare facilities, promote and enforce proper infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3090.md)
+* [Implement strict infection prevention and control measures in care facilities, including regular testing, isolation of infected individuals, and robust vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1848.md)
+* [Implementing safety protocols, providing personal protective equipment, promoting good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2452.md)
+* [Establish cold chain management systems, including proper storage and transport facilities, temperature monitoring, and staff training. prioritize high-risk populations for vaccination.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2506.md)
+* [Implement effective infection control measures, such as regular cleaning and disinfection, ventilation systems, and promoting personal hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2504.md)
 
 ## Risks possibly mitigated by this Mitigation
 

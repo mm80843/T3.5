@@ -16,7 +16,7 @@
 * [Increased travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2960.md)
 * [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1028.md)
 * [Economic impact, mobility restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2733.md)
-* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
+* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
 * [Urban mobility and commute patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2352.md)
 
 ## Description of the risk
@@ -63,8 +63,8 @@ Increased risk of disease outbreaks in naïve populations.
 
 ## Technologies linked to the risk
 
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 * [Strengthen border control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1466.md)
 
 ## Property: has_RiskType

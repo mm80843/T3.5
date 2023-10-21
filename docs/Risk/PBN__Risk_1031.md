@@ -14,7 +14,7 @@
 * [Lack of communication and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1290.md)
 * [Lack of trust in information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_973.md)
 * [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1770.md)
-* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4344.md)
+* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
 * [Lack of transparent information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2751.md)
 * [Lack of social cohesion and trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3278.md)
 * [Decreased trust in official sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1560.md)

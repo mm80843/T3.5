@@ -12,7 +12,7 @@
 * [Risk assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1455.md)
 * [Risk assessment and management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1138.md)
 * [Risk assessment and management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1198.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
 * [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2808.md)
 * [Data analytics for identifying high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1523.md)
 * [Comprehensive risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2306.md)

@@ -33,6 +33,6 @@ Enables virtual consultations and diagnoses, reducing the need for in-person vis
 
 ## This Mitigation is enabled by the following technologies
 
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 

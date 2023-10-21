@@ -1,4 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_173 
 
-# __Data integration platforms__
+# __Automation technologies__
+
+## Category to which it belongs
+
+* [Simplifying tasks with advanced tools and systems that require minimal human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_80.md)
+
+## Closest similar item
+
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_172.md)
+* [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_171.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
+* [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_66.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_200.md)
+* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_199.md)
+* [Testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_198.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_107.md)
+* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_156.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_59.md)
 

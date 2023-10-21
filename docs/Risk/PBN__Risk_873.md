@@ -15,7 +15,7 @@
 * [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
 * [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
 * [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1570.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3814.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
 * [High energy consumption in unoccupied buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_976.md)
 * [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
 

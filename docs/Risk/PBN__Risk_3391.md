@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Limited diagnostic and screening tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2161.md)
-* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4347.md)
+* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3611.md)
 * [Ineffective disease screening and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1782.md)
 * [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
 * [Inaccurate symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_674.md)
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3393.md)
 * [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2567.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3600.md)
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3599.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3453.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
 * [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3366.md)
 
 ## Mitigations of this risk

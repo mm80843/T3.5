@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Inadequate infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1411.md)
 * [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
-* [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3520.md)
+* [Inadequate public infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1232.md)
+* [Lack of facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
+* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
+* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1859.md)
+* [Poor infrastructure, inadequate housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2409.md)
 * [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3521.md)
+* [Lack of environmental management and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_946.md)
 * [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2834.md)
-* [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3324.md)
-* [Incomplete infrastructure, coordination challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2597.md)
-* [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2944.md)
-* [Lack of support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2829.md)
-* [Infrastructure development and planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3522.md)
 
 ## Mitigations of this risk
 

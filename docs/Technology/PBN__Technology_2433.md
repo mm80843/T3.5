@@ -16,7 +16,7 @@
 * [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
 * [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
 * [Improved virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_59.md)
-* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3846.md)
+* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
 * [Attenuated/inactivated virus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3673.md)
 
 ## This Technology enables the following mitigations

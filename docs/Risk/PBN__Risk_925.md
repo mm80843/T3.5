@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Improve testing methods, consider testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3664.md)
-* [Rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4394.md)
-* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3665.md)
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4397.md)
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3393.md)
 * [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3116.md)
-* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4393.md)
-* [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4403.md)
-* [Increase testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4413.md)
-* [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4414.md)
+* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_740.md)
+* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2681.md)
+* [Inefficient testing for covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_462.md)
+* [Insufficient testing data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1300.md)
+* [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1495.md)
+* [Lack of testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_543.md)
+* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_335.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3618.md)
 
 ## Mitigations of this risk
 

@@ -45,8 +45,8 @@ During the pandemic, there are some things we can do to make public places safer
 * [Establish a one-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_264.md)
 * [Checkpoint allocation for monitory and recording opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_265.md)
 * [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_271.md)
-* [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_270.md)
 * [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_272.md)
+* [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_270.md)
 
 ## This article points to following mitigation
 

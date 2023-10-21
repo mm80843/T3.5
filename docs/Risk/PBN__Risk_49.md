@@ -74,8 +74,8 @@ Lack of informed consent, potential infringement on privacy rights
 * [General population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [General public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
-* [Citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 * [Professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1190.md)
+* [Citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_54.md)
 
 ## Technologies linked to the risk
 

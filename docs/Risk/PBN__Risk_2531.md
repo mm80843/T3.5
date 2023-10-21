@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Resistance to change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2530.md)
 * [Material shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_555.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3634.md)
+* [Disruption in material supply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3160.md)
+* [Resistance to using new systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3245.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3474.md)
 * [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1083.md)
 * [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
 * [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_245.md)
-* [Material selection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3635.md)
-* [Plastic barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3641.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3642.md)
-* [Adaptation of building envelope materials and techniques](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3643.md)
-* [Technology and materials for protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3644.md)
+* [Material shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3167.md)
+* [Risk of resistance development to anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1174.md)
 
 ## Mitigations of this risk
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3468 
 
-# __Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.__
+# __Implementing administrative controls__
 
 ## Category to which it belongs
 
-* [Overpopulated urban areas create spatial inequalities, poor living conditions, and increased risks for diseases and biodiversity loss.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
+* [Challenges in governance coordination, geopolitical tensions, inadequate policies, limited collaboration, and ineffective management hinder effective response to crises.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
-* [Urban planning and design policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4074.md)
-* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
-* [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4075.md)
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3447.md)
-* [Enhanced urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4073.md)
-* [Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3836.md)
-* [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3653.md)
-* [Redesigning urban spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4084.md)
-* [Urban planning and infrastructure to accommodate growing populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4091.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2119.md)
+* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1315.md)
+* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3469.md)
+* [Implement engineering and administrative controls, provide ppe.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3580.md)
+* [Implement administrative control measures, environmental control measures, and personal respiratory protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3652.md)
+* [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2118.md)
+* [Control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3270.md)
+* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3653.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
+* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3435.md)
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3953.md)
-* [Good maintenance practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4644.md)
-* [Regular maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4645.md)
-* [Regular inspection and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4646.md)
-* [Regular cleaning and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4647.md)
-* [Monitoring systems and maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3952.md)
-* [Regular hvac maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4648.md)
-* [Maintenance and decontamination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4649.md)
-* [Promptly repair and maintain infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4650.md)
-* [Regular maintenance and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4651.md)
+* [Regular maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_651.md)
+* [Maintenance needs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2933.md)
+* [Routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3458.md)
+* [Maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1890.md)
+* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_147.md)
+* [Regular maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1323.md)
+* [Maintenance and inspection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1182.md)
+* [Repair](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3715.md)
+* [Sensor maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_988.md)
+* [Proper maintenance and operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2293.md)
 
 ## This Technology enables the following mitigations
 

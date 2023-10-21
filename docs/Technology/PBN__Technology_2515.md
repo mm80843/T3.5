@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Digital tracking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5116.md)
-* [Digital transformation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5117.md)
-* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4117.md)
-* [Integration of digital solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5118.md)
-* [Implementing digital and ict tools for retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5119.md)
-* [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5120.md)
-* [Bridge the digital divide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5121.md)
-* [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3788.md)
-* [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4017.md)
-* [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5122.md)
+* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2748.md)
+* [Digital integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_717.md)
+* [Software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2160.md)
+* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
+* [Digital content creation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3237.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
+* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3099.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
+* [Digital management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2036.md)
 
 ## This Technology enables the following mitigations
 

@@ -10,7 +10,7 @@
 
 * [Exposure to greenspace and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_173.md)
 * [Increased recreational use in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_892.md)
-* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3472.md)
+* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
 * [Impact of extended stays in indoor environments on human health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_389.md)
 * [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3287.md)
 * [Reduced physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3075.md)

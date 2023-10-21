@@ -11,7 +11,7 @@
 * [Legal advisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1404.md)
 * [Experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_538.md)
 * [Legal teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1254.md)
-* [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2820.md)
+* [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2727.md)
 * [Technical experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_716.md)
 * [Legal departments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1434.md)
 * [Risk experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1073.md)

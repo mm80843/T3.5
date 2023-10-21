@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_265 
 
-# __Environmental sensors__
+# __Energy storage__
 
 ## Category to which it belongs
 
-* [Devices that detect and measure various aspects such as water, environment, pressure, temperature, light, and can be worn by individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_65.md)
+* [Efficiently controlling sustainable power resources and storing energy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_94.md)
 
 ## Closest similar item
 
-* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_334.md)
-* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_261.md)
-* [Environmental monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_335.md)
-* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_243.md)
-* [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_257.md)
-* [Indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_271.md)
-* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_244.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
-* [Air pollution sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_258.md)
-* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_287.md)
+* [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_29.md)
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_264.md)
+* [Energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_196.md)
+* [Improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_247.md)
+* [Smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_111.md)
+* [Home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_246.md)
+* [Power management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_197.md)
+* [Smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_118.md)
+* [Hvac technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_132.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_137.md)
 

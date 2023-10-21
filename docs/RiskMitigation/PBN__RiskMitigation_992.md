@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3139.md)
-* [Concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3140.md)
-* [Modeling studies of viral activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3141.md)
-* [Virus transmission simulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3142.md)
-* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3143.md)
-* [Concentration method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3144.md)
+* [Evaluate and compare the effectiveness of different virus concentration methods for enveloped viruses in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1481.md)
+* [Specific measures for virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_230.md)
+* [Standardization and optimization of concentration methods for efficient recovery of viral rna from wastewater samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1599.md)
+* [Improved controls for monitoring virus recovery efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2.md)
+* [Develop and implement controls to monitor virus recovery efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2299.md)
+* [Research and development of antiviral technologies that are effective against a wider range of viruses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2035.md)
+* [Implement interventions to reduce viral load and interrupt the spread of the virus.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2064.md)
 * [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1820.md)
-* [Deployment of viral testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3145.md)
-* [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3146.md)
-* [Virus quantification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3147.md)
+* [Implement nphis in a timely manner, closely monitor the spread of the virus, prioritize early intervention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2026.md)
+* [Comparative analysis of virus rna concentration and reported covid-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5.md)
 
 ## Benefits linked to a risk
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Further develop and optimize off-site construction methods, invest in new materials and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3630.md)
-* [Use of off-site construction methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4011.md)
 * [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1547.md)
-* [Offsite construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4012.md)
 * [Environmental impact of construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2702.md)
 * [Construction speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3303.md)
 * [Financial impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1548.md)
 * [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1083.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3810.md)
 * [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1550.md)
+* [Decline in housing construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_304.md)
+* [Uncertainty in construction market](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1932.md)
+* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1591.md)
+* [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
 
 ## Description of the risk
 

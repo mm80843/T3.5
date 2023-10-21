@@ -50,8 +50,8 @@ Mobile Technology Solution for COVID-19: Surveillance and Prevention
 
 ## List of risks in an article
 
-* [Low adoption and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1939.md)
 * [Reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1941.md)
+* [Low adoption and accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1939.md)
 * [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1362.md)
 * [Inaccurate tracking and notifications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1938.md)
 * [Misinformation and fake applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1940.md)

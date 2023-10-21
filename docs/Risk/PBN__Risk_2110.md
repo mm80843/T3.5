@@ -42,8 +42,8 @@ High number of cases overwhelming healthcare facilities and resources
 
 ## Mitigations of this risk
 
-* [Increase healthcare capacity, allocate resources effectively](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2941.md)
 * [Increased healthcare capacity, resource allocation planning, telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2790.md)
+* [Increase healthcare capacity, allocate resources effectively](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2941.md)
 
 ## Name of the risk
 

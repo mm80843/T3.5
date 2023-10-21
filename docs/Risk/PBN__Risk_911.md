@@ -9,9 +9,9 @@
 ## Closest similar item
 
 * [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1448.md)
-* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3473.md)
-* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3646.md)
-* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3472.md)
+* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3477.md)
+* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
 * [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
 * [Neglected or poorly maintained green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3327.md)
 * [Lack of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1295.md)

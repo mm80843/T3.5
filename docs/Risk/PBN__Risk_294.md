@@ -45,13 +45,13 @@ Inadequate ventilation and air circulation
 
 * [Green plants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1349.md)
 * [Indoor plants as air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_366.md)
+* [Improve ventilation, use air purifiers, control humidity, minimize pollution sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2378.md)
+* [Improve ventilation systems, increase outdoor air circulation, and implement air purification technologies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2305.md)
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_135.md)
 * [Biofiltration technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_995.md)
 * [Ensure proper ventilation systems, use air purifiers, regular maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1531.md)
 * [Regular maintenance and cleaning of ventilation systems, use of air purifiers and filters, proper ventilation design.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1566.md)
 * [Improve ventilation systems, use hepa filters, maintain proper humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2140.md)
-* [Improve ventilation systems, increase outdoor air circulation, and implement air purification technologies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2305.md)
-* [Improve ventilation, use air purifiers, control humidity, minimize pollution sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2378.md)
 * [Control sources, design ventilation systems, clean air.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2994.md)
 * [Indoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_169.md)
 * [Adequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_210.md)
@@ -73,8 +73,8 @@ Health problems such as respiratory issues
 
 ## Stakeholders who can mitigate this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Architects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_431.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [Hvac specialists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_621.md)
@@ -90,9 +90,9 @@ Health problems such as respiratory issues
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
 * [Especially those with respiratory conditions or allergies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_648.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Offices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1033.md)
 * [Occupants of indoor spaces homes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1032.md)
 * [Particularly those in crowded and poorly ventilated environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1158.md)

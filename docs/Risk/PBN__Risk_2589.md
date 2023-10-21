@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
+* [Ethical concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
 * [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2448.md)
-* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3582.md)
-* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3583.md)
+* [Lack of data standardization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1919.md)
+* [Ethical dilemmas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3135.md)
+* [Lack of standards for publication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1332.md)
 * [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
 * [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
-* [Common standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
 * [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_45.md)
-* [Ethical approval](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3585.md)
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
+* [Lack of standardisation, data format limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2596.md)
 
 ## Mitigations of this risk
 

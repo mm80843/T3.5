@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Implementation of adaptable hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4734.md)
-* [Retrofitting hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4735.md)
-* [Optimized operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4736.md)
-* [Upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_645.md)
-* [Optimize hvac system operations, implement energy-efficient measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4737.md)
-* [Implementing hvac system upgrades, increasing ventilation rates, and using air filtration and purification technologies.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4738.md)
-* [Ventilation system modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3031.md)
-* [Enhanced hvac filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4731.md)
-* [Proper design and maintenance of hvac systems, use of individual controls, insulation, and shading.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4739.md)
-* [Installation of efficient hvac systems, proper insulation, and controls for temperature regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4740.md)
+* [Hvac system modification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2295.md)
+* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_660.md)
+* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1517.md)
+* [Hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
+* [Improved design and operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
+* [Upgraded hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_668.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_194.md)
+* [Hvac systems with this capability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3591.md)
+* [In hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_681.md)
 
 ## This Technology enables the following mitigations
 

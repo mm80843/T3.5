@@ -53,9 +53,9 @@ Encouraging individuals to work from home to minimize the need for commuting and
 * [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
 * [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_717.md)
 * [Remote communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3089.md)
+* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
 * [Collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
 * [Internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
-* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
 * [Technology for telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3243.md)
 * [Telecommunication technology laptops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2686.md)
 

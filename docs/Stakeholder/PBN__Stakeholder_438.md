@@ -15,7 +15,7 @@
 * [Waste management workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1206.md)
 * [Waste management worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2500.md)
 * [Waste management staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_493.md)
-* [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3220.md)
+* [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2728.md)
 * [Waste management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1487.md)
 * [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1484.md)
 * [Waste management authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_590.md)

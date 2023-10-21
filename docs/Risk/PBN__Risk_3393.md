@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4397.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4315.md)
-* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4317.md)
-* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4393.md)
-* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4314.md)
-* [Testing and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4398.md)
-* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4312.md)
-* [Rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4394.md)
 * [Lack of testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_543.md)
-* [Free testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4399.md)
+* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_335.md)
+* [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1495.md)
+* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2341.md)
+* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2681.md)
+* [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3116.md)
+* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2340.md)
+* [Slow testing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_925.md)
+* [Lack of access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3141.md)
+* [Insufficient testing data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1300.md)
 
 ## Mitigations of this risk
 

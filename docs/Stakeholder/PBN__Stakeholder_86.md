@@ -20,7 +20,7 @@
 * [National and sub-national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1420.md)
 * [Governments and businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1244.md)
 * [National](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_360.md)
-* [National and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2572.md)
+* [National and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2534.md)
 * [Private businesses and economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_290.md)
 * [Local and national governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_548.md)
 

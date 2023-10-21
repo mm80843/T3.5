@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Self-sanitizing surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4033.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4031.md)
-* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3855.md)
 * [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2211.md)
+* [Sanitization devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_718.md)
+* [Easy-to-sanitize materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
 * [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_785.md)
-* [Regular cleaning and disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4034.md)
-* [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4769.md)
-* [Regular surface disinfection and use of self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4030.md)
 * [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_786.md)
+* [Sanitization procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1416.md)
+* [Enhanced sanitization measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1238.md)
+* [Enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_735.md)
+* [Sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2368.md)
 
 ## This Technology enables the following mitigations
 

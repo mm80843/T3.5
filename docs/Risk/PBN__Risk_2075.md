@@ -50,8 +50,8 @@ Exacerbation of existing inequalities, uneven access to resources and benefits o
 ## Stakeholders who can mitigate this risk
 
 * [Government bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_973.md)
-* [Private sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_57.md)
 * [Civil society organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_232.md)
+* [Private sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_57.md)
 
 ## Articles mentionning the risk
 

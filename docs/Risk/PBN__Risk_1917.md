@@ -13,7 +13,7 @@
 * [Misinformation and confusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3220.md)
 * [Inconsistencies in accuracy measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1253.md)
 * [False and misleading information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2102.md)
-* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4327.md)
+* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3609.md)
 * [Misinformed decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2739.md)
 * [Incomplete or inaccurate data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3000.md)
 * [Loss of validity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)

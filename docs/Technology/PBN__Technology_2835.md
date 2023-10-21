@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2130.md)
+* [Smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3718.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
+* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3099.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2799.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
+* [Technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2393.md)
 * [Technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3100.md)
-* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2034.md)
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2106.md)
-* [It infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3218.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
-* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2196.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2061.md)
-* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_262.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
-* [Surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2852.md)
+* [Technological means](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3373.md)
 
 ## This Technology enables the following mitigations
 

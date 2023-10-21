@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Implementation of bim technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4325.md)
 * [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3713.md)
 * [Design & construction software bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3741.md)
-* [Building information modelling bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4326.md)
 * [Building information model bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1041.md)
-* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4006.md)
-* [Simulation software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4332.md)
-* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4151.md)
-* [Open-source model](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5265.md)
-* [Develop tools and platforms for easy access to data from multiple sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5266.md)
+* [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_637.md)
+* [Financial management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_128.md)
+* [Project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [Software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3372.md)
+* [Software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2160.md)
+* [Data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_779.md)
+* [Gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3037.md)
 
 ## This Technology enables the following mitigations
 

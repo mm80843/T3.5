@@ -64,8 +64,8 @@ Vulnerability to fluctuations in the global economy and changes in foreign deman
 ## Technologies linked to the risk
 
 * [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
-* [Forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
 * [Risk assessment and management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1198.md)
+* [Forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
 
 ## Property: has_RiskType
 

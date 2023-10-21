@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Traveling individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2834.md)
+* [Traveling individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2635.md)
 * [Travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_558.md)
 * [Travelers booking accommodations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1077.md)
 * [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_551.md)
@@ -17,7 +17,7 @@
 * [Industries affected by travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1027.md)
 * [Travel agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_561.md)
 * [Travel agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1819.md)
-* [Transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2920.md)
+* [Transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2661.md)
 
 ## Risk affecting this stakeholder
 

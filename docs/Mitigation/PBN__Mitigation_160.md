@@ -33,7 +33,7 @@ Analysis of heart rate, steps, and sleep data to detect pre-symptomatic cases of
 
 ## This Mitigation is enabled by the following technologies
 
-* [Apple watches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2243.md)
 * [Smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2241.md)
+* [Apple watches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2243.md)
 * [Fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2242.md)
 

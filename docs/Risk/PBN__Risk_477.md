@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3523.md)
-* [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4346.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
+* [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3610.md)
 * [Contamination of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1326.md)
 * [Safety risks for workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
-* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4347.md)
+* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3611.md)
 * [Risk of exposure in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_362.md)
 * [Infection and transmission to healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3221.md)
-* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3859.md)
+* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3564.md)
 * [Loss of healthcare workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_408.md)
 
 ## Mitigations of this risk

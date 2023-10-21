@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_171 
 
-# __Big urban data__
+# __Automation systems__
 
 ## Category to which it belongs
 
-* [Harnessing and analyzing extensive amounts of information, both structured and unstructured, for insights and patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_58.md)
+* [Simplifying tasks with advanced tools and systems that require minimal human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_80.md)
 
 ## Closest similar item
 
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_132.md)
-* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_9.md)
-* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
-* [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_129.md)
-* [Road network data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_382.md)
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_383.md)
-* [Urban surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_384.md)
-* [Iot and big data technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_385.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_386.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_387.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_173.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_172.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_200.md)
+* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_199.md)
+* [Testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_198.md)
+* [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_66.md)
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_201.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_152.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_153.md)
 

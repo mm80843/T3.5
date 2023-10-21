@@ -10,14 +10,14 @@
 
 * [Challenges in ventilator production](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2376.md)
 * [Shortage of ventilators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_926.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3791.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3539.md)
 * [Inefficient ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1726.md)
 * [Protection by ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1187.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3787.md)
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3789.md)
-* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3790.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3535.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3537.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3538.md)
 * [Inefficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3784.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3532.md)
 
 ## Description of the risk
 

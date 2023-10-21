@@ -12,16 +12,16 @@
 
 ## Closest similar item
 
-* [Cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3168.md)
-* [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3435.md)
-* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3436.md)
-* [Recognized cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3437.md)
+* [Cleaning service](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1754.md)
+* [Cleaning service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1589.md)
+* [Cleaning companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1205.md)
+* [Cleaning service provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1749.md)
+* [Cleaning company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1720.md)
+* [Cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2713.md)
+* [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2765.md)
+* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2766.md)
+* [Recognized cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2767.md)
 * [Cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_654.md)
-* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3169.md)
-* [Cleaning solutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3438.md)
-* [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3174.md)
-* [Automated cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3439.md)
-* [Cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3440.md)
 
 ## Risks that can be mitigated by this stakeholder
 

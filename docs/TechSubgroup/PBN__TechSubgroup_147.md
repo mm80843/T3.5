@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_194.md)
 * [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
-* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_193.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_192.md)
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_191.md)
-* [Enhanced surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_199.md)
-* [Development of novel surveillance systems, improved reporting and communication channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_200.md)
-* [Mobile technology surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_201.md)
-* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_202.md)
-* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_203.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_31.md)
+* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_25.md)
+* [Surveillance and occupancy tracking](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_146.md)
+* [Monitoring systems and sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_119.md)
+* [Mobile and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_107.md)
+* [Technologies for monitoring and mitigation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_64.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_133.md)
+* [Remote monitoring and patient management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_108.md)
+* [Environmental and outdoor monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_91.md)
 
 ## This Technology belongs to this TechnologySubgroup
 
@@ -26,17 +26,17 @@
 * [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
 * [Increased surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_523.md)
+* [Digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1558.md)
+* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
+* [Urban surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1548.md)
 * [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2072.md)
 * [Travel surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_547.md)
 * [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1856.md)
-* [Digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1558.md)
-* [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_268.md)
-* [Real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1706.md)
 * [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1127.md)
-* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
+* [Real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1706.md)
+* [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_268.md)
 * [Surveillance systems for disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
 * [Disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1884.md)
-* [Urban surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1548.md)
 * [Monitoring software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1657.md)
 * [Cctv systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1656.md)
 

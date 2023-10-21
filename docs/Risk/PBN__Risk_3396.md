@@ -14,7 +14,7 @@
 * [Safety risks for workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1085.md)
 * [Safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1777.md)
 * [Inadequate safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2631.md)
-* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3859.md)
+* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3564.md)
 * [Occupational health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1847.md)
 * [Health and safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_557.md)
 

@@ -43,11 +43,11 @@
 * [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2347.md)
 * [Neglected green space quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_533.md)
 * [Population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_495.md)
+* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
+* [Lack of ugs density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
 * [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-* [Lack of ugs density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
 * [Loss of ugs due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2233.md)
-* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
 * [Poor translation accuracy in speech-transcribing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2370.md)
 
 ## This Stakeholder belongs to this StakeholderGroup

@@ -14,7 +14,7 @@
 * [Disrupted education during school closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3061.md)
 * [School closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1864.md)
 * [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
-* [Curfews](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3822.md)
+* [Curfews](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3544.md)
 * [Lack of personal protective equipment and professional training in family members](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2665.md)
 * [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1865.md)
 * [Cancellation of educational activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_361.md)
@@ -67,9 +67,9 @@ Increased risk of infections in schools and day care facilities, potentially lea
 
 ## Technologies linked to the risk
 
-* [Implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
-* [Use of personal protective equipment in schools and day care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_553.md)
 * [Use of contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_555.md)
+* [Use of personal protective equipment in schools and day care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_553.md)
+* [Implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
 
 ## Property: has_RiskType
 

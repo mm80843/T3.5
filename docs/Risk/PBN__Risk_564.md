@@ -15,9 +15,9 @@
 * [Intensive policy maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2294.md)
 * [Lack of business continuity planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2202.md)
 * [Low adoption of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1803.md)
-* [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4122.md)
-* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3431.md)
-* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
+* [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3583.md)
+* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
 
 ## Mitigations of this risk
 

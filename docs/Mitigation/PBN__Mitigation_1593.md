@@ -34,6 +34,6 @@ Achieves energy savings through digitalisation, balances the energy impact globa
 ## This Mitigation is enabled by the following technologies
 
 * [Treatment plant automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3177.md)
-* [Variable frequency drives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3178.md)
 * [Aeration control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3179.md)
+* [Variable frequency drives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3178.md)
 

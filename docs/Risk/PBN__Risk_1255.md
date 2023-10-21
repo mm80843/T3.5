@@ -61,9 +61,9 @@ Decreased knowledge acquisition and skill development.
 
 ## Technologies linked to the risk
 
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_386.md)
 * [Flipped classroom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_384.md)
 * [Video lectures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_385.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_386.md)
 
 ## Property: has_RiskType
 

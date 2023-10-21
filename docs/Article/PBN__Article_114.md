@@ -62,6 +62,6 @@ Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing
 * [Testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_37.md)
 * [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
-* [Sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_30.md)
 * [Travel tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_38.md)
+* [Sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_30.md)
 

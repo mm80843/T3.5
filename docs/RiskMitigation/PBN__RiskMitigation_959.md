@@ -11,7 +11,7 @@
 * [Increase the density of ugs per person by creating new green spaces and expanding existing ones.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2245.md)
 * [Develop strategies to ensure equal access and distribution of ugs throughout the city.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2244.md)
 * [Raising awareness about the relevance of ugs in urban landscape](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_963.md)
-* [Rethinking the city’s landscape and role of ugs in life quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4005.md)
+* [Rethinking the city’s landscape and role of ugs in life quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3282.md)
 * [Implement regular maintenance schedules and allocate sufficient resources for ugs upkeep.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2248.md)
 * [Providing support and assistance to vulnerable populations in accessing ugs, such as transportation services or home visits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2932.md)
 * [Improve accessibility to ugs by creating inclusive infrastructure and providing transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2246.md)

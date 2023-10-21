@@ -41,9 +41,9 @@ Applications of ultraviolet germicidal irradiation disinfection in health care f
 
 * [Lack of standardized tests and protocols for uvgi efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1742.md)
 * [Uvgi systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
+* [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 * [Effectiveness of uvgi decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1740.md)
 * [Uvgi systems can cause health risks if not properly installed and maintained](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1741.md)
-* [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 * [Insufficient evidence on uvgi as an engineering control for preventing healthcare-associated tuberculosis transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1739.md)
 * [Lack of definitive epidemiologic data on the ability of uvgi systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1746.md)
 * [Uvgi systems may not be a reliable method for preventing surgical site infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1743.md)

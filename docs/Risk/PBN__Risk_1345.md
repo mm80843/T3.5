@@ -10,11 +10,11 @@
 
 * [Community mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_405.md)
 * [Community participation in control policies and preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_472.md)
-* [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4122.md)
+* [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3583.md)
 * [Lack of community participation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2534.md)
 * [Exponential community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1508.md)
 * [Lack of community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2125.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3414.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3413.md)
 * [Nonevidence-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2741.md)
 * [Delay in control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2155.md)
 * [Overcrowding and poor community behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_355.md)

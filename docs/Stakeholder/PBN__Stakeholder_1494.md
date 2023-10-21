@@ -16,7 +16,7 @@
 * [Educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_66.md)
 * [Ministry of education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1277.md)
 * [Education institution](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1625.md)
-* [Education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2833.md)
+* [Education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2593.md)
 * [Education ministries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1359.md)
 
 ## Risks that can be mitigated by this stakeholder

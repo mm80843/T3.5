@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_56.md)
-* [Telephone network](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_58.md)
-* [Telecommunication networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_59.md)
 * [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_34.md)
-* [Telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_60.md)
-* [Telecommunication technology internet](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_61.md)
-* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_62.md)
-* [Telecommunication infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
 * [Mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_37.md)
-* [Connectivity technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_64.md)
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
+* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_33.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_43.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
+* [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_35.md)
+* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_44.md)
+* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_41.md)
+* [Massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_38.md)
 

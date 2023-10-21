@@ -8,11 +8,11 @@
 
 ## Closest similar item
 
-* [Infuse risk communication into policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3722.md)
+* [Infuse risk communication into policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3506.md)
 * [Uncertainty of maintaining intensive policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_80.md)
 * [Lack of evidence-based policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3207.md)
 * [Lack of evidence-informed decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_393.md)
-* [Data policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3721.md)
+* [Data policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3505.md)
 * [Value-based decision-making and policy support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1899.md)
 * [Lack of real-time data for policy intervention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_580.md)
 * [Intensive policy maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2294.md)
@@ -60,8 +60,8 @@ Difficulties in making informed decisions, potential for ineffective or inapprop
 ## People affected by this risk
 
 * [Researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [Policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [Public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 
 ## Technologies linked to the risk
 

@@ -16,7 +16,7 @@
 * [Underserved communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_411.md)
 * [Workers in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1013.md)
 * [Residents of residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_970.md)
-* [Fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2729.md)
+* [Fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2710.md)
 * [Local community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2350.md)
 
 ## Risk affecting this stakeholder

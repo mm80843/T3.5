@@ -16,7 +16,7 @@
 * [Inventory shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2988.md)
 * [Financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
 * [Financial fragility on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_412.md)
-* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3718.md)
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3502.md)
 * [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2148.md)
 
 ## Mitigations of this risk

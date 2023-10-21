@@ -12,12 +12,12 @@
 * [Laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_5.md)
 * [Laboratory management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_700.md)
 * [Laboratory supervisors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1051.md)
-* [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2565.md)
+* [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2527.md)
 * [Laboratory technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_698.md)
 * [Clinical laboratory](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1789.md)
 * [Researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
 * [Clinical laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1380.md)
-* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2566.md)
+* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2528.md)
 
 ## Risks that can be mitigated by this stakeholder
 

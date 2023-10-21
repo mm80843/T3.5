@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2644 
 
-# __Advanced logistics systems__
+# __Energy efficiency grants__
 
 ## Category to which it belongs
 
-* [Various players in the global supply chain, including retailers, suppliers, and logistics providers, work together to ensure effective procurement and distribution.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_435.md)
+* [A comprehensive network of entities involved in sustainable, renewable, and efficient energy production, research, and distribution.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_448.md)
 
 ## Closest similar item
 
-* [Logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2643.md)
-* [Advanced supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3523.md)
-* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2642.md)
-* [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_535.md)
-* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2645.md)
-* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3519.md)
-* [Supply chain tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2641.md)
-* [Inventory management systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3520.md)
-* [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3522.md)
-* [Supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3521.md)
+* [Energy efficiency organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1004.md)
+* [Energy efficiency organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1968.md)
+* [Energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1007.md)
+* [Energy assistance program](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2001.md)
+* [Energy providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_744.md)
+* [Energy firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_253.md)
+* [Energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1003.md)
+* [Energy management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2645.md)
+* [Energy analysts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_347.md)
+* [Sustainable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_48.md)
 

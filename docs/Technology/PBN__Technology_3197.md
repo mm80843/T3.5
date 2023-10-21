@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Hands-free door opening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5242.md)
-* [Contactless door sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4699.md)
-* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4010.md)
-* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5243.md)
-* [Wider doorways and corridors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5244.md)
+* [Automatic door systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3320.md)
+* [Self-closing doors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1745.md)
+* [Door-lock devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_969.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1449.md)
+* [Sealed entrances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3390.md)
 * [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
 * [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2216.md)
 * [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1352.md)
 * [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3722.md)
+* [Locks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3521.md)
 
 ## This Technology enables the following mitigations
 

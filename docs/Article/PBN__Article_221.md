@@ -63,6 +63,7 @@ Envisioning a resilient future for biodiversity conservation in the wake of the 
 * [Online marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1696.md)
 * [Capacity-building programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1567.md)
 * [Marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1702.md)
+* [Online training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1699.md)
 * [Identification and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1703.md)
 * [Remote data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1698.md)
 * [Remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
@@ -71,6 +72,5 @@ Envisioning a resilient future for biodiversity conservation in the wake of the 
 * [Digital fundraising tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1694.md)
 * [Sustainable tourism initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1701.md)
 * [Impact investment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1695.md)
-* [Online training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1699.md)
 * [Dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1704.md)
 

@@ -32,11 +32,11 @@
 * [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
 * [Purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1585.md)
 * [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_100.md)
+* [Iot device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_399.md)
 * [Lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1255.md)
 * [Smart lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_720.md)
 * [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1469.md)
 * [Smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
-* [Iot device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_399.md)
 * [Internet-connected devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2121.md)
 * [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_643.md)
 

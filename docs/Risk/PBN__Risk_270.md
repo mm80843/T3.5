@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3486.md)
-* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3949.md)
-* [Temporary closure of non-essential public places until recovery is reached.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4243.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
-* [Closure of small businesses, restaurants, cinemas, theatres, bars, pubs, and clubs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4244.md)
-* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3487.md)
-* [Closure of entertainment venues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4245.md)
 * [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1845.md)
 * [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_271.md)
 * [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_269.md)
+* [Limited access nodes for better management of public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_263.md)
+* [Changes in use and regulation of interior public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_917.md)
+* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3321.md)
+* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1317.md)
+* [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_267.md)
+* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3427.md)
+* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
 
 ## Description of the risk
 
@@ -41,8 +41,8 @@ Categorizing public places into primary and secondary uses and closing non-essen
 
 ## Mitigations of this risk
 
-* [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_328.md)
 * [Temporary closure of non-essential public places until recovery is reached.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1726.md)
+* [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_328.md)
 
 ## Name of the risk
 

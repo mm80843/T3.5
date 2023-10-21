@@ -7,7 +7,7 @@
 * [Building managers and owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_908.md)
 * [Building owners and managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_522.md)
 * [Building owners and facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_913.md)
-* [People in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2665.md)
+* [People in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2587.md)
 * [Building owners/occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_61.md)
 * [Building owners and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_143.md)
 * [Building occupants and management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_78.md)
@@ -36,7 +36,6 @@
 * [Individuals responsible for building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_671.md)
 * [Occupants of residential buildings in kuwait](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_581.md)
 * [Occupant of residential building in kuwait](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2402.md)
-* [Housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3584.md)
 * [Individuals responsible for maintaining cleanliness and hygiene in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_668.md)
 * [Individual responsible for maintaining cleanlines and hygiene in building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2093.md)
 * [Individual responsible for maintaining cleanline and hygiene in building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2105.md)
@@ -46,4 +45,5 @@
 * [Person in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2196.md)
 * [Building occupant in building without iaq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1840.md)
 * [Person in building with modified internal condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2401.md)
+* [Housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2795.md)
 

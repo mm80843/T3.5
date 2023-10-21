@@ -65,8 +65,8 @@ Disruption of learning, unequal access to education, reduced social interaction 
 
 ## Technologies linked to the risk
 
-* [Digital learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1807.md)
 * [Online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
+* [Digital learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1807.md)
 * [Remote teaching tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1808.md)
 
 ## Property: has_RiskType

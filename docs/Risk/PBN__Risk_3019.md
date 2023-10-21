@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Contamination of insulation in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3010.md)
-* [Proper insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3923.md)
-* [Removal of wet or contaminated insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3924.md)
-* [Proper insulation maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3925.md)
+* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1562.md)
 * [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_245.md)
-* [Improved building insulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3926.md)
-* [Air filtration and uv sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3927.md)
-* [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3928.md)
-* [Effect of relative humidity rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_339.md)
-* [Use of hygienic and anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3929.md)
+* [Bacterial growth and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2692.md)
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
+* [Contamination and exposure to pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2672.md)
+* [Variation in built environment microbiome](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_207.md)
+* [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
+* [Accumulation of dirt, debris, and microbial growth in hvac systems and ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3009.md)
+* [Contaminated environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3229.md)
 
 ## Mitigations of this risk
 

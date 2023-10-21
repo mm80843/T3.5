@@ -15,7 +15,7 @@
 * [Disruption of activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3253.md)
 * [Automation disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
 * [Production disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2990.md)
-* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3752.md)
+* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3523.md)
 * [Disruption of main system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3305.md)
 * [Supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_10.md)
 

@@ -37,10 +37,10 @@ Mitigation strategies to fight the COVID-19 pandemic—present, future and beyon
 
 ## List of risks in an article
 
+* [Failure in containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1017.md)
 * [Political mismanagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1018.md)
 * [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
 * [Scarcity of medical equipment and medication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1020.md)
-* [Failure in containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1017.md)
 * [Manipulated media coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1019.md)
 
 ## This article points to following mitigation

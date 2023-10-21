@@ -43,8 +43,8 @@ The pandemic disrupts the global supply chains, resulting in material shortages,
 ## Mitigations of this risk
 
 * [Diversify supply chains, establish backup suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2144.md)
-* [Diversifying suppliers and exploring local sourcing options, establishing alternative supply chains, and improving communication and coordination with suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2673.md)
 * [Diversify suppliers, optimize inventory management, establish alternative supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1902.md)
+* [Diversifying suppliers and exploring local sourcing options, establishing alternative supply chains, and improving communication and coordination with suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2673.md)
 * [Resilient supply chain design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1320.md)
 * [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2080.md)
 * [Optimizing supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2287.md)
@@ -85,8 +85,8 @@ Delayed projects, increased costs, shortages of construction materials.
 * [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_637.md)
 * [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_638.md)
 * [Digital supply chain platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1519.md)
-* [Alternative sourcing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_639.md)
 * [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_928.md)
+* [Alternative sourcing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_639.md)
 * [Real-time data analytics for supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1520.md)
 
 ## Property: has_RiskType

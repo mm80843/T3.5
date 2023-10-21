@@ -12,7 +12,7 @@
 
 ## Closest similar item
 
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2638.md)
+* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2575.md)
 * [Supply chain managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_983.md)
 * [Supply chain partners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_296.md)
 * [Supply chain professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_16.md)

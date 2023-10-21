@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4566.md)
-* [Socioeconomic support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3871.md)
-* [Social and gender disparities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4567.md)
-* [Raise awareness, promote inclusivity and diversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2527.md)
-* [Ensure adequate food production, import, storage, and transportation, prioritize vulnerable families, establish neighborhood food markets.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2442.md)
-* [Strengthen social safety nets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3588.md)
-* [Strengthen social capital and community coherence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3907.md)
-* [Social justice and inequality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4568.md)
-* [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4569.md)
-* [Support local economies and livelihoods, promote sustainable alternative income-generating activities, and engage local communities in conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1781.md)
+* [Implement policies and initiatives to reduce inequality, promote social inclusion.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2665.md)
+* [Implement social welfare measures, provide support for vulnerable households, create opportunities for economic recovery and job creation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2443.md)
+* [Addressing disparities between territories and social groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1043.md)
+* [Implement policies that address social and economic inequalities, ensure equal access to essential services, and support vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1833.md)
+* [Implement social protection measures, promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2658.md)
+* [Develop resilient livelihood strategies, promote sustainable trade practices, provide social safety nets and support local economies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2841.md)
+* [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2664.md)
+* [Addressing socioeconomic factors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_687.md)
+* [Implement social safety nets, equitable distribution of resources, invest in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2907.md)
+* [Promote resilience through education, social support, and fostering a sense of hope.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2690.md)
 
 ## Risks possibly mitigated by this Mitigation
 

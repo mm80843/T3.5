@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_387.md)
-* [Transport](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2963.md)
-* [Managing and improving destination image](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3414.md)
-* [Responsible transport](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2965.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3415.md)
-* [Encouraging active travel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3416.md)
-* [Promote reduction of non-essential travel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3417.md)
-* [Promoting positive destination image, addressing misinformation, and emphasizing safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3418.md)
-* [Travel regulations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3419.md)
-* [Promote active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2964.md)
+* [Travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_558.md)
+* [Transport](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2670.md)
+* [Traveler](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2382.md)
+* [Tourism destinations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1075.md)
+* [Population of destination](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1480.md)
+* [Tourist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2367.md)
+* [Tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+* [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_551.md)
+* [Travel industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1989.md)
 
 ## Risks that can be mitigated by this stakeholder
 

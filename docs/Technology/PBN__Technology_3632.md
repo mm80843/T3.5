@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Nucleic acid testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5335.md)
+* [Dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3209.md)
 * [Dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1704.md)
+* [Nucleic acid extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3682.md)
+* [Molecular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2851.md)
 * [Nucleic acid-based polymerase chain reaction pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2500.md)
-* [Nested pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5337.md)
-* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5336.md)
+* [Pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
+* [Molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2025.md)
+* [Qr code scanner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2695.md)
 * [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
-* [Biosampler](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5169.md)
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
-* [Antimicrobial resistance gene monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5338.md)
-* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
+* [Digital pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2044.md)
 
 ## This Technology enables the following mitigations
 

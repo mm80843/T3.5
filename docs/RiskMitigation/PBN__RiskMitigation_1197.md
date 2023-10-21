@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4948.md)
 * [Uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_448.md)
-* [Uv disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4142.md)
 * [Implement air disinfection technologies such as uvgi, bipolar ionization, or photocatalytic oxidation. regularly clean and disinfect surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2308.md)
-* [Uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4144.md)
-* [Uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4147.md)
-* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4881.md)
-* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4143.md)
-* [Uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4145.md)
-* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4883.md)
+* [Use uvgi systems in air ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1641.md)
+* [Consider alternative infection control technologies, such as laminar airflow, before using uvgi systems in operating rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2325.md)
+* [Air disinfection strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_993.md)
+* [Use computational fluid dynamics cfd to assess the limitations of the upper-room uvgi system in disinfecting larger aerosol particles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1624.md)
+* [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3292.md)
+* [Use of robot-controlled noncontact uv surface disinfection for fast and effective disinfection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3079.md)
+* [Use uv-c disinfection as an adjunct to standard cleaning practices, not as a replacement.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1619.md)
+* [Conduct further research and studies to compare the two types of uv light for disinfection purposes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1678.md)
 
 ## Benefits linked to a risk
 

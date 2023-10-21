@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4364.md)
-* [Mobile technology applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4365.md)
-* [Implementation of smartphone-based apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4366.md)
-* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4367.md)
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2132.md)
-* [Use of mobile apps for counselling/treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4368.md)
-* [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3767.md)
-* [Mobile chatbot applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4369.md)
-* [Development of mobile applications, websites, and communication channels for information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4370.md)
-* [Bluetooth-based apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4371.md)
+* [Mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2962.md)
+* [Smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3572.md)
+* [Mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
+* [Mobile app technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2374.md)
+* [Smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3370.md)
+* [Apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1088.md)
+* [Mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3645.md)
+* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_65.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
+* [Mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1550.md)
 
 ## This Technology enables the following mitigations
 

@@ -12,16 +12,16 @@ enabler_028
 
 ## Closest similar item
 
-* [Bim software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_773.md)
-* [Building information model bim](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_774.md)
-* [Construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_775.md)
-* [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_776.md)
-* [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_545.md)
-* [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_777.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_778.md)
-* [Supply chain design software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_202.md)
-* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_534.md)
-* [Supply chain mapping and visualization tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_189.md)
+* [Bim software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_256.md)
+* [Building information model bim](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_257.md)
+* [Construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_206.md)
+* [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_226.md)
+* [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_205.md)
+* [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_258.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_207.md)
+* [Supply chain design software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_98.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_200.md)
+* [Supply chain mapping and visualization tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_94.md)
 
 ## Thees blueprints use this enabler
 
@@ -31,7 +31,7 @@ enabler_028
 * [Acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_16.md)
 * [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Design & construction software bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3741.md)
 

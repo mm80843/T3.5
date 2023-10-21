@@ -18,8 +18,8 @@
 * [Capital market funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_506.md)
 * [Fund manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2018.md)
 * [Fund managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1326.md)
-* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3507.md)
+* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2783.md)
 * [Social entrepreneurship funds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_502.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2713.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2603.md)
 * [Fund management companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1328.md)
 

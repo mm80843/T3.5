@@ -10,14 +10,14 @@
 
 * [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2056.md)
 * [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
-* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3995.md)
 * [Ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3059.md)
-* [Uv-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4790.md)
 * [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
-* [More research on uv susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5277.md)
+* [Uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2415.md)
+* [Ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3604.md)
+* [Uv/uvgi/irradation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
+* [Ultraviolet uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
 * [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1902.md)
-* [Upper-room uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4626.md)
-* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2104.md)
+* [Uv light systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_880.md)
 
 ## This Technology enables the following mitigations
 

@@ -21,8 +21,8 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
+* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2010.md)
 * [Advanced data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2096.md)
 * [Solubility and processing techniques for graphene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_214.md)
 * [Scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_216.md)
-* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2010.md)
 

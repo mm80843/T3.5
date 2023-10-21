@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1372.md)
+* [Incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1376.md)
 * [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1981.md)
-* [Design buildings with access to green spaces, views of nature, and incorporate biophilic design elements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5079.md)
-* [Design spaces that prioritize natural light and ventilation, incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5080.md)
-* [Designing with nature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4976.md)
-* [Balcony design and biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5081.md)
-* [Designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4262.md)
+* [Biophilic desing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3744.md)
+* [Nature-based design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3727.md)
+* [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
+* [Genetic modification technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3664.md)
 * [Innovative design approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3382.md)
 * [Biological structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2161.md)
-* [Human-centric design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4973.md)
-* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4974.md)
+* [Flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2484.md)
 
 ## This Technology enables the following mitigations
 

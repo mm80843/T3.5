@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2119.md)
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2110.md)
-* [Indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3139.md)
-* [Molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3573.md)
-* [Air sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3730.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
-* [Biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2125.md)
-* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1844.md)
-* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1485.md)
-* [Monitoring mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3580.md)
+* [Biosensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_239.md)
+* [Bio-sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2968.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2372.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3084.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3731.md)
 
 ## This Technology enables the following mitigations
 

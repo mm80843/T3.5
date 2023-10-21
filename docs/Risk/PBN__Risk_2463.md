@@ -16,7 +16,7 @@
 * [Limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2831.md)
 * [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
 * [Financial sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_719.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3753.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
 * [Rent burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2481.md)
 
 ## Mitigations of this risk

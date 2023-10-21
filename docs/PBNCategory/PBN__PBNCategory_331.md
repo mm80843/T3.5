@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_59.md)
-* [Monitoring mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_271.md)
+* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_55.md)
+* [Monitoring mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_89.md)
 

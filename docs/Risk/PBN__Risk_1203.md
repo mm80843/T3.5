@@ -11,13 +11,13 @@
 * [Biased risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
 * [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_985.md)
 * [Concealed information, ambiguity in risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3403.md)
-* [Risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3741.md)
+* [Psychological risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
+* [Provide information to reduce perceived risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3513.md)
+* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
 * [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2383.md)
-* [Risk management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3724.md)
+* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
+* [Covid-19 risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1199.md)
 * [Risk connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_310.md)
-* [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
-* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
-* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1153.md)
 
 ## Description of the risk
 

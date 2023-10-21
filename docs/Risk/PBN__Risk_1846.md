@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4468.md)
+* [Contractual issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_556.md)
+* [Contractual problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_731.md)
+* [Disputes between employers, contractors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2565.md)
 * [Legal problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_418.md)
 * [Legal issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
-* [Reviewing contracts and service agreements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4469.md)
 * [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2108.md)
 * [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
 * [Access to legal representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1180.md)
+* [Fraudulent claims](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3235.md)
 * [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
-* [Varying legal frameworks, sociopolitical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2595.md)
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3586.md)
 
 ## Description of the risk
 

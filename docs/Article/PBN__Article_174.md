@@ -51,6 +51,7 @@ Treating two pandemics for the price of one: Chronic and infectious disease impa
 ## This article mentions these technologies
 
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
+* [Mobile applications for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_615.md)
 * [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_209.md)
 * [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_624.md)
 * [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_621.md)
@@ -60,9 +61,8 @@ Treating two pandemics for the price of one: Chronic and infectious disease impa
 * [Urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_619.md)
 * [Information and communication technologies icts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_626.md)
 * [Crowd management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_617.md)
+* [Hygiene education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_625.md)
 * [Healthcare information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_622.md)
 * [Green roof technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_618.md)
-* [Mobile applications for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_615.md)
 * [Ai-based monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_616.md)
-* [Hygiene education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_625.md)
 

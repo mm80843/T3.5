@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Provision of water in informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3062.md)
-* [Addressing the impact on the informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3063.md)
-* [Mobilizing informal institutions for education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3064.md)
-* [Considering the global interconnected settlement system in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3065.md)
-* [Residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3066.md)
-* [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3067.md)
-* [Placemaking approaches for urban regeneration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3068.md)
-* [Mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3069.md)
-* [Establishing makeshift neighborhood food markets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3070.md)
-* [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3071.md)
+* [Residents of informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_95.md)
+* [Resident of informal settlement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2224.md)
+* [Informal workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_96.md)
+* [Workers in the informal sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1752.md)
+* [Informal sector workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1259.md)
+* [Worker in the informal sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1717.md)
+* [Informal sector worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1742.md)
+* [Women in informal economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1360.md)
+* [Poor urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_276.md)
+* [Urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_774.md)
 
 ## Risk affecting this stakeholder
 

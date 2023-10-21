@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Heightened surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4819.md)
-* [Genetic manipulation of mosquitoes gene drive](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4820.md)
+* [Mosquito control operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3257.md)
+* [Climate change mitigation techniques and mosquito control methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1465.md)
+* [Mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_977.md)
+* [Genetic manipulation of mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1948.md)
+* [Insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3658.md)
+* [Pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3111.md)
 * [Control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
-* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4821.md)
+* [Pesticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
 * [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
-* [Tick control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4822.md)
-* [Control environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4724.md)
-* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4741.md)
-* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3667.md)
-* [Control and stop virus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4823.md)
+* [Mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2111.md)
 
 ## This Technology enables the following mitigations
 

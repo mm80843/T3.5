@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Video and audio devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4700.md)
-* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4363.md)
 * [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1231.md)
-* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4362.md)
 * [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2053.md)
 * [Augmented / virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
-* [Virtual gaming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4355.md)
-* [Adoption of emerging technologies , virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4701.md)
-* [Virtual platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3759.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
 * [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2411.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2799.md)
+* [Virtual personal trainers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1074.md)
+* [Multimodal devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2251.md)
+* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3021.md)
 
 ## This Technology enables the following mitigations
 

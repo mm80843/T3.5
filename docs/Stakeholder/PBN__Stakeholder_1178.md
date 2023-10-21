@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2822.md)
-* [Transport](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2963.md)
-* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2823.md)
-* [Transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2900.md)
-* [Emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3252.md)
-* [Railway transport](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3253.md)
-* [Transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2921.md)
-* [Transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2920.md)
-* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3254.md)
-* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2967.md)
+* [Public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_188.md)
+* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2628.md)
+* [Public transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1300.md)
+* [Public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_236.md)
+* [Public transport passengers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1298.md)
+* [Public transport authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1613.md)
+* [Public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_730.md)
+* [Public transportation users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1579.md)
+* [City transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
+* [Transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_731.md)
 
 ## Risk affecting this stakeholder
 

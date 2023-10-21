@@ -56,8 +56,8 @@ Health Information Exchange with Blockchain amid Covid-19-like Pandemics
 * [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_397.md)
 * [Authentication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_398.md)
 * [Cybersecurity measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_400.md)
+* [Iot device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_399.md)
 * [Access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
 * [Health information exchange hie systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_395.md)
 * [Electronic health records ehr interoperability solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_396.md)
-* [Iot device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_399.md)
 

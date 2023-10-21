@@ -15,7 +15,7 @@
 * [Laboratory technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_698.md)
 * [Laboratory management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_700.md)
 * [Laboratory personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_688.md)
-* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2566.md)
+* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2528.md)
 * [Laboratory researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1557.md)
 * [Medical industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_420.md)
 

@@ -33,6 +33,6 @@ Comparing current mobility metrics to previous years to inform urban governance 
 
 ## This Mitigation is enabled by the following technologies
 
-* [Mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2758.md)
 * [Iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2754.md)
+* [Mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2758.md)
 

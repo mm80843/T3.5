@@ -15,7 +15,7 @@
 * [Investment in emerging sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1798.md)
 * [Financial management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1329.md)
 * [Financial practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2816.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
 * [Policy engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_160.md)
 * [Impact investment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1695.md)
 

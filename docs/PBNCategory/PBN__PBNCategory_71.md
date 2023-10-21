@@ -4,8 +4,8 @@
 
 ## Items covered in this category
 
-* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_243.md)
-* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_244.md)
-* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_287.md)
-* [Surveillance camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_456.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_114.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_115.md)
+* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_127.md)
+* [Surveillance camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_182.md)
 

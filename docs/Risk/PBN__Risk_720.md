@@ -12,12 +12,12 @@
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
 * [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1569.md)
 * [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3663.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
 * [Workforce distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
 * [Impact on future workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_503.md)
 * [Workplace transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
-* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4427.md)
-* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3964.md)
+* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3582.md)
+* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3622.md)
 
 ## Mitigations of this risk
 

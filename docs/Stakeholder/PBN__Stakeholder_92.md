@@ -99,7 +99,7 @@
 * [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1485.md)
 * [Room occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_701.md)
 * [Occupants in crowded](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1183.md)
-* [Specific building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2829.md)
+* [Specific building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2589.md)
 
 ## Risks that can be mitigated by this stakeholder
 

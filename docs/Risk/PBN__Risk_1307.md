@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1318.md)
+* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1159.md)
 * [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
 * [Insufficient electrical infrastructure in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_444.md)
 * [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2416.md)
-* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3488.md)
-* [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4477.md)
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
+* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1859.md)
+* [Lack of facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
+* [Inadequate healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3185.md)
 * [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_22.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
-* [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_807.md)
-* [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3760.md)
 
 ## Description of the risk
 

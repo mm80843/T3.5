@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3494 
 
-# __Implementation of contact tracing and testing__
+# __Teleconferencing tools__
 
 ## Category to which it belongs
 
@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4923.md)
-* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4917.md)
-* [Regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3493.md)
-* [Rapid testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4924.md)
-* [Regular testing and contact tracing programs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3507.md)
-* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3490.md)
-* [Contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3498.md)
-* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3502.md)
-* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3500.md)
-* [Advanced contact tracing and monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4913.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3495.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3490.md)
+* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3497.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2387.md)
+* [Limited access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3054.md)
+* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3496.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3499.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3498.md)
+* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2350.md)
+* [Need for remote access and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_76.md)
 

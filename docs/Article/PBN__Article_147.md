@@ -37,8 +37,8 @@ Pandemic stricken cities on lockdown. Where are our planning and design professi
 ## List of risks in an article
 
 * [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_500.md)
-* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1075.md)
 * [Overwhelmed health sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
+* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1075.md)
 * [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1074.md)
 * [Hoarding of essential commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1073.md)
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
+* [Lack of awareness or engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2853.md)
+* [Lack of community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2125.md)
 * [Lack of support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2829.md)
 * [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2834.md)
-* [Education and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4766.md)
+* [Lack of effective partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3206.md)
 * [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
 * [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
 * [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2448.md)
-* [Support widespread skills](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4592.md)
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3772.md)
-* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4770.md)
-* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
+* [Lack of understanding and collaboration between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2447.md)
 
 ## Mitigations of this risk
 

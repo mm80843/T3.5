@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3222.md)
-* [Data management and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3610.md)
+* [Data management and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3461.md)
 * [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
 * [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1362.md)
-* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3509.md)
+* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3462.md)
 * [Privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
 * [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
 * [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2041.md)
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2411.md)
-* [Data protection authorities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3611.md)
+* [Data protection authorities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3463.md)
 
 ## Description of the risk
 

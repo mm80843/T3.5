@@ -52,9 +52,9 @@ The role of contemporary digital tools and technologies in COVID19 crisis: An ex
 * [Security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2103.md)
 * [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
 * [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
+* [Ethical concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
 * [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2108.md)
 * [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1570.md)
-* [Ethical concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2106.md)
 
 ## This article points to following mitigation
 
@@ -83,6 +83,7 @@ The role of contemporary digital tools and technologies in COVID19 crisis: An ex
 * [Public-private partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_55.md)
 * [Government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1640.md)
 * [Green technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1645.md)
+* [Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_521.md)
 * [Quality control processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1635.md)
 * [Compliance measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1644.md)
 * [Sustainable manufacturing and disposal methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1646.md)
@@ -90,7 +91,6 @@ The role of contemporary digital tools and technologies in COVID19 crisis: An ex
 * [Legal counsel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1642.md)
 * [Standardization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1637.md)
 * [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
-* [Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_521.md)
 * [Ai ethics boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1639.md)
 * [Regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1643.md)
 * [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)

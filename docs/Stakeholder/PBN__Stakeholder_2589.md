@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2589 
 
-# __Healthcare infrastructure__
+# __Specific building occupants__
 
 ## Category to which it belongs
 
-* [Caregivers and beneficiaries in the healthcare field with a focus on personnel, infrastructure, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_404.md)
+* [Building design professionals and construction industry stakeholders, including architects, contractors, and interior designers, aim to create comfortable and functional spaces for building occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_429.md)
 
 ## Closest similar item
 
-* [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2798.md)
-* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2791.md)
-* [Healthcare infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2799.md)
-* [Healthcare infrastructure investments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2803.md)
-* [Investment in healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2777.md)
-* [Investments in healthcare facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2796.md)
-* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2591.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_33.md)
-* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2778.md)
-* [Healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [Occupants of residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1485.md)
+* [Building occupants in all types of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_652.md)
+* [Occupants in the building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_165.md)
+* [Occupants of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_914.md)
+* [Occupants of the building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_140.md)
+* [Building owners/occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_61.md)
+* [Building owners and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_143.md)
+* [Building occupants and workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_907.md)
+* [Building occupants and management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_78.md)
 

@@ -61,7 +61,7 @@ Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID
 * [Standardization of testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1102.md)
 * [Control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1103.md)
 * [Disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_434.md)
-* [Increased testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_590.md)
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1099.md)
+* [Increased testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_590.md)
 * [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1101.md)
 

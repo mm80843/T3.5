@@ -10,9 +10,9 @@
 
 * [Maintenance of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2311.md)
 * [Facilitating essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2526.md)
-* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3720.md)
+* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3504.md)
 * [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1107.md)
-* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3752.md)
+* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3523.md)
 * [Supporting essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2523.md)
 * [Service interruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2627.md)
 * [Essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3338.md)

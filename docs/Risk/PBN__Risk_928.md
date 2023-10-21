@@ -11,13 +11,13 @@
 * [Decreased demand for public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2782.md)
 * [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
 * [Decline in public transport usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_406.md)
-* [Optimizing transport based on demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3764.md)
-* [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3765.md)
-* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3766.md)
-* [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3767.md)
-* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_242.md)
-* [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3324.md)
-* [Promote active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3768.md)
+* [Disruption of transport operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_927.md)
+* [Lack of financial support for public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
+* [Decline in tax and fee revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_929.md)
+* [Decline in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2550.md)
+* [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1209.md)
+* [Reduction in tourism revenue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2152.md)
+* [Overcrowding on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_528.md)
 
 ## Mitigations of this risk
 

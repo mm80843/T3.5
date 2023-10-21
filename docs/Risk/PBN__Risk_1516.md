@@ -12,11 +12,11 @@
 * [Workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_720.md)
 * [Lack of qualified staff for testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2348.md)
 * [Shortage of experienced healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_317.md)
-* [Implementing strategies to cope with staff shortages and consider alternative staffing options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3662.md)
+* [Implementing strategies to cope with staff shortages and consider alternative staffing options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3482.md)
 * [Lack of qualified staff for sample collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_74.md)
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
 * [Personnel management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3361.md)
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3663.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
 * [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
 
 ## Description of the risk

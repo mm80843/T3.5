@@ -41,8 +41,8 @@ Multiple factors such as air quality, thermal comfort, lighting, acoustics, and 
 
 ## Mitigations of this risk
 
-* [Comprehensive building design and maintenance strategies to ensure optimal indoor environmental quality.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1570.md)
 * [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3077.md)
+* [Comprehensive building design and maintenance strategies to ensure optimal indoor environmental quality.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1570.md)
 * [Improvement of indoor heating and cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1346.md)
 * [Improve indoor air quality, ensure proper humidity levels, address issues of poor lighting and acoustics.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2548.md)
 
@@ -52,8 +52,8 @@ Various health issues, including respiratory symptoms, allergies, fatigue, reduc
 
 ## Stakeholders who can mitigate this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Building owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_80.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_166.md)
 * [Employers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_180.md)
 * [Facility ma](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1573.md)
@@ -66,9 +66,9 @@ Various health issues, including respiratory symptoms, allergies, fatigue, reduc
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Employees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_220.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Building occupants in all types of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_652.md)
 * [Students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 

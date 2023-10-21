@@ -49,14 +49,14 @@ The socio-economic determinants of COVID-19: A spatial analysis of German county
 
 ## This article mentions these technologies
 
+* [Use of contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_555.md)
 * [Use of telemedicine for remote care](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_558.md)
+* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_560.md)
 * [Use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_556.md)
+* [Use of personal protective equipment in schools and day care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_553.md)
 * [Implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
 * [Implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_557.md)
-* [Use of personal protective equipment in schools and day care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_553.md)
-* [Use of contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_555.md)
 * [Use of digital communication tools for cross-regional collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_559.md)
-* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_560.md)
 * [Use of data analytics to identify high-risk areas and populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_561.md)
 * [Implementation of targeted public health interventions based on regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_562.md)
 

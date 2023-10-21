@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_214 
 
-# __Blockchain security protocols__
+# __Telemedicine platforms__
 
 ## Category to which it belongs
 
-* [Decentralized digital systems for secure transactions and information protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_61.md)
+* [Digital technologies for remote healthcare, remote work, and virtual communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_81.md)
 
 ## Closest similar item
 
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_212.md)
-* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_211.md)
-* [Blockchain for data security](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_213.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_210.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_4.md)
-* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_222.md)
-* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_215.md)
-* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_223.md)
-* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_224.md)
-* [Standardization of protocols for seamless communication and privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_225.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_209.md)
+* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_213.md)
+* [Telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_212.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_210.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_211.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_184.md)
+* [Telemedecine](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_17.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_217.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_215.md)
+* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_218.md)
 

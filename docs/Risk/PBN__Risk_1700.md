@@ -49,8 +49,8 @@ Deterioration of mental well-being and overall quality of life
 
 ## Stakeholders who can mitigate this risk
 
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 * [Government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 
 ## Articles mentionning the risk
 

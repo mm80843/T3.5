@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4227.md)
-* [Encouraging proper sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5090.md)
-* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4222.md)
+* [Proper sanitation facilities and practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_858.md)
 * [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1216.md)
-* [Hygiene and sanitation practices and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4225.md)
 * [Sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1495.md)
-* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4219.md)
-* [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4226.md)
+* [Improved sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_525.md)
 * [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_624.md)
-* [Mandatory sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4223.md)
+* [Increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1822.md)
+* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
+* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_702.md)
+* [Sanitation supplies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2667.md)
+* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
 
 ## This Technology enables the following mitigations
 

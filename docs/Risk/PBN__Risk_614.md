@@ -16,7 +16,7 @@
 * [High energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2403.md)
 * [Eu2: energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_194.md)
 * [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3197.md)
-* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3545.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3450.md)
 * [Increased energy demands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3336.md)
 
 ## Description of the risk
@@ -59,8 +59,8 @@ Increased energy consumption and environmental impact
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

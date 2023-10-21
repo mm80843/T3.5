@@ -34,6 +34,6 @@ Enable long-term continuous monitoring of IEQ data on a broader scale and with s
 ## This Mitigation is enabled by the following technologies
 
 * [Sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_642.md)
-* [Cloud service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2610.md)
 * [Iot and big data technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2616.md)
+* [Cloud service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2610.md)
 

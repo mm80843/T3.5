@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Optimization algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5259.md)
-* [Modularity optimization algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3877.md)
-* [Optimize space layout and arrangement, consider ergonomic principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5455.md)
+* [Algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3123.md)
+* [Optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_986.md)
+* [Space planning and layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2786.md)
+* [Rule-based algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3032.md)
+* [Optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2896.md)
+* [Vision algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3691.md)
 * [Efficient space planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1046.md)
-* [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5269.md)
-* [Social distance radius](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5456.md)
-* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5457.md)
-* [Proper space arrangement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5458.md)
-* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4099.md)
-* [Creating smaller, local green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5459.md)
+* [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
+* [Efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2737.md)
+* [Route optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_337.md)
 
 ## This Technology enables the following mitigations
 

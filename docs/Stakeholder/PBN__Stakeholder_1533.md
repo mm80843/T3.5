@@ -22,8 +22,8 @@
 ## Risks that can be mitigated by this stakeholder
 
 * [Low data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2283.md)
-* [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
 * [Lack of coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2284.md)
+* [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
 * [Outdated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2282.md)
 * [Misalignment of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
 

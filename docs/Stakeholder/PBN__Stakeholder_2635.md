@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2635 
 
-# __Social networking platforms__
+# __Traveling individuals__
 
 ## Category to which it belongs
 
-* [Users of various digital platforms including social media, apps, websites, and online networking platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_434.md)
+* [Individuals across various demographics, including high-risk, low-income, elderly, and homeless, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_431.md)
 
 ## Closest similar item
 
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_554.md)
-* [Social-media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2636.md)
-* [Online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2951.md)
-* [Online platforms and social media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2637.md)
-* [Virtual social platforms and apps for connecting with others](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3556.md)
-* [Social networks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3557.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2634.md)
-* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3558.md)
-* [Social media communication](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2952.md)
-* [Online platforms for sharing information](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3555.md)
+* [Travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_558.md)
+* [Travellers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_551.md)
+* [Traveler](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2382.md)
+* [Public transport passengers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1298.md)
+* [Individuals traveling during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1076.md)
+* [Individuals traveling during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2032.md)
+* [Residents and travelers in neighboring regions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_871.md)
+* [Passengers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_497.md)
+* [Tourists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_72.md)
+* [International travelers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1385.md)
 

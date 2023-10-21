@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Carbon border tax](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4672.md)
-* [Strengthened carbon tax](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4673.md)
-* [Carbon pricing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4674.md)
-* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4668.md)
-* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4675.md)
+* [Challenges in promoting low-carbon policies in member states](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2815.md)
+* [Carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_149.md)
 * [Border control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_991.md)
-* [Closing of borders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4669.md)
-* [Border control and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4667.md)
-* [Travel restrictions and border control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4670.md)
-* [Policies for green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4676.md)
+* [Decreased carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1247.md)
+* [Challenges in funding the european green deal](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2812.md)
+* [Ineffective mitigation policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_542.md)
+* [Insufficient emissions targets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2849.md)
+* [Economic barrier](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2917.md)
+* [Economic impacts, compliance issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3117.md)
+* [Limited focus on global climate initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2818.md)
 
 ## Mitigations of this risk
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_129 
 
-# __Big-data analytics__
+# __Temperature sensors__
 
 ## Category to which it belongs
 
-* [Harnessing and analyzing extensive amounts of information, both structured and unstructured, for insights and patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_58.md)
+* [Devices that detect and measure various aspects such as water, environment, pressure, temperature, light, and can be worn by individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_65.md)
 
 ## Closest similar item
 
-* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_132.md)
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
-* [Big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_171.md)
-* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_128.md)
-* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_136.md)
-* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_9.md)
-* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_130.md)
-* [Big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_172.md)
-* [Predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_145.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_117.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_114.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_115.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_128.md)
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_126.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_116.md)
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_6.md)
+* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
+* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_127.md)
 

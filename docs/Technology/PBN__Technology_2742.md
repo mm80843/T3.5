@@ -9,8 +9,8 @@
 ## Closest similar item
 
 * [Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2035.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3750.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3749.md)
 * [Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1875.md)
 * [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3708.md)
 * [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3103.md)

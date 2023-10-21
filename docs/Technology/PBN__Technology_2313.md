@@ -10,14 +10,14 @@
 
 * [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
 * [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1902.md)
-* [Use of uv-c germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4046.md)
 * [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2104.md)
 * [Uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_225.md)
 * [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2056.md)
-* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3996.md)
 * [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_232.md)
+* [Uv germicidal irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1877.md)
 * [Uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2323.md)
-* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3995.md)
+* [Uv-c disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2103.md)
+* [Uv-c light technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1647.md)
 
 ## This Technology enables the following mitigations
 

@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
+* [Mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1382.md)
 * [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
 * [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1074.md)
 * [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
 * [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
 * [Social disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2660.md)
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
-* [Social equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
-* [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2454.md)
-* [Social and gender disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2604.md)
+* [Psychological problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
+* [Psychological tensions and social conflicts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_526.md)
 
 ## Mitigations of this risk
 

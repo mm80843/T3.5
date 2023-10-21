@@ -11,13 +11,13 @@
 * [Areas with inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_899.md)
 * [Communities with poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_176.md)
 * [Areas with poor sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1084.md)
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2802.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2636.md)
 * [Communities without access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1362.md)
 * [Sanitation agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1086.md)
 * [Individuals living in apartments without basic water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_823.md)
 * [Communities with limited access to clean water](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_588.md)
-* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2835.md)
-* [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2836.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2637.md)
+* [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2638.md)
 
 ## Risk affecting this stakeholder
 

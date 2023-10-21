@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Testing and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4398.md)
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4408.md)
-* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4409.md)
-* [Rapid diagnosis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4410.md)
+* [Limited diagnostic and screening tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2161.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3618.md)
+* [Lack of quick and accurate diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2937.md)
+* [Limited testing and treatment capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2786.md)
 * [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2681.md)
 * [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3116.md)
-* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4393.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4315.md)
-* [Screening techniques for patient severity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4411.md)
-* [Implement regular and widespread symptom monitoring and testing, both symptomatic and asymptomatic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4412.md)
+* [Diagnostic accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3233.md)
+* [Lack of testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_543.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3393.md)
+* [Inaccurate symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_674.md)
 
 ## Mitigations of this risk
 

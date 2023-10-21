@@ -12,16 +12,16 @@ enabler_017
 
 ## Closest similar item
 
-* [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_527.md)
-* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_528.md)
-* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_529.md)
-* [Testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_530.md)
-* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_531.md)
-* [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_532.md)
-* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_533.md)
-* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_534.md)
-* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_535.md)
-* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_536.md)
+* [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_171.md)
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_172.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_173.md)
+* [Testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_198.md)
+* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_199.md)
+* [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_66.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_200.md)
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_201.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_107.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_87.md)
 
 ## Thees blueprints use this enabler
 
@@ -38,7 +38,7 @@ enabler_017
 * [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
 * [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1449.md)
 

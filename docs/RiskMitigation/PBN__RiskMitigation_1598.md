@@ -14,7 +14,7 @@
 * [Standardization and optimization of concentration methods for efficient recovery of viral rna from wastewater samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1599.md)
 * [Standardization of pcr platforms and protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_877.md)
 * [Optimize storage conditions and protocols to minimize degradation of viral rna, conduct regular quality control checks on stored samples.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3073.md)
-* [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3127.md)
+* [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3119.md)
 * [Universal asymptomatic rt-pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1220.md)
 * [Developing sensitive rt-qpcr assays for wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_991.md)
 * [Validate and optimize pcr assays to ensure accurate detection of sars-cov-2 genetic material.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3038.md)

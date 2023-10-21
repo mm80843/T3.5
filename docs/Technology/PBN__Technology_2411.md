@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2385.md)
+* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2240.md)
+* [Wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2403.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2632.md)
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
-* [Development of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4372.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
 * [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
-* [Develop wearable devices that are biocompatible, energy efficient, compliant, and compact without compromising performance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4374.md)
-* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4373.md)
-* [Development of next-generation wearable devices with sufficient reliability and robustness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4375.md)
-* [Develop device-agnostic adms that can be applied to various types of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4380.md)
-* [Reliability and robustness of next-generation wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4378.md)
-* [Integration of additional sensors into wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4381.md)
-* [Safety wearables and carry-ons](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4379.md)
+* [Subsidized access to wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_175.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2799.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
 
 ## This Technology enables the following mitigations
 

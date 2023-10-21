@@ -11,13 +11,13 @@
 * [Plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3598.md)
 * [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1610.md)
 * [Potted plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3448.md)
+* [Online plant stores](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_418.md)
 * [Gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1783.md)
-* [Presence of indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5016.md)
-* [Green plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5013.md)
-* [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5017.md)
-* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4557.md)
-* [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
-* [Indoor vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
+* [Planting trees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_972.md)
+* [Tree planting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
+* [Vertical gardening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_620.md)
+* [Treatment plant automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3177.md)
+* [Plant roots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3599.md)
 
 ## This Technology enables the following mitigations
 

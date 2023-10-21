@@ -35,8 +35,8 @@ Global policy challenges for urban vector-borne disease risks
 ## List of risks in an article
 
 * [Urban crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
-* [Lack of running water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1065.md)
 * [Inadequate waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1066.md)
+* [Lack of running water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1065.md)
 * [Poor housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1064.md)
 * [Lack of surveillance and control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1067.md)
 

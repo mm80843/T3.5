@@ -5,5 +5,5 @@
 ## Items covered in this category
 
 * [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_253.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_67.md)
 

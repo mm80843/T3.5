@@ -11,13 +11,13 @@
 * [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3168.md)
 * [Importance of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1769.md)
 * [Low compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_541.md)
-* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4443.md)
 * [Inadequate compliance monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1713.md)
 * [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2628.md)
 * [High costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2251.md)
 * [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_505.md)
-* [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
-* [Costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4557.md)
+* [Failure to detect non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1924.md)
+* [Inconsistencies in accuracy measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1253.md)
+* [Data accuracy and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2438.md)
 
 ## Mitigations of this risk
 

@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [Inadequate patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_465.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3757.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
 * [Spread of inaccurate medical information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1842.md)
 * [Diagnostic accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3233.md)
 * [Patient overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
 * [Inadequate unit sizes and layouts for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_958.md)
 * [Ineffective reachability to patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_997.md)
-* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3758.md)
+* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3529.md)
 * [Inaccurate symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_674.md)
 * [Miscommunication of medical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_319.md)
 

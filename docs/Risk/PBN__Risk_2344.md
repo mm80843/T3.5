@@ -10,14 +10,14 @@
 
 * [Variability in wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3388.md)
 * [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1895.md)
-* [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3854.md)
+* [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3559.md)
 * [Contamination of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3367.md)
-* [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3815.md)
+* [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3543.md)
 * [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1926.md)
 * [Inadequate treatment of wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
 * [Seasonal changes in wastewater temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1436.md)
 * [Decrease in traffic flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_868.md)
-* [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3655.md)
+* [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3479.md)
 
 ## Description of the risk
 

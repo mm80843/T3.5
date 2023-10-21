@@ -93,10 +93,10 @@ Increased confusion and fear, decreased compliance with safety measures
 * [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
 * [Social media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_31.md)
 * [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
+* [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
 * [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [Social media platforms’ moderation policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_931.md)
 * [Reliable news sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1125.md)
-* [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
 * [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1156.md)
 * [Reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1860.md)
 

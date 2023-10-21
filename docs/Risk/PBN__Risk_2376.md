@@ -12,11 +12,11 @@
 * [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2377.md)
 * [Challenges in ventilation and air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_792.md)
 * [Inefficient ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1726.md)
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3789.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3537.md)
 * [Inefficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
 * [Air recirculation in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1759.md)
-* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3788.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3791.md)
+* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3536.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3539.md)
 * [Shortages in icu beds and ventilators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_479.md)
 
 ## Description of the risk

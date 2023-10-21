@@ -15,7 +15,7 @@
 * [Shortage of critical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3277.md)
 * [Shortages in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_491.md)
 * [Inadequate supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2034.md)
-* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3645.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3476.md)
 * [Shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3358.md)
 * [Shortages of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_478.md)
 

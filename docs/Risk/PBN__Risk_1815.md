@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Spacing between buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4108.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3813.md)
-* [Designing containment space in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4109.md)
-* [Common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3922.md)
-* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4110.md)
-* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3920.md)
-* [Proper building ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4111.md)
-* [Housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4100.md)
-* [Multi-functional buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4056.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3810.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
+* [Increase or reduce the size of a building](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2921.md)
+* [Building ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3531.md)
+* [Environmental factors in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_873.md)
+* [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
+* [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
+* [Inadequate ventilation in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_388.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
+* [Inadequate ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1431.md)
+* [Challenges in adaptation of building envelope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_790.md)
 
 ## Description of the risk
 

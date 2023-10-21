@@ -23,6 +23,6 @@
 
 * [Early detection and response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_524.md)
 * [Vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_93.md)
-* [Pathogen reduction technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1533.md)
 * [Risk detection systems and drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2071.md)
+* [Pathogen reduction technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1533.md)
 

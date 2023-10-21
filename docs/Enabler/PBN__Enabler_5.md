@@ -12,16 +12,16 @@ enabler_006
 
 ## Closest similar item
 
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_238.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_239.md)
-* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_240.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_241.md)
-* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_223.md)
-* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_75.md)
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_242.md)
-* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_243.md)
-* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_244.md)
-* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_245.md)
+* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_54.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_48.md)
+* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_46.md)
+* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_112.md)
+* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_109.md)
+* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_47.md)
+* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_113.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_114.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_115.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_116.md)
 
 ## Thees blueprints use this enabler
 
@@ -38,7 +38,7 @@ enabler_006
 * [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
 * [Drinking water safety - restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 

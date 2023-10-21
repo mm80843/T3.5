@@ -8,15 +8,15 @@
 
 ## Closest similar item
 
-* [Automated face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4489.md)
-* [Automated face recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4490.md)
-* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4491.md)
-* [Face recognition and thermal screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3843.md)
-* [Big data and facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4492.md)
-* [Facial mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4493.md)
-* [Implementation of facial recognition technology and ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4494.md)
-* [Thermal imaging-enabled facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4495.md)
-* [Implementing automated face recognition technology with ai integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4496.md)
+* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
+* [Facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1355.md)
+* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1504.md)
+* [Voice and face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3497.md)
+* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3742.md)
+* [Facial recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1711.md)
+* [Facial recognition software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
+* [Surface classification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3439.md)
+* [Face orientation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3253.md)
 * [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2975.md)
 
 ## This Technology enables the following mitigations

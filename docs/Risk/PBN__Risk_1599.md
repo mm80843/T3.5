@@ -65,8 +65,8 @@ Difficulty in processing and evaluating information, decreased decision-making c
 ## Technologies linked to the risk
 
 * [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
-* [Digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
 * [Information filtering tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_934.md)
+* [Digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
 
 ## Property: has_RiskType
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3691.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3678.md)
-* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3694.md)
-* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3695.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3693.md)
-* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3689.md)
-* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3690.md)
-* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3692.md)
-* [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3696.md)
-* [Telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3697.md)
+* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3496.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3490.md)
+* [Limited access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3054.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3498.md)
+* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3494.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3495.md)
+* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3497.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3499.md)
+* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2350.md)
+* [Confidentiality and risk management in telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_897.md)
 
 ## Mitigations of this risk
 

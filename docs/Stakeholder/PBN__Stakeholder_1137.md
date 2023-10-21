@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [App user](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1848.md)
-* [Apps](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3487.md)
+* [Apps](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2776.md)
 * [App developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1138.md)
 * [App developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1979.md)
 * [Users of iot devices and mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1426.md)

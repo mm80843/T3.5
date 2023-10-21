@@ -12,10 +12,10 @@
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3269.md)
 * [Incomplete detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2442.md)
 * [Transmission, detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2640.md)
-* [Development of expert systems and mobile applications for early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4223.md)
+* [Development of expert systems and mobile applications for early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3599.md)
 * [Early detection of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3228.md)
 * [Detection of asymptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_636.md)
-* [Development of a mobile application with an expert system for early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4224.md)
+* [Development of a mobile application with an expert system for early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3600.md)
 * [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
 * [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_684.md)
 

@@ -12,12 +12,12 @@
 * [Urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_619.md)
 * [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_122.md)
 * [Vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
-* [Domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4556.md)
 * [Pocket gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_846.md)
-* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4557.md)
 * [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1784.md)
-* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4558.md)
-* [Garden access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4563.md)
+* [Gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1783.md)
+* [Rainwater collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3570.md)
+* [Waterfalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2908.md)
+* [Courtyards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1271.md)
 
 ## This Technology enables the following mitigations
 

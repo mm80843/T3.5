@@ -34,7 +34,7 @@ Trace infected individuals, identify their close contacts, enforce quarantine me
 ## This Mitigation is enabled by the following technologies
 
 * [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2132.md)
 

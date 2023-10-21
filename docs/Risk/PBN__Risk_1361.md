@@ -11,7 +11,7 @@
 * [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1455.md)
 * [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2321.md)
 * [Exclusion and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3204.md)
-* [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3698.md)
+* [Digital and information access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3500.md)
 * [Digital divide and information gap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_751.md)
 * [Privacy interference](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3171.md)
 * [Monitoring and restriction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2527.md)

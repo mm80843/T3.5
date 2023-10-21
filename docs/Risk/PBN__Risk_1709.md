@@ -14,7 +14,7 @@
 * [Uncertainty and lack of direction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2768.md)
 * [Uncertainty about future](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1854.md)
 * [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
-* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3719.md)
+* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
 * [Inaccurate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_972.md)
 * [Misinformed decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2739.md)
 * [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1388.md)

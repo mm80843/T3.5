@@ -34,6 +34,6 @@ Detection of circulating diseases in a population, rapid monitoring, potential f
 ## This Mitigation is enabled by the following technologies
 
 * [Qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
-* [Next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3348.md)
 * [Dpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3347.md)
+* [Next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3348.md)
 

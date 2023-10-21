@@ -12,12 +12,12 @@
 * [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 * [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2090.md)
 * [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_397.md)
-* [Blockchain for data security](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
 * [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1630.md)
 * [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
-* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3761.md)
 * [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3099.md)
-* [Strengthen supply chains, utilize blockchain for efficient tracking and distribution of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3762.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
+* [Digital payment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1945.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
 
 ## This Technology enables the following mitigations
 

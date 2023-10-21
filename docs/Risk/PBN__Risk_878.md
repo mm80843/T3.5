@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4488.md)
-* [Vulnerable population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4489.md)
-* [Cash payments to vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4490.md)
-* [Considering the needs of vulnerable groups in future public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3934.md)
+* [Vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2385.md)
+* [Insufficient protection for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2654.md)
+* [Economic impacts on vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_448.md)
+* [Exclusion of vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2705.md)
+* [Psychopathology in vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1875.md)
+* [Health disparities among vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1131.md)
+* [Vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1748.md)
 * [Lack of support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2829.md)
 * [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2834.md)
 * [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
-* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
-* [Special access and spaces for vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3606.md)
-* [Targeted mental health support, assessment and monitoring of vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4491.md)
 
 ## Mitigations of this risk
 

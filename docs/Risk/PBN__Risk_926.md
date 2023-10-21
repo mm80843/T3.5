@@ -14,8 +14,8 @@
 * [Safety concerns with alternative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2377.md)
 * [Inefficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1681.md)
 * [Inadequate ventilation and airflow management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2023.md)
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3789.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3791.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3537.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3539.md)
 * [Inadequate ventilation systems in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_438.md)
 * [Challenges in ventilation and air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_792.md)
 

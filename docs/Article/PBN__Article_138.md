@@ -46,8 +46,8 @@ El Rol De Las Redes Sociales En La Pandemia Del Covid-19
 
 * [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
 * [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
-* [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
 * [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
+* [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
 * [Reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1860.md)
 * [Monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1861.md)
 * [Multi-factor authentication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1862.md)

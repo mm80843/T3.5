@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2713 
 
-# __Financial measures__
+# __Cleaning practices__
 
 ## Category to which it belongs
 
-* [Key players in the global financial system, including stakeholders, investors, lenders, and business associations, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_437.md)
+* [Entities involved in the testing, treatment, management, and cleaning of water and wastewater systems in various capacities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_420.md)
 
 ## Closest similar item
 
-* [Measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2972.md)
-* [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2915.md)
-* [Organizational measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2973.md)
-* [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2974.md)
-* [Financial interventions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2975.md)
-* [Enhancing financial capital](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2976.md)
-* [Access to financial capital](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2977.md)
-* [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2978.md)
-* [Economic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2979.md)
-* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2576.md)
+* [Recognized cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2767.md)
+* [Proper cleaning procedures and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2785.md)
+* [Proper cleaning equipment and procedures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2715.md)
+* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2766.md)
+* [Cleaning services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_536.md)
+* [Cleaning solutions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2786.md)
+* [Cleaning service](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1754.md)
+* [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2765.md)
+* [Cleaning companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1205.md)
+* [Cleaning personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1574.md)
 

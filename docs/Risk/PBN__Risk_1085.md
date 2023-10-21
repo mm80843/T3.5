@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3859.md)
+* [Impact on workers’ health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3564.md)
 * [Occupational health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1847.md)
 * [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
 * [Health and safety risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_733.md)

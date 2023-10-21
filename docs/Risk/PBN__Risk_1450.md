@@ -17,7 +17,7 @@
 * [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
 * [Reinfection cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_672.md)
 * [Resistance to change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2530.md)
-* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4444.md)
+* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3581.md)
 
 ## Description of the risk
 

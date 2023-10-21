@@ -16,8 +16,8 @@ Smart city solutions can automate the generation of non-intrusive alerts to warn
 
 ## Stakeholders benefitting from this Benefit
 
-* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 * [Public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
 
 ## Risks which can benefit from this action
 

@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Personalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1186.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3784.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3532.md)
 * [Overreliance on artificial lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_112.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3785.md)
-* [Building ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3783.md)
-* [Indoor environment and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3756.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3533.md)
+* [Building ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3531.md)
+* [Indoor environment and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3527.md)
 * [Inadequate ventilation and lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1296.md)
 * [Inadequate ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1666.md)
-* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3786.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3787.md)
+* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3534.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3535.md)
 
 ## Description of the risk
 

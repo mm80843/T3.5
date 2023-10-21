@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) >> Individual ID:PBN__TechGroup_36 
 
-# __Robotics__
+# __Robotic systems__
 
 ## Category to which it belongs
 
@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_198.md)
-* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_38.md)
-* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_194.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_33.md)
-* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_37.md)
-* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_374.md)
-* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_375.md)
-* [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_373.md)
-* [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_371.md)
-* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_29.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_35.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_34.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_32.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_17.md)
+* [Robots, drones & automated vehicules](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_30.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_65.md)
+* [Ai support systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_64.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_38.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_26.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_63.md)
 

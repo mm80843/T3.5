@@ -43,10 +43,10 @@ COVID-19 risks and systemic gaps in Nigeria: resilience building lessons for pan
 
 ## List of risks in an article
 
+* [Environmental impact and waste management challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1610.md)
 * [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1608.md)
 * [Gaps in capacity and resilience across industries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1609.md)
 * [Societal and socio-economic gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_750.md)
-* [Environmental impact and waste management challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1610.md)
 * [Digital divide and information gap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_751.md)
 
 ## This article points to following mitigation

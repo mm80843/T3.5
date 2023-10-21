@@ -8,7 +8,6 @@
 
 ## Closest similar item
 
-* [Society](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4486.md)
 
 ## Mitigations of this risk
 

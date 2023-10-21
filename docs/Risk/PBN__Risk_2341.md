@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4315.md)
 * [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_335.md)
-* [Voluntary testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4311.md)
-* [Combining multiple screening methods, widespread testing programs.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4400.md)
-* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4401.md)
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3393.md)
-* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4393.md)
-* [Screening techniques](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4402.md)
-* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4312.md)
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4397.md)
+* [Limited testing and treatment capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2786.md)
+* [Limited diagnostic and screening tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2161.md)
+* [Screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3391.md)
+* [Limited diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2567.md)
+* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
+* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2340.md)
+* [Limited testing access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_881.md)
+* [Low testing frequency in previously infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_864.md)
 
 ## Description of the risk
 

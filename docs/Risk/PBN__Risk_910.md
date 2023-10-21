@@ -17,7 +17,7 @@
 * [Mainstreaming health criteria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1447.md)
 * [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
 * [Exposure to greenspace and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_173.md)
-* [Incorporate placemaking and public place design in spatial planning, include hygiene development and spatial use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3647.md)
+* [Incorporate placemaking and public place design in spatial planning, include hygiene development and spatial use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3478.md)
 
 ## Mitigations of this risk
 

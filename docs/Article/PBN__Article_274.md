@@ -44,14 +44,14 @@ Resilient Built Environment: Critical Review of the Strategies Released by the S
 
 * [Lack of communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1686.md)
 * [Contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1685.md)
+* [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 * [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
 * [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
 * [Inadequate emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1689.md)
-* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1486.md)
-* [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1687.md)
-* [Inadequate personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1276.md)
 * [Non-compliance with guidelines and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1688.md)
+* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1486.md)
+* [Inadequate personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1276.md)
 
 ## This article points to following mitigation
 
@@ -75,9 +75,9 @@ Resilient Built Environment: Critical Review of the Strategies Released by the S
 * [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
 * [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
 * [Emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1054.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
 * [Communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1055.md)
 * [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
 * [Compliance checks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
 * [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
 * [Occupancy limits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_965.md)

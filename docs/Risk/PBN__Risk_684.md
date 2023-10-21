@@ -13,7 +13,7 @@
 * [Delay in diagnosis and poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2355.md)
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3269.md)
 * [Early detection of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3228.md)
-* [Early detection and rapid response systems, development of new diagnostic tools and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4599.md)
+* [Early detection and rapid response systems, development of new diagnostic tools and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3643.md)
 * [Unknown infection status](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2961.md)
 * [Transmission of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2772.md)
 * [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)

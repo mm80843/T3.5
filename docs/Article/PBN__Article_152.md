@@ -32,9 +32,9 @@ Epidemics, Planning and the City: A Special Issue of Planning Perspectives
 
 ## List of risks in an article
 
-* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
 * [Inadequate urban design and planning for disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1306.md)
 * [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1305.md)
+* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
 * [Inequitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1309.md)
 * [Limited public health knowledge and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1308.md)
 

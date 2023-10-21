@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Iot buttons for alerts and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5423.md)
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2171.md)
 * [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
-* [Iot and ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4466.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4019.md)
-* [Ai and iot technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4465.md)
 * [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3154.md)
-* [Implementation of iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4467.md)
+* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_100.md)
+* [Iot devices for monitoring and controlling cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1527.md)
+* [Purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1585.md)
+* [Internet of things iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1133.md)
+* [Iot device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_399.md)
 
 ## This Technology enables the following mitigations
 

@@ -13,10 +13,10 @@
 * [Lack of recovery support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2837.md)
 * [Economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2848.md)
 * [Job loss and exploitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2467.md)
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3663.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3483.md)
 * [Missed opportunities for green recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3266.md)
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1084.md)
-* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3964.md)
+* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3622.md)
 * [Job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2644.md)
 
 ## Description of the risk

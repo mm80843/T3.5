@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2567.md)
+* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2529.md)
 * [Cities and urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_414.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2631.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2567.md)
 * [Urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_591.md)
 * [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_125.md)
 * [Urban](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1522.md)
-* [Urban design principles](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2623.md)
-* [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2722.md)
+* [Urban design principles](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2563.md)
+* [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2702.md)
 * [Urban communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_774.md)
 * [Urban populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_994.md)
 

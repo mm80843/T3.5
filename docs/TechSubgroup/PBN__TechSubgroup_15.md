@@ -10,14 +10,14 @@
 
 * [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_167.md)
 * [Disinfection and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_73.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_429.md)
-* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_427.md)
-* [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_426.md)
-* [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_525.md)
-* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_428.md)
-* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_526.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_430.md)
-* [Effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_432.md)
+* [Purification and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_88.md)
+* [Disinfection equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_87.md)
+* [Cleaning supplies and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_61.md)
+* [Sanitation and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_129.md)
+* [Hygiene and sanitation practices and protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
+* [Infectious agents management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_187.md)
 
 ## This Technology belongs to this TechnologySubgroup
 
@@ -31,9 +31,10 @@
 * [Uv light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2113.md)
 * [Uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2042.md)
 * [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
+* [Disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_434.md)
 * [Biocidal agents such as hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_848.md)
 * [Cleaning solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_437.md)
-* [Disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_434.md)
+* [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_855.md)
 * [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_854.md)
 * [Self-cleaning surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_506.md)
 * [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
@@ -42,5 +43,4 @@
 * [Alcohols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_849.md)
 * [Ethanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_851.md)
 * [Glutardialdehyde](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_853.md)
-* [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_855.md)
 

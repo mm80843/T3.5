@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Provide safe and social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3780.md)
-* [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3779.md)
 * [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_131.md)
 * [Lack of safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2393.md)
-* [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3816.md)
-* [Design and develop public spaces that encourage social interaction and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3458.md)
-* [Intimate living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3817.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
 * [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2454.md)
-* [Reconsidering regulations and designs of interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3570.md)
+* [Lack of restorative spaces for social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_955.md)
+* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
+* [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1449.md)
+* [Anti-social activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_994.md)
+* [Social disruptions, transmission in crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2841.md)
+* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1454.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
 
 ## Description of the risk
 

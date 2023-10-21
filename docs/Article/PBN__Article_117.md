@@ -55,10 +55,10 @@ Towards the sustainable development of smart cities through mass video surveilla
 * [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
 * [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
 * [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_878.md)
+* [Public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1545.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [Data encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_344.md)
 * [Anonymization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1380.md)
-* [Public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1545.md)
 * [Better laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1544.md)
 

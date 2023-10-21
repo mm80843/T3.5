@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Non-standardized data collection, heterogeneity in data terminologies, data sharing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2588.md)
 * [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
-* [Standardize data protocols, promote data sharing and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4154.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3515.md)
+* [Data sharing barriers, legal frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2590.md)
 * [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1075.md)
 * [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)
-* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3516.md)
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
-* [Centralised primary data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3518.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
-* [Standardizing protocols and networks for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4213.md)
+* [Lack of data standardization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1919.md)
+* [Lack of interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2683.md)
+* [Data collection and analysis limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_260.md)
+* [Data sharing ethics, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2948.md)
 
 ## Mitigations of this risk
 

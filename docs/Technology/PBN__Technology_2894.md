@@ -13,11 +13,11 @@
 * [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1939.md)
 * [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
 * [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_192.md)
-* [Gps-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4281.md)
 * [Information filtering systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1285.md)
-* [Real-time tracking map](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4282.md)
+* [Real-time tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1705.md)
+* [State-transition matrix](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2875.md)
+* [Sensor calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_346.md)
 * [Improved location tracking algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1381.md)
-* [Filtering indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5260.md)
 
 ## This Technology enables the following mitigations
 

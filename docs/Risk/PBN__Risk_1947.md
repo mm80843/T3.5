@@ -17,7 +17,7 @@
 * [Deficiencies in office buildings and layouts in regards to infection spreading propensity during the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_435.md)
 * [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
 * [Lack of flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2659.md)
-* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4678.md)
+* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3653.md)
 
 ## Description of the risk
 

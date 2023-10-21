@@ -42,9 +42,9 @@ The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities a
 * [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2069.md)
 * [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2072.md)
 * [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
-* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
 * [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
 * [Scalability and qos provisioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2071.md)
+* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
 
 ## This article points to following mitigation
 
@@ -64,11 +64,11 @@ The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities a
 * [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 * [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1579.md)
 * [Purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1585.md)
 * [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1587.md)
 * [Privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1577.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Access control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1576.md)
 * [Standardization and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1588.md)
 * [User-friendly interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1586.md)

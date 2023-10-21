@@ -17,7 +17,7 @@
 * [Timeliness of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3232.md)
 * [Inadequate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2035.md)
 * [Infodemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2258.md)
-* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3614.md)
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
 
 ## Mitigations of this risk
 

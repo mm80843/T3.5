@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [Testing laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1155.md)
-* [Testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3466.md)
-* [Testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2595.md)
+* [Testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2676.md)
+* [Testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2549.md)
 * [Limited diagnostic capacity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1085.md)
-* [Testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2594.md)
-* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3467.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2596.md)
-* [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2565.md)
+* [Testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2548.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2774.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2550.md)
+* [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2527.md)
 * [Clinical laboratories](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1380.md)
 * [Medical equipment manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_546.md)
 

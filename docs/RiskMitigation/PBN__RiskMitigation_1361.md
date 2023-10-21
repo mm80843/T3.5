@@ -10,8 +10,8 @@
 
 * [Evaluate and update nphis based on scientific evidence, implement a combination of interventions, ensure compliance with guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2027.md)
 * [Clear and concise communication of guidelines and recommendations, providing examples and demonstrations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2411.md)
-* [Research priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4647.md)
-* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4646.md)
+* [Research priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3363.md)
+* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3362.md)
 * [Promote publication of all study results, including negative or inconclusive findings, encourage transparency in reporting methods and results](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2030.md)
 * [Improve reporting standards and conduct high-quality research studies on preventive interventions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2068.md)
 * [Collect more data, conduct larger studies for more solid conclusions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2213.md)

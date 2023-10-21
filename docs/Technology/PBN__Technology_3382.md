@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4262.md)
-* [Active design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5058.md)
-* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5059.md)
+* [Nature-based design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3727.md)
 * [Flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2484.md)
-* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4975.md)
-* [Passive design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5060.md)
-* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4972.md)
-* [Innovative projects](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4264.md)
-* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4974.md)
-* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5061.md)
+* [Architectural design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1108.md)
+* [Design principles that allow for future modifications and customization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2672.md)
+* [Enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2015.md)
+* [Architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2784.md)
+* [Sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_470.md)
+* [Universal design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3231.md)
+* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1372.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
 
 ## This Technology enables the following mitigations
 

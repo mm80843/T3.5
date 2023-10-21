@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4420.md)
-* [Rh effect on uv inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4421.md)
 * [Effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_340.md)
-* [Uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3623.md)
 * [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_338.md)
-* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4422.md)
-* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4250.md)
+* [Decoupling of larger aerosol particles from air stream in upper-room uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1168.md)
+* [Aerosol transmission in dry environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2840.md)
 * [Effectiveness of uvgi decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1740.md)
-* [Implement strategies to promote good room air mixing, such as ceiling mounted fans, to ensure even distribution of aerosol particles in the uv field](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4423.md)
 * [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3008.md)
+* [Contamination from respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2975.md)
+* [Effect of rh on uv susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2274.md)
+* [Limited effectiveness of upper-room uvgi if room air is not well mixed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1167.md)
+* [Airborne transmission of infectious microorganisms indoors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_336.md)
 
 ## Mitigations of this risk
 

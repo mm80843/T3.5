@@ -14,9 +14,9 @@
 * [Limited accessibility, security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3173.md)
 * [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2069.md)
 * [Legal issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
-* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4242.md)
+* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
 * [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1964.md)
-* [Strict adherence to privacy regulations, encryption of sensitive data, secure access control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3613.md)
+* [Strict adherence to privacy regulations, encryption of sensitive data, secure access control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3465.md)
 * [Violation of privacy laws and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3246.md)
 
 ## Description of the risk

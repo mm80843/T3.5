@@ -10,7 +10,7 @@
 
 * [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1599.md)
 * [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
-* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3614.md)
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
 * [Inadequate communication and spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_806.md)
 * [Exaggerated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_373.md)
 * [Misinformation and lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3097.md)

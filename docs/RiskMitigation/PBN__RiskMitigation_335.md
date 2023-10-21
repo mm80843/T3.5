@@ -14,7 +14,7 @@
 * [Vector control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_331.md)
 * [Development of novel vector control tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_334.md)
 * [Monitoring and surveillance of vectors, implementing vector control measures, public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2677.md)
-* [Animal vectors control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3315.md)
+* [Animal vectors control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3173.md)
 * [Implement ecosystem-based approaches to control vectors, such as maintaining natural habitats and reducing breeding sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2430.md)
 * [Explore cost-effective solutions and funding options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2371.md)
 * [Enhance vector control measures, develop targeted interventions, monitor and prevent mosquito breeding.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2191.md)

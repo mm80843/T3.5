@@ -35,8 +35,8 @@ Applications of digital technology in COVID-19 pandemic planning and response
 
 * [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
 * [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2321.md)
-* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2320.md)
 * [Privacy invasion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2317.md)
+* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2320.md)
 * [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2319.md)
 
 ## This article points to following mitigation
@@ -60,13 +60,13 @@ Applications of digital technology in COVID-19 pandemic planning and response
 * [Widespread testing programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1941.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 * [Quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_83.md)
-* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
 * [Anonymous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1934.md)
 * [Combination of vital sign screening and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1940.md)
 * [Data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_822.md)
 * [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1939.md)
 * [Broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1936.md)
 * [Technical support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1594.md)
+* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
 * [Opt-in systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1935.md)
 * [Loaner devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1937.md)
 * [Free wi-fi hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1938.md)

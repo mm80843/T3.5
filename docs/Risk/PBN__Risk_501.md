@@ -15,7 +15,7 @@
 * [Delays in project activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1513.md)
 * [Delays in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1082.md)
 * [Limited time for project delivery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2918.md)
-* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3748.md)
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3520.md)
 * [Delay in project](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2802.md)
 * [Uncertainty in construction market](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1932.md)
 

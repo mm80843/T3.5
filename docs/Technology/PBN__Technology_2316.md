@@ -11,13 +11,13 @@
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_402.md)
 * [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_793.md)
 * [Contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_29.md)
-* [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3768.md)
-* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3765.md)
-* [Contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
 * [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1460.md)
-* [Contact tracing and control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4218.md)
 * [Contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1066.md)
-* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3853.md)
+* [Advanced contact tracing and monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1621.md)
+* [Contact tracing app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3341.md)
+* [Digital contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3040.md)
+* [Use of technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_289.md)
+* [Testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1258.md)
 
 ## This Technology enables the following mitigations
 

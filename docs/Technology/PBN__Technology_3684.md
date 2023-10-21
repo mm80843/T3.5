@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5294.md)
-* [Comprehensive building design and maintenance strategies to ensure optimal indoor environmental quality.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5295.md)
-* [Improved indoor climate quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5296.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5297.md)
-* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5298.md)
-* [Enhance indoor qualities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5299.md)
-* [Improve indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5300.md)
-* [Improved understanding of indoor and outdoor environmental parameters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5301.md)
-* [Indoor air quality and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5302.md)
-* [Improve indoor air quality by addressing pollution sources, ventilation, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5303.md)
+* [Reducing chemical use in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1484.md)
+* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1485.md)
+* [Indoor environment and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1981.md)
+* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1269.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1610.md)
+* [Indoor vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2084.md)
+* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
 
 ## This Technology enables the following mitigations
 

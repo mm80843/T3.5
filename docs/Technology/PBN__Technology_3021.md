@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Virtual e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4398.md)
+* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1420.md)
 * [Virtual classrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2094.md)
-* [Rapid development of virtual educational platforms, e-learning packages, virtual assessments.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4400.md)
-* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4979.md)
-* [Virtual assessments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4980.md)
+* [Virtual training tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_813.md)
 * [Digital learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1807.md)
-* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4363.md)
-* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4399.md)
+* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2128.md)
+* [Technology for remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1167.md)
+* [Online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_74.md)
+* [Distance learning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1507.md)
 * [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2053.md)
-* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4137.md)
+* [E-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_957.md)
 
 ## This Technology enables the following mitigations
 

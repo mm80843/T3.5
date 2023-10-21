@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Enabler](https://github.com/mm80843/T3.5/tree/main/docs/Enabler/index.md) >> Individual ID:PBN__Enabler_239 
 
-# __Iot devices__
+# __Virtual experiences__
 
 ## Category to which it belongs
 
-* [A compilation of interconnected devices, networks, sensors, and protocols known as the internet of things iot .](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_63.md)
+* [Digital representations and platforms for immersive educational and interactive experiences and exhibitions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_88.md)
 
 ## Closest similar item
 
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_238.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
-* [Internet of things iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_250.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_241.md)
-* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_112.md)
-* [Purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_251.md)
-* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_240.md)
-* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_223.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_246.md)
-* [Ai and iot technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_252.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_238.md)
+* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_240.md)
+* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_22.md)
+* [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_183.md)
+* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_242.md)
+* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_241.md)
+* [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_97.md)
+* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_92.md)
+* [Augmented reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_224.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_59.md)
 

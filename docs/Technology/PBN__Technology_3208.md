@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4958.md)
-* [Automotive systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4959.md)
-* [Implementation of touchless systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3776.md)
-* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4960.md)
+* [Self-driving cars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3001.md)
+* [Ground vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3695.md)
+* [Touchless entry systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_745.md)
+* [Electric vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_354.md)
 * [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3526.md)
-* [Implementation of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3775.md)
+* [Develop car-sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_304.md)
 * [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1006.md)
-* [Implement touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3774.md)
+* [E-scooters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2370.md)
 * [Touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1328.md)
 * [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_206.md)
 

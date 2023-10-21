@@ -13,7 +13,7 @@
 * [Inefficient disease identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1779.md)
 * [Detection of asymptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_636.md)
 * [Insufficient surveillance of asymptomatic and unreported cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
-* [Ai for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3747.md)
+* [Ai for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3519.md)
 * [Underreporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2156.md)
 * [Under-reporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_544.md)
 * [Inaccurate identification and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)

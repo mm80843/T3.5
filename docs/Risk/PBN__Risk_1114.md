@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Strict adherence to privacy regulations, encryption of sensitive data, secure access control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3613.md)
+* [Strict adherence to privacy regulations, encryption of sensitive data, secure access control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3465.md)
 * [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1362.md)
 * [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3222.md)
 * [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1524.md)
@@ -63,8 +63,8 @@ Privacy breaches, misuse of data, ethical concerns, regulatory non-compliance
 
 ## Technologies linked to the risk
 
-* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_182.md)
 * [Ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_183.md)
+* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_182.md)
 * [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_184.md)
 
 ## Property: has_RiskType

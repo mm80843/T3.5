@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4186.md)
-* [Direct uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4187.md)
-* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4188.md)
-* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4189.md)
-* [Upper room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4190.md)
-* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4191.md)
-* [Upper-room uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4192.md)
+* [Uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3588.md)
+* [Direct uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3589.md)
+* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3590.md)
+* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3591.md)
+* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3592.md)
+* [Upper-room uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3593.md)
 * [Lack of standardized tests and protocols for uvgi efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1742.md)
 * [Uvgi systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
-* [Use of 254 nm uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4193.md)
+* [Use of 254 nm uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3594.md)
+* [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 
 ## Mitigations of this risk
 

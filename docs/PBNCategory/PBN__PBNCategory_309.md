@@ -5,6 +5,6 @@
 ## Items covered in this category
 
 * [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-* [Molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_313.md)
-* [Biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_334.md)
+* [Biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_83.md)
+* [Molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_84.md)
 

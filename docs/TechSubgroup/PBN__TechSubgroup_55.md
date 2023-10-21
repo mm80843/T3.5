@@ -23,7 +23,7 @@
 
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_401.md)
 * [Remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_284.md)
-* [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_6.md)
 * [Digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1558.md)
+* [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_6.md)
 * [Dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1704.md)
 

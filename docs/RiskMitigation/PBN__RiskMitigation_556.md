@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Implement rapid response mechanisms and decision-making protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3099.md)
-* [Demand response programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5142.md)
 * [Immediate response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1231.md)
 * [Rapid deployment of new healthcare applications and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_28.md)
-* [Rapidity of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3237.md)
+* [Rapid testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3326.md)
 * [Develop rapid response services to deliver relevant and high-quality evidence in a timely manner, leverage multiple dissemination channels tailored to different audiences, and expand the search for evidence beyond conventional sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1855.md)
-* [Early alert systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5143.md)
-* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5144.md)
+* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3392.md)
 * [Service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_971.md)
 * [Enhance monitoring and early warning systems to detect and respond to shocks in a timely manner.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2422.md)
+* [Strengthen public health emergency preparedness and response systems to mitigate the impact of epidemics.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2432.md)
+* [Emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3374.md)
 
 ## Benefits linked to a risk
 

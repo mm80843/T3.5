@@ -15,9 +15,9 @@
 * [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1693.md)
 * [Effectiveness of uvgi decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1740.md)
 * [Humidity and covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
-* [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3755.md)
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4212.md)
-* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3879.md)
+* [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3526.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3598.md)
+* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3571.md)
 
 ## Mitigations of this risk
 

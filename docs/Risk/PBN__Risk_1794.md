@@ -63,8 +63,8 @@ Vulnerabilities in healthcare delivery, compromised patient care, financial cons
 
 ## Technologies linked to the risk
 
-* [Tele-response bots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1168.md)
 * [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1169.md)
+* [Tele-response bots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1168.md)
 
 ## Property: has_RiskType
 

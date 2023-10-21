@@ -35,9 +35,9 @@ Wearable devices for the detection of COVID-19
 * [Large datasets and lengthy studies required for algorithm training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
 * [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1113.md)
 * [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1110.md)
+* [Data security, encryption, ethics, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1114.md)
 * [Dependence on limited physiological information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1112.md)
 * [Limited differentiation of covid-19 from other viral infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1109.md)
-* [Data security, encryption, ethics, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1114.md)
 
 ## This article points to following mitigation
 
@@ -53,6 +53,7 @@ Wearable devices for the detection of COVID-19
 
 ## This article mentions these technologies
 
+* [Ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_183.md)
 * [Improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_181.md)
 * [Data encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_182.md)
 * [Data optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_176.md)
@@ -63,6 +64,5 @@ Wearable devices for the detection of COVID-19
 * [Integration of multiple wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_178.md)
 * [Multimodal device development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_179.md)
 * [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_180.md)
-* [Ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_183.md)
 * [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_184.md)
 

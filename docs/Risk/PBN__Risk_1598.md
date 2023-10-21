@@ -15,7 +15,7 @@
 * [Technological](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2107.md)
 * [Tissue tropism](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_428.md)
 * [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
-* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3691.md)
+* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3496.md)
 * [Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_446.md)
 * [Security threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2414.md)
 
@@ -49,8 +49,8 @@ Functional impairment, increased anxiety, problematic internet use
 
 ## Stakeholders who can mitigate this risk
 
-* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 * [Social media companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_555.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
 
 ## Articles mentionning the risk
 

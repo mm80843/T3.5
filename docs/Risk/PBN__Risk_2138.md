@@ -14,9 +14,9 @@
 * [Imbalance of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3239.md)
 * [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1287.md)
 * [Financial viability of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3258.md)
-* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3743.md)
+* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3517.md)
 * [Cash flow issues and financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2767.md)
-* [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3725.md)
+* [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3645.md)
 * [Increase in default risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2135.md)
 
 ## Description of the risk

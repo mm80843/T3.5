@@ -77,6 +77,7 @@
 * [Impact on persons with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_834.md)
 * [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2349.md)
 * [Psycho-social effects of npis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1772.md)
+* [Psychopathology in vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1875.md)
 * [Limited resources for mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_898.md)
 * [Inadequate mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2020.md)
 * [Lack of access to mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1969.md)
@@ -84,7 +85,6 @@
 * [Mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2215.md)
 * [Risk of mental health issues during and after a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2097.md)
 * [Physical and mental health concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2491.md)
-* [Psychopathology in vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1875.md)
 * [Frustration and boredom](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2032.md)
 * [Poor mood and sleep](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2450.md)
 

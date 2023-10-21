@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
-* [Room ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4591.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [Proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4592.md)
 * [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
-* [Good ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4593.md)
-* [Adequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4594.md)
 * [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2416.md)
-* [Ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4595.md)
-* [Ventilation control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4589.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1718.md)
+* [Ventilation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3105.md)
+* [Compartmentalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3399.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
+* [Vents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2215.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1011.md)
 
 ## This Technology enables the following mitigations
 

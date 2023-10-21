@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Lack of social interaction and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1948.md)
 * [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_131.md)
+* [Isolation and lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1079.md)
 * [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
+* [Lack of communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1686.md)
 * [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
-* [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1091.md)
-* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
-* [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1922.md)
-* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2734.md)
-* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
-* [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2703.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2435.md)
+* [Lack of communication and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1992.md)
+* [Prolonged isolation and lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_75.md)
+* [Lack of social support and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1968.md)
+* [Lack of coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2868.md)
 
 ## Description of the risk
 
@@ -66,8 +66,8 @@ Increased feelings of loneliness, decreased mental health and well-being.
 
 ## Technologies linked to the risk
 
-* [Incorporate shared roof terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1270.md)
 * [Courtyards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1271.md)
+* [Incorporate shared roof terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1270.md)
 * [Communal lounge areas in apartment designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1272.md)
 
 ## Property: has_RiskType

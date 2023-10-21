@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4170.md)
+* [Cybersecurity technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1574.md)
+* [Intrusion detection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1634.md)
+* [Data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1314.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+* [Smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2478.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
-* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4171.md)
-* [Risk communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4172.md)
+* [Secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
+* [Communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1055.md)
+* [Cybersecurity protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_577.md)
 * [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3135.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
-* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3905.md)
-* [Enhanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4173.md)
-* [Implement robust cybersecurity measures, provide training on secure remote working practices, and ensure regular backups of data.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4174.md)
-* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4175.md)
 
 ## This Technology belongs to this TechGroup
 

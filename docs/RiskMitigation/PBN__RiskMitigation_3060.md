@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Prioritize vaccination and medical care for vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2758.md)
 * [Expand testing capacity, prioritize testing for high-risk individuals and settings, implement targeted testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2029.md)
-* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5179.md)
-* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4467.md)
-* [Better healthcare protection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4273.md)
-* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3593.md)
-* [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5180.md)
-* [Screening techniques for patient severity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5088.md)
-* [Combining multiple screening methods, widespread testing programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3046.md)
-* [Vulnerable population](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4967.md)
-* [Rely on evidence-based measures, prioritize hygienic practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2045.md)
+* [Increase testing capacity and accessibility, prioritize testing for high-risk individuals and areas, utilize alternative testing methods such as wastewater-based surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3070.md)
+* [Prioritize vaccination for vulnerable populations, implement protective measures in healthcare settings, provide support and resources for at-risk individuals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1871.md)
+* [Prioritize healthcare resources for vulnerable populations, improve access to healthcare, address systemic injustices and disparities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2444.md)
+* [Improve access to testing and healthcare facilities, promote and enforce proper infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3090.md)
+* [Prioritize high-quality health care for those in need and ensure access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1492.md)
+* [Implement strict infection prevention and control measures in care facilities, including regular testing, isolation of infected individuals, and robust vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1848.md)
+* [Reduce social disparities in access to testing and care, address underlying social determinants.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2536.md)
+* [Increased testing capacity, contact tracing, and public health campaigns to promote preventive measures such as mask-wearing and social distancing can help mitigate the risk.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2163.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -59,8 +59,8 @@ Disruption of education, psychological and social impact on students, potential 
 ## People affected by this risk
 
 * [Teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
-* [Students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 * [Families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_578.md)
+* [Students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 
 ## Technologies linked to the risk
 

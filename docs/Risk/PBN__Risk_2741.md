@@ -17,7 +17,7 @@
 * [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
 * [Low adoption of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1803.md)
 * [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1770.md)
-* [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4122.md)
+* [Implement measures early, based on evidence and research](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3583.md)
 
 ## Mitigations of this risk
 

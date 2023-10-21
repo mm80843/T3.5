@@ -16,7 +16,7 @@
 * [Privacy regulations compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_575.md)
 * [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
 * [Regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3173.md)
-* [Encryption protocols to safeguard digital platforms and protect residents’ data and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5123.md)
+* [Encryption protocols to safeguard digital platforms and protect residents’ data and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3770.md)
 
 ## This Technology enables the following mitigations
 

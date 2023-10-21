@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3785.md)
-* [Data security](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3786.md)
-* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3787.md)
-* [Implement strong data protection measures, obtain consent, and ensure data anonymity.](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3788.md)
-* [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3789.md)
-* [Data management and security](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3790.md)
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3791.md)
-* [Data security and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3792.md)
-* [Data privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3793.md)
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3794.md)
+* [Data protection officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2466.md)
+* [Data security professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1536.md)
+* [Data providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_847.md)
+* [Data owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1465.md)
+* [Data management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1395.md)
+* [Datum protection authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2458.md)
+* [Data curators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1302.md)
+* [Security agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2512.md)
+* [Security agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1528.md)
+* [Data management companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_605.md)
 
 ## Risks that can be mitigated by this stakeholder
 

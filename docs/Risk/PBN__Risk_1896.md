@@ -15,7 +15,7 @@
 * [Water and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_574.md)
 * [Water conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3292.md)
 * [Water demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_716.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3753.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
 * [Financial impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_553.md)
 * [Water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_612.md)
 

@@ -12,16 +12,16 @@ enabler_003
 
 ## Closest similar item
 
-* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_124.md)
-* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
-* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_126.md)
-* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_127.md)
-* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_128.md)
-* [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_129.md)
-* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_130.md)
-* [Data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_131.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_132.md)
-* [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_133.md)
+* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_69.md)
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_70.md)
+* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_71.md)
+* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_72.md)
+* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_73.md)
+* [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_74.md)
+* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_75.md)
+* [Data analysis technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_76.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_77.md)
+* [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_78.md)
 
 ## Thees blueprints use this enabler
 
@@ -38,7 +38,7 @@ enabler_003
 * [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
 * [Drinking water safety - restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
 

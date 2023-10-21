@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_638.md)
-* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_643.md)
+* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_225.md)
+* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_237.md)
 

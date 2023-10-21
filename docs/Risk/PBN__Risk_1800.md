@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1203.md)
+* [Provide transparent and credible information to reduce risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
 * [Concealed information, ambiguity in risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3403.md)
+* [Provide information to reduce perceived risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3513.md)
 * [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2383.md)
-* [Risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3741.md)
+* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
+* [Psychological risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
 * [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_985.md)
-* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1153.md)
-* [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_661.md)
-* [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3725.md)
-* [Risk connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_310.md)
-* [Improved risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3723.md)
+* [Biased estimates and inferences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2755.md)
+* [Infuse risk communication into policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3506.md)
 
 ## Description of the risk
 
@@ -49,8 +49,8 @@ Decreased adoption of protective measures, increased risk of infection and sprea
 
 ## Stakeholders who can mitigate this risk
 
-* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 * [Government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
 
 ## Articles mentionning the risk
 
@@ -62,8 +62,8 @@ Decreased adoption of protective measures, increased risk of infection and sprea
 
 ## Technologies linked to the risk
 
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 * [Risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1172.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 
 ## Property: has_RiskType
 

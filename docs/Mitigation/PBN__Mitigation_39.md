@@ -33,6 +33,6 @@ Remote monitoring and treatment of patients to reduce healthcare workload
 
 ## This Mitigation is enabled by the following technologies
 
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 * [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2149.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 

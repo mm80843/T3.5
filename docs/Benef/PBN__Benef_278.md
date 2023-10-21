@@ -26,7 +26,7 @@ Regular testing of staff respiratory specimens allows for early detection of inf
 
 ## Risks which can benefit from this action
 
+* [Monitoring metrics related to heart rate, respiration rate, and skin temperature using wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_948.md)
 * [Staff respiratory specimens testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_267.md)
 * [Patient respiratory and stool specimens testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_268.md)
-* [Monitoring metrics related to heart rate, respiration rate, and skin temperature using wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_948.md)
 

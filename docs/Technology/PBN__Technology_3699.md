@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5279.md)
 * [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
 * [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2969.md)
 * [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
 * [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3692.md)
-* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5012.md)
 * [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3298.md)
-* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5006.md)
-* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5278.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2122.md)
+* [Robots, drones & automated vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3735.md)
+* [Mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2330.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1469.md)
 
 ## This Technology enables the following mitigations
 

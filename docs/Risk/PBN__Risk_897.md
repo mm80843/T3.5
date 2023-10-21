@@ -10,13 +10,13 @@
 
 * [Confidentiality breach in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2216.md)
 * [Limited availability of non-verbal cues in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2217.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3678.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3490.md)
 * [Limited access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3054.md)
 * [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2383.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3693.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3498.md)
 * [Breach of confidentiality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3319.md)
 * [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2387.md)
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3835.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3499.md)
 * [Patients with limited internet access and technologic capabilities, lack of physical exam, ambiguity about information security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2537.md)
 
 ## Mitigations of this risk

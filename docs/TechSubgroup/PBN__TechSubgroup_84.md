@@ -30,8 +30,8 @@
 * [Urban design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
 * [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
 * [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
+* [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1617.md)
 * [Landscaping techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_921.md)
 * [Green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
-* [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1617.md)
 * [Promotion of outdoor activities during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2052.md)
 

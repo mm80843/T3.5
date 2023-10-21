@@ -10,7 +10,7 @@
 
 * [Financial viability of businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3257.md)
 * [Financial viability of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3258.md)
-* [Business](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4713.md)
+* [Business](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3624.md)
 * [Lack of business continuity planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2202.md)
 * [Financial fragility on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_412.md)
 * [Disruption in the supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_480.md)

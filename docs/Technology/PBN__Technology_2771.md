@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4629.md)
-* [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4630.md)
-* [Access to open green space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4631.md)
-* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4555.md)
-* [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4632.md)
-* [Green open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4633.md)
-* [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4634.md)
-* [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4635.md)
-* [Provide access to nature and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4636.md)
-* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4637.md)
+* [Provide access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1377.md)
+* [Green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
+* [Availability of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2828.md)
+* [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1617.md)
+* [Guidelines for accessing private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1615.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1982.md)
+* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
+* [Green space management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2594.md)
+* [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2592.md)
+* [Temporary parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2067.md)
 
 ## This Technology enables the following mitigations
 

@@ -12,12 +12,12 @@
 * [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_386.md)
 * [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3354.md)
 * [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3329.md)
+* [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
 * [Telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_242.md)
-* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4830.md)
-* [Teleconferencing and virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4831.md)
-* [Teleoperation for telemedicine and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4832.md)
 * [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_952.md)
 * [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1419.md)
+* [Telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2158.md)
+* [Secure telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1811.md)
 
 ## This Technology enables the following mitigations
 

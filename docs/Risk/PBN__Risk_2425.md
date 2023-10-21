@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Distribution strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4797.md)
-* [Vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4798.md)
-* [Condom distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4799.md)
-* [Analysis of droplet distribution and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4800.md)
-* [Efficient gas distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4801.md)
-* [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4802.md)
-* [Population density data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4803.md)
-* [Vaccination distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4804.md)
-* [Air distribution evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4805.md)
-* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4392.md)
+* [Inequitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3077.md)
+* [Population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_495.md)
+* [Difficulty in vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_519.md)
+* [Changes in disease distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1830.md)
+* [Exponential community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1508.md)
+* [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1945.md)
+* [Efficient distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3311.md)
+* [Inequitable distribution of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1041.md)
+* [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
+* [Community spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2381.md)
 
 ## Mitigations of this risk
 

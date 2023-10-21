@@ -15,7 +15,7 @@
 * [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1057.md)
 * [Healthcare facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1250.md)
 * [Hospital patients and staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_309.md)
-* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2759.md)
+* [Improved healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2608.md)
 * [Hospital personnel](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_500.md)
 * [Hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_64.md)
 

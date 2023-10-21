@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Human health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2811.md)
 * [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_192.md)
-* [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2527.md)
-* [Health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3305.md)
-* [Mental and physical health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3306.md)
-* [And physical health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3307.md)
-* [Health effects](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3308.md)
-* [Link between human activity and health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3309.md)
-* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3310.md)
-* [Physical health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3311.md)
+* [Public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
+* [Health sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1067.md)
+* [Health organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1810.md)
+* [Individuals with underlying health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_886.md)
+* [Health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_593.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2524.md)
+* [Health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_422.md)
+* [Health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1245.md)
+* [Health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_394.md)
 
 ## Risks that can be mitigated by this stakeholder
 

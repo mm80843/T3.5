@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3428 
 
-# __Social lockdown__
+# __Green and outdoor spaces__
 
 ## Category to which it belongs
 
-* [The complexities of social distancing, social inequalities, isolation, and lack of interaction impact society in multiple ways.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
+* [Insufficiently maintained, overcrowded, and inequitably distributed public spaces contribute to a lack of access to green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
-* [Lockdown and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3671.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1866.md)
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3434.md)
-* [Local lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3436.md)
-* [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2454.md)
-* [Building lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3435.md)
-* [National lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3439.md)
-* [Lockdown enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3438.md)
-* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+* [New designs, uses, and practices for green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_911.md)
+* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
+* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3477.md)
+* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+* [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_325.md)
+* [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
+* [Increased recreational use in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_892.md)
+* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_693.md)
+* [Lack of indoor green features](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2091.md)
+* [Inadequate maintenance of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1533.md)
 

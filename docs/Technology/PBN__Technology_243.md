@@ -17,7 +17,7 @@
 * [Semantic web technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1341.md)
 * [Web service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3141.md)
 * [Web portals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2169.md)
-* [Software and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4693.md)
+* [Software and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3769.md)
 
 ## This technology is mentioned by
 

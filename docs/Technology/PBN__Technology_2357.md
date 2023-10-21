@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4542.md)
-* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4403.md)
-* [Building transport networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4543.md)
-* [Promote active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4544.md)
-* [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4273.md)
-* [Higher dependency on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4277.md)
-* [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4293.md)
-* [Active travel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4188.md)
-* [Suspension of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4545.md)
-* [Optimizing transport based on demand](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4546.md)
+* [Railway transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2886.md)
+* [Modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2822.md)
+* [Public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
+* [Alternative modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1990.md)
+* [Transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_659.md)
+* [Alternative transportation methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_111.md)
+* [Transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_542.md)
+* [Transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2141.md)
+* [Emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
+* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3704.md)
 
 ## This Technology enables the following mitigations
 

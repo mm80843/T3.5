@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1816.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4009.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3474.md)
 * [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1060.md)
 * [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1861.md)
 * [Variation in lighting standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_791.md)

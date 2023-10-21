@@ -8,22 +8,22 @@
 
 ## Closest similar item
 
-* [Water quality management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_564.md)
-* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_565.md)
-* [Water consumption and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_566.md)
+* [Water and waste management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_134.md)
 * [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_11.md)
-* [Improved water treatment](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_567.md)
-* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_568.md)
-* [Digital revolution in water management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_569.md)
-* [Provision of water infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_570.md)
-* [Ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_571.md)
-* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_572.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_121.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_118.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_185.md)
+* [Environment and healthcare management tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_14.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_123.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_126.md)
+* [Waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_161.md)
+* [Crowd management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_152.md)
 
 ## This Technology belongs to this TechnologySubgroup
 
+* [Water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1943.md)
 * [Water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
 * [Low-flow fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1771.md)
-* [Water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1943.md)
 * [Hot water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1048.md)
 * [Greywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1770.md)
 * [Graywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1773.md)

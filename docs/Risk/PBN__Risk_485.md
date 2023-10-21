@@ -22,7 +22,7 @@
 ## Mitigations of this risk
 
 * [Incorporating vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_685.md)
-* [Differential testing rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_682.md)
 * [Increased testing in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_683.md)
+* [Differential testing rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_682.md)
 * [Increased testing in densely pop.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_684.md)
 

@@ -56,9 +56,9 @@ Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learne
 * [Communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
 * [Urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
 * [Design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_166.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
 * [Community amenities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_170.md)
 * [Virtual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_172.md)
-* [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
 * [Community events](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_171.md)
 

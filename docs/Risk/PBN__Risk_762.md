@@ -55,8 +55,8 @@ Delayed response and inability to make accurate predictions and decisions.
 ## Stakeholders who can mitigate this risk
 
 * [Researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [Public-health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_513.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
 * [Data analysts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_477.md)
 * [Software developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1569.md)
 
@@ -67,12 +67,12 @@ Delayed response and inability to make accurate predictions and decisions.
 
 ## People affected by this risk
 
-* [Policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [Public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
+* [Public-health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_513.md)
+* [Policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_126.md)
 * [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_121.md)
 * [Public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [Scientists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_46.md)
-* [Public-health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_513.md)
 
 ## Technologies linked to the risk
 

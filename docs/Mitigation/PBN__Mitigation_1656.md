@@ -33,6 +33,6 @@ Allows remote consultations with healthcare professionals for medical advice, di
 
 ## This Mitigation is enabled by the following technologies
 
-* [Mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2962.md)
 * [Telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2155.md)
+* [Mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2962.md)
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Dense vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5014.md)
-* [Enclosed vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5021.md)
 * [Plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3598.md)
 * [Indoor vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
-* [Green plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5013.md)
-* [Maintenance of natural vegetation cover](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5245.md)
-* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4558.md)
-* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5246.md)
-* [Plant species diversity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5015.md)
+* [Vegetation management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1840.md)
+* [Landscaping materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
+* [Landscaping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_963.md)
+* [Landscaping techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_921.md)
 * [Potted plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3448.md)
+* [Gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1734.md)
+* [Landscape ground](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3447.md)
+* [Presence of forest and trees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2772.md)
 
 ## This Technology enables the following mitigations
 

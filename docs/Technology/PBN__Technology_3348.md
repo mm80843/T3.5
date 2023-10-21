@@ -10,14 +10,14 @@
 
 * [Sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2174.md)
 * [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
-* [Sanger sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5170.md)
 * [Comparative analysis of genome sequences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3672.md)
-* [Sequence annotation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5171.md)
 * [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
 * [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
+* [Improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_58.md)
 * [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3632.md)
 * [Dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1704.md)
 * [Bioinformatics software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2660.md)
+* [Such as crispr/cas9](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3665.md)
 
 ## This Technology enables the following mitigations
 

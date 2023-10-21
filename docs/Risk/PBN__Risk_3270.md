@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3616.md)
+* [Loss of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_51.md)
+* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
 * [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_496.md)
 * [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2119.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3617.md)
-* [Evaluating control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3618.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3467.md)
 * [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1569.md)
+* [Ineffective administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1315.md)
 * [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2118.md)
-* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3619.md)
-* [Controlling source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3620.md)
-* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3621.md)
+* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3468.md)
+* [Border control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_991.md)
 
 ## Mitigations of this risk
 

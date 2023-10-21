@@ -13,9 +13,9 @@
 * [Privacy invasion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2317.md)
 * [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1096.md)
 * [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
-* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4242.md)
+* [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3441.md)
 * [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2069.md)
-* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4270.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3443.md)
 * [Privacy interference](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3171.md)
 * [Potential breach of privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2637.md)
 

@@ -26,7 +26,7 @@ Guidelines would encourage safe physical activity and decrease risk of chronic c
 ## Risks which can benefit from this action
 
 * [Promotion of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_358.md)
+* [Provision of guidelines on safe physical activity outdoors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_354.md)
 * [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_458.md)
 * [Creating new space for walking and cycling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_357.md)
-* [Provision of guidelines on safe physical activity outdoors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_354.md)
 

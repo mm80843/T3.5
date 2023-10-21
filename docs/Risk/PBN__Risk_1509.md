@@ -64,8 +64,8 @@ Panic shopping, shortage of medical supplies, excess hospital admissions
 
 ## Technologies linked to the risk
 
-* [Clear guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_803.md)
 * [Public education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_802.md)
+* [Clear guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_803.md)
 
 ## Property: has_RiskType
 

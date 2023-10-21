@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4433.md)
 * [Hospital preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_360.md)
-* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4432.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3423.md)
+* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3529.md)
 * [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2416.md)
 * [Emergency facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3302.md)
 * [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_807.md)
-* [Iot-enabled hospital](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4436.md)
 * [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_22.md)
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
+* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
+* [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2159.md)
+* [Insufficient electrical infrastructure in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_444.md)
 
 ## Description of the risk
 

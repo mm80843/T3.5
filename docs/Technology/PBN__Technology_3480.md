@@ -14,7 +14,7 @@
 * [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
 * [Proper sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2728.md)
 * [Wastewater treatment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1064.md)
-* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3973.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3763.md)
 * [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_624.md)
 * [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1216.md)
 * [Sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2136.md)

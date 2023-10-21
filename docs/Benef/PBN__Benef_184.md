@@ -20,9 +20,9 @@ Hygiene protocols reduce the risk of transmission, ensuring a safer environment 
 
 ## Stakeholders benefitting from this Benefit
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
 * [Teachers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_102.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
 * [Staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_103.md)
 * [Students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)

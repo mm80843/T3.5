@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
+* [Lack of communication and surveillance capabilities in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_445.md)
+* [Insufficient healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1318.md)
+* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1159.md)
 * [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
-* [Conversion of public venues into makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4476.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
 * [Emergency facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3302.md)
+* [Inadequate ventilation in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_443.md)
 * [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2416.md)
-* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3488.md)
-* [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4477.md)
-* [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1682.md)
-* [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_22.md)
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3424.md)
+* [Lack of facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
 
 ## Mitigations of this risk
 

@@ -5,9 +5,9 @@
 ## Items covered in this category
 
 * [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
-* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_69.md)
-* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_162.md)
-* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_214.md)
-* [Drone technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_315.md)
-* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_207.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_38.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_45.md)
+* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_88.md)
+* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_121.md)
+* [Drone technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_31.md)
 

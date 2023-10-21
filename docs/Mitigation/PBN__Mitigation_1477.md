@@ -33,6 +33,6 @@ Raising awareness and educating the public about vector-borne diseases and their
 
 ## This Mitigation is enabled by the following technologies
 
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1117.md)
 * [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1117.md)
 

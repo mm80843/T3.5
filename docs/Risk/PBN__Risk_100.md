@@ -12,7 +12,7 @@
 * [Insufficient healthcare preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2159.md)
 * [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2861.md)
 * [Insufficient healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1390.md)
-* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3758.md)
+* [Hospital patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3529.md)
 * [Lack of capacity in traditional hospitals during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_441.md)
 * [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1025.md)
 * [Healthcare inequalities in lmic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_467.md)

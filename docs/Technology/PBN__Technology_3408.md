@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Hand sanitizer solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2730.md)
+* [Hand sanitizer technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2373.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
 * [Hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2480.md)
-* [Ensuring the availability of hand hygiene facilities handwashing stations or sanitizer dispensers , regular cleaning and disinfection of surfaces, and proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4838.md)
-* [Hand sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4995.md)
-* [Regular disinfection of surfaces, hand hygiene, and use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4997.md)
-* [Hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2789.md)
-* [Strict disinfection measures, hand](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4999.md)
-* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_247.md)
-* [Regular hand hygiene practices, cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4998.md)
-* [Practicing hand hygiene, disinfecting commonly touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4996.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_507.md)
+* [Automatic hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1478.md)
+* [Use of alcohol-based hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_503.md)
+* [Alcohol-based hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2522.md)
+* [Soap and water or hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3009.md)
+* [Sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_143.md)
+* [Soap dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1021.md)
 
 ## This Technology enables the following mitigations
 

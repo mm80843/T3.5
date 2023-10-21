@@ -14,7 +14,7 @@
 * [Infection of cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3285.md)
 * [Infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2298.md)
 * [Spread of virus among construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1546.md)
-* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3746.md)
+* [Workers’ vulnerability to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3518.md)
 * [Infection and disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2581.md)
 * [Covid-19 spread in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_675.md)
 

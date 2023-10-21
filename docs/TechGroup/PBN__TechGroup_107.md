@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [TechGroup](https://github.com/mm80843/T3.5/tree/main/docs/TechGroup/index.md) >> Individual ID:PBN__TechGroup_107 
 
-# __Biosensors__
+# __Gotomeeting__
 
 ## Category to which it belongs
 
-* [Bio-technology detectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_345.md)
+* [Online video conferencing software tool.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_322.md)
 
 ## Closest similar item
 
-* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_352.md)
-* [Development and mass production of biosensor systems that are portable, economical, user-friendly, and designed for wastewater analysis.](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_353.md)
-* [Development of biosensors specifically designed to overcome interferences from the wastewater matrix by implementing extensive sample clean-up processes.](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_354.md)
-* [Wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_355.md)
-* [Smart sterilizer sensors](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_356.md)
-* [Integrated sensor](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_357.md)
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-* [Biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_358.md)
-* [Sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_359.md)
-* [Paper-based sensor](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_360.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_25.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_45.md)
+* [Well-being promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_103.md)
+* [Mhealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_110.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_8.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_102.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_106.md)
 

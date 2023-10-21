@@ -14,15 +14,15 @@
 * [Public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_236.md)
 * [City transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_529.md)
 * [Transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_731.md)
-* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2822.md)
+* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2628.md)
 * [Public transport passengers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1298.md)
 * [Transport authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1617.md)
 * [Public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_188.md)
 
 ## Risks that can be mitigated by this stakeholder
 
-* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1211.md)
 * [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1209.md)
+* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1211.md)
 
 ## Risk affecting this stakeholder
 

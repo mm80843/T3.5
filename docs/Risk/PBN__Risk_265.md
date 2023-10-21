@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [Requires continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3386.md)
-* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3495.md)
+* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3435.md)
 * [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
 * [Limited monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2455.md)
 * [Monitoring and restriction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2527.md)
 * [Lack of monitoring capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3161.md)
 * [Data capture challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1328.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3600.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3453.md)
 * [Challenges with data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_722.md)
 * [Lack of monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_24.md)
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Sliding panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5424.md)
-* [Improved thermal comfort of occupants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5425.md)
-* [Optimal thermal environments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5289.md)
-* [Maintaining optimum temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5163.md)
-* [Thermal comfort optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4815.md)
-* [Control of indoor temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5162.md)
+* [Sliding panel systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2670.md)
+* [Temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1061.md)
+* [Flexible floor plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
+* [Solar panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1760.md)
+* [Cool roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_970.md)
+* [Double or triple-glazed windows conducive to airtight construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2687.md)
+* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
+* [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3270.md)
 * [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
 * [Temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
-* [Temperature testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3837.md)
-* [Thermo-hygrometric comfort](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5426.md)
 
 ## This Technology enables the following mitigations
 

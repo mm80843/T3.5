@@ -17,7 +17,7 @@
 * [Concentration of suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1819.md)
 * [Essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3338.md)
 * [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_993.md)
-* [Ensure material supply chain resumes quickly, address labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4426.md)
+* [Ensure material supply chain resumes quickly, address labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3475.md)
 
 ## Mitigations of this risk
 

@@ -63,8 +63,8 @@ Increased risk of disease transmission, overwhelmed healthcare system
 
 ## Technologies linked to the risk
 
-* [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1996.md)
 * [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1997.md)
+* [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1996.md)
 * [Access to testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1995.md)
 
 ## Property: has_RiskType

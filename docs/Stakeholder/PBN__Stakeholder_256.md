@@ -18,7 +18,7 @@
 * [Sustainable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_48.md)
 * [Energy firms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_253.md)
 * [Energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1003.md)
-* [Energy management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2867.md)
+* [Energy management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2645.md)
 * [Energy company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1939.md)
 * [Renewable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1410.md)
 * [Infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_299.md)

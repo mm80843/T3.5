@@ -35,8 +35,8 @@ Provide education and training programs for building professionals to increase a
 
 ## This Mitigation is enabled by the following technologies
 
-* [Workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2267.md)
 * [Information and communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2142.md)
+* [Workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2267.md)
 * [Courses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2268.md)
 * [Webinars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2269.md)
 

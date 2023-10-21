@@ -12,7 +12,7 @@
 * [Financial difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2808.md)
 * [Financial burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2463.md)
 * [Limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2831.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3753.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
 * [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
 * [Lack of transportation and financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3324.md)
 * [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_778.md)

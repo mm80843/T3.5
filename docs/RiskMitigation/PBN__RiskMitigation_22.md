@@ -16,7 +16,7 @@
 * [Implement rationing systems and stockpiling regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2966.md)
 * [Implementation of npis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
 * [Increased funding for vector control programs, allocation of resources to priority areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3053.md)
-* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3397.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3186.md)
 * [Increase production and distribution of ppe, implement reuse and recycling strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3108.md)
 
 ## Benefits linked to a risk

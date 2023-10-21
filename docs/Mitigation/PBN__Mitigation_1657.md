@@ -33,6 +33,6 @@ Regular hand hygiene helps prevent the spread of contagious diseases, including 
 
 ## This Mitigation is enabled by the following technologies
 
-* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 * [Hand soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3229.md)
+* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
 

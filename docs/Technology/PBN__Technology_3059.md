@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3604.md)
 * [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1902.md)
 * [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2056.md)
-* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3995.md)
 * [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
 * [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
 * [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_232.md)
+* [Ultraviolet uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
 * [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1349.md)
 * [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
-* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3994.md)
-* [Uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2313.md)
+* [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1142.md)
 
 ## This Technology enables the following mitigations
 

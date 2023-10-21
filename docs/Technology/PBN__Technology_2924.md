@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Artificial intelligence in predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5195.md)
-* [Predictive analytics for resource planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5196.md)
-* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4881.md)
-* [Forecasting and prediction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5197.md)
-* [Enhanced data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4880.md)
-* [Data mining for insights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5172.md)
+* [Predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3160.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
+* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3746.md)
+* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2406.md)
+* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_18.md)
+* [Forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
 * [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
-* [Big data and ai forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4874.md)
-* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4657.md)
-* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
+* [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1709.md)
+* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_769.md)
+* [Fast prediction models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3538.md)
 
 ## This Technology enables the following mitigations
 

@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Contact tracing and testing of close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3496.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3497.md)
-* [Contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3498.md)
-* [Contact tracing and control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3499.md)
-* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3500.md)
-* [Manual contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3501.md)
-* [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3492.md)
-* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3502.md)
-* [Contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
-* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3504.md)
+* [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3432.md)
+* [Ineffective contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2055.md)
+* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3425.md)
+* [Challenges in contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_766.md)
+* [Inefficient contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1488.md)
+* [Poor contact tracing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1708.md)
+* [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2473.md)
+* [Implement comprehensive contact tracing, testing, and quarantine protocols for close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3436.md)
+* [Contact tracing mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3437.md)
+* [Regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3433.md)
 
 ## Description of the risk
 

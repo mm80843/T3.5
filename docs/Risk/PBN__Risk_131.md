@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
+* [Lack of social interaction and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1948.md)
 * [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_266.md)
-* [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3779.md)
-* [Provide safe and social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3780.md)
+* [Lack of private space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3148.md)
+* [Lack of space and poor spatial organization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_343.md)
 * [Lack of restorative spaces for social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_955.md)
+* [Isolation and lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1079.md)
+* [Inadequate living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_572.md)
+* [Lack of social cohesion and trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3278.md)
 * [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2855.md)
-* [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1922.md)
-* [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2454.md)
-* [Compartmentalization of private and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3781.md)
-* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2122.md)
 
 ## Mitigations of this risk
 

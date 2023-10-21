@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
+* [Mass media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1538.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2801.md)
+* [Media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3707.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_335.md)
 * [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3549.md)
-* [Media content regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4084.md)
+* [Media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2189.md)
+* [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_6.md)
+* [Television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3121.md)
+* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2581.md)
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
-* [Limiting media exposure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4085.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2684.md)
-* [Trust in official governmental media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4086.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3099.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1117.md)
-* [Information communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3751.md)
 
 ## This Technology enables the following mitigations
 

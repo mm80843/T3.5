@@ -17,7 +17,7 @@
 * [Lack of interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2683.md)
 * [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
 * [Disintegrated and non-interoperable data and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_36.md)
-* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3495.md)
+* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3435.md)
 
 ## Mitigations of this risk
 

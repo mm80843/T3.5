@@ -15,7 +15,7 @@
 * [Developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_223.md)
 * [National economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_86.md)
 * [National governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_51.md)
-* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3131.md)
+* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2704.md)
 * [Countries participating in gvcs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1241.md)
 * [Country participating in gvc](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2287.md)
 * [European union](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1016.md)

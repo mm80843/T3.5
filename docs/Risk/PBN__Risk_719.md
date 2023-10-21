@@ -10,7 +10,7 @@
 
 * [Financial sustainability of water sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1896.md)
 * [Financial sustainability of energy providers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3256.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3753.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
 * [Financial impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_553.md)
 * [Financial problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_415.md)
 * [Financial burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2463.md)

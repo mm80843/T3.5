@@ -12,22 +12,22 @@ enabler_019
 
 ## Closest similar item
 
-* [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_577.md)
-* [Improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_578.md)
-* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_579.md)
-* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_580.md)
-* [Ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_581.md)
-* [Print media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_582.md)
-* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_185.md)
-* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_90.md)
-* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_91.md)
-* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_321.md)
+* [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_219.md)
+* [Improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_220.md)
+* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_221.md)
+* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_222.md)
+* [Ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_223.md)
+* [Print media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_65.md)
+* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_82.md)
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_62.md)
+* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
+* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_156.md)
 
 ## Thees blueprints use this enabler
 
 * [Tracking and enforcing use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
 
-## Property: has_TechEquivalent
+## Technology equivalent to this enabler
 
 * [3d printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_133.md)
 

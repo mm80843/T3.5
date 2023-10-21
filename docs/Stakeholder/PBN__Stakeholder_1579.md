@@ -15,9 +15,9 @@
 * [Public transport](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1178.md)
 * [Public transport authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1300.md)
 * [Public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_730.md)
-* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2823.md)
+* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2629.md)
 * [Public transport authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1613.md)
-* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2822.md)
+* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2628.md)
 
 ## Risk affecting this stakeholder
 

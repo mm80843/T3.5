@@ -17,7 +17,7 @@
 * [Indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_939.md)
 * [Filtration of air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1184.md)
 * [Poor air mixing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2479.md)
-* [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3755.md)
+* [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3526.md)
 
 ## Description of the risk
 

@@ -16,7 +16,7 @@
 * [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
 * [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1069.md)
 * [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
-* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3601.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3454.md)
 * [Cybersecurity risks and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2303.md)
 
 ## Mitigations of this risk

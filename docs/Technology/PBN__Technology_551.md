@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Early alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5083.md)
-* [Timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5084.md)
-* [Adoption of early alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5085.md)
-* [Enhance monitoring and early warning systems to detect and respond to shocks in a timely manner.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5086.md)
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5087.md)
-* [Testing and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4955.md)
-* [Risk communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4172.md)
-* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5088.md)
-* [Ensure timely implementation of control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5089.md)
+* [Improved surveillance and early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_885.md)
+* [Early detection and response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_524.md)
+* [Alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2926.md)
+* [Alarms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3204.md)
+* [Safety monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
+* [Notifications systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1324.md)
+* [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1667.md)
 * [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1127.md)
+* [Comprehensive risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2306.md)
 
 ## This Technology belongs to this TechGroup
 

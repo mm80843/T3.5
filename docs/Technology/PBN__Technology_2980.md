@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [5g cellular technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5144.md)
-* [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5145.md)
-* [Invest in 5g infrastructure, expand network coverage, prioritize high-bandwidth areas.](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5285.md)
+* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3328.md)
+* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2608.md)
+* [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3088.md)
+* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1776.md)
 * [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2132.md)
 * [Wireless data transmission 3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2607.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3752.md)
-* [Enhanced communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3925.md)
-* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_643.md)
+* [Telecommunication technology internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3013.md)
+* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
+* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2405.md)
+* [Communication technology internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3010.md)
 
 ## This Technology enables the following mitigations
 

@@ -8,9 +8,9 @@
 
 ## Closest similar item
 
-* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3735.md)
+* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3507.md)
 * [Increased travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2960.md)
-* [Destination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3736.md)
+* [Destination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3508.md)
 * [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2154.md)
 * [Travel-related transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1034.md)
 * [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2057.md)

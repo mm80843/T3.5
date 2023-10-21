@@ -43,8 +43,8 @@ Reset of economies after the pandemic
 ## Mitigations of this risk
 
 * [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
-* [Financial support, loans, grants, and stimulus packages for businesses. support for transitioning to online sales and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2836.md)
 * [Embrace well-being economies and prioritize sustainable economic development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2647.md)
+* [Financial support, loans, grants, and stimulus packages for businesses. support for transitioning to online sales and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2836.md)
 
 ## Name of the risk
 

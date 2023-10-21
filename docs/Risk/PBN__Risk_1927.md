@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [Potential false positive results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3368.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3855.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3560.md)
 * [Inadequate treatment of wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
 * [Inadequate wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1926.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3656.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
 * [False-positive results](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2395.md)
 * [Proper wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2928.md)
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3850.md)
+* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3555.md)
 * [Contamination of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3367.md)
 * [Variability in wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3388.md)
 

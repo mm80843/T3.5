@@ -8,11 +8,11 @@
 
 ## Closest similar item
 
-* [Sodium chloride extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3999.md)
 * [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
 * [Sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
 * [Chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2966.md)
 * [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
+* [Benzalkonium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2773.md)
 * [Sodium dichloroisocyanurate solution containing 500 mg/l chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2524.md)
 * [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
 * [Chlorine gas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3605.md)

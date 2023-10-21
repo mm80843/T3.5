@@ -55,9 +55,9 @@ Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Ge
 * [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1154.md)
 * [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
 * [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1156.md)
+* [Training and certification programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
 * [Funding support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1161.md)
 * [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1159.md)
 * [Cost-effective uv systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1160.md)
 * [Safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1158.md)
-* [Training and certification programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
 

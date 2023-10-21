@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Knowledge management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3498.md)
-* [Translation tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3844.md)
-* [Translation software](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3845.md)
-* [Advancements in translation software](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3846.md)
-* [Translation services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3847.md)
-* [Knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3499.md)
-* [Knowledge-base system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3848.md)
-* [Knowledge management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3849.md)
-* [Multilingual social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3850.md)
-* [Multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3851.md)
+* [Knowledge management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2778.md)
+* [Translation tools](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2823.md)
+* [Translation software](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2824.md)
+* [Advancements in translation software](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2825.md)
+* [Translation services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2826.md)
+* [Knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2779.md)
+* [Translators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1021.md)
+* [International collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2744.md)
+* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2686.md)
+* [Ontology developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1301.md)
 
 ## Risks that can be mitigated by this stakeholder
 

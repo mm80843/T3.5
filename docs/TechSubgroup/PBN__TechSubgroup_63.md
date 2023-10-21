@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Provide counseling services, emphasize mental health support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_390.md)
-* [Mental health support services, community connections](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_391.md)
-* [Provide mental health support, access to accurate information, and social support.](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_392.md)
-* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_393.md)
-* [Providing mental health support, counseling, and stress management techniques](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_394.md)
-* [Address mental health concerns, provide support through social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_395.md)
-* [Mental health support services, stress management programs, promoting self-care activities](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_396.md)
-* [Targeted mental health support, assessment and monitoring of vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_397.md)
-* [Provide mental health support services, financial assistance programs, and social support networks](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_398.md)
-* [Provide mental health support services, such as counseling and helplines, to individuals in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_399.md)
+* [Mental health resources and support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_68.md)
+* [Online counseling and therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_65.md)
+* [Financial support and funding](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_35.md)
+* [Support systems and resources](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_42.md)
+* [Emergency support and safety](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_67.md)
+* [Financial support and community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_36.md)
+* [Health behavior change interventions](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_164.md)
+* [Economic and financial support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_102.md)
+* [Healthcare and wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_19.md)
+* [Mobile health apps and services](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_34.md)
 
 ## This Technology belongs to this TechnologySubgroup
 
@@ -37,8 +37,8 @@
 * [Mental health apps for self-care and stress management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1433.md)
 * [Online mental health resources and support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1434.md)
 * [Mental health hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1809.md)
-* [Well-being promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1512.md)
 * [Mental health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1810.md)
+* [Well-being promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1512.md)
 * [Supportive interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1278.md)
 * [Online mental health resources and self-help tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1445.md)
 * [Stress management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1279.md)

@@ -63,8 +63,8 @@ COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and econ
 * [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
 * [Point-of-care testing devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1557.md)
 * [Digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1558.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
+* [Advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1555.md)
 * [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
 * [Contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1554.md)
-* [Advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1555.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 

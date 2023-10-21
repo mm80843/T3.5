@@ -14,7 +14,7 @@
 * [Performance, scalability, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2394.md)
 * [Centralized vs. federated approaches to data infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2133.md)
 * [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
-* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3751.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3522.md)
 * [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_884.md)
 * [Technical limitations and limited connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_26.md)
 * [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2944.md)

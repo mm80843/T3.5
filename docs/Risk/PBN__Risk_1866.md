@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3434.md)
-* [Building lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3435.md)
-* [Local lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3436.md)
-* [Rapid hard-lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3437.md)
-* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3430.md)
-* [Lockdown enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3438.md)
-* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
-* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3433.md)
-* [National lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3439.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3429.md)
+* [The lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_872.md)
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3416.md)
+* [City lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_988.md)
+* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3414.md)
+* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3419.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3418.md)
+* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3417.md)
+* [Lockdown impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_886.md)
+* [Phasing out of lockdown with local strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3420.md)
 
 ## Description of the risk
 

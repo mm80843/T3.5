@@ -10,7 +10,7 @@
 
 * [Review committees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1431.md)
 * [Fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
-* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3924.md)
+* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3758.md)
 * [Fact-checking organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_935.md)
 * [Fact-checking websites and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1435.md)
 * [Fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1147.md)

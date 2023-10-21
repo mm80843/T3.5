@@ -16,7 +16,7 @@
 * [Stresses exacerbating disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_490.md)
 * [Lack of control over movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3158.md)
 * [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3287.md)
-* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3757.md)
+* [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3528.md)
 * [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1702.md)
 
 ## Mitigations of this risk

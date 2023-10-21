@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4547.md)
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4349.md)
-* [Importance of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4548.md)
-* [Monitoring regulatory environment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4508.md)
-* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4549.md)
+* [Adherence to regulatory standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2032.md)
+* [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
+* [Policy and regulation changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1177.md)
+* [Compliance measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1644.md)
+* [Regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
+* [Regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1643.md)
+* [Enhanced regulatory frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
 * [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2428.md)
-* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4550.md)
-* [Difficulty in adapting to new rules and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4551.md)
-* [Regulatory adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4509.md)
-* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4065.md)
+* [Regulatory oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_267.md)
+* [Regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1175.md)
 
 ## This Technology enables the following mitigations
 

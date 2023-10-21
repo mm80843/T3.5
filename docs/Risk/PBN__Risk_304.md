@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3808.md)
-* [Building and housing reform](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4019.md)
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4020.md)
-* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4021.md)
-* [Reduction in commercial building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3989.md)
+* [Decline of public and social housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_385.md)
+* [Poor housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1064.md)
+* [Poor housing quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1077.md)
+* [Decline in commercial spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3318.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3542.md)
+* [Poor infrastructure, inadequate housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2409.md)
+* [Housing conditions and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1178.md)
+* [Poor housing, lack of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2404.md)
+* [Decline of employment and investment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2244.md)
 * [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
-* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1060.md)
-* [Even distribution of housing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4022.md)
-* [Affordable housing with resilient building typologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4023.md)
-* [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
 
 ## Mitigations of this risk
 

@@ -16,7 +16,7 @@
 * [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1388.md)
 * [Uncertainty about future](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1854.md)
 * [Inconsistencies in accuracy measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1253.md)
-* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3719.md)
+* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3503.md)
 * [Inconsistent measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1977.md)
 
 ## Mitigations of this risk

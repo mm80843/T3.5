@@ -33,6 +33,6 @@ Use the plan of another isolated hospital as a benchmark to guide the developmen
 
 ## This Mitigation is enabled by the following technologies
 
-* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2679.md)
 * [Benchmark plan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2678.md)
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2679.md)
 

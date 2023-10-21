@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3325.md)
+* [Managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1516.md)
+* [Management team](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_292.md)
 * [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2513.md)
-* [Value management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3326.md)
-* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3327.md)
-* [Integrated management and planning](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3328.md)
-* [Effective healthcare management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3165.md)
-* [Risk management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3128.md)
-* [Facility management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_653.md)
-* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1977.md)
+* [Office managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1285.md)
+* [Office manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1658.md)
+* [Organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1864.md)
+* [Healthcare managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1193.md)
+* [Facilities managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_703.md)
+* [Employers and managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_954.md)
+* [Project managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_903.md)
 
 ## Risks that can be mitigated by this stakeholder
 

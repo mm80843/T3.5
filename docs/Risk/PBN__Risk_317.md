@@ -13,7 +13,7 @@
 * [Shortage in nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1457.md)
 * [Shortage of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_357.md)
 * [Shortage of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_764.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3523.md)
+* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3444.md)
 * [Shortage of medical equipment and medication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_703.md)
 * [Inadequate healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2861.md)
 * [Healthcare workers at risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_477.md)

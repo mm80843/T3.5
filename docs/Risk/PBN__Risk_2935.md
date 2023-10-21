@@ -16,7 +16,7 @@
 * [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_668.md)
 * [Wastewater collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_717.md)
 * [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_365.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3656.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
 * [Contamination of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3367.md)
 
 ## Mitigations of this risk

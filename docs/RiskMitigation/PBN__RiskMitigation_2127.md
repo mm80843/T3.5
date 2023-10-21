@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Economic support and aid](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3518.md)
-* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3868.md)
-* [Investment of economic stimulus funds in low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3869.md)
-* [Incentives to the local economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3870.md)
-* [Socioeconomic support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3871.md)
-* [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_967.md)
-* [Promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3872.md)
-* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3873.md)
-* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3248.md)
-* [Economic barrier](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3874.md)
+* [Economic stimulus packages, support for small businesses, job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2169.md)
+* [Implement economic stimulus, financial aid, and support programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2993.md)
+* [Implement fiscal stimulus, provide financial support to affected businesses and individuals, invest in job creation and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2901.md)
+* [Implement economic stimulus packages, provide income support schemes, ensure social safety nets, and protect vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2463.md)
+* [Implement stimulus packages, support small businesses, invest in job creation projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1946.md)
+* [Provide financial support to individuals and businesses, encourage investment and economic stimulus measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2952.md)
+* [Implementing financial support programs, providing loans and grants to affected individuals and businesses, implementing stimulus packages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1582.md)
+* [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2664.md)
+* [Government support for healthcare systems, financial assistance programs, stimulus packages.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2599.md)
+* [Central bank interventions, liquidity injections, fiscal stimulus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2587.md)
 
 ## Risks possibly mitigated by this Mitigation
 

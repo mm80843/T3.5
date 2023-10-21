@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3600 
 
-# __Surveillance__
+# __Development of a mobile application with an expert system for early detection__
 
 ## Category to which it belongs
 
-* [The challenges and consequences of the global pandemic, including domestic violence, interrupted education, communication barriers, and employment issues, highlight the complexity of our interconnected world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
+* [The challenges in the field of testing and drug development, including limited capacity, slow processes, and the need for improved detection methods, hamper the identification and control of cases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_134.md)
 
 ## Closest similar item
 
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3599.md)
-* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4339.md)
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4338.md)
-* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4229.md)
-* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_5141.md)
-* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_5142.md)
-* [Mass surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_5143.md)
-* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4341.md)
-* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4401.md)
-* [Enhanced surveillance and reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4855.md)
+* [Development of expert systems and mobile applications for early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3599.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3269.md)
+* [Early detection of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3228.md)
+* [Need for improved detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_637.md)
+* [Need for alternative detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1145.md)
+* [Ai for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3519.md)
+* [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_684.md)
+* [Contact tracing mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3437.md)
+* [Incomplete detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2442.md)
+* [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
 

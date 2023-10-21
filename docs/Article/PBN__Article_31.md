@@ -49,10 +49,10 @@ What drives unverified information sharing and cyberchondria during the COVID-19
 * [Social media platforms’ moderation policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_931.md)
 * [Online mental health platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_932.md)
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
+* [Information filtering tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_934.md)
 * [Mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_937.md)
 * [Media literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_581.md)
 * [Digital health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_933.md)
 * [Digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
-* [Information filtering tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_934.md)
 * [Trusted sources certification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_936.md)
 

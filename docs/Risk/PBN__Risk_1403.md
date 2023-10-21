@@ -13,7 +13,7 @@
 * [Maintaining safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2521.md)
 * [Overreliance on artificial lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_112.md)
 * [Support life-saving equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2923.md)
-* [Lighting and hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3782.md)
+* [Lighting and hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3530.md)
 * [Inadequate lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1116.md)
 * [Inadequate natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1445.md)
 * [Health and safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_557.md)

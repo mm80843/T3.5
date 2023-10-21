@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3987.md)
+* [Lack of sustainable development plans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3203.md)
+* [Lack of holistic strategic planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_633.md)
+* [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1191.md)
+* [Lack of environmental management and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_946.md)
+* [Lack of global leadership](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3342.md)
+* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
+* [Lack of proper environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1135.md)
 * [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2439.md)
-* [Sustainable design and construction of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4010.md)
-* [Environmental impact of construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2702.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3810.md)
-* [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
-* [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2703.md)
-* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_244.md)
-* [Sustainable building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4024.md)
-* [Sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4025.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
+* [Lack of control of environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1243.md)
 
 ## Description of the risk
 

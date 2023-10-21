@@ -10,14 +10,14 @@
 
 * [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
 * [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
-* [Increased sharing of scientific data by healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4348.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3515.md)
+* [Lack of healthcare data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1266.md)
 * [Data sharing ethics, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2948.md)
-* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3519.md)
 * [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3514.md)
-* [Health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4349.md)
-* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3516.md)
+* [Health risk, data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2896.md)
+* [Limited access to patient health data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_158.md)
+* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1075.md)
+* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_960.md)
+* [Lack of patient control over medical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_321.md)
 
 ## Description of the risk
 

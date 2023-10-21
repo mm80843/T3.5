@@ -9,15 +9,15 @@
 ## Closest similar item
 
 * [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
-* [Availability of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3639.md)
 * [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
 * [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3362.md)
 * [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3248.md)
+* [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3329.md)
 * [Inequitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2859.md)
-* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2834.md)
-* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_884.md)
-* [Efficient distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3311.md)
-* [Resourcefulness of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4145.md)
+* [Unequal access to resources and opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2870.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3476.md)
+* [Displacement and strain on resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3251.md)
+* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1902.md)
 
 ## Mitigations of this risk
 

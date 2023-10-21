@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Thermal treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4811.md)
-* [Switch off heat/cold recovery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4812.md)
-* [Energy-efficient heating/cooling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4813.md)
-* [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4814.md)
-* [Thermal comfort optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4815.md)
+* [Heat](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2626.md)
+* [Heat source](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2414.md)
+* [Thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3145.md)
+* [Suitable treatment and](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1863.md)
+* [Proper operation and maintenance of heat recovery systems in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_684.md)
 * [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
-* [Inefficient thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4816.md)
-* [Improved water treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4817.md)
-* [Cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4818.md)
-* [Ventilation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3896.md)
+* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
+* [Cooling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3259.md)
+* [Surgical techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2558.md)
+* [Water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3571.md)
 
 ## This Technology enables the following mitigations
 

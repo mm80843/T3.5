@@ -13,7 +13,7 @@
 * [Rural areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_876.md)
 * [Urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_591.md)
 * [Remote workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1676.md)
-* [Remote service platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3085.md)
+* [Remote service platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2699.md)
 * [Residents and travelers in neighboring regions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_871.md)
 * [Commercial areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1295.md)
 * [Public areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_63.md)

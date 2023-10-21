@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3950.md)
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3951.md)
-* [Proper sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3952.md)
-* [Separate sanitation area](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3953.md)
-* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3954.md)
-* [Improved sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3955.md)
-* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3956.md)
-* [Mandatory sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3957.md)
-* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3958.md)
-* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3959.md)
+* [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
+* [Lack of proper sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2695.md)
+* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1667.md)
+* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1391.md)
+* [Lack of sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3205.md)
+* [Insufficient sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1444.md)
+* [Poor sanitation conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3146.md)
+* [Sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2384.md)
+* [Poor sanitation areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2898.md)
+* [Lack of proper cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1923.md)
 
 ## Description of the risk
 
@@ -58,8 +58,8 @@ Higher risk of disease transmission
 
 ## People affected by this risk
 
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 * [Visitors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_118.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 

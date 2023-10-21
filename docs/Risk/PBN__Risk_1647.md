@@ -63,8 +63,8 @@ Increased transmission risk, challenges in diagnosis
 
 ## Technologies linked to the risk
 
-* [Diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
 * [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
+* [Diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
 
 ## Property: has_RiskType
 

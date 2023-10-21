@@ -51,7 +51,7 @@ COVID-19 and Living space challenge. Well-being and Public Health recommendation
 ## This article mentions these technologies
 
 * [Housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_454.md)
-* [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
 * [Infrastructure development and plumbing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_456.md)
+* [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
 * [Urban planning and design strategies for green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_453.md)
 

@@ -17,7 +17,7 @@
 * [Overloading health system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2611.md)
 * [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1683.md)
 * [Fragmented healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2000.md)
-* [Prioritize high-quality health care for those in need and ensure access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4429.md)
+* [Prioritize high-quality health care for those in need and ensure access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3621.md)
 
 ## Mitigations of this risk
 

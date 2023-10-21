@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Social services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3677.md)
-* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2856.md)
-* [Healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_68.md)
-* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3678.md)
-* [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3679.md)
-* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2670.md)
-* [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3680.md)
-* [Anti-social activities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3681.md)
-* [Workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3682.md)
-* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3683.md)
+* [Social worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2337.md)
+* [Social service organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2345.md)
+* [Social service agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1798.md)
+* [Social service agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1340.md)
+* [Social service organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_660.md)
+* [Social welfare organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1786.md)
+* [Social welfare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_830.md)
+* [Social organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1489.md)
+* [Worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1729.md)
+* [Service workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1671.md)
 
 ## Risks that can be mitigated by this stakeholder
 

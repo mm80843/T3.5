@@ -33,7 +33,7 @@ Non-contact interaction activities hinder the transmission of contagious disease
 
 ## This Mitigation is enabled by the following technologies
 
-* [Internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
 * [Information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2130.md)
+* [Internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
 * [Digital integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3619.md)
 

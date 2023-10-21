@@ -15,7 +15,7 @@
 * [Blurring of work-life boundaries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
 * [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_270.md)
 * [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
-* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_4427.md)
+* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3582.md)
 * [Workplace transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
 * [Delay in works due to staff members at high risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_499.md)
 

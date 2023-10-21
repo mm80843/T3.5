@@ -55,6 +55,7 @@ Reframe how to serve your community in the midst of a pandemic
 * [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1119.md)
 * [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_817.md)
 * [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1420.md)
+* [Safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1665.md)
 * [Online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1661.md)
 * [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1080.md)
 * [Enhanced cleaning and disinfecting protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1662.md)
@@ -62,7 +63,6 @@ Reframe how to serve your community in the midst of a pandemic
 * [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1667.md)
 * [Easily accessible safety resources and contacts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1669.md)
 * [Regular interactions with students and faculty](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1664.md)
-* [Safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1665.md)
 * [Safety workshops and trainings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1668.md)
 * [Mindfulness and stress reduction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1663.md)
 
