@@ -1,21 +1,18 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3228 
 
-# __Community outreach__
+# __Clear guidelines and information__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Promote knowledge sharing, raise public awareness, and combat misinformation through education and communication campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_474.md)
+Providing clear and accurate guidelines and information during quarantine periods can reduce anxiety, frustration, and fear, and improve mental well-being.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_662.md)
-* [Outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3352.md)
-* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3273.md)
-* [Targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3230.md)
-* [Community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3229.md)
-* [Targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3241.md)
-* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_132.md)
-* [Community support programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3227.md)
-* [Facilitate social connectivity through community events and engagement programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1554.md)
-* [Develop outreach programs to encourage park use among underrepresented populations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2153.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
+
+## This Mitigation is enabled by the following technologies
+
 

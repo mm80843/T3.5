@@ -19,6 +19,10 @@
 * [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1528.md)
 * [Implement strict health and safety protocols on construction sites, provide personal protective equipment ppe , and promote hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2615.md)
 
+## Blueprints with this mitigation
+
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1298.md)

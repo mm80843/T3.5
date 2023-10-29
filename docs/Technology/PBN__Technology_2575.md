@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Remain alert and responsive to changing needs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_596.md)
+* [Remain alert and responsive to changing needs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3633.md)
 

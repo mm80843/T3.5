@@ -2,6 +2,10 @@
 
 # __Maintaining social distancing__
 
+## Link between Blueprint and General ontology
+
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_20.md)
+
 ## Category to which it belongs
 
 * [Implement measures to control occupancy, enforce social distancing, and ensure clear communication about preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_468.md)
@@ -10,14 +14,14 @@
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
-* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3200.md)
+* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5353.md)
 * [Clear and consistent social distancing guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2616.md)
-* [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3207.md)
+* [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5359.md)
 * [Implementing social distancing measures, reducing population density](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2291.md)
 * [Accessible open green space and adherence to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1225.md)
-* [Social distancing rule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3199.md)
+* [Social distancing rule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5352.md)
 * [Implement and enforce strict social distancing guidelines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2709.md)
-* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3335.md)
+* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5473.md)
 
 ## Benefits linked to a risk
 

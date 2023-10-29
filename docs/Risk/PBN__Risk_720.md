@@ -2,6 +2,10 @@
 
 # __Workforce management__
 
+## Link between Blueprint and General ontology
+
+* [Information management](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_9.md)
+
 ## Category to which it belongs
 
 * [The changing workforce landscape has led to job loss, remote work challenges, and increased job insecurity, affecting productivity and job opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_139.md)

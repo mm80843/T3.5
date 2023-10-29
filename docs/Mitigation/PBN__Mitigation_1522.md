@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1522 
 
-# __Practical ppe rules__
+# __Remote monitoring devices__
 
 ## Category to which it belongs
 
-* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
+* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1971.md)
-* [Ppe distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1065.md)
-* [Ppe usage and disposal protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_17.md)
-* [Smart ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
-* [Implement engineering and administrative controls, provide ppe.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3820.md)
-* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_527.md)
-* [Implementing strict health and safety protocols, such as regular cleaning and disinfection, physical distancing, and use of personal protective equipment ppe .](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3864.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_60.md)
-* [Providing additional personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1636.md)
-* [Ppp restructuring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
-
-## Property: has_MitigationPrinciple
-
-Allow on-site workers in close proximity to each other to take breaks and remove masks temporarily
-
-## Risks possibly mitigated by this Mitigation
-
-* [Close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2931.md)
-
-## Property: has_MitigationSource
-
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_909.md)
+* [Remote monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_914.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1599.md)
+* [Mobile and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1521.md)
+* [Remote monitoring and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1600.md)
+* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1601.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_840.md)
+* [Remote monitoring and management of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_913.md)
+* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1602.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_838.md)
 

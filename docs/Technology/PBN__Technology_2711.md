@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Polyethylene glycol mw 8000 extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_830.md)
+* [Polyethylene glycol mw 8000 extraction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3844.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3753 
 
-# __Ai and machine learning for gene analysis__
+# __Shading__
 
 ## Category to which it belongs
 
-* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
+* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
-* [Ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3024.md)
-* [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_283.md)
-* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2765.md)
-* [Data mining and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_167.md)
-* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_327.md)
-* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3022.md)
-* [Bioinformatics software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3018.md)
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_751.md)
-* [Machine learning methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3023.md)
-* [Artificial intelligence/machine learning ai/ml](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3432.md)
+* [Daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_563.md)
+* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
+* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
+* [Face masking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_311.md)
+* [Face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_470.md)
+* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3749.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_573.md)
+* [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_301.md)
+* [Enhanced lighting design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_973.md)
+* [Universal masking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2416.md)
 

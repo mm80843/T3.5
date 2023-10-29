@@ -19,6 +19,10 @@
 * [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_325.md)
 * [Lack of green space in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_141.md)
 
+## Blueprints with this risk
+
+* [Acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_16.md)
+
 ## Mitigations of this risk
 
 * [Promote awareness and education about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_459.md)

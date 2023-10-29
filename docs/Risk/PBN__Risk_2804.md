@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Increase spending on development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_962.md)
+* [Increase spending on development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3963.md)
 

@@ -36,15 +36,15 @@ The City Under COVID‐19: Podcasting As Digital Methodology
 
 ## This article points to following mitigation
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_60.md)
-* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_432.md)
-* [Quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1689.md)
-* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_738.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1691.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_985.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3284.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1353.md)
+* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3494.md)
+* [Quarantining](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4630.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3760.md)
 
 ## This article mentions these technologies
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_504.md)
+* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3558.md)
 

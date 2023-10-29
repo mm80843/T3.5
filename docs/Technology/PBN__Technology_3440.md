@@ -2,6 +2,12 @@
 
 # __Control systems__
 
+## Link between Blueprint and General ontology
+
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_152.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_153.md)
+* [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_52.md)
+
 ## Category to which it belongs
 
 * [An array of systems and tools for real-time monitoring, surveillance, and control of various environmental, health, and safety parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
@@ -21,5 +27,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2055.md)
+* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_216.md)
 

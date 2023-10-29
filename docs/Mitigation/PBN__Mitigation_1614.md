@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1614 
 
-# __Sanitation__
+# __Screening for mental health problems__
 
 ## Category to which it belongs
 
-* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
+* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3211.md)
-* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2858.md)
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2085.md)
-* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3207.md)
-* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3856.md)
-* [Sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3210.md)
-* [Improved sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1111.md)
-* [Mandatory sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1315.md)
-* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
-* [Sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3449.md)
-
-## Property: has_MitigationPrinciple
-
-Availability of clean water and a good wastewater management system
-
-## Risks possibly mitigated by this Mitigation
-
-* [Poor sanitation conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3146.md)
-
-## Property: has_MitigationSource
-
-* [The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_94.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3195.md)
-* [Clean drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3194.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1191.md)
+* [Targeted mental health support, assessment and monitoring of vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1197.md)
+* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1510.md)
+* [Mental and psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3170.md)
+* [Mental health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_257.md)
+* [Enhance access to mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3051.md)
+* [Provide targeted interventions for individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1980.md)
+* [Address mental health concerns, provide support through social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
+* [Provide information and support, monitor mental health and stress reactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1606.md)
+* [Physical and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3171.md)
 

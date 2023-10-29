@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Local lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1575.md)
+* [Local lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4525.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Value management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1191.md)
+* [Value management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4176.md)
 

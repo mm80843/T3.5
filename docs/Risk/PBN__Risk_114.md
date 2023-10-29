@@ -43,7 +43,7 @@ Lack of connection with nature in built environments can lead to feelings of str
 
 * [Design buildings with access to green spaces, views of nature, and incorporate biophilic design elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2569.md)
 * [Integration of natural elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_138.md)
-* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_173.md)
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1017.md)
 
 ## Name of the risk
 

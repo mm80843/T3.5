@@ -11,13 +11,13 @@
 * [Implement rapid response mechanisms and decision-making protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3099.md)
 * [Focus on immediate consequences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1232.md)
 * [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_556.md)
-* [Rapid testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3326.md)
+* [Rapid testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5465.md)
 * [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_555.md)
 * [Monitor reactions, provide psychosocial support and assistance, modify expectations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2495.md)
 * [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_692.md)
 * [Timely implementation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_567.md)
 * [Develop rapid response services to deliver relevant and high-quality evidence in a timely manner, leverage multiple dissemination channels tailored to different audiences, and expand the search for evidence beyond conventional sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1855.md)
-* [Rapid diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3236.md)
+* [Rapid diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5386.md)
 
 ## Benefits linked to a risk
 

@@ -13,8 +13,8 @@ Proper use of PPE, including masks and eye protection, can reduce transmission
 
 ## Articles mentionning this Benefit
 
-* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 * [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_255.md)
+* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
 
 ## Stakeholders benefitting from this Benefit
 

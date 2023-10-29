@@ -1,21 +1,19 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3179 
 
-# __Green infrastructure management__
+# __Online supervised exercise__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Promote forest conservation, sustainable land use, and equitable access to urban green spaces for a greener and healthier environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_483.md)
+Utilizing online platforms and programs for supervised exercise to help improve mental health during the pandemic, especially for those who have limited access to in-person supervision and mentoring.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3155.md)
-* [Implement green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1313.md)
-* [Building green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_424.md)
-* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_752.md)
-* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3176.md)
-* [Expansion of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_420.md)
-* [Implement policies and strategies to ensure equitable access to green infrastructure in all neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2576.md)
-* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_72.md)
-* [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1894.md)
-* [Urban greening technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3180.md)
+
+## Property: has_MitigationSource
+
+* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1209.md)
 

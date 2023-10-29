@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1459.md)
+* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4420.md)
 

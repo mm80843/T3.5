@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2067.md)
+* [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_228.md)
 

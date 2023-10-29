@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3205 
 
-# __Sustainable design and construction__
+# __Mass gathering containment__
 
 ## Category to which it belongs
 
-* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
+* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
-* [Sustainable design and construction of projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_920.md)
-* [Sustainable building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1729.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3314.md)
-* [Healthy building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_138.md)
-* [Promoting sustainable design and construction practices, proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3990.md)
-* [Green and sustainable design practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_186.md)
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2345.md)
-* [Sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1013.md)
-* [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3383.md)
-* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3316.md)
+* [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1500.md)
+* [Restrict mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2203.md)
+* [Specific approaches for containment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1400.md)
+* [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1402.md)
+* [Stopping mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2202.md)
+* [Containment space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_270.md)
+* [Restrict mass gatherings, assess risks and benefits of organizing events](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2207.md)
+* [Implementation of containment strategies quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3207.md)
+* [Cancelation of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2204.md)
+* [Implementation of regional containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3271.md)
 

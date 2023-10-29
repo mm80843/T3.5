@@ -41,11 +41,11 @@ Urban nature in a time of crisis: recreational use of green space increases duri
 
 ## This article points to following mitigation
 
-* [Closure of indoor exercise facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2212.md)
-* [Access to open green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2213.md)
-* [Designing streets for pedestrians](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2214.md)
-* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2215.md)
-* [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2216.md)
+* [Closure of indoor exercise facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5091.md)
+* [Access to open green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5092.md)
+* [Designing streets for pedestrians](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5093.md)
+* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5094.md)
+* [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5095.md)
 
 ## This article mentions these technologies
 

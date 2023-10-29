@@ -10,9 +10,9 @@
 
 * [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3078.md)
 * [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1321.md)
-* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3187.md)
+* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5343.md)
 * [Provide outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2865.md)
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3202.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5041.md)
 * [Design units with provisions for natural light, ventilation, access to nature, and personal gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2566.md)
 * [Designate areas for relaxation within built environment, create outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1538.md)
 * [Provide access to public parks and green spaces, encourage the development of outdoor spaces in residential areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1522.md)

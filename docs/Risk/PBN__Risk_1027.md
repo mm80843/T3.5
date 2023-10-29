@@ -62,8 +62,8 @@ Continued spread of infection, overwhelmed healthcare system
 
 ## Technologies linked to the risk
 
-* [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
 * [Internet-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_23.md)
+* [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
 
 ## Property: has_RiskType
 

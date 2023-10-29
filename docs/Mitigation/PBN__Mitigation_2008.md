@@ -1,34 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2008 
 
-# __Pseudonymization__
+# __Window ventilation__
 
 ## Category to which it belongs
 
-* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
+* [Ensuring optimal airflow and fresh air circulation in buildings through various methods and techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_183.md)
 
 ## Closest similar item
 
-* [Anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_98.md)
-* [Privacy and anonymity techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3716.md)
-* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2814.md)
-* [User privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1818.md)
-* [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3425.md)
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2818.md)
-* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3517.md)
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2310.md)
-* [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1616.md)
-
-## Property: has_MitigationPrinciple
-
-Ensure privacy protection while manipulating data
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Natural ventilation and operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2009.md)
+* [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2007.md)
+* [Opening windows for increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2005.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_612.md)
+* [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
+* [Room ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_613.md)
+* [Improve ventilation systems, open windows and doors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2006.md)
+* [Window and vent design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3920.md)
+* [Ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_620.md)
+* [Designing ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_663.md)
 

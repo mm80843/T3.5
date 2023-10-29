@@ -11,11 +11,11 @@
 * [Implement novel techniques such as flipped classrooms, video lectures, and teleconferencing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1738.md)
 * [Revamp education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_494.md)
 * [Implement strict social distancing measures, reduce class sizes, utilize remote learning options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2805.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3233.md)
+* [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5383.md)
 * [Implement remote learning strategies, provide support for students and families during closures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2480.md)
-* [Education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3165.md)
+* [Education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5321.md)
 * [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_981.md)
-* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3153.md)
+* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5312.md)
 * [Develop alternative learning methods and strategies to reach children in low-income countries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1493.md)
 * [Isolate and test with school closure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_425.md)
 
@@ -23,7 +23,19 @@
 
 * [Improved knowledge acquisition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_48.md)
 
+## Property: has_MitigationPrinciple
+
+Learners are provided with didactic material to watch prior to the conference, shifting the conference session to synthesis, application, and case-based discussion.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Decreased in-person exposure to surgical education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_32.md)
+
+## Property: has_MitigationSource
+
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Prerecorded video lecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2440.md)
 

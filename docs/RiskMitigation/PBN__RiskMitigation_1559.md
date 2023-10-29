@@ -17,7 +17,7 @@
 * [Integration of additional sensors into wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1422.md)
 * [Collecting data on resting heart rate and sleep duration from wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_944.md)
 * [Combining telemedicine with wearable technology for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_952.md)
-* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3285.md)
+* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5428.md)
 
 ## Risks possibly mitigated by this Mitigation
 

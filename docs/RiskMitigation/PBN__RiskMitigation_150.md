@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3312.md)
+* [Thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5453.md)
 * [Ensure proper facade design and ventilation to maintain thermal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2485.md)
 * [Maintaining optimum temperature and humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_257.md)
 * [Implement measures to prevent heat stress, ensure comfortable conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2980.md)

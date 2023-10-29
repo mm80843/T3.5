@@ -20,5 +20,5 @@
 
 ## Mitigations of this risk
 
-* [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1107.md)
+* [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4095.md)
 

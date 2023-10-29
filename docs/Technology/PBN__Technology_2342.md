@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Citizen engagement and participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_287.md)
+* [Citizen engagement and participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3363.md)
 

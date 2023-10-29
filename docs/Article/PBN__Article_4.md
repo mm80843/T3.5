@@ -45,16 +45,16 @@ Mapping research in logistics and supply chain management during COVID-19 pandem
 
 ## This article points to following mitigation
 
-* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1321.md)
-* [Resilient supply chain design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1320.md)
-* [Mandatory sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1315.md)
-* [Scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1319.md)
-* [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1322.md)
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1316.md)
-* [Demand management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1318.md)
-* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
-* [Technology adoption](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1317.md)
-* [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4291.md)
+* [Resilient supply chain design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4290.md)
+* [Scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4289.md)
+* [Mandatory sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4285.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4286.md)
+* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4293.md)
+* [Technology adoption](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4287.md)
+* [Demand management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4288.md)
+* [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4292.md)
+* [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4294.md)
 
 ## This article mentions these technologies
 

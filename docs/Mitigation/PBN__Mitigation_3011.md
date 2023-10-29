@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3011 
 
-# __Public awareness campaigns, enforcement of social distancing measures, designated seating areas__
+# __Partnership__
 
 ## Category to which it belongs
 
-* [Creating safe and spacious environments by implementing measures that promote physical distancing and isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_177.md)
+* [Promote cohesive teamwork, partnerships, and collective knowledge sharing for efficient research, analysis, and collaboration in various fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
-* [Implement social distancing measures, crowd control, and capacity regulations in public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3339.md)
-* [Public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2530.md)
-* [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2827.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
-* [Reconsidering regulations and designs of interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_775.md)
-* [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3828.md)
-* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3611.md)
-* [Public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2526.md)
-* [Public awareness initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2524.md)
-* [Enforce social distancing guidelines, limit occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3777.md)
+* [Strengthening partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3362.md)
+* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2178.md)
+* [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2184.md)
+* [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2181.md)
+* [Network of partners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2891.md)
+* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_293.md)
+* [Strengthen local partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3272.md)
+* [Collaboration with national and international partners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2842.md)
+* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2183.md)
+* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2185.md)
 

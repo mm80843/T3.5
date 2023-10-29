@@ -11,13 +11,13 @@
 * [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_659.md)
 * [Urban planning and infrastructure to accommodate growing populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1500.md)
 * [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1918.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3143.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5302.md)
 * [Investment in improving housing conditions and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1501.md)
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
-* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3156.md)
+* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5314.md)
 * [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_667.md)
 * [Infrastructure development and planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_668.md)
-* [Urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3161.md)
+* [Urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5318.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3080 
 
-# __Iot monitoring__
+# __Maintaining optimum lighting levels__
 
 ## Category to which it belongs
 
-* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
+* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
-* [Iot data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3168.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3169.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1535.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3167.md)
-* [Iot for monitoring and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3422.md)
-* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3166.md)
-* [Internet of things iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3164.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1956.md)
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_431.md)
-* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3421.md)
+* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
+* [Ensure sufficient lighting that meets safety standards and enhances visibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3081.md)
+* [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_968.md)
+* [Improve lighting design, use daylighting strategies, provide task lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_568.md)
+* [Enhanced lighting design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_973.md)
+* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_573.md)
+* [Additional lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_972.md)
+* [Incorporate ventilation systems and optimize natural lighting in building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_974.md)
+* [Use of natural light, proper artificial lighting design, glare control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_969.md)
 

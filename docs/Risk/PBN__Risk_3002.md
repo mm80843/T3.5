@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Ai-based prediction models for pandemic forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1366.md)
+* [Ai-based prediction models for pandemic forecasting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4334.md)
 

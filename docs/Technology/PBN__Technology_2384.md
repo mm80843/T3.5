@@ -2,6 +2,10 @@
 
 # __Fitness tracker__
 
+## Link between Blueprint and General ontology
+
+* [Fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_143.md)
+
 ## Category to which it belongs
 
 * [Promotion of knowledge and skill development through various digital platforms and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_325.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_498.md)
 

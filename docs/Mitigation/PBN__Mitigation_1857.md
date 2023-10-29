@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1857 
 
-# __Partial isolation__
+# __Muscle strengthening exercises__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Promote and facilitate various forms of physical activity and exercise through online and home-based programs and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
-* [Isolation parameter](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_304.md)
-* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1243.md)
-* [Case isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_652.md)
-* [Isolation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1432.md)
-* [Rapid isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_991.md)
-* [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2024.md)
-* [Isolation space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_141.md)
-* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_432.md)
-* [Vertical isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1856.md)
-
-## Property: has_MitigationPrinciple
-
-Implement a partial isolation policy, where a certain percentage of the population fulfills the isolation requirements while the remaining percentage does not.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Stretching exercises](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1858.md)
+* [Exercises and trainings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_929.md)
+* [Physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_890.md)
+* [Encourage physical exercise at home, balance and flexibility training, muscle strength exercise, and endurance training.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1859.md)
+* [Regular exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_889.md)
+* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_932.md)
+* [Moderate physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_934.md)
+* [Home-based exercises and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_883.md)
+* [Home exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_885.md)
+* [Adaptation of exercise intensity and volume](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_938.md)
 

@@ -32,9 +32,9 @@
 
 ## This Technology enables the following mitigations
 
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
-* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1556.md)
-* [Presence of green spaces and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1127.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5041.md)
+* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4507.md)
+* [Presence of green spaces and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4114.md)
 
 ## Risks linked to this technology
 

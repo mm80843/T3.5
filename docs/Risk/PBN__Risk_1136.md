@@ -2,6 +2,10 @@
 
 # __Insufficient behavior and adherence to guidelines__
 
+## Link between Blueprint and General ontology
+
+* [User behavior](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_4.md)
+
 ## Category to which it belongs
 
 * [The ramifications of a global crisis include disrupted education, reduced socialization, resistance to change, misinterpretation, inconsistent implementation, and increased poverty.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)

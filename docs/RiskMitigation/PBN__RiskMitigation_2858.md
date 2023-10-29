@@ -14,9 +14,9 @@
 * [Integration of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_873.md)
 * [Integration of smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_158.md)
 * [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_583.md)
-* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3361.md)
+* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5497.md)
 * [Implement energy-efficient technologies, promote renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2894.md)
-* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3170.md)
+* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5326.md)
 * [Invest in research and development, address technical challenges, encourage innovation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2783.md)
 
 ## Risks possibly mitigated by this Mitigation

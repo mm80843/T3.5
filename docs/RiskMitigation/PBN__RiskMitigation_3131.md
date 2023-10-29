@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3131 
 
-# __Modification of occupants’ behavior__
+# __Ppe usage and disposal protocols__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Design affordable, resilient housing with adaptable layouts, spacious areas, natural light, and efficient ventilation to prioritize safety and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_489.md)
+Establish guidelines for the proper usage and disposal of personal protective equipment to reduce transmission risk
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Modification of occupants’ behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3131.md)
-* [Educating building occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_892.md)
-* [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_62.md)
-* [Educate occupants about the impact of window-opening behavior on air change rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1997.md)
-* [Provide clear and concise information about preventive measures, communicate regularly with occupants and visitors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2181.md)
-* [Establish occupancy limits for spaces, provide adequate space and amenities for occupants, promote social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1774.md)
-* [Implement energy management systems, automate controls, and educate occupants on energy-saving behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1912.md)
-* [Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_800.md)
-* [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
-* [Limit the number of occupants, enforce capacity limits, stagger schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2337.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+
+## Property: has_MitigationSource
+
+* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Protocol guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2133.md)
 

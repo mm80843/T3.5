@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Reimagining large public spaces and events in a post-pandemic world](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_778.md)
+* [Reimagining large public spaces and events in a post-pandemic world](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3797.md)
 

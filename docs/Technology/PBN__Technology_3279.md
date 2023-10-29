@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Willing co-operation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1736.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Willing co-operation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4675.md)
 

@@ -23,17 +23,30 @@ The COVID-19 introduced a new agenda for the built environment: epidemic adaptat
 ## Enablers of the blueprint
 
 * [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_3.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_27.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
 * [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_9.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
 * [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_21.md)
-* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_27.md)
 
 ## Interventions of the blueprint
 
 * [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_15.md)
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_38.md)
 * [Promote verified information](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_39.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_38.md)
+
+## Possible mitigations of the BP
+
+* [Incorporate health criteria into planning and design practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1971.md)
+* [Designing containment space in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_269.md)
+* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4085.md)
+* [Incorporate proper building design strategies for ventilation, airflow, and social distancing. design buildings with adequate space for ventilation and airflow.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2309.md)
+* [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1704.md)
+* [Design and disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4239.md)
+* [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3773.md)
+* [Implementing strict protocols for personal cleanliness, sanitization, and ventilation on construction sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2088.md)
+* [Protective facilities for healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4742.md)
+* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5579.md)
 
 ## Type of deployment of the blueprint
 
@@ -56,6 +69,19 @@ Tender documents are needed by the project owner to formulate its needs and requ
 
 There is no basis for such procurement. 
 Budgetary issues are the main obstacle. In the absence of a mandatory standard, the cheapest solution may be the safest in terms of risk.
+
+## Possible risks of the BP
+
+* [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
+* [Spread of contagious diseases in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1155.md)
+* [Contagious disease transmission in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2045.md)
+* [Transmission of covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_579.md)
+* [Contagious disease propagation in built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1129.md)
+* [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
+* [Deficiencies in office buildings and layouts in regards to infection spreading propensity during the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_435.md)
+* [Vulnerabilities of office buildings to pandemic spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_437.md)
+* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3008.md)
+* [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_943.md)
 
 ## Scale of the of the blueprint
 

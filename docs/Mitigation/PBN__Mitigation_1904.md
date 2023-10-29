@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1904 
 
-# __Smart rotary car parking__
+# __Temperature measurement__
 
 ## Category to which it belongs
 
-* [Enhance monitoring and response systems while integrating various wearable sensors, biosensors, nanotechnology, contactless systems, and robotics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
+* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
-* [Intelligent transportation system its](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1627.md)
-* [Smart power strip](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2086.md)
-* [Automotive systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2102.md)
-* [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1132.md)
-* [Driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1629.md)
-* [Pop-up bike lanes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_308.md)
-* [Safe pedestrian navigation service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_347.md)
-* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1282.md)
-* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3093.md)
-* [Smart cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1621.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing smart rotary car parking systems to save space and increase efficiency in traditional car parking buildings.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1778.md)
-
-## Property: has_MitigationSource
-
-* [Building Transformation for Precautionary Measures against COVID-19 Pandemic: Case of Off-Street Car Parking of Campuses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_224.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Smart parking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3381.md)
+* [Monitoring temperature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1903.md)
+* [Temperature testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1901.md)
+* [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1909.md)
+* [Temperature checks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1902.md)
+* [Robot-assisted temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1587.md)
+* [Temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1900.md)
+* [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1910.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
+* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3425.md)
+* [Control of indoor temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2622.md)
 

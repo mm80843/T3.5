@@ -19,6 +19,10 @@
 * [Contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1860.md)
 * [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
 
+## Blueprints with this risk
+
+* [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
+
 ## Description of the risk
 
 Microorganisms in the built environment can contaminate surfaces and air, leading to the spread of diseases.
@@ -66,8 +70,8 @@ Increased risk of transmission of infectious diseases.
 ## Technologies linked to the risk
 
 * [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [Uv light systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_880.md)
 * [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
+* [Uv light systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_880.md)
 
 ## Property: has_RiskType
 

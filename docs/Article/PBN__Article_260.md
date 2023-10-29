@@ -38,11 +38,11 @@ Occupants’ behavior and activity patterns influencing the energy consumption i
 
 ## This article points to following mitigation
 
-* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
-* [Occupant awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_85.md)
-* [Occupancy-sensed lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_86.md)
-* [Occupancy sensing setback thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_87.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_88.md)
+* [Occupancy-sensed lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1251.md)
+* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3192.md)
+* [Occupant awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3193.md)
+* [Occupancy sensing setback thermostats](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3194.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3195.md)
 
 ## This article mentions these technologies
 

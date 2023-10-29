@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Minimizing forest edges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_637.md)
-* [Design to minimize forest edges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_632.md)
+* [Design to minimize forest edges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3664.md)
+* [Minimizing forest edges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3669.md)
 

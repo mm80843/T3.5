@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Less crowded environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_156.md)
+* [Less crowded environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3256.md)
 

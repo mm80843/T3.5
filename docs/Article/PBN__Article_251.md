@@ -40,11 +40,11 @@ SARS-CoV-2 Titers in Wastewater Are Higher than Expected from Clinically Confirm
 
 ## This article points to following mitigation
 
-* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2340.md)
-* [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2341.md)
-* [Longitudinal analysis of wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2344.md)
-* [Pasteurization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2342.md)
-* [Pmmov as an internal reference](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2343.md)
+* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5211.md)
+* [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5212.md)
+* [Pasteurization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5213.md)
+* [Pmmov as an internal reference](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5214.md)
+* [Longitudinal analysis of wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5215.md)
 
 ## This article mentions these technologies
 

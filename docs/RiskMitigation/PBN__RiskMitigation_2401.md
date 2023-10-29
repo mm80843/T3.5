@@ -2,6 +2,10 @@
 
 # __Promoting accurate and evidence-based risk communication, addressing misinformation and rumors__
 
+## Link between Blueprint and General ontology
+
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_36.md)
+
 ## Category to which it belongs
 
 * [Promote reliable, transparent information through fact-checking, verified sources, and education to combat misinformation and improve decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_481.md)

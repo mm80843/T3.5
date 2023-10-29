@@ -47,16 +47,16 @@ Home garden use during COVID-19: Associations with physical and mental wellbeing
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_48.md)
-* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_432.md)
-* [Domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
-* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_464.md)
-* [Interaction with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_465.md)
-* [Physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_466.md)
-* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_467.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_468.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_106.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_863.md)
+* [Access to green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3161.md)
+* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3494.md)
+* [Domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3525.md)
+* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3526.md)
+* [Interaction with nature](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3527.md)
+* [Physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3528.md)
+* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3529.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3530.md)
 
 ## This article mentions these technologies
 

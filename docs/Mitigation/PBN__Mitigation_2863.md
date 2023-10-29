@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2863 
 
-# __Chlorine__
+# __Broad informed consent__
 
 ## Category to which it belongs
 
-* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
+* [Promote trust, combat misinformation, and provide accurate and reliable information through evidence-based sources and transparent communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
-* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2243.md)
-* [Chlorination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2866.md)
-* [Chlorine gas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3785.md)
-* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2244.md)
-* [Chlorine disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_224.md)
-* [Chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3355.md)
-* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2245.md)
-* [Increase chlorine dose in drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1585.md)
-* [Sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2979.md)
-* [Sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3350.md)
+* [Written informed consent](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2862.md)
+* [Increase public awareness, transparency in data usage, obtain informed consent for data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2864.md)
+* [Ethical approval](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2859.md)
+* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1016.md)
+* [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_998.md)
+* [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2865.md)
+* [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_994.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1715.md)
+* [Clear guidelines and information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
 

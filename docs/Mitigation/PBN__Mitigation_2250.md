@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2250 
 
-# __Proactive case finding__
+# __Renewable energy__
 
 ## Category to which it belongs
 
-* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
+* [Promote sustainable energy practices, implement energy-efficient technologies, and provide financial assistance for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
-* [Enhanced case finding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3723.md)
-* [Isolation of suspected or confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1299.md)
-* [Suspected and confirmed cases isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2033.md)
-* [Big data analytics for case identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3565.md)
-* [Case isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_652.md)
-* [Case-based mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2020.md)
-* [Case identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2255.md)
-* [Case-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_660.md)
-* [Identification and isolation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1232.md)
-* [Enhanced isolation of suspected cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1238.md)
-
-## Property: has_MitigationPrinciple
-
-Seeks out patients with severe respiratory symptoms who tested negative for influenza and retests them for COVID-19
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [National health insurance nhi database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3611.md)
+* [Implement renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3539.md)
+* [Sustainable practices and renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3540.md)
+* [Sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3538.md)
+* [Promote energy efficiency measures and renewable energy production](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1684.md)
+* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3548.md)
+* [Promotion of sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1543.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1536.md)
+* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1540.md)
+* [Promotion of sustainable and alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3537.md)
+* [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_770.md)
 

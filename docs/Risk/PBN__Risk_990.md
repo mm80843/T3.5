@@ -19,6 +19,10 @@
 * [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
 * [Surveillance terms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_905.md)
 
+## Blueprints with this risk
+
+* [Tracking and enforcing use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
+
 ## Mitigations of this risk
 
 * [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1406.md)

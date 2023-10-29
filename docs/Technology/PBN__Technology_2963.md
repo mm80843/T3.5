@@ -2,6 +2,13 @@
 
 # __Gps location__
 
+## Link between Blueprint and General ontology
+
+* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_10.md)
+* [Gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_157.md)
+* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_160.md)
+* [Positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_96.md)
+
 ## Category to which it belongs
 
 * [Enhanced travel experiences, seamless transportation, and real-time updates for optimal accessibility and convenience.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
@@ -21,5 +28,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
 

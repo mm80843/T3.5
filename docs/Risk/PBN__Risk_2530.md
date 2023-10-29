@@ -21,7 +21,7 @@
 
 ## Mitigations of this risk
 
-* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_413.md)
-* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_411.md)
-* [Cultural change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_883.md)
+* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3478.md)
+* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3480.md)
+* [Cultural change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3891.md)
 

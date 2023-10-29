@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3206.md)
 

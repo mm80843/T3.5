@@ -4,8 +4,8 @@
 
 ## Items covered in this category
 
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_21.md)
-* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_235.md)
 * [Online delivery platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_236.md)
 * [Food delivery apps](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_230.md)
+* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_235.md)
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_21.md)
 

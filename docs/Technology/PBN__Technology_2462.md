@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Multicomponent exercise program](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_443.md)
+* [Multicomponent exercise program](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3505.md)
 

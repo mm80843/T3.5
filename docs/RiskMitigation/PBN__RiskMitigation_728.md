@@ -17,7 +17,7 @@
 * [Implement measures to prevent heat stress, ensure comfortable conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2980.md)
 * [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_402.md)
 * [Optimal thermal environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_150.md)
-* [Ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3136.md)
+* [Ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5298.md)
 
 ## Benefits linked to a risk
 

@@ -23,7 +23,23 @@
 
 * [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_547.md)
 
+## Property: has_MitigationPrinciple
+
+KT platforms should use multiple channels to disseminate evidence in a timely and accessible manner to target different audiences.
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Ineffective dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2624.md)
 * [Ineffective dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_404.md)
+
+## Property: has_MitigationSource
+
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
+* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2581.md)
+* [Podcasts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2582.md)
+* [Webinars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2269.md)
 

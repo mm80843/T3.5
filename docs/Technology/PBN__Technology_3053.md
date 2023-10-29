@@ -2,6 +2,10 @@
 
 # __Data mining techniques and health data__
 
+## Link between Blueprint and General ontology
+
+* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_72.md)
+
 ## Category to which it belongs
 
 * [Advancements in healthcare technology, remote care services, public health campaigns, and improved healthcare facilities contribute to a comprehensive and efficient healthcare system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Data mining methods for understanding the covid-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1363.md)
+* [Data mining methods for understanding the covid-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4331.md)
 

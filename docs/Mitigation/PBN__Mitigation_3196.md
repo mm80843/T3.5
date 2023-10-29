@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3196 
 
-# __Material selection for buildings__
+# __Planning and permissions frameworks__
 
 ## Category to which it belongs
 
-* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
+* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Material selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1436.md)
-* [Proper selection of indoor materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2056.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2984.md)
-* [Adaptation of building envelope materials and techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3198.md)
-* [Smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1373.md)
-* [Indoor building and finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_492.md)
-* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1268.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3365.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3314.md)
-* [Improve construction techniques and standards, ensure the use of high-quality building materials.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4100.md)
+* [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2813.md)
+* [Planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_826.md)
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_822.md)
+* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_823.md)
+* [Planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_818.md)
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2028.md)
+* [Land-use planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3197.md)
+* [Urban planning and design policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
+* [Facilitating collaborative and integrated planning and management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2277.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_824.md)
 

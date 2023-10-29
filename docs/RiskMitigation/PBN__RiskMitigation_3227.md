@@ -1,21 +1,18 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3227 
 
-# __Community support programs__
+# __Large living spaces__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Enhance support systems, strengthen legal frameworks, and provide resources to vulnerable populations during the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_462.md)
+Designing larger living spaces in buildings can improve mental health and well-being by providing more space for relaxation, work, and social activities.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3229.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_662.md)
-* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_132.md)
-* [Financial support programs, remote work options, community help initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2961.md)
-* [Facilitate access to social support networks, promote community engagement and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2691.md)
-* [Mental health support services, community connections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2128.md)
-* [Strengthen social support systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1036.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3228.md)
-* [Provide mental health support services, financial assistance programs, and social support networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2278.md)
-* [Provide mental health support services and hotlines, promote community support systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2363.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
+
+## This Mitigation is enabled by the following technologies
+
 

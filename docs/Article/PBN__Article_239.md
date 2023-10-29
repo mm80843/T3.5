@@ -58,17 +58,17 @@ Mobile Technology Solution for COVID-19: Surveillance and Prevention
 
 ## This article points to following mitigation
 
-* [Aarogya setu app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1651.md)
-* [Covidsafe app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1655.md)
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1646.md)
-* [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1647.md)
-* [Wi-fi-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1649.md)
-* [Gps-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1650.md)
-* [Gok direct app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1654.md)
-* [Tracetogether app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1652.md)
-* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1656.md)
-* [Bluetooth-based contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1648.md)
-* [Whatsapp chatbot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1653.md)
+* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1156.md)
+* [Aarogya setu app](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4595.md)
+* [Covidsafe app](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4599.md)
+* [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1149.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4591.md)
+* [Wi-fi-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4593.md)
+* [Gps-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4594.md)
+* [Gok direct app](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4598.md)
+* [Tracetogether app](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4596.md)
+* [Bluetooth-based contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4592.md)
+* [Whatsapp chatbot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4597.md)
 
 ## This article mentions these technologies
 

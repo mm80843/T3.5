@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_162.md)
+* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3261.md)
 

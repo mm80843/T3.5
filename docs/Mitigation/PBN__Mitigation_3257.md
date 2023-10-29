@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3257 
 
-# __Increase access to outdoor spaces through the integration of green infrastructure in urban environments__
+# __Entity alignment__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3189.md)
-* [Expansion of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3256.md)
-* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2756.md)
-* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_618.md)
-* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2755.md)
-* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3444.md)
-* [Urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1659.md)
-* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3440.md)
-* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2215.md)
-* [Incorporating green and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3332.md)
+* [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3278.md)
+* [Longitudinal data alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2152.md)
+* [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2912.md)
+* [Sequence annotation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3331.md)
+* [Sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3332.md)
+* [Knowledge extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2920.md)
+* [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1405.md)
+* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3258.md)
+* [Clear and timely information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
+* [Data collection and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
 

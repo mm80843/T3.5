@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2259 
 
-# __Disinfection of indoor air__
+# __Run hvac system longer hours__
 
 ## Category to which it belongs
 
-* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
+* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
-* [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2689.md)
-* [Air disinfection strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2698.md)
-* [Upper room guv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2697.md)
-* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2225.md)
-* [Regular cleaning and disinfection, proper ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2693.md)
-* [Physical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2248.md)
-* [Dilution and removal of infectious particles in room air through ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1352.md)
-* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_545.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_243.md)
-* [Disinfection of objects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
-
-## Property: has_MitigationPrinciple
-
-Purification of indoor air in isolation wards using air disinfectors based on plasma technology
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Air disinfector based on plasma](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3617.md)
+* [Optimize occupant presence schedules, improve energy efficiency of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2260.md)
+* [Regular hvac maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_722.md)
+* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_717.md)
+* [Increasing fresh air supply in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_719.md)
+* [Extending working hours of the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2261.md)
+* [Clean and functional hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_718.md)
+* [Use of advanced hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_585.md)
+* [Improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_586.md)
+* [Lighting and hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_720.md)
+* [Adequate control of air conditioning and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_723.md)
 

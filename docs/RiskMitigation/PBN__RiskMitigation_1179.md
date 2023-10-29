@@ -17,7 +17,7 @@
 * [Financial aids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_577.md)
 * [Credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1395.md)
 * [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_943.md)
-* [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3208.md)
+* [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5360.md)
 
 ## Benefits linked to a risk
 

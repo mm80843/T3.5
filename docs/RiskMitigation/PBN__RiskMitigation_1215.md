@@ -17,7 +17,7 @@
 * [Provide stable housing options, create affordable housing programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1632.md)
 * [Design apartments with more generous living spaces and multiple bathrooms in shared units.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2489.md)
 * [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
-* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3156.md)
+* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5314.md)
 
 ## Benefits linked to a risk
 

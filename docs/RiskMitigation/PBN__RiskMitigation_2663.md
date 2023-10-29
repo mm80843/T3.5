@@ -2,6 +2,10 @@
 
 # __Improve access to safe drinking water and sanitation infrastructure.__
 
+## Link between Blueprint and General ontology
+
+* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_8.md)
+
 ## Category to which it belongs
 
 * [Enhancing water and wastewater surveillance, improving sanitation measures, and implementing effective waste management strategies are crucial for public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_453.md)
@@ -17,7 +21,7 @@
 * [Scaling up provision of water and safe sanitation in settlements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_144.md)
 * [Improve sanitation infrastructure, provide access to clean water, promote good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1921.md)
 * [Increased sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1415.md)
-* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3121.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5283.md)
 
 ## Risks possibly mitigated by this Mitigation
 

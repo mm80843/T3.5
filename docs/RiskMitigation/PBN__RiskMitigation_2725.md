@@ -16,8 +16,8 @@
 * [Increase public education and awareness campaigns about mosquito-borne diseases and personal protective measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2624.md)
 * [Improve access to vaccination for immigrants, provide targeted outreach and education on the importance of vaccination.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2427.md)
 * [Public education, awareness campaigns, and enforcement of preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2067.md)
-* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3164.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3163.md)
+* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5320.md)
+* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5319.md)
 
 ## Risks possibly mitigated by this Mitigation
 

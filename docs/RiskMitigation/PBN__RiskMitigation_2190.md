@@ -19,6 +19,10 @@
 * [Improve access to clean water, promote hand hygiene, provide adequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1953.md)
 * [Implement health and safety measures, adapt project plans to pandemic restrictions, provide support to affected workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1944.md)
 
+## Blueprints with this mitigation
+
+* [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1632.md)

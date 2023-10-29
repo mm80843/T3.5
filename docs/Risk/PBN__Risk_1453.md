@@ -2,6 +2,10 @@
 
 # __Changes in use and behavior in public spaces__
 
+## Link between Blueprint and General ontology
+
+* [User behavior](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_4.md)
+
 ## Category to which it belongs
 
 * [Insufficiently maintained, overcrowded, and inequitably distributed public spaces contribute to a lack of access to green and outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)

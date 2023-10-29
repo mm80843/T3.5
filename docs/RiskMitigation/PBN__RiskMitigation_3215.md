@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3215 
 
-# __Blockchain security protocols__
+# __Standardizing protocols and networks for data sharing__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Ensure secure and confidential handling of data, prioritize privacy protection, implement blockchain for transparency and decentralization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_465.md)
+Facilitating seamless communication and data sharing to enable surveillance, tracing, monitoring, and tracking of the virus spread and affected individuals.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3214.md)
-* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3150.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1103.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3149.md)
-* [Implement blockchain technology to ensure accurate and secure data collection and storage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2697.md)
-* [Implement lightweight and scalable security mechanisms, utilize encryption and blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2740.md)
-* [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1052.md)
-* [Implement blockchain technology for secure and decentralized data storage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2699.md)
-* [Implementation of confidentiality and risk management protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1236.md)
-* [Strong data encryption and security protocols, access control mechanisms, regular security audits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3002.md)
+* [Limited data access and disjointed insights](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2417.md)
+
+## Property: has_MitigationSource
+
+* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2130.md)
 

@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3350.md)
+* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5487.md)
 * [Decentralizing economic activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_362.md)
 * [Promoting sustainable production and consumption methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_281.md)
 * [Implementation of wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_902.md)

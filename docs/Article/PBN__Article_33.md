@@ -41,15 +41,15 @@ Building sustainable finance for resilient protected and conserved areas: lesson
 
 ## This article points to following mitigation
 
-* [Diversifying the funding base](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_477.md)
-* [Improving spending effectiveness and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_478.md)
-* [Engaging the finance sector and attracting private capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_484.md)
-* [Increasing international development finance and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_480.md)
-* [Ensuring domestic budgets support pcas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
-* [Including local communities in pca governance and benefits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_483.md)
-* [Supporting pcas governed by indigenous peoples, local communities, and private actors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
-* [Raising public support and interest in nature conservation and pcas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_485.md)
-* [Strengthening revenue generation from tourism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_481.md)
+* [Diversifying the funding base](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3539.md)
+* [Improving spending effectiveness and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3540.md)
+* [Ensuring domestic budgets support pcas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3541.md)
+* [Increasing international development finance and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3542.md)
+* [Strengthening revenue generation from tourism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3543.md)
+* [Supporting pcas governed by indigenous peoples, local communities, and private actors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3544.md)
+* [Including local communities in pca governance and benefits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3545.md)
+* [Engaging the finance sector and attracting private capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3546.md)
+* [Raising public support and interest in nature conservation and pcas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3547.md)
 
 ## This article mentions these technologies
 

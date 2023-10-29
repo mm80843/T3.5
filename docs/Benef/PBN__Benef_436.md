@@ -26,7 +26,7 @@ Improved air quality reduces the risk of respiratory diseases and improves overa
 
 ## Risks which can benefit from this action
 
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1017.md)
 * [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_702.md)
 * [Improve indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_452.md)
-* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1017.md)
 

@@ -2,6 +2,10 @@
 
 # __Implement occupancy limits, encourage social distancing, provide adequate facilities and services__
 
+## Link between Blueprint and General ontology
+
+* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_18.md)
+
 ## Category to which it belongs
 
 * [Implement measures to control occupancy, enforce social distancing, and ensure clear communication about preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_468.md)

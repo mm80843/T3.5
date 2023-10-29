@@ -14,7 +14,7 @@
 * [Implement distance learning solutions, provide technology and internet access to students.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2661.md)
 * [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
 * [Ensure equitable access to remote work and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_17.md)
-* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3153.md)
+* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5312.md)
 * [Implement remote work solutions, utilize digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2049.md)
 * [Provide digital literacy training and support programs for residents to improve their digital skills and knowledge.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3025.md)
 * [Provide digital devices and internet access to overcome technological barriers, offer targeted support for language and academic needs of immigrant students.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2429.md)

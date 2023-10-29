@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2463 
 
-# __Implement travel restrictions and controls__
+# __Control environmental conditions__
 
 ## Category to which it belongs
 
-* [Implementing travel restrictions, optimizing transport, active travel, and improving public transportation to address mobility limitations and ensure safe and accessible transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
+* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2460.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
-* [Restricted travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1343.md)
-* [Travel restrictions and border control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2462.md)
-* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2466.md)
-* [Border control and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2459.md)
-* [Travel restrictions, testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2468.md)
-* [Imposing travel restrictions, implementing comprehensive screening and testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3545.md)
-* [Travel restrictions, isolation, testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2467.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2464.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2296.md)
+* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2149.md)
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_427.md)
+* [Outdoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_522.md)
+* [Strengthen protection of environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2461.md)
+* [Environmental measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1643.md)
+* [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
+* [Reduced environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1640.md)
+* [Climate control in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1956.md)
+* [Natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
 

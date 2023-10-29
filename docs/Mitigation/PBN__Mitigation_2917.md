@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2917 
 
-# __Voluntary testing__
+# __Ontology-guided machine learning algorithms__
 
 ## Category to which it belongs
 
-* [Enhanced and widespread testing, utilizing various methods and technologies, to detect and diagnose covid-19 with accuracy and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
+* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
-* [Voluntary hiv testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_571.md)
-* [Free testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_9.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1233.md)
-* [Testing policy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3862.md)
-* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2743.md)
-* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_21.md)
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_992.md)
-* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1.md)
-* [Voluntary reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_240.md)
+* [Ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2913.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2910.md)
+* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2916.md)
+* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2914.md)
+* [Existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2911.md)
+* [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2912.md)
+* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1501.md)
+* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
+* [Established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2918.md)
+* [Machine learning methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1504.md)
 

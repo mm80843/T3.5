@@ -1,21 +1,22 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3259 
 
-# __Vaccines__
+# __Smartwatch data__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Develop and promote vaccinations, prioritize vulnerable populations, improve access, and educate the public for global vaccine coverage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_498.md)
+Analysis of heart rate, steps, and sleep data to detect pre-symptomatic cases of COVID-19
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Vaccines development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_984.md)
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_598.md)
-* [Develop vaccines and promote vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2756.md)
-* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_866.md)
-* [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3262.md)
-* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3263.md)
-* [Vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3261.md)
-* [Development and distribution of an effective vaccine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2989.md)
-* [Rapid testing and vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3260.md)
-* [Vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_508.md)
+* [Incomplete detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2442.md)
+
+## Property: has_MitigationSource
+
+* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2241.md)
+* [Apple watches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2243.md)
+* [Fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2242.md)
 

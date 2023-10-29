@@ -15,7 +15,7 @@
 * [Mobile chatbot applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1155.md)
 * [Development of reliable communication channels, sharing accurate information, coordination platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2597.md)
 * [Promotion of virtual communication and digital technologies for social interaction, designated public spaces that allow for safe socializing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2651.md)
-* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3224.md)
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5375.md)
 * [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2977.md)
 * [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_410.md)
 

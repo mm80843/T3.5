@@ -21,8 +21,8 @@
 
 ## Mitigations of this risk
 
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1233.md)
-* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1243.md)
-* [Identification and isolation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1232.md)
-* [Enhanced isolation of suspected cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1238.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_441.md)
+* [Identification and isolation of cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4216.md)
+* [Enhanced isolation of suspected cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4221.md)
+* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4226.md)
 

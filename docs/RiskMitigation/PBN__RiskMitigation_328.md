@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Temporary closure of non-essential public places until recovery is reached.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1726.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3287.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5430.md)
 * [Transformation of public places for essential uses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_326.md)
 * [Closure of entertainment venues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_957.md)
 * [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_330.md)

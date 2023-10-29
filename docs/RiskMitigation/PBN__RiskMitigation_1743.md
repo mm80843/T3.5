@@ -17,7 +17,7 @@
 * [Use video chat and online platforms for communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2050.md)
 * [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1165.md)
 * [Promote collaboration and regionalization of educational teleconferences and resource sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1746.md)
-* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3211.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5363.md)
 
 ## Risks possibly mitigated by this Mitigation
 

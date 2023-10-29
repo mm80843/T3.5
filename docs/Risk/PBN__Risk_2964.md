@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_60.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
 

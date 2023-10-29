@@ -11,7 +11,7 @@
 * [Educate the public about disease prevention, promote awareness campaigns, provide accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1954.md)
 * [Promote public awareness campaigns, provide accurate information about diseases and preventive measures, invest in health education programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1897.md)
 * [Promote accurate and reliable information through trusted sources, provide clear guidelines and recommendations, increase public health literacy and media literacy.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1865.md)
-* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3128.md)
+* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5290.md)
 * [Implement public awareness campaigns, provide education on disease prevention and transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2198.md)
 * [Implement targeted prevention measures and public health campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2538.md)
 * [Educational campaigns on public health measures, improving communication and dissemination of information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1802.md)

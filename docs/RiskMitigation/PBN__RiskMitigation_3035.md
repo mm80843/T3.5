@@ -12,12 +12,16 @@
 * [Implement regulations on quantity limits for essential commodities, discourage panic buying.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1517.md)
 * [Retailers should implement strict monitoring and enforcement procedures, such as regular inspections, staff training, and the use of surveillance technology, to ensure compliance with social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2289.md)
 * [Implement demand forecasting models, collaborate with suppliers and customers, increase inventory levels, enhance visibility and communication across the supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2341.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3147.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5306.md)
 * [Prioritizing shipments of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_301.md)
 * [Self-sufficiency in shopping facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_445.md)
 * [Establishing alternative sourcing and inventory buffers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_646.md)
 * [Effective supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_672.md)
 * [Strengthen supply chains, increase production capacity, improve stockpiling and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1448.md)
+
+## Blueprints with this mitigation
+
+* [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
 
 ## Risks possibly mitigated by this Mitigation
 

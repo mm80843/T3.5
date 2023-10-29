@@ -2,6 +2,10 @@
 
 # __Implementing flexible and adaptable design__
 
+## Link between Blueprint and General ontology
+
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_28.md)
+
 ## Category to which it belongs
 
 * [Design and implement adaptable, sustainable, and human-centric solutions for optimized occupant presence, lighting, physical space, and construction methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_469.md)
@@ -12,7 +16,7 @@
 * [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1090.md)
 * [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_748.md)
 * [Explore modular and flexible designs to accommodate different uses and activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1973.md)
-* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3258.md)
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5406.md)
 * [Incorporate design flexibility in the planning and construction process.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2249.md)
 * [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_246.md)
 * [Design apartments with adaptable floor plans and flexible room dividers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2484.md)

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3306.md)
 

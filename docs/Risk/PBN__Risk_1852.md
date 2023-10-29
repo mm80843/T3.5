@@ -2,6 +2,10 @@
 
 # __Mental health concerns__
 
+## Link between Blueprint and General ontology
+
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_5.md)
+
 ## Category to which it belongs
 
 * [The toll of the pandemic on mental health, including increased mental health issues, domestic violence, and limited resources for support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
@@ -42,7 +46,7 @@ The pandemic can cause anxiety, stress, and other mental health issues among wor
 ## Mitigations of this risk
 
 * [Provide mental health support services and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2460.md)
-* [Recognizing stress symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1528.md)
+* [Recognizing stress symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_208.md)
 
 ## Name of the risk
 

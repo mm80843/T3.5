@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Technologies for monitoring and mitigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3205.md)
+* [Technologies for monitoring and mitigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5357.md)
 * [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_831.md)
 * [Prioritize essential research and monitoring activities, develop remote monitoring techniques, enhance capacity-building efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2842.md)
 * [Continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1000.md)
@@ -16,7 +16,7 @@
 * [Improve monitoring and enforcement of mitigation measures, increase public awareness and understanding of the importance of measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2360.md)
 * [Continuously monitor and adjust policies based on the situation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3012.md)
 * [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1003.md)
-* [Remote monitoring and management of resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3324.md)
+* [Remote monitoring and management of resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5463.md)
 * [Continuously monitor and evaluate the impact of interventions, adjust policies accordingly](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1885.md)
 
 ## Benefits linked to a risk

@@ -16,8 +16,8 @@
 * [Research and development of antiviral technologies that are effective against a wider range of viruses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2035.md)
 * [Investment in research and development for vaccines and agent-specific drugs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2066.md)
 * [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_214.md)
-* [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3256.md)
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3250.md)
+* [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5404.md)
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3772.md)
 
 ## Benefits linked to a risk
 

@@ -2,6 +2,14 @@
 
 # __Data analysis__
 
+## Link between Blueprint and General ontology
+
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
+* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_69.md)
+* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_72.md)
+* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_3.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_77.md)
+
 ## Category to which it belongs
 
 * [Efficient use of data analysis and modeling techniques to analyze various types of data for targeted insights.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
@@ -21,11 +29,11 @@
 
 ## This Technology enables the following mitigations
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
-* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
-* [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_593.md)
-* [Timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1836.md)
-* [Longitudinal analysis of wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2344.md)
-* [Science-based decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1767.md)
-* [Enteric involvement studies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1113.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
+* [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_555.md)
+* [Enteric involvement studies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4100.md)
+* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4204.md)
+* [Science-based decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4703.md)
+* [Timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4771.md)
+* [Longitudinal analysis of wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5215.md)
 

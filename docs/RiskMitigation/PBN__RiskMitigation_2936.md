@@ -12,12 +12,16 @@
 * [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2210.md)
 * [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_350.md)
 * [Ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2549.md)
-* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3289.md)
+* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5432.md)
 * [Provision of water infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_660.md)
 * [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_364.md)
 * [Water consumption and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_802.md)
 * [Environmental measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1366.md)
 * [Improving water infrastructure and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1502.md)
+
+## Blueprints with this mitigation
+
+* [Drinking water safety - restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Thorough disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1519.md)
+* [Thorough disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4475.md)
 

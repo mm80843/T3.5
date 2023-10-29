@@ -38,12 +38,12 @@ COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostl
 
 ## This article points to following mitigation
 
-* [Medication prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1429.md)
-* [Hand washing prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1430.md)
-* [Surface cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_543.md)
-* [Isolation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1432.md)
-* [General prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1433.md)
-* [Mask prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1431.md)
+* [Medication prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4393.md)
+* [Hand washing prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4394.md)
+* [Surface cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3592.md)
+* [Isolation prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4396.md)
+* [General prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4397.md)
+* [Mask prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4395.md)
 
 ## This article mentions these technologies
 
@@ -51,8 +51,8 @@ COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostl
 * [Helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1188.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
 * [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
 * [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
+* [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
 * [Government websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1187.md)
 * [Instructional videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1186.md)
 * [Cultural competence training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1190.md)

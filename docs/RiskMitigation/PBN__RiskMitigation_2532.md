@@ -11,7 +11,7 @@
 * [Targeted communication strategies, improving housing conditions, and enhancing public transport safety measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2425.md)
 * [Provide information on tourist destination safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1658.md)
 * [Implementing safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_100.md)
-* [Safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3216.md)
+* [Safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5368.md)
 * [Implement safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_569.md)
 * [Implement stricter vehicle emissions standards, promote electric vehicles and low-carbon fuels, improve public transport and active travel options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1669.md)
 * [Increase public transport capacity to ensure physical distancing, provide alternative transport options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1665.md)

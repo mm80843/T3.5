@@ -16,7 +16,7 @@
 * [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_983.md)
 * [Wastewater-based surveillance wbs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1203.md)
 * [Increased surveillance and support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_6.md)
-* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3120.md)
+* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5282.md)
 * [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1199.md)
 
 ## Benefits linked to a risk

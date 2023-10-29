@@ -58,25 +58,25 @@ Contributions of Smart City Solutions and Technologies to Resilience against the
 
 ## This article points to following mitigation
 
-* [Smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1807.md)
-* [Integrated management and planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1808.md)
-* [Forecasting and prediction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1809.md)
-* [Preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1810.md)
-* [Tracing and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1811.md)
-* [Transparent communication and prevention of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1812.md)
-* [Support to overstretched staff](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
-* [Alternative means for continuity of basic functions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1814.md)
-* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1815.md)
-* [Offering lessons to optimize city operations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1816.md)
+* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1109.md)
+* [Smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4743.md)
+* [Integrated management and planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4744.md)
+* [Forecasting and prediction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4745.md)
+* [Preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4746.md)
+* [Tracing and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4747.md)
+* [Transparent communication and prevention of fake news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4748.md)
+* [Support to overstretched staff](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4749.md)
+* [Alternative means for continuity of basic functions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4750.md)
+* [Offering lessons to optimize city operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4751.md)
 
 ## This article mentions these technologies
 
+* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 * [Telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
 * [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
 * [Encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1540.md)
 * [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 

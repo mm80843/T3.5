@@ -54,17 +54,17 @@ The Impact of COVID-19 on Public Space: A Review of the Emerging Questions
 
 ## This article points to following mitigation
 
-* [Widening sidewalks and re-designing pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_770.md)
-* [Creating more bike lanes and pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_771.md)
-* [Designing smaller local, neighborhood green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_772.md)
-* [Repurposing unused spaces such as rooftops and brownfield sites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_773.md)
-* [Implementing low-cost and temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_774.md)
-* [Reconsidering regulations and designs of interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_775.md)
-* [Addressing the impact on the informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_779.md)
-* [Considering the global interconnected settlement system in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_780.md)
-* [Reimagining large public spaces and events in a post-pandemic world](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_778.md)
-* [Implementing new regulations and technologies for tracking and surveillance in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
-* [Considering the needs of vulnerable groups in future public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_777.md)
+* [Widening sidewalks and re-designing pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1253.md)
+* [Creating more bike lanes and pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3790.md)
+* [Designing smaller local, neighborhood green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3791.md)
+* [Repurposing unused spaces such as rooftops and brownfield sites](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3792.md)
+* [Implementing low-cost and temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3793.md)
+* [Reconsidering regulations and designs of interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3794.md)
+* [Implementing new regulations and technologies for tracking and surveillance in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3795.md)
+* [Considering the needs of vulnerable groups in future public space designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3796.md)
+* [Reimagining large public spaces and events in a post-pandemic world](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3797.md)
+* [Addressing the impact on the informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3798.md)
+* [Considering the global interconnected settlement system in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3799.md)
 
 ## This article mentions these technologies
 

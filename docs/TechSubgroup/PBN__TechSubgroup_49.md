@@ -22,10 +22,10 @@
 ## This Technology belongs to this TechnologySubgroup
 
 * [Helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1188.md)
+* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
 * [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_717.md)
 * [Education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_85.md)
-* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
 * [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)
 * [Government websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1187.md)
 * [Press releases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1174.md)

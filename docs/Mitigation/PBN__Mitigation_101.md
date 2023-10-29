@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_101 
 
-# __Regulatory practices__
+# __Border closures__
 
 ## Category to which it belongs
 
-* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2798.md)
-* [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2799.md)
-* [Monitoring regulatory environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2800.md)
-* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_722.md)
-* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2373.md)
-* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1892.md)
-* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2801.md)
-* [Difficulty in adapting to new rules and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2802.md)
-* [Public health policies and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2803.md)
-* [Regulatory adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_888.md)
-
-## Property: has_MitigationPrinciple
-
-Adhere to international healthcare guidelines and regulatory practices to reduce health risks and their consequences
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Closing of borders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_100.md)
+* [Border shutdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
+* [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_323.md)
+* [Border control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_102.md)
+* [Edge expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_324.md)
+* [Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_325.md)
+* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_106.md)
+* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_326.md)
+* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_327.md)
+* [Workplace closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_328.md)
 

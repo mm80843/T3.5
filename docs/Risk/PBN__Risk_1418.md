@@ -41,11 +41,11 @@ Inadequate ventilation in indoor spaces leads to increased transmission of respi
 
 ## Mitigations of this risk
 
+* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3648.md)
 * [Increase the amount of outdoor air in ventilation systems, open windows for natural ventilation, and ensure proper ventilation design and operation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1932.md)
 * [Implement proper ventilation systems in buildings, maintain good airflow and air exchange rates.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2637.md)
-* [Opening windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_218.md)
-* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_614.md)
-* [Proper building ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1720.md)
+* [Opening windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1133.md)
+* [Proper building ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4659.md)
 
 ## Name of the risk
 

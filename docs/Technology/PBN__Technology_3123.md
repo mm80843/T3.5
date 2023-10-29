@@ -2,6 +2,10 @@
 
 # __Algorithm__
 
+## Link between Blueprint and General ontology
+
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_86.md)
+
 ## Category to which it belongs
 
 * [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1507.md)
+* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4464.md)
 

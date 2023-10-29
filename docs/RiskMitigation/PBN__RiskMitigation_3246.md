@@ -1,21 +1,23 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3246 
 
-# __Ontology engineering best practices__
+# __Lockdown and quarantine__
 
-## Category to which it belongs
+## Blueprints with this mitigation
 
-* [Facilitating knowledge sharing through funding research efforts, developing ontologies, enhancing collaboration, and automating ontology models for data integration and standardization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_480.md)
+* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
 
-## Closest similar item
+## Property: has_MitigationPrinciple
 
-* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3244.md)
-* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3247.md)
-* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_53.md)
-* [Existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3242.md)
-* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3243.md)
-* [Develop ontologies for data standardization and integration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1960.md)
-* [Adopt common data models and ontology interoperability guidelines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2541.md)
-* [Ontology-based systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_840.md)
-* [Develop and enhance tools to automate ontology models and applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1477.md)
-* [Conduct qualitative analysis and evaluation of proposed ontologies based on existing criteria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1479.md)
+Imposing restrictions on movement and social interactions to reduce the spread of the virus and prevent the healthcare system from being overwhelmed
+
+## Risks possibly mitigated by this Mitigation
+
+* [Economic recession](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1008.md)
+
+## Property: has_MitigationSource
+
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+
+## This Mitigation is enabled by the following technologies
+
 

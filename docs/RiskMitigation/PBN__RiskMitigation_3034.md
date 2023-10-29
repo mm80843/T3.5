@@ -17,7 +17,7 @@
 * [Ai for patient management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_655.md)
 * [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1111.md)
 * [Patient-controlled access to medical records](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_400.md)
-* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3210.md)
+* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5362.md)
 
 ## Risks possibly mitigated by this Mitigation
 

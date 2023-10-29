@@ -44,11 +44,11 @@ Wearable technology for early detection of COVID-19: A systematic scoping review
 
 ## This article points to following mitigation
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_325.md)
-* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_367.md)
-* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_397.md)
-* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_398.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_498.md)
+* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3438.md)
+* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3466.md)
+* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3467.md)
 
 ## This article mentions these technologies
 

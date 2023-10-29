@@ -21,8 +21,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Outdoor activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_907.md)
-* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_908.md)
-* [Mental restoration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_909.md)
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_910.md)
+* [Outdoor activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3914.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3915.md)
+* [Mental restoration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3916.md)
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3917.md)
 

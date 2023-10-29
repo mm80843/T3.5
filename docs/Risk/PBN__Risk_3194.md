@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1392.md)
-* [Efficient cooking practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1724.md)
+* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4357.md)
+* [Efficient cooking practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4663.md)
 

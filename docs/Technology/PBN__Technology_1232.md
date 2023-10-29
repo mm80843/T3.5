@@ -2,6 +2,10 @@
 
 # __Smart contracts__
 
+## Link between Blueprint and General ontology
+
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_4.md)
+
 ## Category to which it belongs
 
 * [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
@@ -34,7 +38,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Simplified loan and insurance services during the crisis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1828.md)
+* [Simplified loan and insurance services during the crisis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4763.md)
 
 ## Risks linked to this technology
 

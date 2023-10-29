@@ -16,9 +16,9 @@ Removal of non-value added processes, improved resource optimization, enhanced c
 ## Articles mentionning this Benefit
 
 * [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
-* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
-* [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
 * [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
+* [El impacto del teletrabajo en tiempos del COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_108.md)
+* [Overcoming the Impact of COVID-19 Using Integrated Project Delivery Model](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_72.md)
 
 ## Stakeholders benefitting from this Benefit
 

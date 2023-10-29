@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Increased support for domestic violence services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1417.md)
-* [Partnership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1766.md)
+* [Increased support for domestic violence services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4381.md)
+* [Partnership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4702.md)
 

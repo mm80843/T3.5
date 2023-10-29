@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_671 
 
-# __Connect extreme weather and climate__
+# __Improve ventilation systems, increase outdoor air intake, use air quality sensors__
 
 ## Category to which it belongs
 
-* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
+* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
-* [Climate-sensitive design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_515.md)
-* [Climate change mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1770.md)
-* [Natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2813.md)
-* [Heat and sunlight exposure in summer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3191.md)
-* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
-* [Climate control in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1239.md)
-* [Improved indoor climate quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1707.md)
-* [Control environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_950.md)
-* [Implement sustainable land use practices, protect and restore ecosystems, and mitigate climate change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3083.md)
-* [Designing outdoor areas or balconies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_473.md)
-
-## Property: has_MitigationPrinciple
-
-Communicate the relationship between extreme weather events and climate change to make the connection more apparent
-
-## Risks possibly mitigated by this Mitigation
-
-* [Disconnection between extreme weather and climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2647.md)
-
-## Property: has_MitigationSource
-
-* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_669.md)
+* [Improve ventilation systems, increase outdoor air intake, and use air purifiers to enhance indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_764.md)
+* [Increase the amount of outdoor air in ventilation systems, open windows for natural ventilation, and ensure proper ventilation design and operation.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2010.md)
+* [Improve indoor ventilation systems, increase air exchange rates, and use of air purifiers or filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3924.md)
+* [Improve ventilation systems, increase fresh air supply, and use air filters to reduce the spread of airborne particles.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_656.md)
+* [Increase ventilation rates, use air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_660.md)
+* [Improved ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_578.md)
+* [Reduce sources of chemical pollutants, improve ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2716.md)
+* [Improve ventilation systems, open windows and doors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2006.md)
+* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_668.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2708 
 
-# __Smart personal protective equipment__
+# __Restrictions on private gatherings__
 
 ## Category to which it belongs
 
-* [Proactive implementation of safety protocols, including the provision of personal protective equipment, to ensure protection and minimize risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_181.md)
+* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_524.md)
-* [Implementing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2608.md)
-* [Providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1792.md)
-* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_190.md)
-* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2712.md)
-* [Personal protective equipment ppe use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
-* [Using appropriate protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2711.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_60.md)
-* [Use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2714.md)
-* [Distribution of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1914.md)
+* [Restrictions on gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2208.md)
+* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2210.md)
+* [Public and private gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
+* [Restrict mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2203.md)
+* [Social gathering restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2709.md)
+* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2211.md)
+* [Restrict mass gatherings, assess risks and benefits of organizing events](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2207.md)
+* [Banning of large gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2206.md)
+* [Avoidance of large gatherings, and gatherings in smaller public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2209.md)
+* [Stopping mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2202.md)
 

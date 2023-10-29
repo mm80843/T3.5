@@ -14,7 +14,7 @@
 * [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_377.md)
 * [Identify missing information and develop logical relations linking drugs, coronaviruses, and conditions for drug efficacy.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1963.md)
 * [Utilize ai methods for faster drug testing and discovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2376.md)
-* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3158.md)
+* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4060.md)
 * [Conduct clinical trials to determine the efficacy of drug therapies, develop new therapeutics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1594.md)
 * [Develop and distribute effective medications and vaccines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2013.md)
 * [Non-pharmaceutical public health interventions nphis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_74.md)

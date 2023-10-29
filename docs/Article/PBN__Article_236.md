@@ -44,21 +44,21 @@ COVID-19: The forgotten priorities of the pandemic
 
 ## This article points to following mitigation
 
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
-* [Closure of educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1296.md)
-* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1302.md)
-* [Community action](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1306.md)
-* [Frequent handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1294.md)
-* [Spatial distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1295.md)
-* [Use of mobile apps for counselling/treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1303.md)
-* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1305.md)
-* [Isolation of suspected or confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1299.md)
-* [Quarantine of persons in contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1300.md)
-* [Stay-at-home recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1301.md)
-* [Cancelation of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1298.md)
-* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1297.md)
-* [Covering mouth and nose](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1293.md)
-* [Training for healthcare professionals in psychosocial skills](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1304.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3247.md)
+* [Frequent handwashing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4265.md)
+* [Isolation of suspected or confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4270.md)
+* [Quarantine of persons in contact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4271.md)
+* [Covering mouth and nose](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4264.md)
+* [Spatial distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4266.md)
+* [Closure of educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4267.md)
+* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4268.md)
+* [Cancelation of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4269.md)
+* [Stay-at-home recommendations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4272.md)
+* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4273.md)
+* [Use of mobile apps for counselling/treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4274.md)
+* [Training for healthcare professionals in psychosocial skills](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4275.md)
+* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4276.md)
+* [Community action](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4277.md)
 
 ## This article mentions these technologies
 

@@ -4,18 +4,18 @@
 
 ## Items covered in this category
 
-* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_68.md)
+* [Wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_140.md)
+* [Desiccation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_266.md)
 * [DigitalPlatform](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_1.md)
 * [Digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_56.md)
 * [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_58.md)
 * [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_60.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_61.md)
 * [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_62.md)
-* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_68.md)
-* [Wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_140.md)
 * [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_67.md)
 * [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_66.md)
 * [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_183.md)
-* [Desiccation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_266.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_61.md)
+* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
 

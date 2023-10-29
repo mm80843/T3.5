@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_413.md)
+* [Revisions in density and compact design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3480.md)
 

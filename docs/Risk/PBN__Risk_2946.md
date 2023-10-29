@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Blockchain for data security](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1213.md)
+* [Blockchain for data security](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4197.md)
 

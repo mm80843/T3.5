@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3122 
 
-# __Sanitation and waste management__
+# __Risk communication systems__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Enhancing water and wastewater surveillance, improving sanitation measures, and implementing effective waste management strategies are crucial for public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_453.md)
+Establish effective and clear communication channels to inform the public about risks and preventive measures
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1364.md)
-* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1146.md)
-* [Proper waste management and segregation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_349.md)
-* [Implementing proper sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_888.md)
-* [Enhance waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2161.md)
-* [Implementing effective waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1503.md)
-* [Improvement of sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_757.md)
-* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3121.md)
-* [Develop waste management strategies, including proper waste segregation and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2937.md)
-* [Management of increased waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_232.md)
+* [Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2378.md)
+
+## Property: has_MitigationSource
+
+* [Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_200.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1055.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3693 
 
-# __Implementation of containment strategies quarantine__
+# __Strengthen urban governance structures, improve data collection and analysis, involve communities in decision-making processes__
 
 ## Category to which it belongs
 
-* [Imposing segregation and restrictions to prevent the spread of disease, including home isolation, monitoring, and mandatory measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_161.md)
+* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
-* [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2179.md)
-* [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_753.md)
-* [Compliance of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1877.md)
-* [Quarantine and isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1972.md)
-* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
-* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
-* [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2157.md)
-* [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2960.md)
-* [Quarantine/isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_263.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_453.md)
+* [Improve governance models to be more collaborative, proactive, and integrated, focus on participatory decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3780.md)
+* [Governance of urban space to improve access to neighborhood resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3295.md)
+* [Including local communities in pca governance and benefits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3872.md)
+* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2301.md)
+* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1822.md)
+* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2302.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_824.md)
+* [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_819.md)
+* [Urban planning and design policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
+* [Control measures in cities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2634.md)
 

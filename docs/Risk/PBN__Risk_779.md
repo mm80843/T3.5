@@ -43,7 +43,7 @@ Overburdened health systems and restrictions on travel limit access to routine h
 
 * [Strengthen primary healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1071.md)
 * [Prioritize high-quality health care for those in need and ensure access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1492.md)
-* [Effective community health extension system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_81.md)
+* [Effective community health extension system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3189.md)
 
 ## Name of the risk
 

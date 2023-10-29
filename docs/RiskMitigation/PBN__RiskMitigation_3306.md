@@ -1,21 +1,30 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3306 
 
-# __Education and training on hand hygiene practices__
+# __Wearing masks__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Promote and enforce comprehensive hygiene practices, including sanitation measures, handwashing, and cleanliness protocols.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_492.md)
+Wearing masks reduces the release of respiratory droplets by infected individuals, reducing the risk of airborne transmission.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Performing hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1266.md)
-* [Hand hygiene guidance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3307.md)
-* [Education and awareness campaigns, providing access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2017.md)
-* [Hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3020.md)
-* [Raise awareness and promote the importance of hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2078.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
-* [Implementation of proper hand hygiene, cleaning and disinfection protocols, and education about transmission routes.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1821.md)
-* [Hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3308.md)
-* [Promote proper hand hygiene practices through education and awareness campaigns, provide hand sanitization stations, and enforce hand hygiene protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3107.md)
-* [Promote regular handwashing, hygiene education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1533.md)
+* [Contagious disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2003.md)
+* [Transmission of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2772.md)
+* [Poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3397.md)
+* [Respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2472.md)
+
+## Property: has_MitigationSource
+
+* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
+* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
+* [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
+* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1051.md)
+* [Surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2723.md)
+* [Masks or face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2292.md)
+* [Cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3705.md)
 

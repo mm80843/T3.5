@@ -19,6 +19,10 @@
 * [Risk of rapid spread and cross-sectorial impact of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2094.md)
 * [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
 
+## Blueprints with this risk
+
+* [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_4.md)
+
 ## Description of the risk
 
 Contagious diseases like Covid-19 can spread rapidly in public spaces, leading to increased transmission and potential outbreaks.

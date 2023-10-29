@@ -2,6 +2,15 @@
 
 # __Gps technology__
 
+## Link between Blueprint and General ontology
+
+* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_10.md)
+* [Gps location](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_158.md)
+* [Location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_159.md)
+* [Mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_45.md)
+* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_160.md)
+* [Positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_96.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,6 +30,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Global positioning system gps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_326.md)
-* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1149.md)
+* [Global positioning system gps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3400.md)
+* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4134.md)
 

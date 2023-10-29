@@ -17,7 +17,7 @@
 * [Travel restrictions, testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2124.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
 * [Travel restrictions, isolation, testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2123.md)
-* [Travel regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3286.md)
+* [Travel regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5429.md)
 
 ## Risks possibly mitigated by this Mitigation
 

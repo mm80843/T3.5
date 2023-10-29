@@ -2,6 +2,11 @@
 
 # __Object detection algorithms__
 
+## Link between Blueprint and General ontology
+
+* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_95.md)
+* [Facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_244.md)
+
 ## Category to which it belongs
 
 * [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2151.md)
+* [Deep learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5032.md)
 

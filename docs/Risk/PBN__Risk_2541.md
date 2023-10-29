@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Avoiding physical activity during viral infection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_451.md)
+* [Avoiding physical activity during viral infection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3513.md)
 

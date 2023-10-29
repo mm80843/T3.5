@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2587 
 
-# __Safety measures for drinking water__
+# __Implement policies and strategies to ensure equitable access to green infrastructure in all neighborhoods__
 
 ## Category to which it belongs
 
-* [Proactive implementation of safety protocols, including the provision of personal protective equipment, to ensure protection and minimize risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_181.md)
+* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2067.md)
-* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2585.md)
-* [Safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2163.md)
-* [Improving access to safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2588.md)
-* [Water and sanitary system safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
-* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_82.md)
-* [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2589.md)
-* [Improve access to safe drinking water and sanitation infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2590.md)
-* [Safe water, sanitation, and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
-* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1086.md)
+* [Policies for green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2083.md)
+* [Implement green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2076.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2077.md)
+* [Building green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2078.md)
+* [Urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2080.md)
+* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2079.md)
+* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2081.md)
+* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2075.md)
+* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_829.md)
+* [Expansion of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2082.md)
 

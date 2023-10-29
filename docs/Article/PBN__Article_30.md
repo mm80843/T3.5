@@ -44,16 +44,16 @@ Effects of non-pharmaceutical interventions against COVID-19 on the incidence of
 
 ## This article points to following mitigation
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_803.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
-* [Face masking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1345.md)
-* [Restrictions of movement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1346.md)
-* [Social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1347.md)
-* [Isolation/quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1348.md)
-* [Reduced environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1349.md)
-* [Improved hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1350.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3284.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3820.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3873.md)
+* [Face masking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4313.md)
+* [Restrictions of movement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4314.md)
+* [Social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4315.md)
+* [Isolation/quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4316.md)
+* [Reduced environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4317.md)
+* [Improved hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4318.md)
 
 ## This article mentions these technologies
 

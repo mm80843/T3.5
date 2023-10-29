@@ -19,6 +19,10 @@
 * [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_154.md)
 * [Provide access to public parks and green spaces, encourage the development of outdoor spaces in residential areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1522.md)
 
+## Blueprints with this mitigation
+
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)

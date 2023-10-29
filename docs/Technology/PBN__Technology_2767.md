@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Analysis of root causes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_901.md)
+* [Analysis of root causes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3908.md)
 

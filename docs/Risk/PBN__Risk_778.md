@@ -43,7 +43,7 @@ Economic impact of COVID-19 leads to unemployment, poverty, and limited financia
 
 * [Implement social protection programs and financial incentives to support vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1491.md)
 * [Social protection programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1070.md)
-* [Financial-incentive based models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_80.md)
+* [Financial-incentive based models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3188.md)
 
 ## Name of the risk
 

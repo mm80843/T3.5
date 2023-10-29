@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_798 
 
-# __Proper insulation__
+# __Widespread testing__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Enhanced and widespread testing, utilizing various methods and technologies, to detect and diagnose covid-19 with accuracy and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
-* [Proper insulation maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1382.md)
-* [Improved building insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1725.md)
-* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_412.md)
-* [Contamination and microbial growth in insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4044.md)
-* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
-* [Contamination of insulation in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4045.md)
-* [Removal of wet or contaminated insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1390.md)
-* [Noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2169.md)
-* [Ensure proper facade design and ventilation to maintain thermal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2812.md)
-* [Implementing sound insulation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_475.md)
-
-## Property: has_MitigationPrinciple
-
-Proper insulation of the building envelope can help reduce heat loss or gain, maintain indoor temperature stability, and reduce the need for frequent window opening.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Heat loss or gain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2717.md)
-
-## Property: has_MitigationSource
-
-* [The Effect of Opening Windows on Air Change Rates in Two Homes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_235.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_80.md)
+* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_181.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_799.md)
+* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
+* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_805.md)
+* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_800.md)
+* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_796.md)
+* [Voluntary testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1213.md)
+* [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3426.md)
+* [Rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_803.md)
+* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_802.md)
 

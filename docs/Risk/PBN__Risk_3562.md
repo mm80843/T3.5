@@ -19,3 +19,7 @@
 * [Health and safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_557.md)
 * [Concerns about health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1976.md)
 
+## Blueprints with this risk
+
+* [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
+

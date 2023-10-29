@@ -10,7 +10,7 @@
 
 * [Monitoring the effects of vaccination on the body using wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_946.md)
 * [Early detection and rapid response systems, development of new diagnostic tools and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3056.md)
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3118.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5280.md)
 * [Ensuring global coverage of vaccination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_726.md)
 * [Increase vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1185.md)
 * [Incorporating vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_685.md)

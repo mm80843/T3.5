@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_877.md)
+* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3885.md)
 

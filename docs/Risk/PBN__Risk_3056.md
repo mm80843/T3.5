@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Equitable vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1462.md)
-* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1471.md)
+* [Equitable vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4421.md)
+* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4429.md)
 

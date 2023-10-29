@@ -9,8 +9,8 @@
 ## Closest similar item
 
 * [Virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2978.md)
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3226.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3188.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4157.md)
+* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5344.md)
 * [Open green spaces in urban periphery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1230.md)
 * [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1226.md)
 * [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_982.md)

@@ -36,11 +36,11 @@ Design and Implementation of Entry-level COVID-19 Digital Signage Player support
 
 ## This article points to following mitigation
 
-* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_812.md)
-* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_808.md)
-* [Qr code check-in](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_810.md)
-* [Temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_809.md)
-* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_811.md)
+* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1276.md)
+* [Temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3825.md)
+* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3828.md)
+* [Qr code check-in](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3826.md)
+* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3827.md)
 
 ## This article mentions these technologies
 
@@ -51,8 +51,8 @@ Design and Implementation of Entry-level COVID-19 Digital Signage Player support
 * [Contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_29.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_430.md)
-* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_769.md)
 * [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)
+* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_769.md)
 * [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)
 * [Occupancy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_248.md)
 * [Crowd monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_743.md)

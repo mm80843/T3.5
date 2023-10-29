@@ -43,7 +43,6 @@ Inadequate capacity to test individuals for contagious diseases
 
 * [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1021.md)
 * [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2720.md)
-* [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_500.md)
 
 ## Name of the risk
 

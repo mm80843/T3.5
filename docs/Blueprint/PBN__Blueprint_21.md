@@ -30,6 +30,19 @@ Considering that during the pandemic many public facilities remained closed for 
 * [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_8.md)
 * [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_9.md)
 
+## Possible mitigations of the BP
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_492.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
+* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1364.md)
+* [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_193.md)
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5431.md)
+* [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4362.md)
+* [Environmental cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3593.md)
+* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5211.md)
+* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5167.md)
+* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5170.md)
+
 ## Type of deployment of the blueprint
 
 * [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
@@ -51,6 +64,19 @@ Continuous monitoring of biofilm growth in distribution systems is the only way 
 ## Restrictions of the blueprint
 
 Monitoring biofilm growth in water distribution systems is not a simple, time-consuming or costly procedure. The cost of installing and setting up such a monitoring system is not just a one-off cost. Continuous monitoring requires maintenance and handling costs that may limit the implementation of this measure.
+
+## Possible risks of the BP
+
+* [Environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_923.md)
+* [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
+* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1562.md)
+* [Limited availability of biosensors for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1148.md)
+* [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_365.md)
+* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1894.md)
+* [Proper wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2928.md)
+* [Wastewater collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_717.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3560.md)
+* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3558.md)
 
 ## Scale of the of the blueprint
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1663.md)
+* [Messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4606.md)
 

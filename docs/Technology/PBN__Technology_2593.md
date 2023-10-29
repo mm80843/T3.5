@@ -2,6 +2,10 @@
 
 # __Acoustic technology__
 
+## Link between Blueprint and General ontology
+
+* [Voice recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_263.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,6 +25,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Biological and geophysical sounds](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_630.md)
-* [Consideration of noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_640.md)
+* [Biological and geophysical sounds](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3662.md)
+* [Consideration of noise levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3672.md)
 

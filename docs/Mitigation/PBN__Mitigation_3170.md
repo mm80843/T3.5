@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3170 
 
-# __Vertical gardens__
+# __Mental and psychological treatment__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
-* [Urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2419.md)
-* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3335.md)
-* [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1142.md)
-* [Domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
-* [Pocket gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3186.md)
-* [Rain gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3187.md)
-* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_767.md)
-* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
-* [Garden access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_724.md)
+* [Social and psychological interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1978.md)
+* [Provide adequate psychological services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2956.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1191.md)
+* [Physical and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3171.md)
+* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_15.md)
+* [Psychoeducation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3172.md)
+* [Providing mental health support, counseling, and stress management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1194.md)
+* [Provide counseling services, emphasize mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1192.md)
+* [Mental restoration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2086.md)
+* [Provide targeted interventions for individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1980.md)
 

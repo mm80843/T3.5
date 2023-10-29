@@ -43,17 +43,17 @@ A Surface Coating that Rapidly Inactivates SARS-CoV-2
 
 ## This article points to following mitigation
 
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_242.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
-* [Anti-sars-cov-2 coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_261.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
-* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_262.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_243.md)
-* [Quarantine/isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_263.md)
-* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
-* [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3329.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3283.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3284.md)
+* [Anti-sars-cov-2 coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3345.md)
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3306.md)
+* [Quarantine/isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3346.md)
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3347.md)
+* [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3348.md)
 
 ## This article mentions these technologies
 

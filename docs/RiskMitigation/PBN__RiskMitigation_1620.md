@@ -17,7 +17,7 @@
 * [Incorporate far-uvc light as a disinfection measure in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1676.md)
 * [Develop and implement proper cleaning and disinfection protocols, provide training and resources for cleaning staff, conduct regular inspections and audits.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1777.md)
 * [Implement safety measures to protect against uv-c radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2982.md)
-* [Disinfection equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3383.md)
+* [Disinfection equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5517.md)
 
 ## Risks possibly mitigated by this Mitigation
 

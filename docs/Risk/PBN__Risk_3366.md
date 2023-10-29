@@ -19,7 +19,12 @@
 * [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3601.md)
 * [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2329.md)
 
+## Blueprints with this risk
+
+* [Tracking and enforcing use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+
 ## Mitigations of this risk
 
-* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2293.md)
+* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5168.md)
 

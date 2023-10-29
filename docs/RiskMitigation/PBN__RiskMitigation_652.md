@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3169.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5325.md)
 * [Utilize ai algorithms as an initial screening tool and develop alternative diagnostic tests.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2853.md)
 * [Ai for diagnosis and screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_651.md)
 * [Ai algorithms for screening and triage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1326.md)
 * [Utilize ai methods for faster drug testing and discovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2376.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3166.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5322.md)
 * [Optimizing experimental conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2987.md)
-* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3168.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5324.md)
 * [Ai for decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_654.md)
 * [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2126.md)
 

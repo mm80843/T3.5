@@ -16,8 +16,8 @@
 * [Responsible transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_278.md)
 * [Transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_490.md)
 * [Implementing safety measures to build passenger confidence, promoting the benefits of public transport reduced traffic, lower emissions , offering flexible ticketing options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2532.md)
-* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3184.md)
-* [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3181.md)
+* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5340.md)
+* [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5337.md)
 
 ## Benefits linked to a risk
 

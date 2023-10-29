@@ -2,6 +2,11 @@
 
 # __User acceptance__
 
+## Link between Blueprint and General ontology
+
+* [User journey](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_3.md)
+* [User behavior](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_4.md)
+
 ## Category to which it belongs
 
 * [The challenges and consequences of the global pandemic, including domestic violence, interrupted education, communication barriers, and employment issues, highlight the complexity of our interconnected world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
@@ -21,5 +26,5 @@
 
 ## Mitigations of this risk
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
 

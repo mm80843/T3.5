@@ -21,7 +21,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Proper use of daylight and sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_539.md)
-* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_171.md)
-* [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2409.md)
+* [Proper use of daylight and sunlight](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3588.md)
+* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3269.md)
+* [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5274.md)
 

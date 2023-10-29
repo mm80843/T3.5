@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1036.md)
-* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2313.md)
+* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_145.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4032.md)
 

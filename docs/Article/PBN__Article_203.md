@@ -49,11 +49,11 @@ The impact of the COVID-19 pandemic on the importance of urban green spaces to t
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_803.md)
-* [Use of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1428.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_469.md)
-* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1427.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3820.md)
+* [Use of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4392.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3531.md)
+* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4391.md)
 
 ## This article mentions these technologies
 

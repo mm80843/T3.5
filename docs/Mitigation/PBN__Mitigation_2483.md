@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2483 
 
-# __Surveillance measures__
+# __Implementation of home treatments__
 
 ## Category to which it belongs
 
-* [Implement comprehensive measures to address and mitigate risks, ensure public safety, and promote preventive behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
+* [Promote health, educate the public, implement interventions, strengthen health systems, and exchange health information for a healthier population.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_716.md)
-* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2481.md)
-* [Mass surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1911.md)
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2478.md)
-* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2480.md)
-* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2479.md)
-* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2795.md)
-* [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2494.md)
-* [Enhanced surveillance and reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1804.md)
-* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2493.md)
+* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1177.md)
+* [Home quarantine of household members](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1178.md)
+* [Home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2482.md)
+* [Implementation of non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1110.md)
+* [Home isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_734.md)
+* [Implementing social distancing measures, promoting good hygiene practices, and enforcing lockdowns or stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1852.md)
+* [Efficient home organization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1752.md)
+* [Residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1009.md)
+* [Implementing public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
+* [Determine which workers with comorbidities can work from home, provide necessary accommodations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2661.md)
 

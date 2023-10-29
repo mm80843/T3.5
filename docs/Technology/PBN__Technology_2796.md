@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Carbon border tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_978.md)
+* [Carbon border tax](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3979.md)
 

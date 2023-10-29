@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3658 
 
-# __Management__
+# __Universal vaccines__
 
 ## Category to which it belongs
 
-* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
+* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3937.md)
-* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3670.md)
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5.md)
-* [Value management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1191.md)
-* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2317.md)
-* [Integrated management and planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1808.md)
-* [Effective healthcare management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1826.md)
-* [Risk management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_730.md)
-* [Facility management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_732.md)
-* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2764.md)
+* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
+* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_141.md)
+* [Preventive vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_148.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
+* [Development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_150.md)
+* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2877.md)
+* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
+* [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2878.md)
+* [Vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2497.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_140.md)
 

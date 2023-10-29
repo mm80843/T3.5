@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3374 
 
-# __Emergency management agencies__
+# __Management of deliveries__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Strengthen healthcare systems, increase capacity, and ensure access to essential healthcare services through telemedicine, medical facility expansion, and resource allocation planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_477.md)
+Manage and handle deliveries safely to minimize virus exposure risks, including touch-free deliveries, limited access to delivery areas, sanitizing materials and equipment, and quarantining paper documents before distributing them.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Emergency management agency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3375.md)
-* [Disaster management agencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3368.md)
-* [Emergency support and safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3190.md)
-* [Crisis management teams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3367.md)
-* [Disaster response team](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3372.md)
-* [Disaster response teams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3373.md)
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_382.md)
-* [Strengthen public health emergency preparedness and response systems to mitigate the impact of epidemics.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2432.md)
-* [Repurposing large public spaces for emergency health purposes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1256.md)
-* [Efficient crisis management, timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2702.md)
+* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2490.md)
+
+## Property: has_MitigationSource
+
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Material quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2365.md)
+* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2364.md)
 

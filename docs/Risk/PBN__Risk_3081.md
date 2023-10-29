@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Avoid ace inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1503.md)
+* [Avoid ace inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4460.md)
 

@@ -27,15 +27,28 @@ The general idea described above is to use technology to monitor whether people 
 ## Enablers of the blueprint
 
 * [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_11.md)
 * [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_12.md)
 * [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_18.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_11.md)
 
 ## Interventions of the blueprint
 
-* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_23.md)
 * [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_30.md)
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_31.md)
+* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_23.md)
+
+## Possible mitigations of the BP
+
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1221.md)
+* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_983.md)
+* [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1199.md)
+* [Implementation of thermal imaging cameras and temperature screening protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2655.md)
+* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5282.md)
+* [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1165.md)
+* [Technologies for monitoring and mitigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5357.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3420.md)
+* [Implementation of safety protocols, including personal protective equipment ppe , proper handling and disposal of samples, and adherence to biosafety guidelines, can minimize the risk of exposure and spread of the virus in the laboratory.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2166.md)
+* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5590.md)
 
 ## Type of deployment of the blueprint
 
@@ -57,6 +70,19 @@ Personal protective equipment (PPE) such as face masks can help reduce the trans
 
 Still, PPE alone is not sufficient to prevent the transmission of infectious diseases. Other measures, such as maintaining physical distance, frequent hand hygiene and cleaning and disinfecting frequently touched surfaces, are also important to reduce the risk of transmission.
 Moreover, it is important to note that the use of technology to monitor PPE usage should be done in a way that respects the privacy and autonomy of the people using the building. Building owners should ensure that any technology used is transparent, secure, and properly managed to protect personal information and prevent abuse Enforcing the use of PPE may provoke resentment , face PPE impacts communication, environmental footprint of PPE usage
+
+## Possible risks of the BP
+
+* [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
+* [Transmission of covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_579.md)
+* [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3453.md)
+* [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1490.md)
+* [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3366.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3452.md)
+* [Surveillance and personal data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
+* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3601.md)
+* [Personal protective equipment ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2120.md)
 
 ## Scale of the of the blueprint
 

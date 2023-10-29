@@ -47,15 +47,15 @@ Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Trans
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
-* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1057.md)
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_738.md)
-* [Improved air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1600.md)
-* [Capacity limitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1601.md)
-* [Redesigning urban spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1602.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1381.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4051.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3760.md)
+* [Improved air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4550.md)
+* [Capacity limitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4551.md)
+* [Redesigning urban spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4552.md)
 
 ## This article mentions these technologies
 

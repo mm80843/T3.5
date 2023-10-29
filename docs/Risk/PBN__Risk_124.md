@@ -45,7 +45,7 @@ Outbreaks can have significant economic consequences, including losses in touris
 
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
 * [Improve cashflow management, seek financial assistance and government support, renegotiate contracts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1789.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
 * [Financial interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1013.md)
 * [Implement proactive measures to control outbreak spread and minimize economic disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1508.md)
 * [Develop cost-effective solutions, provide financial incentives, and promote collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2781.md)

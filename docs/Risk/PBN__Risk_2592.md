@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_553.md)
+* [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3601.md)
 

@@ -19,7 +19,11 @@
 * [Lack of running water and inadequate water storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_470.md)
 * [Water demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_716.md)
 
+## Blueprints with this risk
+
+* [Drinking water safety - restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
+
 ## Mitigations of this risk
 
-* [Construction dewatering strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1439.md)
+* [Construction dewatering strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4403.md)
 

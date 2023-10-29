@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3163 
 
-# __Internet of things iot devices__
+# __Sentinel surveillance__
 
 ## Category to which it belongs
 
-* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_431.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1956.md)
-* [Internet of things iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3164.md)
-* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3166.md)
-* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3165.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1535.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3169.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3167.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3080.md)
-* [Purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2883.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_161.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_162.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_167.md)
+* [Mass surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_200.md)
+* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_163.md)
+* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_164.md)
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_158.md)
+* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_165.md)
+* [Enhanced surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1211.md)
+* [Mass video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_160.md)
 

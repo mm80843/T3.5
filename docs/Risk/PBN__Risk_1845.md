@@ -66,8 +66,8 @@ Economic losses, delays in construction projects, job losses.
 ## Technologies linked to the risk
 
 * [Collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1130.md)
-* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1231.md)
 * [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1231.md)
 
 ## Property: has_RiskType
 

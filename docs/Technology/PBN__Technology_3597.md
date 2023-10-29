@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2236.md)
-* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2237.md)
+* [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5114.md)
+* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5115.md)
 

@@ -21,12 +21,12 @@
 
 ## Mitigations of this risk
 
-* [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1132.md)
-* [Inclusive urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1134.md)
-* [Pocket spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1141.md)
-* [Compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1129.md)
-* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
-* [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
-* [Non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1133.md)
-* [Urban farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
+* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_36.md)
+* [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1434.md)
+* [Compact design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4116.md)
+* [Urban farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4117.md)
+* [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4118.md)
+* [Non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4119.md)
+* [Inclusive urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4120.md)
+* [Pocket spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4126.md)
 

@@ -13,9 +13,9 @@
 * [Improve project management and supervision, provide proper training to workforce, implement quality control measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1941.md)
 * [Providing resources and support, clear communication of guidelines, ensuring access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2964.md)
 * [Implement safety protocols, provide protective equipment, increase training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1529.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3141.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3272.md)
 * [Clear communication, education about the importance of compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2492.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3140.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3804.md)
 * [Promote collaboration and communication between different sectors; develop integrated command and control centers and observatories](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2693.md)
 * [Improve communication channels, provide clear and consistent information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2688.md)
 

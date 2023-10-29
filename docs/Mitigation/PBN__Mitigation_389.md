@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_389 
 
-# __Trust in utilities__
+# __Design buildings with access to green spaces, views of nature, and incorporate biophilic design elements__
 
 ## Category to which it belongs
 
-* [Implement comprehensive measures to address and mitigate risks, ensure public safety, and promote preventive behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
+* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [Trust and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_100.md)
-* [Trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1738.md)
-* [Reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3124.md)
-* [Trust in official governmental media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1426.md)
-* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1989.md)
-* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3117.md)
-* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2819.md)
-* [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_691.md)
-* [Robustness of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2109.md)
-* [Enhancing citizen confidence in water services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1594.md)
-
-## Property: has_MitigationPrinciple
-
-Influence adoption intention through trust in utility companies
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1919.md)
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3448.md)
+* [Design apartments with views of the sky and natural elements, incorporate green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3877.md)
+* [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_815.md)
+* [Green and sustainable design practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1955.md)
+* [Design spaces that prioritize natural light and ventilation, incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_390.md)
+* [Sustainable building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3451.md)
+* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_388.md)
+* [Incorporate outdoor spaces in building design and provide access to communal gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_8.md)
+* [Designing with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_391.md)
 

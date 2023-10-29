@@ -11,7 +11,7 @@
 * [Develop platforms for real-time data collection and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2850.md)
 * [Epidemiological research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_986.md)
 * [Monitoring and surveillance of disease transmission patterns, public awareness and education, vector control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2678.md)
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3118.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5280.md)
 * [Develop tools and platforms for easy access to data from multiple sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3069.md)
 * [Collect more data from countries at earlier stages of the epidemic; account for potential differences in intervention impacts across countries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1891.md)
 * [Capture and report additional contextual factors , pandemic-related policies, restrictions, social and economic impacts during data collection and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1880.md)

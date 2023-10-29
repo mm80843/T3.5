@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Online data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2377.md)
-* [Online questionnaire survey](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2137.md)
+* [Online data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5243.md)
+* [Online questionnaire survey](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5019.md)
 

@@ -2,6 +2,10 @@
 
 # __Improved remote work capabilities__
 
+## Link between Blueprint and General ontology
+
+* [Support recovery of sectors via remote work](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_33.md)
+
 ## Category to which it belongs
 
 * [Enabling remote work and education through flexible arrangements, digital tools, telemedicine, and support resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_485.md)

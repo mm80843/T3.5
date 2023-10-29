@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
+* [Smaller and individual internal layouts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3481.md)
 

@@ -23,7 +23,22 @@
 
 * [Establishing trust as a reference center](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_543.md)
 
+## Property: has_MitigationPrinciple
+
+KT platforms should actively demonstrate their value, maintain objectivity, and ensure transparency to establish trust and credibility during a crisis.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of credibility as a source of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_400.md)
+* [Lack of credibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2620.md)
+
+## Property: has_MitigationSource
+
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Trust](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
+* [Responsiveness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2573.md)
+* [Transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1925.md)
 

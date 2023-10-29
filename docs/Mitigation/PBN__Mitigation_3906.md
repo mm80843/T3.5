@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3906 
 
-# __Increase decontamination efforts, assign individual patrol cars__
+# __Closure of secondary public places__
 
 ## Category to which it belongs
 
-* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
+* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Decontamination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1984.md)
-* [Maintenance and decontamination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2592.md)
-* [Patrol separately](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1985.md)
-* [Decontamination and sterilization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1189.md)
-* [Increase production and distribution of personal protective equipment, stockpile reserves for emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4091.md)
-* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3955.md)
-* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3387.md)
-* [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_110.md)
-* [Improved sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1111.md)
-* [Mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3659.md)
+* [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3907.md)
+* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_327.md)
+* [Temporary closure of non-essential public places until recovery is reached.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3715.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1005.md)
+* [Closure of small businesses, restaurants, cinemas, theatres, bars, pubs, and clubs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3285.md)
+* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3419.md)
+* [Closure of entertainment venues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3284.md)
+* [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_323.md)
+* [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3756.md)
+* [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
 

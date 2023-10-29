@@ -19,6 +19,11 @@
 * [High infection rate via contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_657.md)
 * [Contaminated hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2471.md)
 
+## Blueprints with this risk
+
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
+* [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
+
 ## Description of the risk
 
 High rates of virus on computer mice, trash cans, handrails, doorknobs

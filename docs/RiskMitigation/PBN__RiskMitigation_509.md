@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3186.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5342.md)
 * [Increase healthcare capacity, allocate resources effectively](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2941.md)
 * [Develop comprehensive plans, allocate resources effectively](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1454.md)
 * [Balanced allocation of pois](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_22.md)

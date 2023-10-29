@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4135 
 
-# __Train and certify more uv technicians__
+# __Develop and utilize digital contact tracing tools, emphasize privacy and security of data__
 
 ## Category to which it belongs
 
-* [Utilize uv radiation for germicidal purposes, including upper-room fixtures, aerosol chambers, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
+* [Utilize technology to track, trace, and monitor contacts for effective and secure contact tracing and testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
 
 ## Closest similar item
 
-* [Ensure proper use and maintenance of uvgi systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4057.md)
-* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
-* [More research on uv susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4062.md)
-* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3246.md)
-* [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4055.md)
-* [Lack of standardized tests and protocols for uvgi efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4056.md)
-* [Uv-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1269.md)
-* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1754.md)
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_223.md)
-* [Ensure proper installation and maintenance of uvgi systems, provide protective clothing and eyewear for service personnel and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4058.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_74.md)
+* [Digital contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_154.md)
+* [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_72.md)
+* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_169.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_66.md)
+* [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_204.md)
+* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_69.md)
+* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_71.md)
+* [Contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_73.md)
+* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_68.md)
 

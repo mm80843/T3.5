@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_294.md)
+* [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3370.md)
 

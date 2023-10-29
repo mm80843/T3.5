@@ -2,6 +2,11 @@
 
 # __Promoting trust and countering misinformation__
 
+## Link between Blueprint and General ontology
+
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_36.md)
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_39.md)
+
 ## Category to which it belongs
 
 * [Promote reliable, transparent information through fact-checking, verified sources, and education to combat misinformation and improve decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_481.md)
@@ -23,7 +28,19 @@
 
 * [Providing trustworthy evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_539.md)
 
+## Property: has_MitigationPrinciple
+
+KT platforms can serve as a credible hub that provides trustworthy evidence to inform policy-makers, stakeholders, and citizens during a crisis.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_396.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
+
+## Property: has_MitigationSource
+
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## This Mitigation is enabled by the following technologies
+
 

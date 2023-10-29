@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_409.md)
+* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3476.md)
 

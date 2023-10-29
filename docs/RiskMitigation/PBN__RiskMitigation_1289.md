@@ -16,7 +16,7 @@
 * [Design buildings with access to green spaces, views of nature, and incorporate biophilic design elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2569.md)
 * [Adaptive design of built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_753.md)
 * [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
-* [Sustainability and environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3172.md)
+* [Sustainability and environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5328.md)
 * [Sustainable design of courtyards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_914.md)
 
 ## Benefits linked to a risk

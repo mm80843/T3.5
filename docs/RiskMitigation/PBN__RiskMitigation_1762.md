@@ -13,7 +13,7 @@
 * [Increase public awareness through educational campaigns, provide reliable and accessible information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3088.md)
 * [Public awareness campaigns, educational materials, and access to reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2352.md)
 * [Providing accurate information through reliable sources, fact-checking, education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2330.md)
-* [Information and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3234.md)
+* [Information and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5384.md)
 * [Promotion of accurate information, fact-checking, and education campaigns on reliable sources of information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2775.md)
 * [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_867.md)
 * [Promoting accurate information from reliable sources, fact-checking, and public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1461.md)

@@ -19,7 +19,11 @@
 * [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1539.md)
 * [Spread of infection in the workplace](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3349.md)
 
+## Blueprints with this risk
+
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
+
 ## Mitigations of this risk
 
-* [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_174.md)
+* [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3270.md)
 

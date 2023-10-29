@@ -1,4 +1,23 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3418 
 
+<<<<<<< HEAD
 # __Hand hygiene guidance__
+=======
+# __Mandatory mask usage__
+
+## Property: has_MitigationPrinciple
+
+Requiring the use of masks to reduce droplet transmission
+
+## Risks possibly mitigated by this Mitigation
+
+* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
+
+## Property: has_MitigationSource
+
+* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
+
+## This Mitigation is enabled by the following technologies
+
+>>>>>>> 2568c185a4645acd80bd8efc79e88e1dab23d2d8
 

@@ -19,6 +19,10 @@
 * [Contagious disease outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_641.md)
 * [Inefficient early detection of covid-19 infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
 
+## Blueprints with this risk
+
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+
 ## Mitigations of this risk
 
 * [Use of blockchain for reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1169.md)

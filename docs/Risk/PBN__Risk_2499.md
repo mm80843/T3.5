@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Price reduction and availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_331.md)
+* [Price reduction and availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3405.md)
 

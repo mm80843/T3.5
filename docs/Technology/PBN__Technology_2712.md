@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Phosphate buffered saline pbs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_831.md)
+* [Phosphate buffered saline pbs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3845.md)
 

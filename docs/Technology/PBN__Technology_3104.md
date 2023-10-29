@@ -2,6 +2,14 @@
 
 # __Digital infrastructure__
 
+## Link between Blueprint and General ontology
+
+* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_55.md)
+* [Digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_56.md)
+* [Expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_57.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_58.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_59.md)
+
 ## Category to which it belongs
 
 * [The built environment for green, digital, healthcare, transportation, and technological needs with reliable and scalable features.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Support for children’s education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1467.md)
+* [Support for children’s education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4425.md)
 

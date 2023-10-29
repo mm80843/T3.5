@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_395 
 
-# __Gender__
+# __Biological structures__
 
 ## Category to which it belongs
 
-* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Social and gender disparities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2632.md)
-* [Demographics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_390.md)
-* [Age](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_394.md)
-* [Inclusion of young people and women](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1763.md)
-* [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2510.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3132.md)
-* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2511.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1664.md)
-* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1958.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2515.md)
-
-## Property: has_MitigationPrinciple
-
-Influence adoption intention and willingness to pay based on gender
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1285.md)
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_387.md)
+* [Lightweight structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2153.md)
+* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_985.md)
+* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2056.md)
+* [Enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2155.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2342.md)
+* [Architecture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2663.md)
+* [Sensory networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3472.md)
+* [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_991.md)
 

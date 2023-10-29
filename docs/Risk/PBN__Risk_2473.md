@@ -21,14 +21,14 @@
 
 ## Mitigations of this risk
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
-* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1237.md)
-* [Zoning and staggered work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1683.md)
-* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1246.md)
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1639.md)
-* [Uncrowded spacing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_216.md)
-* [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1245.md)
-* [Physical barriers , plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1682.md)
-* [Teleconferencing and virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1684.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3284.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1062.md)
+* [Uncrowded spacing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3307.md)
+* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4220.md)
+* [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4228.md)
+* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4229.md)
+* [Physical barriers , plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4623.md)
+* [Zoning and staggered work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4624.md)
+* [Teleconferencing and virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4625.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2196.md)
+* [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5075.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Enhanced coordination and cooperation among institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1049.md)
+* [Enhanced coordination and cooperation among institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4044.md)
 

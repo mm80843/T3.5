@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Extending basic services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2314.md)
+* [Extending basic services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5187.md)
 

@@ -1,21 +1,19 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3264 
 
-# __Greenery__
+# __Face masks with integrated sensors__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Promote forest conservation, sustainable land use, and equitable access to urban green spaces for a greener and healthier environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_483.md)
+Continuous monitoring of important parameters via exhaled breath for the detection of respiratory diseases like COVID-19
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_220.md)
-* [Green and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_347.md)
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3226.md)
-* [Green plants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1349.md)
-* [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2864.md)
-* [Urban greening technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3180.md)
-* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_747.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3188.md)
-* [Open green spaces in urban periphery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1230.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3155.md)
+
+## Property: has_MitigationSource
+
+* [Wearable devices for the detection of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_296.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
 

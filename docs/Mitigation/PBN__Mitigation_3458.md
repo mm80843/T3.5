@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3458 
 
-# __Implementing flexible and adaptable design__
+# __Maintain physical distancing, use of personal protective equipment__
 
 ## Category to which it belongs
 
-* [Design spaces that are adaptable, flexible, and can be transformed to accommodate a variety of functions and needs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
+* [Proactive implementation of safety protocols, including the provision of personal protective equipment, to ensure protection and minimize risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_181.md)
 
 ## Closest similar item
 
-* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_764.md)
-* [Flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2835.md)
-* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
-* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3443.md)
-* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3683.md)
-* [Flexibility and adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_999.md)
-* [Adaptability and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1001.md)
-* [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3585.md)
-* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3457.md)
-* [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_472.md)
+* [Adherence to physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_464.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_462.md)
+* [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_466.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
+* [Enforce strict physical distancing measures and educate people on the importance of maintaining distance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2882.md)
+* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_461.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_485.md)
+* [Safe distancing measures in offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3670.md)
+* [Implementing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_489.md)
+* [Physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_460.md)
 

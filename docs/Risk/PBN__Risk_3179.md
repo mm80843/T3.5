@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Virtual assessments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1666.md)
+* [Virtual assessments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4608.md)
 

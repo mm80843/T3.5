@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Regular maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1381.md)
+* [Regular maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4346.md)
 

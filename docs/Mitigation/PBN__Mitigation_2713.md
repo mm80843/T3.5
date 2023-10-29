@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2713 
 
-# __Environmental-friendly personal protective equipment__
+# __Community-centered care__
 
 ## Category to which it belongs
 
-* [Proactive implementation of safety protocols, including the provision of personal protective equipment, to ensure protection and minimize risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_181.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_524.md)
-* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_190.md)
-* [Providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1792.md)
-* [Using appropriate protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2711.md)
-* [Implementing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2608.md)
-* [Use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2714.md)
-* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2712.md)
-* [Personal protective equipment ppe use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
-* [Distribution of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1914.md)
-* [Smart personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2708.md)
+* [Person-centered integrated care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3015.md)
+* [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2712.md)
+* [Effective community health extension system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
+* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1672.md)
+* [Health education and community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3016.md)
+* [Community action](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1667.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3017.md)
+* [Nursing home visiting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2711.md)
+* [Designating community-level areas for essential services and supplies.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3018.md)
 

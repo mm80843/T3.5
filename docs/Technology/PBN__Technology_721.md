@@ -2,6 +2,10 @@
 
 # __Light sensors__
 
+## Link between Blueprint and General ontology
+
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
+
 ## Category to which it belongs
 
 * [A wide array of advanced technologies that detect and measure various environmental factors and human activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)

@@ -2,6 +2,11 @@
 
 # __Social robots__
 
+## Link between Blueprint and General ontology
+
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_14.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_154.md)
+
 ## Category to which it belongs
 
 * [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)

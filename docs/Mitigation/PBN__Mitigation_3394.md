@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3394 
 
-# __Access to outdoor spaces__
+# __Engineering controls__
 
 ## Category to which it belongs
 
-* [Enhancing accessibility and variety of green spaces while promoting integration of nature in urban environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
+* [Design spaces that are adaptable, flexible, and can be transformed to accommodate a variety of functions and needs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
 
 ## Closest similar item
 
-* [Outdoor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_760.md)
-* [Use of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1428.md)
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
-* [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2783.md)
-* [Availability of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2785.md)
-* [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_987.md)
-* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2804.md)
-* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_69.md)
-* [Outdoor design and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1685.md)
-* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2060.md)
+* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3748.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3985.md)
+* [Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1651.md)
+* [Implementing administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3798.md)
+* [Implement engineering and administrative controls, provide ppe.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3495.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2296.md)
+* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1649.md)
+* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2755.md)
+* [Evaluating control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2150.md)
+* [Vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3545.md)
 

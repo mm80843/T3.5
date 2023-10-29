@@ -21,7 +21,7 @@
 
 ## Mitigations of this risk
 
-* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
-* [Isolation of suspected or confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1299.md)
-* [Quarantine of persons in contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1300.md)
+* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3580.md)
+* [Isolation of suspected or confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4270.md)
+* [Quarantine of persons in contact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4271.md)
 

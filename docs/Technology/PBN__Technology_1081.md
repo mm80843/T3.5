@@ -2,6 +2,10 @@
 
 # __Collaborative networks__
 
+## Link between Blueprint and General ontology
+
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
+
 ## Category to which it belongs
 
 * [Enhancing digital connectivity through internet-based communication, networking platforms, and wireless data transmission for efficient collaboration and reliable connectivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)

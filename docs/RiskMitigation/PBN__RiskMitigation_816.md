@@ -11,7 +11,7 @@
 * [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_62.md)
 * [Behavior change interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_869.md)
 * [Conduct controlled experiments, consider confounding factors in analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1707.md)
-* [Modification of occupants’ behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3131.md)
+* [Modification of occupants’ behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5293.md)
 * [Buying behavior monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1411.md)
 * [Attitude change interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_868.md)
 * [Implement social lockdown, promote hygiene practices, develop strategies for testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2453.md)

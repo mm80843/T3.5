@@ -40,24 +40,24 @@ Mitigation strategies and compliance in the COVID-19 fight; how much compliance 
 
 ## This article points to following mitigation
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
-* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
-* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
-* [Washing hands](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1340.md)
-* [Restrictions on gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
-* [School and workplace closings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1342.md)
-* [Restricted travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1343.md)
-* [Nursing home visiting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1344.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3284.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3873.md)
+* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3759.md)
+* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4212.md)
+* [Washing hands](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4308.md)
+* [Restrictions on gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4309.md)
+* [School and workplace closings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4310.md)
+* [Restricted travel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4311.md)
+* [Nursing home visiting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4312.md)
 
 ## This article mentions these technologies
 
 * [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_402.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
 * [Testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_905.md)
 * [Enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1148.md)
 * [Reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1151.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
 * [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
 * [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
 * [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1150.md)

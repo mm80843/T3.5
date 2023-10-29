@@ -2,6 +2,14 @@
 
 # __Environmental sensors__
 
+## Link between Blueprint and General ontology
+
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_119.md)
+* [Air pollution sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_120.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_117.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_114.md)
+
 ## Category to which it belongs
 
 * [A wide array of advanced technologies that detect and measure various environmental factors and human activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Monitoring environmental indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_892.md)
+* [Monitoring environmental indicators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3899.md)
 

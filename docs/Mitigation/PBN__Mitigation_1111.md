@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1111 
 
-# __Improved sanitation__
+# __Precision medicine__
 
 ## Category to which it belongs
 
-* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
+* [Improving healthcare access, enhancing facilities, and strengthening healthcare systems for effective management and optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
-* [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3209.md)
-* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1614.md)
-* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1244.md)
-* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2292.md)
-* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
-* [Enhanced cleanliness and sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3891.md)
-* [Enhanced cleaning and sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3183.md)
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2085.md)
-* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3211.md)
-* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2858.md)
-
-## Property: has_MitigationPrinciple
-
-Reduces potential for faecal-oral transmission
-
-## Risks possibly mitigated by this Mitigation
-
-* [Poor sanitation areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2898.md)
-
-## Property: has_MitigationSource
-
-* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Medicine 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3351.md)
+* [Quick and accurate disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1167.md)
+* [Therapeutic drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_845.md)
+* [Biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1146.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1162.md)
+* [Drug therapies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_850.md)
+* [Clinical data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1254.md)
+* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2639.md)
+* [Medical technological development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2640.md)
+* [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3041.md)
 

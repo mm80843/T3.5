@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Development pathways synchronized to the ndcs of the paris accord or the findings of the ipcc](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1930.md)
+* [Development pathways synchronized to the ndcs of the paris accord or the findings of the ipcc](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4852.md)
 

@@ -13,7 +13,7 @@
 * [Optimize occupant presence schedules, improve energy efficiency of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2336.md)
 * [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
 * [Develop models that integrate crowd dynamics with epidemiological modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2618.md)
-* [Modification of occupants’ behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3131.md)
+* [Modification of occupants’ behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5293.md)
 * [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2023.md)
 * [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
 * [Reduce occupancy rates, enforce physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1966.md)

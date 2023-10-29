@@ -2,6 +2,10 @@
 
 # __Cancellation of educational activities__
 
+## Link between Blueprint and General ontology
+
+* [Activities continuity](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_8.md)
+
 ## Category to which it belongs
 
 * [The ramifications of a global crisis include disrupted education, reduced socialization, resistance to change, misinterpretation, inconsistent implementation, and increased poverty.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)

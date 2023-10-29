@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Economic support and aid](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1061.md)
-* [Remote work and online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1060.md)
+* [Remote work and online education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4054.md)
+* [Economic support and aid](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4055.md)
 

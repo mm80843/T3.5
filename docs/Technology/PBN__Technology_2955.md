@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
-* [Installing extra hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1842.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
+* [Installing extra hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4776.md)
 

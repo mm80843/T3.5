@@ -1,21 +1,24 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3277 
 
-# __Antimicrobial coatings for surfaces__
+# __Water quality management__
 
-## Category to which it belongs
+## Link between Blueprint and General ontology
 
-* [Implement thorough and regular disinfection practices, along with the use of antimicrobial coatings and materials to minimize surface contamination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_494.md)
+* [Greywater management](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_11.md)
 
-## Closest similar item
+## Property: has_MitigationPrinciple
 
-* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3278.md)
-* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_574.md)
-* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3279.md)
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1350.md)
-* [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2032.md)
-* [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3280.md)
-* [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_917.md)
-* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1189.md)
-* [Application of antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_921.md)
-* [Disinfection of surfaces and development of antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1576.md)
+Implementing measures to ensure clean and safe water supply, preventing water-related diseases and health risks.
+
+## Risks possibly mitigated by this Mitigation
+
+* [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
+
+## Property: has_MitigationSource
+
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1843.md)
 

@@ -21,17 +21,30 @@ A high level of hand hygiene is a well-known and proven measure to prevent the t
 
 ## Enablers of the blueprint
 
-* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_31.md)
-* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
 * [Telemedecine](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_17.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_31.md)
 
 ## Interventions of the blueprint
 
 * [Personal hygiene (eg handwashing)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_21.md)
-* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_22.md)
 * [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_38.md)
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_22.md)
+
+## Possible mitigations of the BP
+
+* [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_571.md)
+* [Performing hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1266.md)
+* [Ensuring the availability of hand hygiene facilities handwashing stations or sanitizer dispensers , regular cleaning and disinfection of surfaces, and proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2232.md)
+* [Promoting hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4087.md)
+* [Regular hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3807.md)
+* [Implement hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3959.md)
+* [Hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3020.md)
+* [Hand hygiene guidance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5448.md)
+* [Hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5449.md)
+* [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3729.md)
 
 ## Type of deployment of the blueprint
 
@@ -52,6 +65,19 @@ Good hand hygiene has long been fundamental to patient safety in hospitals and i
 ## Restrictions of the blueprint
 
 Changing user behaviour can be challenging, but once a positive behaviour is established, it is easier to maintain. During the COVID-19 pandemic, shortages of hand sanitizers occurred regularly due to rapidly increasing demand. In addition, frequent use of soap or hand sanitizers may cause dry and irritated skin.
+
+## Possible risks of the BP
+
+* [Limited access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_227.md)
+* [Compliance with hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1540.md)
+* [Inadequate hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
+* [Inadequate hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1626.md)
+* [Poor hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2932.md)
+* [Lack of proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3151.md)
+* [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2024.md)
+* [Inadequate hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1289.md)
+* [Inadequate cleaning and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3139.md)
+* [Hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3365.md)
 
 ## Scale of the of the blueprint
 

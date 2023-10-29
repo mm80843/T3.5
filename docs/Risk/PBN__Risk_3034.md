@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Limiting product range](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1415.md)
+* [Limiting product range](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4379.md)
 

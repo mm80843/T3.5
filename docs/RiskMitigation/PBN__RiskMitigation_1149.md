@@ -23,7 +23,20 @@
 
 * [Communication between public and government](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1147.md)
 
+## Property: has_MitigationPrinciple
+
+Precise positioning of hotspots, pinpointing risky areas, and enabling effective communication between the public and government for prevention and disease spread control.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Geographical spread of virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_844.md)
+
+## Property: has_MitigationSource
+
+* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
+* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2690.md)
 

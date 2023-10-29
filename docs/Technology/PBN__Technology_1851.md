@@ -33,7 +33,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1686.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4627.md)
 
 ## Risks linked to this technology
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Diversify income sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2026.md)
+* [Diversify income sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4936.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1883.md)
+* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_27.md)
 

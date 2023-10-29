@@ -14,9 +14,9 @@
 * [Implement strict measures and screening at airports, enforce travel restrictions when necessary](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1950.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
 * [Implement travel restrictions, quarantine measures, and health screenings for individuals moving between cities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2196.md)
-* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3189.md)
+* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5345.md)
 * [Implement travel restrictions and controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2845.md)
-* [Travel regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3286.md)
+* [Travel regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5429.md)
 * [Travel restrictions and border control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_437.md)
 
 ## Risks possibly mitigated by this Mitigation

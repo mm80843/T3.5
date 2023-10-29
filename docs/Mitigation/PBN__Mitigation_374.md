@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_374 
 
-# __Two-way communication__
+# __Improved health care facilities__
 
 ## Category to which it belongs
 
-* [Effective, transparent, and targeted communication strategies are crucial for global coordination, cooperation, and risk prevention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
+* [Improving healthcare access, enhancing facilities, and strengthening healthcare systems for effective management and optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1036.md)
-* [One-way systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_874.md)
-* [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_853.md)
-* [Implement effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3081.md)
-* [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2895.md)
-* [Clear and transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_507.md)
-* [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_667.md)
-* [Face to face communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2147.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_314.md)
-* [Communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3082.md)
-
-## Property: has_MitigationPrinciple
-
-Enable communication between energy providers and end-users
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
+* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_372.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_373.md)
+* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
+* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1424.md)
+* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
+* [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_377.md)
+* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1425.md)
+* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
+* [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_379.md)
 

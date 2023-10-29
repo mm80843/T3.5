@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2303 
 
-# __Data dashboards__
+# __Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design__
 
 ## Category to which it belongs
 
-* [Promote seamless data sharing, real-time analysis, and collaboration through standardized protocols and integrated platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
+* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
-* [Online dashboard for wbe data communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_746.md)
-* [Real-time data sharing through dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1355.md)
-* [Web platform for data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_683.md)
-* [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_896.md)
-* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2764.md)
-* [Data integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_895.md)
-* [Analysis visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1077.md)
-* [Visualization tool](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2156.md)
-* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
-* [Visualization and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_377.md)
-
-## Property: has_MitigationPrinciple
-
-Visual display of disease burden and infection trends across different variables
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Upcode](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
-* [Johns hopkins university coronavirus dashboard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3641.md)
-* [Healthmap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3642.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_824.md)
+* [Urban planning and design policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
+* [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_819.md)
+* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2302.md)
+* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2301.md)
+* [Rethinking of density in cities and urban layouts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_363.md)
+* [Enhanced urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2304.md)
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2028.md)
+* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1939.md)
+* [Redesigning urban spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1940.md)
 

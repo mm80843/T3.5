@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_903 
 
-# __Wearing gowns__
+# __Social support and connection__
 
 ## Category to which it belongs
 
-* [Promoting the wearing of masks and implementing measures to reduce face-to-face contact for risk reduction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
+* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_244.md)
-* [Cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2538.md)
-* [Wearing of masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1209.md)
-* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
-* [Wearing facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_820.md)
-* [Mask wearing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_800.md)
-* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
-* [Wearing gloves](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_902.md)
-* [Surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2663.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2537.md)
-
-## Property: has_MitigationPrinciple
-
-Wearing gowns can protect individuals from direct contact with contaminated surfaces and reduce transmission.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2772.md)
-
-## Property: has_MitigationSource
-
-* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Gowns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
+* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_19.md)
+* [Promoting social connections, providing psychosocial support, mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1021.md)
+* [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_17.md)
+* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_13.md)
+* [Strengthen psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_14.md)
+* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_15.md)
+* [Creating mechanisms for psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1022.md)
+* [Mental health support services, community connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1023.md)
+* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1024.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
 

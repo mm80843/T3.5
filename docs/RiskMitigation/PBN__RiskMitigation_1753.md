@@ -19,6 +19,10 @@
 * [Quarantine for high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_93.md)
 * [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_976.md)
 
+## Blueprints with this mitigation
+
+* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)

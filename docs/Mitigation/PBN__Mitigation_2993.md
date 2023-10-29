@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2993 
 
-# __Provide stable housing options, create affordable housing programs.__
+# __Modernizing open-plan offices__
 
 ## Category to which it belongs
 
@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Affordable housing with resilient building typologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2363.md)
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1088.md)
-* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1458.md)
-* [Building and housing reform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1251.md)
-* [Provide financial assistance programs, energy efficiency upgrades, and education on energy-saving practices for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3750.md)
-* [Ensure adequate food production, import, storage, and transportation, prioritize vulnerable families, establish neighborhood food markets.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3855.md)
-* [Implement eviction moratoria, provide rental assistance, and support eviction prevention programs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3923.md)
-* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_94.md)
-* [Implement eviction moratoria, provide rental assistance, establish eviction diversion programs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3924.md)
-* [Implement financial support programs and resources for individuals and businesses; promote job creation and stability; provide financial education and counseling.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2831.md)
+* [Home offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2246.md)
+* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2994.md)
+* [Redesigning urban spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1940.md)
+* [Open government projects and open data initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2995.md)
+* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2312.md)
+* [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2929.md)
+* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2274.md)
+* [Improving office productivity and lowering overhead costs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2996.md)
+* [Implement flexible scheduling and occupancy measures, redistribute resources as needed.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2509.md)
+* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2987.md)
 

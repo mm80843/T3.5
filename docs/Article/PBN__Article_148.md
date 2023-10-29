@@ -40,14 +40,14 @@ Responsible Transport: A post-COVID agenda for transport policy and practice
 
 ## This article points to following mitigation
 
-* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_306.md)
-* [Active travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_307.md)
-* [Pop-up bike lanes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_308.md)
-* [Pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_309.md)
-* [Contactless door sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
-* [Hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_311.md)
-* [Clear screens between seats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_312.md)
-* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_313.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_832.md)
+* [Active travel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3382.md)
+* [Pop-up bike lanes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3383.md)
+* [Pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3384.md)
+* [Contactless door sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3385.md)
+* [Hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3386.md)
+* [Clear screens between seats](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3387.md)
+* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3388.md)
 
 ## This article mentions these technologies
 

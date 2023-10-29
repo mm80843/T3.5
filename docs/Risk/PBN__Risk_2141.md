@@ -64,9 +64,9 @@ Resurgence of malaria transmission, increased number of malaria cases
 
 ## Technologies linked to the risk
 
+* [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1683.md)
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
-* [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1683.md)
 
 ## Property: has_RiskType
 

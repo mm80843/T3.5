@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Herd immunity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_36.md)
+* [Herd immunity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3150.md)
 

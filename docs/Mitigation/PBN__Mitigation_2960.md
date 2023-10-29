@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2960 
 
-# __Implementation of quarantine measures, social distancing, and isolation of confirmed cases__
+# __Outdoor space design__
 
 ## Category to which it belongs
 
-* [Imposing segregation and restrictions to prevent the spread of disease, including home isolation, monitoring, and mandatory measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_161.md)
+* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
-* [Quarantine and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3418.md)
-* [Implement social distancing measures, case isolation, and home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4063.md)
-* [Quarantine/isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_263.md)
-* [Quarantine and self-isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2605.md)
-* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_453.md)
-* [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2157.md)
-* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
-* [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2179.md)
-* [Compliance of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1877.md)
+* [Outdoor design and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_921.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
+* [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_918.md)
+* [Use of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_920.md)
+* [Designing outdoor areas or balconies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3866.md)
+* [Livable outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_963.md)
+* [Availability of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_922.md)
+* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2987.md)
+* [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2494.md)
+* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_964.md)
 

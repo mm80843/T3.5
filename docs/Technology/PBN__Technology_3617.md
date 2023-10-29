@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Disinfection of indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2259.md)
+* [Disinfection of indoor air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5136.md)
 

@@ -2,6 +2,14 @@
 
 # __Data analytics and modeling__
 
+## Link between Blueprint and General ontology
+
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
+* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_69.md)
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_70.md)
+* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_72.md)
+* [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_74.md)
+
 ## Category to which it belongs
 
 * [Efficient use of data analysis and modeling techniques to analyze various types of data for targeted insights.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)

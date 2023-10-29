@@ -28,10 +28,10 @@ Biophilic design in architecture and its contributions to health, well-being, an
 
 ## This article points to following mitigation
 
-* [Pattern incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
-* [Nature interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2411.md)
-* [Designing with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2414.md)
-* [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2409.md)
-* [Outdoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2412.md)
-* [Indoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2413.md)
+* [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5274.md)
+* [Pattern incorporation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5275.md)
+* [Nature interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5276.md)
+* [Outdoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5277.md)
+* [Indoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5278.md)
+* [Designing with nature](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5279.md)
 

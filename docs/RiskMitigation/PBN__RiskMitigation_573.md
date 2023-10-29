@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3249.md)
+* [Established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5399.md)
 * [Mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_841.md)
 * [Semi-mechanistic bayesian hierarchical model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_824.md)
 * [Explore the use of established ontological models such as eq or rea to fill the gap.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2544.md)
@@ -16,7 +16,7 @@
 * [Develop and enhance tools to automate ontology models and applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1477.md)
 * [Ai-based social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1433.md)
 * [Ontological reasoning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_842.md)
-* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3243.md)
+* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5393.md)
 * [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_53.md)
 
 ## Benefits linked to a risk

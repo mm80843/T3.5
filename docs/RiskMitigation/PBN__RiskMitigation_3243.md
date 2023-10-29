@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3243 
 
-# __Ontology-based approaches__
+# __Isolation space design__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Facilitating knowledge sharing through funding research efforts, developing ontologies, enhancing collaboration, and automating ontology models for data integration and standardization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_480.md)
+Including isolation spaces in building design allows for safe and separate living quarters during contagious disease outbreaks.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Ontology-based systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_840.md)
-* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_53.md)
-* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3244.md)
-* [Existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3242.md)
-* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3247.md)
-* [Ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3246.md)
-* [Established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3249.md)
-* [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3248.md)
-* [Ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3245.md)
-* [Develop and enhance tools to automate ontology models and applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1477.md)
+* [Disease containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2433.md)
+
+## Property: has_MitigationSource
+
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Modular spacing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2222.md)
+* [Movable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2223.md)
 

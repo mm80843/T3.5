@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Testing for the virus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_876.md)
+* [Testing for the virus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3884.md)
 

@@ -43,8 +43,8 @@ Insufficient readiness and planning for contagious disease outbreaks can lead to
 
 * [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_693.md)
 * [Developing robust healthcare systems, stockpiling medical supplies, conducting regular drills and simulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1462.md)
-* [Resilience building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1000.md)
-* [Pandemic preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2294.md)
+* [Resilience building](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3999.md)
+* [Pandemic preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5169.md)
 
 ## Name of the risk
 

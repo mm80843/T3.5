@@ -21,13 +21,13 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
+* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
 * [Smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
 * [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1708.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
 * [Remote monitoring and management of resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_14.md)
 * [Smart thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1252.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [Internet of things iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1133.md)
 * [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
 * [Purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1585.md)

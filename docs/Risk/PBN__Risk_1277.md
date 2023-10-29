@@ -41,10 +41,10 @@ Insufficient understanding of COVID-19 transmission, prevention, and control mea
 
 ## Mitigations of this risk
 
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_176.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3272.md)
 * [Disseminating accurate and up-to-date information, providing education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1762.md)
-* [Proper training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1630.md)
-* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_587.md)
+* [Proper training and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4580.md)
+* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3630.md)
 
 ## Name of the risk
 

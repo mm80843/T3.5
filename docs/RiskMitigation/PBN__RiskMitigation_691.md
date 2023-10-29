@@ -23,7 +23,21 @@
 
 * [Reducing environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_697.md)
 
+## Property: has_MitigationPrinciple
+
+Improve urban design and planning to reduce environmental pollution, ensure equitable distribution of environmental resources, regulate pollutants and vectors, preserve biodiversity and natural habitats
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2129.md)
 * [Stresses exacerbating disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_490.md)
+
+## Property: has_MitigationSource
+
+* [Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_137.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Sustainable site design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3416.md)
+* [Regional planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3417.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Digital care processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1670.md)
+* [Digital care processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4612.md)
 

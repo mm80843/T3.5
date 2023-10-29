@@ -14,7 +14,7 @@
 * [Implement strong data protection measures, ensure transparency and consent, use decentralized and secure systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2272.md)
 * [Implement robust security measures, use encryption and anonymization techniques, obtain informed consent from users, comply with data protection regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2571.md)
 * [Implement strong data protection measures, obtain consent, and ensure data anonymity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2776.md)
-* [Implement robust cybersecurity measures, such as encryption and secure data storage, to protect residents’ personal information. raise awareness about online safety and privacy protection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3212.md)
+* [Implement robust cybersecurity measures, such as encryption and secure data storage, to protect residents’ personal information. raise awareness about online safety and privacy protection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5364.md)
 * [Implementation of strict security measures, encryption, anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2356.md)
 * [Ensure anonymization of data, implement secure data-sharing protocols, and prioritize privacy and security.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1509.md)
 

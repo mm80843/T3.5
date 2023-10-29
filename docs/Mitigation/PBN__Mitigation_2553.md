@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2553 
 
-# __Implement strict measures and screening at airports, enforce travel restrictions when necessary__
+# __Tracing and tracking of infected individuals__
 
 ## Category to which it belongs
 
-* [Implementing travel restrictions, optimizing transport, active travel, and improving public transportation to address mobility limitations and ensure safe and accessible transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
+* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Imposing travel restrictions, implementing comprehensive screening and testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3545.md)
-* [Implementing travel restrictions, screening protocols, and quarantine measures for travelers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3390.md)
-* [Implement travel restrictions and controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2463.md)
-* [Travel restrictions and border control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2462.md)
-* [Travel restrictions, testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2468.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
-* [Travel restrictions, isolation, testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2467.md)
-* [Travel regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2465.md)
-* [Restricted travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1343.md)
-* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2466.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2374.md)
+* [Smart tracking of infected persons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2552.md)
+* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2441.md)
+* [Remote monitoring of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2550.md)
+* [Outbreak tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_79.md)
+* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_836.md)
+* [Isolation of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2414.md)
+* [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_204.md)
+* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2559.md)
+* [Tracking medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2554.md)
 

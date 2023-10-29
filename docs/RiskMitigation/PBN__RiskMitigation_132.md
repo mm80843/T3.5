@@ -8,13 +8,13 @@
 
 ## Closest similar item
 
-* [Community support programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3227.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3228.md)
+* [Community support programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5377.md)
+* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5378.md)
 * [Strengthening local support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1121.md)
 * [Support local economies and livelihoods, promote sustainable alternative income-generating activities, and engage local communities in conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1781.md)
 * [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_662.md)
-* [Community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3229.md)
-* [Targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3230.md)
+* [Community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5379.md)
+* [Targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5380.md)
 * [Emphasize community-level design, develop green spaces and local amenities, promote accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1736.md)
 * [Implement community-based strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_50.md)
 * [Designated community-level areas for essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_329.md)

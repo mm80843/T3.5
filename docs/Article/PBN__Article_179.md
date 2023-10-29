@@ -47,20 +47,21 @@ Biophilic Design to Enhance Residence Comfort in Covid Era
 
 ## This article points to following mitigation
 
-* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
-* [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1122.md)
-* [Optimize north-south orientation of building layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1123.md)
-* [Presence of green spaces and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1127.md)
-* [Separate sanitation area](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1126.md)
-* [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1121.md)
-* [Independent ventilation system for each apartment unit](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1124.md)
+* [Opening presence for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4108.md)
+* [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4109.md)
+* [Optimize north-south orientation of building layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4110.md)
+* [Independent ventilation system for each apartment unit](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4111.md)
+* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4112.md)
+* [Separate sanitation area](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4113.md)
+* [Presence of green spaces and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4114.md)
 
 ## This article mentions these technologies
 
 * [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [Soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1006.md)
 * [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1011.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1006.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
 * [Modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
 * [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1010.md)
 * [Windows with views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1009.md)
@@ -68,7 +69,6 @@ Biophilic Design to Enhance Residence Comfort in Covid Era
 * [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1012.md)
 * [Smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
 * [Smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1004.md)
-* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
 * [Uv-c germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1005.md)
 * [Balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1007.md)
 

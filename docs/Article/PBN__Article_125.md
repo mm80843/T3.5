@@ -38,17 +38,17 @@ The efficacy of social distance and ventilation effectiveness in preventing COVI
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
-* [Distance index pd](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1975.md)
-* [Ventilation effectiveness ez](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1976.md)
-* [Modified wells-riley model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1977.md)
-* [Increasing social distance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1978.md)
-* [Increased ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1979.md)
-* [Personalized ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1980.md)
-* [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1981.md)
-* [Combination of social distancing and high ventilation effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1982.md)
-* [Increasing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1983.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
+* [Distance index pd](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4891.md)
+* [Ventilation effectiveness ez](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4892.md)
+* [Modified wells-riley model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4893.md)
+* [Increasing social distance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4894.md)
+* [Increased ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4895.md)
+* [Personalized ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4896.md)
+* [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4897.md)
+* [Combination of social distancing and high ventilation effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4898.md)
+* [Increasing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4899.md)
 
 ## This article mentions these technologies
 

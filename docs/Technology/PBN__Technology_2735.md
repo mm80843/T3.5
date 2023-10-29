@@ -2,6 +2,14 @@
 
 # __Data collection__
 
+## Link between Blueprint and General ontology
+
+* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_9.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_77.md)
+* [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_78.md)
+* [Linked data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_174.md)
+* [Database](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_170.md)
+
 ## Category to which it belongs
 
 * [Efficient use of data analysis and modeling techniques to analyze various types of data for targeted insights.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
@@ -21,8 +29,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
-* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1110.md)
-* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1894.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_864.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
+* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1198.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_318.md)
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4097.md)
 

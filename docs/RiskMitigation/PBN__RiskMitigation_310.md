@@ -24,8 +24,22 @@
 * [Reduction of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_313.md)
 * [Disinfection of aerosolized viral particles](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_815.md)
 
+## Property: has_MitigationPrinciple
+
+Utilizes UV-C light to disinfect aerosolized bacteria and viruses suspended in the air, while keeping room occupants safe with the use of louvers or shields. Proven effective as a public health intervention to prevent the spread of airborne diseases.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Transmission of covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_579.md)
 * [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [Harmful to humans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2478.md)
+
+## Property: has_MitigationSource
+
+* [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2323.md)
+* [Louvers or shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2324.md)
 

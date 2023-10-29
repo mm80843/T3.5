@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2107 
 
-# __Plsmax technologies__
+# __Enclosed vegetation__
 
 ## Category to which it belongs
 
-* [The advancement and adoption of various technological innovations and tools for communication, healthcare, work, and daily life.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Physical barriers , plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1682.md)
-* [Barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2723.md)
-* [Green technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3806.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3136.md)
-* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_877.md)
-* [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1577.md)
-* [Lab-on-a-chip loc technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_230.md)
-* [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2912.md)
-* [Smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1373.md)
-
-## Property: has_MitigationPrinciple
-
-Monitor and control indoor air quality and reduce airborne transmission of viruses
-
-## Risks possibly mitigated by this Mitigation
-
-* [Virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2490.md)
-
-## Property: has_MitigationSource
-
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
-* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
+* [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2101.md)
+* [Indoor vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2108.md)
+* [Dense vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2104.md)
+* [Maintenance of natural vegetation cover](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2109.md)
+* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2110.md)
+* [Presence of indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2111.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2112.md)
+* [Plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2053.md)
+* [Natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
+* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
 

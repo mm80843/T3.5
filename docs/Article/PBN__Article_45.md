@@ -45,11 +45,11 @@ Review and comparison of HVAC operation guidelines in different countries during
 
 ## This article points to following mitigation
 
-* [Increase outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_711.md)
-* [Improve air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_712.md)
-* [Run hvac system longer hours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_713.md)
-* [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_714.md)
-* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_715.md)
+* [Increase outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3735.md)
+* [Improve air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3736.md)
+* [Run hvac system longer hours](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3737.md)
+* [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3738.md)
+* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3739.md)
 
 ## This article mentions these technologies
 

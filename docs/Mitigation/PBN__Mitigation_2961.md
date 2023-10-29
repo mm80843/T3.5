@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2961 
 
-# __Regular testing and contact tracing__
+# __Emphasize public health impacts__
 
 ## Category to which it belongs
 
-* [Utilize technology to track, trace, and monitor contacts for effective and secure contact tracing and testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
+* [Promote health, educate the public, implement interventions, strengthen health systems, and exchange health information for a healthier population.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
-* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
-* [Regular testing and contact tracing programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2963.md)
-* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2158.md)
-* [Rapid testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_790.md)
-* [Implementation of contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2962.md)
-* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2936.md)
-* [Increased testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_696.md)
-* [Implement regular testing, contact tracing, and isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3950.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
-* [Contact tracing and testing of close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_852.md)
+* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1334.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1257.md)
+* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1949.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1332.md)
+* [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
+* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
+* [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1330.md)
+* [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1946.md)
+* [Enhance public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2498.md)
+* [Public health measures and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1337.md)
 

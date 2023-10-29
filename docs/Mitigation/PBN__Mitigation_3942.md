@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3942 
 
-# __Public places as informative nodes in the city__
+# __Deferring or suspending taxes__
 
 ## Category to which it belongs
 
-* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Public places as informative nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_403.md)
-* [Limited access nodes for better management of public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3180.md)
-* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3731.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2821.md)
-* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4005.md)
-* [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4047.md)
-* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3522.md)
-* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
-* [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4029.md)
-* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_407.md)
+* [Energy bill reductions or cancellations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2247.md)
+* [Suspension of recycling programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3564.md)
+* [Online tax assistance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3789.md)
+* [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3822.md)
+* [Repeal of disposable bag bans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3563.md)
+* [Wealth tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1745.md)
+* [Strengthened carbon tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3571.md)
+* [Energy bill deferral and payment extension plans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3943.md)
+* [Ineffective mitigation policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
+* [Suspension of public visitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1891.md)
 

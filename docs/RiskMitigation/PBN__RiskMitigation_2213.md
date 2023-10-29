@@ -14,10 +14,10 @@
 * [Gather and analyze accurate data, rely on evidence-based estimates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2043.md)
 * [Consider possible impacts of the pandemic on findings, adjust research design and data collection, report extra contextual detail.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1877.md)
 * [Ensuring critical evaluation of information, considering multiple sources, promoting evidence-based decision making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2098.md)
-* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3362.md)
-* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3159.md)
+* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5498.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5316.md)
 * [Use multiple data collection methods, record limitations specific to each method to account for their influence on validity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1879.md)
-* [Research priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3363.md)
+* [Research priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5499.md)
 
 ## Risks possibly mitigated by this Mitigation
 

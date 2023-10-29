@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Open and trustworthy international research partnership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_551.md)
+* [Open and trustworthy international research partnership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3599.md)
 

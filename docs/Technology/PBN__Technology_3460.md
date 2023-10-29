@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2070.md)
+* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_237.md)
 

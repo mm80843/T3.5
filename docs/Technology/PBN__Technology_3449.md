@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2060.md)
+* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4962.md)
 

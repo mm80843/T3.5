@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2413 
 
-# __Indoor biophilia__
+# __Avoidance of contact with someone who is displaying symptoms of coronavirus__
 
 ## Category to which it belongs
 
-* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
+* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Outdoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2412.md)
-* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2568.md)
-* [Enhance indoor qualities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3174.md)
-* [Indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3042.md)
-* [Intimate living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2106.md)
-* [Presence of indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1933.md)
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1371.md)
-* [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3784.md)
-* [Disinfection of indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2259.md)
-* [Isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_457.md)
-
-## Property: has_MitigationPrinciple
-
-Incorporate plants and water features indoors to improve air quality, add visual interest, and foster a connection with nature.
-
-## Risks possibly mitigated by this Mitigation
-
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2787.md)
-
-## Property: has_MitigationSource
-
-* [Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_211.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Potted plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3448.md)
-* [Water features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2263.md)
+* [Quarantine of persons in contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2561.md)
+* [Isolation of suspected covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_198.md)
+* [Risk reduction in face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2684.md)
+* [Isolation and quarantine of confirmed cases and contacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3281.md)
+* [Coronavirus 229e](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1983.md)
+* [Isolation of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2414.md)
+* [Strict adherence to covid-19 preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3109.md)
+* [Avoiding physical activity during viral infection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3919.md)
+* [Patient isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1846.md)
+* [Isolation of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2336.md)
 

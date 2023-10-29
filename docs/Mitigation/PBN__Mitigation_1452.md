@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1452 
 
-# __Upstream agreements for supply chain re-purposing__
+# __Sensor-based fixtures or devices__
 
 ## Category to which it belongs
 
-* [Promoting resilience and efficiency in global supply chains through diversification, optimization, and strategic coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_154.md)
+* [Enhance monitoring and response systems while integrating various wearable sensors, biosensors, nanotechnology, contactless systems, and robotics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Diversify supply chains, establish backup suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2435.md)
-* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1067.md)
-* [Diversifying suppliers, local sourcing, implementing contingency plans for supply chain disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3540.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2437.md)
-* [Revised supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2434.md)
-* [Build redundancies in supply chains and critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3541.md)
-* [Diversifying supply chains and promoting domestic production](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2432.md)
-* [Diversify suppliers and establish backup systems to ensure a steady supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3542.md)
-* [Diversification of supply chains, local production capabilities, and contingency planning for disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3543.md)
-* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2191.md)
-
-## Property: has_MitigationPrinciple
-
-Governments can establish agreements with firms to repurpose supply chains, allowing for the production of necessary goods during disruptions.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1066.md)
+* [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1074.md)
+* [Sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1163.md)
+* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1843.md)
+* [Paper-based sensor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1164.md)
+* [Use of water-efficient appliances/fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1533.md)
+* [Use of water-efficient appliances and fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3542.md)
+* [Integrated sensor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1151.md)
+* [Contactless door sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1446.md)
+* [Integration of additional sensors into wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1058.md)
 

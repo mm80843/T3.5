@@ -14,7 +14,7 @@
 * [Public education, awareness campaigns, and enforcement of preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2067.md)
 * [Improve public awareness and understanding of the importance of prevention measures, enforce compliance with guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3091.md)
 * [Improve public education and communication on the importance of compliance, enforce penalties for non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2359.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3162.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4406.md)
 * [Implement communication campaigns, provide clear instructions and guidelines, and promote public awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2260.md)
 * [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1813.md)
 * [Conduct public awareness campaigns and education programs to promote prevention measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2434.md)

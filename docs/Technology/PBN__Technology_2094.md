@@ -2,6 +2,13 @@
 
 # __Virtual classrooms__
 
+## Link between Blueprint and General ontology
+
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_238.md)
+* [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_239.md)
+* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_240.md)
+* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_242.md)
+
 ## Category to which it belongs
 
 * [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)

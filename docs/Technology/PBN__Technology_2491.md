@@ -2,6 +2,12 @@
 
 # __Digital and smart devices__
 
+## Link between Blueprint and General ontology
+
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_61.md)
+* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_67.md)
+* [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_66.md)
+
 ## Category to which it belongs
 
 * [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
@@ -21,5 +27,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Urban solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_490.md)
+* [Urban solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_803.md)
 

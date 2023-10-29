@@ -19,7 +19,11 @@
 * [Lack of hygiene and cleanliness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2024.md)
 * [Limited access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_227.md)
 
+## Blueprints with this risk
+
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+
 ## Mitigations of this risk
 
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
 

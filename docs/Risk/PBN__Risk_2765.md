@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Collaboration and knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_881.md)
+* [Collaboration and knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3889.md)
 

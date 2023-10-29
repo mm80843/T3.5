@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_131.md)
+* [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3234.md)
 

@@ -2,6 +2,16 @@
 
 # __Timeline-based visualization__
 
+## Link between Blueprint and General ontology
+
+* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_69.md)
+* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_3.md)
+* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_82.md)
+* [Data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_79.md)
+* [Data visualization platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_80.md)
+* [Graphical representation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_91.md)
+* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_92.md)
+
 ## Category to which it belongs
 
 * [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
@@ -21,5 +31,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Analysis visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1077.md)
+* [Analysis visualization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4069.md)
 

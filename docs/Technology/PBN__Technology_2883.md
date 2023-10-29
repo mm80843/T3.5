@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1088.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_178.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1028.md)
+* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4077.md)
 

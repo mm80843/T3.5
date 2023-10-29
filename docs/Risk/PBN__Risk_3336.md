@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2164.md)
+* [Backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5044.md)
 

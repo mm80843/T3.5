@@ -2,6 +2,10 @@
 
 # __Conduct comprehensive energy consumption breakdown__
 
+## Link between Blueprint and General ontology
+
+* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_35.md)
+
 ## Category to which it belongs
 
 * [Promote sustainable recovery, advocate for renewable energy, educate on energy-saving practices, implement efficient technology, and reduce emissions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_486.md)

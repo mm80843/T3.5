@@ -19,6 +19,10 @@
 * [Contagious disease outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_641.md)
 * [Contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
 
+## Blueprints with this risk
+
+* [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_4.md)
+
 ## Description of the risk
 
 High population density in urban areas increases the risk of contagious diseases spreading rapidly among residents

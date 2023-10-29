@@ -42,22 +42,22 @@ Mechanistic insights into the effect of humidity on airborne influenza virus sur
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_60.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_262.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_243.md)
-* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_368.md)
-* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_369.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
-* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_586.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4180.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3439.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3440.md)
+* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3629.md)
 
 ## This article mentions these technologies
 
+* [Temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1061.md)
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 * [Rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1060.md)
 * [Such as hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1057.md)
-* [Temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1061.md)
 * [Advanced monitoring and data analysis techniques can be used to study the relationship between indoor and outdoor conditions and influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1062.md)
 * [Advanced data analysis and modeling techniques can be used to study the relationship between ah](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1059.md)
 * [Environmental control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1056.md)

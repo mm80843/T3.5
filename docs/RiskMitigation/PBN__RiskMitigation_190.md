@@ -19,6 +19,10 @@
 * [Use high-efficiency air filters in ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1808.md)
 * [Use high-efficiency air filters, regularly replace filters, and properly maintain air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2307.md)
 
+## Blueprints with this mitigation
+
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
+
 ## Benefits linked to a risk
 
 * [Enhanced air cleaning in specific areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_205.md)

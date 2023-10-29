@@ -2,6 +2,10 @@
 
 # __Modeling and data analysis__
 
+## Link between Blueprint and General ontology
+
+* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_71.md)
+
 ## Category to which it belongs
 
 * [Efficient use of data analysis and modeling techniques to analyze various types of data for targeted insights.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Modified wells-riley model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1977.md)
+* [Modified wells-riley model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4893.md)
 

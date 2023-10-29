@@ -11,13 +11,18 @@
 * [Containment spaces in hospitals and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_749.md)
 * [Incorporate proper building design strategies for ventilation, airflow, and social distancing. design buildings with adequate space for ventilation and airflow.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2309.md)
 * [Retrofitting existing buildings with containment space, additional wet cells, and compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_274.md)
-* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3187.md)
+* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5343.md)
 * [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_222.md)
 * [Creating isolation room](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1319.md)
 * [Specific approaches for containment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_98.md)
 * [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
 * [Housing design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1215.md)
 * [Design buildings with adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1999.md)
+
+## Blueprints with this mitigation
+
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
 
 ## Benefits linked to a risk
 

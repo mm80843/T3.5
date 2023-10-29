@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3279 
 
-# __Antimicrobial coating__
+# __Building layout and design for social interaction__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Implement thorough and regular disinfection practices, along with the use of antimicrobial coatings and materials to minimize surface contamination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_494.md)
+Providing spaces for socialization and interaction to foster a sense of belonging and community among occupants.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3278.md)
-* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_574.md)
-* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3277.md)
-* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1189.md)
-* [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2032.md)
-* [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3280.md)
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1350.md)
-* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3281.md)
-* [Antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1357.md)
-* [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_917.md)
+* [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2454.md)
+
+## Property: has_MitigationSource
+
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2279.md)
 

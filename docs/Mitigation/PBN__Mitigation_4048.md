@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4048 
 
-# __Implementation of ets-based governance models__
+# __Leverage complementary evidence networks__
 
 ## Category to which it belongs
 
-* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
+* [Promote trust, combat misinformation, and provide accurate and reliable information through evidence-based sources and transparent communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
-* [Governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3154.md)
-* [Standardized protocols and governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2879.md)
-* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1030.md)
-* [Improve governance models to be more collaborative, proactive, and integrated, focus on participatory decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3967.md)
-* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1992.md)
-* [Transparent governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
-* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3707.md)
-* [Foster social capital, trust, and participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3157.md)
-* [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3158.md)
-* [Implement adaptive and flexible management models, improve coordination among different government levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4078.md)
+* [Harness the strength of complementary evidence networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4047.md)
+* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2171.md)
+* [Contextualising and disseminating actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2172.md)
+* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
+* [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3657.md)
+* [Real-world evidence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3582.md)
+* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3655.md)
+* [Evidence-based](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3580.md)
+* [Verify sources and rely on accurate, evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2949.md)
+* [Evidence-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3579.md)
 

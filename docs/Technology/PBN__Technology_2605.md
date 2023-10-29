@@ -2,6 +2,11 @@
 
 # __Social support networks__
 
+## Link between Blueprint and General ontology
+
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
+* [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_90.md)
+
 ## Category to which it belongs
 
 * [Promote community engagement and support through various initiatives, programs, campaigns, platforms, and networks, fostering social capital and volunteer involvement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_246.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_678.md)
+* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3707.md)
 

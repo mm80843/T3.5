@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3253 
 
-# __Building green infrastructure__
+# __Creation of funds and other support measures to suppliers__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1473.md)
-* [Implement green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3252.md)
-* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3255.md)
-* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3254.md)
-* [Urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1659.md)
-* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2755.md)
-* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_618.md)
-* [Policies for green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1161.md)
-* [Expansion of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3256.md)
-* [Green and blue infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1114.md)
+* [Provide relief measures and financial support to manufacturing businesses, explore alternative supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3820.md)
+* [Promote diversification of supplies and improve flexibility in sourcing inputs across multiple suppliers and countries.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2848.md)
+* [Regular communication with suppliers, alternative sourcing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3883.md)
+* [Diversify supply chains, establish backup suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_49.md)
+* [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_53.md)
+* [Diversifying suppliers, local sourcing, implementing contingency plans for supply chain disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2824.md)
+* [Diversify suppliers and establish backup systems to ensure a steady supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2826.md)
+* [Use of local suppliers and warehouse stock](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3882.md)
+* [Support measures for commercial and small industrial activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3352.md)
+* [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1026.md)
 

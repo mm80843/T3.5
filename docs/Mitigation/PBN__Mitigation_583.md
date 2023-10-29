@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_583 
 
-# __Voluntary home quarantine__
+# __High-efficiency filters__
 
 ## Category to which it belongs
 
-* [Imposing segregation and restrictions to prevent the spread of disease, including home isolation, monitoring, and mandatory measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_161.md)
+* [Enhanced air purification using high-efficiency filters and ventilation systems, including portable devices and hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
-* [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_235.md)
-* [Household quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_653.md)
-* [Home quarantine of household members](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2893.md)
-* [Home isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1419.md)
-* [Quarantine for high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2471.md)
-* [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2179.md)
-* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1302.md)
-* [Encourage voluntary home quarantine, expand telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3970.md)
-* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
-* [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_753.md)
-
-## Property: has_MitigationPrinciple
-
-Quarantining at home reduces stress on healthcare system and can be facilitated through telehealth concepts
-
-## Risks possibly mitigated by this Mitigation
-
-* [Family clusters of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2608.md)
-
-## Property: has_MitigationSource
-
-* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1650.md)
+* [High-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_581.md)
+* [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_580.md)
+* [High-efficiency particulate filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_589.md)
+* [Use high-efficiency filters for air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_582.md)
+* [High-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_584.md)
+* [Improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_586.md)
+* [Use of advanced hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_585.md)
+* [Install high-efficiency filters in hvac systems, regularly clean and replace filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3063.md)
+* [High-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_587.md)
+* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3062.md)
 

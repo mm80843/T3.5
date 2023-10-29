@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1371.md)
-* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4337.md)
+* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4112.md)
 

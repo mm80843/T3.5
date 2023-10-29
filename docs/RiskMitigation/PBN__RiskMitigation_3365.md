@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3365 
 
-# __Diagnostic tests__
+# __Open data sharing and analysis for pandemic dataset creation__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Implement comprehensive, widespread testing and contact tracing programs to monitor and control the spread of the virus.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_460.md)
+Share and analyze open data to create comprehensive datasets related to pandemics, allowing for better understanding, analysis, and innovation in managing pandemic situations.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3366.md)
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1280.md)
-* [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3237.md)
-* [Rapid diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3236.md)
-* [Utilize ai algorithms as an initial screening tool and develop alternative diagnostic tests.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2853.md)
-* [Patient respiratory and stool specimens testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_268.md)
-* [Rapid testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3326.md)
-* [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3125.md)
-* [Implement regular and widespread symptom monitoring and testing, both symptomatic and asymptomatic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2036.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_441.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2441.md)
+
+## Property: has_MitigationSource
+
+* [Learning from the COVID-19 pandemic in governing smart cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_177.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_769.md)
+* [Linked open data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2345.md)
 

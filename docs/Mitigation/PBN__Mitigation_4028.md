@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4028 
 
-# __Lack of support for users__
+# __Incorporate placemaking and public place design in spatial planning, include hygiene development and spatial use__
 
 ## Category to which it belongs
 
-* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
+* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
-* [Lack of support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3969.md)
-* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3663.md)
-* [Ensure access to information and support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4026.md)
-* [Support and information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2532.md)
-* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_787.md)
-* [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3651.md)
-* [Limited engagement of professionals and lack of comprehensive support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3708.md)
-* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_788.md)
-* [Exclusion from support programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4123.md)
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1032.md)
+* [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2458.md)
+* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2301.md)
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2028.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_824.md)
+* [Design and develop public spaces that encourage social interaction and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3515.md)
+* [Placemaking approaches for urban regeneration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2626.md)
+* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2987.md)
+* [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_819.md)
+* [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1644.md)
+* [Improve environmental quality through better site design and regional planning, reduce pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1647.md)
 

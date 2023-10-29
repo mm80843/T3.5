@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2685 
 
-# __Delivery in negative pressure isolation rooms__
+# __Physical contact__
 
 ## Category to which it belongs
 
-* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
+* [Promote and facilitate various forms of physical activity and exercise through online and home-based programs and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_917.md)
-* [Negative pressure isolation ward](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1332.md)
-* [Negative-pressure ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1782.md)
-* [Isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_457.md)
-* [Creating isolation room](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2715.md)
-* [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2024.md)
-* [Isolation space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_141.md)
-* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_782.md)
-* [Negative pressure aiirs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_615.md)
-* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1082.md)
+* [Reduced physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2682.md)
+* [Physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1921.md)
+* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2681.md)
+* [Encourage a balanced approach to non-contact interaction activities, promoting a mix of virtual and physical interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2964.md)
+* [Contact-reducing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2683.md)
+* [Contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1449.md)
+* [Risk reduction in face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2684.md)
+* [Contactless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1451.md)
+* [Controlling probability of contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2680.md)
+* [Restriction of inter-individual physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1923.md)
 

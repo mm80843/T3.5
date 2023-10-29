@@ -2,6 +2,10 @@
 
 # __Face orientation__
 
+## Link between Blueprint and General ontology
+
+* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_243.md)
+
 ## Category to which it belongs
 
 * [Protection measures include face masks, personal protective equipment, facial recognition, education on masks, barriers, and physical distancing markers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Face-to-face contact within social distance radius](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1694.md)
+* [Face-to-face contact within social distance radius](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4633.md)
 

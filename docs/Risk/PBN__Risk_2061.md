@@ -2,6 +2,10 @@
 
 # __Data management issues__
 
+## Link between Blueprint and General ontology
+
+* [Information management](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_9.md)
+
 ## Category to which it belongs
 
 * [Limited and fragmented data availability and interoperability hinder analysis, decision-making, and trust in the reliability of information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
@@ -63,9 +67,9 @@ Inaccurate or incomplete data nan in the decision- nan nan making process
 
 ## Technologies linked to the risk
 
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 * [Data nan nan warehousing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1571.md)
 * [Big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1570.md)
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 
 ## Property: has_RiskType
 

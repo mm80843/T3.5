@@ -19,3 +19,7 @@
 * [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_365.md)
 * [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3479.md)
 
+## Blueprints with this risk
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+

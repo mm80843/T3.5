@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Steroids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2329.md)
+* [Steroids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5200.md)
 

@@ -21,7 +21,7 @@
 
 ## Mitigations of this risk
 
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
-* [Common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2162.md)
-* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5041.md)
+* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5040.md)
+* [Common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5042.md)
 

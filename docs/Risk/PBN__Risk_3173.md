@@ -19,7 +19,11 @@
 * [Access restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_734.md)
 * [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2568.md)
 
+## Blueprints with this risk
+
+* [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
+
 ## Mitigations of this risk
 
-* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1656.md)
+* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1156.md)
 

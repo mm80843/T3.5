@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2601 
 
-# __Distancing__
+# __Public information campaigns__
 
 ## Category to which it belongs
 
-* [Creating safe and spacious environments by implementing measures that promote physical distancing and isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_177.md)
+* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
-* [Spatial distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1295.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2600.md)
-* [Adherence to physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2359.md)
-* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1246.md)
-* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1237.md)
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1639.md)
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1097.md)
-* [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2602.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_278.md)
+* [Public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1333.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1332.md)
+* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_287.md)
+* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_280.md)
+* [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1330.md)
+* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_283.md)
+* [Public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_282.md)
+* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3292.md)
+* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_277.md)
 

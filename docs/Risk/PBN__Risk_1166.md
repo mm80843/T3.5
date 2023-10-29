@@ -19,6 +19,10 @@
 * [Direct exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2910.md)
 * [Uvgi systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
 
+## Blueprints with this risk
+
+* [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+
 ## Description of the risk
 
 UV-C light used in upper-room UVGI can be harmful to humans if directly exposed, leading to potential eye and skin damage

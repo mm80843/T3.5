@@ -22,13 +22,13 @@
 ## This Technology belongs to this TechnologySubgroup
 
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [Hvac technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1829.md)
 * [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1011.md)
+* [Openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [Negative air machines with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_968.md)
 * [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
-* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1011.md)
-* [Hvac technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1829.md)
-* [Openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
 * [Regular maintenance and inspection of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
 * [Quieter fan technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2018.md)
 * [Natural ventilation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1012.md)

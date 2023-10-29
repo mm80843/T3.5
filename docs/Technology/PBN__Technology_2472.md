@@ -2,6 +2,10 @@
 
 # __High-efficiency particulate filters__
 
+## Link between Blueprint and General ontology
+
+* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_148.md)
+
 ## Category to which it belongs
 
 * [Air and water purification systems, including filters, machines, purifiers, and technologies for improved air quality and filtration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Enhanced respiratory protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
+* [Enhanced respiratory protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3521.md)
 

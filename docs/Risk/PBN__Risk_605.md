@@ -19,6 +19,10 @@
 * [Disease transmission through personal contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2743.md)
 * [Exposure to the virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1851.md)
 
+## Blueprints with this risk
+
+* [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
+
 ## Mitigations of this risk
 
 * [Optimal occupant distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_839.md)

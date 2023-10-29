@@ -12,7 +12,7 @@
 * [Repurposing large public spaces for emergency health purposes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1256.md)
 * [Develop strategies to safely reopen green areas and ensure social distancing measures are followed](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2922.md)
 * [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_330.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3287.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5430.md)
 * [Ensure availability of private spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2887.md)
 * [Temporary closure of access points, visible and easily manageable primary access node.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1719.md)
 * [Transformation of public places for essential uses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_326.md)

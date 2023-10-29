@@ -42,12 +42,12 @@ The pandemic disrupts the global supply chains, resulting in material shortages,
 
 ## Mitigations of this risk
 
+* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_244.md)
 * [Diversify supply chains, establish backup suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2144.md)
 * [Diversify suppliers, optimize inventory management, establish alternative supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1902.md)
 * [Diversifying suppliers and exploring local sourcing options, establishing alternative supply chains, and improving communication and coordination with suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2673.md)
-* [Resilient supply chain design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1320.md)
-* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2080.md)
-* [Optimizing supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2287.md)
+* [Resilient supply chain design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4290.md)
+* [Optimizing supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5162.md)
 
 ## Name of the risk
 

@@ -19,6 +19,10 @@
 * [Seasonal changes in wastewater temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1436.md)
 * [Exposure to virus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3094.md)
 
+## Blueprints with this risk
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+
 ## Description of the risk
 
 The temperature of wastewater affects the detectability of the SARS-CoV-2 virus in wastewater samples, leading to potential underestimation or overestimation of the virus prevalence.

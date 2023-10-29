@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3763 
 
-# __Crisis management teams__
+# __Quality of greenspace in high-socioeconomic status neighborhoods__
 
 ## Category to which it belongs
 
-* [Build resilience, ensure food supply, manage crises, and enhance emergency plans for a sustainable and inclusive future.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
+* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5.md)
-* [Disaster response teams](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3762.md)
-* [Disaster response team](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3724.md)
-* [Crisis response leadership programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
-* [Disaster management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3761.md)
-* [Disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2182.md)
-* [Emergency management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3342.md)
-* [Emergency management agency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3344.md)
-* [Covid-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_781.md)
-* [Crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_27.md)
+* [Lack of greenspace in low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3694.md)
+* [Poor quality of green space in disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_831.md)
+* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_828.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1917.md)
+* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1920.md)
+* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2616.md)
+* [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2308.md)
+* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1918.md)
+* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1916.md)
+* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_816.md)
 

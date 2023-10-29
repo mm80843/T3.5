@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2870 
 
-# __Wastewater-based surveillance wbs__
+# __Cultural dissemination__
 
 ## Category to which it belongs
 
-* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2340.md)
-* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2454.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1108.md)
-* [Wastewater-based monitoring wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2871.md)
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
-* [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2857.md)
-* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2456.md)
-* [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1397.md)
-* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2295.md)
-* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1631.md)
+* [Cultural change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3928.md)
+* [Cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3473.md)
+* [Information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_880.md)
+* [Develop culturally relevant communication strategies, address factors influencing communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3364.md)
+* [Viral culture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2868.md)
+* [Raise awareness, promote inclusivity and diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3383.md)
+* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3292.md)
+* [Improve communication and outreach to foreign nationals, provide clear instructions and guidelines in multiple languages.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3363.md)
+* [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3293.md)
+* [Quick and accurate information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3291.md)
 

@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_893 
 
-# __Monitoring mobility metrics__
+# __Exergames and active video games__
 
 ## Category to which it belongs
 
-* [Utilize technology to track, trace, and monitor contacts for effective and secure contact tracing and testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
+* [Promote and facilitate various forms of physical activity and exercise through online and home-based programs and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Benchmarking mobility metrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_900.md)
-* [Population mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3373.md)
-* [Urban mobility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3374.md)
-* [Monitoring traffic patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_898.md)
-* [Travel-related measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_741.md)
-* [Mobility limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_31.md)
-* [Mobile phone tracking for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2275.md)
-* [Monitoring people movement during events](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2279.md)
-* [Mobility restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_344.md)
-* [Mobile tracing and monitoring apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
-
-## Property: has_MitigationPrinciple
-
-Assessing changes in mobility patterns to inform urban governance policies
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2754.md)
-* [Mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2758.md)
+* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_892.md)
+* [Virtual gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_895.md)
+* [Active play](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_896.md)
+* [Encourage active play, online fitness classes for children, limit screen time](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_901.md)
+* [Indoor challenging games](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_894.md)
+* [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_898.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_225.md)
+* [Boost in revenue for video-gaming industry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3810.md)
+* [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_230.md)
+* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1926.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2815 
 
-# __Privacy concerns and surveillance__
+# __Investment and operational permits__
 
 ## Category to which it belongs
 
-* [Ensuring confidentiality, protecting personal information, and addressing cybersecurity, privacy, and data protection issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Privacy and surveillance concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2816.md)
-* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2493.md)
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2310.md)
-* [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1616.md)
-* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2819.md)
-* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3117.md)
-* [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2817.md)
-* [Implementation of privacy safeguards, transparent and accountable surveillance practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4119.md)
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1887.md)
-* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2814.md)
+* [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2816.md)
+* [Temporary regulations for certain activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1930.md)
+* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_957.md)
+* [Financial reforms to enable innovative and socially directed investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2817.md)
+* [Promote local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2818.md)
+* [Policies for green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2083.md)
+* [Subsidizing and capital injection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2819.md)
+* [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2820.md)
+* [Equitable park investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2821.md)
+* [Self-sufficiency in recreational facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2822.md)
 

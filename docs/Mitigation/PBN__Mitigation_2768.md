@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2768 
 
-# __Integrated building systems__
+# __Privacy and data sharing__
 
 ## Category to which it belongs
 
-* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
+* [Ensuring confidentiality, protecting personal information, and addressing cybersecurity, privacy, and data protection issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
 
 ## Closest similar item
 
-* [Shift towards integrated and non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4075.md)
-* [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3323.md)
-* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2101.md)
-* [Integration of smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3499.md)
-* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3404.md)
-* [Non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1133.md)
-* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_417.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3314.md)
-* [Multi-functional buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_702.md)
-* [Smart building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3325.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_999.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_291.md)
+* [Privacy-preserving data storage and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3133.md)
+* [Secure and transparent data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3131.md)
+* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_292.md)
+* [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2766.md)
+* [Data privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3232.md)
+* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1721.md)
+* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_295.md)
+* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2767.md)
 

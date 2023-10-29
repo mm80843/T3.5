@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3479 
 
-# __Training protocols__
+# __Relational capability__
 
 ## Category to which it belongs
 
-* [Enhancing education access and equity through virtual learning, training programs, and closure of educational institutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3644.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2516.md)
-* [Training materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3751.md)
-* [Training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3645.md)
-* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2134.md)
-* [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_602.md)
-* [Providing effective guidance and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1784.md)
-* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1529.md)
-* [Workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3102.md)
-* [Training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_814.md)
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
+* [Address biases in knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3691.md)
+* [Data quality and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_864.md)
+* [Practical capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3371.md)
+* [Data collection and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
+* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_911.md)
+* [Enhanced communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2990.md)
+* [Trust and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1727.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_906.md)
+* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_293.md)
 

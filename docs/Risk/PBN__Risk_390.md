@@ -22,5 +22,5 @@
 ## Mitigations of this risk
 
 * [Integration of outdoor air quality management in ventilation and infiltration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_547.md)
-* [Outdoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_700.md)
+* [Outdoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3726.md)
 

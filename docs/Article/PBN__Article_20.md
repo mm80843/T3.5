@@ -45,13 +45,13 @@ Making green infrastructure healthier infrastructure
 
 ## This article points to following mitigation
 
-* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1118.md)
-* [Increased urban biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
-* [Pollen allergy prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1120.md)
-* [Green and blue infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1114.md)
-* [Tick control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1116.md)
-* [Rat management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
-* [Algae control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1119.md)
+* [Green and blue infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4101.md)
+* [Increased urban biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4102.md)
+* [Tick control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4103.md)
+* [Rat management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4104.md)
+* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4105.md)
+* [Algae control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4106.md)
+* [Pollen allergy prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4107.md)
 
 ## This article mentions these technologies
 

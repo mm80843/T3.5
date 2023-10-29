@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_865.md)
+* [Open data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3874.md)
 

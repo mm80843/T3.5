@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Telemedicine and remote testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1426.md)
-* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3211.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5363.md)
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_498.md)
 * [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1156.md)
 * [Telemedicine and remote consultations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1431.md)
@@ -17,7 +17,7 @@
 * [Telemedicine for psychosocial services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_830.md)
 * [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_27.md)
 * [Remote exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1174.md)
-* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3232.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5382.md)
 
 ## Benefits linked to a risk
 

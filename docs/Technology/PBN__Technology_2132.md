@@ -2,6 +2,18 @@
 
 # __Mobile technology__
 
+## Link between Blueprint and General ontology
+
+* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_34.md)
+* [Mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_37.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
+* [Gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_157.md)
+* [Mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_45.md)
+* [Positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_96.md)
+* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_41.md)
+* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_44.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,9 +33,9 @@
 
 ## This Technology enables the following mitigations
 
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1646.md)
-* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1678.md)
-* [Tracing and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1811.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1233.md)
-* [Mobile healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_16.md)
+* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1102.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_441.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4591.md)
+* [Tracing and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4747.md)
+* [Mobile healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3130.md)
 

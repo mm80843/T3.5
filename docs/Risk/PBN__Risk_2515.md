@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_367.md)
+* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3438.md)
 

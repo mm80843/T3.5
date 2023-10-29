@@ -13,7 +13,7 @@
 * [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2056.md)
 * [Hygiene compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3016.md)
 * [Implementing safety protocols, providing personal protective equipment, promoting good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2452.md)
-* [Public health and safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3127.md)
+* [Public health and safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5289.md)
 * [Implementing safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_100.md)
 * [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1581.md)
 * [Implement strict hygiene protocols, provide personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2458.md)

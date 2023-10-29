@@ -2,6 +2,10 @@
 
 # __Financial systems__
 
+## Link between Blueprint and General ontology
+
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_4.md)
+
 ## Category to which it belongs
 
 * [Efforts to provide financial assistance and support through various programs, incentives, grants, and investments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Financial-incentive based models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_80.md)
+* [Financial-incentive based models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3188.md)
 

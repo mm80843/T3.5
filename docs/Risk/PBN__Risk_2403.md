@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_88.md)
-* [Promoting energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_474.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3195.md)
+* [Promoting energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3536.md)
 

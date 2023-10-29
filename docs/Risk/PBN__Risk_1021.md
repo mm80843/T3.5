@@ -46,9 +46,9 @@ Spread of infectious diseases within urban areas
 * [Social distancing, hand hygiene, wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2786.md)
 * [Implement and promote preventive measures such as hand hygiene, social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1449.md)
 * [Promoting social distancing, wearing masks, and implementing strict hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2653.md)
-* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_40.md)
-* [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_41.md)
-* [Screening masses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
+* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3154.md)
+* [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3155.md)
+* [Screening masses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3156.md)
 
 ## Name of the risk
 
@@ -85,9 +85,9 @@ Increased morbidity and mortality, strain on healthcare system
 * [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_12.md)
 * [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
+* [Remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_12.md)
 * [Contactless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
 
 ## Property: has_RiskType

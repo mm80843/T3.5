@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1384 
 
-# __Negative pressure during cleaning__
+# __Personalized ventilation__
 
 ## Category to which it belongs
 
-* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
+* [Ensuring optimal airflow and fresh air circulation in buildings through various methods and techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_183.md)
 
 ## Closest similar item
 
-* [Negative pressure aiirs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_615.md)
-* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1082.md)
-* [Negative-pressure ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1782.md)
-* [Cleaning air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2235.md)
-* [Negative pressure isolation ward](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1332.md)
-* [Surface cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_543.md)
-* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2401.md)
-* [Negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_917.md)
-* [Advanced cleaning techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1795.md)
-* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2055.md)
-
-## Property: has_MitigationPrinciple
-
-Maintaining negative pressure during cleaning reduces the discharge of dirt and dust into occupied spaces
-
-## Risks possibly mitigated by this Mitigation
-
-* [Discharge of dirt and dust into occupied spaces during cleaning of hvac systems and ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3012.md)
-
-## Property: has_MitigationSource
-
-* [Ventilation use in nonmedical settings during COVID-19: Cleaning protocol, maintenance, and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_104.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Proper cleaning procedures and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3079.md)
+* [Personalized ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1385.md)
+* [Install personalized ventilation systems, control air flow and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1386.md)
+* [Designing ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_663.md)
+* [Ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_620.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_494.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_500.md)
+* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
+* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_497.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_554.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_574.md)
 

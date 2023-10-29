@@ -4,10 +4,13 @@
 
 ## Items covered in this category
 
+* [Mmwave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3358.md)
 * [Media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_335.md)
 * [Acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)
 * [White noise machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_191.md)
 * [Noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1237.md)
+* [Voice control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3474.md)
+* [Podcasts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2582.md)
 * [Acoustic treatments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1350.md)
 * [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_6.md)
 * [Mass media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1538.md)
@@ -16,7 +19,6 @@
 * [Media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2189.md)
 * [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2801.md)
 * [Nan nan nan sound-activated nan nan nan nan elevator design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3200.md)
-* [Mmwave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3358.md)
 * [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3353.md)
 * [Smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2231.md)
 * [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2276.md)
@@ -28,7 +30,6 @@
 * [Noise barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_960.md)
 * [Noise-cancelling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1831.md)
 * [Noise level difference compared to background](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1780.md)
-* [Voice control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3474.md)
 * [Source control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3271.md)
 * [Crowd management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2853.md)
 * [Media literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_581.md)
@@ -40,7 +41,6 @@
 * [Education on media literacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1228.md)
 * [Newspapers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3016.md)
 * [Daily press briefings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3615.md)
-* [Podcasts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2582.md)
 * [Noise level difference](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3469.md)
 * [And speakers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3052.md)
 * [Dialogue and reconciliation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1476.md)

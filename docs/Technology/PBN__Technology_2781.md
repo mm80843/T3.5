@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Censorship of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_939.md)
+* [Censorship of fake news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3941.md)
 

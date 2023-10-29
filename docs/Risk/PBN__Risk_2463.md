@@ -21,7 +21,7 @@
 
 ## Mitigations of this risk
 
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_126.md)
-* [Lending](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_198.md)
-* [Deferring or suspending taxes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_200.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_780.md)
+* [Lending](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3292.md)
+* [Deferring or suspending taxes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3294.md)
 

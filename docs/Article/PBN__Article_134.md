@@ -40,14 +40,14 @@ Effects to Construction Project Management Impacted Circular Economic of Covid-1
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Border closures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_524.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_262.md)
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_738.md)
-* [National lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1509.md)
-* [Contactless payment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
-* [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1510.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
+* [Border closures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3612.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3575.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3760.md)
+* [National lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4466.md)
+* [Contactless payment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4468.md)
+* [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4467.md)
 
 ## This article mentions these technologies
 
@@ -59,10 +59,10 @@ Effects to Construction Project Management Impacted Circular Economic of Covid-1
 * [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_206.md)
 * [Uv disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1141.md)
 * [Contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_458.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 * [Advanced logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1229.md)
 * [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1231.md)
 * [Safety monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 

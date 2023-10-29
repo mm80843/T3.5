@@ -21,7 +21,7 @@
 
 ## Mitigations of this risk
 
-* [Isolate and test](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1540.md)
-* [International travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1539.md)
-* [Domestic travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1542.md)
+* [International travel ban](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4494.md)
+* [Isolate and test](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4495.md)
+* [Domestic travel ban](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4497.md)
 

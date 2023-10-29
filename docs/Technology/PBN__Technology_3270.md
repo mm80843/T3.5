@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Improved building insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1725.md)
+* [Improved building insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4664.md)
 

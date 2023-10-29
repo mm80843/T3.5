@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Precision medicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
+* [Precision medicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3768.md)
 

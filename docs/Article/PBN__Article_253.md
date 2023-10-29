@@ -36,16 +36,16 @@ Compliance with COVID-19 Mitigation Measures in the United States
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Stay at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2200.md)
-* [Practical capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2201.md)
-* [Perceived clarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2202.md)
-* [Deterrence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2203.md)
-* [Impulsivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2204.md)
-* [Descriptive social norms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2205.md)
-* [Normative obligation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2206.md)
-* [Political orientation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2207.md)
-* [Costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2208.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Stay at home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5079.md)
+* [Practical capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5080.md)
+* [Perceived clarity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5081.md)
+* [Deterrence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5082.md)
+* [Impulsivity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5083.md)
+* [Descriptive social norms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5084.md)
+* [Normative obligation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5085.md)
+* [Political orientation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5086.md)
+* [Costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5087.md)
 
 ## This article mentions these technologies
 

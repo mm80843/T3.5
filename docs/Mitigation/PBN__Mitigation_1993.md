@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1993 
 
-# __Federated data analysis__
+# __Proper handwashing hygiene promotion__
 
 ## Category to which it belongs
 
-* [Promote seamless data sharing, real-time analysis, and collaboration through standardized protocols and integrated platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
+* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
-* [Federated infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2006.md)
-* [Challenges in centralized and federated approaches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2988.md)
-* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
-* [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_553.md)
-* [Collaboration with data providers and experts from diverse domains, continuous expansion and updates of the kg](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3701.md)
-* [Data-driven solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_148.md)
-* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2764.md)
-* [Data integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_895.md)
-* [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2335.md)
-* [Collaborate with multiple institutions to share data, invest in data collection and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3702.md)
-
-## Property: has_MitigationPrinciple
-
-Conduct participant-level analysis without sharing data
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_230.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Opal-datashield](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1674.md)
+* [Promote regular handwashing, hygiene education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2017.md)
+* [Proper handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1988.md)
+* [Personal hygiene eg handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1994.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1989.md)
+* [Education on proper handwashing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1991.md)
+* [Frequent handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1990.md)
+* [Promoting hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_321.md)
+* [Hand-washing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2018.md)
+* [Ensuring the availability of hand hygiene facilities handwashing stations or sanitizer dispensers , regular cleaning and disinfection of surfaces, and proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1455.md)
+* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_315.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2978 
 
-# __Ultraviolet radiation__
+# __Use of paracetamol__
 
 ## Category to which it belongs
 
-* [Utilize uv radiation for germicidal purposes, including upper-room fixtures, aerosol chambers, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
+* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2242.md)
-* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
-* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1754.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2706.md)
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_223.md)
-* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1380.md)
-* [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2701.md)
-* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3246.md)
-* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_212.md)
-* [Uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2861.md)
+* [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
+* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1369.md)
+* [Use of specific medicines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_843.md)
+* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_141.md)
+* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1893.md)
+* [Use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2736.md)
+* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2877.md)
+* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1898.md)
+* [Medication prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_848.md)
+* [Hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1372.md)
 

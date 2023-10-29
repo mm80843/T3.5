@@ -43,7 +43,7 @@ Indigenous people, homeless, migrants, prisoners, and people with disabilities
 ## Mitigations of this risk
 
 * [Ensuring access to healthcare and accurate information, providing support and resources, addressing social inequities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2332.md)
-* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_868.md)
+* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3877.md)
 
 ## Name of the risk
 

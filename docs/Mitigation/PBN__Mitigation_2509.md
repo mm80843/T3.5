@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2509 
 
-# __Public awareness campaigns, strict enforcement of rules, penalties for non-compliance.__
+# __Implement flexible scheduling and occupancy measures, redistribute resources as needed.__
 
 ## Category to which it belongs
 
-* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
+* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
-* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3781.md)
-* [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3979.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
-* [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2827.md)
-* [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_292.md)
-* [Public awareness campaigns, enforcement of social distancing measures, designated seating areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3011.md)
-* [Public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2530.md)
-* [Improve monitoring and enforcement of mitigation measures, increase public awareness and understanding of the importance of measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4030.md)
-* [Low compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3206.md)
-* [Public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2526.md)
+* [Implement occupancy limits, encourage social distancing, provide adequate facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2679.md)
+* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1008.md)
+* [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2513.md)
+* [Real-time building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2508.md)
+* [Establish occupancy limits for spaces, provide adequate space and amenities for occupants, promote social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3640.md)
+* [Limited occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2511.md)
+* [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2677.md)
+* [Reduced occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2514.md)
+* [Reduction in commercial building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_367.md)
+* [Occupancy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2510.md)
 

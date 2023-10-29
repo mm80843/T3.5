@@ -19,6 +19,10 @@
 * [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
 * [Operating room disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_255.md)
 
+## Blueprints with this risk
+
+* [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+
 ## Mitigations of this risk
 
 * [Upper room guv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_340.md)

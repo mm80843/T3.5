@@ -2,6 +2,10 @@
 
 # __Newspapers__
 
+## Link between Blueprint and General ontology
+
+* [Ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_223.md)
+
 ## Category to which it belongs
 
 * [The nexus of journalism and technology includes various methods of noise reduction, responsible reporting, media literacy, and communication tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1305.md)
+* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4276.md)
 

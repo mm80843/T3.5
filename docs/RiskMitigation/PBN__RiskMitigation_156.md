@@ -19,6 +19,10 @@
 * [Design buildings with safety measures and emergency preparedness in mind, such as evacuation routes, emergency supplies, and structural resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2570.md)
 * [Provide mental health support, promote awareness and resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2992.md)
 
+## Blueprints with this mitigation
+
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+
 ## Benefits linked to a risk
 
 * [Enhanced occupant safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_176.md)

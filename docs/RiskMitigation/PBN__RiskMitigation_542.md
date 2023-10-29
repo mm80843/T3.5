@@ -13,10 +13,10 @@
 * [Implement wealth redistribution measures, provide social safety nets, invest in education and training opportunities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1949.md)
 * [Investment in social and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_539.md)
 * [Implement social safety nets, equitable distribution of resources, invest in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2907.md)
-* [Impact investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3154.md)
+* [Impact investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5313.md)
 * [Investment in gender equality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_541.md)
 * [Policy reforms and increased investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_533.md)
-* [Investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3138.md)
+* [Investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5299.md)
 * [Incentivizing growth capital investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_791.md)
 
 ## Benefits linked to a risk

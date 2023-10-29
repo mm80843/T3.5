@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Whatsapp chatbot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1653.md)
+* [Whatsapp chatbot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4597.md)
 

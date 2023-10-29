@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Control of moisture and humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1730.md)
+* [Control of moisture and humidity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4669.md)
 

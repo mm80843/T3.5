@@ -2,6 +2,15 @@
 
 # __Computer vision__
 
+## Link between Blueprint and General ontology
+
+* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_22.md)
+* [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_97.md)
+* [Augmented reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_224.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_238.md)
+* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_243.md)
+* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_192.md)
+
 ## Category to which it belongs
 
 * [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
@@ -21,5 +30,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Ai algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1210.md)
+* [Ai algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4194.md)
 

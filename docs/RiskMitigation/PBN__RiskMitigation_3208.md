@@ -1,21 +1,18 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3208 
 
-# __Financial technology__
+# __Regulatory practices__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Deployment and adoption of cutting-edge, touchless, and ai technologies for digital transformation and smart city integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_496.md)
+Adhere to international healthcare guidelines and regulatory practices to reduce health risks and their consequences
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3209.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1103.md)
-* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3150.md)
-* [Financial aids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_577.md)
-* [Engaging finance sector](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_133.md)
-* [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1052.md)
-* [Financial interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1013.md)
-* [Enhanced availability of financial capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_790.md)
-* [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_943.md)
-* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_707.md)
+
+## Property: has_MitigationSource
+
+* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
+
+## This Mitigation is enabled by the following technologies
+
 

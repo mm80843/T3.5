@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2479 
 
-# __Surveillance system__
+# __Stay-at-home directives__
 
 ## Category to which it belongs
 
-* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2478.md)
-* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2480.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_716.md)
-* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2484.md)
-* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_348.md)
-* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_102.md)
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2483.md)
-* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2481.md)
-* [Development of novel surveillance systems, improved reporting and communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3295.md)
-* [Mobile technology surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2503.md)
+* [Stay-at-home regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2480.md)
+* [Stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2481.md)
+* [Stay-at-home recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2045.md)
+* [Stay at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2245.md)
+* [Home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2482.md)
+* [Home isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_734.md)
+* [Implementing social distancing measures, promoting good hygiene practices, and enforcing lockdowns or stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1852.md)
+* [Working from home, where possible with regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2244.md)
+* [Work-from-home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2239.md)
+* [Implementation of home treatments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2483.md)
 

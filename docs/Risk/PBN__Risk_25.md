@@ -2,6 +2,10 @@
 
 # __Privacy and security concerns__
 
+## Link between Blueprint and General ontology
+
+* [User behavior](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_4.md)
+
 ## Category to which it belongs
 
 * [Concerns about the protection and confidentiality of personal information, risk of unauthorized access or breach, and potential invasive surveillance practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
@@ -43,13 +47,13 @@ The collection and sharing of health data raises issues of privacy, data protect
 
 ## Mitigations of this risk
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
 * [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_31.md)
 * [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_32.md)
 * [Privacy protection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_528.md)
 * [Ensure anonymization of data, implement secure data-sharing protocols, and prioritize privacy and security.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1509.md)
 * [Implement blockchain technology for secure and decentralized data storage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2699.md)
-* [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
+* [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4187.md)
 
 ## Name of the risk
 

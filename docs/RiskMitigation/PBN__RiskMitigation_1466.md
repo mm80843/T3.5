@@ -10,7 +10,7 @@
 
 * [Implement policies and interventions to support and protect victims of intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1465.md)
 * [Capture and report additional contextual factors , pandemic-related policies, restrictions, social and economic impacts during data collection and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1880.md)
-* [Implement measures to protect women’s health, income support, and address gender-based violence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3135.md)
+* [Implement measures to protect women’s health, income support, and address gender-based violence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5297.md)
 * [Consider possible impacts of the pandemic on findings, adjust research design and data collection, report extra contextual detail.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1877.md)
 * [Develop guidelines for data collection and harmonization, standardize reporting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2819.md)
 * [Provide built-in facilities or services to support domestic violence victims](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2892.md)

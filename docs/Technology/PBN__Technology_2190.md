@@ -2,6 +2,11 @@
 
 # __Energy-efficient technology__
 
+## Link between Blueprint and General ontology
+
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_264.md)
+* [Energy storage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_265.md)
+
 ## Category to which it belongs
 
 * [Efficient, sustainable energy technologies and systems that reduce carbon emissions and promote clean, renewable sources, while optimizing energy management and conservation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_88.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3195.md)
 

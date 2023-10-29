@@ -1,39 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1670 
 
-# __Digital care processes__
+# __Community stakeholders__
 
 ## Category to which it belongs
 
-* [Improving healthcare access, enhancing facilities, and strengthening healthcare systems for effective management and optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
+* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
-* [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3963.md)
-* [Accelerated digital transformation of healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3142.md)
-* [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_720.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3136.md)
-* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2308.md)
-* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3133.md)
-* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_425.md)
-* [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
-* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2838.md)
-
-## Property: has_MitigationPrinciple
-
-Implement digital care processes like remote consultations and virtual team meetings, facilitated by digital integration, to maintain continuity of care during pandemic
-
-## Risks possibly mitigated by this Mitigation
-
-* [Delayed implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3183.md)
-
-## Property: has_MitigationSource
-
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Telemedicine platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_621.md)
-* [Digital integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
-* [Online communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3239.md)
+* [Stakeholder cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2926.md)
+* [Two-way dialogue between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3734.md)
+* [Foster collaboration and clear communication among stakeholders, establish effective project governance structure.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3735.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
+* [Community action](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1667.md)
+* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1669.md)
+* [Improving communication channels, sharing findings in non-technical language, coordination between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3736.md)
+* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_277.md)
+* [Promoting community voice and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3737.md)
+* [Establish mechanisms for coordinating and integrating research, data, and expertise across stakeholders and sectors, facilitate dialogue and exchange of information, and promote a multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3242.md)
 

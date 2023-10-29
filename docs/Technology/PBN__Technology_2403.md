@@ -2,6 +2,14 @@
 
 # __Wearable device technology__
 
+## Link between Blueprint and General ontology
+
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_11.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_68.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_108.md)
+* [Wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_140.md)
+* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_67.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_159.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3258.md)
 

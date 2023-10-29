@@ -1,21 +1,24 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3193 
 
-# __Physical distancing__
+# __Occupant awareness campaigns__
 
-## Category to which it belongs
+## Link between Blueprint and General ontology
 
-* [Implement measures to control occupancy, enforce social distancing, and ensure clear communication about preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_468.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_38.md)
 
-## Closest similar item
+## Property: has_MitigationPrinciple
 
-* [Physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_536.md)
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1062.md)
-* [Distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3194.md)
-* [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2459.md)
-* [Designing spaces to enable physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1309.md)
-* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_145.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
-* [Maintain physical distancing, use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1930.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
-* [Enforce strict physical distancing measures and educate people on the importance of maintaining distance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2925.md)
+Educating occupants about energy conservation and the potential cost savings of reducing energy consumption to encourage behavior change.
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2400.md)
+
+## Property: has_MitigationSource
+
+* [Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_260.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2189.md)
 

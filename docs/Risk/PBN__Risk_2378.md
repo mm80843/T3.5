@@ -21,9 +21,9 @@
 
 ## Mitigations of this risk
 
-* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4.md)
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5.md)
-* [Risk communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_6.md)
-* [Dedicated walk-in clinic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_8.md)
-* [E-healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_12.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_382.md)
+* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3121.md)
+* [Risk communication systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3122.md)
+* [Dedicated walk-in clinic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3124.md)
+* [E-healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3127.md)
 

@@ -12,7 +12,7 @@
 * [Physical barriers , partitions, dividers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_195.md)
 * [Use of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_374.md)
 * [Engineering controls physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_514.md)
-* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3217.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5369.md)
 * [Partitioning to create anterooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_393.md)
 * [Creating isolation room](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1319.md)
 * [Proper placement of supply and exhaust vents, remove barriers to airflow](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2349.md)

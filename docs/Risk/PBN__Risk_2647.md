@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Connect extreme weather and climate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_671.md)
+* [Connect extreme weather and climate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3701.md)
 

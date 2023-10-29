@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3589 
 
-# __Experimental apparatus__
+# __Curfew__
 
 ## Category to which it belongs
 
-* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
+* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
-* [Voluntary testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2917.md)
-* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_21.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
-* [Experiment with innovative models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2123.md)
-* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1.md)
-* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3282.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1233.md)
-* [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2305.md)
-* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_397.md)
-* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2743.md)
+* [Curfews](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3588.md)
+* [Curfew part one](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3590.md)
+* [Curfew part two](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3591.md)
+* [Ensure access to essential services during curfew hours, increase enforcement and penalties for violations.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3592.md)
+* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2211.md)
+* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2210.md)
+* [Public events ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3286.md)
+* [Social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1790.md)
+* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_137.md)
+* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_553.md)
 

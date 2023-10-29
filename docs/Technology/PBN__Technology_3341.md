@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3347.md)
 

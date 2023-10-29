@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3098 
 
-# __Community areas__
+# __Smart city infrastructure__
 
 ## Category to which it belongs
 
-* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
+* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
-* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3099.md)
-* [Designating community-level areas for essential services and supplies.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3627.md)
-* [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1142.md)
-* [Mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1024.md)
-* [Exclusion of local communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4104.md)
-* [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3953.md)
-* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_92.md)
-* [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3744.md)
-* [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2081.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3626.md)
+* [Smart city solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3099.md)
+* [Integration of smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2905.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3100.md)
+* [Electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3101.md)
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_369.md)
+* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_368.md)
+* [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2830.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1942.md)
+* [Infrastructure development and planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3102.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3103.md)
 

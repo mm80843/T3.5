@@ -19,3 +19,7 @@
 * [Inadequate ventilation in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_388.md)
 * [Inadequate ventilation systems in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_438.md)
 
+## Blueprints with this risk
+
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+

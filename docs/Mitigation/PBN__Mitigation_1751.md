@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1751 
 
-# __Avoidance of contact with someone who is displaying symptoms of coronavirus__
+# __Increased household chores__
 
 ## Category to which it belongs
 
-* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Quarantine of persons in contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1300.md)
-* [Isolation of suspected covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_708.md)
-* [Risk reduction in face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_360.md)
-* [Isolation and quarantine of confirmed cases and contacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3725.md)
-* [Coronavirus 229e](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_843.md)
-* [Isolation of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2370.md)
-* [Strict adherence to covid-19 preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_155.md)
-* [Avoiding physical activity during viral infection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_451.md)
-* [Patient isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_816.md)
-* [Isolation of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1278.md)
-
-## Property: has_MitigationPrinciple
-
-Minimize contact with potentially infected individuals to reduce transmission
-
-## Risks possibly mitigated by this Mitigation
-
-* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2614.md)
-
-## Property: has_MitigationSource
-
-* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Good housekeeping practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1551.md)
+* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1754.md)
+* [Encourage energy efficiency practices, educate households on energy use, and promote the use of energy-efficient appliances.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1532.md)
+* [Efficient home organization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1752.md)
+* [Implementing social distancing measures, promoting good hygiene practices, and enforcing lockdowns or stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1852.md)
+* [Increase cooking and eating at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1853.md)
+* [Spending time in domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5.md)
+* [Daily tasks and activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1854.md)
+* [Increased personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1855.md)
+* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1856.md)
 

@@ -17,7 +17,7 @@
 * [Developing sensitive rt-qpcr assays for wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_991.md)
 * [Universal asymptomatic rt-pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1220.md)
 * [Integration of new technologies digital pcr, csrpp, loc/poc, biosensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
-* [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3125.md)
+* [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5287.md)
 
 ## Benefits linked to a risk
 

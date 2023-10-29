@@ -41,17 +41,17 @@ The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisatio
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_453.md)
-* [Ventilation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1852.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_524.md)
-* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_106.md)
-* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1851.md)
-* [Building sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1853.md)
-* [Neighborhood isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1854.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_863.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3515.md)
+* [Ventilation improvements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4786.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3575.md)
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3347.md)
+* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4785.md)
+* [Neighborhood isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4788.md)
+* [Building sanitization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4787.md)
 
 ## This article mentions these technologies
 

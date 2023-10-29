@@ -9,9 +9,9 @@
 ## Closest similar item
 
 * [Use of robot-controlled noncontact uv surface disinfection for fast and effective disinfection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3079.md)
-* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3124.md)
+* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5286.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
-* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3206.md)
+* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5358.md)
 * [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1188.md)
 * [Implement routine cleaning and disinfection of object surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3021.md)
 * [Regular surface disinfection and use of self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2031.md)

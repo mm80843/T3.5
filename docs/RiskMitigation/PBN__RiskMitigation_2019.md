@@ -2,6 +2,11 @@
 
 # __Limiting occupancy levels, implementing crowd control measures, staggering schedules__
 
+## Link between Blueprint and General ontology
+
+* [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_18.md)
+* [Shift controls (occupancy control of total users)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_19.md)
+
 ## Category to which it belongs
 
 * [Implement measures to control occupancy, enforce social distancing, and ensure clear communication about preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_468.md)
@@ -18,6 +23,10 @@
 * [Implementing crowd control measures such as capacity limits, timed entry systems, one-way circulation, and designated waiting areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2233.md)
 * [Limit occupancy numbers, maintain physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2351.md)
 * [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1952.md)
+
+## Blueprints with this mitigation
+
+* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 
 ## Risks possibly mitigated by this Mitigation
 

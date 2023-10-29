@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3308 
 
-# __Hand hygiene products and facilities__
+# __Adequate control of air conditioning and ventilation systems__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Promote and enforce comprehensive hygiene practices, including sanitation measures, handwashing, and cleanliness protocols.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_492.md)
+Regular maintenance and operation of HVAC systems ensure proper air circulation, reducing the risk of stagnant air and airborne transmission.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3400.md)
-* [Hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3020.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
-* [Performing hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1266.md)
-* [Hand hygiene guidance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3307.md)
-* [Education and awareness campaigns, providing access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2017.md)
-* [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2235.md)
-* [Raise awareness and promote the importance of hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2078.md)
-* [Provide access to hand hygiene stations, improve sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1968.md)
-* [Ensuring the availability of hand hygiene facilities handwashing stations or sanitizer dispensers , regular cleaning and disinfection of surfaces, and proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2232.md)
+* [Poor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2474.md)
+
+## Property: has_MitigationSource
+
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Proper maintenance and operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2293.md)
 

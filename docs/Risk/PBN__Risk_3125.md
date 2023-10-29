@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Lower testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1581.md)
+* [Lower testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4531.md)
 

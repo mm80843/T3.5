@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2835 
 
-# __Flexible design__
+# __International coordination on border health protocols and mutual recognition agreements__
 
 ## Category to which it belongs
 
-* [Design spaces that are adaptable, flexible, and can be transformed to accommodate a variety of functions and needs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
+* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
-* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_764.md)
-* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3443.md)
-* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3458.md)
-* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3683.md)
-* [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
-* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1617.md)
-* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3457.md)
-* [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3585.md)
-* [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3584.md)
+* [Health declaration border pass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2836.md)
+* [International coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2837.md)
+* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2838.md)
+* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2839.md)
+* [Enhance containment measures, strengthen healthcare systems, improve coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2840.md)
+* [Health checks on migrants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2841.md)
+* [Collaboration with national and international partners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2842.md)
+* [Foster collaboration and coordination among stakeholders, align governance models with common public health goals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2843.md)
+* [Health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1830.md)
+* [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2844.md)
 

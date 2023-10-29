@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3512 
 
-# __Transmission of covid-19 through aerosols__
+# __Implement crowd control measures, promote social distancing, expand infrastructure__
 
 ## Category to which it belongs
 
-* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
+* [Creating safe and spacious environments by implementing measures that promote physical distancing and isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_177.md)
 
 ## Closest similar item
 
-* [Covid-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3514.md)
-* [Virus transmission through aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2927.md)
-* [Research on aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1400.md)
-* [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3513.md)
-* [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2929.md)
-* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2933.md)
-* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2692.md)
-* [Uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2229.md)
-* [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2226.md)
-* [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2691.md)
+* [Implement social distancing measures, crowd control, and capacity regulations in public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2319.md)
+* [Crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_231.md)
+* [Implement physical distancing measures, reduce overcrowding, and promote remote work when possible.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3669.md)
+* [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1020.md)
+* [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2677.md)
+* [Public awareness campaigns, enforcement of social distancing measures, designated seating areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1466.md)
+* [Implementing crowd control measures such as capacity limits, timed entry systems, one-way circulation, and designated waiting areas.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3511.md)
+* [Promote a more horizontally distributed urban development. ensure adequate housing and living conditions to minimize crowding.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_366.md)
+* [Implement occupancy limits, encourage social distancing, provide adequate facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2679.md)
+* [Implementing social distancing measures, reducing population density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_348.md)
 

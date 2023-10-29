@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
-* [Occupant density control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1706.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1381.md)
+* [Occupant density control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4645.md)
 

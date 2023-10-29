@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3392 
 
-# __Absorb surge in service demande__
+# __Information source selection__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Promote sustainable recovery, advocate for renewable energy, educate on energy-saving practices, implement efficient technology, and reduce emissions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_486.md)
+Utilizing trustworthy sources such as healthcare professionals and avoiding excessive use of interpersonal sources of information
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Implement demand response programs, incentivize load shifting and energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1710.md)
-* [Increase healthcare resources and infrastructure, develop surge capacity plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1815.md)
-* [Implement demand response programs, promote energy conservation practices, and optimize grid operations to accommodate changing energy consumption patterns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2093.md)
-* [Analyze and adjust energy contracts based on actual energy demand](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1370.md)
-* [Conduct comprehensive energy consumption breakdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1369.md)
-* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3186.md)
-* [Extended service life of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1027.md)
-* [Monitor transmission rates, reimplement interventions if necessary](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2991.md)
-* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_556.md)
-* [Increasing healthcare system capacity, surge capacity planning, emergency preparedness measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2652.md)
+* [Decreased interest, avoidance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2495.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_153.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
+* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2375.md)
 

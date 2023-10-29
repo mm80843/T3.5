@@ -16,8 +16,12 @@
 * [Enhancing ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1196.md)
 * [Improve ventilation systems and air purification methods to ensure sufficient fresh air and control air pollutant levels.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1911.md)
 * [Improve ventilation systems, increase outdoor air circulation, and implement air purification technologies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2305.md)
-* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3196.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5350.md)
 * [Increase ventilation rates, use air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2345.md)
+
+## Blueprints with this mitigation
+
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
 
 ## Risks possibly mitigated by this Mitigation
 

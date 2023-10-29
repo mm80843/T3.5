@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1302.md)
+* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4273.md)
 

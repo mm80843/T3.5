@@ -19,6 +19,10 @@
 * [Undetected infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2748.md)
 * [Inefficient disease identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1779.md)
 
+## Blueprints with this risk
+
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+
 ## Description of the risk
 
 Difficulties in identifying and tracing potential COVID-19 cases

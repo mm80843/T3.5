@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2935 
 
-# __Implement hygiene measures__
+# __Experimental apparatus__
 
 ## Category to which it belongs
 
-* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
-* [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3608.md)
-* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3381.md)
-* [Hygiene compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3388.md)
-* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_984.md)
-* [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1783.md)
-* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3387.md)
-* [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3503.md)
-* [Individual hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1128.md)
-* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1087.md)
+* [Voluntary testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1213.md)
+* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_802.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_799.md)
+* [Experiment with innovative models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2595.md)
+* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_796.md)
+* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2146.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_798.md)
+* [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1910.md)
+* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_801.md)
+* [Invasive individual testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_800.md)
 

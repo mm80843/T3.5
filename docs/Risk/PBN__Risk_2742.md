@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_858.md)
+* [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_507.md)
 

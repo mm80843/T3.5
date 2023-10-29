@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1977 
 
-# __Modified wells-riley model__
+# __Sanitation systems__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
-* [Differential pressurization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1290.md)
-* [Regression modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1166.md)
-* [Phase iii relaxation - part 1](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1546.md)
-* [Phase iii relaxation - part 2](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1547.md)
-* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2400.md)
-* [Improved water systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3267.md)
-* [Phase ii relaxation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1545.md)
-* [Drainage management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1437.md)
-* [Drainage system management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1474.md)
-* [Ai/ml/dl](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1959.md)
-
-## Property: has_MitigationPrinciple
-
-Improve the Wells-Riley model by incorporating the distance index Pd and ventilation effectiveness Ez to accurately predict the infection probability in confined spaces.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2441.md)
-
-## Property: has_MitigationSource
-
-* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Modeling and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3414.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2627.md)
+* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1968.md)
+* [Sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1976.md)
+* [Sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1969.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1970.md)
+* [Sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2628.md)
+* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1084.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3560.md)
+* [Improved sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1971.md)
+* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1975.md)
 

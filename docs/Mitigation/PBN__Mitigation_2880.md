@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2880 
 
-# __Rapid testing and vaccine development__
+# __Entry port screening__
 
 ## Category to which it belongs
 
-* [Enhanced and widespread testing, utilizing various methods and technologies, to detect and diagnose covid-19 with accuracy and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
+* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2178.md)
-* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2474.md)
-* [Vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3397.md)
-* [Development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1515.md)
-* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3396.md)
-* [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3559.md)
-* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
-* [Early detection and rapid response systems, development of new diagnostic tools and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2796.md)
-* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2473.md)
-* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2328.md)
+* [Screening techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1613.md)
+* [Imposing travel restrictions, implementing comprehensive screening and testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2834.md)
+* [Rapid screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_946.md)
+* [Screening technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1912.md)
+* [Population screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1735.md)
+* [House screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3336.md)
+* [Travel restrictions, isolation, testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_118.md)
+* [Implement strict measures and screening at airports, enforce travel restrictions when necessary](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_361.md)
+* [Travel restrictions, testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_119.md)
+* [Combining multiple screening methods, widespread testing programs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1615.md)
 

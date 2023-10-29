@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2618 
 
-# __Social protection programs__
+# __Redistribution of green spaces__
 
 ## Category to which it belongs
 
-* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
+* [Enhancing accessibility and variety of green spaces while promoting integration of nature in urban environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
 
 ## Closest similar item
 
-* [Social protection measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1757.md)
-* [Strengthened social protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1046.md)
-* [Implement social protection programs and financial incentives to support vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2620.md)
-* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1673.md)
-* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2623.md)
-* [Personal protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_905.md)
-* [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3672.md)
-* [Provide mental health support services, financial assistance programs, and social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2906.md)
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1887.md)
-* [Better healthcare protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1825.md)
+* [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_38.md)
+* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_37.md)
+* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_829.md)
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_33.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1917.md)
+* [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_813.md)
+* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1916.md)
+* [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_815.md)
+* [Homogeneous distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2617.md)
+* [Green open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_39.md)
 

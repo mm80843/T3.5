@@ -43,7 +43,7 @@ Unequal access to and use of emerging technologies may widen existing social dis
 
 * [Bridge the digital divide, ensure equal access and affordability, promote digital literacy.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2782.md)
 * [Support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1181.md)
-* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1660.md)
+* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4603.md)
 
 ## Name of the risk
 

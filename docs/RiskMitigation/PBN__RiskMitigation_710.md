@@ -11,7 +11,7 @@
 * [Effective supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_672.md)
 * [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1412.md)
 * [Develop alternative supply chains, increase production and distribution capacity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1516.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3147.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5306.md)
 * [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_29.md)
 * [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2054.md)
 * [Diversify suppliers, optimize inventory management, establish alternative supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1902.md)

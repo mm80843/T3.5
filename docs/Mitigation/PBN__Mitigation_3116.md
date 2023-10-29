@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3116 
 
-# __Increased risk__
+# __Alternative means for continuity of basic functions__
 
 ## Category to which it belongs
 
-* [Implement comprehensive measures to address and mitigate risks, ensure public safety, and promote preventive behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2899.md)
-* [Risk management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_730.md)
-* [Improved risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1448.md)
-* [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_391.md)
-* [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2894.md)
-* [Risk connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2898.md)
-* [Risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2019.md)
-* [Unclear risk messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2897.md)
-* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_236.md)
-* [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3720.md)
+* [Business continuity guideline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2042.md)
+* [Continuity of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2388.md)
+* [Design separate spaces for different functions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2467.md)
+* [Continuous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2165.md)
+* [Continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1628.md)
+* [Stay-at-home directives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2479.md)
+* [Adherence to physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_464.md)
+* [Mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3117.md)
+* [Extending basic services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2227.md)
+* [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1367.md)
 

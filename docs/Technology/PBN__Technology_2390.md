@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Data ownership decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_330.md)
+* [Data ownership decentralization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3404.md)
 

@@ -15,7 +15,7 @@
 * [Closure of entertainment venues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_957.md)
 * [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1704.md)
 * [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2019.md)
-* [Outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3355.md)
+* [Outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5492.md)
 * [Postpone events, provide financial support to organizations and athletes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2396.md)
 * [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1414.md)
 
@@ -23,7 +23,19 @@
 
 * [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_425.md)
 
+## Property: has_MitigationPrinciple
+
+Cancel events with large crowds to minimize transmission
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
+* [Disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2614.md)
+
+## Property: has_MitigationSource
+
+* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
+
+## This Mitigation is enabled by the following technologies
+
 

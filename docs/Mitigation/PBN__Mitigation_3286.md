@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3286 
 
-# __Automated sample collection__
+# __Public events ban__
 
 ## Category to which it belongs
 
-* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
+* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
-* [Unbiased data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
-* [Data collection through online survey](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1164.md)
-* [Online data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2377.md)
-* [Continuous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1625.md)
-* [Clinical data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1483.md)
-* [Local data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2315.md)
-* [Using multiple data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_648.md)
-* [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2335.md)
-* [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_500.md)
-* [Develop platforms for real-time data collection and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3303.md)
+* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2211.md)
+* [Banning of large gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2206.md)
+* [Suspension of public visitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1891.md)
+* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2210.md)
+* [Restrict mass gatherings, assess risks and benefits of organizing events](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2207.md)
+* [Restrictions on private gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2708.md)
+* [Public and private gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
+* [Restrict mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2203.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_300.md)
+* [Restrictions on gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2208.md)
 

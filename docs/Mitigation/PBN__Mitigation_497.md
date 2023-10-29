@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_497 
 
-# __Second shift schedule__
+# __Improving ventilation__
 
 ## Category to which it belongs
 
-* [Enabling remote work, flexible schedules, and support for workers’ well-being, safety, and skill development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_184.md)
+* [Ensuring optimal airflow and fresh air circulation in buildings through various methods and techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_183.md)
 
 ## Closest similar item
 
-* [Staggered schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_792.md)
-* [Changes in work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
-* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1527.md)
-* [Online meetings and shift schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1970.md)
-* [Zoning and staggered work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1683.md)
-* [Altering assignments and schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1562.md)
-* [Adjusting schedules to avoid slowdown bottleneck](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1845.md)
-* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3819.md)
-* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_127.md)
-* [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1307.md)
-
-## Property: has_MitigationPrinciple
-
-Implement a second shift schedule to improve efficiency
-
-## Risks possibly mitigated by this Mitigation
-
-* [Low efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2564.md)
-
-## Property: has_MitigationSource
-
-* [Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_210.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_575.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_499.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_494.md)
+* [Increase ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_491.md)
+* [Improving ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_576.md)
+* [Ventilation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_493.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_574.md)
+* [Enhance natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_556.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
 

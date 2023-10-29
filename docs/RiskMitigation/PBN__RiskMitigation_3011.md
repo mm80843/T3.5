@@ -13,11 +13,11 @@
 * [Develop and enforce strict sanitization protocols for all surfaces and equipment in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2022.md)
 * [Imposing travel restrictions, implementing comprehensive screening and testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1464.md)
 * [Implementing strict protocols for personal cleanliness, sanitization, and ventilation on construction sites.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2088.md)
-* [Prevention protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3321.md)
+* [Prevention protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5460.md)
 * [Limit the number of pilgrims, implement rigorous testing and quarantine measures, enforce physical distancing and hygiene protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2479.md)
 * [Enforce strict adherence to guidelines and protocols through monitoring and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2262.md)
 * [Enhance practical capacity to comply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1212.md)
-* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3274.md)
+* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5418.md)
 
 ## Risks possibly mitigated by this Mitigation
 

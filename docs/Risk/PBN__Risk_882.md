@@ -19,6 +19,10 @@
 * [Outbreak spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2719.md)
 * [Contagious disease outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_641.md)
 
+## Blueprints with this risk
+
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+
 ## Mitigations of this risk
 
 * [Wastewater-based surveillance wbs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1203.md)

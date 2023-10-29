@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3188 
 
-# __Green spaces in residential areas__
+# __Financial-incentive based models__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Promote forest conservation, sustainable land use, and equitable access to urban green spaces for a greener and healthier environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_483.md)
+Provide financial support to vulnerable households to prevent financial collapse and ensure access to necessary resources for nutrition.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3226.md)
-* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2577.md)
-* [Increase greenspace availability in low-income neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_210.md)
-* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_982.md)
-* [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3078.md)
-* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2405.md)
-* [Promote the availability and affordability of housing with private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2580.md)
-* [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2864.md)
-* [Improve access to and availability of green spaces in built environments through urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2069.md)
-* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_460.md)
+* [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_778.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_222.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2182.md)
 

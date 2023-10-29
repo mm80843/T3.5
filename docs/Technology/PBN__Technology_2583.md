@@ -2,6 +2,10 @@
 
 # __Uv light fixtures__
 
+## Link between Blueprint and General ontology
+
+* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_188.md)
+
 ## Category to which it belongs
 
 * [Innovative technology utilizing ultraviolet light for sterilization and disinfection purposes in various systems and devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_244.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_600.md)
+* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3636.md)
 

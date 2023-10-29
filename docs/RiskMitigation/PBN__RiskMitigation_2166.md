@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Implementing strict health and safety protocols, such as regular cleaning and disinfection, physical distancing, and use of personal protective equipment ppe .](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2672.md)
-* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3274.md)
+* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5418.md)
 * [Implementation of infection prevention and control measures, screening and testing protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2591.md)
 * [Adhere to established safety procedures including the use of personal protective equipment ppe and adherence to safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1483.md)
 * [Use appropriate personal protective equipment ppe and adhere to hygiene protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1825.md)
@@ -18,6 +18,10 @@
 * [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_376.md)
 * [Facilitate the availability and use of ppe such as masks, gloves, and hand sanitizers for all individuals in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2024.md)
 * [Implement strict hygiene protocols, provide personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2458.md)
+
+## Blueprints with this mitigation
+
+* [Tracking and enforcing use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
 
 ## Risks possibly mitigated by this Mitigation
 

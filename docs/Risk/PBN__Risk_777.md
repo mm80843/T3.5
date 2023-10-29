@@ -43,7 +43,6 @@ Limited access to fresh produce may lead to increased consumption of processed a
 
 * [Implement innovative demand and supply-side initiatives to build resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1490.md)
 * [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1069.md)
-* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_79.md)
 
 ## Name of the risk
 

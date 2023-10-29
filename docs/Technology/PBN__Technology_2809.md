@@ -2,6 +2,10 @@
 
 # __Network of partners__
 
+## Link between Blueprint and General ontology
+
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_232.md)
+
 ## Category to which it belongs
 
 * [Enhancing digital connectivity through internet-based communication, networking platforms, and wireless data transmission for efficient collaboration and reliable connectivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Relational capability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_997.md)
+* [Relational capability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3997.md)
 

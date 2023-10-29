@@ -19,6 +19,10 @@
 * [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
 * [Inadequate access to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1804.md)
 
+## Blueprints with this risk
+
+* [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
+
 ## Description of the risk
 
 Inadequate layout and spatial configuration in apartments can lead to a lack of privacy and increased stress for residents

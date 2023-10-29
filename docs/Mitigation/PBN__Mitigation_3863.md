@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3863 
 
-# __Strengthen healthcare systems and ensure access to essential healthcare services through telemedicine and mobile clinics__
+# __Environmental impacts of construction during pandemic__
 
 ## Category to which it belongs
 
-* [Expanding healthcare access through remote technology, including telemedicine, telehealth clinics, and virtual consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
+* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
-* [Implement telehealth and telemedicine systems; increase healthcare infrastructure capacity; ensure access to essential healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4020.md)
-* [Telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1144.md)
-* [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3097.md)
-* [Telemedical services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
-* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_284.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
-* [Improve healthcare infrastructure, increase funding for healthcare services, implement telemedicine and mobile healthcare solutions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3675.md)
-* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2838.md)
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_46.md)
-* [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2846.md)
+* [Environmental impact of construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4020.md)
+* [Involvement of architectural and urban institutions in addressing pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3856.md)
+* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2067.md)
+* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4018.md)
+* [Financial impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4009.md)
+* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
+* [Reimagining large public spaces and events in a post-pandemic world](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3857.md)
+* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1959.md)
+* [Implementation of green construction practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3450.md)
+* [Reduction in commercial building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_367.md)
 

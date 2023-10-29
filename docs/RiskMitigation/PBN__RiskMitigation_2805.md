@@ -14,7 +14,7 @@
 * [Implement measures to decrease occupant density and increase social distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1818.md)
 * [Implement physical distancing measures, reduce overcrowding, and promote remote work when possible.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2500.md)
 * [Implementing social distancing measures, reducing population density](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2291.md)
-* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3200.md)
+* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5353.md)
 * [Enforce strict physical distancing measures and educate people on the importance of maintaining distance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2925.md)
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
 * [Implement strategies to control transmission, such as social distancing and isolation measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2959.md)

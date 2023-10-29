@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Advanced cleaning techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1795.md)
+* [Advanced cleaning techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4731.md)
 

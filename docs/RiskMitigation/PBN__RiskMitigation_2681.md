@@ -14,7 +14,7 @@
 * [Development of sustainable disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1293.md)
 * [Implementation of safety protocols, including personal protective equipment ppe , proper handling and disposal of samples, and adherence to biosafety guidelines, can minimize the risk of exposure and spread of the virus in the laboratory.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2166.md)
 * [Develop safe and efficient disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1577.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3192.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5348.md)
 * [Implement effective infection control measures, such as regular cleaning and disinfection, ventilation systems, and promoting personal hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2504.md)
 * [Proper disinfection and treatment of hospital wastes and wastewater to eliminate pathogens.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3004.md)
 * [Implement infection control measures, improve ventilation systems, implement air filtration and uv light sterilisation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1765.md)

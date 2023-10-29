@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3621 
 
-# __Implementing strict protocols for personal cleanliness, sanitization, and ventilation on construction sites.__
+# __Teleconsultations__
 
 ## Category to which it belongs
 
-* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
+* [Expanding healthcare access through remote technology, including telemedicine, telehealth clinics, and virtual consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
-* [Implement strict hygiene protocols, provide personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3501.md)
-* [Personal cleanliness, sanitization, and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_918.md)
-* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3387.md)
-* [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3503.md)
-* [Establishing building specific hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1783.md)
-* [Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3502.md)
-* [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3608.md)
-* [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3907.md)
-* [Hygiene compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3388.md)
-* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1206.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3436.md)
+* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2944.md)
+* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1203.md)
+* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1201.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
+* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3759.md)
+* [Telemedicine and telepsychology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1042.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_400.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_406.md)
 

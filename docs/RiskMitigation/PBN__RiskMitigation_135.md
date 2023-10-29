@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [Provide access to nature and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_886.md)
-* [Ecology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3175.md)
+* [Ecology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5331.md)
 * [Increase access to nature through balconies, green spaces, and windows, maximize daylight and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2226.md)
 * [Design buildings with access to green spaces, views of nature, and incorporate biophilic design elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2569.md)
 * [Separation of wet and living spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_887.md)
 * [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
 * [Design smaller, local green spaces and prioritize accessibility and biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1972.md)
-* [Work and living environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3354.md)
+* [Work and living environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5491.md)
 * [Design units with provisions for natural light, ventilation, access to nature, and personal gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2566.md)
 * [Increase biodiversity of urban environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_76.md)
 

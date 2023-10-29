@@ -21,8 +21,9 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 * [Encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1540.md)
 * [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
 * [Digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_15.md)
@@ -30,5 +31,4 @@
 * [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_884.md)
 * [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
 * [Diversified communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_578.md)
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 

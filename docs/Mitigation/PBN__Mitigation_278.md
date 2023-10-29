@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_278 
 
-# __Personalized ventilation__
+# __Public awareness campaigns__
 
 ## Category to which it belongs
 
-* [Ensuring optimal airflow and fresh air circulation in buildings through various methods and techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_183.md)
+* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
-* [Personalized ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1980.md)
-* [Install personalized ventilation systems, control air flow and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2985.md)
-* [Designing ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2234.md)
-* [Ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1938.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_262.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_850.md)
-* [Provide natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2635.md)
-* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2611.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_135.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
-
-## Property: has_MitigationPrinciple
-
-Providing individual occupants with clean air in their breathing zone to protect them from airborne pathogens and improve perceived air quality
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Personalized air supply devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2339.md)
+* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_280.md)
+* [Public awareness initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_279.md)
+* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_283.md)
+* [Public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_286.md)
+* [Public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_281.md)
+* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_277.md)
+* [Public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_282.md)
+* [Public awareness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_285.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2601.md)
+* [Occupant awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_284.md)
 

@@ -9,10 +9,10 @@
 ## Closest similar item
 
 * [Regular maintenance and calibration of devices, verification of data quality.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2778.md)
-* [Safety monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3330.md)
+* [Safety monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5468.md)
 * [Calibration and regular maintenance of sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2202.md)
-* [Technologies for monitoring and mitigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3205.md)
-* [Safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3216.md)
+* [Technologies for monitoring and mitigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5357.md)
+* [Safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5368.md)
 * [Analysis of complex links between sensor data and physiological status](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1425.md)
 * [Continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1000.md)
 * [Measures in operation and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_108.md)

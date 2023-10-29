@@ -16,7 +16,7 @@
 * [Implement financial support programs and resources for individuals and businesses; promote job creation and stability; provide financial education and counseling.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2603.md)
 * [Implement measures to support employment, provide income support, and promote economic recovery.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2664.md)
 * [Job training programs, re-skilling initiatives, and government assistance for unemployed individuals.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2839.md)
-* [Investment in job creation and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3139.md)
+* [Investment in job creation and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5300.md)
 * [Overhaul employment services and vocational training systems, coordinate efforts to retrain and redeploy workers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2954.md)
 
 ## Risks possibly mitigated by this Mitigation

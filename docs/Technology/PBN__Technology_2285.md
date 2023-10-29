@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Cognitive behavioral therapy cbt , acceptance and commitment-based therapy act , mindfulness-based stress reduction interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_206.md)
+* [Cognitive behavioral therapy cbt , acceptance and commitment-based therapy act , mindfulness-based stress reduction interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3300.md)
 

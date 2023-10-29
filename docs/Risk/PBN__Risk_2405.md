@@ -2,6 +2,10 @@
 
 # __Inadequate water storage, poor sanitation__
 
+## Link between Blueprint and General ontology
+
+* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_1.md)
+
 ## Category to which it belongs
 
 * [Limited access to clean water and sanitation, contamination of water bodies, poor water management and treatment, and the need for improved wastewater-based epidemiology methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
@@ -21,5 +25,5 @@
 
 ## Mitigations of this risk
 
-* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_90.md)
+* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3197.md)
 

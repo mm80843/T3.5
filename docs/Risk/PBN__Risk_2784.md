@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Devising mitigation measures in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_923.md)
+* [Devising mitigation measures in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3928.md)
 

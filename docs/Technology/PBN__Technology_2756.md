@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Reduction in pedestrian flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_890.md)
+* [Reduction in pedestrian flow](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3897.md)
 

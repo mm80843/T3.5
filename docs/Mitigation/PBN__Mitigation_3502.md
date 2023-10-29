@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3502 
 
-# __Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment__
+# __Expansion of sdg 11 to include pandemic preparedness__
 
 ## Category to which it belongs
 
-* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
+* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Implement strict hygiene protocols, provide personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3501.md)
-* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3387.md)
-* [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3503.md)
-* [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3907.md)
-* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
-* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3381.md)
-* [Promoting proper hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3386.md)
-* [Implementation of hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3608.md)
-* [Hygiene compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3388.md)
-* [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2935.md)
+* [Pandemic preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_450.md)
+* [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_452.md)
+* [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_457.md)
+* [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2503.md)
+* [Preparedness procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_454.md)
+* [Improved risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1188.md)
+* [Pandemic analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3120.md)
+* [Emergency preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_447.md)
+* [Covid-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3146.md)
+* [Investing in disaster risk reduction and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2802.md)
 

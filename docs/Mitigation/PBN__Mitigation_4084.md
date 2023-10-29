@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4084 
 
-# __Filters__
+# __Building envelope modifications__
 
 ## Category to which it belongs
 
-* [Enhanced air purification using high-efficiency filters and ventilation systems, including portable devices and hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
+* [Design spaces that are adaptable, flexible, and can be transformed to accommodate a variety of functions and needs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
 
 ## Closest similar item
 
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
-* [Information filtering systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3411.md)
-* [High-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2649.md)
-* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1507.md)
-* [Portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2023.md)
-* [Improve central air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4108.md)
-* [High-efficiency particulate filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2655.md)
-* [Use high-efficiency filters for air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2648.md)
-* [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3272.md)
-* [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_797.md)
+* [Adaptation of building envelope materials and techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1941.md)
+* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2272.md)
+* [Revision of building codes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3001.md)
+* [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2143.md)
+* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2271.md)
+* [Modernizing open-plan offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2993.md)
+* [Enhanced structural design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2155.md)
+* [Passive design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2612.md)
+* [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2665.md)
+* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
 

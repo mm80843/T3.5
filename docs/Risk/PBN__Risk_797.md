@@ -19,6 +19,10 @@
 * [Lack of design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2082.md)
 * [Slow adoption of new technologies in buildings sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_569.md)
 
+## Blueprints with this risk
+
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+
 ## Mitigations of this risk
 
 * [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1090.md)

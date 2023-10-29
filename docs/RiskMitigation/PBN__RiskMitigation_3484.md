@@ -1,4 +1,22 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3484 
 
+<<<<<<< HEAD
 # __outdoor furniture__
+=======
+# __Separate tracks for junior and senior residents__
+
+## Property: has_MitigationPrinciple
+
+Minimizing the number of participants in the "classroom" and allowing for more interaction at the appropriate level by having separate tracks for junior and senior residents.
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationSource
+
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
+
+## This Mitigation is enabled by the following technologies
+
+>>>>>>> 2568c185a4645acd80bd8efc79e88e1dab23d2d8
 

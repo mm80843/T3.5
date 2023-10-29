@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_945.md)
+* [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3947.md)
 

@@ -2,6 +2,10 @@
 
 # __Increase ventilation rates, modify ventilation systems, avoid air recirculation__
 
+## Link between Blueprint and General ontology
+
+* [Control airflows in spaces & Avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_4.md)
+
 ## Category to which it belongs
 
 * [Enhance ventilation systems, optimize airflow and air exchange, and improve indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_491.md)

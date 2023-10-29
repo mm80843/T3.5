@@ -19,7 +19,11 @@
 * [Spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1731.md)
 * [Contamination of object surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_921.md)
 
+## Blueprints with this risk
+
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
+
 ## Mitigations of this risk
 
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_243.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
 

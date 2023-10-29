@@ -19,6 +19,10 @@
 * [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_269.md)
 * [Limited access to outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2694.md)
 
+## Blueprints with this risk
+
+* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
+
 ## Description of the risk
 
 By limiting access nodes/points of public places, we can monitor better human circulation.

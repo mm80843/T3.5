@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_944 
 
-# __Use of social media for online healthcare support__
+# __Early warning systems__
 
 ## Category to which it belongs
 
-* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
+* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Public health education through social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2046.md)
-* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1673.md)
-* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_946.md)
-* [Social support and connection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
-* [Support and information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2532.md)
-* [Health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_430.md)
-* [Social media group for daily practice questions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)
-* [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_945.md)
-* [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1038.md)
-* [Mobile healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_16.md)
-
-## Property: has_MitigationPrinciple
-
-Provide online support and resources for healthcare-related issues
-
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of support for users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2797.md)
-
-## Property: has_MitigationSource
-
-* [The changes in the effects of social media use of Cypriots due to COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_185.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
-* [Internet access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1209.md)
+* [Early alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_947.md)
+* [Timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3021.md)
+* [Adoption of early alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2902.md)
+* [Enhance monitoring and early warning systems to detect and respond to shocks in a timely manner.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_951.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_941.md)
+* [Testing and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_942.md)
+* [Risk communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1182.md)
+* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3741.md)
+* [Ensure timely implementation of control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2754.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_838.md)
 

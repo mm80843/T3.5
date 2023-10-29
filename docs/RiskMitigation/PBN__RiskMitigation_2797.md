@@ -16,7 +16,7 @@
 * [Quarantine and self-isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_637.md)
 * [Augmented surveillance, prompt voluntary reporting, and provision of separate spaces for isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1010.md)
 * [Implement social distancing measures, case isolation, and home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1882.md)
-* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3203.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5355.md)
 * [Efficient public health response, quarantine measures, widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2586.md)
 
 ## Risks possibly mitigated by this Mitigation

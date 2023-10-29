@@ -23,7 +23,21 @@
 
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
 
+## Property: has_MitigationPrinciple
+
+Use sewage as an indicator of the scale of infection and to reveal the COVID-19 outbreak
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_718.md)
+
+## Property: has_MitigationSource
+
+* [An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_270.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2296.md)
+* [Wbe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2297.md)
+* [Nucleic acid-based polymerase chain reaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2298.md)
 

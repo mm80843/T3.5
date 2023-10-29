@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1015 
 
-# __Regional recovery__
+# __Development of detailed design guidelines__
 
 ## Category to which it belongs
 
-* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
+* [Design spaces that are adaptable, flexible, and can be transformed to accommodate a variety of functions and needs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
 
 ## Closest similar item
 
-* [Implementation of regional containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3722.md)
-* [Establishing a regional credit guarantee](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2017.md)
-* [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_980.md)
-* [Mental restoration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_909.md)
-* [Temporary closure of non-essential public places until recovery is reached.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3927.md)
-* [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_110.md)
-* [Regional and global information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1447.md)
-* [Promptly repair and maintain infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3045.md)
-* [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3098.md)
-* [Increased sharing of recovery stories and information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_947.md)
-
-## Property: has_MitigationPrinciple
-
-Supports and accelerates regional recovery by providing essential resources, assistance, and initiatives to startups and affected regions during the crisis and in the aftermath to ensure long-term growth and resilience.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of recovery support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2837.md)
-
-## Property: has_MitigationSource
-
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
+* [Clear guidelines and information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
+* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3189.md)
+* [Guideline recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1018.md)
+* [Active design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
+* [Incorporate health criteria into planning and design practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_820.md)
+* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2615.md)
+* [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2665.md)
+* [Innovative design approaches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_394.md)
+* [Explore modular and flexible designs to accommodate different uses and activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2613.md)
 

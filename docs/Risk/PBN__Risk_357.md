@@ -22,7 +22,6 @@
 ## Mitigations of this risk
 
 * [Exchange process between hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_468.md)
-* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_782.md)
-* [Changes in work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
-* [Exchange process between hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_784.md)
+* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3801.md)
+* [Changes in work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3802.md)
 

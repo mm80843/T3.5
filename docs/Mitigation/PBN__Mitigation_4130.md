@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4130 
 
-# __Plant insect-pollinated plants instead of wind-pollinated ones__
+# __Medical student support__
 
 ## Category to which it belongs
 
-* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
+* [Improving healthcare access, enhancing facilities, and strengthening healthcare systems for effective management and optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
-* [Plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3241.md)
-* [Green plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3262.md)
-* [Indoor plants as air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2741.md)
-* [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1085.md)
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1371.md)
-* [Plant species diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_621.md)
-* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
-* [Presence of indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1933.md)
-* [Native plant species diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_631.md)
-* [Potted plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3242.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_904.md)
+* [Medical staff training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2420.md)
+* [Improve working conditions and support for healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3033.md)
+* [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_17.md)
+* [Patient education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3168.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1191.md)
+* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_15.md)
+* [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_253.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
+* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1024.md)
 

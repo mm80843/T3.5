@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3043 
 
-# __Comprehensive building design and maintenance strategies to ensure optimal indoor environmental quality.__
+# __Automated face recognition__
 
 ## Category to which it belongs
 
-* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
+* [Promoting the wearing of masks and implementing measures to reduce face-to-face contact for risk reduction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3042.md)
-* [Improved indoor climate quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1707.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3365.md)
-* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2060.md)
-* [Healthy building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_138.md)
-* [Sustainable building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1729.md)
-* [Improve indoor air quality by addressing pollution sources, ventilation, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2616.md)
-* [Indoor building and finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_492.md)
-* [Improved understanding of indoor and outdoor environmental parameters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3551.md)
-* [Enhance indoor qualities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3174.md)
+* [Automated face recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3044.md)
+* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1519.md)
+* [Implementing automated face recognition technology with ai integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3045.md)
+* [Implementation of facial recognition technology and ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3046.md)
+* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
+* [Face recognition and thermal screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1908.md)
+* [Facial mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3047.md)
+* [Big data and facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2887.md)
+* [Thermal imaging-enabled facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3037.md)
+* [Smart facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1517.md)
 

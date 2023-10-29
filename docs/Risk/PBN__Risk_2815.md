@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_979.md)
+* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3980.md)
 

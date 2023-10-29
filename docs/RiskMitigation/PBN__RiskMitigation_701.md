@@ -2,6 +2,11 @@
 
 # __Air control__
 
+## Link between Blueprint and General ontology
+
+* [Control airflows in spaces & Avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_4.md)
+* [Control of airflows (airtight / negative pressure)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_7.md)
+
 ## Category to which it belongs
 
 * [Optimize indoor climate with advanced technology, efficient systems, controls, insulation, and monitoring to ensure comfort and air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_471.md)
@@ -14,10 +19,10 @@
 * [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2869.md)
 * [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_226.md)
 * [Control sources, design ventilation systems, clean air.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2994.md)
-* [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3268.md)
+* [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4620.md)
 * [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
 * [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_225.md)
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3270.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5415.md)
 
 ## Benefits linked to a risk
 

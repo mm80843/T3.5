@@ -23,7 +23,20 @@
 
 * [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
 
+## Property: has_MitigationPrinciple
+
+Use energy-efficient appliances and equipment to reduce energy consumption
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Eu3: energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_195.md)
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
+
+## Property: has_MitigationSource
+
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Energy reduction ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3466.md)
 

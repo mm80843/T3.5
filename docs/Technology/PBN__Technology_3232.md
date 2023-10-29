@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1660.md)
+* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4603.md)
 

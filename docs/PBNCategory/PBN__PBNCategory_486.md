@@ -47,7 +47,7 @@
 * [Increase investment in renewable energy incentives and tax credits, support renewable energy companies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2760.md)
 * [Promote inclusive policies for clean energy access, subsidize clean energy solutions for low-income households](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2146.md)
 * [Conduct energy audits and monitoring of building performance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1372.md)
-* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3392.md)
+* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5526.md)
 * [Upgrade inefficient systems and equipment, improve maintenance practices, and implement energy-efficient technologies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1914.md)
 * [Promote the use of cleaner and more efficient cooking and heating fuels, improve access to modern energy sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2638.md)
 * [Encourage energy efficiency practices, educate households on thermostat settings and hvac maintenance, and promote the use of energy-efficient hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2092.md)

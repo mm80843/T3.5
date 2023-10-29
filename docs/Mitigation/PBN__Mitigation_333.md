@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_333 
 
-# __Better isolating materials__
+# __Restrictions on shared facilities__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Material selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1436.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2984.md)
-* [Proper selection of indoor materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2056.md)
-* [Isolation space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_141.md)
-* [Isolation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1432.md)
-* [Partial isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1857.md)
-* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
-* [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2024.md)
-* [Creating isolation room](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2715.md)
-* [3d-printed isolation wards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2406.md)
-
-## Property: has_MitigationPrinciple
-
-Improve the energy efficiency and thermal comfort of buildings
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Restrictions on shared facilities and uses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_338.md)
+* [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
+* [Restrictions on shared facilities, devices, and services.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2642.md)
+* [Shared facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2641.md)
+* [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_680.md)
+* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2644.md)
+* [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2643.md)
+* [Ensure availability of private spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3975.md)
+* [Restrictions on private gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2708.md)
+* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3764.md)
 

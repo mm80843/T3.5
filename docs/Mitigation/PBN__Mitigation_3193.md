@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3193 
 
-# __Lack of social interaction__
+# __Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.__
 
 ## Category to which it belongs
 
-* [Promoting social distancing, equality, norms, interaction, and facilitation of social spaces to address societal issues and inequalities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
+* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3111.md)
-* [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4103.md)
-* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3981.md)
-* [Inadequate means of communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3775.md)
-* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2442.md)
-* [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2445.md)
-* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3772.md)
-* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4017.md)
-* [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4089.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_468.md)
+* [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_41.md)
+* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2616.md)
+* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1916.md)
+* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_830.md)
+* [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_40.md)
+* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_828.md)
+* [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1888.md)
+* [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1919.md)
+* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1918.md)
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_33.md)
 

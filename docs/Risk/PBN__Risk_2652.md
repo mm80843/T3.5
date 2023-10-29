@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Proximity and immediateness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_676.md)
+* [Proximity and immediateness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3705.md)
 

@@ -40,20 +40,20 @@ Preparing critical infrastructure for the future: Lessons learnt from the Covid-
 
 ## This article points to following mitigation
 
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_314.md)
-* [Interdependencies mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2114.md)
-* [Intelligence services integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2121.md)
-* [Exercises and trainings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2120.md)
-* [Resilient approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2118.md)
-* [Engagement of society](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2119.md)
-* [Government coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2116.md)
-* [Robustness of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2109.md)
-* [Redundancy of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2110.md)
-* [Prevention of disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2115.md)
-* [Rapidity of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2112.md)
-* [Vulnerability identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2113.md)
-* [Stakeholder cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2117.md)
-* [Resourcefulness of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2111.md)
+* [Resilient approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_644.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3389.md)
+* [Interdependencies mapping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4997.md)
+* [Robustness of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4992.md)
+* [Redundancy of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4993.md)
+* [Resourcefulness of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4994.md)
+* [Rapidity of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4995.md)
+* [Vulnerability identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4996.md)
+* [Prevention of disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4998.md)
+* [Government coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4999.md)
+* [Stakeholder cooperation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5000.md)
+* [Engagement of society](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5001.md)
+* [Exercises and trainings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5002.md)
+* [Intelligence services integration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5003.md)
 
 ## This article mentions these technologies
 

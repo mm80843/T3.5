@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1252 
 
-# __Digital transformation and telecommuting__
+# __Use of crystal violet for plaque detection__
 
 ## Category to which it belongs
 
-* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
+* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2916.md)
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_425.md)
-* [Telecommuting/remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_986.md)
-* [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1510.md)
-* [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
-* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
-* [Accelerated digital transformation of healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3142.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3300.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3136.md)
-* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3143.md)
-
-## Property: has_MitigationPrinciple
-
-Encourage remote work and digital communication to reduce physical contact and limit the spread of infections.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
+* [Plaque count determination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1251.md)
+* [Immunofluorescence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1286.md)
+* [Various disinfection technologies including ozone](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1289.md)
+* [Antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1290.md)
+* [Ozone disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1291.md)
+* [Use of hygienic and anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1292.md)
+* [Utilization of ozone, ultraviolet irradiation, liquid chlorine, chlorine dioxide, and sodium hypochlorite disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1293.md)
+* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1158.md)
+* [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1145.md)
+* [Ozonation technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1294.md)
 

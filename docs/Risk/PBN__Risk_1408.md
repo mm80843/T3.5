@@ -19,6 +19,10 @@
 * [Lack of sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3205.md)
 * [Inadequate hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
 
+## Blueprints with this risk
+
+* [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
+
 ## Description of the risk
 
 Lack of proper sanitation facilities in urban areas, increasing the risk of disease transmission.

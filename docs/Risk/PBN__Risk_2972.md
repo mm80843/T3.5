@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1292.md)
-* [Uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1289.md)
+* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_314.md)
+* [Uvgi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_315.md)
 

@@ -2,6 +2,10 @@
 
 # __Online communication tools__
 
+## Link between Blueprint and General ontology
+
+* [Signage and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_268.md)
+
 ## Category to which it belongs
 
 * [Enhanced exchange of information and ideas through technology, platforms, and techniques for effective communication and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Digital care processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1670.md)
+* [Digital care processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4612.md)
 

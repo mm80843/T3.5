@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Engaging the finance sector and attracting private capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_484.md)
+* [Engaging the finance sector and attracting private capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3546.md)
 

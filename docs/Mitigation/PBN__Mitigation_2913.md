@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2913 
 
-# __Teleconferencing__
+# __Ontology search engines__
 
 ## Category to which it belongs
 
-* [Expanding healthcare access through remote technology, including telemedicine, telehealth clinics, and virtual consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
+* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
-* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2909.md)
-* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2908.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_469.md)
-* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_603.md)
-* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2910.md)
-* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1459.md)
-* [Teleconferencing and virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1684.md)
-* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3593.md)
-* [Teleoperation for telemedicine and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2356.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2910.md)
+* [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2912.md)
+* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2914.md)
+* [Existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2911.md)
+* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2916.md)
+* [Ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2915.md)
+* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
+* [Ontology-guided machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2917.md)
+* [Established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2918.md)
+* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
 

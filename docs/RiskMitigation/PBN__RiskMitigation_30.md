@@ -23,7 +23,23 @@
 
 * [Improved monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_38.md)
 
+## Property: has_MitigationPrinciple
+
+Utilization of IoT devices, 5G networks, and BLE technology to monitor self-isolation and track close contacts, enabling remote monitoring of patients and providing real-time data for contact tracing
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_24.md)
+* [Monitoring compliance of self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3240.md)
+
+## Property: has_MitigationSource
+
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
+* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3328.md)
+* [Mmtc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3360.md)
+* [Ble](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3361.md)
 

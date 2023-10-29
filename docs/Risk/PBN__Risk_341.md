@@ -2,6 +2,10 @@
 
 # __Lack of adequate indoor air quality__
 
+## Link between Blueprint and General ontology
+
+* [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_0.md)
+
 ## Category to which it belongs
 
 * [Inadequate ventilation, poor air quality, and high levels of indoor pollutants pose health risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)

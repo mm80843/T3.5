@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_92 
 
-# __Community outreach and participation__
+# __Sewage epidemiology indicator__
 
 ## Category to which it belongs
 
-* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
+* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3626.md)
-* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2531.md)
-* [Health education and community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3625.md)
-* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3099.md)
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1032.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1687.md)
-* [Targeted outreach and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1468.md)
-* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1247.md)
-* [Community action](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1306.md)
-* [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3098.md)
-
-## Property: has_MitigationPrinciple
-
-Involve the community and gain support for control policies and preventive measures
-
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of citizen cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2407.md)
-
-## Property: has_MitigationSource
-
-* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_90.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_88.md)
+* [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1083.md)
+* [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_95.md)
+* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_91.md)
+* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_93.md)
+* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_89.md)
+* [Implement wastewater-based epidemiology wbe , target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_94.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_96.md)
+* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1974.md)
 

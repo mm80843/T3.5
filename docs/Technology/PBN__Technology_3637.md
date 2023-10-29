@@ -2,6 +2,18 @@
 
 # __Mobile phones__
 
+## Link between Blueprint and General ontology
+
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
+* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_33.md)
+* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_36.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
+* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_41.md)
+* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_44.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_43.md)
+* [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_52.md)
+
 ## Category to which it belongs
 
 * [A compilation of various mobile apps and technologies used for reporting, contact tracing, banking, scheduling, and other functions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
@@ -21,5 +33,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Migration maps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2300.md)
+* [Migration maps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5175.md)
 

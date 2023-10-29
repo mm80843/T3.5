@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_782.md)
+* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3801.md)
 

@@ -2,6 +2,12 @@
 
 # __Genetic modification technologies__
 
+## Link between Blueprint and General ontology
+
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_227.md)
+* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_259.md)
+* [Incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_228.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,5 +27,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Genetic manipulation of mosquitoes gene drive](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2323.md)
+* [Genetic manipulation of mosquitoes gene drive](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5195.md)
 

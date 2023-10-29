@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_962 
 
-# __Increase spending on development__
+# __Regulatory adaptation__
 
 ## Category to which it belongs
 
@@ -8,29 +8,14 @@
 
 ## Closest similar item
 
-* [Improving spending effectiveness and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_478.md)
-* [Substantially increase funding for climate and development organizations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1927.md)
-* [Wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1745.md)
-* [Sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1013.md)
-* [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3583.md)
-* [Implementation of wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3603.md)
-* [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3194.md)
-* [Increasing international development finance and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_480.md)
-* [Increased use of technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1524.md)
-* [Financial impact on construction industry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4088.md)
-
-## Property: has_MitigationPrinciple
-
-Increase government spending on development projects to stimulate the economy and create job opportunities
-
-## Risks possibly mitigated by this Mitigation
-
-* [Decreased job opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2804.md)
-
-## Property: has_MitigationSource
-
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_956.md)
+* [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_954.md)
+* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_952.md)
+* [Monitoring regulatory environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_955.md)
+* [Difficulty in adapting to new rules and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_960.md)
+* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_953.md)
+* [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3848.md)
+* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_957.md)
+* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_958.md)
+* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_22.md)
 

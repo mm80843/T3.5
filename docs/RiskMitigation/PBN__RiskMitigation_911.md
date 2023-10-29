@@ -14,7 +14,7 @@
 * [Following official organizations on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_912.md)
 * [Promoting reliable sources, facilitating information sharing, engaging with the public through social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2100.md)
 * [Improve governance models to be more collaborative, proactive, and integrated, focus on participatory decision-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1648.md)
-* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3235.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5385.md)
 * [Improving communication channels, sharing findings in non-technical language, coordination between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2331.md)
 * [Promote evidence-based decision-making, improve public health messaging, and address misinformation and conspiracy theories](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2115.md)
 * [Ensuring critical evaluation of information, considering multiple sources, promoting evidence-based decision making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2098.md)

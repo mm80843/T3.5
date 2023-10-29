@@ -1,21 +1,22 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3304 
 
-# __Personal hygiene eg handwashing__
+# __Ultraviolet germicidal irradiation uvgi__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Promote and enforce comprehensive hygiene practices, including sanitation measures, handwashing, and cleanliness protocols.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_492.md)
+UVGI inactivates microbes, including SARS-CoV-2, by damaging their DNA, reducing the risk of transmission.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_86.md)
-* [Hand washing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1363.md)
-* [Proper handwashing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1378.md)
-* [Personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3303.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
-* [Promote regular handwashing, hygiene education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1533.md)
-* [Education on proper handwashing techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2001.md)
-* [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2235.md)
-* [Regular cleaning and disinfection of surfaces, frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2311.md)
-* [Practicing hand hygiene, disinfecting commonly touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1760.md)
+* [Poor air and surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2470.md)
+
+## Property: has_MitigationSource
+
+* [Environmental factors involved in SARS-CoV-2 transmission: effect and role of indoor environmental quality in the strategy for COVID-19 infection control](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_249.md)
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2079.md)
+* [Uvgi lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2332.md)
 

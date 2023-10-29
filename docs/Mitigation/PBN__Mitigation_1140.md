@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1140 
 
-# __More greenery along streets__
+# __Implementation of safety protocols__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [Proactive implementation of safety protocols, including the provision of personal protective equipment, to ensure protection and minimize risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_181.md)
 
 ## Closest similar item
 
-* [Increase street greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2127.md)
-* [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2100.md)
-* [Living on a road with higher levels of greenness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1937.md)
-* [Greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3413.md)
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1172.md)
-* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
-* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3189.md)
-* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2059.md)
-* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1176.md)
-* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2756.md)
-
-## Property: has_MitigationPrinciple
-
-Increasing greenery along streets to create a healthier and more pleasant environment, provide shade, and encourage active transportation modes while maintaining physical distancing.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_749.md)
+* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2487.md)
+* [Panic button protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3660.md)
+* [Workplace safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3056.md)
+* [Sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3687.md)
+* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1720.md)
+* [Maintain clear communication, demonstrate safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3661.md)
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1135.md)
+* [Implementing remote work arrangements, implementing safety protocols, ensuring proper communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3813.md)
+* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
 

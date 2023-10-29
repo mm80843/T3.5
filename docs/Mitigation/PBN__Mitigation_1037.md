@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1037 
 
-# __Nature-based activities__
+# __Flexible design__
 
 ## Category to which it belongs
 
-* [Promote and facilitate various forms of physical activity and exercise through online and home-based programs and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
+* [Design spaces that are adaptable, flexible, and can be transformed to accommodate a variety of functions and needs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
 
 ## Closest similar item
 
-* [Outdoor activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_907.md)
-* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_69.md)
-* [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_987.md)
-* [Nature interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2411.md)
-* [Natural outdoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2813.md)
-* [Interaction with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_465.md)
-* [Outdoor recreation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1034.md)
-* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3393.md)
-* [Designing with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2414.md)
-* [Provide spaces for physical activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3385.md)
-
-## Property: has_MitigationPrinciple
-
-Encouraging nature-based activities and outdoor experiences in areas with limited access to parks and greenspaces
-
-## Risks possibly mitigated by this Mitigation
-
-* [Limited access to parks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2857.md)
-
-## Property: has_MitigationSource
-
-* [Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_276.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Availability of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2828.md)
+* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2652.md)
+* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_397.md)
+* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2615.md)
+* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2651.md)
+* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3189.md)
+* [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3190.md)
+* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1040.md)
+* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2650.md)
+* [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2931.md)
+* [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2929.md)
 

@@ -14,7 +14,7 @@
 * [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1322.md)
 * [Adaptive design of built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_753.md)
 * [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1090.md)
-* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3258.md)
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5406.md)
 * [Incorporate design flexibility in the planning and construction process.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2249.md)
 * [Passive design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_996.md)
 * [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)

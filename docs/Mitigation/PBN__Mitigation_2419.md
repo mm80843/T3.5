@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2419 
 
-# __Urban gardens__
+# __Compartmentalization__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
-* [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1142.md)
-* [Domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
-* [Pocket gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3186.md)
-* [Vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3170.md)
-* [Rain gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3187.md)
-* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3335.md)
-* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
-* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_767.md)
-* [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3085.md)
+* [Compartmentalization of private and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2422.md)
+* [Staff compartmentalization within zones/cohorts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2418.md)
+* [Pocket spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
+* [Containment space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_270.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2276.md)
+* [Transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_210.md)
+* [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1402.md)
+* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_326.md)
+* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_730.md)
+* [Management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3104.md)
 

@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1815 
 
-# __Accelerating transition towards digitalization__
+# __Transparent governance__
 
 ## Category to which it belongs
 
@@ -8,33 +8,14 @@
 
 ## Closest similar item
 
-* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
-* [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_425.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3136.md)
-* [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3144.md)
-* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3143.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1895.md)
-* [Accelerated digital transformation of healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3142.md)
-* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3133.md)
-* [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3134.md)
-
-## Property: has_MitigationPrinciple
-
-Use smart solutions to promote teleworking, telemedicine, and online platforms, and accelerate digitalization of different sectors.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3329.md)
-* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3328.md)
+* [Governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1816.md)
+* [Transparency and governance of data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1817.md)
+* [Trust and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1726.md)
+* [Strengthen governance structures, promote transparency and accountability, and invest in strong leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1818.md)
+* [Foster social capital, trust, and participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1819.md)
+* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1820.md)
+* [Information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1821.md)
+* [Standardized protocols and governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1139.md)
+* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1822.md)
+* [Fragmented governance and limited cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1823.md)
 

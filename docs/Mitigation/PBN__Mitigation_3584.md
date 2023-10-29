@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3584 
 
-# __Lack of focus on flexible design solutions for new buildings__
+# __Advanced contact tracing and monitoring technologies__
 
 ## Category to which it belongs
 
-* [Design spaces that are adaptable, flexible, and can be transformed to accommodate a variety of functions and needs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
+* [Utilize technology to track, trace, and monitor contacts for effective and secure contact tracing and testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
 
 ## Closest similar item
 
-* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
-* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1617.md)
-* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2101.md)
-* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3457.md)
-* [Flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2835.md)
-* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3443.md)
-* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_764.md)
-* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3315.md)
-* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3458.md)
-* [Incorporate design flexibility in the planning and construction process.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2753.md)
+* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_76.md)
+* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_69.md)
+* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_71.md)
+* [Use of technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
+* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_68.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_66.md)
+* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_169.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_74.md)
+* [Contact tracing and control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2686.md)
+* [Contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_67.md)
 

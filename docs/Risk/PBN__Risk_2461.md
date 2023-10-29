@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Nano-vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_195.md)
+* [Nano-vaccines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3289.md)
 

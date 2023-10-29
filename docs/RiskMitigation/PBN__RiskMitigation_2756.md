@@ -12,10 +12,10 @@
 * [Improve vaccine efficacy through research and development.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2509.md)
 * [Vaccines development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_984.md)
 * [Implement effective communication and education campaigns to address vaccine hesitancy, provide accurate information, and address concerns and misconceptions. engage with local communities and healthcare providers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2507.md)
-* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3263.md)
+* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5411.md)
 * [Promote healthy lifestyles, vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2293.md)
 * [Develop and distribute effective medications and vaccines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2013.md)
-* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3259.md)
+* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5407.md)
 * [Support research and development of vaccine and antiviral treatments, promote preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2313.md)
 * [Improve access to vaccination through targeted distribution and community outreach.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2540.md)
 

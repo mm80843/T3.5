@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Training and upskilling of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_133.md)
+* [Training and upskilling of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3236.md)
 

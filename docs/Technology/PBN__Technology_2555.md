@@ -21,8 +21,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Multilevel logistic regression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_572.md)
-* [Descriptive statistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_575.md)
-* [Local moran’s i statistic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_576.md)
-* [Multivariable adjusted logistic regression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_578.md)
+* [Multilevel logistic regression](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3619.md)
+* [Descriptive statistics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3621.md)
+* [Local moran’s i statistic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3622.md)
+* [Multivariable adjusted logistic regression](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3624.md)
 

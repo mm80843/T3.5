@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_203 
 
-# __Providing shelters and nutrition for refugees and the homeless__
+# __Regulation of surveillance technologies__
 
 ## Category to which it belongs
 
-* [Build resilience, ensure food supply, manage crises, and enhance emergency plans for a sustainable and inclusive future.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
+* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Safe shelters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_47.md)
-* [Establish alternative support systems such as online counseling and helplines, ensure shelters remain open and accessible during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3462.md)
-* [Shelter and safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1261.md)
-* [Supporting workers and migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_204.md)
-* [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3961.md)
-* [Provide financial assistance and resources to individuals and families facing economic hardship, promote economic empowerment programs for women](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3770.md)
-* [Conversion of public venues into makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3815.md)
-* [Ensure food supply chains, promote sustainable agriculture, and provide food assistance and support to vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3853.md)
-* [Ensure adequate food production, import, storage, and transportation, prioritize vulnerable families, establish neighborhood food markets.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3855.md)
-* [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3851.md)
-
-## Property: has_MitigationPrinciple
-
-Establish temporary shelters and provide essential supplies for refugees and homeless individuals.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Homelessness and food insecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2466.md)
-
-## Property: has_MitigationSource
-
-* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_167.md)
+* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_165.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_162.md)
+* [Implementing new regulations and technologies for tracking and surveillance in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4074.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_161.md)
+* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_164.md)
+* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_201.md)
+* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_163.md)
+* [Implementation of privacy safeguards, transparent and accountable surveillance practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4075.md)
+* [Mass surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_200.md)
 

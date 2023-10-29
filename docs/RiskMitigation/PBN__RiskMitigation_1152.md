@@ -16,7 +16,7 @@
 * [Mobile technology applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1148.md)
 * [Mobile tracing and monitoring apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1158.md)
 * [Development of mobile applications, websites, and communication channels for information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2355.md)
-* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3219.md)
+* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5371.md)
 * [Contact tracing mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_810.md)
 
 ## Benefits linked to a risk

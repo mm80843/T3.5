@@ -44,11 +44,11 @@
 
 ## This Technology enables the following mitigations
 
-* [Worker education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_851.md)
-* [Providing effective guidance and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1784.md)
-* [Training and upskilling of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_133.md)
-* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1529.md)
-* [Training for healthcare professionals in psychosocial skills](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1304.md)
+* [Worker education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3863.md)
+* [Providing effective guidance and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4720.md)
+* [Training and upskilling of construction workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3236.md)
+* [Training for healthcare professionals in psychosocial skills](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4275.md)
+* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4484.md)
 
 ## Risks linked to this technology
 

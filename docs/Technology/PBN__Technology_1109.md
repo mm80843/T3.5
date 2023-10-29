@@ -2,6 +2,13 @@
 
 # __Air filters__
 
+## Link between Blueprint and General ontology
+
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_6.md)
+* [HEPA Filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_25.md)
+* [Air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_146.md)
+* [Air purifier with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_147.md)
+
 ## Category to which it belongs
 
 * [Air and water purification systems, including filters, machines, purifiers, and technologies for improved air quality and filtration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
@@ -32,8 +39,8 @@
 * [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
 * [Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_71.md)
 * [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
-* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 * [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
+* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 * [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
 
 ## This Technology belongs to this TechSubgroup
@@ -44,14 +51,14 @@
 
 ## This Technology enables the following mitigations
 
-* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_528.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
-* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1702.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
-* [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_455.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1691.md)
-* [Good ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1969.md)
-* [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2149.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1353.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_312.md)
+* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3578.md)
+* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4641.md)
+* [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3517.md)
+* [Good ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4886.md)
+* [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5031.md)
 
 ## Risks linked to this technology
 

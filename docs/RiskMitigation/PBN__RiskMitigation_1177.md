@@ -2,6 +2,10 @@
 
 # __Moderate physical exercise__
 
+## Link between Blueprint and General ontology
+
+* [Improve physical health](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_27.md)
+
 ## Category to which it belongs
 
 * [Promote digital platforms, virtual activities, and social connections to facilitate remote trails, exercise programs, and community support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_497.md)
@@ -9,7 +13,7 @@
 ## Closest similar item
 
 * [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_73.md)
-* [Improve physical health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3284.md)
+* [Improve physical health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5427.md)
 * [Home-based exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1173.md)
 * [Home-based exercises and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_894.md)
 * [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1175.md)
@@ -17,7 +21,7 @@
 * [Promote home-based exercise programs, provide alternative modes of exercise that can be done at home.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1488.md)
 * [Promote alternative forms of exercise, encourage online supervised exercise and remote social interaction.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1489.md)
 * [Encourage physical exercise at home, balance and flexibility training, muscle strength exercise, and endurance training.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1486.md)
-* [Fitness and sports](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3283.md)
+* [Fitness and sports](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5426.md)
 
 ## Benefits linked to a risk
 

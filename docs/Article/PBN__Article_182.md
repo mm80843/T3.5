@@ -43,12 +43,12 @@ Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronav
 
 ## This article points to following mitigation
 
-* [Aerosol irradiation chamber](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_320.md)
-* [Tcid50 assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_321.md)
-* [Immunofluorescence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_322.md)
-* [Robust linear regression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_323.md)
-* [Biosampler](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_324.md)
-* [Far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_319.md)
+* [Aerosol irradiation chamber](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3395.md)
+* [Tcid50 assay](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3396.md)
+* [Immunofluorescence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3397.md)
+* [Robust linear regression](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3398.md)
+* [Biosampler](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3399.md)
+* [Far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3394.md)
 
 ## This article mentions these technologies
 

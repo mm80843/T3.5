@@ -21,7 +21,7 @@
 
 ## Mitigations of this risk
 
-* [Solidarity networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1896.md)
-* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1894.md)
-* [Sensory networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1897.md)
+* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1198.md)
+* [Solidarity networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4818.md)
+* [Sensory networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4819.md)
 

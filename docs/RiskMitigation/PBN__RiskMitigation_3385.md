@@ -1,21 +1,19 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3385 
 
-# __Proper insulation materials and cleaning procedures__
+# __Contactless door sensors__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Optimize indoor climate with advanced technology, efficient systems, controls, insulation, and monitoring to ensure comfort and air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_471.md)
+Installing sensors on public transportation doors to minimize contact and reduce the risk of disease transmission.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3358.md)
-* [Insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1192.md)
-* [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3297.md)
-* [Innovative insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3357.md)
-* [Development of new materials for better insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_294.md)
-* [Improve insulation and heating systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_453.md)
-* [Research and develop new materials for insulation and building performance, enhance construction methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1732.md)
-* [Regular cleaning and disinfection, proper ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2473.md)
-* [Regular cleaning and sanitization procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1307.md)
-* [Proper maintenance and cleaning of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_518.md)
+
+## Property: has_MitigationSource
+
+* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2372.md)
 

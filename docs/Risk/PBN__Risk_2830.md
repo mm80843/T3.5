@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Immediate relief](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1007.md)
+* [Immediate relief](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4006.md)
 

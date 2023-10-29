@@ -1,21 +1,19 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3386 
 
-# __Use of personal protective equipment in schools and day care facilities__
+# __Hand sanitizer dispensers__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Prioritize safety and security, utilizing 3d-printed ppe, safety protocols, comprehensive education programs, and strict enforcement of measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_495.md)
+Placing hand sanitizer dispensers on public transportation to encourage regular hand hygiene and reduce the risk of disease transmission.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3299.md)
-* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1095.md)
-* [Proper training and enforcement of the use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2833.md)
-* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3298.md)
-* [Using appropriate protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1092.md)
-* [Implementing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_938.md)
-* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_376.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
-* [Providing additional personal protective equipment ppe to workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1060.md)
+
+## Property: has_MitigationSource
+
+* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Hand sanitizer technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2373.md)
 

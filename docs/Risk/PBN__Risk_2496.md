@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Content analysis of news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+* [Content analysis of news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3393.md)
 

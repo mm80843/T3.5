@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1437 
 
-# __Drainage management__
+# __Pedestrian and cycling facilities__
 
 ## Category to which it belongs
 
-* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
+* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
-* [Drainage system management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1474.md)
-* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2400.md)
-* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1086.md)
-* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2098.md)
-* [Water quality management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_182.md)
-* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2317.md)
-* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_90.md)
-* [Provision of water infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3269.md)
-* [Improved water treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2586.md)
-* [Water consumption and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_489.md)
-
-## Property: has_MitigationPrinciple
-
-Implement proper drainage systems to prevent stagnant water accumulation
-
-## Risks possibly mitigated by this Mitigation
-
-* [Stagnant water provides mosquito breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3043.md)
-
-## Property: has_MitigationSource
-
-* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Walking, cycling, and public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1876.md)
+* [Pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1441.md)
+* [Creating more bike lanes and pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1433.md)
+* [Creation of space for walking and cycling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2635.md)
+* [Incorporating green and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2307.md)
+* [Re-design streets to widen sidewalks, create more bike lanes, and prioritize pedestrian spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1434.md)
+* [Invest in infrastructure for walking and cycling, create safe routes, implement traffic calming measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2313.md)
+* [Implementing temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1443.md)
+* [Designing streets for pedestrians](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
+* [Reduction in pedestrian flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_341.md)
 

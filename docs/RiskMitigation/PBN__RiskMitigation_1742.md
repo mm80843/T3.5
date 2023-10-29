@@ -10,7 +10,7 @@
 
 * [Ensuring appropriate training and support for healthcare professionals, regular maintenance and quality control of equipment.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3044.md)
 * [Improve access to specialist care in rural areas, increase referral rates to specialists, provide transportation options for rural patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1839.md)
-* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3238.md)
+* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5388.md)
 * [Telemedicine and remote consultations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1431.md)
 * [Telemedicine for psychosocial services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_830.md)
 * [Integration of primary, hospital, long term, and social care](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_905.md)

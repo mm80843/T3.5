@@ -2,6 +2,10 @@
 
 # __Distress, psychiatric illness__
 
+## Link between Blueprint and General ontology
+
+* [Mental health](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_5.md)
+
 ## Category to which it belongs
 
 * [The toll of the pandemic on mental health, including increased mental health issues, domestic violence, and limited resources for support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
@@ -21,6 +25,6 @@
 
 ## Mitigations of this risk
 
-* [Structuring activities and maintaining routines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1565.md)
-* [Psychoeducation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1558.md)
+* [Psychoeducation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4509.md)
+* [Structuring activities and maintaining routines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4515.md)
 

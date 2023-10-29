@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Ensure clear communication from health authorities, combat fake news and rumors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1841.md)
-* [Public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3239.md)
+* [Public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5389.md)
 * [Promoting accurate and evidence-based risk communication, addressing misinformation and rumors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2401.md)
 * [Communicate and educate the public about the health benefits of policies, use evidence-based arguments to justify policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2008.md)
 * [Conducting public health campaigns, providing educational materials and resources, promoting accurate information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1614.md)

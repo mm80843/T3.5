@@ -2,6 +2,20 @@
 
 # __Digital technology__
 
+## Link between Blueprint and General ontology
+
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_1.md)
+* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_55.md)
+* [Digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_56.md)
+* [Expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_57.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_58.md)
+* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_60.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_61.md)
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_62.md)
+* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_101.md)
+* [Augmented reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_224.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,7 +35,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_425.md)
-* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_40.md)
-* [Hybrid work models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1948.md)
+* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3489.md)
+* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3154.md)
+* [Hybrid work models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4867.md)
 

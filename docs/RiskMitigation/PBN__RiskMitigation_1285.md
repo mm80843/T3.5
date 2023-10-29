@@ -8,12 +8,12 @@
 
 ## Closest similar item
 
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3221.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3222.md)
-* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3220.md)
-* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3167.md)
-* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3170.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3225.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4490.md)
+* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5373.md)
+* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5372.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5323.md)
+* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5326.md)
+* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5376.md)
 * [Implementation of iot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1418.md)
 * [Iot technologies iot, ai, big data, vr](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_143.md)
 * [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1413.md)
@@ -23,7 +23,21 @@
 
 * [Early detection and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1267.md)
 
+## Property: has_MitigationPrinciple
+
+IoT sensors collect data for monitoring and AI helps in analyzing the data for early detection and prevention.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
+* [Infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2585.md)
+
+## Property: has_MitigationSource
+
+* [Role of Information Technology in Covid-19 Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_267.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 

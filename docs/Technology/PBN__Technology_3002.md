@@ -2,6 +2,17 @@
 
 # __Iot sensors__
 
+## Link between Blueprint and General ontology
+
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
+* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_54.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_48.md)
+* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_46.md)
+* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_109.md)
+* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_47.md)
+* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_113.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_116.md)
+
 ## Category to which it belongs
 
 * [A wide array of advanced technologies that detect and measure various environmental factors and human activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
@@ -21,5 +32,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Iot and ai](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1283.md)
+* [Iot and ai](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1285.md)
 

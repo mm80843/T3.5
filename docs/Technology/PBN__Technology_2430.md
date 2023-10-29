@@ -2,6 +2,14 @@
 
 # __Data science__
 
+## Link between Blueprint and General ontology
+
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
+* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_71.md)
+* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_72.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_77.md)
+* [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_78.md)
+
 ## Category to which it belongs
 
 * [Efficient use of data analysis and modeling techniques to analyze various types of data for targeted insights.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_410.md)
+* [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3477.md)
 

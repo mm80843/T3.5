@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3624 
 
-# __Increase testing capacity, improved testing methods__
+# __Strengthen and adequately fund public health systems, build stockpiles for critical medical supplies.__
 
 ## Category to which it belongs
 
-* [Enhanced and widespread testing, utilizing various methods and technologies, to detect and diagnose covid-19 with accuracy and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
+* [Improving healthcare access, enhancing facilities, and strengthening healthcare systems for effective management and optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
-* [Improve testing methods, consider testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3623.md)
-* [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3797.md)
-* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3773.md)
-* [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3774.md)
-* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2744.md)
-* [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3931.md)
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_992.md)
-* [Increase testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3934.md)
-* [Expand testing capacity, prioritize testing for high-risk individuals and settings, implement targeted testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3932.md)
-* [Increased testing access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1461.md)
+* [Enhance healthcare capacity, stockpile medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3153.md)
+* [Increase healthcare capacity, ensure availability of medical supplies and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3460.md)
+* [Investing in healthcare infrastructure, increasing medical facility capacity, improving supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_381.md)
+* [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1946.md)
+* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1947.md)
+* [Strengthened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2502.md)
+* [Increase production and distribution of personal protective equipment, stockpile reserves for emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4013.md)
+* [Strengthening healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2501.md)
+* [Enhance containment measures, strengthen healthcare systems, improve coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2840.md)
+* [Developing robust healthcare systems, stockpiling medical supplies, conducting regular drills and simulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3746.md)
 

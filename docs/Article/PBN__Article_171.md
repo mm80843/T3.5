@@ -54,22 +54,22 @@ A review of facilities management interventions to mitigate respiratory infectio
 
 ## This article points to following mitigation
 
-* [Increased outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2395.md)
-* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2402.md)
-* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2399.md)
-* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2401.md)
-* [Air pressure controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2398.md)
-* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2397.md)
-* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2400.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
+* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_583.md)
+* [Increased outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5261.md)
+* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5265.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5262.md)
+* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5263.md)
+* [Air pressure controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5264.md)
+* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5266.md)
+* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5267.md)
 
 ## This article mentions these technologies
 
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
-* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1100.md)
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1100.md)
 * [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2007.md)
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
 * [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)

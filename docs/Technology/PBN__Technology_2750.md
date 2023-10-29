@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Crisis response leadership programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
+* [Crisis response leadership programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3890.md)
 

@@ -14,7 +14,7 @@
 * [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1261.md)
 * [Providing integrated spaces for social interaction and relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_961.md)
 * [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3287.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5430.md)
 * [Promotion of virtual communication and digital technologies for social interaction, designated public spaces that allow for safe socializing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2651.md)
 * [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_702.md)
 * [Creating a new vocabulary or typology to describe public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1257.md)

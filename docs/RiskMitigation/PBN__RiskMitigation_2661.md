@@ -14,7 +14,7 @@
 * [Provide digital devices and internet access to overcome technological barriers, offer targeted support for language and academic needs of immigrant students.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2429.md)
 * [Provide education and training on mobile technology, enhance accessibility through simplified user interfaces, address barriers to internet and smartphone access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2573.md)
 * [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_981.md)
-* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3153.md)
+* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5312.md)
 * [Implement remote learning strategies, provide support for students and families during closures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2480.md)
 * [Online learning platforms, distribution of educational materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2171.md)
 * [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)

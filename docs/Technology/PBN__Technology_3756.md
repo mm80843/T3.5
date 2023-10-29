@@ -2,6 +2,10 @@
 
 # __Hvac and ventilation systems__
 
+## Link between Blueprint and General ontology
+
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_137.md)
+
 ## Category to which it belongs
 
 * [Enhanced hvac systems with improved ventilation, air purification, humidity control, and energy efficiency, along with regular maintenance and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)

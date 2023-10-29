@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3172 
 
-# __Sustainability and environment__
+# __Virus concentration methods__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Promote forest conservation, sustainable land use, and equitable access to urban green spaces for a greener and healthier environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_483.md)
+Ensuring effective recovery of enveloped viruses such as SARS-CoV-2 from wastewater matrices
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_333.md)
-* [Green and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_347.md)
-* [Research on sustainable solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_619.md)
-* [Advocacy and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3390.md)
-* [Environmental measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1366.md)
-* [Sustainable site management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1392.md)
-* [Implement sustainable land use practices, protect and restore ecosystems, and mitigate climate change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1835.md)
-* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1289.md)
-* [Promoting sustainable production and consumption methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_281.md)
-* [Work and living environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3354.md)
+* [Low recovery of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2397.md)
+
+## Property: has_MitigationSource
+
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Electronegative membranes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2175.md)
+* [Centrifugal filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2176.md)
 

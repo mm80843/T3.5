@@ -46,16 +46,16 @@ Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Str
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
-* [Border shutdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1530.md)
-* [Internal travel constraints](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1531.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_242.md)
-* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1534.md)
-* [Effective public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1532.md)
-* [Health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1533.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
+* [Border shutdowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4485.md)
+* [Internal travel constraints](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4486.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3123.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_427.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3329.md)
+* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4489.md)
+* [Effective public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4487.md)
+* [Health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4488.md)
 
 ## This article mentions these technologies
 

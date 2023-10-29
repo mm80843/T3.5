@@ -23,19 +23,32 @@ This aims at establishing checkpoints at high-traffic locations or key nodes in 
 
 ## Enablers of the blueprint
 
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
 * [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
+* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_10.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
 * [AI/ML](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_8.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
-* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_10.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
 
 ## Interventions of the blueprint
 
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_20.md)
 * [Optimize users flows to prevent contamination](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_17.md)
 * [Occupancy control (eg separating at/risk contaminated population)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_18.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_20.md)
+
+## Possible mitigations of the BP
+
+* [Improved access to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_686.md)
+* [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2023.md)
+* [Establish occupancy limits for spaces, provide adequate space and amenities for occupants, promote social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1774.md)
+* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_323.md)
+* [Quarantine/isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3346.md)
+* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4132.md)
+* [Health checkpoints set up at terminals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4951.md)
+* [Improve monitoring and enforcement of mitigation measures, increase public awareness and understanding of the importance of measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2360.md)
+* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4890.md)
+* [Limited access nodes for better management of public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5577.md)
 
 ## Type of deployment of the blueprint
 
@@ -61,6 +74,19 @@ There are various limitations to this measure:
 •	 tests false positives 
 •	 non-acceptance of increased personal monitoring by the user, for example for privacy considerations reasons
 • high operation costs
+
+## Possible risks of the BP
+
+* [Limited monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2455.md)
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3541.md)
+* [Limited access nodes for better management of public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_263.md)
+* [Checkpoint allocation for monitory and recording opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_265.md)
+* [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3435.md)
+* [Monitoring and restriction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2527.md)
+* [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_272.md)
+* [Impact of lockdowns on access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2223.md)
+* [Public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_718.md)
+* [Implement administrative control measures, environmental control measures, and personal respiratory protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3652.md)
 
 ## Scale of the of the blueprint
 

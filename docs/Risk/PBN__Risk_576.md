@@ -19,6 +19,10 @@
 * [Lack of specific biomarkers for covid-19 detection in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1147.md)
 * [Spread of covid-19 due to air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_146.md)
 
+## Blueprints with this risk
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+
 ## Description of the risk
 
 Contaminated wastewater can contribute to the spread of the virus and increase the risk of infection
@@ -67,8 +71,8 @@ Increased transmission of the virus, potential for outbreaks in communities
 
 ## Technologies linked to the risk
 
-* [Wastewater treatment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1064.md)
 * [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
+* [Wastewater treatment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1064.md)
 
 ## Property: has_RiskType
 

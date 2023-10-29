@@ -15,7 +15,7 @@
 * [Regular cleaning and disinfection protocols, use of epa-approved disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2554.md)
 * [Regular maintenance and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2873.md)
 * [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_264.md)
-* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3290.md)
+* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5433.md)
 * [Develop and implement regular cleaning and disinfection protocols, provide proper training and resources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2104.md)
 * [Regular cleaning and sanitization procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1307.md)
 

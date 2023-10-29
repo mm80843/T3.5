@@ -50,14 +50,14 @@ RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR 
 
 ## This article points to following mitigation
 
-* [Containment space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1949.md)
-* [Separate entrance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1950.md)
-* [Airflow direction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1951.md)
-* [Uv-c cupboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
-* [Hand washing station](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1953.md)
-* [Compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1939.md)
-* [Zoned air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1954.md)
-* [Redundant wet cells](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1955.md)
+* [Containment space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4868.md)
+* [Separate entrance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4869.md)
+* [Airflow direction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4870.md)
+* [Uv-c cupboards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4871.md)
+* [Hand washing station](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4872.md)
+* [Compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4858.md)
+* [Zoned air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4873.md)
+* [Redundant wet cells](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4874.md)
 
 ## This article mentions these technologies
 

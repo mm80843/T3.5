@@ -19,6 +19,10 @@
 * [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3480.md)
 * [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3543.md)
 
+## Blueprints with this risk
+
+* [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
+
 ## Mitigations of this risk
 
 * [Continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1000.md)

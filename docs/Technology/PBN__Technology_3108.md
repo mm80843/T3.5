@@ -2,6 +2,10 @@
 
 # __Social support__
 
+## Link between Blueprint and General ontology
+
+* [Social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_231.md)
+
 ## Category to which it belongs
 
 * [Promote community engagement and support through various initiatives, programs, campaigns, platforms, and networks, fostering social capital and volunteer involvement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_246.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Integration policies for migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1472.md)
+* [Integration policies for migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4430.md)
 

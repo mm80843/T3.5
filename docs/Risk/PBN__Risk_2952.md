@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Self-quarantine and self-screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1218.md)
+* [Self-quarantine and self-screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4202.md)
 

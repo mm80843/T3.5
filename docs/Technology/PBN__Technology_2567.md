@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Providing platforms for cross-sectoral dialogue](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_592.md)
+* [Providing platforms for cross-sectoral dialogue](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_554.md)
 

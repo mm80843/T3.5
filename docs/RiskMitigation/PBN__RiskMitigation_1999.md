@@ -15,9 +15,9 @@
 * [Proper ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_719.md)
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)
 * [Adequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1193.md)
-* [Implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3300.md)
+* [Implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5441.md)
 * [Implement proper ventilation systems in buildings, maintain good airflow and air exchange rates.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2637.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3266.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4169.md)
 
 ## Risks possibly mitigated by this Mitigation
 

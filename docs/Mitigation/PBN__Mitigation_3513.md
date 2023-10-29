@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3513 
 
-# __Airborne transmission of respiratory animal viral aerosols__
+# __Increase access to private gardens, allocate dedicated time slots for outdoor activities, create temporary green spaces in urban areas__
 
 ## Category to which it belongs
 
-* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
+* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [Airborne transmission of viruses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2933.md)
-* [Airborne transmission of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2929.md)
-* [Virus transmission through aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2927.md)
-* [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2691.md)
-* [Inhalation of viral particles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2934.md)
-* [Transmission of covid-19 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3512.md)
-* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2692.md)
-* [Covid-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3514.md)
-* [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2226.md)
-* [Uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2229.md)
+* [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1644.md)
+* [Increase access to green spaces, promote urban greening initiatives, create more parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1642.md)
+* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_830.md)
+* [Implement urban greening initiatives to create and enhance green spaces in highly urbanized areas, consider green roofs and vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2586.md)
+* [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1646.md)
+* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2616.md)
+* [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3193.md)
+* [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1919.md)
+* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
+* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2493.md)
 

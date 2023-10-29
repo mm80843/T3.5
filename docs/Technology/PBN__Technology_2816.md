@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Fossil fuel divestment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1028.md)
+* [Fossil fuel divestment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4025.md)
 

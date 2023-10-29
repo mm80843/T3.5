@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Emphasize public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_672.md)
+* [Emphasize public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3702.md)
 

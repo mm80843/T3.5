@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3142 
 
-# __Education and training programs__
+# __Health and prevention measures__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Enhance education through interdisciplinary collaboration, digital infrastructure, virtual reality training, and bridging the digital divide.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_478.md)
+Promoting health and prevention measures can help improve sanitation practices and minimize the transmission of diseases within communities.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3140.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3141.md)
-* [Investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3138.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3151.md)
-* [Education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3152.md)
-* [Revamp education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_494.md)
-* [Investment in job creation and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3139.md)
-* [Investing in infrastructure and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_10.md)
-* [Increase public and professional awareness through education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2367.md)
-* [Outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3352.md)
+* [Sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2384.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2138.md)
 

@@ -19,6 +19,11 @@
 * [Inadequate housing hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_573.md)
 * [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
 
+## Blueprints with this risk
+
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+* [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
+
 ## Description of the risk
 
 Insufficient availability of hand washing stations and sanitizers on construction sites.

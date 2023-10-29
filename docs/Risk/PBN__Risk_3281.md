@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2027.md)
+* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4937.md)
 

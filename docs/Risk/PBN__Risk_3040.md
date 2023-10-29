@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Site selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1434.md)
+* [Site selection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4398.md)
 

@@ -2,6 +2,10 @@
 
 # __Proper wastewater treatment and management__
 
+## Link between Blueprint and General ontology
+
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_9.md)
+
 ## Category to which it belongs
 
 * [Enhancing water and wastewater surveillance, improving sanitation measures, and implementing effective waste management strategies are crucial for public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_453.md)

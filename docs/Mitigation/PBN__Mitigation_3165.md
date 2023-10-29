@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3165 
 
-# __Internet of things__
+# __Monitoring sewage for virus detection__
 
 ## Category to which it belongs
 
-* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
+* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_431.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1535.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3167.md)
-* [Internet of things iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3164.md)
-* [Internet of things iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3163.md)
-* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3166.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3080.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3169.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1956.md)
-* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3421.md)
+* [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1083.md)
+* [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2752.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2345.md)
+* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1588.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_96.md)
+* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_97.md)
+* [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_92.md)
+* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_90.md)
+* [Preprocessing disinfection of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3463.md)
+* [Wastewater-based surveillance wbs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1112.md)
 

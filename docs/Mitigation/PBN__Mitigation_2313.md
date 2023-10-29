@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2313 
 
-# __Local strategies for isolation and physical distancing__
+# __Invest in infrastructure for walking and cycling, create safe routes, implement traffic calming measures__
 
 ## Category to which it belongs
 
-* [Creating safe and spacious environments by implementing measures that promote physical distancing and isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_177.md)
+* [Implementing travel restrictions, optimizing transport, active travel, and improving public transportation to address mobility limitations and ensure safe and accessible transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
-* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1246.md)
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1639.md)
-* [Designing spaces to enable physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2604.md)
-* [Spatial distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1295.md)
-* [Physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2600.md)
-* [Adherence to physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2359.md)
-* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1243.md)
-* [Implement strategies to control transmission, such as social distancing and isolation measures.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4039.md)
-* [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2602.md)
-
-## Property: has_MitigationPrinciple
-
-Develop local strategies and guidance for isolating the sick and vulnerable in informal settlements, as well as reducing contact in congested areas to mitigate the spread of COVID-19.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Limited space in settlements](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3375.md)
-
-## Property: has_MitigationSource
-
-* [Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_36.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2827.md)
+* [Walking, cycling, and public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1876.md)
+* [Implementing low-cost and temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1444.md)
+* [Implementing temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1443.md)
+* [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3512.md)
+* [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1437.md)
+* [Promote active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
+* [Creation of space for walking and cycling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2635.md)
+* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2429.md)
+* [Creating more bike lanes and pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1433.md)
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_369.md)
 

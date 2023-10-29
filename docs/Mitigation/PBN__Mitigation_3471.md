@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3471 
 
-# __Limiting occupancy levels, implementing crowd control measures, staggering schedules__
+# __Conversion of public venues into makeshift hospitals__
 
 ## Category to which it belongs
 
-* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
+* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
-* [Implement social distancing measures, crowd control, and capacity regulations in public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3339.md)
-* [Implement occupancy limits, encourage social distancing, provide adequate facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3473.md)
-* [Crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1059.md)
-* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3472.md)
-* [Implementing crowd control measures such as capacity limits, timed entry systems, one-way circulation, and designated waiting areas.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3827.md)
-* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3523.md)
-* [Limit occupancy numbers, maintain physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3885.md)
-* [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3828.md)
-* [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3520.md)
-* [Reduced occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3406.md)
+* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2506.md)
+* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
+* [Insufficient electrical infrastructure in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4079.md)
+* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_372.md)
+* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
+* [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2411.md)
+* [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2412.md)
+* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3747.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_373.md)
+* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
 

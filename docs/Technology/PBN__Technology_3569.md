@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Greywater separation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2174.md)
+* [Greywater separation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5054.md)
 

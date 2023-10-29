@@ -1,39 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_205 
 
-# __Establishing virtual platforms and telecommunication__
+# __Optimizing transport based on demand__
 
 ## Category to which it belongs
 
-* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
+* [Implementing travel restrictions, optimizing transport, active travel, and improving public transportation to address mobility limitations and ensure safe and accessible transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
-* [Virtual platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3742.md)
-* [Platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3794.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1895.md)
-* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2915.md)
-* [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3144.md)
-* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3414.md)
-* [Virtualization of public services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2264.md)
-* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3358.md)
-* [Use video chat and online platforms for communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3866.md)
-* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3143.md)
-
-## Property: has_MitigationPrinciple
-
-Facilitate remote communication and access to mental health support services to address psychological effects of the pandemic.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
-
-## Property: has_MitigationSource
-
-* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
-* [Virtual networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_739.md)
-* [Text and video messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2284.md)
+* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_206.md)
+* [Building transport networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_207.md)
+* [Decreased revenue for transport operations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_208.md)
+* [Decreased demand for public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_209.md)
+* [Transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_210.md)
+* [Promote active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
+* [Increase public transport capacity to ensure physical distancing, provide alternative transport options](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_212.md)
+* [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_213.md)
+* [Higher dependency on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
+* [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
 

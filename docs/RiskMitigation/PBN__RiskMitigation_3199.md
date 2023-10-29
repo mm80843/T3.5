@@ -1,21 +1,19 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3199 
 
-# __Social distancing rule__
+# __Community outreach and participation__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Implement measures to control occupancy, enforce social distancing, and ensure clear communication about preventive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_468.md)
+Involve the community and gain support for control policies and preventive measures
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
-* [Clear and consistent social distancing guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2616.md)
-* [Maintaining social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_251.md)
-* [Enforce social distancing guidelines, limit occupant density](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2803.md)
-* [Implement and enforce strict social distancing guidelines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2709.md)
-* [Implementing social distancing measures, reducing population density](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2291.md)
-* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3200.md)
-* [Accessible open green space and adherence to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1225.md)
-* [Strict social distancing measures, widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2167.md)
+* [Lack of citizen cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2407.md)
+
+## Property: has_MitigationSource
+
+* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
+
+## This Mitigation is enabled by the following technologies
+
 

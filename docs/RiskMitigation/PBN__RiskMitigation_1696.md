@@ -10,7 +10,7 @@
 
 * [Use of blockchain for donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1170.md)
 * [Blockchain-based donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1053.md)
-* [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3148.md)
+* [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5307.md)
 * [Promote accurate information dissemination, fact-checking, and verification through blockchain-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2700.md)
 * [Build trust, communicate transparently with the public](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1459.md)
 * [Implement blockchain technology to ensure accurate and secure data collection and storage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2697.md)

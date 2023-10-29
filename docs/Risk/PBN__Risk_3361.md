@@ -2,6 +2,10 @@
 
 # __Personnel management__
 
+## Link between Blueprint and General ontology
+
+* [Information management](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_9.md)
+
 ## Category to which it belongs
 
 * [The challenges and consequences of the global pandemic, including domestic violence, interrupted education, communication barriers, and employment issues, highlight the complexity of our interconnected world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
@@ -21,5 +25,5 @@
 
 ## Mitigations of this risk
 
-* [Tracking medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2284.md)
+* [Tracking medical personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5159.md)
 

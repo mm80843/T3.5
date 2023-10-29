@@ -19,6 +19,10 @@
 * [Uvgi systems can cause health risks if not properly installed and maintained](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1741.md)
 * [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 
+## Blueprints with this risk
+
+* [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+
 ## Description of the risk
 
 The effectiveness of upper-room UVGI in disinfecting the air is dependent on good air mixing between the upper and lower portions of the room space

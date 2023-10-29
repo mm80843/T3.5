@@ -40,20 +40,20 @@ Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry
 
 ## This article points to following mitigation
 
-* [Maintaining physical distance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1517.md)
-* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1527.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_314.md)
-* [Recognizing stress symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1528.md)
-* [Practical ppe rules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1522.md)
-* [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1526.md)
-* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1529.md)
-* [Thorough disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1519.md)
-* [Promoting worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1520.md)
-* [Caution in receiving deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1523.md)
-* [Temperature checks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
-* [Increased use of technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1524.md)
-* [Longer project timelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1525.md)
-* [Marking 6’ distances and one-way traffic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1521.md)
+* [Recognizing stress symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_208.md)
+* [Maintaining physical distance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4473.md)
+* [Flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4483.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3389.md)
+* [Practical ppe rules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4478.md)
+* [Temperature checks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4474.md)
+* [Thorough disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4475.md)
+* [Promoting worker safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4476.md)
+* [Marking 6’ distances and one-way traffic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4477.md)
+* [Caution in receiving deliveries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4479.md)
+* [Increased use of technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4480.md)
+* [Longer project timelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4481.md)
+* [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4482.md)
+* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4484.md)
 
 ## This article mentions these technologies
 

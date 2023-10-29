@@ -2,6 +2,10 @@
 
 # __Travel transmission__
 
+## Link between Blueprint and General ontology
+
+* [User journey](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_3.md)
+
 ## Category to which it belongs
 
 * [Disease transmission can occur through various means, such as direct contact, airborne particles, or contaminated surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)

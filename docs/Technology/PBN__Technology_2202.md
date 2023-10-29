@@ -2,6 +2,10 @@
 
 # __Uniformity of protocols__
 
+## Link between Blueprint and General ontology
+
+* [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_104.md)
+
 ## Category to which it belongs
 
 * [Enhanced cybersecurity measures and protocols ensure the secure and protected transmission, storage, and access of sensitive data.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3206.md)
 

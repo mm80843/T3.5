@@ -2,6 +2,16 @@
 
 # __Energy management__
 
+## Link between Blueprint and General ontology
+
+* [Energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_196.md)
+* [Smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_111.md)
+* [Improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_247.md)
+* [Home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_246.md)
+* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_264.md)
+* [Power management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_197.md)
+* [Energy storage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_265.md)
+
 ## Category to which it belongs
 
 * [Efficient, sustainable energy technologies and systems that reduce carbon emissions and promote clean, renewable sources, while optimizing energy management and conservation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)

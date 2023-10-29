@@ -19,6 +19,10 @@
 * [Loss of green spaces due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1371.md)
 * [Changing behaviors and perceptions towards urban green space during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_349.md)
 
+## Blueprints with this risk
+
+* [Acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_16.md)
+
 ## Mitigations of this risk
 
 * [Open green spaces in urban periphery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1230.md)

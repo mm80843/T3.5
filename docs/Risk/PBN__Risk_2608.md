@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_583.md)
+* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_565.md)
 

@@ -2,6 +2,14 @@
 
 # __Sensor-based technology__
 
+## Link between Blueprint and General ontology
+
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_126.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_115.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_114.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_116.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_174.md)
+* [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3270.md)
 

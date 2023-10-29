@@ -1,40 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_581 
 
-# __Clear communication__
+# __High-efficiency air filters__
 
 ## Category to which it belongs
 
-* [Effective, transparent, and targeted communication strategies are crucial for global coordination, cooperation, and risk prevention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
+* [Enhanced air purification using high-efficiency filters and ventilation systems, including portable devices and hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
-* [Clear and accurate communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3258.md)
-* [Clear and transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_507.md)
-* [Clear communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4000.md)
-* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1305.md)
-* [Proper communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_853.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1036.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_314.md)
-* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3660.md)
-* [Implement effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3081.md)
-* [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_667.md)
-
-## Property: has_MitigationPrinciple
-
-National and international health authorities provide verified information to avoid fake news and panic among the public
-
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of clarity and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2764.md)
-* [Fake news, rumors, panic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2605.md)
-
-## Property: has_MitigationSource
-
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
-* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
+* [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_580.md)
+* [High-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_583.md)
+* [Use high-efficiency filters for air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_582.md)
+* [High-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_584.md)
+* [Improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_586.md)
+* [High-efficiency particulate filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_589.md)
+* [Use of advanced hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_585.md)
+* [High-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_587.md)
+* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3062.md)
+* [Install high-efficiency filters in hvac systems, regularly clean and replace filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3063.md)
 

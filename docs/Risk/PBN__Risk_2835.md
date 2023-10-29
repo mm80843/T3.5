@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1013.md)
+* [Sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4011.md)
 

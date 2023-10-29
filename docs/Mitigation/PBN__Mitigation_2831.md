@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2831 
 
-# __Implement financial support programs and resources for individuals and businesses; promote job creation and stability; provide financial education and counseling.__
+# __Strengthening enforcement of labour standards__
 
 ## Category to which it belongs
 
-* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
+* [Enabling remote work, flexible schedules, and support for workers’ well-being, safety, and skill development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_184.md)
 
 ## Closest similar item
 
-* [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2830.md)
-* [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3961.md)
-* [Provide job retention schemes and financial support for affected industries, promote job transitions and reskilling opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3968.md)
-* [Enhance job training and reskilling programs, promote entrepreneurship, and support job creation in new industries.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4013.md)
-* [Provide financial assistance and resources to individuals and families facing economic hardship, promote economic empowerment programs for women](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3770.md)
-* [Seek financial assistance, manage cashflow, renegotiate contracts, diversify revenue sources.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3872.md)
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_126.md)
-* [Provide mental health support, access to accurate information, and social support.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2901.md)
-* [Financial interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2628.md)
-* [Financial support programs, remote work options, community help initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3902.md)
+* [Ensure labor supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3034.md)
+* [Flexible working policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1033.md)
+* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
+* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_957.md)
+* [Reducing heterogeneity of technical standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1143.md)
+* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3093.md)
+* [Enforce measures such as social distancing and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3671.md)
+* [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3082.md)
+* [Promoting worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3055.md)
+* [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1683.md)
 

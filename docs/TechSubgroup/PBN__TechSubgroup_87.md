@@ -21,12 +21,13 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
-* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
-* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1236.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
-* [Eco-friendly disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1648.md)
-* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
+* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1236.md)
+* [Eco-friendly disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1648.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
+* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
 * [Disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1354.md)
 * [Use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1726.md)
 * [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1288.md)
@@ -40,7 +41,6 @@
 * [Self-cleaning surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_506.md)
 * [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
 * [Disinfectant wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_671.md)
-* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
 * [Uv-c germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1005.md)
 * [Membrane filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1931.md)
 * [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1930.md)

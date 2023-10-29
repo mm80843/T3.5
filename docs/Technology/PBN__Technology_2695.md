@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Qr code check-in](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_810.md)
+* [Qr code check-in](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3826.md)
 

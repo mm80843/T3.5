@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3319 
 
-# __Collaborative projects__
+# __Increase testing capacity and accessibility in deprived areas.__
 
 ## Category to which it belongs
 
-* [Promote cohesive teamwork, partnerships, and collective knowledge sharing for efficient research, analysis, and collaboration in various fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
+* [Enhanced and widespread testing, utilizing various methods and technologies, to detect and diagnose covid-19 with accuracy and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
-* [Collaborative tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3305.md)
-* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2533.md)
-* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3689.md)
-* [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3289.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3867.md)
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1316.md)
-* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
-* [Cross-disciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1443.md)
-* [Innovative projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3320.md)
-* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1997.md)
+* [Enhancing accessibility for low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1423.md)
+* [Increased testing access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3719.md)
+* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1422.md)
+* [Enhance accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1426.md)
+* [Lack of access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3720.md)
+* [Limited access to testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1892.md)
+* [Improve accessibility to ugs by creating inclusive infrastructure and providing transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3320.md)
+* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_802.md)
+* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3009.md)
+* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3374.md)
 

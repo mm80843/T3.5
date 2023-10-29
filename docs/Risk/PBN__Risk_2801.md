@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Sop compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_959.md)
+* [Sop compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3960.md)
 

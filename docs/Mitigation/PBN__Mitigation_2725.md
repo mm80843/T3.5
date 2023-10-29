@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2725 
 
-# __Improve indoor air quality__
+# __Uv-based technologies__
 
 ## Category to which it belongs
 
-* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
+* [The advancement and adoption of various technological innovations and tools for communication, healthcare, work, and daily life.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
 
 ## Closest similar item
 
-* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_470.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_178.md)
-* [Indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1262.md)
-* [Improve indoor air quality by addressing pollution sources, ventilation, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2616.md)
-* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_169.md)
-* [Improve ventilation systems, increase outdoor air intake, and use air purifiers to enhance indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2730.md)
-* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1392.md)
-* [Filtering indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1728.md)
-* [Improvement of air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2729.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1043.md)
+* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1092.md)
+* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1090.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_714.md)
+* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2717.md)
+* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2064.md)
+* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1093.md)
+* [Limited awareness and expertise in germicidal uv technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_709.md)
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1088.md)
+* [More research on uv susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3960.md)
+* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2718.md)
 

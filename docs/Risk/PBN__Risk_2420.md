@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Bio-risk management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_112.md)
+* [Bio-risk management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3218.md)
 

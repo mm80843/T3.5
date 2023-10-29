@@ -2,6 +2,10 @@
 
 # __Telecommunication__
 
+## Link between Blueprint and General ontology
+
+* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_36.md)
+
 ## Category to which it belongs
 
 * [Enhanced exchange of information and ideas through technology, platforms, and techniques for effective communication and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
@@ -21,8 +25,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_46.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
-* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1656.md)
-* [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1217.md)
+* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1156.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3159.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3247.md)
+* [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4201.md)
 

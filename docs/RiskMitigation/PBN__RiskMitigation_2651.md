@@ -15,7 +15,7 @@
 * [Promote and support social connections through digital platforms, encourage virtual social activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2117.md)
 * [Promote the use of public spaces through targeted campaigns, activities, and events](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1978.md)
 * [Encouraging virtual collaboration and social interaction through technology, implementing virtual team building activities and events](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1994.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3287.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5430.md)
 * [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_155.md)
 * [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2938.md)
 

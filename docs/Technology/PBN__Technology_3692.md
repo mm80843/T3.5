@@ -2,6 +2,17 @@
 
 # __Robotic systems__
 
+## Link between Blueprint and General ontology
+
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_13.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_14.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_149.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_152.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_154.md)
+* [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_164.md)
+* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_156.md)
+* [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_155.md)
+
 ## Category to which it belongs
 
 * [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
@@ -21,6 +32,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Blood test automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2353.md)
-* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2352.md)
+* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5219.md)
+* [Blood test automation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5220.md)
 

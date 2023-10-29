@@ -15,7 +15,7 @@
 * [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_606.md)
 * [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_607.md)
 * [Improving ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1318.md)
-* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3196.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5350.md)
 * [Improved ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_643.md)
 * [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1381.md)
 
@@ -23,7 +23,23 @@
 
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
 
+## Property: has_MitigationPrinciple
+
+Improving ventilation in rooms and buildings using mechanical ventilation systems or air purifiers helps reduce airborne transmission of pathogens.
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
 * [Covid-19 transmission in crowded occupational environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_301.md)
+
+## Property: has_MitigationSource
+
+* [An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
+* [COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_42.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1011.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 

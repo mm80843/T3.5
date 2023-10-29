@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Timely data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
+* [Timely data transfer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3603.md)
 

@@ -19,11 +19,29 @@
 * [Increase decontamination efforts, assign individual patrol cars](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2806.md)
 * [Implementation of containment strategies quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_758.md)
 
+## Blueprints with this mitigation
+
+* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
+
 ## Benefits linked to a risk
 
 * [Enhanced monitoring and safety checks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_327.md)
 
+## Property: has_MitigationPrinciple
+
+Allocating checkpoints to monitor and record the mobility in and out of public places for prevention and safety checks
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Monitoring mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2520.md)
 * [Checkpoint allocation for monitory and recording opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_265.md)
+
+## Property: has_MitigationSource
+
+* [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Checkpoint stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2421.md)
+* [Temperature detection devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2422.md)
 

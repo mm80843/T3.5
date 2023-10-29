@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Migration control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1234.md)
+* [Migration control programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4217.md)
 

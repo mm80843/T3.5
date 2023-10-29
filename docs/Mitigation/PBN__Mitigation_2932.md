@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2932 
 
-# __Antiviral surface coatings__
+# __Provide adjustable and flexible indoor spaces__
 
 ## Category to which it belongs
 
-* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
+* [Enhancing accessibility and variety of green spaces while promoting integration of nature in urban environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
 
 ## Closest similar item
 
-* [Application of antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2931.md)
-* [Antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
-* [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2949.md)
-* [Disinfection of surfaces and development of antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2930.md)
-* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2952.md)
-* [Regular monitoring of coated surfaces for changes in viral viability and development of alternative coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2928.md)
-* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2950.md)
-* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2951.md)
-* [Applying antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_38.md)
-* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3346.md)
+* [Adjustable indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2474.md)
+* [Need for flexible room configurations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1034.md)
+* [Levels of indoor space adjustability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3828.md)
+* [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2931.md)
+* [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
+* [Optimize room layout, create flexible and multipurpose spaces, maximize use of natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3830.md)
+* [Flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1039.md)
+* [Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2409.md)
+* [Adjustable room layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1470.md)
+* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1040.md)
 

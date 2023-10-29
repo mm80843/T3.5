@@ -21,7 +21,7 @@
 
 ## Mitigations of this risk
 
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
-* [Health system strengthening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1066.md)
-* [Implementation of home treatments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_766.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3247.md)
+* [Implementation of home treatments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3786.md)
+* [Health system strengthening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4058.md)
 

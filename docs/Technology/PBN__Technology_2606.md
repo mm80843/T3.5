@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_678.md)
-* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1989.md)
+* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_690.md)
+* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3707.md)
 

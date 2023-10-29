@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1723 
 
-# __Active smoke-free policies__
+# __Addressing security and privacy issues__
 
 ## Category to which it belongs
 
-* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
+* [Ensuring confidentiality, protecting personal information, and addressing cybersecurity, privacy, and data protection issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
 
 ## Closest similar item
 
-* [Public health policies and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2803.md)
-* [Tailored policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_674.md)
-* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
-* [Temporary regulations for certain activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_408.md)
-* [Implementation of public health policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3204.md)
-* [Targeted policies for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2142.md)
-* [Ineffective mitigation policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2427.md)
-* [Testing policy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3862.md)
-* [Community participation in control policies and preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3732.md)
-* [Restricted visitor policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_985.md)
-
-## Property: has_MitigationPrinciple
-
-Implement and enforce active smoke-free policies in neighbourhoods to reduce secondhand smoke exposure and improve indoor air quality in public spaces and shared environments.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Secondhand smoke exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3196.md)
-
-## Property: has_MitigationSource
-
-* [A comprehensive review on indoor air quality monitoring systems for enhanced public health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_281.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3268.md)
+* [Security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1718.md)
+* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1000.md)
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1001.md)
+* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1721.md)
+* [Implement robust security measures, use encryption and anonymization techniques, obtain informed consent from users, comply with data protection regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3250.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3089.md)
+* [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_994.md)
+* [Privacy and surveillance concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_997.md)
+* [Privacy protection measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_526.md)
 

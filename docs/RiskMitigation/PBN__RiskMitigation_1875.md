@@ -10,7 +10,7 @@
 
 * [Incorporate diverse types of green spaces in urban planning and design, prioritize the creation of green spaces with diverse vegetation and design features](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2070.md)
 * [Create and maintain green spaces in urban areas, prioritize green space in urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1470.md)
-* [Urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3178.md)
+* [Urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5334.md)
 * [Increase biodiversity of urban environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_76.md)
 * [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1894.md)
 * [Incorporate green space quality assessments into urban planning, prioritize the preservation of high-quality green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1872.md)

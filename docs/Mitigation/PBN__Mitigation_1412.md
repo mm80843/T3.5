@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1412 
 
-# __Increased funding for vaccine research__
+# __Middle density housing__
 
 ## Category to which it belongs
 
-* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3396.md)
-* [Vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3397.md)
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2178.md)
-* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
-* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2328.md)
-* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2473.md)
-* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_586.md)
-* [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3559.md)
-* [Vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_988.md)
-* [Vaccine production and distribution improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1048.md)
-
-## Property: has_MitigationPrinciple
-
-Accelerate research and development of a vaccine for COVID-19
-
-## Risks possibly mitigated by this Mitigation
-
-* [Uncertainty of vaccine effectiveness, time-consuming research process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3031.md)
-
-## Property: has_MitigationSource
-
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2854.md)
-* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
+* [Housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1409.md)
+* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1408.md)
+* [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1410.md)
+* [Even distribution of housing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1407.md)
+* [Urban density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_364.md)
+* [Rethinking of density in cities and urban layouts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_363.md)
+* [Redesign housing layouts to include more partitions, wider corridors, and improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2653.md)
+* [Common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
+* [High-rise density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2156.md)
+* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1413.md)
 

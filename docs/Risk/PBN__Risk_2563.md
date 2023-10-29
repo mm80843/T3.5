@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_496.md)
+* [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3552.md)
 

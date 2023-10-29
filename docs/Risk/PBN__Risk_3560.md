@@ -19,3 +19,8 @@
 * [Contamination of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3367.md)
 * [Proper wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2928.md)
 
+## Blueprints with this risk
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+* [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
+

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2600 
 
-# __Physical distancing measures__
+# __Ai for decision-making__
 
 ## Category to which it belongs
 
-* [Creating safe and spacious environments by implementing measures that promote physical distancing and isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_177.md)
+* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
-* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1246.md)
-* [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2602.md)
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1639.md)
-* [Adherence to physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2359.md)
-* [Physical distancing markers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2603.md)
-* [Spatial distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1295.md)
-* [Designing spaces to enable physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2604.md)
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1097.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_510.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1759.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2597.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_854.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2532.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_853.md)
+* [Optimal decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3035.md)
+* [Artificial intelligence/machine learning ai/ml](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2598.md)
+* [Data-driven decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2268.md)
+* [Ai-based diagnosis and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2574.md)
+* [Implementation of ai technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2599.md)
 

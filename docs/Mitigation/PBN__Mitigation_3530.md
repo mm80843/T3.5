@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3530 
 
-# __Regular cleaning and disinfection of surfaces, frequent hand washing__
+# __Occupant density control__
 
 ## Category to which it belongs
 
-* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1839.md)
-* [Regular hand hygiene practices, cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3007.md)
-* [Regular cleaning and disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2956.md)
-* [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2959.md)
-* [Regular and thorough disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3345.md)
-* [Regular disinfection of surfaces, hand hygiene, and use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3004.md)
-* [Regular disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2958.md)
-* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_529.md)
-* [Practicing hand hygiene, disinfecting commonly touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3008.md)
-* [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2258.md)
+* [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_362.md)
+* [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2632.md)
+* [Controlling population density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_340.md)
+* [High occupant density in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2633.md)
+* [Density reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2654.md)
+* [Reduced occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2514.md)
+* [Design spaces with lower occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2465.md)
+* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3760.md)
+* [High-rise density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2156.md)
+* [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2513.md)
 

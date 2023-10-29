@@ -42,11 +42,11 @@ Significant applications of virtual reality for COVID-19 pandemic
 
 ## This article points to following mitigation
 
-* [Medical staff training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1878.md)
-* [Patient education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1879.md)
-* [Mental and psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1880.md)
-* [Management of pain & physical therapy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1881.md)
-* [Disease awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1882.md)
+* [Medical staff training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4809.md)
+* [Patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4810.md)
+* [Mental and psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4811.md)
+* [Management of pain & physical therapy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4812.md)
+* [Disease awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4813.md)
 
 ## This article mentions these technologies
 

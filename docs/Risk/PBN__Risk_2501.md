@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Safe pedestrian navigation service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_347.md)
+* [Safe pedestrian navigation service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3419.md)
 

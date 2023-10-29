@@ -19,6 +19,10 @@
 * [Promote regular hand hygiene, use of hand sanitizers, and disinfection of commonly touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2254.md)
 * [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2235.md)
 
+## Blueprints with this mitigation
+
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Indirect transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1542.md)

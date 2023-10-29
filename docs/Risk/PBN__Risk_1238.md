@@ -42,7 +42,7 @@ Wearable devices collect and store personal health data, posing risks to privacy
 ## Mitigations of this risk
 
 * [Implement strong security measures, anonymize and encrypt data, and obtain user consent for data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1702.md)
-* [Lightweight security solutions for iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1155.md)
+* [Lightweight security solutions for iot devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4140.md)
 
 ## Name of the risk
 

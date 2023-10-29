@@ -1,21 +1,19 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3355 
 
-# __Outdoor gathering spaces__
+# __Ventilation protection__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Enhancing and expanding green and public spaces to promote sustainability, accessibility, and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_484.md)
+Designing indoor conditions that reduce cross-infection by supplying clean outdoor air and controlling airflow patterns to minimize the spread of airborne infections
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3202.md)
-* [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1321.md)
-* [Provide outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2865.md)
-* [Outdoor seating areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3384.md)
-* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2938.md)
-* [Availability of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_221.md)
-* [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_849.md)
-* [Provide or improve outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_455.md)
-* [Increase access to greenspaces and promote outdoor activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2911.md)
-* [Designate areas for relaxation within built environment, create outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1538.md)
+
+## Property: has_MitigationSource
+
+* [Methods for air cleaning and protection of building occupants from airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_240.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2338.md)
 

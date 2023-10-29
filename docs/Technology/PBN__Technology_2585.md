@@ -2,6 +2,13 @@
 
 # __Online platforms and social media__
 
+## Link between Blueprint and General ontology
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_88.md)
+* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_185.md)
+* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_233.md)
+* [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_89.md)
+
 ## Category to which it belongs
 
 * [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
@@ -21,5 +28,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Cultural dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_605.md)
+* [Cultural dissemination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3640.md)
 

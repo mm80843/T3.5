@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_353 
 
-# __Video conference platforms__
+# __Centralize environmental quality improvement__
 
 ## Category to which it belongs
 
-* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
+* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3358.md)
-* [Use video chat and online platforms for communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3866.md)
-* [Remote meetings and video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_875.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3867.md)
-* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3689.md)
-* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3414.md)
-* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2915.md)
-* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_421.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1895.md)
-* [Virtual platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3742.md)
-
-## Property: has_MitigationPrinciple
-
-Enabling remote work and education to reduce in-person contact
-
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-
-## Property: has_MitigationSource
-
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Video conference technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2407.md)
+* [Improve environmental quality through better site design and regional planning, reduce pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1647.md)
+* [Reduced environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1640.md)
+* [Water quality management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)
+* [Reducing community environmental impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1639.md)
+* [Improvement in air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1086.md)
+* [Improvement of air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_762.md)
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_427.md)
+* [Air quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1085.md)
+* [Incorporate green space quality assessments into urban planning, prioritize the preservation of high-quality green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3708.md)
+* [Improve air quality, reduce emissions from industrial sources and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2715.md)
 

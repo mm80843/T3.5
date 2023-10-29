@@ -19,6 +19,10 @@
 * [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_732.md)
 * [Implement travel restrictions and controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2845.md)
 
+## Blueprints with this mitigation
+
+* [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_269.md)

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3209 
 
-# __Financial measures__
+# __Video surveillance__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Comprehensive array of precautions, safeguards, and actions aimed at protecting privacy, enhancing security, and preventing transmission and vulnerability.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_463.md)
+Video surveillance and cloud storage enable quicker and efficient ways of extracting content from video recordings for surveillance but raise privacy concerns.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_768.md)
-* [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3208.md)
-* [Organizational measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1365.md)
-* [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_967.md)
-* [Personal measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1367.md)
-* [Financial interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1013.md)
-* [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_943.md)
-* [Financial aids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_577.md)
-* [Combined measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1224.md)
-* [Fiscal consolidation measures, economic reforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2589.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
+
+## Property: has_MitigationSource
+
+* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Video networking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2197.md)
+* [Cloud storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2198.md)
 

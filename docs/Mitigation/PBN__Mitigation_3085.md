@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3085 
 
-# __Create and maintain green spaces, parks, and public gardens in urban areas.__
+# __Decontamination and sterilization__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
 
 ## Closest similar item
 
-* [Increase access to private gardens, allocate dedicated time slots for outdoor activities, create temporary green spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3829.md)
-* [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3087.md)
-* [Increase access to green spaces, promote urban greening initiatives, create more parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3084.md)
-* [Implement urban greening initiatives to create and enhance green spaces in highly urbanized areas, consider green roofs and vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3428.md)
-* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3440.md)
-* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2756.md)
-* [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3188.md)
-* [Regular maintenance and cleaning of green spaces, improve amenities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4033.md)
-* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_767.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2754.md)
+* [Decontamination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_444.md)
+* [Maintenance and decontamination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_441.md)
+* [Regular sterilization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1284.md)
+* [Maintenance and/or decontamination of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_439.md)
+* [Purification and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2371.md)
+* [Preprocessing disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3602.md)
+* [Air filtration and uv sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3086.md)
+* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1105.md)
+* [Disinfection and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1271.md)
+* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1103.md)
 

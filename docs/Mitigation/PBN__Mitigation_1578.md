@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1578 
 
-# __Digital twin__
+# __Online questionnaire survey__
 
 ## Category to which it belongs
 
@@ -8,31 +8,14 @@
 
 ## Closest similar item
 
-* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3136.md)
-* [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_425.md)
-* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3143.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1895.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3300.md)
-* [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3144.md)
-* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1815.md)
-* [Accelerated digital transformation of healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3142.md)
-
-## Property: has_MitigationPrinciple
-
-Create a virtual model that mirrors the physical system to optimize and manage the vaccination process in real-time
-
-## Risks possibly mitigated by this Mitigation
-
-* [Resistance to digital adoption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3121.md)
-
-## Property: has_MitigationSource
-
-* [Digital Twin of COVID-19 Mass Vaccination Centers](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_47.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
-* [Nfc technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
+* [Self-reported questionnaires](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1509.md)
+* [Standardized questionnaires](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1584.md)
+* [Data collection through online survey](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1579.md)
+* [Surveys and feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1576.md)
+* [Face-to-face surveys](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1577.md)
+* [Conduct more detailed surveys and analysis to gather data on visitors’ attributes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1581.md)
+* [Seroprevalence surveys](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1580.md)
+* [Online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2542.md)
+* [Online supervised exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_924.md)
+* [Improved online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3642.md)
 

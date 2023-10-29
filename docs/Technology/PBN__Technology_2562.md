@@ -2,6 +2,11 @@
 
 # __Research databases__
 
+## Link between Blueprint and General ontology
+
+* [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_78.md)
+* [Database](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_170.md)
+
 ## Category to which it belongs
 
 * [Efficiently manage, secure, analyze, and integrate diverse data through various advanced tools and platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_589.md)
+* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_551.md)
 

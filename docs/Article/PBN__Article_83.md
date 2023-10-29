@@ -43,24 +43,24 @@ Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
-* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_432.md)
-* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_873.md)
-* [Frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1657.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1057.md)
-* [Green open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1658.md)
-* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1660.md)
-* [Urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1659.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3283.md)
+* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3494.md)
+* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_706.md)
+* [Frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4600.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4051.md)
+* [Green open spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4601.md)
+* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4603.md)
+* [Urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4602.md)
 
 ## This article mentions these technologies
 
-* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_377.md)
-* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1388.md)
 * [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_377.md)
+* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1390.md)
+* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1388.md)
 * [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
 * [Housing developers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1394.md)
-* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1390.md)
 * [Green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1391.md)
 * [Tree planting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
 * [Traffic management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1393.md)

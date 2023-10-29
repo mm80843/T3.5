@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3488 
 
-# __Uvgi systems must be properly used and maintained to ensure safety and efficacy__
+# __Teleconferencing and virtual meetings__
 
 ## Category to which it belongs
 
-* [Utilize uv radiation for germicidal purposes, including upper-room fixtures, aerosol chambers, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
+* [Expanding healthcare access through remote technology, including telemedicine, telehealth clinics, and virtual consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
 
 ## Closest similar item
 
-* [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3490.md)
-* [Uvgi systems can cause health risks if not properly installed and maintained](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4054.md)
-* [Ensure proper use and maintenance of uvgi systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4057.md)
-* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3487.md)
-* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1369.md)
-* [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4055.md)
-* [Ensure proper installation and maintenance of uvgi systems, provide protective clothing and eyewear for service personnel and occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4058.md)
-* [Lack of standardized tests and protocols for uvgi efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4056.md)
-* [Uvgi systems may not be a reliable method for preventing surgical site infections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4059.md)
-* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2397.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1206.md)
+* [Remote meetings and video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_503.md)
+* [Implementing remote work, flexible scheduling, and virtual meetings.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_502.md)
+* [Remote work and online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_501.md)
+* [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1049.md)
+* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1201.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
+* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3599.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3436.md)
+* [Telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3742.md)
 

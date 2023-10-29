@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_996.md)
-* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
+* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_940.md)
+* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4005.md)
 

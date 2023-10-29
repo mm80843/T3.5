@@ -2,6 +2,20 @@
 
 # __Robot technology__
 
+## Link between Blueprint and General ontology
+
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_14.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_107.md)
+* [Drone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_150.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_152.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_153.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_154.md)
+* [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_164.md)
+* [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_165.md)
+* [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_155.md)
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_172.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_173.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,5 +35,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Drones and robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1623.md)
+* [Drones and robot technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4573.md)
 

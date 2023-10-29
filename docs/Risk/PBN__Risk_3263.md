@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Deployment of microgrids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1928.md)
+* [Deployment of microgrids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4850.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_45.md)
+* [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3158.md)
 

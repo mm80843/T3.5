@@ -2,6 +2,11 @@
 
 # __Software tools__
 
+## Link between Blueprint and General ontology
+
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_62.md)
+* [Bim software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_256.md)
+
 ## Category to which it belongs
 
 * [Efficiently manage, secure, analyze, and integrate diverse data through various advanced tools and platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_54.md)
+* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3167.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Field hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_355.md)
+* [Field hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3427.md)
 

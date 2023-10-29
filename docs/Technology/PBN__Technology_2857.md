@@ -2,6 +2,11 @@
 
 # __Media__
 
+## Link between Blueprint and General ontology
+
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_58.md)
+* [Print media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_65.md)
+
 ## Category to which it belongs
 
 * [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
@@ -21,9 +26,9 @@
 
 ## This Technology enables the following mitigations
 
-* [Information communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1425.md)
-* [Clear and timely information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1672.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
-* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_587.md)
-* [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1107.md)
+* [Information communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4389.md)
+* [Clear and timely information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4614.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_865.md)
+* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3630.md)
+* [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4095.md)
 

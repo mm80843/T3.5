@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Sustainable design and construction of projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_920.md)
+* [Sustainable design and construction of projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3925.md)
 

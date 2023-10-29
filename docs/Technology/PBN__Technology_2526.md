@@ -21,7 +21,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_547.md)
-* [Real-world evidence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_549.md)
-* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_548.md)
+* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3595.md)
+* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3596.md)
+* [Real-world evidence research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3597.md)
 

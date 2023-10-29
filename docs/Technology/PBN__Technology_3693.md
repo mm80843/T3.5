@@ -2,6 +2,10 @@
 
 # __Ultrasound imaging__
 
+## Link between Blueprint and General ontology
+
+* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
+
 ## Category to which it belongs
 
 * [Enhanced testing capacity and advanced diagnostic technologies ensure widespread and rapid disease screening and identification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2352.md)
+* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5219.md)
 

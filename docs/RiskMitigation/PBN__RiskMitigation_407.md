@@ -17,7 +17,11 @@
 * [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1753.md)
 * [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_976.md)
 * [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_432.md)
-* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3203.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5355.md)
+
+## Blueprints with this mitigation
+
+* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
 
 ## Benefits linked to a risk
 

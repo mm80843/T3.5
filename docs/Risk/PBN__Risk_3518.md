@@ -19,3 +19,7 @@
 * [About covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_535.md)
 * [Spread of covid-19 on construction sites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_771.md)
 
+## Blueprints with this risk
+
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+

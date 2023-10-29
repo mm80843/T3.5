@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3271 
 
-# __Portable air filtration devices__
+# __Collaboration and interdisciplinary approach__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Improve indoor air quality by implementing and maintaining effective air filtration systems and regularly replacing high-efficiency filters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_501.md)
+Foster collaboration among building practitioners, health professionals, and data scientists to ensure a holistic approach to healthy buildings.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3370.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1353.md)
-* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3369.md)
-* [Use of portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_774.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3272.md)
-* [High-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3371.md)
-* [Implementation of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_173.md)
-* [Installation of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_889.md)
-* [Use high-efficiency filters for air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2868.md)
-* [High-level air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_342.md)
+* [Lack of understanding and collaboration between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2447.md)
+
+## Property: has_MitigationSource
+
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Collaborative tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2266.md)
+* [Networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2265.md)
 

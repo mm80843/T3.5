@@ -17,7 +17,7 @@
 * [Adopt common protocols and nan standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2731.md)
 * [Implement robust cybersecurity measures, provide training on secure remote working practices, and ensure regular backups of data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2583.md)
 * [Implement data filtering and nan analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2734.md)
-* [Implement robust cybersecurity measures, such as encryption and secure data storage, to protect residents’ personal information. raise awareness about online safety and privacy protection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3212.md)
+* [Implement robust cybersecurity measures, such as encryption and secure data storage, to protect residents’ personal information. raise awareness about online safety and privacy protection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5364.md)
 
 ## Risks possibly mitigated by this Mitigation
 

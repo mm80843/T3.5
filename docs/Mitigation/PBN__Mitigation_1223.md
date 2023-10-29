@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1223 
 
-# __Informal signs__
+# __Public engagement__
 
 ## Category to which it belongs
 
-* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
+* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
-* [Professional signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
-* [Retailers should prioritize the use of professional signs for important and standardized messaging, and remove or update informal signs to avoid confusion.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4105.md)
-* [Retail store signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1222.md)
-* [Use of professional signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3647.md)
-* [Use of standardized signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3648.md)
-* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3611.md)
-* [Retailers should use professional signage on durable materials with clear and readable fonts, and regularly check and replace damaged or faded signs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3897.md)
-* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
-* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1785.md)
-* [Health and safety rule signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1837.md)
-
-## Property: has_MitigationPrinciple
-
-Used to communicate rapidly changing information and guidelines during the pandemic; Made of ordinary white paper, printed or handwritten, and placed on doors, windows, and throughout the stores
-
-## Risks possibly mitigated by this Mitigation
-
-* [Contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2956.md)
-
-## Property: has_MitigationSource
-
-* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2981.md)
+* [Public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_282.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
+* [Engagement of society](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1225.md)
+* [Social interaction and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1226.md)
+* [Education and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1227.md)
+* [Citizen engagement and participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
+* [Promotion of citizen engagement, participatory planning, transparency in decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1229.md)
+* [Public and private gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
+* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_21.md)
+* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1231.md)
 

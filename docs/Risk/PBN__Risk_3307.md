@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Rapidity of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2112.md)
+* [Rapidity of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4995.md)
 

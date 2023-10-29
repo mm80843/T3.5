@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Expansion of sdg 11 to include pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_114.md)
+* [Expansion of sdg 11 to include pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3220.md)
 

@@ -50,11 +50,11 @@ Applications of ultraviolet germicidal irradiation disinfection in health care f
 
 ## This article points to following mitigation
 
-* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
-* [High ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1291.md)
-* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1292.md)
-* [Uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1289.md)
-* [Differential pressurization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1290.md)
+* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_314.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_312.md)
+* [Uvgi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_315.md)
+* [High ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4263.md)
+* [Differential pressurization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4262.md)
 
 ## This article mentions these technologies
 

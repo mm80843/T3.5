@@ -2,6 +2,10 @@
 
 # __Water filters__
 
+## Link between Blueprint and General ontology
+
+* [HEPA Filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_25.md)
+
 ## Category to which it belongs
 
 * [Air and water purification systems, including filters, machines, purifiers, and technologies for improved air quality and filtration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2072.md)
+* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_238.md)
 

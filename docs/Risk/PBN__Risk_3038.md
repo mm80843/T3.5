@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1427.md)
+* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4391.md)
 

@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1852 
 
-# __Ventilation improvements__
+# __Implementing social distancing measures, promoting good hygiene practices, and enforcing lockdowns or stay-at-home orders__
 
 ## Category to which it belongs
 
-* [Enhance airflow and air quality for better respiratory health through improved natural and mechanical ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
+* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
-* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_262.md)
-* [Improvement of ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_519.md)
-* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2611.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
-* [Increase ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2609.md)
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_951.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_850.md)
-* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
-* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2646.md)
-
-## Property: has_MitigationPrinciple
-
-Increase airflow to reduce concentration of viral particles
-
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-
-## Property: has_MitigationSource
-
-* [The Socio-Spatial Determinants of COVID-19 Diffusion: The Impact of Globalisation, Settlement Characteristics and Population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_175.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2742.md)
+* [Timely implementation of travel restrictions, social distancing, and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3289.md)
+* [Implement social lockdown, promote hygiene practices, develop strategies for testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4002.md)
+* [Social distancing, hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3892.md)
+* [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2743.md)
+* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2487.md)
+* [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3682.md)
+* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1856.md)
+* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2462.md)
+* [Promote cleanliness and hygiene practices at the community level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2489.md)
 

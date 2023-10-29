@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Improved waste disposal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_754.md)
+* [Improved waste disposal](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3774.md)
 

@@ -39,13 +39,13 @@ The COVID-19 pandemic: Considerations for the waste and wastewater services sect
 
 ## This article points to following mitigation
 
-* [Strict infection control and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1393.md)
-* [Separate collection services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1394.md)
-* [72-hour delay in waste collection time](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1395.md)
-* [Evaluating control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1398.md)
-* [Strengthening wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1399.md)
-* [Research on aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1400.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1401.md)
+* [Strict infection control and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4358.md)
+* [Separate collection services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4359.md)
+* [72-hour delay in waste collection time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4360.md)
+* [Evaluating control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4363.md)
+* [Strengthening wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4364.md)
+* [Research on aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4365.md)
+* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4366.md)
 
 ## This article mentions these technologies
 

@@ -2,6 +2,16 @@
 
 # __Augmented / virtual reality__
 
+## Link between Blueprint and General ontology
+
+* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_92.md)
+* [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_97.md)
+* [Augmented reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_224.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_238.md)
+* [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_239.md)
+* [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_183.md)
+* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_241.md)
+
 ## Category to which it belongs
 
 * [These tools and techniques streamline processes, optimize systems, and enable data-driven decision-making in a variety of industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)

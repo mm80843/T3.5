@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Prevention of panic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_866.md)
+* [Prevention of panic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3875.md)
 

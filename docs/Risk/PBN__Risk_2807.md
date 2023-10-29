@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_965.md)
+* [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3966.md)
 

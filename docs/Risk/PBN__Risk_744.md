@@ -21,7 +21,7 @@
 
 ## Mitigations of this risk
 
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_242.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3329.md)
 * [Use of uv-c germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1025.md)
 * [Bipolar ionization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1352.md)
 

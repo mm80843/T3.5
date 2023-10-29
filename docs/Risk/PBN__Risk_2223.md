@@ -19,6 +19,10 @@
 * [Virtual access to green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3613.md)
 * [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
 
+## Blueprints with this risk
+
+* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
+
 ## Description of the risk
 
 Lockdown measures during the COVID-19 pandemic have restricted access and use of green areas

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Design level adjustments on noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2079.md)
+* [Design level adjustments on noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4968.md)
 

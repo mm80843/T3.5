@@ -13,11 +13,11 @@
 * [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2210.md)
 * [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_238.md)
 * [Proper wastewater treatment and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_483.md)
-* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3288.md)
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5431.md)
 * [Ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2549.md)
 * [Improved water systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_153.md)
 * [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_364.md)
-* [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3265.md)
+* [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5413.md)
 
 ## Risks possibly mitigated by this Mitigation
 

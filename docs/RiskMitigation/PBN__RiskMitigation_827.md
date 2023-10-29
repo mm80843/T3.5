@@ -9,8 +9,8 @@
 ## Closest similar item
 
 * [Implement targeted prevention measures and public health campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2538.md)
-* [Prevention protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3321.md)
-* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3128.md)
+* [Prevention protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5460.md)
+* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5290.md)
 * [Conduct public awareness campaigns and education programs to promote prevention measures.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2434.md)
 * [Risk prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_412.md)
 * [Improve public awareness and understanding of the importance of prevention measures, enforce compliance with guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3091.md)

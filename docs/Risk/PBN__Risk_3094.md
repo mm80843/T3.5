@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1526.md)
+* [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4482.md)
 

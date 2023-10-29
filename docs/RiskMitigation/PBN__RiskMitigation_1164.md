@@ -17,7 +17,7 @@
 * [Mobile technology in tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1162.md)
 * [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1165.md)
 * [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_214.md)
-* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3316.md)
+* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4519.md)
 
 ## Benefits linked to a risk
 

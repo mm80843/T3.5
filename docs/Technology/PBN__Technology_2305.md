@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Integration of multiple measurement methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_233.md)
+* [Integration of multiple measurement methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3322.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Covering water containers and collecting garbage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_95.md)
+* [Covering water containers and collecting garbage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3202.md)
 

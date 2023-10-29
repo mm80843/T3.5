@@ -42,7 +42,7 @@ Local transmission of COVID-19 within cities and provinces in China.
 ## Mitigations of this risk
 
 * [Social distancing, hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2125.md)
-* [Local mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_994.md)
+* [Local mitigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3995.md)
 
 ## Name of the risk
 

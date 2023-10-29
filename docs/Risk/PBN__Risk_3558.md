@@ -19,3 +19,8 @@
 * [Implement wastewater-based epidemiology wbe , target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3557.md)
 * [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1894.md)
 
+## Blueprints with this risk
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+* [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
+

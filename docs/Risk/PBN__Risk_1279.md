@@ -43,9 +43,9 @@ Airborne dissemination is a significant transmission route for SARS-CoV-2
 
 * [Increase ventilation rates, use air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2345.md)
 * [Improve ventilation, implement air filtration and uv light sterilisation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1764.md)
-* [Air filtration and uv sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_458.md)
-* [Enhanced ventilation with provision of uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_461.md)
-* [Portable air filters with uv sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_462.md)
+* [Air filtration and uv sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3520.md)
+* [Enhanced ventilation with provision of uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3523.md)
+* [Portable air filters with uv sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3524.md)
 
 ## Name of the risk
 

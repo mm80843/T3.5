@@ -6,9 +6,9 @@
 
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
 * [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_54.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_48.md)
 * [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_46.md)
 * [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_112.md)
 * [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_109.md)
 * [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_113.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_48.md)
 

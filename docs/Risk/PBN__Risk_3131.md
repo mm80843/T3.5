@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1591.md)
+* [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4541.md)
 

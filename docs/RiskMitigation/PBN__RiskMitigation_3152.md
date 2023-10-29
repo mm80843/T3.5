@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3152 
 
-# __Education initiatives__
+# __Applying antimicrobial coatings__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Enhance education through interdisciplinary collaboration, digital infrastructure, virtual reality training, and bridging the digital divide.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_478.md)
+Coating high touch surfaces to inactivate the virus
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3151.md)
-* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_867.md)
-* [Education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3165.md)
-* [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1035.md)
-* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3142.md)
-* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3153.md)
-* [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_540.md)
-* [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_66.md)
-* [Increase public education and communication efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2849.md)
+* [Contagious disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2003.md)
+
+## Property: has_MitigationSource
+
+* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_787.md)
 

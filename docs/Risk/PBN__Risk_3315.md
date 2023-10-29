@@ -19,7 +19,11 @@
 * [Effective crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3316.md)
 * [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_878.md)
 
+## Blueprints with this risk
+
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+
 ## Mitigations of this risk
 
-* [Exercises and trainings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2120.md)
+* [Exercises and trainings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5002.md)
 

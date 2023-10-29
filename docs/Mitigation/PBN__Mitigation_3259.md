@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3259 
 
-# __Lack of restorative spaces for social interactions__
+# __Establishing credit guarantee schemes__
 
 ## Category to which it belongs
 
-* [Promoting social distancing, equality, norms, interaction, and facilitation of social spaces to address societal issues and inequalities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Restorative spaces to support positive social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1554.md)
-* [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3111.md)
-* [Providing integrated spaces for social interaction and relaxation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3446.md)
-* [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2823.md)
-* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_402.md)
-* [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3226.md)
-* [Provide safe and social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2508.md)
-* [Design communal spaces that support physical distancing and social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3337.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_468.md)
-* [Accessible open green space and adherence to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3225.md)
+* [Establishing a regional credit guarantee](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3260.md)
+* [Increasing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3261.md)
+* [Gradually reducing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3262.md)
+* [Guaranteeing reimbursement of loans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3149.md)
+* [Emergency loan guarantees](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3145.md)
+* [Implement policies to support revenue generation and payment flexibility.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1626.md)
+* [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1025.md)
+* [Implement effective cash flow management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3263.md)
+* [Financial-incentive based models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2589.md)
+* [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3147.md)
 

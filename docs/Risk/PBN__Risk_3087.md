@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Temperature checks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
+* [Temperature checks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4474.md)
 

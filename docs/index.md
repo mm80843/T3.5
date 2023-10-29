@@ -13,10 +13,10 @@
 * _[BP_Transmission](https://github.com/mm80843/T3.5/blob/main/docs/BP_Transmission/index.md)_ -- 12 instances.
 * _[BP_Type](https://github.com/mm80843/T3.5/blob/main/docs/BP_Type/index.md)_ -- 2 instances.
 * _[Enabler](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/index.md)_ -- 276 instances.
-* _[Mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/index.md)_ -- 4190 instances.
+* _[Mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/index.md)_ -- 4144 instances.
 * _[PBNCategory](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/index.md)_ -- 512 instances.
 * _[Qid](https://github.com/mm80843/T3.5/blob/main/docs/Qid/index.md)_ -- 1728 instances.
-* _[Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/index.md)_ -- 3675 instances.
+* _[Risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/index.md)_ -- 3665 instances.
 * _[RiskGBN](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/index.md)_ -- 5 instances.
 * _[RiskHealth](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/index.md)_ -- 14 instances.
 * _[RiskISO_Impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO_Impact/index.md)_ -- 24 instances.
@@ -26,5 +26,5 @@
 * _[StakeholderGroup](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/index.md)_ -- 15 instances.
 * _[StakeholderSubgroup](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/index.md)_ -- 193 instances.
 * _[TechGroup](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/index.md)_ -- 139 instances.
-* _[Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/index.md)_ -- 4049 instances.
+* _[Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/index.md)_ -- 3773 instances.
 * _[TechSubgroup](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/index.md)_ -- 191 instances.

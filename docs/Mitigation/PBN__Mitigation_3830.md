@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3830 
 
-# __Increase awareness of the value of green areas__
+# __Optimize room layout, create flexible and multipurpose spaces, maximize use of natural light and ventilation__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
-* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
-* [Increase access to green spaces, promote urban greening initiatives, create more parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3084.md)
-* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2756.md)
-* [Adapt green area management to "new normal" lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3687.md)
-* [Citizen participation in green area management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2141.md)
-* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3189.md)
-* [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3085.md)
-* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3444.md)
-* [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3087.md)
-* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2755.md)
+* [Incorporate ventilation systems and optimize natural lighting in building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_974.md)
+* [Need for flexible room configurations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1034.md)
+* [Design for natural lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_971.md)
+* [Design units with provisions for natural light, ventilation, access to nature, and personal gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3829.md)
+* [Design spaces that prioritize natural light and ventilation, incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_390.md)
+* [Incorporate proper building design strategies for ventilation, airflow, and social distancing. design buildings with adequate space for ventilation and airflow.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3832.md)
+* [Flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1039.md)
+* [Provide adjustable and flexible indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2932.md)
+* [Improve living conditions, access to natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3191.md)
+* [Redesign housing layouts to include more partitions, wider corridors, and improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2653.md)
 

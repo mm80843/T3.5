@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_908.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3915.md)
 

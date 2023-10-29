@@ -2,6 +2,10 @@
 
 # __Cold storage facilities__
 
+## Link between Blueprint and General ontology
+
+* [Energy storage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_265.md)
+
 ## Category to which it belongs
 
 * [Synonymous with monitoring and regulating heat levels, temperature-related equipment and devices are utilized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1576.md)
+* [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4526.md)
 

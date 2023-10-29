@@ -2,6 +2,10 @@
 
 # __Operable windows__
 
+## Link between Blueprint and General ontology
+
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_201.md)
+
 ## Category to which it belongs
 
 * [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
@@ -21,6 +25,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1555.md)
-* [Circadian regulation: bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1553.md)
+* [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4506.md)
+* [Circadian regulation: bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4504.md)
 

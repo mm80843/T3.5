@@ -17,7 +17,7 @@
 * [Improve indoor ventilation systems, increase air exchange rates, and use of air purifiers or filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2256.md)
 * [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2474.md)
 * [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_225.md)
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3270.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5415.md)
 
 ## Benefits linked to a risk
 

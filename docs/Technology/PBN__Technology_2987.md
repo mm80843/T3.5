@@ -2,6 +2,11 @@
 
 # __Uvgi__
 
+## Link between Blueprint and General ontology
+
+* [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_189.md)
+* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_191.md)
+
 ## Category to which it belongs
 
 * [Innovative technology utilizing ultraviolet light for sterilization and disinfection purposes in various systems and devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_244.md)
@@ -21,6 +26,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1292.md)
-* [Uv-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1269.md)
+* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_314.md)
+* [Uv-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_994.md)
 

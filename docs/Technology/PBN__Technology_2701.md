@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_814.md)
+* [Training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3830.md)
 

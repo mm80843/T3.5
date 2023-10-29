@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2872 
 
-# __Dna analyzer__
+# __Carbon border tax__
 
 ## Category to which it belongs
 
-* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Nucleic acid testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1396.md)
-* [Dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2873.md)
-* [Nucleic acid-based polymerase chain reaction pcr](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_226.md)
-* [Nested pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1056.md)
-* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1860.md)
-* [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3362.md)
-* [Biosampler](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_324.md)
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_751.md)
-* [Antimicrobial resistance gene monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
-* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2330.md)
+* [Challenges in implementing and enforcing the carbon border tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2871.md)
+* [Strengthened carbon tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3571.md)
+* [Carbon pricing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1716.md)
+* [Border control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_102.md)
+* [Closing of borders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_100.md)
+* [Investment of economic stimulus funds in low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3573.md)
+* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3574.md)
+* [Border control and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_105.md)
+* [Deployment of low-carbon technologies and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3572.md)
+* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_106.md)
 

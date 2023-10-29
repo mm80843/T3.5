@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_969 
 
-# __Promote economic stability__
+# __Use of natural light, proper artificial lighting design, glare control measures__
 
 ## Category to which it belongs
 
-* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
+* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
-* [Economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1675.md)
-* [Seeking short-term relief and long-term sustainable solutions for financial stability.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3602.md)
-* [Economic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1171.md)
-* [Economic barrier](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3439.md)
-* [Decentralizing economic activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2986.md)
-* [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3823.md)
-* [Economic support and aid](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1061.md)
-* [Socioeconomic support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1606.md)
-* [Economic stimulus, support for affected industries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3825.md)
-* [Implementation of wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3603.md)
-
-## Property: has_MitigationPrinciple
-
-Take actions to promote economic recovery and stability to support the construction industry during and after the impact of contagious diseases
-
-## Risks possibly mitigated by this Mitigation
-
-* [Economic decline](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_856.md)
-
-## Property: has_MitigationSource
-
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_573.md)
+* [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_968.md)
+* [Improve lighting design, use daylighting strategies, provide task lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_568.md)
+* [Ensure sufficient lighting that meets safety standards and enhances visibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3081.md)
+* [Design for natural lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_971.md)
+* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
+* [Enhanced lighting design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_973.md)
+* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_967.md)
+* [Incorporate ventilation systems and optimize natural lighting in building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_974.md)
+* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
 

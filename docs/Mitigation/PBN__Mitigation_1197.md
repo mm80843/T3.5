@@ -1,39 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1197 
 
-# __Digital revolution in water management__
+# __Targeted mental health support, assessment and monitoring of vulnerable individuals__
 
 ## Category to which it belongs
 
-* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
+* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Digitalisation of water industry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1584.md)
-* [Water digitalization and iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3567.md)
-* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1086.md)
-* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2098.md)
-* [Smart water systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3676.md)
-* [Water quality management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_182.md)
-* [Provision of water infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3269.md)
-* [Improved water systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3267.md)
-* [Improving water infrastructure and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3558.md)
-* [Additional data sources and smart meter integration for water management.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3569.md)
-
-## Property: has_MitigationPrinciple
-
-Use digital tools to optimize water management, improve efficiency, and respond to COVID-19 challenges
-
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2529.md)
-
-## Property: has_MitigationSource
-
-* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
-* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1191.md)
+* [Address mental health concerns, provide support through social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
+* [Provide targeted interventions for individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1980.md)
+* [Provide mental health support, access to accurate information, and social support.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1193.md)
+* [Screening for mental health problems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1614.md)
+* [Mental health support services, community connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1023.md)
+* [Provide information and support, monitor mental health and stress reactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1606.md)
+* [Provide mental health support services and hotlines, promote community support systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3054.md)
+* [Provide counseling services, emphasize mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1192.md)
+* [Provide mental health support services, financial assistance programs, and social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1198.md)
 

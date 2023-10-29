@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Dedicated walk-in clinic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_8.md)
+* [Dedicated walk-in clinic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3124.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Surface environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1479.md)
+* [Surface environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4437.md)
 

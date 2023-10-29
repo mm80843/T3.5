@@ -2,6 +2,11 @@
 
 # __Uavs__
 
+## Link between Blueprint and General ontology
+
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_53.md)
+* [Drone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_150.md)
+
 ## Category to which it belongs
 
 * [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1829.md)
+* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4764.md)
 

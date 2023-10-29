@@ -9,8 +9,8 @@
 
 ## This article mentions these technologies
 
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 * [Data nan nan warehousing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1571.md)
 * [Encryption and authentication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1568.md)
 * [Big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1570.md)
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
 

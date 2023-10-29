@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_524.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3575.md)
 

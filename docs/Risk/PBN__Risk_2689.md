@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Spacing between buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_755.md)
+* [Spacing between buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3775.md)
 

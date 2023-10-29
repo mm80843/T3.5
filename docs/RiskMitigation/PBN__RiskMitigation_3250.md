@@ -1,21 +1,23 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3250 
 
-# __Bioinformatics tools__
+# __Virtual clinics__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Harness ai and machine learning to improve decision-making, optimize processes, control animal vectors, develop bioinformatics tools, and advance healthcare robotics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_482.md)
+Conducting virtual consultations to screen patients before they arrive in hospitals, reducing the need for physical presence at clinics and allowing for efficient triage and patient evaluation
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Development of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_54.md)
-* [Bioinformatics software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3251.md)
-* [Develop bioinformatics tools specifically for coronavirus research.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1961.md)
-* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3253.md)
-* [Ai and machine learning for gene analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3254.md)
-* [And bio-ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1245.md)
-* [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3252.md)
-* [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3119.md)
-* [Comparative analysis of genome sequences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3255.md)
-* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
+
+## Property: has_MitigationSource
+
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+* [Digital technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_278.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2231.md)
+* [Webcam-enabled computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2232.md)
+* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3438.md)
 

@@ -21,6 +21,7 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
+* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
 * [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
 * [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
@@ -28,7 +29,6 @@
 * [Public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1436.md)
 * [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
 * [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_889.md)
-* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
 * [Public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1545.md)
 * [Community engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_436.md)
 * [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1204.md)

@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_124 
 
-# __Clear guidelines and information__
+# __Effective quarantine__
 
 ## Category to which it belongs
 
-* [Promote trust, combat misinformation, and provide accurate and reliable information through evidence-based sources and transparent communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
+* [Imposing segregation and restrictions to prevent the spread of disease, including home isolation, monitoring, and mandatory measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_161.md)
 
 ## Closest similar item
 
-* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
-* [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2824.md)
-* [Providing resources and support, clear communication of guidelines, ensuring access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2825.md)
-* [Development of detailed design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2826.md)
-* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_63.md)
-* [Clear and timely information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1672.md)
-* [Guideline recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
-* [Clear sop guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_961.md)
-* [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2827.md)
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_101.md)
-
-## Property: has_MitigationPrinciple
-
-Providing clear and accurate guidelines and information during quarantine periods can reduce anxiety, frustration, and fear, and improve mental well-being.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_121.md)
+* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_122.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_128.md)
+* [Quarantine for high-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_131.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_126.md)
+* [Compliance of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_476.md)
+* [Mandatory quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_478.md)
+* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1320.md)
+* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_123.md)
+* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1319.md)
 

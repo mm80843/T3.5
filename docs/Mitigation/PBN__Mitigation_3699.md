@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3699 
 
-# __Retrofitting existing buildings with containment space, additional wet cells, and compartmentalization__
+# __Reviewing contracts and service agreements__
 
 ## Category to which it belongs
 
-* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Designing containment space in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3691.md)
-* [Multi-functional buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_702.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3365.md)
-* [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3804.md)
-* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2804.md)
-* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2060.md)
-* [Redesign housing layouts to include more partitions, wider corridors, and improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3459.md)
-* [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4077.md)
-* [Integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2768.md)
-* [Adaptation of building envelope materials and techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3198.md)
+* [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3700.md)
+* [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3701.md)
+* [Ensuring high-quality services, offering flexible cancellation policies, and providing alternative options](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3702.md)
+* [Ensuring the quality and reliability of services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3639.md)
+* [High costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1710.md)
+* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
+* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2225.md)
+* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_952.md)
+* [Providing resources and support, clear communication of guidelines, ensuring access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1014.md)
+* [Costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1709.md)
 

@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1962.md)
-* [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1961.md)
+* [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4879.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4880.md)
 

@@ -15,7 +15,7 @@
 * [Establish standards and protocols, promote collaboration and knowledge sharing among stakeholders.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1543.md)
 * [Collaboration with data providers and experts from diverse domains, continuous expansion and updates of the kg](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3000.md)
 * [Rigorous data validation processes, integration of multiple reliable data sources, expert review and validation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2999.md)
-* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3145.md)
+* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5304.md)
 * [Rigorous data scrutiny and review](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_856.md)
 * [Inclusion of diverse stakeholders in decision-making processes, ensuring equal access to smart city initiatives and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2745.md)
 

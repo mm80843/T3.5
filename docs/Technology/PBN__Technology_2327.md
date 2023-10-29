@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_268.md)
-* [Civil right to counsel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_269.md)
+* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_179.md)
+* [Civil right to counsel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3349.md)
 

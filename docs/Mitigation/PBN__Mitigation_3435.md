@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3435 
 
-# __Public information campaigns__
+# __Equipping the hospital__
 
 ## Category to which it belongs
 
-* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
-* [Public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2964.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
-* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2531.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2525.md)
-* [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
-* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2528.md)
-* [Public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2527.md)
-* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3731.md)
-* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1247.md)
+* [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2774.md)
+* [Hospital preparation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2505.md)
+* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3141.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_373.md)
+* [Overwhelmed medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2412.md)
+* [Emergency facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_453.md)
+* [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_377.md)
+* [Iot-enabled hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2563.md)
+* [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_379.md)
+* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_372.md)
 

@@ -16,7 +16,7 @@
 * [Postpone events, provide financial support to organizations and athletes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2396.md)
 * [Public awareness campaigns, enforcement of social distancing measures, designated seating areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2552.md)
 * [Promote the use of public spaces through targeted campaigns, activities, and events](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1978.md)
-* [Outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3355.md)
+* [Outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5492.md)
 * [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2019.md)
 
 ## Risks possibly mitigated by this Mitigation

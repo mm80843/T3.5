@@ -17,7 +17,7 @@
 * [Implement lean construction principles, enhance workforce skills and productivity, improve processes and workflow.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1942.md)
 * [Implementation of flexible work policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_891.md)
 * [Implement flexible work arrangements, such as remote work and flexible schedules.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2611.md)
-* [Industry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3146.md)
+* [Industry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5305.md)
 
 ## Benefits linked to a risk
 

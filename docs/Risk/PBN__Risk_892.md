@@ -19,6 +19,10 @@
 * [Lack of green space in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_141.md)
 * [Lack of gardening/activity in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
 
+## Blueprints with this risk
+
+* [Acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_16.md)
+
 ## Mitigations of this risk
 
 * [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1229.md)

@@ -2,6 +2,10 @@
 
 # __Limited understanding of human behavior__
 
+## Link between Blueprint and General ontology
+
+* [User behavior](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_4.md)
+
 ## Category to which it belongs
 
 * [The complexities of social distancing, social inequalities, isolation, and lack of interaction impact society in multiple ways.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)

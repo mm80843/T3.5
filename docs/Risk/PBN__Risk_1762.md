@@ -19,6 +19,10 @@
 * [Operating room disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_255.md)
 * [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
 
+## Blueprints with this risk
+
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
+
 ## Description of the risk
 
 Addition of local devices to clean or disinfect the air

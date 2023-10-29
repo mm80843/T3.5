@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3020 
 
-# __Improved location tracking algorithms__
+# __Distancing and building layout__
 
 ## Category to which it belongs
 
-* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
+* [Creating safe and spacious environments by implementing measures that promote physical distancing and isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_177.md)
 
 ## Closest similar item
 
-* [Gps-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1650.md)
-* [Real-time tracking map](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2044.md)
-* [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3021.md)
-* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2484.md)
-* [Tracking applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1737.md)
-* [Wi-fi-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1649.md)
-* [Implementing new regulations and technologies for tracking and surveillance in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
-* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2481.md)
-* [Gis tools for mapping and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1212.md)
-* [Monitoring people movement during events](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2279.md)
+* [Appropriate unit sizes and layouts that support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1073.md)
+* [Designing spaces to enable physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_468.md)
+* [Implement physical distancing measures, modify layout to allow for more space between individuals, and limit occupancy in common areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2033.md)
+* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_461.md)
+* [Spatial distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_465.md)
+* [Provide larger units and flexible housing options to support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2884.md)
+* [Proximity and distancing architectures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3019.md)
+* [Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_462.md)
+* [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2014.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Heightened surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_93.md)
+* [Heightened surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3200.md)
 

@@ -2,6 +2,10 @@
 
 # __Digital and information access__
 
+## Link between Blueprint and General ontology
+
+* [Information management](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_9.md)
+
 ## Category to which it belongs
 
 * [Concerns about the protection and confidentiality of personal information, risk of unauthorized access or breach, and potential invasive surveillance practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)

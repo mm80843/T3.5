@@ -19,6 +19,10 @@
 * [Implement wastewater-based epidemiology wbe , target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1795.md)
 * [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
 
+## Blueprints with this mitigation
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Inaccurate estimation of covid-19 prevalence from wastewater data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)

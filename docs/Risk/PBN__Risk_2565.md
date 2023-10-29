@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
+* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1015.md)
 

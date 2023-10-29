@@ -12,11 +12,11 @@
 * [Promote awareness about asymptomatic transmission, encourage individuals to practice preventive measures regardless of symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2312.md)
 * [Explore the use of additional physiological measurements to improve accuracy of diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1558.md)
 * [Increase testing capacity to include testing of mild or asymptomatic individuals to obtain a more accurate assessment of the prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2560.md)
-* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3365.md)
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3366.md)
+* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5501.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5502.md)
 * [Monitor and manage gastrointestinal symptoms, enhance diagnostic capabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2212.md)
 * [Strengthen surveillance systems to actively detect and treat asymptomatic and unreported cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2830.md)
-* [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3237.md)
+* [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5387.md)
 * [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1280.md)
 
 ## Risks possibly mitigated by this Mitigation

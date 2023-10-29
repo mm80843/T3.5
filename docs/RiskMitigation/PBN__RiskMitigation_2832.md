@@ -16,8 +16,12 @@
 * [Seal walls, ceilings, and windows, and use negative air machines with hepa filters to maintain pressure differentials and prevent pathogen spread](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2185.md)
 * [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1820.md)
 * [Use portable room air cleaners with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_190.md)
-* [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3292.md)
+* [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5434.md)
 * [Portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_343.md)
+
+## Blueprints with this mitigation
+
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
 
 ## Risks possibly mitigated by this Mitigation
 

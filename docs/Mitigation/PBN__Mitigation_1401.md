@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1401 
 
-# __Data sharing mechanisms__
+# __Proper segregation of medical waste__
 
 ## Category to which it belongs
 
-* [Promote seamless data sharing, real-time analysis, and collaboration through standardized protocols and integrated platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
+* [Improving healthcare access, enhancing facilities, and strengthening healthcare systems for effective management and optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_97.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1287.md)
-* [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3516.md)
-* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2012.md)
-* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2535.md)
-* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2534.md)
-* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2269.md)
-* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3517.md)
-* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_550.md)
-* [Enforcing data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_561.md)
-
-## Property: has_MitigationPrinciple
-
-Establishing data sharing mechanisms between health authorities and waste services sector to facilitate coordination and privacy protection
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1403.md)
+* [Proper waste management and segregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1404.md)
+* [Implement separate collection of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2745.md)
+* [Develop waste management strategies, including proper waste segregation and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3521.md)
+* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1565.md)
+* [Proper classification and disinfection of hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3522.md)
+* [Management of increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1573.md)
+* [Develop waste separation and disinfection strategies, proper disposal and recycling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3524.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1567.md)
+* [Appropriate disposal and disinfection of hospital wastes and wastewater before transportation or discharge.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3993.md)
 

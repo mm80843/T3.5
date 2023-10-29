@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1549 
 
-# __Curfew part one__
+# __Monitoring systems and maintenance protocols__
 
 ## Category to which it belongs
 
-* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
+* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Curfew part two](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1550.md)
-* [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1543.md)
-* [Curfews](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_346.md)
-* [Ensure access to essential services during curfew hours, increase enforcement and penalties for violations.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3865.md)
-* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2036.md)
-* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_668.md)
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1032.md)
-* [Public events ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_661.md)
-* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2634.md)
-* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1512.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing a curfew during specific time period
-
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-
-## Property: has_MitigationSource
-
-* [Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_84.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_784.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_838.md)
+* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_781.md)
+* [Regular inspection and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_233.md)
+* [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2674.md)
+* [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1627.md)
+* [Continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1628.md)
+* [Remote monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_914.md)
+* [Good maintenance practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_782.md)
 

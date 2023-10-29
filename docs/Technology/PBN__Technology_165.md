@@ -2,6 +2,16 @@
 
 # __Surveillance cameras__
 
+## Link between Blueprint and General ontology
+
+* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_12.md)
+* [Cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_177.md)
+* [Cctv footage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_178.md)
+* [Cctv systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_176.md)
+* [Cctv](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_179.md)
+* [Video cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_180.md)
+* [Surveillance camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_182.md)
+
 ## Category to which it belongs
 
 * [Enhanced visual monitoring technology for communication, collaboration, data collection, and security purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
@@ -28,11 +38,11 @@
 
 ## This technology is mentioned by
 
+* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
+* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 * [10 Adaptive Measures for Public Places to face the COVID 19 Pandemic Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_63.md)
 * [Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_87.md)
 * [Towards the sustainable development of smart cities through mass video surveillance: A response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_117.md)
-* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
-* [An Automated System to Limit COVID-19 Using Facial Mask Detection in Smart City Network](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_265.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -43,7 +53,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Limited access nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_399.md)
+* [Limited access nodes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3468.md)
 
 ## Risks linked to this technology
 

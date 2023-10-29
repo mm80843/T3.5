@@ -16,7 +16,7 @@
 * [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
 * [Optimize room layout, create flexible and multipurpose spaces, maximize use of natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2224.md)
 * [Implement physical distancing measures, modify layout to allow for more space between individuals, and limit occupancy in common areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2261.md)
-* [Outdoor seating areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3384.md)
+* [Outdoor seating areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5518.md)
 * [Optimize layout for north-south orientation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_885.md)
 
 ## Risks possibly mitigated by this Mitigation

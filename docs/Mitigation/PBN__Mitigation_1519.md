@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1519 
 
-# __Thorough disinfection__
+# __Face recognition__
 
 ## Category to which it belongs
 
-* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
+* [Promoting the wearing of masks and implementing measures to reduce face-to-face contact for risk reduction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2867.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
-* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_913.md)
-* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2864.md)
-* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2953.md)
-* [Disinfection and cleaning techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3341.md)
-* [Disinfection and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2942.md)
-* [Preprocessing disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3868.md)
-* [Physical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2248.md)
-* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_529.md)
-
-## Property: has_MitigationPrinciple
-
-Clean and disinfect tools, machinery, and surfaces to reduce the risk of virus transmission
-
-## Risks possibly mitigated by this Mitigation
-
-* [Contaminated tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3088.md)
-
-## Property: has_MitigationSource
-
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
+* [Automated face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3043.md)
+* [Automated face recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3044.md)
+* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
+* [Face recognition and thermal screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1908.md)
+* [Big data and facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2887.md)
+* [Facial mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3047.md)
+* [Implementation of facial recognition technology and ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3046.md)
+* [Thermal imaging-enabled facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3037.md)
+* [Implementing automated face recognition technology with ai integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3045.md)
+* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3749.md)
 

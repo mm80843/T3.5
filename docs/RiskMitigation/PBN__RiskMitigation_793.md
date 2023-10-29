@@ -12,7 +12,7 @@
 * [Use of branded signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_795.md)
 * [Establish and enforce workplace rules and signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_386.md)
 * [Retailers should use professional signage on durable materials with clear and readable fonts, and regularly check and replace damaged or faded signs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2286.md)
-* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3335.md)
+* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5473.md)
 * [Retailers should prioritize the use of professional signs for important and standardized messaging, and remove or update informal signs to avoid confusion.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2288.md)
 * [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1813.md)
 * [Retailers should provide clear and updated information through signage, online channels, and verbal communication.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2285.md)

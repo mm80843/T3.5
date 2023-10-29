@@ -13,11 +13,11 @@
 * [Incorporate green space quality assessments into urban planning, prioritize the preservation of high-quality green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1872.md)
 * [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2405.md)
 * [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_460.md)
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3226.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4157.md)
 * [Redistribution of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_422.md)
-* [Urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3178.md)
+* [Urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5334.md)
 * [Incorporate diverse types of green spaces in urban planning and design, prioritize the creation of green spaces with diverse vegetation and design features](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2070.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3188.md)
+* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5344.md)
 
 ## Risks possibly mitigated by this Mitigation
 

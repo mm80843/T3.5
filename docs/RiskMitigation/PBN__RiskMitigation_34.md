@@ -23,7 +23,22 @@
 
 * [Expanded 5g coverage and connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_42.md)
 
+## Property: has_MitigationPrinciple
+
+Acceleration of 5G deployment, utilization of small cell networks, RAN sharing, and implementation of L5GO networks to improve network connectivity and expand 5G coverage
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Technical limitations and limited connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_26.md)
+* [Limited availability of 5g networks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3244.md)
+
+## Property: has_MitigationSource
+
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3364.md)
+* [Ran sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3365.md)
+* [L5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
 

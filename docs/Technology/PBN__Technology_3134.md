@@ -2,6 +2,10 @@
 
 # __Virtual meeting platforms__
 
+## Link between Blueprint and General ontology
+
+* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_241.md)
+
 ## Category to which it belongs
 
 * [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
@@ -21,6 +25,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1526.md)
-* [Virtual assessments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1666.md)
+* [Remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4482.md)
+* [Virtual assessments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4608.md)
 

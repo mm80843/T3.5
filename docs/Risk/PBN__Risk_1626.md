@@ -19,6 +19,10 @@
 * [Lack of hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2261.md)
 * [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1486.md)
 
+## Blueprints with this risk
+
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+
 ## Description of the risk
 
 Risk of virus transmission due to inadequate hand hygiene practices.
@@ -74,8 +78,8 @@ Increased risk of infection if hands are not regularly washed or sanitized.
 
 ## Technologies linked to the risk
 
-* [Public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_370.md)
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
+* [Public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_370.md)
 * [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
 * [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_247.md)
 * [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)

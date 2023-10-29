@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1404 
 
-# __Tele-response bots__
+# __Proper waste management and segregation__
 
 ## Category to which it belongs
 
-* [Expanding healthcare access through remote technology, including telemedicine, telehealth clinics, and virtual consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
+* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2910.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_469.md)
-* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3593.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2913.md)
-* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_603.md)
-* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2908.md)
-* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2909.md)
-* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1459.md)
-* [Mobile chatbot applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2488.md)
-* [Teleworking and remote learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1245.md)
-
-## Property: has_MitigationPrinciple
-
-Use tele-response bots to remotely communicate with and monitor patients
-
-## Risks possibly mitigated by this Mitigation
-
-* [Data breaches, technological limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3022.md)
-
-## Property: has_MitigationSource
-
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2034.md)
-* [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3088.md)
+* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1565.md)
+* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1566.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1567.md)
+* [Improved waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1568.md)
+* [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1572.md)
+* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
+* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1569.md)
+* [Inadequate waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1571.md)
+* [Develop waste management strategies, including proper waste segregation and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3521.md)
+* [Enhance waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1575.md)
 

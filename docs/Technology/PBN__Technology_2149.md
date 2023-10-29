@@ -2,6 +2,15 @@
 
 # __Internet of things__
 
+## Link between Blueprint and General ontology
+
+* [Wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_39.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
+* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_54.md)
+* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_46.md)
+* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_109.md)
+* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_113.md)
+
 ## Category to which it belongs
 
 * [Enhancing digital connectivity through internet-based communication, networking platforms, and wireless data transmission for efficient collaboration and reliable connectivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
@@ -21,14 +30,14 @@
 
 ## This Technology enables the following mitigations
 
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_425.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1535.md)
-* [Ai and iot technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1849.md)
-* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2177.md)
-* [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2179.md)
-* [Industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2183.md)
-* [Medicine 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2184.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1956.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_39.md)
-* [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1577.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4490.md)
+* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3489.md)
+* [Ai and iot technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4783.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5057.md)
+* [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5058.md)
+* [Industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5062.md)
+* [Medicine 4.0](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5063.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4875.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3153.md)
+* [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4527.md)
 

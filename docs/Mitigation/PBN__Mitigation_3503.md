@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3503 
 
-# __Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures__
+# __Support local economies and livelihoods, promote sustainable alternative income-generating activities, and engage local communities in conservation efforts.__
 
 ## Category to which it belongs
 
-* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
+* [Build resilience, ensure food supply, manage crises, and enhance emergency plans for a sustainable and inclusive future.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
-* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3387.md)
-* [Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3502.md)
-* [Implement strict hygiene protocols, provide personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3501.md)
-* [Regular cleaning and disinfection, maintaining good hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4126.md)
-* [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2935.md)
-* [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3907.md)
-* [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_930.md)
-* [Implement improved cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2939.md)
-* [Regular disinfection, high-level hygiene practices, waste management.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3839.md)
-* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3381.md)
+* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1669.md)
+* [Strengthen local partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3272.md)
+* [Raising public support and interest in nature conservation and pcas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3467.md)
+* [Promote urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3505.md)
+* [Ensure food supply chains, promote sustainable agriculture, and provide food assistance and support to vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3554.md)
+* [Promote local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2818.md)
+* [Reducing community environmental impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1639.md)
+* [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1646.md)
+* [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1644.md)
+* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1672.md)
 

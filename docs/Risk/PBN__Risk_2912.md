@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1556.md)
-* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
+* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4112.md)
+* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4507.md)
 

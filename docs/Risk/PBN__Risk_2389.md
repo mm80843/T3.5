@@ -21,7 +21,7 @@
 
 ## Mitigations of this risk
 
-* [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
-* [Engaging decision-makers in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_588.md)
-* [Scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1319.md)
+* [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3149.md)
+* [Engaging decision-makers in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3631.md)
+* [Scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4289.md)
 

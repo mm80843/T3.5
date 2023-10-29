@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_633 
 
-# __Dog walking guidelines__
+# __Improve air filtration__
 
 ## Category to which it belongs
 
-* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
+* [Enhanced air purification using high-efficiency filters and ventilation systems, including portable devices and hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
-* [Physical activity guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_76.md)
-* [Dedicated walk-in clinic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_8.md)
-* [Walking, cycling, and public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1255.md)
-* [Guideline recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
-* [Reduced traveling and walking opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1495.md)
-* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
-* [Walkable urban design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2999.md)
-* [Travel regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2465.md)
-* [Including walking and standing up](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_446.md)
-* [Movement restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1661.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing clear guidelines and rules for dog walking in green spaces to minimize the impact on wildlife and their habitats.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Wildlife disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2635.md)
-
-## Property: has_MitigationSource
-
-* [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Improved air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_632.md)
+* [Improve indoor air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_794.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_609.md)
+* [Enhanced air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_631.md)
+* [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
+* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_634.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_638.md)
+* [High-level air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_635.md)
+* [Air filtration and purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_611.md)
+* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_636.md)
 

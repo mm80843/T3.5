@@ -19,6 +19,14 @@
 * [Lack of air disinfection in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_274.md)
 * [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_943.md)
 
+## Blueprints with this risk
+
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
+* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+
 ## Mitigations of this risk
 
 * [Develop pandemic-resilient office building requirements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_605.md)

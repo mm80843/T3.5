@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1340 
 
-# __Washing hands__
+# __Implement strict disinfection and__
 
 ## Category to which it belongs
 
-* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
+* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
 
 ## Closest similar item
 
-* [Hand washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_911.md)
-* [Frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1657.md)
-* [Hand washing prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1430.md)
-* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_799.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
-* [Hand-washing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3230.md)
-* [Regular hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_789.md)
-* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_525.md)
-* [Proper handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_134.md)
-* [Frequent handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1294.md)
-
-## Property: has_MitigationPrinciple
-
-Proper hand hygiene can help reduce the risk of transmission by killing or removing the virus from hands.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_154.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
-* [Soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2291.md)
+* [Implement proper disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3803.md)
+* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1308.md)
+* [Effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1106.md)
+* [Preprocessing disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3602.md)
+* [Thorough disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1306.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1132.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1100.md)
+* [Disinfection and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1271.md)
+* [Strict disinfection measures, hand](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1458.md)
+* [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3413.md)
 

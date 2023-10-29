@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1649 
 
-# __Wi-fi-based tracking__
+# __Automatic control__
 
 ## Category to which it belongs
 
-* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
+* [Enhance monitoring and response systems while integrating various wearable sensors, biosensors, nanotechnology, contactless systems, and robotics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Gps-based tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1650.md)
-* [Wi-fi-based apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2491.md)
-* [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3021.md)
-* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3069.md)
-* [Iot for monitoring and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3422.md)
-* [Tracking applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1737.md)
-* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2484.md)
-* [Real-time tracking map](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2044.md)
-* [Tracking and tracing transmissions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_0.md)
-* [App-based trackers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_19.md)
-
-## Property: has_MitigationPrinciple
-
-Uses Wi-Fi signals for real-time display of epidemic data, allowing users to access information about the risk distribution in their surroundings.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Mobile Technology Solution for COVID-19: Surveillance and Prevention](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_239.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2609.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1650.md)
+* [Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1651.md)
+* [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1652.md)
+* [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1653.md)
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1654.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1655.md)
+* [Continuously monitor and adjust policies based on the situation.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1656.md)
+* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_739.md)
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1657.md)
+* [Autoclaving](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1352.md)
 

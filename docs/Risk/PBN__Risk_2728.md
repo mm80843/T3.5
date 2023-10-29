@@ -19,7 +19,11 @@
 * [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1502.md)
 * [Vector-borne diseases outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3214.md)
 
+## Blueprints with this risk
+
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+
 ## Mitigations of this risk
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
 

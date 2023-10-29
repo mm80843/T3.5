@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Vulnerability identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2113.md)
+* [Vulnerability identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4996.md)
 

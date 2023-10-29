@@ -2,6 +2,10 @@
 
 # __Drive-through window systems__
 
+## Link between Blueprint and General ontology
+
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_201.md)
+
 ## Category to which it belongs
 
 * [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Drive-through windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1781.md)
+* [Drive-through windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4717.md)
 

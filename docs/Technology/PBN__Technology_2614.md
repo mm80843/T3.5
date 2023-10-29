@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_685.md)
+* [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3714.md)
 

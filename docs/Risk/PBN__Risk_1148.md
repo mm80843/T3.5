@@ -19,6 +19,10 @@
 * [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3556.md)
 * [Inadequate treatment of wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2935.md)
 
+## Blueprints with this risk
+
+* [Drinking water safety - biofilm formation](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_21.md)
+
 ## Description of the risk
 
 The availability of biosensors specifically designed and validated for wastewater analysis is limited.

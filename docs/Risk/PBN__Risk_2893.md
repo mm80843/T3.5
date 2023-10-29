@@ -19,7 +19,11 @@
 * [Mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2905.md)
 * [Increased mosquito breeding due to heavy rainfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3066.md)
 
+## Blueprints with this risk
+
+* [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
+
 ## Mitigations of this risk
 
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1088.md)
+* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4077.md)
 

@@ -19,6 +19,10 @@
 * [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3584.md)
 * [Insufficient disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
 
+## Blueprints with this risk
+
+* [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+
 ## Mitigations of this risk
 
 * [Portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_343.md)

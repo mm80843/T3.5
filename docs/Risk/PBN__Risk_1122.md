@@ -43,7 +43,7 @@ Insufficient medical facilities and resources in built environments
 
 * [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2717.md)
 * [Increase investment in healthcare infrastructure, establish temporary medical facilities during outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1574.md)
-* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2193.md)
+* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5072.md)
 
 ## Name of the risk
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2193.md)
+* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5072.md)
 

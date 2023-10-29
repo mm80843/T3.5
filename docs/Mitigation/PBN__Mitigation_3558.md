@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3558 
 
-# __Improving water infrastructure and distribution systems__
+# __Mobilizing informal institutions for education__
 
 ## Category to which it belongs
 
-* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Provision of water infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3269.md)
-* [Reimagining water infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1592.md)
-* [Improved water systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3267.md)
-* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_90.md)
-* [Improve access to safe drinking water and sanitation infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2590.md)
-* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1086.md)
-* [Develop alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3557.md)
-* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2098.md)
-* [Establish measures to control water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2583.md)
-* [Install water-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3995.md)
+* [Closure of educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2196.md)
+* [Informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2874.md)
+* [Disruption of education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2070.md)
+* [Education disruption](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1781.md)
+* [Strong institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2861.md)
+* [Closure of educational institutions and workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2197.md)
+* [Addressing the impact on the informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3559.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_252.md)
+* [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3322.md)
+* [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_249.md)
 

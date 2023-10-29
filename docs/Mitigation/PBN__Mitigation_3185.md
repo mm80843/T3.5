@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3185 
 
-# __Screening technologies__
+# __Delivery drones__
 
 ## Category to which it belongs
 
-* [The advancement and adoption of various technological innovations and tools for communication, healthcare, work, and daily life.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Screening techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3074.md)
-* [Rapid screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1146.md)
-* [Combining multiple screening methods, widespread testing programs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3075.md)
-* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2268.md)
-* [House screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2321.md)
-* [Population screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2176.md)
-* [Testing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2795.md)
-* [Screening masses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
-* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1635.md)
-* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_367.md)
+* [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3151.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3220.md)
+* [Drones and robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1349.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1355.md)
+* [Surveillance drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3221.md)
+* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3042.md)
+* [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3222.md)
+* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2541.md)
+* [Management of deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2804.md)
+* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3150.md)
 

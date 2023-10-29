@@ -4,7 +4,11 @@
 
 ## Items covered in this category
 
+* [Spatial data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2435.md)
 * [Data analytics for targeted assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1242.md)
+* [Data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2735.md)
+* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2568.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
 * [Data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_552.md)
 * [Real-time data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2003.md)
 * [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1709.md)
@@ -14,9 +18,7 @@
 * [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
 * [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_18.md)
 * [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3746.md)
-* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2568.md)
 * [Social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2574.md)
-* [Data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2735.md)
 * [Anonymous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1934.md)
 * [Research and data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1121.md)
 * [Data modeling standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1346.md)
@@ -30,7 +32,6 @@
 * [Data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2650.md)
 * [Robust data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2740.md)
 * [Local data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3651.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
 * [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
 * [Big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3374.md)
 * [High-resolution land use data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3524.md)
@@ -41,7 +42,6 @@
 * [Public epidemiological data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2528.md)
 * [Spatial analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_540.md)
 * [Spatial-temporal analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2974.md)
-* [Spatial data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2435.md)
 * [Data collection and analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_614.md)
 * [Data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1532.md)
 * [Use of data analytics to identify high-risk areas and populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_561.md)

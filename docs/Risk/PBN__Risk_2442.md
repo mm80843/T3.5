@@ -21,8 +21,8 @@
 
 ## Mitigations of this risk
 
-* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_161.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_159.md)
-* [Data mining and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_167.md)
-* [Smartwatch data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_160.md)
+* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3260.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3258.md)
+* [Smartwatch data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3259.md)
+* [Data mining and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3266.md)
 

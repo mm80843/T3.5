@@ -17,7 +17,7 @@
 * [Develop car-sharing programs, promote electric vehicle adoption, provide subsidies for car ownership, improve public transport connectivity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1668.md)
 * [Implementing transportation equity measures, prioritizing affordable and accessible public transport options in underserved areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2535.md)
 * [Promote active transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_21.md)
-* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3184.md)
+* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5340.md)
 
 ## Risks possibly mitigated by this Mitigation
 

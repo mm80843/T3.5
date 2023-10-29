@@ -23,7 +23,21 @@
 
 * [Improved mood and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1283.md)
 
+## Property: has_MitigationPrinciple
+
+Incorporating natural lighting into indoor spaces can improve mood and productivity, and reduce the risk of depression and other mental health issues.
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Lack of access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3169.md)
 * [Mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_941.md)
+
+## Property: has_MitigationSource
+
+* [How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_34.md)
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Daylighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_187.md)
 

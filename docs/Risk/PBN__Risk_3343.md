@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Enhanced regulation of global corporations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2197.md)
+* [Enhanced regulation of global corporations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5076.md)
 

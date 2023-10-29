@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Involvement of architectural and urban institutions in addressing pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_115.md)
+* [Involvement of architectural and urban institutions in addressing pandemics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3221.md)
 

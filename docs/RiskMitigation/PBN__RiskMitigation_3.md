@@ -16,7 +16,7 @@
 * [Standardization of pcr platforms and protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_877.md)
 * [Combination of pcr methods and biomarker measurements elisa, ms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_879.md)
 * [Universal asymptomatic rt-pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1220.md)
-* [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3119.md)
+* [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5281.md)
 * [Improvement of pcr methods in terms of sensitivity and comparability, optimization of rna extraction protocol.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1598.md)
 
 ## Benefits linked to a risk

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3714 
 
-# __Implement robust security measures, use encryption and anonymization techniques, obtain informed consent from users, comply with data protection regulations__
+# __Rent controls__
 
 ## Category to which it belongs
 
-* [Ensuring confidentiality, protecting personal information, and addressing cybersecurity, privacy, and data protection issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Implement privacy protection measures, obtain consent, anonymize data.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3998.md)
-* [Implement strong data protection measures, obtain consent, and ensure data anonymity.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3712.md)
-* [Implement strong data protection measures, ensure transparency and consent, use decentralized and secure systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3713.md)
-* [Implement encryption, anonymity, and biometrics, establish clear data control policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4131.md)
-* [Strict adherence to privacy regulations, encryption of sensitive data, secure access control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3711.md)
-* [Implement robust data security measures, encryption, access controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3015.md)
-* [Implement robust cybersecurity measures, such as encryption and secure data storage, to protect residents’ personal information. raise awareness about online safety and privacy protection.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3121.md)
-* [Enforce data sharing requirements, incentivize data sharing, improve legal and regulatory frameworks.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3966.md)
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1887.md)
-* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2801.md)
+* [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3767.md)
+* [Implement eviction moratoria, provide rental assistance, and support eviction prevention programs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3710.md)
+* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2644.md)
+* [Housing evictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1417.md)
+* [Implement occupancy limits, encourage social distancing, provide adequate facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2679.md)
+* [Implement eviction moratoria, provide rental assistance, establish eviction diversion programs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3711.md)
+* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3768.md)
+* [Establish occupancy limits for spaces, provide adequate space and amenities for occupants, promote social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3640.md)
+* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1008.md)
+* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3709.md)
 

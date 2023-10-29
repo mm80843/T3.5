@@ -1,21 +1,22 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3371 
 
-# __High-efficiency air filtration systems__
+# __Exposure response plan__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Improve indoor air quality by implementing and maintaining effective air filtration systems and regularly replacing high-efficiency filters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_501.md)
+Develop a response plan for possible virus exposure, including isolating employees, safely transporting them, and maintaining effective record-keeping for contact tracing.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_224.md)
-* [Use high-efficiency filters for air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2868.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1353.md)
-* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3369.md)
-* [Implementation of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_173.md)
-* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3370.md)
-* [High-level air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_342.md)
-* [Installation of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_889.md)
-* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3327.md)
-* [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_373.md)
+* [Virus exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2487.md)
+
+## Property: has_MitigationSource
+
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2357.md)
+* [Record-keeping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2358.md)
+* [Isolation areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2356.md)
 

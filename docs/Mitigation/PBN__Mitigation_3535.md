@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3535 
 
-# __Industry-specific working procedures__
+# __Develop industry-specific working procedures, enforce safety protocols, promote worker mental health.__
 
 ## Category to which it belongs
 
@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Standard working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_493.md)
-* [Develop industry-specific working procedures, enforce safety protocols, promote worker mental health.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3844.md)
-* [Simplified procedures for essential activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1450.md)
-* [Workplace modification activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3537.md)
-* [Implementing remote work arrangements, implementing safety protocols, ensuring proper communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3982.md)
-* [Occupational safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1470.md)
-* [Flexible working policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1790.md)
-* [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3650.md)
-* [Support measures for commercial and small industrial activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1922.md)
-* [Flexible manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
+* [Promoting worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3055.md)
+* [Workplace safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3056.md)
+* [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2812.md)
+* [Safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3057.md)
+* [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3301.md)
+* [Occupational safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3804.md)
+* [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3082.md)
+* [Provide information and support, monitor mental health and stress reactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1606.md)
+* [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3682.md)
+* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2487.md)
 

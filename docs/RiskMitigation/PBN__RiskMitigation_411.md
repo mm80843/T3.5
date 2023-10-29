@@ -12,7 +12,7 @@
 * [Diversify funding sources, develop alternative revenue streams, promote domestic tourism, and enhance marketing strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1778.md)
 * [Provide financial aid and support to hospitality and tourism industry, adapt business models for survival](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2394.md)
 * [Implement travel restrictions, reduce travel demand, promote alternative methods of essential supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1843.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3182.md)
+* [Travel policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5338.md)
 * [Develop and promote alternative outdoor recreation opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2152.md)
 * [Develop affordable transportation options, reduce entrance fees, and provide flexible visiting hours](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2920.md)
 * [Promote reduction of non-essential travel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_570.md)

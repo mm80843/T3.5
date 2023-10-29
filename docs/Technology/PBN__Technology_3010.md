@@ -2,6 +2,10 @@
 
 # __Communication technology internet__
 
+## Link between Blueprint and General ontology
+
+* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_34.md)
+
 ## Category to which it belongs
 
 * [Enhanced exchange of information and ideas through technology, platforms, and techniques for effective communication and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1297.md)
+* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4268.md)
 

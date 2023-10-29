@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Use of anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_759.md)
+* [Use of anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3779.md)
 

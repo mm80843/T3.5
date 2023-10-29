@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3740 
 
-# __Digital learning platforms__
+# __Implement policies to address inequalities in access to resources, provide support to vulnerable populations__
 
 ## Category to which it belongs
 
-* [Enhancing education access and equity through virtual learning, training programs, and closure of educational institutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
+* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Online learning platforms, distribution of educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3741.md)
-* [Virtual e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2050.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1895.md)
-* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3478.md)
-* [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3886.md)
-* [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3144.md)
-* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_927.md)
-* [Rapid development of virtual educational platforms, e-learning packages, virtual assessments.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3739.md)
-* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3414.md)
-* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2915.md)
+* [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3343.md)
+* [Ensuring equitable access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3744.md)
+* [Inequitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3342.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
+* [Implement policies and strategies to ensure equitable access to green infrastructure in all neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2587.md)
+* [Improved access to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_528.md)
+* [Implement social protection programs and financial incentives to support vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_527.md)
+* [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3090.md)
+* [Strengthened social protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_525.md)
+* [Restricted visitor policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1885.md)
 

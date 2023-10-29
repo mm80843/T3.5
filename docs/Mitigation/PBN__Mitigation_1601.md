@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1601 
 
-# __Capacity limitation__
+# __Remote monitoring and tracking technologies__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Capacity limitations, lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_342.md)
-* [Capacity overload](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3308.md)
-* [Practical capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2201.md)
-* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3773.md)
-* [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3758.md)
-* [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3774.md)
-* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1106.md)
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_867.md)
-* [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3755.md)
-* [Availability of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
-
-## Property: has_MitigationPrinciple
-
-Limiting the number of people allowed in buildings or rooms at a time helps to maintain physical distance and reduce crowding
-
-## Risks possibly mitigated by this Mitigation
-
-* [Financial loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1566.md)
-
-## Property: has_MitigationSource
-
-* [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1599.md)
+* [Remote monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_914.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_909.md)
+* [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1522.md)
+* [Mobile and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1521.md)
+* [Remote monitoring and management of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_913.md)
+* [Remote monitoring and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1600.md)
+* [Iot for monitoring and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2571.md)
+* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
+* [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1495.md)
 

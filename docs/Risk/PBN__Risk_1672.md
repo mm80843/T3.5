@@ -19,6 +19,10 @@
 * [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3428.md)
 * [Loss of green spaces due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1371.md)
 
+## Blueprints with this risk
+
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+
 ## Description of the risk
 
 Limited availability of green spaces in urban areas, leading to reduced access to nature and its associated benefits

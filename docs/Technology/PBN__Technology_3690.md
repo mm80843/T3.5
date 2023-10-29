@@ -2,6 +2,12 @@
 
 # __Thermal sensors__
 
+## Link between Blueprint and General ontology
+
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_117.md)
+* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
+* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_129.md)
+
 ## Category to which it belongs
 
 * [Synonymous with monitoring and regulating heat levels, temperature-related equipment and devices are utilized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
@@ -21,5 +27,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2351.md)
+* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5218.md)
 

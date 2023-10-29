@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1244.md)
+* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4227.md)
 

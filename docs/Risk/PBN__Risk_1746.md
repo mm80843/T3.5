@@ -19,6 +19,10 @@
 * [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3592.md)
 * [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 
+## Blueprints with this risk
+
+* [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+
 ## Description of the risk
 
 Limited data on the effectiveness of UVGI systems in preventing healthcare-associated infections

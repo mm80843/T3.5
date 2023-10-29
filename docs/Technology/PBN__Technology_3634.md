@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Physical removal of solid residues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2297.md)
+* [Physical removal of solid residues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5172.md)
 

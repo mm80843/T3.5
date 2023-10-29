@@ -22,5 +22,5 @@
 ## Mitigations of this risk
 
 * [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1014.md)
-* [Standard working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_493.md)
+* [Standard working procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3550.md)
 

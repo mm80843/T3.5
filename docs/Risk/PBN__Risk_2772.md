@@ -21,13 +21,13 @@
 
 ## Mitigations of this risk
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
-* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
-* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_799.md)
-* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
-* [Barrier measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_904.md)
-* [Personal protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_905.md)
-* [Wearing gloves](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_902.md)
-* [Wearing gowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_903.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3123.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_86.md)
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3306.md)
+* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3759.md)
+* [Wearing gloves](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3909.md)
+* [Wearing gowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3910.md)
+* [Barrier measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3911.md)
+* [Personal protection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3912.md)
 

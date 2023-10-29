@@ -19,6 +19,10 @@
 * [Vector-borne diseases vbds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_937.md)
 * [Inadequate urban design and planning for disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1306.md)
 
+## Blueprints with this risk
+
+* [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
+
 ## Mitigations of this risk
 
 * [Suburban landscape design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_71.md)

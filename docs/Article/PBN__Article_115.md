@@ -48,18 +48,18 @@ Mechanisms for addressing the impact of COVID-19 on infrastructure projects
 
 ## This article points to following mitigation
 
-* [Control and stop virus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_968.md)
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_126.md)
-* [Promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_969.md)
-* [Clear sop guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_961.md)
-* [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_966.md)
-* [Efficient workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_967.md)
-* [Increase spending on development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_962.md)
-* [Extension of time eot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_960.md)
-* [Sop compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_959.md)
-* [Ensure labor supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_963.md)
-* [Resume material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_964.md)
-* [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_965.md)
+* [Control and stop virus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3969.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_780.md)
+* [Promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3970.md)
+* [Sop compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3960.md)
+* [Extension of time eot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3961.md)
+* [Clear sop guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3962.md)
+* [Increase spending on development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3963.md)
+* [Ensure labor supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3964.md)
+* [Resume material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3965.md)
+* [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3966.md)
+* [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3967.md)
+* [Efficient workforce management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3968.md)
 
 ## This article mentions these technologies
 

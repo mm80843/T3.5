@@ -10,8 +10,8 @@
 
 * [Promote active transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_21.md)
 * [Maintaining physical distance between workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_204.md)
-* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3184.md)
-* [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3181.md)
+* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5340.md)
+* [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5337.md)
 * [Supporting proximity-based trade and entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1044.md)
 * [Implementing flexible work schedules and transportation arrangements for nurses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1986.md)
 * [Mobility restrictions,](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_975.md)

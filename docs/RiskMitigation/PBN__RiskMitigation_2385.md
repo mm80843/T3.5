@@ -19,6 +19,10 @@
 * [Air filtration with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_845.md)
 * [Improve central air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_188.md)
 
+## Blueprints with this mitigation
+
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Ineffective air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1313.md)

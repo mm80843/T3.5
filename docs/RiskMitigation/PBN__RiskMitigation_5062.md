@@ -1,0 +1,23 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_5062 
+
+# __Industry 4.0__
+
+## Property: has_MitigationPrinciple
+
+Harnessing new-generation technologies to improve response capabilities and address public health challenges
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationSource
+
+* [Emerging Technologies to Combat the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_116.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
+* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2149.md)
+* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2010.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
+

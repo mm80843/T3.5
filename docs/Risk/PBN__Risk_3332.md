@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Computer simulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2153.md)
+* [Computer simulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5034.md)
 

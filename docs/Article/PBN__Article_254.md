@@ -43,18 +43,18 @@ COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health
 
 ## This article points to following mitigation
 
-* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_123.md)
-* [Livable outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_116.md)
-* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_117.md)
-* [Acoustic comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_118.md)
-* [Thermo-hygrometric comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_119.md)
-* [Views of nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_120.md)
-* [Privacy during phone calls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_121.md)
-* [Large living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_122.md)
-* [Clear guidelines and information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_124.md)
-* [Social support and connection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_126.md)
-* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_127.md)
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_747.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_780.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1303.md)
+* [Livable outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3222.md)
+* [Acoustic comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3223.md)
+* [Thermo-hygrometric comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3224.md)
+* [Views of nature](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3225.md)
+* [Privacy during phone calls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3226.md)
+* [Large living spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3227.md)
+* [Clear guidelines and information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3228.md)
+* [Social support and connection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3229.md)
+* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3230.md)
 
 ## This article mentions these technologies
 

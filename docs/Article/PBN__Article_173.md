@@ -40,17 +40,17 @@ Rise of the preprint: how rapid data sharing during COVID-19 has changed science
 
 ## This article points to following mitigation
 
-* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2268.md)
-* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2269.md)
-* [Publishing registered reports](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2270.md)
-* [Making modeling public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2271.md)
-* [Improved peer-review process](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2272.md)
+* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5144.md)
+* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5145.md)
+* [Publishing registered reports](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5146.md)
+* [Making modeling public](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5147.md)
+* [Improved peer-review process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5148.md)
 
 ## This article mentions these technologies
 
+* [Transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1925.md)
 * [Improved screening measures on preprint servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1920.md)
 * [Responsible reporting by media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1922.md)
-* [Transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1925.md)
 * [Scientific integrity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1926.md)
 * [Public education on reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1923.md)
 * [Improved peer-review processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1924.md)

@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3321 
 
-# __Prevention protocols__
+# __Biomarkers__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Prioritize safety and security, utilizing 3d-printed ppe, safety protocols, comprehensive education programs, and strict enforcement of measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_495.md)
+Biomarkers in sewage can be used as indicators of virus outbreaks, providing specific and accurate measurements using mass spectrometry or ELISA techniques.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_827.md)
-* [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_781.md)
-* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3274.md)
-* [Promote awareness and education about preventive measures, enforce guidelines and restrictions, and encourage responsible behavior and adherence to protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1590.md)
-* [Enforce strict adherence to guidelines and protocols through monitoring and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2262.md)
-* [Implementation of infection prevention and control measures, screening and testing protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2591.md)
-* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2056.md)
-* [Provide regular safety training and updates, enforce universal precautions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2809.md)
-* [Risk prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_412.md)
-* [Regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3223.md)
+
+## Property: has_MitigationSource
+
+* [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Elisa](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2046.md)
+* [Mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2047.md)
 

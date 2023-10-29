@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_263 
 
-# __Quarantine/isolation measures__
+# __Self-cleaning spaces__
 
 ## Category to which it belongs
 
-* [Imposing segregation and restrictions to prevent the spread of disease, including home isolation, monitoring, and mandatory measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_161.md)
+* [Enhancing accessibility and variety of green spaces while promoting integration of nature in urban environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
 
 ## Closest similar item
 
-* [Quarantine and self-isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2605.md)
-* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
-* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
-* [Isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2157.md)
-* [Isolation/quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1348.md)
-* [Quarantine and isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1972.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_453.md)
-* [Implementation of quarantine measures, social distancing, and isolation of confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2960.md)
-* [Home isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1419.md)
-* [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2179.md)
-
-## Property: has_MitigationPrinciple
-
-Isolating infected individuals or those who have been exposed to the virus to prevent further transmission
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [A Surface Coating that Rapidly Inactivates SARS-CoV-2](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_199.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Implement self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_269.md)
+* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_787.md)
+* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_793.md)
+* [Increased cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_791.md)
+* [Proper cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_790.md)
+* [Advanced cleaning techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_789.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1895.md)
+* [Routine cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_786.md)
+* [Surface cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2352.md)
+* [Surface cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2353.md)
 

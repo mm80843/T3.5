@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3425 
 
-# __Protecting privacy of citizens’ data__
+# __Mobile robots for temperature measurement__
 
 ## Category to which it belongs
 
-* [Ensuring confidentiality, protecting personal information, and addressing cybersecurity, privacy, and data protection issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
+* [Enhance monitoring and response systems while integrating various wearable sensors, biosensors, nanotechnology, contactless systems, and robotics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3425.md)
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2818.md)
-* [Data privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3704.md)
-* [Privacy and data security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3120.md)
-* [Anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_98.md)
-* [User privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1818.md)
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1887.md)
-* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3665.md)
-* [Privacy protection measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2619.md)
-* [Privacy and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3517.md)
+* [Robot-assisted temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1587.md)
+* [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1909.md)
+* [Monitoring temperature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1903.md)
+* [Temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1904.md)
+* [Temperature testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1901.md)
+* [Control of indoor temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2622.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
+* [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1910.md)
+* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2701.md)
+* [Temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1900.md)
 

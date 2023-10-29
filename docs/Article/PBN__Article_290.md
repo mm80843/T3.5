@@ -40,11 +40,11 @@ Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading th
 
 ## This article points to following mitigation
 
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2345.md)
-* [State-of-the-art ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2346.md)
-* [Green retrofitting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2347.md)
-* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2348.md)
-* [Non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2349.md)
+* [Green retrofitting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1390.md)
+* [Non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_666.md)
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1389.md)
+* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1391.md)
+* [State-of-the-art ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5216.md)
 
 ## This article mentions these technologies
 

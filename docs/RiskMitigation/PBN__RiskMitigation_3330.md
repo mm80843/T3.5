@@ -1,21 +1,24 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3330 
 
-# __Safety monitoring systems__
+# __Mask-wearing__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Implementation of various monitoring technologies, including digital pcr, wearable devices, and iot sensors, for remote tracking and surveillance purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_455.md)
+Wearing face masks helps to reduce respiratory transmission of pathogens by blocking respiratory droplets that may contain the pathogens.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3216.md)
-* [Implement safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_569.md)
-* [Implementing safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_100.md)
-* [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_781.md)
-* [Safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3218.md)
-* [Implement safety measures and consider remote working and digital control systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2520.md)
-* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3217.md)
-* [Technologies for monitoring and mitigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3205.md)
-* [Adoption of safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_711.md)
-* [Implement comprehensive safety education programs, disseminate safety information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2810.md)
+* [Covid-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_63.md)
+* [Respiratory droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2727.md)
+* [Respiratory transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2476.md)
+
+## Property: has_MitigationSource
+
+* [An Overview of Biomedical Ontologies for Pandemics and Infectious Diseases Representation](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_204.md)
+* [Should I Stay or Should I Go? Tourists’ COVID-19 Risk Perception and Vacation Behavior Shift](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_81.md)
+* [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3333 
 
-# __Limited green spaces in highly urbanized areas__
+# __Sanger sequencing__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1172.md)
-* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2215.md)
-* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3189.md)
-* [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2216.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2754.md)
-* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1176.md)
-* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2756.md)
-* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3444.md)
-* [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3331.md)
-* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3440.md)
+* [Sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3332.md)
+* [Next generation sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1124.md)
+* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3258.md)
+* [Comparative analysis of genome sequences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
+* [Sequence annotation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3331.md)
+* [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
+* [Dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1120.md)
+* [Biosampler](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1166.md)
+* [Data collection and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2167.md)
+* [Nucleic acid-based polymerase chain reaction pcr](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1114.md)
 

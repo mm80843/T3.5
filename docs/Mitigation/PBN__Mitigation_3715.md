@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3715 
 
-# __Incomplete infrastructure, coordination challenges__
+# __Temporary closure of non-essential public places until recovery is reached.__
 
 ## Category to which it belongs
 
-* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
+* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4052.md)
-* [Redundancy of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2110.md)
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3655.md)
-* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4093.md)
-* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1989.md)
-* [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3250.md)
-* [High cost, limited infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3115.md)
-* [Infrastructure development and planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3656.md)
-* [Rapidity of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2112.md)
-* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2557.md)
+* [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3907.md)
+* [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3906.md)
+* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_327.md)
+* [Closure of small businesses, restaurants, cinemas, theatres, bars, pubs, and clubs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3285.md)
+* [Temporary emergency measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1931.md)
+* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3419.md)
+* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3516.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1005.md)
+* [Ensure availability of private spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3975.md)
+* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3743.md)
 

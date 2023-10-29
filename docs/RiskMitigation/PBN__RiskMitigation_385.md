@@ -17,7 +17,7 @@
 * [Implement strict social distancing protocols, including spacing out workstations, staggering breaks, and limiting the number of workers in confined spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1652.md)
 * [Implement online meetings and shift arrangements, provide training and company policies, enforce health protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2799.md)
 * [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1528.md)
-* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3132.md)
+* [Shift controls occupancy control of total users](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5294.md)
 
 ## Benefits linked to a risk
 

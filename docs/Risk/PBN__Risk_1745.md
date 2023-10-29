@@ -19,6 +19,10 @@
 * [Lack of definitive epidemiologic data on the ability of uvgi systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1746.md)
 * [Upper-room uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3593.md)
 
+## Blueprints with this risk
+
+* [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+
 ## Description of the risk
 
 Improper use and maintenance of UVGI systems can pose health risks and lead to ineffective disinfection

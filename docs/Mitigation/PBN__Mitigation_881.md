@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_881 
 
-# __Collaboration and knowledge sharing__
+# __Access to accurate and reliable information__
 
 ## Category to which it belongs
 
-* [Promote cohesive teamwork, partnerships, and collective knowledge sharing for efficient research, analysis, and collaboration in various fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
+* [Promote trust, combat misinformation, and provide accurate and reliable information through evidence-based sources and transparent communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
-* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1321.md)
-* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2533.md)
-* [Communication and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1709.md)
-* [Cross-disciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1443.md)
-* [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3288.md)
-* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3867.md)
-* [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3290.md)
-* [Support and information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2532.md)
-* [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3289.md)
-
-## Property: has_MitigationPrinciple
-
-Enables sharing of best practices and knowledge between different sectors to effectively manage COVID-19-related challenges
-
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of access to best practices and knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2765.md)
-
-## Property: has_MitigationSource
-
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Cross-sector collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2749.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_875.md)
+* [Promote reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_876.md)
+* [Verify sources and rely on accurate, evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2949.md)
+* [Monitor data sources to ensure they provide consistent and accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2132.md)
+* [Provide accurate and evidence-based information through trusted sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2950.md)
+* [Use reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_878.md)
+* [Promote fact-checking and accuracy in sharing information, educate the public on reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2791.md)
+* [Reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1583.md)
+* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3801.md)
+* [Quick and accurate information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3291.md)
 

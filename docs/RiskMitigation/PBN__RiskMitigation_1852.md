@@ -12,7 +12,7 @@
 * [Fact-checking, reliable sources, education on identifying misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2354.md)
 * [Provide accurate and evidence-based information through trusted sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2368.md)
 * [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_551.md)
-* [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3345.md)
+* [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5482.md)
 * [Promote fact-checking and reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2965.md)
 * [Rely on accurate historical data and evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2048.md)
 * [Maintain transparency and objectivity in evidence generation and communication, actively combat misinformation, and build trust through consistent and reliable delivery of evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1853.md)

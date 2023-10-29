@@ -40,12 +40,12 @@ Local response in health emergencies: key considerations for addressing the COVI
 
 ## This article points to following mitigation
 
-* [Reduced physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2311.md)
-* [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2312.md)
-* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2316.md)
-* [Local data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2315.md)
-* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2313.md)
-* [Extending basic services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2314.md)
+* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_145.md)
+* [Reduced physical contact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5185.md)
+* [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5186.md)
+* [Extending basic services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5187.md)
+* [Local data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5188.md)
+* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5189.md)
 
 ## This article mentions these technologies
 

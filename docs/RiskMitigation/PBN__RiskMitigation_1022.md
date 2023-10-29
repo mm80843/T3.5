@@ -17,7 +17,7 @@
 * [Standardization of protocols and networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_735.md)
 * [Wastewater-based monitoring wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
 * [Standardize data protocols, promote data sharing and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1519.md)
-* [Regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3223.md)
+* [Regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5374.md)
 
 ## Benefits linked to a risk
 

@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2214 
 
-# __Designing streets for pedestrians__
+# __Development of novel surveillance systems, improved reporting and communication channels__
 
 ## Category to which it belongs
 
-* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
+* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_309.md)
-* [Re-design streets to widen sidewalks, create more bike lanes, and prioritize pedestrian spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2995.md)
-* [Creating more bike lanes and pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_771.md)
-* [Widening sidewalks and re-designing pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_770.md)
-* [Broad sidewalks and pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1139.md)
-* [Implementing temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2998.md)
-* [Walkable urban design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2999.md)
-* [Implementing low-cost and temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_774.md)
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3197.md)
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2752.md)
-
-## Property: has_MitigationPrinciple
-
-Redesigning streets and public areas to free up space for pedestrians and recreationists to address public health objectives during the pandemic and provide recreational opportunities.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_164.md)
+* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_163.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_162.md)
+* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_165.md)
+* [Enhanced surveillance and reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_202.md)
+* [Enhanced surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1211.md)
+* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_167.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_161.md)
+* [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_203.md)
 

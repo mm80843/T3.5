@@ -2,6 +2,11 @@
 
 # __Input sensors__
 
+## Link between Blueprint and General ontology
+
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_117.md)
+* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
+
 ## Category to which it belongs
 
 * [A wide array of advanced technologies that detect and measure various environmental factors and human activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
@@ -21,6 +26,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1211.md)
-* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1216.md)
+* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4195.md)
+* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4200.md)
 

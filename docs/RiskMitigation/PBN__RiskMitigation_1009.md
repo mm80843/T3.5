@@ -19,6 +19,10 @@
 * [Quarantine and self-isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_637.md)
 * [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_565.md)
 
+## Blueprints with this mitigation
+
+* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
+
 ## Benefits linked to a risk
 
 * [Containment of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1008.md)

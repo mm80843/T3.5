@@ -19,6 +19,10 @@
 * [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
 * [Economic impact of the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_42.md)
 
+## Blueprints with this risk
+
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+
 ## Description of the risk
 
 Construction projects have both positive and negative impacts on the environment during the pandemic.

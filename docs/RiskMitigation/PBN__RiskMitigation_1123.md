@@ -13,7 +13,7 @@
 * [Baseline scenario](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_700.md)
 * [Employ longitudinal elements in research design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1386.md)
 * [Alignment and reconciliation of data from different sources, validation of data consistency, consensus-building among experts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3001.md)
-* [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3252.md)
+* [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5401.md)
 * [Adjustments to spacing and circulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_478.md)
 * [People flow model identification method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_117.md)
 * [Implement integrated and holistic strategic planning processes, improve vertical and horizontal alignment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1647.md)

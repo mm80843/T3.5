@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1744 
 
-# __Better working conditions__
+# __Income__
 
 ## Category to which it belongs
 
@@ -8,30 +8,14 @@
 
 ## Closest similar item
 
-* [Flexible working policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1790.md)
-* [Improve working conditions and support for healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3631.md)
-* [Ensure labor supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_963.md)
-* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_127.md)
-* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2738.md)
-* [Considering additional variables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_645.md)
-* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2623.md)
-* [Workforce reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3105.md)
-* [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3535.md)
-* [Optimal decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_854.md)
-
-## Property: has_MitigationPrinciple
-
-Ensuring healthcare professionals have safe and supportive working environments
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_443.md)
-* [Workforce support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3290.md)
+* [Wealth tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1745.md)
+* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1746.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_904.md)
+* [Diversify income sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1747.md)
+* [Financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_544.md)
+* [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1025.md)
+* [Economic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_179.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1748.md)
+* [Wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1749.md)
+* [Socioeconomic support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_552.md)
 

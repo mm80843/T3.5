@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2017 
 
-# __Establishing a regional credit guarantee__
+# __Promote regular handwashing, hygiene education and awareness__
 
 ## Category to which it belongs
 
-* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
+* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
-* [Establishing credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2013.md)
-* [Increasing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2015.md)
-* [Gradually reducing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2016.md)
-* [Guaranteeing reimbursement of loans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_201.md)
-* [Emergency loan guarantees](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1408.md)
-* [Regional recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1015.md)
-* [Implementation of regional containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3722.md)
-* [Strengthen local partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2029.md)
-* [Incentives to the local economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
-* [Seek financial support, negotiate new payment terms, explore new markets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3719.md)
-
-## Property: has_MitigationPrinciple
-
-Establishing a regional credit guarantee scheme in ASEAN can enhance cross-border financial transactions and increase cooperation and economic integration
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_292.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1993.md)
+* [Education on proper handwashing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1991.md)
+* [Promoting hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_321.md)
+* [Education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_386.md)
+* [Personal hygiene eg handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1994.md)
+* [Performing hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_317.md)
+* [Ensuring the availability of hand hygiene facilities handwashing stations or sanitizer dispensers , regular cleaning and disinfection of surfaces, and proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1455.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_312.md)
+* [Promoting proper hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2486.md)
+* [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_314.md)
 

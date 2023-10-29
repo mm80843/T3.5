@@ -1,39 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1971 
 
-# __Ppe usage__
+# __Improved sanitation__
 
 ## Category to which it belongs
 
-* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Ppe distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1065.md)
-* [Practical ppe rules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1522.md)
-* [Smart ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2404.md)
-* [Ppe usage and disposal protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_17.md)
-* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_527.md)
-* [Green ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2405.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_60.md)
-* [3d-printed ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2403.md)
-* [Implement engineering and administrative controls, provide ppe.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3820.md)
-* [Ppp restructuring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
-
-## Property: has_MitigationPrinciple
-
-Use appropriate PPE to protect against COVID-19 transmission
-
-## Risks possibly mitigated by this Mitigation
-
-* [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
-
-## Property: has_MitigationSource
-
-* [Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_102.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1051.md)
-* [Face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_484.md)
-* [Respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_483.md)
+* [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1973.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2627.md)
+* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1894.md)
+* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1974.md)
+* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1975.md)
+* [Enhanced cleanliness and sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3651.md)
+* [Enhanced cleaning and sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1899.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1970.md)
+* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1977.md)
+* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1084.md)
 

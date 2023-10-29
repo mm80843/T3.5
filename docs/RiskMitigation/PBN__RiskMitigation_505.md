@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Improved occupational safety and health administration osha compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_671.md)
-* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3274.md)
+* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5418.md)
 * [Develop industry-specific working procedures, enforce safety protocols, promote worker mental health.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1791.md)
 * [Adhere to established safety procedures including the use of personal protective equipment ppe and adherence to safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1483.md)
 * [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2204.md)
@@ -18,6 +18,10 @@
 * [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2056.md)
 * [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1528.md)
 * [Provide regular safety training and updates, enforce universal precautions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2809.md)
+
+## Blueprints with this mitigation
+
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
 
 ## Benefits linked to a risk
 

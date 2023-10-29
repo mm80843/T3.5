@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2133.md)
-* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2130.md)
+* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5012.md)
+* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5015.md)
 

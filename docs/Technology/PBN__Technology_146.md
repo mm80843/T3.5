@@ -37,9 +37,9 @@
 
 ## This Technology enables the following mitigations
 
-* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_123.md)
-* [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2100.md)
-* [Presence of green spaces and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1127.md)
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_747.md)
+* [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4984.md)
+* [Presence of green spaces and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4114.md)
 
 ## Risks linked to this technology
 

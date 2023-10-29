@@ -44,20 +44,20 @@ Towards the sustainable development of smart cities through mass video surveilla
 
 ## This article points to following mitigation
 
-* [Mass video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1848.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
-* [Smart city solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1847.md)
-* [Ai and iot technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1849.md)
-* [Non-intrusive audio-visual alerts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1850.md)
+* [Mass video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4782.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3284.md)
+* [Smart city solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4781.md)
+* [Ai and iot technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4783.md)
+* [Non-intrusive audio-visual alerts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4784.md)
 
 ## This article mentions these technologies
 
 * [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
 * [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
 * [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_878.md)
 * [Public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1545.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [Data encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_344.md)
 * [Anonymization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1380.md)
 * [Better laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1544.md)

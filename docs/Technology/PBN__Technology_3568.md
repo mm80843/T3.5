@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Separate toilets for infected](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2173.md)
+* [Separate toilets for infected](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5053.md)
 

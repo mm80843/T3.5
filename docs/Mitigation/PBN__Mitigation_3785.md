@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3785 
 
-# __Chlorine gas__
+# __Common debt issuance__
 
 ## Category to which it belongs
 
-* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2863.md)
-* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2244.md)
-* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2243.md)
-* [Chlorination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2866.md)
-* [Chlorine disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_224.md)
-* [Chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3355.md)
-* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2245.md)
-* [Utilization of ozone, ultraviolet irradiation, liquid chlorine, chlorine dioxide, and sodium hypochlorite disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2946.md)
-* [Increase chlorine dose in drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1585.md)
-* [Sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2979.md)
+* [Cash payments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_536.md)
+* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1748.md)
+* [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1025.md)
+* [Cash payments to vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_541.md)
+* [Lending](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_178.md)
+* [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3700.md)
+* [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1809.md)
+* [Financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_544.md)
+* [Guaranteeing reimbursement of loans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3149.md)
+* [Enhancing financial capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3266.md)
 

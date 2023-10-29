@@ -40,21 +40,21 @@ Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scr
 
 ## This article points to following mitigation
 
-* [Java language](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1336.md)
-* [Jsoup library](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1337.md)
-* [Sqlite database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1338.md)
-* [Web scraping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1334.md)
-* [Expert system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1333.md)
-* [Geographic information system gis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1339.md)
-* [Rule-based expert system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1335.md)
+* [Java language](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4304.md)
+* [Jsoup library](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4305.md)
+* [Sqlite database](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4306.md)
+* [Web scraping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4302.md)
+* [Expert system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4301.md)
+* [Rule-based expert system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4303.md)
+* [Geographic information system gis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4307.md)
 
 ## This article mentions these technologies
 
 * [Encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_315.md)
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 * [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
-* [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1143.md)
 * [Mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
+* [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1143.md)
 * [Authentication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_398.md)
 * [Fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1147.md)
 * [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)

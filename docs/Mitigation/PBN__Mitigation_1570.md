@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1570 
 
-# __Water and sanitary system safety__
+# __Improved waste management strategies__
 
 ## Category to which it belongs
 
@@ -8,31 +8,14 @@
 
 ## Closest similar item
 
-* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_82.md)
-* [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2589.md)
-* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3856.md)
-* [Safe water, sanitation, and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
-* [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2067.md)
-* [Safety measures for drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2587.md)
-* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2585.md)
-* [Improve access to safe drinking water and sanitation infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2590.md)
-* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3211.md)
-* [Improving access to safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2588.md)
-
-## Property: has_MitigationPrinciple
-
-Maintain water tank and sanitary systems
-
-## Risks possibly mitigated by this Mitigation
-
-* [Microbiological contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3110.md)
-
-## Property: has_MitigationSource
-
-* [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
-* [Routine flushing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3155.md)
+* [Improved waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1568.md)
+* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1569.md)
+* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1566.md)
+* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1565.md)
+* [Enhance waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1575.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1567.md)
+* [Implementing effective waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1574.md)
+* [Management of increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1573.md)
+* [Implement additional waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2751.md)
+* [Inadequate waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1571.md)
 

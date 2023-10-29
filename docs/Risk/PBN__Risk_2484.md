@@ -21,13 +21,13 @@
 
 ## Mitigations of this risk
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Border closures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_524.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_262.md)
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_738.md)
-* [Controlling access points](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_290.md)
-* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_668.md)
-* [National lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1509.md)
-* [Contactless payment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
+* [Border closures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3612.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3575.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3760.md)
+* [Controlling access points](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3366.md)
+* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3698.md)
+* [National lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4466.md)
+* [Contactless payment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4468.md)
 

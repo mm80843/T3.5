@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_772 
 
-# __Designing smaller local, neighborhood green spaces__
+# __Energy-efficient systems__
 
 ## Category to which it belongs
 
-* [Enhancing accessibility and variety of green spaces while promoting integration of nature in urban environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
+* [Promote sustainable energy practices, implement energy-efficient technologies, and provide financial assistance for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
-* [Creating smaller, local green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2758.md)
-* [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2747.md)
-* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2083.md)
-* [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3333.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2754.md)
-* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3334.md)
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1172.md)
-* [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1173.md)
-* [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2216.md)
-* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2362.md)
-
-## Property: has_MitigationPrinciple
-
-Provide accessible green spaces for residents to enjoy nature and improve well-being
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1542.md)
+* [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_770.md)
+* [Implement energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1541.md)
+* [Energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_771.md)
+* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_773.md)
+* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
+* [Energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_778.md)
+* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1540.md)
+* [Implement energy-efficient systems and smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1537.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_774.md)
 

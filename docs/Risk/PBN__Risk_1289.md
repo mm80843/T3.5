@@ -19,6 +19,10 @@
 * [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1667.md)
 * [Poor personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2963.md)
 
+## Blueprints with this risk
+
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+
 ## Description of the risk
 
 Poor hygiene practices, such as lack of handwashing or improper cleaning, can contribute to the spread of contagious diseases.

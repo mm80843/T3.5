@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1481 
 
-# __Air sampling__
+# __Robustness of critical infrastructure__
 
 ## Category to which it belongs
 
-* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Advanced air distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_279.md)
-* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2617.md)
-* [Filtering indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1728.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
-* [Monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_891.md)
-* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2717.md)
-* [Regular air changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1385.md)
-* [Adequate air exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1731.md)
-* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1392.md)
-* [Cleaning air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2235.md)
-
-## Property: has_MitigationPrinciple
-
-Collection of air samples from various locations to detect the presence of the pathogen in the air
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Skc universal pumps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3116.md)
-* [Sartorius md8 sampler](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3117.md)
+* [Rapidity of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2907.md)
+* [Redundancy of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2909.md)
+* [Resourcefulness of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2908.md)
+* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1730.md)
+* [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3949.md)
+* [Remote control of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2906.md)
+* [Incomplete infrastructure, coordination challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3254.md)
+* [Reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1728.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3100.md)
+* [Promptly repair and maintain infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1550.md)
 

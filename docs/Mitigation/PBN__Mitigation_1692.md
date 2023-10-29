@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1692 
 
-# __Physical contact__
+# __Attitude__
 
 ## Category to which it belongs
 
-* [Promote and facilitate various forms of physical activity and exercise through online and home-based programs and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Reduced physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2311.md)
-* [Physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3190.md)
-* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2263.md)
-* [Encourage a balanced approach to non-contact interaction activities, promoting a mix of virtual and physical interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3610.md)
-* [Contact-reducing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
-* [Contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3001.md)
-* [Risk reduction in face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_360.md)
-* [Contactless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3002.md)
-* [Controlling probability of contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1308.md)
-* [Restriction of inter-individual physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
-
-## Property: has_MitigationPrinciple
-
-Occupant exposure is accounted for when people are in direct physical contact with each other. Trajectories of pedestrians and dimensions of agents are used to identify when they overlap within a certain radius.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Agent dimensions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3252.md)
-* [Pedestrian trajectories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3251.md)
+* [Attitude change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1693.md)
+* [Personal responsibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1694.md)
+* [Political orientation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1695.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_12.md)
+* [Individual responsibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1696.md)
+* [Gender](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1697.md)
+* [Patience and compassion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1698.md)
+* [Impulsivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1699.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
+* [Emotional support and motivation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_16.md)
 

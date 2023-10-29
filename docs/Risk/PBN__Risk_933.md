@@ -19,6 +19,10 @@
 * [Wide-ranging impacts of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_363.md)
 * [Spread of covid-19 through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_653.md)
 
+## Blueprints with this risk
+
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
+
 ## Mitigations of this risk
 
 * [Improvement of air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1292.md)

@@ -11,13 +11,17 @@
 * [Quick and accurate information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1362.md)
 * [Promote the use of public spaces through targeted campaigns, activities, and events](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1978.md)
 * [Transformation of public places for essential uses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_326.md)
-* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3235.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5385.md)
 * [Dissemination of accurate information through reliable sources, fact-checking of information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3089.md)
 * [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1952.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3287.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5430.md)
 * [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_561.md)
 * [Implement social distancing measures, crowd control, and capacity regulations in public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2276.md)
 * [Public education campaigns, dissemination of accurate information, and awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1692.md)
+
+## Blueprints with this mitigation
+
+* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
 
 ## Benefits linked to a risk
 

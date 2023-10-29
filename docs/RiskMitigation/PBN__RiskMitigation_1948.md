@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3273.md)
+* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5417.md)
 * [Conservation funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_980.md)
 * [Establish online community platforms, organize virtual events and activities, provide resources for community support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1771.md)
 * [Strengthen partnerships with donors, improve access to funding opportunities, and highlight the importance of conservation in development efforts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1780.md)
 * [Promote the use of public spaces through targeted campaigns, activities, and events](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1978.md)
-* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3129.md)
+* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5291.md)
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_865.md)
 * [Promote healthy lifestyles, vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2293.md)
 * [Advocate for green recovery initiatives that support pca conservation, monitor policy changes and investment opportunities, and ensure effective use of funding for conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1782.md)
-* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3235.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5385.md)
 
 ## Risks possibly mitigated by this Mitigation
 

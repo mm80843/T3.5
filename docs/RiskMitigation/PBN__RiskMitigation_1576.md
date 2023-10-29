@@ -13,11 +13,15 @@
 * [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2032.md)
 * [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_920.md)
 * [Development of more advanced self-disinfecting surface technologies with enhanced antiviral action.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2034.md)
-* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3277.md)
+* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5421.md)
 * [Regular monitoring of coated surfaces for changes in viral viability and development of alternative coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1630.md)
-* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3124.md)
+* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5286.md)
 * [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
 * [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_574.md)
+
+## Blueprints with this mitigation
+
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
 
 ## Risks possibly mitigated by this Mitigation
 

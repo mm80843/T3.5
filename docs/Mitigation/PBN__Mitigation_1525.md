@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1525 
 
-# __Longer project timelines__
+# __Use of low-power appliances__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Promote sustainable energy practices, implement energy-efficient technologies, and provide financial assistance for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
-* [Determining ideal projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1844.md)
-* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3248.md)
-* [Staggered schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_792.md)
-* [Extension of time eot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_960.md)
-* [Collaborative projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3319.md)
-* [Large-scale & longitudinal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1076.md)
-* [Innovative projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3320.md)
-* [Timely research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_869.md)
-* [Integrated project delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_733.md)
-* [Rescheduling space planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1898.md)
-
-## Property: has_MitigationPrinciple
-
-Extend project timelines to accommodate for slower work pace and safety measures
-
-## Risks possibly mitigated by this Mitigation
-
-* [Time constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3093.md)
-
-## Property: has_MitigationSource
-
-* [Impacts of COVID-19 on Health and Safety of Workforce in Construction Industry](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_49.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Use of energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_777.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_774.md)
+* [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1526.md)
+* [Install energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1527.md)
+* [Appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1528.md)
+* [Energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1529.md)
+* [Cooking appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1530.md)
+* [Water-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1531.md)
+* [Encourage energy efficiency practices, educate households on energy use, and promote the use of energy-efficient appliances.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1532.md)
+* [Use of water-efficient appliances/fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1533.md)
 

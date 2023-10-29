@@ -2,6 +2,10 @@
 
 # __Travel-related transmission__
 
+## Link between Blueprint and General ontology
+
+* [User journey](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_3.md)
+
 ## Category to which it belongs
 
 * [Disease transmission can occur through various means, such as direct contact, airborne particles, or contaminated surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
@@ -70,11 +74,11 @@ Rapid spread of pathogens, difficulty in containment and control
 
 ## Technologies linked to the risk
 
+* [Remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_548.md)
 * [Testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_37.md)
 * [Travel surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_547.md)
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
 * [Travel tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_38.md)
-* [Remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_548.md)
 
 ## Property: has_RiskType
 

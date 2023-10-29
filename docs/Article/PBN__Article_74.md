@@ -43,19 +43,19 @@ The impacts of knowledge, risk perception, emotion and information on citizensâ€
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
-* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
-* [Home isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1419.md)
-* [Medical consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1420.md)
-* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1421.md)
-* [Avoidance of crowds](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1422.md)
-* [Good indoor airflow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1423.md)
-* [Building lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1424.md)
-* [Information communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1425.md)
-* [Trust in official governmental media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1426.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3873.md)
+* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4212.md)
+* [Home isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4383.md)
+* [Medical consultation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4384.md)
+* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4385.md)
+* [Avoidance of crowds](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4386.md)
+* [Good indoor airflow](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4387.md)
+* [Building lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4388.md)
+* [Information communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4389.md)
+* [Trust in official governmental media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4390.md)
 
 ## This article mentions these technologies
 

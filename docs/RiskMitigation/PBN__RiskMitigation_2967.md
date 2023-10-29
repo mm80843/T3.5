@@ -10,7 +10,7 @@
 
 * [Strengthen cybersecurity measures, establish good communication channels, and combat disinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2899.md)
 * [Implement robust cybersecurity measures, including encryption, secure data storage, regular system updates, and employee training on cybersecurity awareness. develop contingency plans for potential cyber attacks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2508.md)
-* [Implement robust cybersecurity measures, such as encryption and secure data storage, to protect residents’ personal information. raise awareness about online safety and privacy protection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3212.md)
+* [Implement robust cybersecurity measures, such as encryption and secure data storage, to protect residents’ personal information. raise awareness about online safety and privacy protection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5364.md)
 * [Implement robust cybersecurity measures, provide training on secure remote working practices, and ensure regular backups of data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2583.md)
 * [Implement robust cybersecurity nan measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2733.md)
 * [Enhanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2984.md)

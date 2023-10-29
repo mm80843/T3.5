@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1450 
 
-# __Simplified procedures for essential activities__
+# __Patient monitoring system and door-lock device__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Structuring activities and maintaining routines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1565.md)
-* [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_496.md)
-* [Daily tasks and activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_293.md)
-* [Standard working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_493.md)
-* [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3535.md)
-* [Facilitating collaborative and integrated planning and management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3318.md)
-* [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3536.md)
-* [Workplace modification activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3537.md)
-* [Temporary regulations for certain activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_408.md)
-* [Nature-based activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1037.md)
-
-## Property: has_MitigationPrinciple
-
-Governments can implement simplified procedures and permits for essential activities to enable easier and faster production during disruptions.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_840.md)
+* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1602.md)
+* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_834.md)
+* [Health monitoring platform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_199.md)
+* [Monitoring service for the elderly](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1664.md)
+* [Contactless door sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1446.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_838.md)
+* [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1065.md)
+* [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1522.md)
+* [Healthcare instrument tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_839.md)
 

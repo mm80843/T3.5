@@ -2,6 +2,15 @@
 
 # __Social media platforms__
 
+## Link between Blueprint and General ontology
+
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_88.md)
+* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_185.md)
+* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_233.md)
+* [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_89.md)
+* [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_90.md)
+
 ## Category to which it belongs
 
 * [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
@@ -33,10 +42,10 @@
 * [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
 * [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
 * [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
-* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
-* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
-* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
 * [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
+* [Retail Signage During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_159.md)
+* [Respiratory pandemics, urban planning and design: A multidisciplinary rapid review of the literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_133.md)
+* [COVID-19: A new digital dawn?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_93.md)
 * [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
 
 ## This Technology belongs to this TechSubgroup
@@ -45,24 +54,24 @@
 
 ## This Technology enables the following mitigations
 
-* [Transparent communication and prevention of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1812.md)
-* [Public health education through social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2046.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_314.md)
-* [Increased sharing of scientific data by healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_941.md)
-* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_932.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
-* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_944.md)
-* [Posting caps with real data related to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_948.md)
-* [Government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1664.md)
-* [Use of social media by decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_934.md)
-* [Use of social media by firms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_935.md)
-* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_946.md)
-* [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_945.md)
-* [Two-way dialogue between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_933.md)
-* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_942.md)
-* [Increased knowledge translation on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_937.md)
-* [Increased sharing of recovery stories and information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_947.md)
+* [Transparent communication and prevention of fake news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4748.md)
+* [Public health education through social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4955.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4406.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3389.md)
+* [Increased sharing of scientific data by healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3943.md)
+* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3934.md)
+* [Two-way dialogue between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3935.md)
+* [Use of social media by decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3936.md)
+* [Use of social media by firms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3937.md)
+* [Government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3938.md)
+* [Increased knowledge translation on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3939.md)
+* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3944.md)
+* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3948.md)
+* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3946.md)
+* [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3947.md)
+* [Increased sharing of recovery stories and information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3949.md)
+* [Posting caps with real data related to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3950.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4607.md)
 
 ## Risks linked to this technology
 

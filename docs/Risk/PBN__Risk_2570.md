@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Signal calibration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_503.md)
+* [Signal calibration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3557.md)
 

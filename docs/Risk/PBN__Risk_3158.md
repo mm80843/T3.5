@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Intelligent transportation system its](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1627.md)
+* [Intelligent transportation system its](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4577.md)
 

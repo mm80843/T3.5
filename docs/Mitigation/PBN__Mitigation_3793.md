@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3793 
 
-# __Regular disinfection and hygiene practices__
+# __Supporting domestic violence victims__
 
 ## Category to which it belongs
 
-* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
+* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Disinfection and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2942.md)
-* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2953.md)
-* [Disinfection and cleaning techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3341.md)
-* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_529.md)
-* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_913.md)
-* [Effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2867.md)
-* [Regular disinfection, high-level hygiene practices, waste management.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3839.md)
-* [Regular cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2941.md)
-* [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2258.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2877.md)
+* [Increased support for domestic violence services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3792.md)
+* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_13.md)
+* [Provide psychosocial support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2955.md)
+* [Targeted mental health support, assessment and monitoring of vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1197.md)
+* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_15.md)
+* [Strengthen psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_14.md)
+* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_19.md)
+* [Home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2482.md)
+* [Provide mental health support, access to accurate information, and social support.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1193.md)
+* [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_17.md)
 

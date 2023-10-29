@@ -19,6 +19,10 @@
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
 * [Enforce measures such as social distancing and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1810.md)
 
+## Blueprints with this mitigation
+
+* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Workforce distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)

@@ -1,19 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3423 
 
-# __Determining citizens’ preferences__
+# __Impact of space type and architectural characteristics__
 
 ## Category to which it belongs
 
-* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
+* [Design spaces that are adaptable, flexible, and can be transformed to accommodate a variety of functions and needs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
 
 ## Closest similar item
 
-* [Determining citizens’ preferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3423.md)
-* [Assessing citizens’ willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3424.md)
-* [Demographics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_390.md)
-* [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3425.md)
-* [Government policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1002.md)
-* [Promotion of citizen engagement, participatory planning, transparency in decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2922.md)
-* [Enhancing citizen confidence in water services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1594.md)
-* [Tailored policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_674.md)
+* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2987.md)
+* [Outdoor space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2960.md)
+* [Architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2614.md)
+* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2934.md)
+* [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2031.md)
+* [New green space designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3455.md)
+* [Considering the needs of vulnerable groups in future public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3092.md)
+* [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_808.md)
+* [Design spaces with lower occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2465.md)
+* [Spatial variety in window design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1469.md)
 

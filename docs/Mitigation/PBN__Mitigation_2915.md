@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2915 
 
-# __Digital communication platforms__
+# __Ontology engineering best practices__
 
 ## Category to which it belongs
 
-* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
+* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1895.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3300.md)
-* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1665.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2912.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2914.md)
-* [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3144.md)
-* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3358.md)
-* [Digital communication and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2911.md)
-* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2094.md)
-* [Use video chat and online platforms for communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3866.md)
+* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2914.md)
+* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2910.md)
+* [Existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2911.md)
+* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2916.md)
+* [Knowledge-engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
+* [Ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2913.md)
+* [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2912.md)
+* [Established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2918.md)
+* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
 

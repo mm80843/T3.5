@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_971.md)
+* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3972.md)
 

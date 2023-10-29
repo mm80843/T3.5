@@ -2,6 +2,14 @@
 
 # __Teleconferencing tools__
 
+## Link between Blueprint and General ontology
+
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_23.md)
+* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_216.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_215.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_217.md)
+* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_245.md)
+
 ## Category to which it belongs
 
 * [Remote healthcare services through virtual platforms and technologies, including telemedicine, teletherapy, teleconferencing, and teleworking, using tele-devices for mental health support and counseling.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Remote work and distance learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1662.md)
+* [Remote work and distance learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4605.md)
 

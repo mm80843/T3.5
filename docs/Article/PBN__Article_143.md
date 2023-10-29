@@ -50,16 +50,16 @@ Smart cities and the pandemic: digital technologies on the urban management of B
 
 ## This article points to following mitigation
 
-* [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_608.md)
-* [Incentives to the local economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
-* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_604.md)
-* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_603.md)
-* [Telephone exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_606.md)
-* [Cultural dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_605.md)
-* [Transposition of municipal services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_609.md)
-* [Online tax assistance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
-* [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_602.md)
-* [Hackathon](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_611.md)
+* [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3643.md)
+* [Incentives to the local economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3642.md)
+* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3639.md)
+* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3638.md)
+* [Cultural dissemination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3640.md)
+* [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3637.md)
+* [Telephone exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3641.md)
+* [Transposition of municipal services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3644.md)
+* [Online tax assistance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3645.md)
+* [Hackathon](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3646.md)
 
 ## This article mentions these technologies
 

@@ -4,6 +4,9 @@
 
 ## Items covered in this category
 
+* [Legal support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2327.md)
+* [Community-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3472.md)
+* [Social capital building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3421.md)
 * [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1847.md)
 * [Social support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_941.md)
 * [Social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
@@ -45,7 +48,6 @@
 * [Virtual team-building activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1401.md)
 * [Collaboration with other groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2597.md)
 * [Education teams](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2683.md)
-* [Legal support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2327.md)
 * [Community care centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2637.md)
 * [Community events](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_171.md)
 * [Community workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1180.md)
@@ -69,7 +71,6 @@
 * [Supportive interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1278.md)
 * [Workforce support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3290.md)
 * [Language and academic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1210.md)
-* [Community-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3472.md)
 * [Social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2811.md)
 * [Building social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3280.md)
 * [Volunteer networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1837.md)
@@ -79,5 +80,4 @@
 * [Social pods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3400.md)
 * [Empathy-building programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
 * [Closed facebook group](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2441.md)
-* [Social capital building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3421.md)
 

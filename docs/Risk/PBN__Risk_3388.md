@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Pmmov as an internal reference](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2343.md)
+* [Pmmov as an internal reference](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5214.md)
 

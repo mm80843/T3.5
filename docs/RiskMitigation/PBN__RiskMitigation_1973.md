@@ -2,13 +2,17 @@
 
 # __Explore modular and flexible designs to accommodate different uses and activities__
 
+## Link between Blueprint and General ontology
+
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_28.md)
+
 ## Category to which it belongs
 
 * [Design and implement adaptable, sustainable, and human-centric solutions for optimized occupant presence, lighting, physical space, and construction methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_469.md)
 
 ## Closest similar item
 
-* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3258.md)
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5406.md)
 * [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1322.md)
 * [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_612.md)
 * [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_137.md)

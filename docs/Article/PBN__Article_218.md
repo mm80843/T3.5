@@ -36,13 +36,13 @@ Open-source analytics tools for studying the COVID-19 coronavirus outbreak
 
 ## This article points to following mitigation
 
-* [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_896.md)
-* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2334.md)
-* [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2335.md)
-* [Forecasting module](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2336.md)
-* [Interactive web apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2337.md)
-* [Maintenance of web apps during outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2339.md)
-* [Monitoring data sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2338.md)
+* [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3903.md)
+* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5205.md)
+* [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5206.md)
+* [Forecasting module](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5207.md)
+* [Interactive web apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5208.md)
+* [Maintenance of web apps during outbreak](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5210.md)
+* [Monitoring data sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5209.md)
 
 ## This article mentions these technologies
 

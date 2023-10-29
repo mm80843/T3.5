@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2351.md)
+* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5218.md)
 

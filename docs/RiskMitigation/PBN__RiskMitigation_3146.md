@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3146 
 
-# __Industry__
+# __Digital change__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Investigating droplet physics, improving surveillance, addressing over-exposure, international collaboration, raising awareness, and more for a comprehensive response to the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_459.md)
+Promoting teleworking and web-based community building can facilitate remote work and reduce the need for physical interaction, minimizing the spread of infections.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3350.md)
-* [Management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3269.md)
-* [Localised manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_622.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3151.md)
-* [Ai and technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3170.md)
-* [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3181.md)
-* [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3208.md)
-* [Society](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3333.md)
-* [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1014.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3166.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2387.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Information and communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2142.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_278.md)
+* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1166.md)
 

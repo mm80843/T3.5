@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2511 
 
-# __Socializing__
+# __Limited occupancy__
 
 ## Category to which it belongs
 
-* [Promoting social distancing, equality, norms, interaction, and facilitation of social spaces to address societal issues and inequalities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Reduction of socialization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2551.md)
-* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2507.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_468.md)
-* [Social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1347.md)
-* [Social norms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_384.md)
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_910.md)
-* [Social network](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1677.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1664.md)
-* [Social issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2510.md)
-* [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3110.md)
+* [Occupancy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2510.md)
+* [Reduced occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2514.md)
+* [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_362.md)
+* [Occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2632.md)
+* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1008.md)
+* [Establish occupancy limits for spaces, provide adequate space and amenities for occupants, promote social distancing measures.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3640.md)
+* [Reduction in commercial building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_367.md)
+* [Implement occupancy limits, encourage social distancing, provide adequate facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2679.md)
+* [Limit occupancy numbers, maintain physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3641.md)
+* [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2677.md)
 

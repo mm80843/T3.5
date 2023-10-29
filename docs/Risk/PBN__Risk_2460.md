@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Nano-spray technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_194.md)
+* [Nano-spray technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3288.md)
 

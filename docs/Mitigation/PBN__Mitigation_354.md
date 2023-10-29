@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_354 
 
-# __Contact tracing apps__
+# __Reduction of socialization__
 
 ## Category to which it belongs
 
-* [Utilize technology to track, trace, and monitor contacts for effective and secure contact tracing and testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Contact tracing mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2475.md)
-* [Tracking and contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1912.md)
-* [Digital contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2476.md)
-* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1284.md)
-* [Contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1867.md)
-* [Contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2451.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
-* [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
-* [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2450.md)
-* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2449.md)
-
-## Property: has_MitigationPrinciple
-
-Tracking individuals who have been in contact with COVID-19 infected people
-
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-
-## Property: has_MitigationSource
-
-* [COVID19-Routes: A Safe Pedestrian Navigation Service](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_201.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Mobile app technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2374.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
+* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3370.md)
+* [Increasing social distance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_360.md)
+* [Social inequities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_241.md)
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_359.md)
+* [Social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1689.md)
+* [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
+* [Social and demographic change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1734.md)
+* [Social equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_547.md)
+* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3812.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Education and engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1445.md)
+* [Education and engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4409.md)
 

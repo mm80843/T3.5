@@ -15,7 +15,7 @@
 * [Strengthen urban governance structures, improve data collection and analysis, involve communities in decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1452.md)
 * [Implement rigorous data validation processes, cross-check data with other reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2061.md)
 * [Embrace data science and digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_292.md)
-* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3145.md)
+* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5304.md)
 * [Rigorous data validation processes, integration of multiple reliable data sources, expert review and validation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2999.md)
 * [Implement standardized data collection methods, invest in data integration platforms and tools.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1540.md)
 

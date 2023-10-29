@@ -16,7 +16,7 @@
 * [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1035.md)
 * [Implement distance learning solutions, provide technology and internet access to students.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2661.md)
 * [Provide support for vulnerable populations, ensure access to technology for remote learning, provide financial relief for families](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2392.md)
-* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3153.md)
+* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5312.md)
 * [Increased awareness and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_344.md)
 
 ## Risks possibly mitigated by this Mitigation

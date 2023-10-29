@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Increase chlorine dose in drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1585.md)
+* [Increase chlorine dose in drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4535.md)
 

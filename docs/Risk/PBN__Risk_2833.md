@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Change and opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1011.md)
+* [Change and opportunities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4009.md)
 

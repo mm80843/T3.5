@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1600 
 
-# __Improved air filtration__
+# __Remote monitoring and diagnosis__
 
 ## Category to which it belongs
 
-* [Enhanced air purification using high-efficiency filters and ventilation systems, including portable devices and hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
+* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Improve air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_712.md)
-* [Enhanced air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1194.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
-* [Improve indoor air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_956.md)
-* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2668.md)
-* [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2661.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1691.md)
-* [High-level air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2669.md)
-* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2670.md)
-* [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2063.md)
-
-## Property: has_MitigationPrinciple
-
-Installing high-efficiency air filtration systems helps to remove airborne particles, including the virus
-
-## Risks possibly mitigated by this Mitigation
-
-* [Increased energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1245.md)
-
-## Property: has_MitigationSource
-
-* [Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_113.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_909.md)
+* [Remote monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_914.md)
+* [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1522.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1599.md)
+* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1602.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_840.md)
+* [Mobile and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1521.md)
+* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1601.md)
+* [Remote monitoring and management of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_913.md)
+* [Cloud-based remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1591.md)
 

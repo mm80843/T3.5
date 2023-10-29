@@ -2,6 +2,14 @@
 
 # __Air purifier with hepa filters__
 
+## Link between Blueprint and General ontology
+
+* [HEPA Filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_25.md)
+* [Implementation of hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_145.md)
+* [Air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_146.md)
+* [Hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_139.md)
+* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_148.md)
+
 ## Category to which it belongs
 
 * [Air and water purification systems, including filters, machines, purifiers, and technologies for improved air quality and filtration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
+* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3573.md)
 

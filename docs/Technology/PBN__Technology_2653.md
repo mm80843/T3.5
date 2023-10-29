@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Urban planning and design policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_742.md)
-* [Passive design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1273.md)
+* [Passive design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_996.md)
+* [Urban planning and design policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3763.md)
 

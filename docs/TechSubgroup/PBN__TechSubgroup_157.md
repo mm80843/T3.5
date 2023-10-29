@@ -21,9 +21,9 @@
 
 ## This Technology belongs to this TechnologySubgroup
 
+* [Adjustable area ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1777.md)
 * [Noise level difference compared to background](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1780.md)
 * [Door-lock devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_969.md)
 * [Ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1779.md)
 * [Flexible layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1778.md)
-* [Adjustable area ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1777.md)
 

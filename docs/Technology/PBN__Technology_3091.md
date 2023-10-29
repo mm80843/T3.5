@@ -2,6 +2,12 @@
 
 # __Online delivery platforms__
 
+## Link between Blueprint and General ontology
+
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_21.md)
+* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_235.md)
+* [Food delivery apps](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_230.md)
+
 ## Category to which it belongs
 
 * [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
@@ -21,5 +27,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Online grocery delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1416.md)
+* [Online grocery delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4380.md)
 

@@ -41,17 +41,17 @@ Insufficient consideration of indicators to promote mental well-being in residen
 
 ## Mitigations of this risk
 
+* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_220.md)
+* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_218.md)
+* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_223.md)
 * [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2938.md)
 * [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_849.md)
 * [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_222.md)
-* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2057.md)
-* [Availability of greenery and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2059.md)
-* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2060.md)
-* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2083.md)
-* [Green rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2090.md)
-* [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2100.md)
-* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2062.md)
-* [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2355.md)
+* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4962.md)
+* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4969.md)
+* [Green rooftops](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4976.md)
+* [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4984.md)
+* [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5222.md)
 
 ## Name of the risk
 

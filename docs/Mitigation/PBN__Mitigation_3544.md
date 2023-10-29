@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3544 
 
-# __Adoption of proper software and hardware__
+# __Occupancy sensing setback thermostats__
 
 ## Category to which it belongs
 
-* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
+* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## Closest similar item
 
-* [Technology adoption](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1317.md)
-* [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3134.md)
-* [Adoption of digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3135.md)
-* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2402.md)
-* [Adoption of emerging technologies , virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3920.md)
-* [Hardware and devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2881.md)
-* [Adoption of smart communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3570.md)
-* [Increased use of technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1524.md)
-* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3133.md)
-* [Reducing heterogeneity of technical standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1454.md)
+* [Reduce occupancy rates, enforce physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2883.md)
+* [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2513.md)
+* [Control of indoor temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2622.md)
+* [Optimize occupant presence schedules, improve energy efficiency of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2260.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
+* [Programmable thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2623.md)
+* [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
+* [Occupancy-sensed lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3187.md)
+* [Limit occupancy numbers, maintain physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3641.md)
+* [Adjustability of indoor temperature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_982.md)
 

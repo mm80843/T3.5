@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2456 
 
-# __Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance__
+# __Use of face masks, social distancing, and proper hygiene practices__
 
 ## Category to which it belongs
 
-* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
+* [Promoting the wearing of masks and implementing measures to reduce face-to-face contact for risk reduction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2340.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1108.md)
-* [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2458.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1054.md)
-* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2454.md)
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
-* [Wastewater-based surveillance wbs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2870.md)
-* [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2455.md)
-* [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1397.md)
-* [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2857.md)
+* [Use of face masks and 50% social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2967.md)
+* [Encouraging the use of face masks, practicing respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2450.md)
+* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_474.md)
+* [Wearing face masks, practicing physical distancing, using respiratory hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2451.md)
+* [Wearing face masks, practicing social distancing, and promoting good respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2453.md)
+* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_306.md)
+* [Encourage the use of face masks, proper disposal of tissues, and regular disinfection practices.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4052.md)
+* [Regular testing, contact tracing, promoting mask-wearing and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4053.md)
+* [Face mask usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1080.md)
+* [Social distancing, hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3892.md)
 

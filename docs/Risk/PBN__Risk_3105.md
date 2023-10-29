@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1559.md)
+* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_828.md)
 

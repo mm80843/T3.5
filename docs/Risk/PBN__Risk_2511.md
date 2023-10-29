@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_370.md)
+* [Heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3441.md)
 

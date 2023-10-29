@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2431 
 
-# __Provide access to nature and green spaces__
+# __Safe pedestrian navigation__
 
 ## Category to which it belongs
 
-* [Enhancing accessibility and variety of green spaces while promoting integration of nature in urban environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
+* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
-* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_123.md)
-* [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2430.md)
-* [Accessible green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2428.md)
-* [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1936.md)
-* [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3179.md)
-* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
-* [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3686.md)
-* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2083.md)
-* [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2429.md)
-* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_464.md)
+* [Safe pedestrian navigation service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2432.md)
+* [Pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1441.md)
+* [Designing streets for pedestrians](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
+* [Reduction in pedestrian flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_341.md)
+* [Broad sidewalks and pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1435.md)
+* [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1437.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_749.md)
+* [Widening sidewalks and re-designing pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1436.md)
+* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1966.md)
+* [Implementing temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1443.md)
 

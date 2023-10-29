@@ -1,0 +1,19 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_4871 
+
+# __Uv-c cupboards__
+
+## Property: has_MitigationPrinciple
+
+Use high-intensity UV-C light in cupboards for external clothing and footwear to sterilize them.
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationSource
+
+* [RESIDENTIAL ARCHITECTURE IN A POST-PANDEMIC WORLD: IMPLICATIONS OF COVID-19 FOR NEW CONSTRUCTION AND FOR ADAPTING HERITAGE BUILDINGS](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_56.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2323.md)
+

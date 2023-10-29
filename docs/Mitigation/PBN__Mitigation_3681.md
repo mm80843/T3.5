@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3681 
 
-# __Virtual reality-based therapy__
+# __Patrol separately__
 
 ## Category to which it belongs
 
-* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2844.md)
-* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2843.md)
-* [Use virtual reality to educate patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2845.md)
-* [Use virtual reality for pain management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3680.md)
-* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1211.md)
-* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1962.md)
-* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1216.md)
-* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
-* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2308.md)
-* [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2841.md)
+* [Increase decontamination efforts, assign individual patrol cars](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3680.md)
+* [Sentinel surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3163.md)
+* [Separate entrance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1406.md)
+* [Surveillance drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3221.md)
+* [Distribution of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2853.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_161.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3220.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_167.md)
+* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_163.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_487.md)
 

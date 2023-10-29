@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Two-way dialogue between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_933.md)
+* [Two-way dialogue between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3935.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1888.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_32.md)
 

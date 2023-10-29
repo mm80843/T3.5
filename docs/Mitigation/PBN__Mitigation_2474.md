@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2474 
 
-# __Vaccine development and distribution__
+# __Adjustable indoor spaces__
 
 ## Category to which it belongs
 
-* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
+* [Enhancing accessibility and variety of green spaces while promoting integration of nature in urban environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
 
 ## Closest similar item
 
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2178.md)
-* [Vaccine production and distribution improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1048.md)
-* [Development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1515.md)
-* [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3559.md)
-* [Vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3397.md)
-* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
-* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3396.md)
-* [Rapid testing and vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2880.md)
-* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2473.md)
-* [Equitable vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1462.md)
+* [Provide adjustable and flexible indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2932.md)
+* [Levels of indoor space adjustability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3828.md)
+* [Adjustable room layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1470.md)
+* [Need for flexible room configurations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1034.md)
+* [Flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1039.md)
+* [Optimize room layout, create flexible and multipurpose spaces, maximize use of natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3830.md)
+* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_965.md)
+* [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1004.md)
+* [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
+* [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2931.md)
 

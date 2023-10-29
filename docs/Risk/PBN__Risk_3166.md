@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1642.md)
+* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4587.md)
 

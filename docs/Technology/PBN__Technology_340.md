@@ -40,18 +40,18 @@
 
 ## This Technology enables the following mitigations
 
-* [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_244.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_60.md)
-* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_162.md)
-* [Face masks with integrated sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_165.md)
-* [Wearing facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_820.md)
-* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
-* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1228.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1057.md)
-* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
-* [Use of face masks and 50% social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1858.md)
-* [Personal protective equipment ppe use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
-* [Mask prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1431.md)
+* [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3330.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_985.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
+* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3261.md)
+* [Face masks with integrated sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3264.md)
+* [Wearing facemasks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3836.md)
+* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_698.md)
+* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4212.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4051.md)
+* [Use of face masks and 50% social isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4789.md)
+* [Personal protective equipment ppe use](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3933.md)
+* [Mask prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4395.md)
 
 ## Risks linked to this technology
 

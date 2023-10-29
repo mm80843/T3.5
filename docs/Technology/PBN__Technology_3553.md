@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5041.md)
 

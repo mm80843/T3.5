@@ -19,6 +19,10 @@
 * [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1001.md)
 * [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1291.md)
 
+## Blueprints with this mitigation
+
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_17.md)
+
 ## Benefits linked to a risk
 
 * [Early detection of virus spreading in communities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_878.md)

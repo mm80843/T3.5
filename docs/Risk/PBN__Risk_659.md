@@ -43,7 +43,7 @@ Delay in making timely decisions to control the outbreak
 
 * [Implement rapid response mechanisms and decision-making protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3099.md)
 * [Treat risk communication as a process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_923.md)
-* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
+* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5257.md)
 
 ## Name of the risk
 

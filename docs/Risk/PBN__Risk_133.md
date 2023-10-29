@@ -44,16 +44,15 @@ Transmission of COVID-19 from person to person through respiratory droplets or c
 * [Communication and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_418.md)
 * [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
 * [Cloud, edge, and fog computing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_501.md)
 * [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_182.md)
 * [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_754.md)
 * [Green retrofitting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1390.md)
 * [Increased green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_277.md)
 * [Clear urban policy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_279.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
 * [Non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_666.md)
 * [Case isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_336.md)
 * [Home isolation of suspect cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_406.md)
@@ -63,6 +62,7 @@ Transmission of COVID-19 from person to person through respiratory droplets or c
 * [Big data and ai forecasting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_634.md)
 * [Adaptive design of built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_753.md)
 * [Implementation of infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_157.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3284.md)
 * [Responsible transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_278.md)
 * [Social distancing of at-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_338.md)
 * [School and university closure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_339.md)
@@ -93,13 +93,12 @@ Transmission of COVID-19 from person to person through respiratory droplets or c
 * [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1391.md)
 * [Sustainable site management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1392.md)
 * [Maintain social distancing, practice good hygiene, wear masks in public, and follow public health guidelines.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1917.md)
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_803.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
-* [Face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1033.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_453.md)
-* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_527.md)
-* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
-* [Remote work and online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1105.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3820.md)
+* [Face coverings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4029.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3515.md)
+* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_376.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1381.md)
+* [Remote work and online meetings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4093.md)
 
 ## Name of the risk
 
@@ -124,9 +123,9 @@ High risk of infection and spread of the virus.
 ## Technologies linked to the risk
 
 * [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
 * [Temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 
 ## Property: has_RiskType
 

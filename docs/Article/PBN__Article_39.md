@@ -40,16 +40,16 @@ Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide
 
 ## This article points to following mitigation
 
-* [Voluntary hiv testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_571.md)
-* [Multilevel logistic regression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_572.md)
-* [Spatial analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_573.md)
-* [Standardized questionnaires](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_574.md)
-* [Descriptive statistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_575.md)
-* [Local moran’s i statistic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_576.md)
-* [Guideline recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
-* [Multivariable adjusted logistic regression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_578.md)
-* [Cancer surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_579.md)
-* [Cytoreduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_580.md)
+* [Spatial analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_160.md)
+* [Voluntary hiv testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3618.md)
+* [Multilevel logistic regression](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3619.md)
+* [Standardized questionnaires](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3620.md)
+* [Descriptive statistics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3621.md)
+* [Local moran’s i statistic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3622.md)
+* [Guideline recommendations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3623.md)
+* [Multivariable adjusted logistic regression](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3624.md)
+* [Cancer surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3625.md)
+* [Cytoreduction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3626.md)
 
 ## This article mentions these technologies
 

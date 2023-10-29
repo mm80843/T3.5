@@ -22,5 +22,5 @@
 ## Mitigations of this risk
 
 * [Taking steps to reduce inequality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_289.md)
-* [Social and economic equality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1769.md)
+* [Social and economic equality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4705.md)
 

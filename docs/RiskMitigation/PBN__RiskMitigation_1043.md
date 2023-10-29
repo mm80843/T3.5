@@ -12,7 +12,7 @@
 * [Develop and implement policies that address the specific needs of deprived areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2539.md)
 * [Implement policies that address social and economic inequalities, ensure equal access to essential services, and support vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1833.md)
 * [Implement policies and initiatives to reduce inequality, promote social inclusion.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2665.md)
-* [Targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3230.md)
+* [Targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5380.md)
 * [Address spatial inequalities and social disparities in urban design and planning. improve access to healthcare, essential services, and amenities in disadvantaged neighborhoods.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3087.md)
 * [Develop global regulations and policies to address the movement of individuals across cities and regions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1982.md)
 * [Addressing socioeconomic factors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_687.md)

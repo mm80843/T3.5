@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1214 
 
-# __Iomt applications__
+# __Honest reporting__
 
 ## Category to which it belongs
 
-* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
+* [Promote trust, combat misinformation, and provide accurate and reliable information through evidence-based sources and transparent communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
-* [Development of iomt applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2882.md)
-* [Iot in healthcare iomt](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3419.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1535.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3167.md)
-* [Scalability of iot devices in iomt](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1156.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1956.md)
-* [Implementation of iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3420.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3080.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3169.md)
-* [Iot data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3168.md)
-
-## Property: has_MitigationPrinciple
-
-Utilize interconnected medical devices and applications for remote monitoring and healthcare delivery
-
-## Risks possibly mitigated by this Mitigation
-
-* [Limited awareness, interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2947.md)
-
-## Property: has_MitigationSource
-
-* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [Smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2979.md)
+* [Promote transparent communication and accurate reporting; combat misinformation through fact-checking and verification systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1219.md)
+* [Voluntary reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1212.md)
+* [Promote accurate and timely information, combat misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2947.md)
+* [Promote fact-checking and accuracy in sharing information, educate the public on reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2791.md)
+* [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2789.md)
+* [Maintain transparency and objectivity in evidence generation and communication, actively combat misinformation, and build trust through consistent and reliable delivery of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2792.md)
+* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1218.md)
+* [Accurate evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3010.md)
+* [Promote fact-checking and reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2952.md)
+* [Promoting accurate and evidence-based risk communication, addressing misinformation and rumors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1185.md)
 

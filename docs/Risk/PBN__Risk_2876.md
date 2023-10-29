@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1062.md)
+* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_987.md)
 

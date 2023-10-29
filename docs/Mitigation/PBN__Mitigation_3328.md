@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3328 
 
-# __Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.__
+# __Training materials__
 
 ## Category to which it belongs
 
-* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
+* [Enhancing education access and equity through virtual learning, training programs, and closure of educational institutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
 
 ## Closest similar item
 
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2752.md)
-* [Urban planning and design policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_742.md)
-* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3329.md)
-* [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2748.md)
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3197.md)
-* [Enhanced urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_89.md)
-* [Revisit planning strategies, redefine compactness and density considerations, implement new urban layout planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3330.md)
-* [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3331.md)
-* [Redesigning urban spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1602.md)
-* [Urban planning and infrastructure to accommodate growing populations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2550.md)
+* [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3073.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_272.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_254.md)
+* [Training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3074.md)
+* [Training protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2698.md)
+* [Educational and training resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_273.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_255.md)
+* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1681.md)
+* [Job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1674.md)
+* [Training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_274.md)
 

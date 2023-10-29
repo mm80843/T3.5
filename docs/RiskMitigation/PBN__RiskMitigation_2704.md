@@ -8,15 +8,15 @@
 
 ## Closest similar item
 
-* [Regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3223.md)
+* [Regular communication and updates on safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5374.md)
 * [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_781.md)
 * [Implement reliable communication protocols and redundancy measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1687.md)
 * [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1528.md)
 * [Implement open protocols and ensure data integrity and safety during communication and transmission.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1506.md)
 * [Implement safety protocols, limit number of workers on site](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2051.md)
 * [Implementing remote work arrangements, implementing safety protocols, ensuring proper communication and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1898.md)
-* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3274.md)
-* [Prevention protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3321.md)
+* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5418.md)
+* [Prevention protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5460.md)
 * [Standardization of communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1339.md)
 
 ## Risks possibly mitigated by this Mitigation

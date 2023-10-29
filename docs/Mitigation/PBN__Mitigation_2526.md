@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2526 
 
-# __Public awareness programs__
+# __Video cameras and beam sensors__
 
 ## Category to which it belongs
 
-* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
+* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## Closest similar item
 
-* [Public awareness initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2524.md)
-* [Public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2530.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
-* [Public awareness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2529.md)
-* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2528.md)
-* [Public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1719.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2525.md)
-* [Public engagement and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2527.md)
-* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1247.md)
-* [Promoting awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2144.md)
+* [Smart cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2527.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_159.md)
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_158.md)
+* [Infrared thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2528.md)
+* [Wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1066.md)
+* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
+* [Mass video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_160.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_162.md)
+* [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_166.md)
+* [Sensor-based fixtures or devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1452.md)
 

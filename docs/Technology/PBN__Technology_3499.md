@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Comfortable and isolated workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2105.md)
+* [Comfortable and isolated workplaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4988.md)
 

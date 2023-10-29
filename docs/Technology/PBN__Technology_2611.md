@@ -2,6 +2,12 @@
 
 # __Database__
 
+## Link between Blueprint and General ontology
+
+* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_9.md)
+* [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_78.md)
+* [Linked data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_174.md)
+
 ## Category to which it belongs
 
 * [Efficiently manage, secure, analyze, and integrate diverse data through various advanced tools and platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
@@ -21,6 +27,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Cloud service and database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_682.md)
-* [Qr code check-in](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_810.md)
+* [Cloud service and database](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3711.md)
+* [Qr code check-in](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3826.md)
 

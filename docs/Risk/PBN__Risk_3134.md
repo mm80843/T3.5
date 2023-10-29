@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Enhancing citizen confidence in water services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1594.md)
+* [Enhancing citizen confidence in water services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4544.md)
 

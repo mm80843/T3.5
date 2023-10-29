@@ -19,6 +19,10 @@
 * [Increased exposure to mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2893.md)
 * [Spread of mosquito-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_58.md)
 
+## Blueprints with this risk
+
+* [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
+
 ## Mitigations of this risk
 
 * [Emphasizing use of personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1049.md)

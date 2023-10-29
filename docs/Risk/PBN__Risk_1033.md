@@ -44,15 +44,15 @@ Spread of false or misleading information about contagious diseases can lead to 
 ## Mitigations of this risk
 
 * [Develop interventions to reduce the spread of misinformation, educate the public on how to verify information sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2147.md)
+* [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_553.md)
 * [Providing accurate information through reliable sources, fact-checking, education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2330.md)
 * [Promote media literacy and critical thinking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1038.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_314.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3389.md)
 * [Provide accurate and evidence-based information through trusted sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2368.md)
 * [Promoting accurate information from reliable sources, fact-checking, and public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1461.md)
-* [Public health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
-* [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_591.md)
-* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_604.md)
-* [Individual responsibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1508.md)
+* [Public health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3333.md)
+* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3639.md)
+* [Individual responsibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4465.md)
 
 ## Name of the risk
 
@@ -91,9 +91,9 @@ Increased confusion and fear, decreased compliance with safety measures
 
 * [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
 * [Social media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_31.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
 * [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [Social media platforms’ moderation policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_931.md)
 * [Reliable news sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1125.md)
 * [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1156.md)

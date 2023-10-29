@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1077 
 
-# __Analysis visualization__
+# __Wearable technology placement__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Enhance monitoring and response systems while integrating various wearable sensors, biosensors, nanotechnology, contactless systems, and robotics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_896.md)
-* [Visualization tool](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2156.md)
-* [Visualization and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_377.md)
-* [Web platform for data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_683.md)
-* [Data dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2303.md)
-* [Increase data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1505.md)
-* [Spatial analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_573.md)
-* [Research and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3234.md)
-* [Statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1163.md)
-* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_554.md)
-
-## Property: has_MitigationPrinciple
-
-Utilize situated visualization of virus transmission in the 3D building model to understand the spatial relationships, and use timeline-based visualizations to analyze the temporal aspect of virus transmission and the impact of human behaviours throughout the simulation
-
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of overview](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2884.md)
-
-## Property: has_MitigationSource
-
-* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Timeline-based visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2872.md)
-* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2871.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1059.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1061.md)
+* [Development of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1062.md)
+* [Safety wearables and carry-ons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1076.md)
+* [Develop wearable devices that are biocompatible, energy efficient, compliant, and compact without compromising performance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
+* [Reliability and robustness of next-generation wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1064.md)
+* [Development of next-generation wearable devices with sufficient reliability and robustness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1060.md)
+* [Integration of additional sensors into wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1058.md)
+* [Design venues with large, flexible spaces and prioritize medical equipment.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3578.md)
+* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1057.md)
 

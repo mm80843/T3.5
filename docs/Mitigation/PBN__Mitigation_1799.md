@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1799 
 
-# __Automatic doors__
+# __Digital infrastructure__
 
 ## Category to which it belongs
 
-* [Enhance monitoring and response systems while integrating various wearable sensors, biosensors, nanotechnology, contactless systems, and robotics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
+* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
-* [Hands-free door opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_758.md)
-* [Contactless door sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
-* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
-* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1083.md)
-* [Wider doorways and corridors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_763.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1701.md)
-* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3404.md)
-* [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3091.md)
-* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3096.md)
-* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3093.md)
-
-## Property: has_MitigationPrinciple
-
-Installation of automatic doors in buildings to minimize the need for individuals to touch door handles, reducing the risk of contamination and transmission.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [A Global Survey of Infection Control and Mitigation Measures for Combating the Transmission of COVID-19 Pandemic in Buildings Under Facilities Management Services](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_27.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Automatic door systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3320.md)
+* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1771.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3100.md)
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2937.md)
+* [Improve digital infrastructure and provide equal access to reliable internet connection for all residents.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3984.md)
+* [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1801.md)
+* [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2830.md)
+* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1796.md)
+* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3233.md)
+* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1766.md)
+* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1794.md)
 

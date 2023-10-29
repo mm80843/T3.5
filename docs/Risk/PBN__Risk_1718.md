@@ -71,8 +71,8 @@ Rapid spread of the disease to others in close proximity
 ## Technologies linked to the risk
 
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
 * [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
 * [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1099.md)
 
 ## Property: has_RiskType

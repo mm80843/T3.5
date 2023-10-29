@@ -19,6 +19,10 @@
 * [Spread of contagious diseases in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1664.md)
 * [Disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_489.md)
 
+## Blueprints with this risk
+
+* [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_4.md)
+
 ## Mitigations of this risk
 
 * [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)

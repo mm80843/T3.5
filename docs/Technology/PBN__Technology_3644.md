@@ -2,6 +2,10 @@
 
 # __Digital thermometers__
 
+## Link between Blueprint and General ontology
+
+* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_129.md)
+
 ## Category to which it belongs
 
 * [Synonymous with monitoring and regulating heat levels, temperature-related equipment and devices are utilized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2305.md)
+* [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5180.md)
 

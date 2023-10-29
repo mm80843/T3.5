@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Blood test automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2353.md)
+* [Blood test automation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5220.md)
 

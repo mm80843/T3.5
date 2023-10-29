@@ -16,7 +16,7 @@
 * [Implement biodiversity conservation strategies in urban planning, prioritize the creation of diverse green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1875.md)
 * [Encourage outdoor activities in green spaces, create more green spaces in urban areas, protect existing natural areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2764.md)
 * [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2405.md)
-* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3176.md)
+* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5332.md)
 * [Design smaller, local green spaces and prioritize accessibility and biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1972.md)
 
 ## Benefits linked to a risk

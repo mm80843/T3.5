@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3220 
 
-# __Iot networks__
+# __Expansion of sdg 11 to include pandemic preparedness__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Implementation of various monitoring technologies, including digital pcr, wearable devices, and iot sensors, for remote tracking and surveillance purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_455.md)
+Broadening the scope of SDG 11 to incorporate strategies for pandemic preparedness and mitigation, ensuring the resilience of cities to biological disasters.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3221.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3222.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3225.md)
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1097.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1413.md)
-* [Implementation of iot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1418.md)
-* [Internet of things iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3338.md)
-* [Internet of things iot devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3337.md)
-* [Iot data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1323.md)
-* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3219.md)
+* [Limited focus on pandemic preparedness in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2422.md)
+
+## Property: has_MitigationSource
+
+* [Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_147.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Sustainable development goals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2209.md)
 

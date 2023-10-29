@@ -12,12 +12,12 @@
 * [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
 * [Improving ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1318.md)
 * [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_372.md)
-* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3195.md)
-* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3196.md)
+* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3648.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5350.md)
 * [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_517.md)
-* [Ventilation system modifications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3197.md)
+* [Ventilation system modifications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5351.md)
 * [Adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_613.md)
-* [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3198.md)
+* [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4655.md)
 
 ## Benefits linked to a risk
 
@@ -28,6 +28,10 @@
 * [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_341.md)
 * [Enhanced air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1338.md)
 
+## Property: has_MitigationPrinciple
+
+Enhance air quality and prevent the spread of diseases
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Spread of sars-cov-2 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_69.md)
@@ -35,4 +39,18 @@
 * [Spread of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
 * [Airborne spread of covid-19 in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_692.md)
 * [Indoor air contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_125.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [None](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2787.md)
+
+## Property: has_MitigationSource
+
+* [A study on office workplace modification during the COVID-19 pandemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_193.md)
+* [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
+* [Impacts of COVID-19 on residential building energy use and performance](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_97.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Hvac technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1829.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 

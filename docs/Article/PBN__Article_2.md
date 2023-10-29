@@ -43,19 +43,19 @@ Dangerous liaisons? Applying the social harm perspective to the social inequalit
 
 ## This article points to following mitigation
 
-* [Garden access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_724.md)
-* [Well-being support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_726.md)
-* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_719.md)
-* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_123.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_716.md)
-* [Panic button protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_717.md)
-* [Regulation of dv](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_725.md)
-* [Rent controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_721.md)
-* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_722.md)
-* [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_718.md)
-* [Fire safety improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_723.md)
-* [Addressing precarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_727.md)
-* [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_720.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1407.md)
+* [Garden access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3747.md)
+* [Well-being support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3749.md)
+* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3742.md)
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_747.md)
+* [Panic button protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3740.md)
+* [Regulation of dv](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3748.md)
+* [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3741.md)
+* [Rent controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3744.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3745.md)
+* [Fire safety improvements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3746.md)
+* [Addressing precarity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3750.md)
+* [Care infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3743.md)
 
 ## This article mentions these technologies
 

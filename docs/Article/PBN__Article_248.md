@@ -41,16 +41,16 @@ The effect of human mobility and control measures on the COVID-19 epidemic in Ch
 
 ## This article points to following mitigation
 
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
-* [Rapid isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_991.md)
-* [Cordon sanitaire](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_993.md)
-* [Local mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_994.md)
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_992.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
+* [Rapid isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3992.md)
+* [Cordon sanitaire](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3994.md)
+* [Local mitigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3995.md)
+* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3993.md)
 
 ## This article mentions these technologies
 
 * [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_401.md)
-* [Testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_905.md)
 * [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_700.md)
+* [Testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_905.md)
 * [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_904.md)
 

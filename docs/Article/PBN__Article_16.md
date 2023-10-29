@@ -44,11 +44,11 @@ Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fab
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
-* [Virus-inactivating solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_805.md)
-* [Copper coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_806.md)
-* [Stainless steel replacement with copper](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_807.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_427.md)
+* [Virus-inactivating solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3822.md)
+* [Copper coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3823.md)
+* [Stainless steel replacement with copper](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3824.md)
 
 ## This article mentions these technologies
 

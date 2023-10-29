@@ -23,7 +23,20 @@
 
 * [Reduced musculoskeletal pain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1282.md)
 
+## Property: has_MitigationPrinciple
+
+Design workspaces with ergonomic furniture and equipment to prevent musculoskeletal pain and injuries.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Musculoskeletal disorders](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_940.md)
+
+## Property: has_MitigationSource
+
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Adjustable furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2260.md)
+* [Proper equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2261.md)
 

@@ -2,6 +2,13 @@
 
 # __Digital platforms__
 
+## Link between Blueprint and General ontology
+
+* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_55.md)
+* [Digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_56.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_58.md)
+* [Digital supply chain platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_64.md)
+
 ## Category to which it belongs
 
 * [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)

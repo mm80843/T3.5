@@ -12,7 +12,7 @@
 * [Implement rationing systems and stockpiling regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2966.md)
 * [Diversify suppliers, optimize inventory management, establish alternative supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1902.md)
 * [Promote diversification of suppliers and reduce dependence on a few key suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2420.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3147.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5306.md)
 * [Implement travel restrictions, reduce travel demand, promote alternative methods of essential supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1843.md)
 * [Diversify supply sources, strengthen local production capabilities, implement emergency stockpiling measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1575.md)
 * [Enhance practical capacity to comply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1212.md)

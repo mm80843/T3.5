@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2210.md)
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5089.md)
 

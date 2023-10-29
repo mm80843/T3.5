@@ -1,21 +1,22 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3149 
 
-# __Blockchain__
+# __Global containment strategy__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Investigating droplet physics, improving surveillance, addressing over-exposure, international collaboration, raising awareness, and more for a comprehensive response to the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_459.md)
+Implement targeted community intervention and containment measures to delay the spread of COVID-19 until drugs and vaccines are available
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1103.md)
-* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3150.md)
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3214.md)
-* [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1052.md)
-* [Blockchain technology for supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1056.md)
-* [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3215.md)
-* [Use of blockchain for reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1169.md)
-* [Implement blockchain for transparent and efficient supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2701.md)
-* [Blockchain-based medical record management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1057.md)
-* [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3148.md)
+* [Uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2389.md)
+
+## Property: has_MitigationSource
+
+* [Overview of the mitigation strategies for COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_86.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
+* [Travel advisories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_26.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2144.md)
 

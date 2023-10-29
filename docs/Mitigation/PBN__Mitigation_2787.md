@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2787 
 
-# __Promote safe physical activity guidelines and create opportunities for physical activity in public spaces.__
+# __Government activity on social media__
 
 ## Category to which it belongs
 
-* [Promote and facilitate various forms of physical activity and exercise through online and home-based programs and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
+* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
-* [Design and develop public spaces that encourage social interaction and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3831.md)
-* [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2789.md)
-* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3639.md)
-* [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3686.md)
-* [Physical activity promotion strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_71.md)
-* [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3784.md)
-* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3393.md)
-* [Physical activity guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_76.md)
-* [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2790.md)
-* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1774.md)
+* [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1793.md)
+* [Monitoring social media content](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2442.md)
+* [Use of social media by decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3569.md)
+* [Trust in official governmental media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1729.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1762.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2601.md)
+* [Use of social media by firms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3595.md)
+* [Social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3477.md)
+* [Government coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1398.md)
+* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2957.md)
 

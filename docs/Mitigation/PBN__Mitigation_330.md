@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_330 
 
-# __Data ownership decentralization__
+# __Restricting inter-city flights__
 
 ## Category to which it belongs
 
-* [Promote seamless data sharing, real-time analysis, and collaboration through standardized protocols and integrated platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
+* [Implementing travel restrictions, optimizing transport, active travel, and improving public transportation to address mobility limitations and ensure safe and accessible transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
-* [Clear guidelines and regulations on data usage, decentralization of data ownership.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3153.md)
-* [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
-* [Decentralized finance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_427.md)
-* [Decentralizing data ownership and establishing secure transmission of biometric data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4025.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1401.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_97.md)
-* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3707.md)
-* [Enforcing data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_561.md)
-* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2269.md)
-* [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3516.md)
-
-## Property: has_MitigationPrinciple
-
-Suggests decentralizing data ownership to individuals and establishing secure transmission systems for biometric data gathered from wearables.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Potential data breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2498.md)
-
-## Property: has_MitigationSource
-
-* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Data ownership policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
-* [Data transmission systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2391.md)
+* [Restricting inter-city connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_329.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_112.md)
+* [Restricting city entry and exit](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_331.md)
+* [Restricted travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_113.md)
+* [Implement travel restrictions and controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_114.md)
+* [Travel prohibition in and out of cities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_334.md)
+* [Implement strict measures and screening at airports, enforce travel restrictions when necessary](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_361.md)
+* [Traffic restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_332.md)
+* [Travel restrictions, isolation, testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_118.md)
+* [Travel restrictions, testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_119.md)
 

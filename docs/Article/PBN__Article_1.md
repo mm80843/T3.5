@@ -46,18 +46,18 @@ Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_262.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_243.md)
-* [Respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1248.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1130.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
+* [Respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4231.md)
 
 ## This article mentions these technologies
 
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
 * [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
-* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1100.md)
 * [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
+* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1100.md)
 * [Standardization of testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1102.md)
 * [Control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1103.md)
 * [Disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_434.md)

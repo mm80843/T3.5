@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Screening masses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
-* [Entry port screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_860.md)
+* [Screening masses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3156.md)
+* [Entry port screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3870.md)
 

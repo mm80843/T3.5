@@ -17,7 +17,7 @@
 * [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2938.md)
 * [Design and develop public spaces that encourage social interaction and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2141.md)
 * [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_242.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3240.md)
+* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5390.md)
 
 ## Benefits linked to a risk
 

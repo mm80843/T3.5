@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3581 
 
-# __Established ontological models__
+# __Evidence-based research__
 
 ## Category to which it belongs
 
-* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
+* [Promote trust, combat misinformation, and provide accurate and reliable information through evidence-based sources and transparent communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
-* [Existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3575.md)
-* [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1613.md)
-* [Reuse of ontological terms and models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1610.md)
-* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_752.md)
-* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3578.md)
-* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3580.md)
-* [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3576.md)
-* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2766.md)
-* [Ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3577.md)
-* [Ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3579.md)
+* [Evidence-based](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3580.md)
+* [Real-world evidence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3582.md)
+* [Evidence-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3579.md)
+* [Reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1583.md)
+* [Verify sources and rely on accurate, evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2949.md)
+* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3583.md)
+* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2138.md)
+* [Gather and analyze accurate data, rely on evidence-based estimates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2040.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2139.md)
 

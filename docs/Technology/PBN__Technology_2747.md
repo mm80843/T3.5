@@ -2,6 +2,10 @@
 
 # __Testing facilities__
 
+## Link between Blueprint and General ontology
+
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_202.md)
+
 ## Category to which it belongs
 
 * [Enhanced testing capacity and advanced diagnostic technologies ensure widespread and rapid disease screening and identification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
@@ -21,7 +25,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1.md)
-* [Increased testing access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1461.md)
-* [Testing for the virus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_876.md)
+* [Increased testing access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1374.md)
+* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3119.md)
+* [Testing for the virus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3884.md)
 

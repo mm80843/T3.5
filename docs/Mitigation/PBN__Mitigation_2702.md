@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2702 
 
-# __Limited awareness and expertise in germicidal uv technology__
+# __Tracetogether app__
 
 ## Category to which it belongs
 
-* [Utilize uv radiation for germicidal purposes, including upper-room fixtures, aerosol chambers, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
+* [Utilize technology to track, trace, and monitor contacts for effective and secure contact tracing and testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
 
 ## Closest similar item
 
-* [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2701.md)
-* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_715.md)
-* [Uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2705.md)
-* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2970.md)
-* [Use of uv-c germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2862.md)
-* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_212.md)
-* [Uv-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1269.md)
-* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1380.md)
-* [Upper room germicidal uv fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1353.md)
-* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1351.md)
+* [Mobile tracing and monitoring apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_157.md)
+* [Tracking and contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_155.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_153.md)
+* [Contact tracing mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_152.md)
+* [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_151.md)
+* [Contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_67.md)
+* [Digital contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_154.md)
+* [Contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_73.md)
+* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_68.md)
+* [Cloud-based tracing and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1596.md)
 

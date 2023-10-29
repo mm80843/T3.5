@@ -40,21 +40,21 @@ What has been the impact of the COVID-19 pandemic on immigrants? An update on re
 
 ## This article points to following mitigation
 
-* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1458.md)
-* [Increased testing access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1461.md)
-* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1464.md)
-* [Equitable vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1462.md)
-* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1471.md)
-* [Targeted outreach and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1468.md)
-* [Integration policies for migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1472.md)
-* [Targeted communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1460.md)
-* [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1469.md)
-* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1465.md)
-* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1463.md)
-* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1466.md)
-* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1459.md)
-* [Occupational safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1470.md)
-* [Support for children’s education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1467.md)
+* [Targeted communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1373.md)
+* [Increased testing access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1374.md)
+* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1376.md)
+* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4419.md)
+* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4420.md)
+* [Equitable vaccine distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4421.md)
+* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4429.md)
+* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4422.md)
+* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4423.md)
+* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4424.md)
+* [Support for children’s education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4425.md)
+* [Targeted outreach and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4426.md)
+* [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4427.md)
+* [Occupational safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4428.md)
+* [Integration policies for migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4430.md)
 
 ## This article mentions these technologies
 

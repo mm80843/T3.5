@@ -19,7 +19,11 @@
 * [Spread of mosquito-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_58.md)
 * [Openings allow mosquito access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3044.md)
 
+## Blueprints with this risk
+
+* [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
+
 ## Mitigations of this risk
 
-* [Building envelope modifications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1435.md)
+* [Building envelope modifications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4399.md)
 

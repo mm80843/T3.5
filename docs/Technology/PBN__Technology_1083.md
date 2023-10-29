@@ -2,6 +2,15 @@
 
 # __Logistics providers__
 
+## Link between Blueprint and General ontology
+
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_21.md)
+* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_235.md)
+* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_225.md)
+* [Logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_100.md)
+* [Advanced logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_110.md)
+* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_237.md)
+
 ## Category to which it belongs
 
 * [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)

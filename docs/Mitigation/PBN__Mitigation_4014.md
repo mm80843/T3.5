@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4014 
 
-# __Exclusion from government support__
+# __Lack of transportation and financial constraints__
 
 ## Category to which it belongs
 
-* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
+* [Implementing travel restrictions, optimizing transport, active travel, and improving public transportation to address mobility limitations and ensure safe and accessible transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
 
 ## Closest similar item
 
-* [Exclusion from support programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4123.md)
-* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_996.md)
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1032.md)
-* [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3961.md)
-* [Economic support and aid](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1061.md)
-* [Support for unemployed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1409.md)
-* [Employee support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_887.md)
-* [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_67.md)
-* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_788.md)
-* [Support for people who cannot stop working and provide essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2779.md)
+* [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2071.md)
+* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4016.md)
+* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4001.md)
+* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_206.md)
+* [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3949.md)
+* [Decreased demand for public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_209.md)
+* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3115.md)
+* [Internal travel constraints](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_110.md)
+* [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4010.md)
+* [Implement travel restrictions, reduce travel demand, promote alternative methods of essential supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3825.md)
 

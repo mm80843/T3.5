@@ -19,6 +19,10 @@
 * [Limited availability of medication and vaccines for covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_54.md)
 * [Personnel reporting to work despite testing positive or being exposed to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1194.md)
 
+## Blueprints with this risk
+
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+
 ## Mitigations of this risk
 
 * [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1125.md)

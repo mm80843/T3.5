@@ -4,9 +4,9 @@
 
 ## Items covered in this category
 
-* [Mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_37.md)
-* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_49.md)
 * [Smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_50.md)
 * [Smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_51.md)
 * [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_52.md)
+* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_49.md)
+* [Mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_37.md)
 

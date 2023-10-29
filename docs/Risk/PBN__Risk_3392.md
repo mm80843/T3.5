@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2352.md)
+* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5219.md)
 

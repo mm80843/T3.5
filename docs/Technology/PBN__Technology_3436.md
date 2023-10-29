@@ -2,6 +2,12 @@
 
 # __Twitter__
 
+## Link between Blueprint and General ontology
+
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_88.md)
+* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_233.md)
+* [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_90.md)
+
 ## Category to which it belongs
 
 * [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
@@ -21,5 +27,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Public health education through social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2046.md)
+* [Public health education through social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4955.md)
 

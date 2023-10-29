@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1671 
 
-# __Home confinement__
+# __Effective community health extension system__
 
 ## Category to which it belongs
 
-* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
+* [Promote health, educate the public, implement interventions, strengthen health systems, and exchange health information for a healthier population.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
-* [Home isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1204.md)
-* [Home isolation of suspect cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3291.md)
-* [Home isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1419.md)
-* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_583.md)
-* [Stay-at-home directives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_983.md)
-* [Home quarantine of household members](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2893.md)
-* [Stay-at-home regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2369.md)
-* [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_235.md)
-* [Shelter and safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1261.md)
-* [Implementation of home treatments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_766.md)
-
-## Property: has_MitigationPrinciple
-
-Requiring individuals to stay at home to limit their exposure to contagious diseases
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Psychological Effects of Home Confinement and Social Distancing Derived from COVID-19 in the General Population—A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_126.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1946.md)
+* [Health education and community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3016.md)
+* [Health system strengthening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3557.md)
+* [Implementing public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
+* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1949.md)
+* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
+* [Provide mental health support services and hotlines, promote community support systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3054.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3017.md)
+* [Strengthen public and universal health systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1950.md)
+* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1672.md)
 

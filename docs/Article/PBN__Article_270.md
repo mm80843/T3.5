@@ -44,11 +44,11 @@ An environmental and health perspective for COVID-19 outbreak: Meteorology and a
 
 ## This article points to following mitigation
 
-* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_221.md)
-* [Air quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_222.md)
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_223.md)
-* [Chlorine disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_224.md)
-* [Drug therapies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_225.md)
+* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1001.md)
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3312.md)
+* [Air quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3311.md)
+* [Chlorine disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3313.md)
+* [Drug therapies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3314.md)
 
 ## This article mentions these technologies
 

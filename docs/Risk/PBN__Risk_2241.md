@@ -42,7 +42,7 @@ Border closures and disruptions in aviation and shipping have strained global su
 ## Mitigations of this risk
 
 * [Diversify sources of imports, restructure supply chains, increase domestic manufacturing capacity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2948.md)
-* [Re-shoring of critical energy industries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
+* [Re-shoring of critical energy industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4026.md)
 
 ## Name of the risk
 

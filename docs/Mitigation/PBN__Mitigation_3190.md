@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3190 
 
-# __Physical interaction__
+# __Flexible manufacturing__
 
 ## Category to which it belongs
 
-* [Effective, transparent, and targeted communication strategies are crucial for global coordination, cooperation, and risk prevention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
+* [Design spaces that are adaptable, flexible, and can be transformed to accommodate a variety of functions and needs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
 
 ## Closest similar item
 
-* [Human interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_296.md)
-* [Restriction of inter-individual physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1513.md)
-* [Nature interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2411.md)
-* [Physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1692.md)
-* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2263.md)
-* [Interaction with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_465.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_468.md)
-* [Encourage a balanced approach to non-contact interaction activities, promoting a mix of virtual and physical interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3610.md)
-* [Reduced physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2311.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_522.md)
+* [Flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1037.md)
+* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2652.md)
+* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_397.md)
+* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1040.md)
+* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2615.md)
+* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2651.md)
+* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2274.md)
+* [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2477.md)
+* [Flexibility and transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2646.md)
+* [Flexibility and adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2647.md)
 

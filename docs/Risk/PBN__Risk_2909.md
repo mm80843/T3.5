@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1122.md)
+* [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4109.md)
 

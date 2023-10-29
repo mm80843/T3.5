@@ -9,7 +9,7 @@
 ## Closest similar item
 
 * [Implement proper noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2888.md)
-* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3359.md)
+* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4062.md)
 * [Sound insulation, use of acoustic materials, noise control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1565.md)
 * [Reduced noise levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_185.md)
 * [Soundproofing, noise barriers, acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2476.md)

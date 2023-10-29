@@ -21,7 +21,7 @@
 
 ## Mitigations of this risk
 
-* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2098.md)
-* [Eco-showerheads](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2088.md)
-* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2072.md)
+* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_238.md)
+* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_350.md)
+* [Eco-showerheads](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4974.md)
 

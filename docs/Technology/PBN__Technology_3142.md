@@ -2,6 +2,14 @@
 
 # __Testing technology__
 
+## Link between Blueprint and General ontology
+
+* [Testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_198.md)
+* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_273.md)
+* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_274.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_202.md)
+* [Test kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_203.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,6 +29,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Isolate and test with school closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1548.md)
-* [Isolate and test](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1540.md)
+* [Isolate and test with school closure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_425.md)
+* [Isolate and test](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4495.md)
 

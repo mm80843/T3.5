@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3338 
 
-# __Changes in use and regulation of interior public spaces__
+# __Ineffective resource allocation__
 
 ## Category to which it belongs
 
-* [Enhancing accessibility and variety of green spaces while promoting integration of nature in urban environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Changes in use and behavior in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3311.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2821.md)
-* [Reconsidering regulations and designs of interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_775.md)
-* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4005.md)
-* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3832.md)
-* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_464.md)
-* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1020.md)
-* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3523.md)
-* [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4047.md)
-* [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1936.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2276.md)
+* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3337.md)
+* [Misallocation of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3340.md)
+* [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1932.md)
+* [Availability of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2256.md)
+* [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3341.md)
+* [Efficient distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3339.md)
+* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3115.md)
+* [Capacity overload](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2253.md)
+* [Inefficient space utilization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3704.md)
 

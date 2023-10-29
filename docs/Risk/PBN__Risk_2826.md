@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Adaptability and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1001.md)
+* [Adaptability and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4000.md)
 

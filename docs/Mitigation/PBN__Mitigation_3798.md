@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3798 
 
-# __Deploy telehealth solutions, use of ai and robotics in healthcare, support research and development efforts__
+# __Implementing administrative controls__
 
 ## Category to which it belongs
 
-* [Expanding healthcare access through remote technology, including telemedicine, telehealth clinics, and virtual consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
+* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2577.md)
-* [Telehealth solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2576.md)
-* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3633.md)
-* [Implement telehealth and telemedicine systems; increase healthcare infrastructure capacity; ensure access to essential healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4020.md)
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_46.md)
-* [Telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2575.md)
-* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2578.md)
-* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2838.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_39.md)
-* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1883.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3985.md)
+* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3733.md)
+* [Implement engineering and administrative controls, provide ppe.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3495.md)
+* [Implement administrative control measures, environmental control measures, and personal respiratory protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3986.md)
+* [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3394.md)
+* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1649.md)
+* [Control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1651.md)
+* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3487.md)
+* [Implement adaptive and flexible management models, improve coordination among different government levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3992.md)
+* [Integrated command and control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_261.md)
 

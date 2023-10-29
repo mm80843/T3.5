@@ -19,6 +19,11 @@
 * [Poor sanitation areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2898.md)
 * [Lack of proper cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1923.md)
 
+## Blueprints with this risk
+
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+* [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
+
 ## Description of the risk
 
 Insufficient cleaning and disinfection of commonly used spaces

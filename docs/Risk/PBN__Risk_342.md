@@ -58,8 +58,8 @@ Reduced productivity, discomfort, thermal stress, and decreased overall well-bei
 
 ## Articles mentionning the risk
 
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
 * [Scalable IoT Architecture for Monitoring IEQ Conditions in Public and Private Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_234.md)
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
 
 ## People affected by this risk
 

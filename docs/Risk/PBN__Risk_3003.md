@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Phone-based ai software for patient data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1367.md)
+* [Phone-based ai software for patient data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4335.md)
 

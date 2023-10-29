@@ -40,8 +40,8 @@ Economic strain on healthcare systems and society as a whole.
 
 ## Mitigations of this risk
 
+* [Cash transfers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_26.md)
 * [Government support for healthcare systems, financial assistance programs, stimulus packages.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2599.md)
-* [Cash transfers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_43.md)
 
 ## Name of the risk
 

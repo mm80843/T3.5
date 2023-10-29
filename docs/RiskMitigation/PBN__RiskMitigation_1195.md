@@ -16,7 +16,7 @@
 * [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_917.md)
 * [Disinfection of surfaces and development of antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1576.md)
 * [Conduct infectivity tests to determine whether the genetic material is present in intact virus particles or as free nucleic acids.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3041.md)
-* [Technology and materials for protection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3275.md)
+* [Technology and materials for protection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5419.md)
 * [Control and regulate humidity levels to reduce virus viability and survival. implement proper ventilation and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2267.md)
 
 ## Benefits linked to a risk

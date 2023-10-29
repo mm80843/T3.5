@@ -11,7 +11,7 @@
 * [Develop and promote alternative outdoor recreation opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2152.md)
 * [Diversify tourism offerings, develop sustainable financing models, promote domestic tourism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2843.md)
 * [Implement sustainable land use practices, protect and restore ecosystems, and mitigate climate change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1835.md)
-* [Sustainability and environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3172.md)
+* [Sustainability and environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5328.md)
 * [Encourage outdoor activities in green spaces, create more green spaces in urban areas, protect existing natural areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2764.md)
 * [Diversify funding sources, develop alternative revenue streams, promote domestic tourism, and enhance marketing strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1778.md)
 * [Sustainable site management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1392.md)

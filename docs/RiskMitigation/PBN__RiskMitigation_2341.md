@@ -14,7 +14,7 @@
 * [Simplify supply chain structures, build collaborative relationships, enhance communication and coordination among stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2343.md)
 * [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1412.md)
 * [Effective supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_672.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3147.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5306.md)
 * [Diversify suppliers, optimize inventory management, establish alternative supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1902.md)
 * [Revised supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_710.md)
 * [Develop supply chain resilience, establish proactive response strategies, diversify supply chains, build collaborative relationships with suppliers and customers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2340.md)

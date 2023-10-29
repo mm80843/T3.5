@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2378 
 
-# __Ethical approval__
+# __Steroids__
 
 ## Category to which it belongs
 
-* [Implement comprehensive measures to address and mitigate risks, ensure public safety, and promote preventive behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_63.md)
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1864.md)
-* [Legal and ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3554.md)
-* [Broad informed consent](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1999.md)
-* [Written informed consent](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1485.md)
-* [Lack of standardization, concerns over ethics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3236.md)
-* [Privacy, ethics, and legal concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2817.md)
-* [Legal and regulatory](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2798.md)
-* [Institutional review board approval](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1484.md)
-* [Data sharing ethics, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3812.md)
-
-## Property: has_MitigationPrinciple
-
-Obtaining ethical approval from appropriate research ethics committees to ensure the protection of participants' rights and well-being
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_176.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Drug therapies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_850.md)
+* [Therapeutic drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_845.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_225.md)
+* [Physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_890.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3007.md)
+* [Exercises and trainings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_929.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_272.md)
+* [Facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_472.md)
+* [Retrofitting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2668.md)
+* [Retrofits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3509.md)
 

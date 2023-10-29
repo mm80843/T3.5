@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Medical gas supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1186.md)
+* [Medical gas supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4171.md)
 

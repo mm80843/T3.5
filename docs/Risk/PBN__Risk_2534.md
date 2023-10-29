@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
+* [Push for meso scale strategies at the neighbourhood/community level](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3482.md)
 

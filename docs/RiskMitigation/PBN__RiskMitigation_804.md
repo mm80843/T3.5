@@ -2,6 +2,11 @@
 
 # __Improved water treatment__
 
+## Link between Blueprint and General ontology
+
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_9.md)
+* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_14.md)
+
 ## Category to which it belongs
 
 * [Enhancing water and wastewater surveillance, improving sanitation measures, and implementing effective waste management strategies are crucial for public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_453.md)
@@ -14,7 +19,7 @@
 * [Increase water movement and aeration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_79.md)
 * [Develop alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2883.md)
 * [Proper treatment and disinfection of water and wastewater systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2297.md)
-* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3288.md)
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5431.md)
 * [Proper testing and treatment of groundwater, alternative sources of clean water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2215.md)
 * [Ensure access to clean drinking water, improve wastewater treatment and management systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2549.md)
 * [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_350.md)

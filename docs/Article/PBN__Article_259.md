@@ -41,13 +41,13 @@ The COVID-19 epidemiology and monitoring ontology
 
 ## This article points to following mitigation
 
-* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1607.md)
-* [Knowledge-engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1608.md)
-* [Fair resource for health data and research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1609.md)
-* [Reuse of ontological terms and models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1610.md)
-* [Fair-based projects like trusted world of corona twoc](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1611.md)
-* [Ontology-guided machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1612.md)
-* [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1613.md)
+* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4557.md)
+* [Knowledge-engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4558.md)
+* [Fair resource for health data and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4559.md)
+* [Reuse of ontological terms and models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4560.md)
+* [Fair-based projects like trusted world of corona twoc](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4561.md)
+* [Ontology-guided machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4562.md)
+* [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4563.md)
 
 ## This article mentions these technologies
 

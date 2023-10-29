@@ -19,6 +19,10 @@
 * [Lack of passive survivability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1872.md)
 * [Automation disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_370.md)
 
+## Blueprints with this risk
+
+* [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
+
 ## Mitigations of this risk
 
 * [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1109.md)

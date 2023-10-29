@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Increased knowledge translation on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_937.md)
+* [Increased knowledge translation on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3939.md)
 

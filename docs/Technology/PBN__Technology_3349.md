@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Protein-based inflammation biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1861.md)
+* [Protein-based inflammation biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4792.md)
 

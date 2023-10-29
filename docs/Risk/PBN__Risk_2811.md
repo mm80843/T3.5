@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Financial reforms to enable innovative and socially directed investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_974.md)
+* [Financial reforms to enable innovative and socially directed investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3975.md)
 

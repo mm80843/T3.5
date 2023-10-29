@@ -10,7 +10,7 @@
 
 * [Design apartments with windows that offer views of nature and the sky.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2483.md)
 * [Design apartments with views of the sky and natural elements, incorporate green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2486.md)
-* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3187.md)
+* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5343.md)
 * [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1261.md)
 * [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_276.md)
 * [Use of balcony in apartments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_818.md)

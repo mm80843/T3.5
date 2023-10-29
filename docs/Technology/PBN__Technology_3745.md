@@ -2,6 +2,12 @@
 
 # __Disease diagnostic test kits__
 
+## Link between Blueprint and General ontology
+
+* [Diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_272.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_202.md)
+* [Test kits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_203.md)
+
 ## Category to which it belongs
 
 * [Enhanced testing capacity and advanced diagnostic technologies ensure widespread and rapid disease screening and identification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)

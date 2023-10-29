@@ -2,6 +2,10 @@
 
 # __Easy-to-sanitize materials__
 
+## Link between Blueprint and General ontology
+
+* [Biodegradable materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_193.md)
+
 ## Category to which it belongs
 
 * [A compilation of various materials used for soundproofing, insulation, building, education, sustainability, and innovative purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1268.md)
+* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1437.md)
 

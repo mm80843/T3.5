@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_598 
 
-# __Leverage complementary evidence networks__
+# __Use portable room air cleaners with hepa filters__
 
 ## Category to which it belongs
 
-* [Promote trust, combat misinformation, and provide accurate and reliable information through evidence-based sources and transparent communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
+* [Enhanced air purification using high-efficiency filters and ventilation systems, including portable devices and hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
-* [Harness the strength of complementary evidence networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4109.md)
-* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_590.md)
-* [Contextualising and disseminating actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3287.md)
-* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_589.md)
-* [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3894.md)
-* [Real-world evidence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_549.md)
-* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_597.md)
-* [Evidence-based](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_857.md)
-* [Verify sources and rely on accurate, evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3598.md)
-* [Evidence-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2392.md)
-
-## Property: has_MitigationPrinciple
-
-KT platforms should establish mechanisms for coordinating and integrating research, data, and expertise across stakeholders and sectors for a more effective response.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Fragmentation of efforts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2623.md)
-
-## Property: has_MitigationSource
-
-* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Collaboration mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2579.md)
-* [Interdisciplinary expertise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2580.md)
+* [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
+* [Portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_593.md)
+* [Ensure correct direction of airflow, maintain proper pressure differentials, increase ventilation rates, and implement portable room air cleaners with hepa filters.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_715.md)
+* [Air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3531.md)
+* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_596.md)
+* [Air purifier with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3532.md)
+* [Using high-efficiency air filters such as merv-13 or hepa filters , regularly replacing and cleaning filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3534.md)
+* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3062.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_592.md)
+* [Hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_721.md)
 

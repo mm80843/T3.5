@@ -42,7 +42,7 @@ Additional costs, payment delays, and loss of revenue for construction companies
 ## Mitigations of this risk
 
 * [Seek financial support, negotiate new payment terms, explore new markets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1525.md)
-* [Diversifying the funding base](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_477.md)
+* [Diversifying the funding base](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3539.md)
 
 ## Name of the risk
 

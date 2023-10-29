@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3475 
 
-# __Regular cleaning and disinfection, minimizing contact with high-touch surfaces__
+# __Smart air quality control__
 
 ## Category to which it belongs
 
-* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
+* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
-* [Regular and thorough disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3345.md)
-* [Regular disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2958.md)
-* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1839.md)
-* [Regular cleaning and disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2956.md)
-* [Regular hand hygiene practices, cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3007.md)
-* [Regular cleaning and disinfection of surfaces, frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3530.md)
-* [Practicing hand hygiene, disinfecting commonly touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3008.md)
-* [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2959.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_243.md)
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1058.md)
+* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3604.md)
+* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_516.md)
+* [Outdoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_522.md)
+* [Monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_517.md)
+* [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_514.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_513.md)
+* [Air quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1085.md)
+* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_515.md)
+* [Improvement of air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_762.md)
+* [Implement iaq monitoring systems to continuously measure and analyze indoor air quality parameters.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_765.md)
 

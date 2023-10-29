@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3057 
 
-# __Implementing effective waste management systems__
+# __Safe work practices__
 
 ## Category to which it belongs
 
-* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
+* [Enabling remote work, flexible schedules, and support for workers’ well-being, safety, and skill development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_184.md)
 
 ## Closest similar item
 
-* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_91.md)
-* [Enhance waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3058.md)
-* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2175.md)
-* [Improved waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1047.md)
-* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3053.md)
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_341.md)
-* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3052.md)
-* [Implement additional waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3507.md)
-* [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3055.md)
-* [Inadequate waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3054.md)
+* [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3301.md)
+* [Workplace safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3056.md)
+* [Promoting worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3055.md)
+* [Occupational safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3804.md)
+* [Develop industry-specific working procedures, enforce safety protocols, promote worker mental health.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3535.md)
+* [Adhere to established safety procedures including the use of personal protective equipment ppe and adherence to safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_488.md)
+* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3093.md)
+* [Implement remote work, flexible schedules, prioritize worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3082.md)
+* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2487.md)
+* [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3682.md)
 

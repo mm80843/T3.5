@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2979 
 
-# __Sodium chloride__
+# __Targeted communications__
 
 ## Category to which it belongs
 
-* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
+* [Effective, transparent, and targeted communication strategies are crucial for global coordination, cooperation, and risk prevention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
 
 ## Closest similar item
 
-* [Sodium chloride extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_829.md)
-* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2245.md)
-* [Sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3350.md)
-* [Chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2863.md)
-* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2243.md)
-* [Sodium dichloroisocyanurate solution containing 500 mg/l chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3351.md)
-* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2244.md)
-* [Chlorine gas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3785.md)
-* [Chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3355.md)
-* [Chlorination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2866.md)
+* [Targeted communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1190.md)
+* [Targeted, tailored messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2980.md)
+* [Targeted outreach and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2981.md)
+* [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1183.md)
+* [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1635.md)
+* [Communication plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2785.md)
+* [Better communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2982.md)
+* [Optimizing communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2518.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1631.md)
+* [Communication challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2983.md)
 

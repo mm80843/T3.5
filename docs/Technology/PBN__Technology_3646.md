@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Ai-assisted ct service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2307.md)
+* [Ai-assisted ct service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5182.md)
 

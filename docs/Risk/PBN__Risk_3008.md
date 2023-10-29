@@ -19,7 +19,13 @@
 * [Covid-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1137.md)
 * [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
 
+## Blueprints with this risk
+
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
+* [Animal vectors control measures](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_18.md)
+
 ## Mitigations of this risk
 
-* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1380.md)
+* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4345.md)
 

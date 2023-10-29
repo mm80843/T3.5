@@ -8,10 +8,10 @@
 
 ## Closest similar item
 
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3250.md)
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3772.md)
 * [Development of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_54.md)
 * [Of different human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3018.md)
-* [Bioinformatics software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3251.md)
+* [Bioinformatics software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5400.md)
 * [Improve specificity of pcr assays to distinguish between sars-cov-2 and other coronaviruses.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3039.md)
 * [Develop algorithms and models that can accurately differentiate covid-19 from other viral infections based on physiological data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1555.md)
 * [Improve data collection and analysis, enhance understanding of the virus and its transmission, validate models with real-world data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2010.md)

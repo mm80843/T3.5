@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_866 
 
-# __Prevention of panic__
+# __Integrated project delivery__
 
 ## Category to which it belongs
 
-* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
+* [Promote cohesive teamwork, partnerships, and collective knowledge sharing for efficient research, analysis, and collaboration in various fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
-* [Panic button protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_717.md)
-* [Promote strategies for managing anxiety, stress, and depression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3071.md)
-* [Prevention of disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2115.md)
-* [Medication prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1429.md)
-* [Stress management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_365.md)
-* [Stress management and coping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3070.md)
-* [Isolation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1432.md)
-* [General prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1433.md)
-* [Prevention applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_152.md)
-* [Development of resilience strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3822.md)
-
-## Property: has_MitigationPrinciple
-
-Providing accurate and calm communication to prevent panic buying and hoarding of essential supplies, such as face masks and protective gear, which can lead to shortages and deprive healthcare professionals of necessary resources.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Panic buying and hoarding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2752.md)
-
-## Property: has_MitigationSource
-
-* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Accurate and calm communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2736.md)
+* [Integrated management and planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_868.md)
+* [Integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_869.md)
+* [Facilitating collaborative and integrated planning and management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2277.md)
+* [Integration and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_862.md)
+* [Integration of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_867.md)
+* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2278.md)
+* [Collaborative projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2279.md)
+* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2185.md)
+* [Determining ideal projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2280.md)
+* [Innovative projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2281.md)
 

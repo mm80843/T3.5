@@ -19,6 +19,10 @@
 * [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2056.md)
 * [Regular cleaning and disinfection of frequently touched surfaces, promoting hand hygiene, and providing hand sanitizers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2501.md)
 
+## Blueprints with this mitigation
+
+* [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Virus propagation risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_279.md)

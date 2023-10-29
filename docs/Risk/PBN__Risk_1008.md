@@ -46,7 +46,7 @@ Downturn in economic activity leading to job losses, business closures
 * [Economic stimulus packages, support for small businesses, job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2169.md)
 * [Implement stimulus packages, support small businesses, invest in job creation projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1946.md)
 * [Implement fiscal stimulus, provide financial support to affected businesses and individuals, invest in job creation and training programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2901.md)
-* [Lockdown and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_144.md)
+* [Lockdown and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3246.md)
 
 ## Name of the risk
 

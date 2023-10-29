@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)
-* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_108.md)
+* [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3213.md)
+* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3214.md)
 

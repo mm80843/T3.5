@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3868 
 
-# __Preprocessing disinfection__
+# __Improved building insulation__
 
 ## Category to which it belongs
 
-* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
+* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
-* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2865.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
-* [Thorough disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1519.md)
-* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_913.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2877.md)
-* [Effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2867.md)
-* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2864.md)
-* [Disinfection and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2942.md)
-* [Chemical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2247.md)
-* [Physical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2248.md)
+* [Proper insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1281.md)
+* [Opportunities for new materials for performative insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3869.md)
+* [Proper insulation maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1280.md)
+* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
+* [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_579.md)
+* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1408.md)
+* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_977.md)
+* [Adaptation of building envelope materials and techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1941.md)
+* [Contamination and microbial growth in insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3936.md)
+* [Noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_976.md)
 

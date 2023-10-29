@@ -53,16 +53,16 @@ Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a P
 
 ## This article points to following mitigation
 
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_146.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
-* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
-* [Lockdown and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_144.md)
-* [Ai-powered diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_150.md)
-* [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_153.md)
-* [Prevention applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_152.md)
-* [Data-driven solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_148.md)
-* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_151.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3248.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_404.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3247.md)
+* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3250.md)
+* [Lockdown and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3246.md)
+* [Ai-powered diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3251.md)
+* [Data-driven solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3249.md)
+* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3252.md)
+* [Prevention applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3253.md)
+* [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3254.md)
 
 ## This article mentions these technologies
 
@@ -72,8 +72,8 @@ Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a P
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 * [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
 * [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
-* [Protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_154.md)
 * [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
+* [Protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_154.md)
 * [Incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_163.md)
 * [Funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_161.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)

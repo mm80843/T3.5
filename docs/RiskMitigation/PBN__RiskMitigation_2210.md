@@ -2,6 +2,11 @@
 
 # __Enhance water treatment processes, implement effective sanitation measures__
 
+## Link between Blueprint and General ontology
+
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_9.md)
+* [Separate water facilities (toilets/bathrooms for contaminated)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_10.md)
+
 ## Category to which it belongs
 
 * [Enhancing water and wastewater surveillance, improving sanitation measures, and implementing effective waste management strategies are crucial for public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_453.md)
@@ -18,6 +23,10 @@
 * [Improved water treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_804.md)
 * [Enhanced cleanliness and sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_480.md)
 * [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1364.md)
+
+## Blueprints with this mitigation
+
+* [Drinking water safety - restoring water quality in buildings after forced closure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_22.md)
 
 ## Risks possibly mitigated by this Mitigation
 

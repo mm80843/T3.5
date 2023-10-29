@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2364 
 
-# __Proximities between jobs and homes__
+# __Sephadex g-10 gel filtration column__
 
 ## Category to which it belongs
 
-* [Enabling remote work, flexible schedules, and support for workers’ well-being, safety, and skill development.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_184.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Work-from-home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_690.md)
-* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_873.md)
-* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1297.md)
-* [Ability to work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1263.md)
-* [Working from home, where possible with regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1750.md)
-* [Home offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2135.md)
-* [Support for working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3306.md)
-* [Determine which workers with comorbidities can work from home, provide necessary accommodations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3463.md)
-* [Residential environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_841.md)
-* [Job proximity and active transportation support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3103.md)
-
-## Property: has_MitigationPrinciple
-
-Promoting mixed-use development and proximity between jobs and homes reduces commute times and reliance on public transportation.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Urban design attributes and resilience: COVID-19 evidence from New York City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_6.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
-* [Mixed-use development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1494.md)
+* [Membrane filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_759.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_756.md)
+* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_758.md)
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_757.md)
+* [Air filtration and purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_611.md)
+* [Mechanical filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_761.md)
+* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_640.md)
+* [Polyethylene glycol mw 8000 extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2346.md)
+* [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_760.md)
+* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_634.md)
 

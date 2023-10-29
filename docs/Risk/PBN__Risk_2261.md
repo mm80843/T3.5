@@ -42,7 +42,7 @@ Poor sanitation and hygiene
 ## Mitigations of this risk
 
 * [Promoting proper hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2973.md)
-* [Hygiene and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_297.md)
+* [Hygiene and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3373.md)
 
 ## Name of the risk
 

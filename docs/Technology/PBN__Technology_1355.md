@@ -2,6 +2,16 @@
 
 # __Facial recognition systems__
 
+## Link between Blueprint and General ontology
+
+* [Face and voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_28.md)
+* [Voice and face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_260.md)
+* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_243.md)
+* [Voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_261.md)
+* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_192.md)
+* [Facial recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_262.md)
+* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_208.md)
+
 ## Category to which it belongs
 
 * [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
@@ -32,7 +42,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Automated face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1756.md)
+* [Automated face recognition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4692.md)
 
 ## Risks linked to this technology
 

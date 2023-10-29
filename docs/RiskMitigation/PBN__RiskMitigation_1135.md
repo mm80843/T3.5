@@ -16,7 +16,7 @@
 * [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1118.md)
 * [Collaborate with multiple institutions to share data, invest in data collection and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1542.md)
 * [Strengthening partnerships and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_290.md)
-* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3362.md)
+* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5498.md)
 * [Promote transparency, communication, and community engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2643.md)
 
 ## Benefits linked to a risk

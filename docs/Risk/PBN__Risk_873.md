@@ -19,6 +19,10 @@
 * [High energy consumption in unoccupied buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_976.md)
 * [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
 
+## Blueprints with this risk
+
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+
 ## Mitigations of this risk
 
 * [Adequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1193.md)

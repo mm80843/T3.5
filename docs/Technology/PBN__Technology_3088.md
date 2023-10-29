@@ -2,6 +2,12 @@
 
 # __Fifth-generation wireless networks__
 
+## Link between Blueprint and General ontology
+
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
+* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_34.md)
+* [Massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_38.md)
+
 ## Category to which it belongs
 
 * [Enhancing digital connectivity through internet-based communication, networking platforms, and wireless data transmission for efficient collaboration and reliable connectivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
@@ -21,5 +27,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Tele-response bots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1404.md)
+* [Tele-response bots](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4368.md)
 

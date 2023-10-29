@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Surveillance of vector](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1699.md)
-* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1083.md)
+* [Surveillance of vector](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4638.md)
+* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_395.md)
 

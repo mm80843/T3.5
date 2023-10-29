@@ -2,6 +2,13 @@
 
 # __Smartwatches__
 
+## Link between Blueprint and General ontology
+
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_11.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_108.md)
+* [Fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_143.md)
+* [Wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_144.md)
+
 ## Category to which it belongs
 
 * [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
@@ -21,5 +28,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Smartwatch data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_160.md)
+* [Smartwatch data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3259.md)
 

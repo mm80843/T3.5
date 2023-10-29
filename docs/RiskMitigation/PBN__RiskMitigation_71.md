@@ -9,13 +9,13 @@
 ## Closest similar item
 
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
-* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3156.md)
+* [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5314.md)
 * [Design buildings with rooftop terraces, balconies, and courtyards to provide outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2304.md)
-* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3171.md)
+* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5327.md)
 * [Address spatial inequalities and social disparities in urban design and planning. improve access to healthcare, essential services, and amenities in disadvantaged neighborhoods.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3087.md)
 * [Incorporate diverse types of green spaces in urban planning and design, prioritize the creation of green spaces with diverse vegetation and design features](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2070.md)
 * [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1920.md)
-* [Urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3161.md)
+* [Urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5318.md)
 * [Promote medium density housing, create mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2139.md)
 * [Horizontal urban development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_20.md)
 

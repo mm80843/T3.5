@@ -19,6 +19,12 @@
 * [Adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_613.md)
 * [Design bedrooms with lower window-to-wall ratios and operable windows for ventilation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2488.md)
 
+## Blueprints with this mitigation
+
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)

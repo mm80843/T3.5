@@ -13,10 +13,10 @@
 * [Strengthen social support systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1036.md)
 * [Provide social support and promote social connections through technology.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2686.md)
 * [Foster community engagement and social support networks; promote virtual social interactions and activities; provide mental health resources and support for individuals experiencing loneliness.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2604.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3240.md)
+* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5390.md)
 * [Facilitate access to social support networks, promote community engagement and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2691.md)
 * [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_404.md)
-* [Community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3229.md)
+* [Community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5379.md)
 * [Promote and support social connections through digital platforms, encourage virtual social activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2117.md)
 
 ## Risks possibly mitigated by this Mitigation

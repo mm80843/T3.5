@@ -37,8 +37,8 @@ Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis
 
 ## This article points to following mitigation
 
-* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_600.md)
-* [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_601.md)
+* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3636.md)
+* [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_523.md)
 
 ## This article mentions these technologies
 

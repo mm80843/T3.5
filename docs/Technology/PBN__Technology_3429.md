@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2012.md)
+* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4922.md)
 

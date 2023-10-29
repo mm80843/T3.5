@@ -13,7 +13,7 @@
 * [Implement measures to control the spread of infectious diseases, such as social distancing, improved hygiene practices, and vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2240.md)
 * [Implement public health measures, such as social distancing and proper hygiene protocols, invest in healthcare infrastructure and resources, and promote vaccination and disease surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2629.md)
 * [Implementing social distancing measures, investing in healthcare infrastructure, promoting hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1799.md)
-* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3128.md)
+* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5290.md)
 * [Implement social distancing measures, increase access to healthcare, and improve hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1893.md)
 * [Raise awareness and promote the importance of hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2078.md)
 * [Implementing physical distancing measures, providing access to hand hygiene facilities, promoting mask-wearing, regular cleaning and disinfection of surfaces, and limiting the capacity of public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2229.md)

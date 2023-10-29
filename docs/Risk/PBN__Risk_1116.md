@@ -67,8 +67,8 @@ Eye strain, headaches, reduced visual comfort, and decreased productivity
 
 ## Technologies linked to the risk
 
-* [Energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1254.md)
 * [Daylighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_187.md)
+* [Energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1254.md)
 * [Lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1255.md)
 * [Led lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_188.md)
 * [Glare control devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_189.md)

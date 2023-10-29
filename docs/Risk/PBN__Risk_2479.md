@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Good room air mixing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_259.md)
+* [Good room air mixing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3343.md)
 

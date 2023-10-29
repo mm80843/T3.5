@@ -2,6 +2,11 @@
 
 # __Social media analysis__
 
+## Link between Blueprint and General ontology
+
+* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_73.md)
+* [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_89.md)
+
 ## Category to which it belongs
 
 * [Efficient use of data analysis and modeling techniques to analyze various types of data for targeted insights.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Remain alert and responsive to changing needs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_596.md)
+* [Remain alert and responsive to changing needs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3633.md)
 

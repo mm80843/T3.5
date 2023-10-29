@@ -40,11 +40,11 @@ Retail Signage During the COVID-19 Pandemic
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Retail store signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1222.md)
-* [Informal signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1223.md)
-* [Professional signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
-* [Duct tape](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1225.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Retail store signs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4206.md)
+* [Informal signs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4207.md)
+* [Professional signs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4208.md)
+* [Duct tape](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4209.md)
 
 ## This article mentions these technologies
 

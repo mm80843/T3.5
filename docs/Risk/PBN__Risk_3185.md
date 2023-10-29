@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1688.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4629.md)
 

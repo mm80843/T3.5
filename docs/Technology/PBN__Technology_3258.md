@@ -2,6 +2,10 @@
 
 # __Temperature control__
 
+## Link between Blueprint and General ontology
+
+* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_129.md)
+
 ## Category to which it belongs
 
 * [Synonymous with monitoring and regulating heat levels, temperature-related equipment and devices are utilized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
@@ -21,6 +25,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Control of indoor temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1705.md)
-* [Adjustability of indoor temperature/humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2058.md)
+* [Adjustability of indoor temperature/humidity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4961.md)
+* [Control of indoor temperatures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4644.md)
 

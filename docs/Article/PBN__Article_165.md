@@ -40,19 +40,19 @@ Questioning the use of the balcony in apartments during the COVID-19 pandemic pr
 
 ## This article points to following mitigation
 
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
-* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_190.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3123.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3283.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3284.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1095.md)
 
 ## This article mentions these technologies
 
 * [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
 * [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_206.md)
-* [Smart building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_208.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Smart building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_208.md)
 * [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
 * [Digital supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_210.md)
 * [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_207.md)

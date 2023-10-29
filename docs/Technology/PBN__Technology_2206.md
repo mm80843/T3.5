@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_111.md)
+* [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3217.md)
 

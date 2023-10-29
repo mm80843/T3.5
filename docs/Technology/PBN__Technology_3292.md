@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1883.md)
-* [Working from home, where possible with regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1750.md)
+* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_27.md)
+* [Working from home, where possible with regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4688.md)
 

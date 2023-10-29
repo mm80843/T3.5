@@ -19,6 +19,10 @@
 * [Contagious disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2003.md)
 * [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_943.md)
 
+## Blueprints with this risk
+
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
+
 ## Description of the risk
 
 Contagious diseases can easily spread in built environments, increasing the risk of infection for individuals in close proximity.

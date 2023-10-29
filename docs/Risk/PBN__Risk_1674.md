@@ -64,8 +64,8 @@ Low adoption of green roofs in urban areas
 
 ## Technologies linked to the risk
 
-* [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
 * [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
 
 ## Property: has_RiskType
 

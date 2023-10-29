@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4002 
 
-# __Phasing out of lockdown with local strategies__
+# __Implement social lockdown, promote hygiene practices, develop strategies for testing and contact tracing__
 
 ## Category to which it belongs
 
-* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
+* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
-* [Local lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1575.md)
-* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2472.md)
-* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_803.md)
-* [Early enforcement of lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3524.md)
-* [Building lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1424.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
-* [Rapid hard-lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1596.md)
-* [Flexibility in lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2146.md)
-* [Enforce lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
+* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2487.md)
+* [Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2742.md)
+* [Implementing social distancing measures, promoting good hygiene practices, and enforcing lockdowns or stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1852.md)
+* [Implement strict hygiene protocols, provide personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2741.md)
+* [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3682.md)
+* [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1256.md)
+* [Regular testing, contact tracing, promoting mask-wearing and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4053.md)
+* [Implementing strict cleaning and disinfection protocols, promoting good hygiene practices, enforcing physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2743.md)
+* [Promote cleanliness and hygiene practices at the community level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2489.md)
+* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2462.md)
 

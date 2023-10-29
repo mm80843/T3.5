@@ -17,7 +17,12 @@
 * [Implement safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_569.md)
 * [Enhanced monitoring and control efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_664.md)
 * [Implementing safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_100.md)
-* [Public health and safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3127.md)
+* [Public health and safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5289.md)
+
+## Blueprints with this mitigation
+
+* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
+* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
 
 ## Risks possibly mitigated by this Mitigation
 

@@ -19,6 +19,10 @@
 * [Promote alternative forms of exercise, encourage online supervised exercise and remote social interaction.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1489.md)
 * [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_212.md)
 
+## Blueprints with this mitigation
+
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)

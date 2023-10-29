@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2189 
 
-# __Enhanced commitment towards multilateralism__
+# __Identification and isolation of cases__
 
 ## Category to which it belongs
 
-* [Effective, transparent, and targeted communication strategies are crucial for global coordination, cooperation, and risk prevention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
+* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_675.md)
-* [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2196.md)
-* [Enhanced coordination and cooperation among institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1049.md)
-* [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_505.md)
-* [International coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3546.md)
-* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1062.md)
-* [Collaboration with national and international partners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2145.md)
-* [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
-* [Increasing international support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3438.md)
-* [Strengthening of un and who leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2186.md)
-
-## Property: has_MitigationPrinciple
-
-Strengthening commitment towards multilateralism in policymaking can foster cooperation among countries and promote balanced and inclusive growth, ensuring a more equitable and sustainable global recovery from the pandemic.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [The COVID-19 pandemic: Lessons on building more equal and sustainable societies](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_124.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Enhanced isolation of suspected cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2190.md)
+* [Suspected and confirmed cases isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2188.md)
+* [Isolation of suspected or confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2191.md)
+* [Home isolation of suspect cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2192.md)
+* [Case isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2187.md)
+* [Isolation of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2336.md)
+* [Isolation and quarantine of confirmed cases and contacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3281.md)
+* [Case identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3403.md)
+* [Patient isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1846.md)
+* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_730.md)
 

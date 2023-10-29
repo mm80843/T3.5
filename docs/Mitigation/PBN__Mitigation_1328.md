@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1328 
 
-# __Minimize number of people__
+# __Increased testing and contact tracing__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Enhanced and widespread testing, utilizing various methods and technologies, to detect and diagnose covid-19 with accuracy and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
-* [Avoidance of crowds](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1422.md)
-* [Less crowded environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_156.md)
-* [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3520.md)
-* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3522.md)
-* [Reducing population flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1091.md)
-* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3523.md)
-* [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3471.md)
-* [Optimization-based people flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1101.md)
-* [Crowd control on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2290.md)
-* [Restrict mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_582.md)
-
-## Property: has_MitigationPrinciple
-
-Reduces the concentration of virus-laden particles by decreasing the number of people who can be exposed at any given time, limiting the risk of airborne and direct transmission
-
-## Risks possibly mitigated by this Mitigation
-
-* [Airborne and direct transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2991.md)
-
-## Property: has_MitigationSource
-
-* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1259.md)
+* [Rapid testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1325.md)
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
+* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_75.md)
+* [Regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
+* [Improve contact tracing systems, increase testing capacity, utilize digital tools for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3705.md)
+* [Regular testing and contact tracing programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1327.md)
+* [Implementation of contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1326.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_66.md)
+* [Testing and tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_175.md)
 

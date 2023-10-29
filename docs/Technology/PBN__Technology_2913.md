@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Algae control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1119.md)
+* [Algae control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4106.md)
 

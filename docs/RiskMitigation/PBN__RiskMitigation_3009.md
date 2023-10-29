@@ -11,7 +11,7 @@
 * [Implement border control measures and travel restrictions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3008.md)
 * [Travel restrictions and border control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_437.md)
 * [Border control and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_94.md)
-* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3320.md)
+* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5459.md)
 * [Improve surveillance and detection systems at borders, increase public awareness of risks.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2622.md)
 * [Strengthen border health surveillance, develop rapid response protocols, promote international cooperation in disease control.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2726.md)
 * [Implement strict measures and screening at airports, enforce travel restrictions when necessary](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1950.md)

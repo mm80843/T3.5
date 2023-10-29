@@ -58,7 +58,7 @@
 * [Governments should establish and expand credit guarantee schemes cgss](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2821.md)
 * [Implement financial support programs and resources for individuals and businesses; promote job creation and stability; provide financial education and counseling.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2603.md)
 * [Bricolage crisis response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_786.md)
-* [Individuals facing economic crisis and uncertainties](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3388.md)
+* [Individuals facing economic crisis and uncertainties](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5522.md)
 * [Implementation of open government projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_872.md)
 * [Central bank interventions, liquidity injections, fiscal stimulus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2587.md)
 * [Develop resilient livelihood strategies, promote sustainable trade practices, provide social safety nets and support local economies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2841.md)

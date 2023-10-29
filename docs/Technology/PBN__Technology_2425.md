@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Restrictions on shared facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_405.md)
+* [Restrictions on shared facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3472.md)
 

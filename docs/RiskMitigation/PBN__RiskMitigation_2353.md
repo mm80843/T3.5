@@ -2,6 +2,10 @@
 
 # __Development of expert systems and mobile applications for early detection__
 
+## Link between Blueprint and General ontology
+
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_31.md)
+
 ## Category to which it belongs
 
 * [Implementation of various monitoring technologies, including digital pcr, wearable devices, and iot sensors, for remote tracking and surveillance purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_455.md)
@@ -10,9 +14,9 @@
 
 * [Development of a mobile application with an expert system for early detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1141.md)
 * [Implementation of an expert system in the mobile application](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1143.md)
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3344.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3203.md)
 * [Mobile technology surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1154.md)
-* [Testing and validation of the expert system’s performance and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3393.md)
+* [Testing and validation of the expert system’s performance and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5527.md)
 * [Ai for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_650.md)
 * [Ai for diagnosis and screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_651.md)
 * [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1165.md)

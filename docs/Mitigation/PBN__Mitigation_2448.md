@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2448 
 
-# __Manual contact tracing__
+# __Respiratory etiquette__
 
 ## Category to which it belongs
 
-* [Utilize technology to track, trace, and monitor contacts for effective and secure contact tracing and testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
+* [Enhance airflow and air quality for better respiratory health through improved natural and mechanical ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_146.md)
-* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2447.md)
-* [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2450.md)
-* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1284.md)
-* [Contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1867.md)
-* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2449.md)
-* [Contact tracing and control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3474.md)
-* [Contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2451.md)
-* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_40.md)
+* [Respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2449.md)
+* [Wearing face masks, practicing physical distancing, using respiratory hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2451.md)
+* [Cough and sneeze etiquette](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2447.md)
+* [Proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_615.md)
+* [Encouraging the use of face masks, practicing respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2450.md)
+* [Proper ventilation arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_627.md)
+* [Wearing face masks, practicing social distancing, and promoting good respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2453.md)
+* [Proper ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_629.md)
+* [Proper coughing and sneezing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2446.md)
+* [Combination of social distancing and high ventilation effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3914.md)
 

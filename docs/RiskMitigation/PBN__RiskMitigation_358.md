@@ -15,7 +15,7 @@
 * [Home-based exercises, online fitness classes, use of fitness apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1755.md)
 * [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1175.md)
 * [Encourage active play, online fitness classes for children, limit screen time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1757.md)
-* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3129.md)
+* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5291.md)
 * [Home-based exercises and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_894.md)
 * [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2274.md)
 

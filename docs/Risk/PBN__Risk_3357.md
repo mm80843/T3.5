@@ -21,8 +21,8 @@
 
 ## Mitigations of this risk
 
-* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2269.md)
-* [Publishing registered reports](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2270.md)
-* [Making modeling public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2271.md)
-* [Improved peer-review process](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2272.md)
+* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5145.md)
+* [Publishing registered reports](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5146.md)
+* [Making modeling public](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5147.md)
+* [Improved peer-review process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5148.md)
 

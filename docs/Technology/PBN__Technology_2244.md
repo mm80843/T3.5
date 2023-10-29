@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_161.md)
+* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3260.md)
 

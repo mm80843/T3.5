@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Increasing international development finance and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_480.md)
+* [Increasing international development finance and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3542.md)
 

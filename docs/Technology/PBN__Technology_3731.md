@@ -2,6 +2,12 @@
 
 # __Water sensors__
 
+## Link between Blueprint and General ontology
+
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_126.md)
+* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
+* [Light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_130.md)
+
 ## Category to which it belongs
 
 * [A wide array of advanced technologies that detect and measure various environmental factors and human activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)

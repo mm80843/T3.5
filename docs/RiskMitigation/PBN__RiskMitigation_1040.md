@@ -2,6 +2,10 @@
 
 # __Strengthen supply chain resilience__
 
+## Link between Blueprint and General ontology
+
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_32.md)
+
 ## Category to which it belongs
 
 * [Developing resilient supply chains through alternative delivery methods, supplier diversification, and proactive response strategies, as well as implementing blockchain technology for transparent and efficient management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_475.md)
@@ -9,7 +13,7 @@
 ## Closest similar item
 
 * [Develop supply chain resilience, establish proactive response strategies, diversify supply chains, build collaborative relationships with suppliers and customers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2340.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3147.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5306.md)
 * [Diversify supply chains, localize production, enhance transparency and resilience in supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2902.md)
 * [Effective supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_672.md)
 * [Build redundancies in supply chains and critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2814.md)

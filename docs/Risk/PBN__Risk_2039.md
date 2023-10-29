@@ -63,9 +63,9 @@ Ineffective response to the pandemic; difficulty in implementing coordinated act
 
 ## Technologies linked to the risk
 
+* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
 * [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 
 ## Property: has_RiskType
 

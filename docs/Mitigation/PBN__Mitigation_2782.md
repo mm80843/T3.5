@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2782 
 
-# __Remote monitoring systems__
+# __Early enforcement of lockdown__
 
 ## Category to which it belongs
 
-* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
+* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 
 ## Closest similar item
 
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_364.md)
-* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3067.md)
-* [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3028.md)
-* [Remote monitoring and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3068.md)
-* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3069.md)
-* [Remote monitoring and management of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2781.md)
-* [Mobile and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3027.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2760.md)
-* [Cloud-based remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3063.md)
-* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2761.md)
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_135.md)
+* [Lockdown enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_136.md)
+* [Mandatory lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_458.md)
+* [Enforce lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3161.md)
+* [Flexibility in lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3160.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_139.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
+* [Building lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_132.md)
+* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_138.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)
 

@@ -12,12 +12,12 @@
 * [Deploy telehealth solutions, use of ai and robotics in healthcare, support research and development efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2397.md)
 * [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1427.md)
 * [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1098.md)
-* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3201.md)
+* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5354.md)
 * [Developing robust healthcare systems, stockpiling medical supplies, conducting regular drills and simulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1462.md)
 * [Mobile technology in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1160.md)
 * [Ai for patient management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_655.md)
 * [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_755.md)
-* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3285.md)
+* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5428.md)
 
 ## Benefits linked to a risk
 

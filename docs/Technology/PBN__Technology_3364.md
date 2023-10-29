@@ -2,6 +2,12 @@
 
 # __Small cell networks__
 
+## Link between Blueprint and General ontology
+
+* [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_35.md)
+* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_36.md)
+* [Massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_38.md)
+
 ## Category to which it belongs
 
 * [Enhancing digital connectivity through internet-based communication, networking platforms, and wireless data transmission for efficient collaboration and reliable connectivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
@@ -21,5 +27,5 @@
 
 ## This Technology enables the following mitigations
 
-* [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1890.md)
+* [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_34.md)
 

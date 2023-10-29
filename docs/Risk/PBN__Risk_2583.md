@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_531.md)
+* [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3581.md)
 

@@ -17,7 +17,7 @@
 * [Prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_827.md)
 * [Implement public health measures, such as social distancing and proper hygiene protocols, invest in healthcare infrastructure and resources, and promote vaccination and disease surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2629.md)
 * [Educate the public about disease prevention, promote awareness campaigns, provide accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1954.md)
-* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3128.md)
+* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5290.md)
 
 ## Benefits linked to a risk
 

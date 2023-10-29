@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2680 
 
-# __Portable air filtration devices__
+# __Controlling probability of contact__
 
 ## Category to which it belongs
 
-* [Enhanced air purification using high-efficiency filters and ventilation systems, including portable devices and hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2668.md)
-* [Portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2023.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1691.md)
-* [Advanced air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2670.md)
-* [Use of portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2656.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
-* [Enhanced air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1194.md)
-* [High-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2653.md)
-* [Improved air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1600.md)
-* [Implementation of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2673.md)
+* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2681.md)
+* [Reduced physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2682.md)
+* [Contact-reducing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2683.md)
+* [Risk reduction in face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2684.md)
+* [Physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2685.md)
+* [Contact tracing and control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2686.md)
+* [Contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1449.md)
+* [Physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1921.md)
+* [Crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_231.md)
+* [Regular cleaning and disinfection, minimizing contact with high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2687.md)
 

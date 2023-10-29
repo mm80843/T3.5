@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2350.md)
+* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5217.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_427.md)
 

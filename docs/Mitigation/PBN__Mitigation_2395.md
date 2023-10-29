@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2395 
 
-# __Increased outdoor air__
+# __Sop compliance__
 
 ## Category to which it belongs
 
-* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Increase outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_711.md)
-* [Increased outdoor air supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1387.md)
-* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1377.md)
-* [Increase outdoor air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1331.md)
-* [Increased outside air fraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_536.md)
-* [Increase outdoor air in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2681.md)
-* [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2682.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1043.md)
-* [Increased outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_140.md)
-* [Improve indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2725.md)
-
-## Property: has_MitigationPrinciple
-
-Increasing outdoor air ventilation dilutes the contaminated room air, reducing occupants' infection risk
-
-## Risks possibly mitigated by this Mitigation
-
-* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
-
-## Property: has_MitigationSource
-
-* [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2416.md)
+* [Clear sop guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1019.md)
+* [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3005.md)
+* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3385.md)
+* [High costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1710.md)
+* [Data protection compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3246.md)
+* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
+* [Compliance, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3497.md)
+* [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_954.md)
+* [Importance of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3382.md)
+* [Low compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1963.md)
 

@@ -63,8 +63,8 @@ Increased risk of infection and spread
 
 ## Technologies linked to the risk
 
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
 
 ## Property: has_RiskType
 

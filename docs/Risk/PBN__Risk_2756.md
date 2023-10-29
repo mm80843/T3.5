@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_871.md)
+* [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3880.md)
 

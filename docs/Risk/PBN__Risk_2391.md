@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_39.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3153.md)
 

@@ -13,7 +13,7 @@
 * [Diversifying supply chains, increasing local production, implementing alternative sourcing strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2449.md)
 * [Diversify suppliers, build buffer stock, local production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1527.md)
 * [Diversifying suppliers and exploring local sourcing options, establishing alternative supply chains, and improving communication and coordination with suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2673.md)
-* [Industry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3146.md)
+* [Industry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5305.md)
 * [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1014.md)
 * [Develop cost-effective and scalable production methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1580.md)
 * [Diversify supply chains, localize production, enhance transparency and resilience in supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2902.md)

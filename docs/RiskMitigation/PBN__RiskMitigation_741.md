@@ -15,9 +15,9 @@
 * [Suspension of intracity public transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_956.md)
 * [Transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_490.md)
 * [Implementing transportation equity measures, prioritizing affordable and accessible public transport options in underserved areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2535.md)
-* [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3181.md)
+* [Transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5337.md)
 * [Improve public transportation infrastructure, increase capacity, enforce social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2197.md)
-* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3184.md)
+* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5340.md)
 
 ## Benefits linked to a risk
 

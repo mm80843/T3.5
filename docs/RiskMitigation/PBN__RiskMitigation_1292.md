@@ -2,6 +2,10 @@
 
 # __Improvement of air quality__
 
+## Link between Blueprint and General ontology
+
+* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_0.md)
+
 ## Category to which it belongs
 
 * [Improving air quality through enhanced ventilation systems, increased fresh air intake, and the use of air purifiers and filters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_500.md)

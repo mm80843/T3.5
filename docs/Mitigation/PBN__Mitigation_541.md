@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_541 
 
-# __Spatial configuration promoting social distancing__
+# __Cash payments to vulnerable groups__
 
 ## Category to which it belongs
 
-* [Promoting social distancing, equality, norms, interaction, and facilitation of social spaces to address societal issues and inequalities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Maintaining social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2441.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2440.md)
-* [Accessible open green space and adherence to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3225.md)
-* [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2445.md)
-* [Redesigning and reorganizing interior spaces to accommodate for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3226.md)
-* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1237.md)
-* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3227.md)
-* [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2444.md)
-* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3228.md)
-
-## Property: has_MitigationPrinciple
-
-Reduces close interactions between individuals, minimizing the potential for viral transmission.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2521.md)
+* [Cash payments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_536.md)
+* [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3090.md)
+* [Cash transfers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_537.md)
+* [Cash donations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_534.md)
+* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3088.md)
+* [Improve cashflow management, seek financial assistance and government support, renegotiate contracts.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3269.md)
+* [Implement social protection programs and financial incentives to support vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_527.md)
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1739.md)
+* [Special access and spaces for vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3087.md)
+* [Short-term cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3695.md)
 

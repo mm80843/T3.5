@@ -40,19 +40,19 @@ Borders and Catastrophe: lessons from COVID-19 for the European Green Deal
 
 ## This article points to following mitigation
 
-* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_971.md)
-* [Just transition fund](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_977.md)
-* [Wealth tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_976.md)
-* [Strengthened carbon tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_975.md)
-* [Financial reforms to enable innovative and socially directed investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_974.md)
-* [Carbon border tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_978.md)
-* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_979.md)
-* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_970.md)
-* [Strengthening the european centre for disease control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_972.md)
-* [Creation of resceu stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_973.md)
-* [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_980.md)
-* [Common debt issuance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_981.md)
-* [Supporting access to technology and capital goods in global south](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_982.md)
+* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3971.md)
+* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3972.md)
+* [Strengthening the european centre for disease control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3973.md)
+* [Creation of resceu stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3974.md)
+* [Financial reforms to enable innovative and socially directed investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3975.md)
+* [Strengthened carbon tax](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3976.md)
+* [Wealth tax](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3977.md)
+* [Just transition fund](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3978.md)
+* [Carbon border tax](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3979.md)
+* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3980.md)
+* [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3981.md)
+* [Common debt issuance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3982.md)
+* [Supporting access to technology and capital goods in global south](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3983.md)
 
 ## This article mentions these technologies
 

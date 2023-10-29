@@ -67,8 +67,8 @@ Increased risk of infection for individuals not adequately protected
 ## Technologies linked to the risk
 
 * [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1051.md)
-* [Face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_484.md)
 * [Gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_485.md)
+* [Face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_484.md)
 
 ## Property: has_RiskType
 

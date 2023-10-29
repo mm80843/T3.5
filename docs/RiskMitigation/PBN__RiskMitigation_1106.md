@@ -2,14 +2,19 @@
 
 # __Facilitating transparent communication and preventing spread of fake news__
 
+## Link between Blueprint and General ontology
+
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_36.md)
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_37.md)
+
 ## Category to which it belongs
 
 * [Enhance collaborative and resilient communication, establish effective channels, and address public concerns to mitigate risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_479.md)
 
 ## Closest similar item
 
-* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3224.md)
-* [Prevent fake news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3391.md)
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5375.md)
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5525.md)
 * [Ensure clear communication from health authorities, combat fake news and rumors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1841.md)
 * [Promote transparent communication and accurate reporting; combat misinformation through fact-checking and verification systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2695.md)
 * [Ensure consistent and transparent communication, address public concerns and questions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2403.md)

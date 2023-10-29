@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Monitoring traffic patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_898.md)
+* [Monitoring traffic patterns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3905.md)
 

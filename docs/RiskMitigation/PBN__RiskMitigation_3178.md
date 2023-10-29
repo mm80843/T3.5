@@ -1,21 +1,22 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3178 
 
-# __Urban planning strategies for incorporating green spaces__
+# __Outdoor activity spaces__
 
-## Category to which it belongs
+## Link between Blueprint and General ontology
 
-* [Promote forest conservation, sustainable land use, and equitable access to urban green spaces for a greener and healthier environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_483.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_25.md)
 
-## Closest similar item
+## Property: has_MitigationPrinciple
 
-* [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_167.md)
-* [Create and maintain green spaces in urban areas, prioritize green space in urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1470.md)
-* [Incorporate green spaces, such as parks and green roofs, into urban planning and development projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2241.md)
-* [Improve access to and availability of green spaces in built environments through urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2069.md)
-* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_171.md)
-* [Incorporate diverse types of green spaces in urban planning and design, prioritize the creation of green spaces with diverse vegetation and design features](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2070.md)
-* [Implement policies to incentivize and require green space in urban planning, integrate green space into land use plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1473.md)
-* [Incorporate green elements in urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1783.md)
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3226.md)
-* [Incorporate green space quality assessments into urban planning, prioritize the preservation of high-quality green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1872.md)
+The availability and accessibility of outdoor spaces in residential areas, rural areas, and houses with more space, which can support physical activities and help maintain or increase exercise levels during the pandemic.
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationSource
+
+* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
+
+## This Mitigation is enabled by the following technologies
+
 

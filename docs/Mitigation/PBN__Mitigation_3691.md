@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3691 
 
-# __Designing containment space in residential buildings__
+# __Address biases in knowledge representation__
 
 ## Category to which it belongs
 
-* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
+* [Promote trust, combat misinformation, and provide accurate and reliable information through evidence-based sources and transparent communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
-* [Containment spaces in hospitals and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3690.md)
-* [Incorporate proper building design strategies for ventilation, airflow, and social distancing. design buildings with adequate space for ventilation and airflow.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3994.md)
-* [Retrofitting existing buildings with containment space, additional wet cells, and compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3699.md)
-* [Containment space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1949.md)
-* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2804.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3314.md)
-* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2061.md)
-* [Isolation space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_141.md)
-* [Creating isolation room](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2715.md)
-* [Specific approaches for containment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2989.md)
+* [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2173.md)
+* [Biased risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1741.md)
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
+* [Relational capability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3479.md)
+* [Knowledge extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2920.md)
+* [Open, accurate, and consistent messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2174.md)
+* [Targeted, tailored messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2980.md)
+* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2087.md)
+* [Expert system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3841.md)
+* [Access to accurate and reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_881.md)
 

@@ -16,8 +16,13 @@
 * [Regular cleaning and disinfection of frequently touched surfaces, promoting hand hygiene, and providing hand sanitizers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2501.md)
 * [Promote and enforce proper hand hygiene practices, provide hand sanitizing stations throughout the building.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2180.md)
 * [Regular and thorough cleaning and disinfection of surfaces, promote hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2379.md)
-* [Hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3308.md)
+* [Hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5449.md)
 * [Implementing and enforcing comprehensive hygiene and cleanliness protocols, including regular cleaning and disinfection, hand hygiene stations, and proper waste disposal.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2676.md)
+
+## Blueprints with this mitigation
+
+* [Good hand hygiene practice](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_14.md)
+* [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
 
 ## Risks possibly mitigated by this Mitigation
 

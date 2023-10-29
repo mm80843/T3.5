@@ -14,7 +14,7 @@
 * [Cancellation of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_434.md)
 * [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1414.md)
 * [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1704.md)
-* [Outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3355.md)
+* [Outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5492.md)
 * [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2019.md)
 * [Implement social distancing measures, crowd control, and capacity regulations in public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2276.md)
 * [Maintain physical distance, wear masks, practice proper hygiene, and avoid large gatherings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2755.md)
@@ -23,7 +23,19 @@
 
 * [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
 
+## Property: has_MitigationPrinciple
+
+Restricting events and gatherings reduces the chance of transmission of respiratory infections
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Community mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_405.md)
+* [High rates of transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2606.md)
+
+## Property: has_MitigationSource
+
+* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
+
+## This Mitigation is enabled by the following technologies
+
 

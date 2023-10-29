@@ -43,7 +43,7 @@ Restriction of access to healthcare services and limited in-person consultations
 
 * [Implement telehealth and telemedicine systems; increase healthcare infrastructure capacity; ensure access to essential healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2694.md)
 * [Implementation of telemedicine consultation approaches, remote consultation solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2595.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3247.md)
 
 ## Name of the risk
 
@@ -68,9 +68,9 @@ Delayed diagnosis and treatment, increased burden on healthcare system, reduced 
 
 ## Technologies linked to the risk
 
-* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
 * [Video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
 * [Remote consultation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1422.md)
 
 ## Property: has_RiskType

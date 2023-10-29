@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Seeking appropriate assistance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1567.md)
+* [Seeking appropriate assistance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4517.md)
 

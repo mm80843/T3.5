@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Control airflows in spaces & Avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_4.md)
 * [Control of airflows (airtight / negative pressure)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_7.md)
+* [Control airflows in spaces & Avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_4.md)
 

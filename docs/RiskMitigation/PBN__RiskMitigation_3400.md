@@ -1,21 +1,19 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3400 
 
-# __Hand hygiene stations__
+# __Global positioning system gps__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Promote and enforce comprehensive hygiene practices, including sanitation measures, handwashing, and cleanliness protocols.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_492.md)
+Used for contact tracing and notifying individuals of potential virus exposure and infection based on location data.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3308.md)
-* [Hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3020.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
-* [Performing hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1266.md)
-* [Provide access to hand hygiene stations, improve sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1968.md)
-* [Ensuring the availability of hand hygiene facilities handwashing stations or sanitizer dispensers , regular cleaning and disinfection of surfaces, and proper waste management.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2232.md)
-* [Hand hygiene guidance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3307.md)
-* [Education and awareness campaigns, providing access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2017.md)
-* [Regular cleaning, hand hygiene, disinfection protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2235.md)
-* [Provide an adequate number of hand washing stations and sanitizers at multiple locations on construction sites, and require regular hand hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1653.md)
+
+## Property: has_MitigationSource
+
+* [Wearable technology and COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_195.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2386.md)
 

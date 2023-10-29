@@ -19,6 +19,10 @@
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)
 * [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
 
+## Blueprints with this mitigation
+
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)

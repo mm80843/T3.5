@@ -33,7 +33,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Two-way communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_374.md)
+* [Two-way communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3444.md)
 
 ## Risks linked to this technology
 

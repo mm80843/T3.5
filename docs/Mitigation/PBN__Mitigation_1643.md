@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1643 
 
-# __Assessing the possibility of late or halted deliveries of materials__
+# __Environmental measures__
 
 ## Category to which it belongs
 
-* [Promoting resilience and efficiency in global supply chains through diversification, optimization, and strategic coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_154.md)
+* [Implement comprehensive measures to address and mitigate risks, ensure public safety, and promote preventive behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
 
 ## Closest similar item
 
-* [Management of deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
-* [Caution in receiving deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1523.md)
-* [Prioritizing shipments of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1449.md)
-* [Ensure timely and appropriate distribution of supplies and address needs effectively.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3532.md)
-* [Resume material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_964.md)
-* [Material shortage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4042.md)
-* [Shortage of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4043.md)
-* [Material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3667.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2437.md)
-* [Continuous supply of essential materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1628.md)
-
-## Property: has_MitigationPrinciple
-
-Anticipating and planning for disruptions in the supply chain to ensure a continuous flow of materials for construction projects
-
-## Risks possibly mitigated by this Mitigation
-
-* [Material shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3167.md)
-
-## Property: has_MitigationSource
-
-* [Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_220.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Supply chain monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3219.md)
+* [Monitoring environmental indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2295.md)
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_427.md)
+* [Implement measures to reduce air pollution, promote clean energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1648.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2296.md)
+* [Reduced environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1640.md)
+* [Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1169.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_956.md)
+* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2297.md)
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2298.md)
+* [Green and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2106.md)
 

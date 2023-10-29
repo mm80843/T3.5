@@ -19,6 +19,10 @@
 * [Insufficient bedroom design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1870.md)
 * [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
 
+## Blueprints with this risk
+
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+
 ## Description of the risk
 
 Poorly designed buildings with inadequate airflow and insufficient space for social distancing can increase the risk of disease transmission.

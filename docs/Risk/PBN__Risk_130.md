@@ -19,6 +19,10 @@
 * [Existing poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_854.md)
 * [Lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1869.md)
 
+## Blueprints with this risk
+
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
+
 ## Mitigations of this risk
 
 * [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_154.md)

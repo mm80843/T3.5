@@ -1,21 +1,22 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3230 
 
-# __Targeted outreach to disadvantaged communities__
+# __Flexible working arrangements__
 
-## Category to which it belongs
+## Blueprints with this mitigation
 
-* [Promote knowledge sharing, raise public awareness, and combat misinformation through education and communication campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_474.md)
+* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
 
-## Closest similar item
+## Property: has_MitigationPrinciple
 
-* [Targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3241.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_662.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3228.md)
-* [Outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3352.md)
-* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3273.md)
-* [Community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3229.md)
-* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_132.md)
-* [Implement targeted interventions and resources in areas with high risk factors, such as increased access to healthcare services, targeted education campaigns, and economic support for affected populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1850.md)
-* [Develop outreach programs to encourage park use among underrepresented populations.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2153.md)
-* [Provide targeted support and resources to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3047.md)
+Offering flexible working arrangements, such as remote work options, can help individuals maintain work-life balance and reduce stress during quarantine periods.
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationSource
+
+* [COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_254.md)
+
+## This Mitigation is enabled by the following technologies
+
 

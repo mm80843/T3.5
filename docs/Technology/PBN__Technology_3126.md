@@ -2,6 +2,13 @@
 
 # __Anti-bacterial__
 
+## Link between Blueprint and General ontology
+
+* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_252.md)
+* [Antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_253.md)
+* [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_254.md)
+* [Anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_255.md)
+
 ## Category to which it belongs
 
 * [Innovative technologies and materials combat pathogens, enhance disinfection, and advance research in antiviral therapies and detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
@@ -21,5 +28,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Use of specific medicines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1514.md)
+* [Use of specific medicines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4470.md)
 

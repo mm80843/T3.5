@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Immediate consequences messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_670.md)
+* [Immediate consequences messaging](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3700.md)
 

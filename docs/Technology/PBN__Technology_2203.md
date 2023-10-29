@@ -2,6 +2,10 @@
 
 # __Construction materials and equipment__
 
+## Link between Blueprint and General ontology
+
+* [Construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_206.md)
+
 ## Category to which it belongs
 
 * [Building design and construction practices prioritize sustainability, incorporate innovative technology, and consider social equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)
+* [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3213.md)
 

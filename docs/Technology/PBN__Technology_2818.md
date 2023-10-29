@@ -2,6 +2,18 @@
 
 # __Supply chains__
 
+## Link between Blueprint and General ontology
+
+* [Supply chain mapping and visualization tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_94.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_4.md)
+* [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_105.md)
+* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_225.md)
+* [Logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_100.md)
+* [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_99.md)
+* [Digital supply chain platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_64.md)
+* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_237.md)
+* [Supply chain design software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_98.md)
+
 ## Category to which it belongs
 
 * [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
@@ -21,5 +33,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Re-shoring of critical energy industries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
+* [Re-shoring of critical energy industries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4026.md)
 

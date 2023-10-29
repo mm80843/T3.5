@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_878 
 
-# __Induction process online__
+# __Use reliable sources__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Promote trust, combat misinformation, and provide accurate and reliable information through evidence-based sources and transparent communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
-* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_927.md)
-* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2762.md)
-* [Online supervised exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_70.md)
-* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_327.md)
-* [Data mining and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_167.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3412.md)
-* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_589.md)
-* [Proactive case finding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2250.md)
-* [Smart learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_366.md)
-* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3022.md)
-
-## Property: has_MitigationPrinciple
-
-Allows for new staff members to receive necessary information remotely and reduces the risk of virus transmission
-
-## Risks possibly mitigated by this Mitigation
-
-* [Inability to conduct in-person induction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2763.md)
-
-## Property: has_MitigationSource
-
-* [The impact of COVID-19 outbreak on United Kingdom infrastructure sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_141.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
+* [Promote reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_879.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_875.md)
+* [Promote reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_876.md)
+* [Verify sources and rely on accurate, evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2949.md)
+* [Reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1583.md)
+* [Promote fact-checking and reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2952.md)
+* [Provide accurate and evidence-based information through trusted sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2950.md)
+* [Promote fact-checking and accuracy in sharing information, educate the public on reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2791.md)
+* [Access to accurate and reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_881.md)
+* [Fact-checking, reliable sources, education on identifying misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2951.md)
 

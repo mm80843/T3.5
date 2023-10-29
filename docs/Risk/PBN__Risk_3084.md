@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1507.md)
+* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4464.md)
 

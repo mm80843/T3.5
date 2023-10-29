@@ -2,6 +2,11 @@
 
 # __Biotechnology__
 
+## Link between Blueprint and General ontology
+
+* [Biophilic desing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_30.md)
+* [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_194.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
+* [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3120.md)
 

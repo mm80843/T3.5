@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3084 
 
-# __Increase access to green spaces, promote urban greening initiatives, create more parks and gardens__
+# __Social distancing in workplace design__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [Promoting social distancing, equality, norms, interaction, and facilitation of social spaces to address societal issues and inequalities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
-* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2756.md)
-* [Increase access to private gardens, allocate dedicated time slots for outdoor activities, create temporary green spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3829.md)
-* [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3087.md)
-* [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3085.md)
-* [Implement urban greening initiatives to create and enhance green spaces in highly urbanized areas, consider green roofs and vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3428.md)
-* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3086.md)
-* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3440.md)
-* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3189.md)
-* [Conservation and promotion of urban green spaces as part of public policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1179.md)
-* [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3188.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
+* [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_56.md)
+* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2015.md)
+* [Maintaining social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_57.md)
+* [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_60.md)
+* [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
+* [Reduced social interaction due to social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2016.md)
+* [Social distancing guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_385.md)
+* [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_64.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
 

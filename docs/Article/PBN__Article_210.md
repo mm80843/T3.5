@@ -41,12 +41,12 @@ Covid-19 Associated Risks and Mitigation Strategies relevant for the UK Construc
 
 ## This article points to following mitigation
 
-* [Standard working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_493.md)
-* [Better communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_495.md)
-* [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_496.md)
-* [Offsite construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_494.md)
-* [Second shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_497.md)
-* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
+* [Offsite construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1012.md)
+* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1015.md)
+* [Standard working procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3550.md)
+* [Better communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3551.md)
+* [Detailed and better task planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3552.md)
+* [Second shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3553.md)
 
 ## This article mentions these technologies
 

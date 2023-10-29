@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Technology and innovation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1761.md)
+* [Technology and innovation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4697.md)
 

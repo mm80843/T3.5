@@ -13,8 +13,8 @@ Antiviral coatings can disrupt and minimize the survival time of the virus on su
 
 ## Articles mentionning this Benefit
 
-* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
 * [COVID-19 and its Modes of Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_225.md)
+* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
 
 ## Stakeholders benefitting from this Benefit
 

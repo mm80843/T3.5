@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4105 
 
-# __Retailers should prioritize the use of professional signs for important and standardized messaging, and remove or update informal signs to avoid confusion.__
+# __Maintaining immunosuppression in liver transplant recipients__
 
 ## Category to which it belongs
 
-* [Effective, transparent, and targeted communication strategies are crucial for global coordination, cooperation, and risk prevention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
+* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Retailers should use professional signage on durable materials with clear and readable fonts, and regularly check and replace damaged or faded signs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3897.md)
-* [Use of standardized signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3648.md)
-* [Use of professional signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3647.md)
-* [Retail store signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1222.md)
-* [Professional signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
-* [Informal signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1223.md)
-* [Health and safety rule signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1837.md)
-* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1785.md)
-* [Early serving of notices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
-* [Signage for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3611.md)
+* [Improved recovery of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2372.md)
+* [Stocking up on necessary medical supplies, personal protective equipment, and establishing protocols for infection control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2375.md)
+* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
+* [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2774.md)
+* [Air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3531.md)
+* [Vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_143.md)
+* [Vaccine production and distribution improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2373.md)
+* [Air purifier with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3532.md)
+* [Preventive vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_148.md)
+* [Non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1172.md)
 

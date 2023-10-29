@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2393.md)
+* [Cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5259.md)
 

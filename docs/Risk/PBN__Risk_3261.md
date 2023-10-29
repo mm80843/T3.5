@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Tracking plans for universal energy access and sdg7](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1926.md)
+* [Tracking plans for universal energy access and sdg7](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4848.md)
 

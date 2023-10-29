@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2657 
 
-# __Portable room air cleaners__
+# __Resilience building__
 
 ## Category to which it belongs
 
-* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
+* [Build resilience, ensure food supply, manage crises, and enhance emergency plans for a sustainable and inclusive future.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
-* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1329.md)
-* [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_714.md)
-* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
-* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1354.md)
-* [Use portable room air cleaners with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2658.md)
-* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1327.md)
-* [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1379.md)
-* [Portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2023.md)
-* [Cleaning air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2235.md)
-* [Use of portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2656.md)
+* [Building resilience measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3461.md)
+* [Development of resilience strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3498.md)
+* [Resilient approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1933.md)
+* [Resilience, flexibility, and emotional regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3499.md)
+* [Affordable housing with resilient building typologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2630.md)
+* [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3500.md)
+* [Gaps in capacity and resilience across industries and organizations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3361.md)
+* [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2666.md)
+* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3501.md)
+* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2500.md)
 

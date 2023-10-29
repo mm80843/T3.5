@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Regulatory adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_888.md)
+* [Regulatory adaptation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3895.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Regular exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1206.md)
+* [Regular exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4190.md)
 

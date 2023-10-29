@@ -19,6 +19,10 @@
 * [Ineffective use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
 * [Shortages of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_478.md)
 
+## Blueprints with this risk
+
+* [Tracking and enforcing use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
+
 ## Description of the risk
 
 Insufficient availability and use of PPE among individuals in the facility, increasing the risk of disease transmission

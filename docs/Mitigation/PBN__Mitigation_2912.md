@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2912 
 
-# __Communication technologies__
+# __Ontology matching__
 
 ## Category to which it belongs
 
-* [The advancement and adoption of various technological innovations and tools for communication, healthcare, work, and daily life.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
+* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
-* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2914.md)
-* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2094.md)
-* [Enhanced communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2367.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3300.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1036.md)
-* [Information communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1425.md)
-* [Technology for remote communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3301.md)
-* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1665.md)
-* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2915.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3136.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2910.md)
+* [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3278.md)
+* [Ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2913.md)
+* [Existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2911.md)
+* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
+* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2916.md)
+* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2914.md)
+* [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2173.md)
+* [Ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2915.md)
+* [Established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2918.md)
 

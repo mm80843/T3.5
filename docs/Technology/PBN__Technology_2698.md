@@ -2,6 +2,11 @@
 
 # __Camera__
 
+## Link between Blueprint and General ontology
+
+* [Video cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_180.md)
+* [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_97.md)
+
 ## Category to which it belongs
 
 * [Enhanced visual monitoring technology for communication, collaboration, data collection, and security purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_812.md)
+* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3828.md)
 

@@ -9,8 +9,8 @@
 ## Closest similar item
 
 * [Provision of mental health support services, remote counseling, awareness campaigns, and community support programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2769.md)
-* [Community support programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3227.md)
-* [Community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3229.md)
+* [Community support programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5377.md)
+* [Community outreach programs for social support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5379.md)
 * [Financial support, loans, grants, and stimulus packages for businesses. support for transitioning to online sales and remote work.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2836.md)
 * [Provide mental health support services, financial assistance programs, and social support networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2278.md)
 * [Establish government support programs, provide financial assistance and relief measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2824.md)

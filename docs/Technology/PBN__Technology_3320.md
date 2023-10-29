@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Automatic doors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1799.md)
+* [Automatic doors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4735.md)
 

@@ -11,7 +11,7 @@
 * [Promotion of virtual communication and digital technologies for social interaction, designated public spaces that allow for safe socializing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2651.md)
 * [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_155.md)
 * [Encourage safe and responsible use of public spaces through education and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1979.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3287.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5430.md)
 * [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2763.md)
 * [Develop new typologies to describe public spaces in terms of social distancing and health risks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1974.md)
 * [Increase access to parks and greenspaces in socially vulnerable communities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2154.md)

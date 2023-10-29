@@ -44,11 +44,11 @@ Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Ge
 
 ## This article points to following mitigation
 
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_135.md)
-* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1351.md)
-* [Dilution and removal of infectious particles in room air through ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1352.md)
-* [Upper room germicidal uv fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1353.md)
-* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1354.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3237.md)
+* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4319.md)
+* [Dilution and removal of infectious particles in room air through ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4320.md)
+* [Upper room germicidal uv fixtures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4321.md)
+* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4322.md)
 
 ## This article mentions these technologies
 

@@ -45,12 +45,12 @@ COVID-19: Risk assessment and mitigation measures in healthcare and non-healthca
 
 ## This article points to following mitigation
 
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_524.md)
-* [Transmission chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_613.md)
-* [Negative pressure aiirs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_615.md)
-* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_614.md)
-* [Safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_617.md)
-* [Surge capacity planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_616.md)
+* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3648.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3575.md)
+* [Transmission chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3647.md)
+* [Negative pressure aiirs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3649.md)
+* [Surge capacity planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3650.md)
+* [Safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3651.md)
 
 ## This article mentions these technologies
 

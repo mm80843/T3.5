@@ -19,6 +19,14 @@
 * [Spread of covid-19 in urban public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_27.md)
 * [Transmission of infectious diseases in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_943.md)
 
+## Blueprints with this risk
+
+* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
+* [Adapted architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_2.md)
+* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+
 ## Mitigations of this risk
 
 * [Modify office building design and layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_603.md)

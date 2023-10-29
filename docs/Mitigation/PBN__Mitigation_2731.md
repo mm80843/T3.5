@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2731 
 
-# __Implement iaq monitoring systems to continuously measure and analyze indoor air quality parameters.__
+# __Covering high-touch surfaces with antimicrobial material__
 
 ## Category to which it belongs
 
-* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
+* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
 
 ## Closest similar item
 
-* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1392.md)
-* [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2615.md)
-* [Monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_891.md)
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2614.md)
-* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_169.md)
-* [Indoor environment quality ieq monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_336.md)
-* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2064.md)
-* [Indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1262.md)
-* [Improve indoor air quality by addressing pollution sources, ventilation, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2616.md)
-* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_470.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2342.md)
+* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1303.md)
+* [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2343.md)
+* [Regular cleaning and disinfection, minimizing contact with high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2687.md)
+* [Regular and thorough disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2338.md)
+* [Regular disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1317.md)
+* [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2341.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1302.md)
+* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2797.md)
+* [Antimicrobial indoor finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3095.md)
 

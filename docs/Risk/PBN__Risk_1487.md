@@ -43,7 +43,7 @@ Overcrowding in public places and buildings
 
 * [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2019.md)
 * [Limit occupancy in buildings, enforce physical distancing measures, stagger work and class schedules.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2547.md)
-* [Limited occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_813.md)
+* [Limited occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3829.md)
 
 ## Name of the risk
 

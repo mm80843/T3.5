@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4027 
 
-# __Temporary closure of access points, visible and easily manageable primary access node.__
+# __Adequate planning of infrastructural facilities__
 
 ## Category to which it belongs
 
-* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
+* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
-* [Limited access nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_399.md)
-* [Controlling access points](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_290.md)
-* [Limiting access nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3178.md)
-* [Limited access nodes for better management of public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3180.md)
-* [Temporary closure of non-essential public places until recovery is reached.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3927.md)
-* [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_406.md)
-* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1427.md)
-* [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4029.md)
-* [Controlled visitor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_154.md)
-* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2334.md)
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_822.md)
+* [Inadequate facility design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3418.md)
+* [Infrastructure development and planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3102.md)
+* [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2813.md)
+* [Spatial planning considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2028.md)
+* [Facility management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2645.md)
+* [Planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_826.md)
+* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2309.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_824.md)
+* [Incorporate placemaking and public place design in spatial planning, include hygiene development and spatial use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4028.md)
 

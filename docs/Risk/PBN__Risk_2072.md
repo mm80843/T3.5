@@ -63,8 +63,8 @@ Inability to access 5G services and applications
 
 ## Technologies linked to the risk
 
-* [Purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1585.md)
 * [L5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
+* [Purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1585.md)
 
 ## Property: has_RiskType
 

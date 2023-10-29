@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Control of indoor temperatures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1705.md)
+* [Control of indoor temperatures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4644.md)
 

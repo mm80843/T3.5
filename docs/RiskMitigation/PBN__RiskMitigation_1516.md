@@ -14,7 +14,7 @@
 * [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2054.md)
 * [Provide relief measures and financial support to manufacturing businesses, explore alternative supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2391.md)
 * [Diversifying suppliers and exploring local sourcing options, establishing alternative supply chains, and improving communication and coordination with suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2673.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3147.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5306.md)
 * [Diversify sources of imports, restructure supply chains, increase domestic manufacturing capacity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2948.md)
 * [Diversifying supply chains and promoting domestic production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2608.md)
 * [Diversification of supply chains, local production capabilities, and contingency planning for disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2773.md)

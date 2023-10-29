@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Web platform for data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_683.md)
+* [Web platform for data visualization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3712.md)
 

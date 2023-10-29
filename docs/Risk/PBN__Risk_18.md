@@ -2,6 +2,10 @@
 
 # __Urban activities__
 
+## Link between Blueprint and General ontology
+
+* [Activities continuity](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_8.md)
+
 ## Category to which it belongs
 
 * [Overpopulated urban areas create spatial inequalities, poor living conditions, and increased risks for diseases and biodiversity loss.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)

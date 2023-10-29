@@ -13,7 +13,7 @@
 * [Decentralizing data ownership and establishing secure transmission of biometric data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_950.md)
 * [Clear guidelines and regulations on data usage, decentralization of data ownership.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1682.md)
 * [Implement strong data protection measures, ensure transparency and consent, use decentralized and secure systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2272.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3149.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5308.md)
 * [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1440.md)
 * [Implement measures to reduce population density, such as decentralization and expanding horizontally](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2300.md)
 * [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_61.md)
@@ -23,7 +23,19 @@
 
 * [Health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_523.md)
 
+## Property: has_MitigationPrinciple
+
+Promoting development horizontally and maintaining lower density to reduce the vulnerability of high-density districts to the transmission of communicable diseases.
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
 * [Spread of infections and diseases in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1010.md)
+
+## Property: has_MitigationSource
+
+* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
+
+## This Mitigation is enabled by the following technologies
+
 

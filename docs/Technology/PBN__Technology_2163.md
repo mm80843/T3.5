@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Drug modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
+* [Drug modelling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3168.md)
 

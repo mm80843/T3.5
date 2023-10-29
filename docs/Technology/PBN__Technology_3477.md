@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1796.md)
+* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4732.md)
 

@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_652 
 
-# __Case isolation__
+# __Avoidance of air recirculation__
 
 ## Category to which it belongs
 
-* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
+* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
-* [Partial isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1857.md)
-* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
-* [Suspected and confirmed cases isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2033.md)
-* [Identification and isolation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1232.md)
-* [Enhanced isolation of suspected cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1238.md)
-* [Isolation of suspected or confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1299.md)
-* [Home isolation of suspect cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3291.md)
-* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_432.md)
-* [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2024.md)
-* [Isolation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1432.md)
-
-## Property: has_MitigationPrinciple
-
-Isolate individuals with symptoms to reduce transmission
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
-* [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_651.md)
+* [Adequate air exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_654.md)
+* [Increase ventilation rates, modify ventilation systems, avoid air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_653.md)
+* [Regular air changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_655.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_609.md)
+* [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
+* [Increase outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_658.md)
+* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_739.md)
+* [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
+* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_602.md)
 

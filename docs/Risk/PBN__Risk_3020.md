@@ -19,7 +19,11 @@
 * [Discharge of dirt and dust into occupied spaces during cleaning of hvac systems and ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3012.md)
 * [Lack of air disinfection in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_274.md)
 
+## Blueprints with this risk
+
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
+
 ## Mitigations of this risk
 
-* [Avoidance of air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1391.md)
+* [Avoidance of air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4356.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2446 
 
-# __Social distancing challenges__
+# __Proper coughing and sneezing techniques__
 
 ## Category to which it belongs
 
-* [Promoting social distancing, equality, norms, interaction, and facilitation of social spaces to address societal issues and inequalities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
+* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3227.md)
-* [Social distancing impact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2443.md)
-* [Maintaining social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2441.md)
-* [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2440.md)
-* [Social distancing guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_143.md)
-* [Lack of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2566.md)
-* [Lack of proper social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2445.md)
-* [Non-compliance with social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2512.md)
-* [Inadequate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2442.md)
+* [Cough and sneeze etiquette](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2447.md)
+* [Respiratory etiquette](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2448.md)
+* [Respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2449.md)
+* [Encouraging the use of face masks, practicing respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2450.md)
+* [Wearing face masks, practicing physical distancing, using respiratory hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2451.md)
+* [Pollen allergy prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2452.md)
+* [Wearing face masks, practicing social distancing, and promoting good respiratory hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2453.md)
+* [Improve ventilation systems, increase fresh air supply, and use air filters to reduce the spread of airborne particles.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_656.md)
+* [Proper ventilation and filtration to reduce the concentration of airborne viral particles.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_695.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2454.md)
 

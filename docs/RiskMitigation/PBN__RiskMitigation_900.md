@@ -17,7 +17,7 @@
 * [Provide mental health support services, such as counseling and helplines, to individuals in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2275.md)
 * [Monitor reactions, provide psychosocial support and assistance, modify expectations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2495.md)
 * [Implement self-health evaluation protocols, use online questionnaires or applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2793.md)
-* [Use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3299.md)
+* [Use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5440.md)
 
 ## Benefits linked to a risk
 

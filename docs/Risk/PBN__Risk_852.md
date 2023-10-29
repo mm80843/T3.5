@@ -19,6 +19,10 @@
 * [Risk of external seeding events and uncontrolled quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2098.md)
 * [Reduction in length of quarantine period](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_786.md)
 
+## Blueprints with this risk
+
+* [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
+
 ## Mitigations of this risk
 
 * [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1175.md)

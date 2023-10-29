@@ -2,6 +2,14 @@
 
 # __Robots, drones & automated vehicules__
 
+## Link between Blueprint and General ontology
+
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_149.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_53.md)
+* [Drone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_150.md)
+* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_151.md)
+* [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_155.md)
+
 ## Category to which it belongs
 
 * [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)

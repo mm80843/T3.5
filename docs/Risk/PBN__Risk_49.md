@@ -42,15 +42,15 @@ Citizens are unaware of how their personal data is collected and used for urban 
 
 ## Mitigations of this risk
 
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3272.md)
 * [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_66.md)
 * [Increase public awareness, transparency in data usage, obtain informed consent for data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1512.md)
 * [Public education campaigns, dissemination of accurate information, and awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1692.md)
 * [Increase public and professional awareness through education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2367.md)
-* [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_45.md)
-* [Converged command centres](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_103.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_176.md)
-* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1247.md)
-* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1321.md)
+* [Education programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3158.md)
+* [Converged command centres](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3210.md)
+* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4230.md)
+* [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4291.md)
 
 ## Name of the risk
 

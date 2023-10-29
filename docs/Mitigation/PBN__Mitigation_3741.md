@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3741 
 
-# __Online learning platforms, distribution of educational materials__
+# __Early serving of notices__
 
 ## Category to which it belongs
 
-* [Enhancing education access and equity through virtual learning, training programs, and closure of educational institutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Digital learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3740.md)
-* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_927.md)
-* [Virtual e-learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2050.md)
-* [Rapid development of virtual educational platforms, e-learning packages, virtual assessments.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3739.md)
-* [Online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1406.md)
-* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3414.md)
-* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3478.md)
-* [Improved online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1827.md)
-* [E-learning packages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1667.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2518.md)
+* [Early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_944.md)
+* [Immediate consequences messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3966.md)
+* [Early alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_947.md)
+* [Emergency declarations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2331.md)
+* [Timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3021.md)
+* [Retailers should prioritize the use of professional signs for important and standardized messaging, and remove or update informal signs to avoid confusion.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4040.md)
+* [Clear and timely information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
+* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1218.md)
+* [Use of standardized signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3079.md)
+* [Posting hygiene signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3076.md)
 

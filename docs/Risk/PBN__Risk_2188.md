@@ -63,8 +63,8 @@ Ensure safe disposal of potentially infected waste
 
 ## Technologies linked to the risk
 
-* [Safe management of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1765.md)
 * [Separate collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1764.md)
+* [Safe management of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1765.md)
 
 ## Property: has_RiskType
 

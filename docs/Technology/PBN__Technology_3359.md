@@ -2,6 +2,10 @@
 
 # __Massive mimo__
 
+## Link between Blueprint and General ontology
+
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
+
 ## Category to which it belongs
 
 * [Enhancing digital connectivity through internet-based communication, networking platforms, and wireless data transmission for efficient collaboration and reliable connectivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
@@ -21,6 +25,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1885.md)
-* [Scalability and qos provisioning in massive connectivity regime](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1889.md)
+* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_29.md)
+* [Scalability and qos provisioning in massive connectivity regime](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_33.md)
 

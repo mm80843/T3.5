@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_847 
 
-# __Staff compartmentalization within zones/cohorts__
+# __Medication delivery through blockchain__
 
 ## Category to which it belongs
 
@@ -8,28 +8,14 @@
 
 ## Closest similar item
 
-* [Support to overstretched staff](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1813.md)
-* [Compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1939.md)
-* [Medical staff training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1878.md)
-* [Limited space for healthcare operations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3367.md)
-* [Compartmentalization of private and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3368.md)
-* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1529.md)
-* [Stricter protective measures for icu staff](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_707.md)
-* [Predicting hospital capacity and balancing loads](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2282.md)
-* [Workforce training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3102.md)
-* [Selecting adequate ward and patient rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1080.md)
-
-## Property: has_MitigationPrinciple
-
-Dividing employees into smaller groups or cohorts (worker bubbles) to minimize interactions and potential transmission within the workplace.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_255.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Strengthen supply chains, utilize blockchain for efficient tracking and distribution of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1811.md)
+* [Blockchain-based decentralized framework for health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1829.md)
+* [Lightweight blockchain design in healthcare for optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3154.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1804.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1802.md)
+* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1803.md)
+* [Use of specific medicines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_843.md)
+* [Medical supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3123.md)
+* [Therapeutic drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_845.md)
+* [Medication prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_848.md)
 

@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1515 
 
-# __Development of vaccines__
+# __Limited diagnostic tests__
 
 ## Category to which it belongs
 
-* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
+* [Enhanced and widespread testing, utilizing various methods and technologies, to detect and diagnose covid-19 with accuracy and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2178.md)
-* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2474.md)
-* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
-* [Vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3397.md)
-* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3396.md)
-* [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3559.md)
-* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2473.md)
-* [Rapid testing and vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2880.md)
-* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2328.md)
-* [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
-
-## Property: has_MitigationPrinciple
-
-Researchers are working on developing vaccines against COVID-19. This measure aims to provide long-term immunity and protection against the virus, reducing the risk of infection and transmission.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_44.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Testing and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_174.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2556.md)
+* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1510.md)
+* [Rapid diagnosis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2558.md)
+* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3374.md)
+* [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3375.md)
+* [Extensive testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_181.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_798.md)
+* [Screening techniques for patient severity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1611.md)
+* [Implement regular and widespread symptom monitoring and testing, both symptomatic and asymptomatic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1512.md)
 

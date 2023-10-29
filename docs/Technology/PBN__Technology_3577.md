@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2191.md)
+* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5070.md)
 

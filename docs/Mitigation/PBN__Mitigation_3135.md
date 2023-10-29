@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3135 
 
-# __Adoption of digital technology__
+# __Exchange process between hospitals__
 
 ## Category to which it belongs
 
-* [The advancement and adoption of various technological innovations and tools for communication, healthcare, work, and daily life.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3134.md)
-* [Technology adoption](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1317.md)
-* [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3133.md)
-* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2402.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3136.md)
-* [Adoption of proper software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3544.md)
-* [Adoption of emerging technologies , virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3920.md)
-* [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3144.md)
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_425.md)
-* [Adoption of smart communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3570.md)
+* [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2774.md)
+* [Hospital preparation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2505.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_373.md)
+* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
+* [Field hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3469.md)
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3435.md)
+* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2506.md)
+* [Relocation of healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3470.md)
+* [Conversion of public venues into makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3471.md)
+* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_681.md)
 

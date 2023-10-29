@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1134 
 
-# __Inclusive urban planning__
+# __Standardization of analytical protocols__
 
 ## Category to which it belongs
 
-* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Enhanced urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_89.md)
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2752.md)
-* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3329.md)
-* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2751.md)
-* [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2748.md)
-* [Sustainable urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1446.md)
-* [Urban planning and design policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_742.md)
-* [Improve accessibility to ugs by creating inclusive infrastructure and providing transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3746.md)
-* [Urban planning and design to create more open space, improve infrastructure, and promote safe transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3328.md)
-* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2750.md)
-
-## Property: has_MitigationPrinciple
-
-Incorporating inclusive urban planning principles to prioritize the needs and safety of vulnerable groups, promoting community development, and ensuring resilience and sustainability.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2915.md)
-
-## Property: has_MitigationSource
-
-* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1135.md)
+* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1136.md)
+* [Standardization of protocols for seamless communication and privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
+* [Standardize data protocols, promote data sharing and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
+* [Standardized protocols and governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1139.md)
+* [Implementation of safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
+* [Standard working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1141.md)
+* [Standardizing protocols and networks for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1142.md)
+* [Reducing heterogeneity of technical standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1143.md)
+* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1012.md)
 

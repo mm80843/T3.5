@@ -38,17 +38,17 @@ Characterization and performance evaluation of a full-scale activated carbon-bas
 
 ## This article points to following mitigation
 
-* [Controlling source](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2233.md)
-* [Designing ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2234.md)
-* [Cleaning air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2235.md)
-* [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2236.md)
-* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2237.md)
+* [Controlling source](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5111.md)
+* [Designing ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5112.md)
+* [Cleaning air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5113.md)
+* [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5114.md)
+* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5115.md)
 
 ## This article mentions these technologies
 
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 * [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
 * [Energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1891.md)
 * [Maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1890.md)
 * [Activated carbon](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1889.md)

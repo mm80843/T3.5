@@ -13,7 +13,7 @@
 * [Promptly repair and maintain infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2528.md)
 * [Investment in improving housing conditions and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1501.md)
 * [Upgrading site facilities, providing handwashing stations, increasing access to restroom facilities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2563.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3155.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4431.md)
 * [Strengthening healthcare infrastructure, increasing hospital capacity, and ensuring adequate medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2717.md)
 * [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_690.md)
 * [Investing in infrastructure and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_10.md)

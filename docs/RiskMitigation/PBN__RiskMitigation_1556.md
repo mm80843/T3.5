@@ -16,7 +16,7 @@
 * [Increased testing capacity, contact tracing, and public health campaigns to promote preventive measures such as mask-wearing and social distancing can help mitigate the risk.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2163.md)
 * [Implement widespread testing and contact tracing measures, promote mask-wearing and physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1870.md)
 * [Design communal spaces that support physical distancing and social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2487.md)
-* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3200.md)
+* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5353.md)
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_498.md)
 
 ## Risks possibly mitigated by this Mitigation

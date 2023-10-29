@@ -41,19 +41,19 @@ Applications of digital technology in COVID-19 pandemic planning and response
 
 ## This article points to following mitigation
 
-* [Migration maps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2300.md)
-* [Health monitoring platform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2302.md)
-* [Data dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2303.md)
-* [Infrared thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_349.md)
-* [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2304.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1233.md)
-* [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2305.md)
-* [Bluetooth contact tracing app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2306.md)
-* [Ai-assisted ct service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2307.md)
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2310.md)
-* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2308.md)
-* [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2301.md)
-* [Broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2309.md)
+* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_638.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_441.md)
+* [Migration maps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5175.md)
+* [Health monitoring platform](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5177.md)
+* [Data dashboards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5178.md)
+* [Infrared thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3421.md)
+* [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5179.md)
+* [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5180.md)
+* [Bluetooth contact tracing app](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5181.md)
+* [Ai-assisted ct service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5182.md)
+* [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5176.md)
+* [Broadband access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5183.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5184.md)
 
 ## This article mentions these technologies
 

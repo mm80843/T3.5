@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3177 
 
-# __Implementing physical distancing measures, staggering work shifts, reducing team sizes.__
+# __Addressing disease stigma__
 
 ## Category to which it belongs
 
-* [Creating safe and spacious environments by implementing measures that promote physical distancing and isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_177.md)
+* [Promote health, educate the public, implement interventions, strengthen health systems, and exchange health information for a healthier population.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
-* [Implement physical distancing measures, reduce overcrowding, and promote remote work when possible.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3899.md)
-* [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2602.md)
-* [Implement strict social distancing protocols, including spacing out workstations, staggering breaks, and limiting the number of workers in confined spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3898.md)
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1097.md)
-* [Maintaining physical distance between workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1841.md)
-* [Provide larger units and flexible housing options to support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3562.md)
-* [Safe distancing measures in offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_879.md)
-* [Social distancing in workplace design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1791.md)
-* [Enforce strict physical distancing measures and educate people on the importance of maintaining distance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3560.md)
-* [Improved social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1237.md)
+* [Disease awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2638.md)
+* [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
+* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1334.md)
+* [Address mental health concerns, provide support through social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
+* [Raise awareness, promote inclusivity and diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3383.md)
+* [Emphasize public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2961.md)
+* [Mental and psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3170.md)
+* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
+* [Non-pharmaceutical public health interventions nphis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1332.md)
 

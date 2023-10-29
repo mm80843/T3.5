@@ -15,7 +15,7 @@
 * [Implement demand forecasting models, collaborate with suppliers and customers, increase inventory levels, enhance visibility and communication across the supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2341.md)
 * [Seek alternative markets and partners, adapt business models, leverage social capital.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2130.md)
 * [Provide financial support to affected businesses, develop alternative revenue sources.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2751.md)
-* [Marketing research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3364.md)
+* [Marketing research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5500.md)
 * [Develop and implement business continuity plans that identify potential risks and outline response strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2896.md)
 * [Provide financial support to affected businesses, encourage e-commerce and online sales, promote local shopping.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2904.md)
 

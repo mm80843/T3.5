@@ -45,16 +45,16 @@ Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings
 
 ## This article points to following mitigation
 
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_135.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
-* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1374.md)
-* [Forced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2217.md)
-* [Shut off air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2218.md)
-* [Switch off heat/cold recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2219.md)
-* [Clean and functional hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2220.md)
-* [Suitable pressure difference](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2221.md)
-* [Optimization of fresh air supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2222.md)
-* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1380.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
+* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4345.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3237.md)
+* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4340.md)
+* [Forced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5096.md)
+* [Shut off air circulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5097.md)
+* [Switch off heat/cold recovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5098.md)
+* [Clean and functional hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5099.md)
+* [Suitable pressure difference](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5100.md)
+* [Optimization of fresh air supply](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5101.md)
 
 ## This article mentions these technologies
 

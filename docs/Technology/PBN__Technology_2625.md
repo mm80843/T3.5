@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Isolation of suspected covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_708.md)
+* [Isolation of suspected covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3732.md)
 

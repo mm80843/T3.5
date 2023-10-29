@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Pattern incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
+* [Pattern incorporation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5275.md)
 

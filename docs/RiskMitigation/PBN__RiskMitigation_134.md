@@ -15,7 +15,7 @@
 * [Enhance implementation of open government projects, improve access to actionable open data, promote citizen engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1649.md)
 * [Rely on community interventions, transparency, and public engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1840.md)
 * [Increase public education and knowledge dissemination through government campaigns and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2400.md)
-* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3235.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5385.md)
 * [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_767.md)
 * [Increase public awareness through educational campaigns, provide reliable and accessible information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3088.md)
 

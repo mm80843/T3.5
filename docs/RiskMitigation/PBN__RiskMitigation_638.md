@@ -23,7 +23,21 @@
 
 * [Remote healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_640.md)
 
+## Property: has_MitigationPrinciple
+
+Remote delivery of healthcare services to reduce exposure to the virus
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+* [Misdiagnoses, privacy breaches, equipment malfunction, costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3372.md)
+
+## Property: has_MitigationSource
+
+* [Applications of digital technology in COVID-19 pandemic planning and response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_127.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
+* [Digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3647.md)
 

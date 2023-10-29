@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_785.md)
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3803.md)
 

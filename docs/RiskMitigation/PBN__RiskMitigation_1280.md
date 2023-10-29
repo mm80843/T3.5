@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Rapid diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3236.md)
-* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3365.md)
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3366.md)
-* [Rapid testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3326.md)
-* [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3237.md)
-* [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3125.md)
+* [Rapid diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5386.md)
+* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5501.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5502.md)
+* [Rapid testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5465.md)
+* [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5387.md)
+* [Rapid antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5287.md)
 * [Explore the use of additional physiological measurements to improve accuracy of diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1558.md)
 * [Patient respiratory and stool specimens testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_268.md)
 * [Early detection and rapid response systems, development of new diagnostic tools and vaccines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3056.md)
-* [Rapid testing and vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3260.md)
+* [Rapid testing and vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5408.md)
 
 ## Benefits linked to a risk
 

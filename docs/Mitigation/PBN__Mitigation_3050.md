@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3050 
 
-# __Conduct further research and studies to compare the two types of uv light for disinfection purposes.__
+# __Promote physical activity in greenspaces__
 
 ## Category to which it belongs
 
-* [Utilize uv radiation for germicidal purposes, including upper-room fixtures, aerosol chambers, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
+* [Promote and facilitate various forms of physical activity and exercise through online and home-based programs and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Uv light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_540.md)
-* [Use of uv-c light for disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_340.md)
-* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1025.md)
-* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2925.md)
-* [Uv disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2687.md)
-* [Uv-c disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2686.md)
-* [Uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2690.md)
-* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2225.md)
-* [Uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3224.md)
-* [Uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2924.md)
+* [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_937.md)
+* [Provide spaces for physical activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2478.md)
+* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_932.md)
+* [Promote safe physical activity guidelines and create opportunities for physical activity in public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_933.md)
+* [Design and develop public spaces that encourage social interaction and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3515.md)
+* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2493.md)
+* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_966.md)
+* [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+* [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1919.md)
+* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
 

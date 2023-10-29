@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3505 
 
-# __Implement separate collection of medical waste__
+# __Promote urban/community farming__
 
 ## Category to which it belongs
 
-* [Improving healthcare access, enhancing facilities, and strengthening healthcare systems for effective management and optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
+* [Build resilience, ensure food supply, manage crises, and enhance emergency plans for a sustainable and inclusive future.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 
 ## Closest similar item
 
-* [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2069.md)
-* [Segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2165.md)
-* [Revised waste collection protocol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3506.md)
-* [Strengthened waste collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2386.md)
-* [Proper waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_341.md)
-* [Implement additional waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3507.md)
-* [Implementing effective waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3057.md)
-* [Restriction of waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2383.md)
-* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3052.md)
-* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_91.md)
+* [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3633.md)
+* [Urban farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3632.md)
+* [Urban farming integrated approaches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3634.md)
+* [Self-dependent services and urban farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3636.md)
+* [Sustainable farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3630.md)
+* [Create and maintain green spaces, parks, and public gardens in urban areas.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1644.md)
+* [Invest in agricultural technology, promote sustainable farming practices.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3631.md)
+* [Support local economies and livelihoods, promote sustainable alternative income-generating activities, and engage local communities in conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3503.md)
+* [Urban planning and infrastructure to accommodate growing populations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_349.md)
+* [Increase access to private gardens, allocate dedicated time slots for outdoor activities, create temporary green spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3513.md)
 

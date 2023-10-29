@@ -40,11 +40,11 @@ Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a
 
 ## This article points to following mitigation
 
-* [Ultrabrief psychological intervention ubpi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2131.md)
-* [Psychological first aid pfa](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2132.md)
-* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2134.md)
-* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2133.md)
-* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2130.md)
+* [Ultrabrief psychological intervention ubpi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5013.md)
+* [Psychological first aid pfa](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5014.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5016.md)
+* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5012.md)
+* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5015.md)
 
 ## This article mentions these technologies
 

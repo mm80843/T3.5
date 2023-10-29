@@ -18,6 +18,12 @@
 * [Deficiencies in office buildings and layouts in regards to infection spreading propensity during the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_435.md)
 * [Covid-19 exposure in offshore workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_376.md)
 
+## Blueprints with this risk
+
+* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
+* [Access control, limitation, or lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_7.md)
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+
 ## Mitigations of this risk
 
 * [Universal asymptomatic rt-pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1220.md)

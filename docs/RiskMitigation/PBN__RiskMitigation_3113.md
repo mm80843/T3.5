@@ -10,7 +10,7 @@
 
 * [Improve design to reduce noise and develop smaller and more user-friendly personal air-purifying shields](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3111.md)
 * [Provide appropriate ppe such as masks, gloves, and face shields to individuals at risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2259.md)
-* [Personal protective equipment masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3336.md)
+* [Personal protective equipment masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5474.md)
 * [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_698.md)
 * [Develop cost-effective and easily replaceable filter systems for smart face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3112.md)
 * [Face masks + 50% isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_699.md)

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Astm e1052 standard test method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_837.md)
+* [Astm e1052 standard test method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3851.md)
 

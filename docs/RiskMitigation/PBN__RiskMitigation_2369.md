@@ -11,12 +11,12 @@
 * [Ensure proper use and maintenance of uvgi systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2327.md)
 * [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1351.md)
 * [More research on uv susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2985.md)
-* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3134.md)
+* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5296.md)
 * [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2324.md)
 * [Provide appropriate training on the use of uv-c disinfection system and personal protective equipment for staff.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1620.md)
 * [Uv-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_994.md)
 * [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_402.md)
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3380.md)
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3312.md)
 * [Ensure proper installation and maintenance of uvgi systems, provide protective clothing and eyewear for service personnel and occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2323.md)
 
 ## Risks possibly mitigated by this Mitigation

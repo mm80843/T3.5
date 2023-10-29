@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1824 
 
-# __Storage and transfer of treatment-related information__
+# __Health information exchange__
 
 ## Category to which it belongs
 
-* [Promote seamless data sharing, real-time analysis, and collaboration through standardized protocols and integrated platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
+* [Promote health, educate the public, implement interventions, strengthen health systems, and exchange health information for a healthier population.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
-* [Clinical data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1483.md)
-* [Patient-controlled access to medical records](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3552.md)
-* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_604.md)
-* [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3160.md)
-* [Increased sharing of scientific data by healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_941.md)
-* [Exchange process between hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_784.md)
-* [Increased sharing of recovery stories and information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_947.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1401.md)
-* [Privacy-preserving data storage and sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1833.md)
-* [Timely data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
-
-## Property: has_MitigationPrinciple
-
-Blockchain technology provides secure storage and transfer of treatment-related information, improving data accessibility and collaboration among healthcare stakeholders.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Blockchain technology and its applications to combat COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_219.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [Implementation of a standardized and interoperable health information exchange system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1825.md)
+* [Improved health information system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1826.md)
+* [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1827.md)
+* [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1828.md)
+* [Public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1333.md)
+* [Blockchain-based decentralized framework for health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1829.md)
+* [Health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1830.md)
+* [E-healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1831.md)
+* [European health data space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1832.md)
+* [Common standards for health data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1833.md)
 

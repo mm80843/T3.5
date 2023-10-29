@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1577.md)
+* [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4527.md)
 

@@ -10,7 +10,7 @@
 
 * [Develop a universal occupant exposure model that can be used with microscopic crowd models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2620.md)
 * [Modeling occupant presence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_838.md)
-* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3130.md)
+* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5292.md)
 * [Set and enforce regulatory limits on far-uvc light exposure.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1677.md)
 * [Addressing over-exposure of women](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_286.md)
 * [Increase sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2862.md)

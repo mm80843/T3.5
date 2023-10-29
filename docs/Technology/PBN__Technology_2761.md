@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Data integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_895.md)
+* [Data integration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3902.md)
 

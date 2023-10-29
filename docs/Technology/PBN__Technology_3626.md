@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Monitoring people movement during events](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2279.md)
+* [Monitoring people movement during events](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5154.md)
 

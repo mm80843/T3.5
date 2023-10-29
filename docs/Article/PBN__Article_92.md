@@ -48,14 +48,14 @@ Management of the COVID-19 pandemic: challenges, practices, and organizational s
 
 ## This article points to following mitigation
 
-* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_787.md)
-* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_788.md)
-* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_782.md)
-* [Changes in work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
-* [Exchange process between hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_784.md)
-* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_785.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_786.md)
-* [Covid-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_781.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3804.md)
+* [Exchange process between hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_468.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3805.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3806.md)
+* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3801.md)
+* [Changes in work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3802.md)
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3803.md)
+* [Covid-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3800.md)
 
 ## This article mentions these technologies
 

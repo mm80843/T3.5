@@ -2,6 +2,13 @@
 
 # __Social media analytics__
 
+## Link between Blueprint and General ontology
+
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_70.md)
+* [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_74.md)
+* [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_89.md)
+
 ## Category to which it belongs
 
 * [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
@@ -21,5 +28,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_352.md)
+* [Social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3424.md)
 

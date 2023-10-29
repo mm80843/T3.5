@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3256 
 
-# __Anti-microbial materials__
+# __Less crowded environment__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Implement thorough and regular disinfection practices, along with the use of antimicrobial coatings and materials to minimize surface contamination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_494.md)
+Gated communities, characterized by lower population density, provide a less crowded environment that reduces the risk of infection transmission compared to more densely populated areas.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3281.md)
-* [Select anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2861.md)
-* [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3280.md)
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1350.md)
-* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3278.md)
-* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3279.md)
-* [Use of hygienic and anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1320.md)
-* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3277.md)
-* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_574.md)
-* [Antimicrobial indoor finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_346.md)
+* [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2441.md)
+
+## Property: has_MitigationSource
+
+* [Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_87.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Urban planning and design strategies for reduced density](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2237.md)
 

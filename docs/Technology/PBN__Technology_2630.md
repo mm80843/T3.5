@@ -2,6 +2,14 @@
 
 # __Ultraviolet uv lamps__
 
+## Link between Blueprint and General ontology
+
+* [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_15.md)
+* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_169.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_188.md)
+* [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_189.md)
+* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_191.md)
+
 ## Category to which it belongs
 
 * [Innovative technology utilizing ultraviolet light for sterilization and disinfection purposes in various systems and devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_244.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_715.md)
+* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3739.md)
 

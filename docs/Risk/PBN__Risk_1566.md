@@ -42,8 +42,8 @@ Loss of income and increased costs due to project suspensions
 ## Mitigations of this risk
 
 * [Seek financial aids, revise contracts to claim losses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2107.md)
-* [Guaranteeing reimbursement of loans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_201.md)
-* [Capacity limitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1601.md)
+* [Guaranteeing reimbursement of loans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3295.md)
+* [Capacity limitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4551.md)
 
 ## Name of the risk
 

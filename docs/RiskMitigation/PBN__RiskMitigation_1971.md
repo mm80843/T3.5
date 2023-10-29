@@ -19,6 +19,10 @@
 * [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_137.md)
 * [Adopt policies that prioritize social objectives and public health; strengthen state capabilities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2945.md)
 
+## Blueprints with this mitigation
+
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Mainstreaming health criteria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1447.md)

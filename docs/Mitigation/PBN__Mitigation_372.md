@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_372 
 
-# __Demand response programs__
+# __Enhancing healthcare facilities__
 
 ## Category to which it belongs
 
-* [Promote sustainable energy practices, implement energy-efficient technologies, and provide financial assistance for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
+* [Improving healthcare access, enhancing facilities, and strengthening healthcare systems for effective management and optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
-* [Implement demand response programs, incentivize load shifting and energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3076.md)
-* [Demand management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1318.md)
-* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3077.md)
-* [Direct energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1918.md)
-* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
-* [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_593.md)
-* [Enhancement of energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1920.md)
-* [Implement rapid response mechanisms and decision-making protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3078.md)
-* [Designing targeted responses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2180.md)
-* [Implement policies to support revenue generation and payment flexibility.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3079.md)
-
-## Property: has_MitigationPrinciple
-
-Change customer electricity-use patterns through time-dependent pricing
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Coronavirus comes home? Energy use, home energy management, and the social-psychological factors of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_119.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2417.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_373.md)
+* [Improved health care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_374.md)
+* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
+* [Commercial and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
+* [Overloaded healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_377.md)
+* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
+* [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_379.md)
+* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
+* [Investing in healthcare infrastructure, increasing medical facility capacity, improving supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_381.md)
+* [Expanding healthcare facilities, increasing medical staff, and implementing triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_382.md)
 

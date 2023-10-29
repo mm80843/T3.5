@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3252 
 
-# __Implement green infrastructure__
+# __Substantially increase funding for climate and development organizations__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1473.md)
-* [Building green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3253.md)
-* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3255.md)
-* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3254.md)
-* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_618.md)
-* [Policies for green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1161.md)
-* [Urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1659.md)
-* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2755.md)
-* [Expansion of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3256.md)
-* [Green and blue infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1114.md)
+* [Increase spending on development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2275.md)
+* [Diversifying the funding base](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2847.md)
+* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3574.md)
+* [National and international funding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2605.md)
+* [Increased funding for vaccine research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3940.md)
+* [Increasing international development finance and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3615.md)
+* [Investment of economic stimulus funds in low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3573.md)
+* [Increase access to green spaces, promote urban greening initiatives, create more parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1642.md)
+* [Funding for it support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3251.md)
+* [Climate change mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1954.md)
 

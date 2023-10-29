@@ -2,6 +2,14 @@
 
 # __Virtual learning technologies__
 
+## Link between Blueprint and General ontology
+
+* [Augmented / Virtual Reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_22.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_238.md)
+* [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_239.md)
+* [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_183.md)
+* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_242.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1314.md)
+* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4284.md)
 

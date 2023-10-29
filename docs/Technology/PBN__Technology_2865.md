@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Natural sound maskers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1072.md)
+* [Natural sound maskers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4064.md)
 

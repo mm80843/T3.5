@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_658.md)
+* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3688.md)
 

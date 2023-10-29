@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2883 
 
-# __Purpose-built iot devices__
+# __Reduce occupancy rates, enforce physical distancing measures__
 
 ## Category to which it belongs
 
-* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
+* [Creating safe and spacious environments by implementing measures that promote physical distancing and isolation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_177.md)
 
 ## Closest similar item
 
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1956.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3167.md)
-* [Internet of things iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3163.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3169.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1535.md)
-* [Implementation of iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3420.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3080.md)
-* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3573.md)
-* [Iot for monitoring and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3422.md)
-* [Scalability of iot devices in iomt](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1156.md)
+* [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2513.md)
+* [Limit occupancy numbers, maintain physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3641.md)
+* [Implement physical distancing measures, modify layout to allow for more space between individuals, and limit occupancy in common areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2033.md)
+* [Implement measures to enforce physical distancing.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_466.md)
+* [Enforce strict physical distancing measures and educate people on the importance of maintaining distance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2882.md)
+* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2678.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_462.md)
+* [Design for physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_461.md)
+* [Designing spaces to enable physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_468.md)
+* [Provide larger units and flexible housing options to support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2884.md)
 

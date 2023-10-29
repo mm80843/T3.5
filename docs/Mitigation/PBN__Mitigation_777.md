@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_777 
 
-# __Considering the needs of vulnerable groups in future public space designs__
+# __Use of energy-efficient appliances__
 
 ## Category to which it belongs
 
-* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
+* [Promote sustainable energy practices, implement energy-efficient technologies, and provide financial assistance for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
-* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1020.md)
-* [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3651.md)
-* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1944.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2821.md)
-* [New typology for public space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4047.md)
-* [Special access and spaces for vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1794.md)
-* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_678.md)
-* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4005.md)
-* [Provide safe and social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2508.md)
-* [Vulnerable population](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3126.md)
-
-## Property: has_MitigationPrinciple
-
-Design inclusive and accessible public spaces that consider the needs of vulnerable groups such as women, racial minorities, immigrants, low-income residents, the elderly, children, and the homeless
-
-## Risks possibly mitigated by this Mitigation
-
-* [Exclusion of vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2705.md)
-
-## Property: has_MitigationSource
-
-* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_774.md)
+* [Implement energy-efficient appliances, promote alternative energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1526.md)
+* [Install energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1527.md)
+* [Use of low-power appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1525.md)
+* [Energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1529.md)
+* [Encourage energy efficiency practices, educate households on energy use, and promote the use of energy-efficient appliances.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1532.md)
+* [Water-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1531.md)
+* [Appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1528.md)
+* [Cooking appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1530.md)
+* [Use of water-efficient appliances and fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3542.md)
 

@@ -19,6 +19,10 @@
 * [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2274.md)
 * [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_73.md)
 
+## Blueprints with this mitigation
+
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Mh4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2175.md)

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Management of deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
+* [Management of deliveries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3374.md)
 

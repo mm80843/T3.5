@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_402.md)
+* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3469.md)
 

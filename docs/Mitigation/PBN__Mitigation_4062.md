@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4062 
 
-# __More research on uv susceptibility__
+# __Inclusion of flowers__
 
 ## Category to which it belongs
 
-* [Utilize uv radiation for germicidal purposes, including upper-room fixtures, aerosol chambers, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
-* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3246.md)
-* [Uv-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1269.md)
-* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1754.md)
-* [Develop standardized tests and protocols for uvgi efficacy, ensure testing reflects real-world conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4055.md)
-* [Lack of standardized tests and protocols for uvgi efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4056.md)
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_223.md)
-* [Ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2978.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2706.md)
-* [Lack of definitive epidemiologic data on the ability of uvgi systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4060.md)
+* [Plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2053.md)
+* [Gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1.md)
+* [Potted plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2055.md)
+* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
+* [Presence of indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2111.md)
+* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_6.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2112.md)
+* [Gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
+* [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2101.md)
+* [Domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4.md)
 

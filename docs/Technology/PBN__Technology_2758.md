@@ -2,6 +2,10 @@
 
 # __Mobility data analysis__
 
+## Link between Blueprint and General ontology
+
+* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_160.md)
+
 ## Category to which it belongs
 
 * [Efficient use of data analysis and modeling techniques to analyze various types of data for targeted insights.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
@@ -21,6 +25,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Monitoring mobility metrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_893.md)
-* [Benchmarking mobility metrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_900.md)
+* [Monitoring mobility metrics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3900.md)
+* [Benchmarking mobility metrics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3907.md)
 

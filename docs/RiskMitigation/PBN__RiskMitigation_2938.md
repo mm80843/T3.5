@@ -15,8 +15,8 @@
 * [Provide or improve outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_455.md)
 * [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1321.md)
 * [Promote alternative indoor activities, provide mental health support, offer virtual tours or nature-based activities.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2761.md)
-* [Outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3355.md)
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3202.md)
+* [Outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5492.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5041.md)
 * [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2274.md)
 
 ## Risks possibly mitigated by this Mitigation

@@ -2,6 +2,10 @@
 
 # __Inadequate indoor air quality__
 
+## Link between Blueprint and General ontology
+
+* [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_0.md)
+
 ## Category to which it belongs
 
 * [Inadequate ventilation, poor air quality, and high levels of indoor pollutants pose health risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
@@ -68,8 +72,8 @@ Increased respiratory illnesses, decreased productivity and comfort for occupant
 
 ## Technologies linked to the risk
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 * [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_430.md)
 * [Upgrading ventilation systems and implementing air purification methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_646.md)
 

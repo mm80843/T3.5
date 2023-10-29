@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3610 
 
-# __Encourage a balanced approach to non-contact interaction activities, promoting a mix of virtual and physical interactions.__
+# __Drainage system management__
 
 ## Category to which it belongs
 
-* [Promote and facilitate various forms of physical activity and exercise through online and home-based programs and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
+* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
 
 ## Closest similar item
 
-* [Physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3190.md)
-* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2263.md)
-* [Physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1692.md)
-* [Contact-reducing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3192.md)
-* [Reduced physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2311.md)
-* [Human interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_296.md)
-* [Provide spaces for physical activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3385.md)
-* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3639.md)
-* [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2789.md)
+* [Drainage management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3609.md)
+* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3608.md)
+* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_422.md)
+* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_423.md)
+* [Improving water infrastructure and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2876.md)
+* [Water quality management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)
+* [Provision of water infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2117.md)
+* [Improved water systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2115.md)
+* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_426.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_98.md)
 

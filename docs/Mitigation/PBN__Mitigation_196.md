@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_196 
 
-# __Cash payments to vulnerable groups__
+# __Inefficient testing for covid-19__
 
 ## Category to which it belongs
 
-* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
+* [Enhanced and widespread testing, utilizing various methods and technologies, to detect and diagnose covid-19 with accuracy and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
-* [Cash payments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2624.md)
-* [Inadequate support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3651.md)
-* [Cash transfers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_43.md)
-* [Cash donations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1758.md)
-* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_678.md)
-* [Improve cashflow management, seek financial assistance and government support, renegotiate contracts.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3721.md)
-* [Implement social protection programs and financial incentives to support vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2620.md)
-* [Vulnerable population](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3126.md)
-* [Special access and spaces for vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1794.md)
-* [Short-term cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_884.md)
-
-## Property: has_MitigationPrinciple
-
-Provide financial support to individuals and households facing economic hardship due to the pandemic.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Economic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2462.md)
-
-## Property: has_MitigationSource
-
-* [Non-medical Interventions to Reduce the Burden of Psychosocial and Economic Impacts of COVID-19 Pandemic: A Scope Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_243.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Rapid covid-19 screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_195.md)
+* [System robustness against covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_194.md)
+* [Isolation of suspected covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_198.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_798.md)
+* [Strict adherence to covid-19 preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3109.md)
+* [Regular updates on covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_193.md)
+* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3009.md)
+* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_805.md)
+* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
+* [Improve testing methods, consider testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3008.md)
 

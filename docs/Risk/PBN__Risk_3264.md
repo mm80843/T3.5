@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Deployment of low-carbon technologies and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1929.md)
+* [Deployment of low-carbon technologies and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4851.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1588.md)
+* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4538.md)
 

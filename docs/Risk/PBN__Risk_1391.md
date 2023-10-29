@@ -76,12 +76,12 @@ Higher risk of disease transmission, increased rates of waterborne diseases, dec
 
 ## Technologies linked to the risk
 
+* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1351.md)
 * [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_624.md)
 * [Water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
 * [Automated cleaning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1319.md)
 * [Hygiene education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_625.md)
 * [Touchless fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
-* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1351.md)
 
 ## Property: has_RiskType
 

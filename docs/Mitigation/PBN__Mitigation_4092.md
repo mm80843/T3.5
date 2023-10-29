@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4092 
 
-# __Lack of transportation and financial constraints__
+# __Mortgage holidays__
 
 ## Category to which it belongs
 
-* [Implementing travel restrictions, optimizing transport, active travel, and improving public transportation to address mobility limitations and ensure safe and accessible transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3250.md)
-* [Lack of infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4093.md)
-* [Decline in car-based transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_409.md)
-* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2495.md)
-* [Inadequate infrastructure systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4052.md)
-* [Decreased demand for public transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2497.md)
-* [Lack of resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3663.md)
-* [Internal travel constraints](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1531.md)
-* [Lack of consideration for social and environmental factors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4089.md)
-* [Implement travel restrictions, reduce travel demand, promote alternative methods of essential supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3988.md)
+* [Offer mortgage holidays, provide financial support for individuals, delay negotiations during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3148.md)
+* [Increased household chores](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1751.md)
+* [Lending](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_178.md)
+* [Curfews](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3588.md)
+* [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3589.md)
+* [Housing evictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1417.md)
+* [Staggered schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2324.md)
+* [Loan restructuring, government assistance, financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3144.md)
+* [Simplified loan and insurance services during the crisis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3143.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_904.md)
 

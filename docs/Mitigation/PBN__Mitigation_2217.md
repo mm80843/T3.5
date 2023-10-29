@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2217 
 
-# __Forced ventilation__
+# __Wireless communication__
 
 ## Category to which it belongs
 
-* [Ensuring optimal airflow and fresh air circulation in buildings through various methods and techniques.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_183.md)
+* [Effective, transparent, and targeted communication strategies are crucial for global coordination, cooperation, and risk prevention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
 
 ## Closest similar item
 
-* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_219.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
-* [Natural/forced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2636.md)
-* [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2149.md)
-* [Ventilation control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
-* [Room ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_912.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1184.md)
-* [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1679.md)
-* [Proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_801.md)
-* [Mechanical and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2641.md)
-
-## Property: has_MitigationPrinciple
-
-Increase the intensity of forced ventilation during the operating hours of the building
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2216.md)
+* [Wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1066.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1205.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1207.md)
+* [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2221.md)
+* [Improved communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3014.md)
+* [Technology for remote communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2222.md)
+* [Wireless data transmission 3g](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2218.md)
+* [Wireless sensor networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2215.md)
+* [Enhanced communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3013.md)
 

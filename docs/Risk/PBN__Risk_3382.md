@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2330.md)
+* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5201.md)
 

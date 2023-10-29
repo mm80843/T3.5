@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_672 
 
-# __Emphasize public health impacts__
+# __Increase the use of outdoor air through open windows and dampers.__
 
 ## Category to which it belongs
 
-* [Promote health, educate the public, implement interventions, strengthen health systems, and exchange health information for a healthier population.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
+* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
-* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2965.md)
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1686.md)
-* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3202.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
-* [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1477.md)
-* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1226.md)
-* [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_265.md)
-* [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3200.md)
-* [Enhance public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3398.md)
-* [Public health measures and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2967.md)
-
-## Property: has_MitigationPrinciple
-
-Highlight the adverse effects of climate change on public health to increase concern and motivate action
-
-## Risks possibly mitigated by this Mitigation
-
-* [Insufficient attention to public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2648.md)
-
-## Property: has_MitigationSource
-
-* [What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_257.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Increase the amount of outdoor air in ventilation systems, open windows for natural ventilation, and ensure proper ventilation design and operation.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2010.md)
+* [Improve ventilation systems, increase outdoor air supply.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_669.md)
+* [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_671.md)
+* [Improve ventilation systems, increase outdoor air intake, and use air purifiers to enhance indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_764.md)
+* [Improve ventilation systems, increase fresh air supply, and use air filters to reduce the spread of airborne particles.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_656.md)
+* [Improve ventilation systems, open windows and doors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2006.md)
+* [Increase outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_658.md)
+* [Increase ventilation rates, use air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_660.md)
+* [Increased outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_665.md)
+* [Improve indoor ventilation systems, increase air exchange rates, and use of air purifiers or filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3924.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Use of specific medicines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1514.md)
+* [Use of specific medicines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4470.md)
 

@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1632 
 
-# __Concentration method__
+# __One-way systems__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Enhance monitoring and response systems while integrating various wearable sensors, biosensors, nanotechnology, contactless systems, and robotics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_227.md)
-* [Virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_61.md)
-* [Developing effective virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2875.md)
-* [Dilution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_271.md)
-* [Dilution and dispersion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1376.md)
-* [Optimizing experimental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2876.md)
-* [Controlling population density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
-* [Phase ii relaxation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1545.md)
-* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3589.md)
-* [Phase iii relaxation - part 2](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1547.md)
-
-## Property: has_MitigationPrinciple
-
-The concentration method using aluminum hydroxide can effectively concentrate enteric viruses, including SARS-CoV-2, from wastewater samples, aiding in their detection and analysis.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Aluminum hydroxide adsorption-precipitation protocol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3212.md)
+* [Two-way communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1630.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1354.md)
+* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2274.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1351.md)
+* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2444.md)
+* [Computer-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1592.md)
+* [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1495.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_838.md)
+* [Proximity and distancing architectures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3019.md)
+* [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1558.md)
 

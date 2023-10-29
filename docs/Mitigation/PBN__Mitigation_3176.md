@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3176 
 
-# __Ensure that teleworkers have access to appropriate ergonomic equipment and provide guidelines for proper setup.__
+# __Cognitive behavioral therapy cbt , acceptance and commitment-based therapy act , mindfulness-based stress reduction interventions__
 
 ## Category to which it belongs
 
-* [Expanding healthcare access through remote technology, including telemedicine, telehealth clinics, and virtual consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
+* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Increased access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1459.md)
-* [Provide guidelines and resources for remote work, promote work-life balance, and encourage ergonomic work setups.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3858.md)
-* [Teleoperation for telemedicine and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2356.md)
-* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1883.md)
-* [Teleconferencing and virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1684.md)
-* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2130.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_469.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2913.md)
-* [Ergonomic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_172.md)
-* [Telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2575.md)
+* [Providing mental health support, counseling, and stress management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1194.md)
+* [Mental and psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3170.md)
+* [Mental health support services, stress management programs, promoting self-care activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1196.md)
+* [Provide counseling services, emphasize mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1192.md)
+* [Promote strategies for managing anxiety, stress, and depression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1605.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1191.md)
+* [Behavioral interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_29.md)
+* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_15.md)
+* [Virtual reality-based therapy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3175.md)
+* [Mental health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_257.md)
 

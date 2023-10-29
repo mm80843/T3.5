@@ -42,22 +42,22 @@ Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronaviru
 
 ## This article points to following mitigation
 
-* [Isolation of suspected covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_708.md)
-* [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
-* [Disinfecting shoe soles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_704.md)
-* [Disinfecting masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_706.md)
-* [Stricter protective measures for icu staff](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_707.md)
-* [Limiting familial cluster infections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_709.md)
-* [Effective disinfection techniques for roundworms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_710.md)
+* [Disinfecting shoe soles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1265.md)
+* [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3729.md)
+* [Disinfecting masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3730.md)
+* [Stricter protective measures for icu staff](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3731.md)
+* [Isolation of suspected covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3732.md)
+* [Limiting familial cluster infections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3733.md)
+* [Effective disinfection techniques for roundworms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3734.md)
 
 ## This article mentions these technologies
 
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
 * [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
 * [Hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_672.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
 * [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
 * [Isolation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_673.md)
 * [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_205.md)
 * [Disinfectant wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_671.md)
-* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
 

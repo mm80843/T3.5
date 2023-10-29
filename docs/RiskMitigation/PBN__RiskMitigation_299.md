@@ -16,7 +16,7 @@
 * [Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_800.md)
 * [Building green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_424.md)
 * [Use more energy-efficient building designs, integrate energy-saving technologies , dbaf .](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2997.md)
-* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3187.md)
+* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5343.md)
 * [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_423.md)
 
 ## Benefits linked to a risk

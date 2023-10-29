@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_270.md)
+* [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3350.md)
 

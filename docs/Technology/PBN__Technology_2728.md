@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_859.md)
+* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_85.md)
 

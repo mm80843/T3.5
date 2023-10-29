@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_865.md)
 

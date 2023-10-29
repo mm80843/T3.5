@@ -23,7 +23,25 @@
 
 * [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
 
+## Property: has_MitigationPrinciple
+
+Transforming the indoor environment to improve health and well-being of occupants
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_133.md)
+
+## Property: has_MitigationSource
+
+* [Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_290.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2813.md)
+* [Indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3684.md)
+* [Water efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3685.md)
+* [Green sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3686.md)
+* [Sustainable site management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3687.md)
+* [Innovation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2862.md)
+* [Commissioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3688.md)
 

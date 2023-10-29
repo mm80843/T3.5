@@ -19,6 +19,10 @@
 * [Non-compliance with covid-19 mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_885.md)
 * [Wide-ranging impacts of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_363.md)
 
+## Blueprints with this risk
+
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
+
 ## Mitigations of this risk
 
 * [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_73.md)

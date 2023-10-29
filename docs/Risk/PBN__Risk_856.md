@@ -43,7 +43,7 @@ Decline in GDP and unemployment rates due to the pandemic
 
 * [Cash payments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1179.md)
 * [Implementing financial support programs, providing loans and grants to affected individuals and businesses, implementing stimulus packages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1582.md)
-* [Promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_969.md)
+* [Promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3970.md)
 
 ## Name of the risk
 

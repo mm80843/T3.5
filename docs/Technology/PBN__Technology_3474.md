@@ -2,6 +2,11 @@
 
 # __Voice control__
 
+## Link between Blueprint and General ontology
+
+* [Voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_261.md)
+* [Voice recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_263.md)
+
 ## Category to which it belongs
 
 * [The nexus of journalism and technology includes various methods of noise reduction, responsible reporting, media literacy, and communication tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2082.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_345.md)
 

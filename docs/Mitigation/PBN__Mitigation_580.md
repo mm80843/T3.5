@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_580 
 
-# __Cytoreduction__
+# __Use of high-efficiency air filters__
 
 ## Category to which it belongs
 
-* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
+* [Enhanced air purification using high-efficiency filters and ventilation systems, including portable devices and hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
-* [Quarantining](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1689.md)
-* [Plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3241.md)
-* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1733.md)
-* [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_266.md)
-* [Biosampler](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_324.md)
-* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1292.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_7.md)
-* [Potted plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3242.md)
-* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2469.md)
-* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2327.md)
-
-## Property: has_MitigationPrinciple
-
-Performing cytoreduction during ovarian cancer surgery aims to remove as much tumor tissue as possible, improving treatment effectiveness and patient outcomes
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_39.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Surgical techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2558.md)
+* [High-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_581.md)
+* [Use high-efficiency filters for air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_582.md)
+* [High-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_583.md)
+* [High-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_584.md)
+* [Use of advanced hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_585.md)
+* [Improved hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_586.md)
+* [High-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_587.md)
+* [Use high-efficiency air filters in ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_588.md)
+* [High-efficiency particulate filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_589.md)
+* [Use of portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_590.md)
 

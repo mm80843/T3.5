@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2519 
 
-# __Hygiene education programs__
+# __Simulation software tools__
 
 ## Category to which it belongs
 
-* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
+* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
-* [Hygiene education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_906.md)
-* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3381.md)
-* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_984.md)
-* [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2372.md)
-* [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2935.md)
-* [Individual hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1128.md)
-* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
-* [Hygiene compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3388.md)
-* [Promoting proper hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3386.md)
-* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_942.md)
+* [Computer simulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2520.md)
+* [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2521.md)
+* [Configurable simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2522.md)
+* [Building design software and modeling tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2523.md)
+* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2524.md)
+* [Visualization tool](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1661.md)
+* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1150.md)
+* [Augmentation of resident learning with simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2525.md)
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1168.md)
+* [Collaborative tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2238.md)
 

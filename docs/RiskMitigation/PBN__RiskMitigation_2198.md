@@ -15,8 +15,8 @@
 * [Educational campaigns on public health measures, improving communication and dissemination of information.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1802.md)
 * [Increase public education and knowledge dissemination through government campaigns and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2400.md)
 * [Implement public awareness campaigns, provide education on proper hygiene practices and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2721.md)
-* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3164.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3163.md)
+* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5320.md)
+* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5319.md)
 * [Educate the public about preventive measures, promote health literacy, disseminate accurate information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1816.md)
 
 ## Risks possibly mitigated by this Mitigation

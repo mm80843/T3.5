@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [X-ray fluorescence spectroscopy xrf spectrometer analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_825.md)
+* [X-ray fluorescence spectroscopy xrf spectrometer analyzer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3839.md)
 

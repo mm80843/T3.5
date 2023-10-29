@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Centralized database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_508.md)
+* [Centralized database](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3562.md)
 

@@ -19,6 +19,10 @@
 * [Tracking and containing outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2728.md)
 * [Contagious disease outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_641.md)
 
+## Blueprints with this risk
+
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+
 ## Description of the risk
 
 Intermediary processes in the current reporting system can lead to delays in reporting infectious disease cases, hampering timely response and control measures

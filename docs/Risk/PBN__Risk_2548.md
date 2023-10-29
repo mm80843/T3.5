@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Ensuring domestic budgets support pcas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
+* [Ensuring domestic budgets support pcas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3541.md)
 

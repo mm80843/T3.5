@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1745.md)
+* [Wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4684.md)
 

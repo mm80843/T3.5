@@ -23,7 +23,23 @@
 
 * [Improved indoor environment quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_756.md)
 
+## Property: has_MitigationPrinciple
+
+Ensure optimal use of sunlight, natural heat and light, reduce energy consumption, provide suitable ventilation, maintain proper humidity levels, use materials with reduced emissions
+
 ## Risks possibly mitigated by this Mitigation
 
+* [Poor thermal comfort, inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2557.md)
 * [Inadequate housing hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_573.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Correct orientation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2486.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2487.md)
+* [Albedo control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2488.md)
+* [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
 

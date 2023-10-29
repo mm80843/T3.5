@@ -2,6 +2,10 @@
 
 # __Regular testing and contact tracing__
 
+## Link between Blueprint and General ontology
+
+* [Propagation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_7.md)
+
 ## Category to which it belongs
 
 * [Insufficient monitoring, ineffective tracing processes, privacy concerns, and reliance on teleconferencing tools for reduced human contact.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)

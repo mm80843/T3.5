@@ -63,9 +63,9 @@ Inaccurate assessment of intervention effectiveness; potential for resurgence of
 
 ## Technologies linked to the risk
 
+* [International organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_611.md)
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
-* [International organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_611.md)
 
 ## Property: has_RiskType
 

@@ -2,6 +2,10 @@
 
 # __Maintenance and decontamination__
 
+## Link between Blueprint and General ontology
+
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_9.md)
+
 ## Category to which it belongs
 
 * [Implement rigorous cleaning, disinfection, and waste management protocols to maintain high levels of hygiene and prevent the spread of infection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_490.md)
@@ -10,7 +14,7 @@
 
 * [Increased decontamination efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_252.md)
 * [Regular maintenance and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2873.md)
-* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3288.md)
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5431.md)
 * [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_317.md)
 * [Increase production and distribution of ppe, stockpiling for emergencies, and implementing reuse and decontamination strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2772.md)
 * [Regular cleaning and sanitization procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1307.md)

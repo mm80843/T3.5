@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Simulation software tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1102.md)
+* [Simulation software tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4091.md)
 

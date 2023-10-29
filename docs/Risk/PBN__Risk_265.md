@@ -19,6 +19,10 @@
 * [Challenges with data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_722.md)
 * [Lack of monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_24.md)
 
+## Blueprints with this risk
+
+* [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
+
 ## Description of the risk
 
 Allocation of checkpoints for monitoring and recording the mobility in and out of public places.

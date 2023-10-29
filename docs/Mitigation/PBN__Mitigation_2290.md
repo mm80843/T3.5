@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2290 
 
-# __Crowd control on public transport__
+# __Bim software__
 
 ## Category to which it belongs
 
-* [Implementing travel restrictions, optimizing transport, active travel, and improving public transportation to address mobility limitations and ensure safe and accessible transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1059.md)
-* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3522.md)
-* [Implement social distancing measures, crowd control, and capacity regulations in public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3339.md)
-* [Overcrowding in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3523.md)
-* [Restriction on crowding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3520.md)
-* [Limiting occupancy levels, implementing crowd control measures, staggering schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3471.md)
-* [Avoidance of crowds](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1422.md)
-* [Implementing crowd control measures such as capacity limits, timed entry systems, one-way circulation, and designated waiting areas.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3827.md)
-* [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3828.md)
-* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2495.md)
-
-## Property: has_MitigationPrinciple
-
-Implementing measures to restrict overcrowding on public transport, such as running more trains or buses, promoting alternative modes of mobility like cycling, based on data analytics.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-
-## Property: has_MitigationSource
-
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
-* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Implementation of bim technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2289.md)
+* [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2377.md)
+* [Design & construction software bim](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2286.md)
+* [Building information modelling bim](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2283.md)
+* [Building information model bim](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2284.md)
+* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2282.md)
+* [Simulation software tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2519.md)
+* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_855.md)
+* [Open-source model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2672.md)
+* [Develop tools and platforms for easy access to data from multiple sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2230.md)
 

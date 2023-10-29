@@ -19,6 +19,10 @@
 * [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1702.md)
 * [Increase in chronic diseases from sedentary lifestyles](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_113.md)
 
+## Blueprints with this risk
+
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
+
 ## Description of the risk
 
 Measures to curb the spread of COVID-19 have led to a decline in physical activity, especially among children and adolescents.

@@ -41,8 +41,8 @@ Greenspace availability is lower in low-income neighborhoods
 ## Mitigations of this risk
 
 * [Increase greenspace availability in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2912.md)
-* [Housing evictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_26.md)
-* [Temporary emergency measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_30.md)
+* [Housing evictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3140.md)
+* [Temporary emergency measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3144.md)
 
 ## Name of the risk
 

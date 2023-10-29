@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_400.md)
-* [Limited access nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_399.md)
+* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_322.md)
+* [Limited access nodes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3468.md)
 

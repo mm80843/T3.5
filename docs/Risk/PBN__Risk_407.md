@@ -19,6 +19,10 @@
 * [Risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2441.md)
 * [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_605.md)
 
+## Blueprints with this risk
+
+* [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_4.md)
+
 ## Mitigations of this risk
 
 * [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_571.md)

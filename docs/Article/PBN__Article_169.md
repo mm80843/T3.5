@@ -47,14 +47,14 @@ The effect of occupant distribution on energy consumption and COVID-19 infection
 
 ## This article points to following mitigation
 
-* [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1307.md)
-* [Controlling probability of contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1308.md)
-* [Increasing fresh air supply in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1309.md)
-* [Social distancing between occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1310.md)
-* [Shortening class durations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1311.md)
-* [Extending working hours of the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1312.md)
-* [Maximizing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
-* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1314.md)
+* [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_837.md)
+* [Controlling probability of contact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4278.md)
+* [Increasing fresh air supply in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4279.md)
+* [Social distancing between occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4280.md)
+* [Shortening class durations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4281.md)
+* [Extending working hours of the building](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4282.md)
+* [Maximizing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4283.md)
+* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4284.md)
 
 ## This article mentions these technologies
 

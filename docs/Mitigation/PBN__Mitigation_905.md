@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_905 
 
-# __Personal protection__
+# __Support for people who cannot stop working and provide essential services__
 
 ## Category to which it belongs
 
-* [Proactive implementation of safety protocols, including the provision of personal protective equipment, to ensure protection and minimize risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_181.md)
+* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_739.md)
-* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2712.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_524.md)
-* [Providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1792.md)
-* [User privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1818.md)
-* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_190.md)
-* [Protection of susceptible individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_868.md)
-* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3665.md)
-* [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2181.md)
-* [Personal protective equipment ppe use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
-
-## Property: has_MitigationPrinciple
-
-Using personal protective equipment, such as masks, gloves, and gowns, can protect individuals from respiratory virus transmission.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Transmission of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2772.md)
-
-## Property: has_MitigationSource
-
-* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [Provide financial support to affected individuals and businesses, maintain access to essential services.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1026.md)
+* [Support for unemployed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3325.md)
+* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1746.md)
+* [Improve working conditions and support for healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3033.md)
+* [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_17.md)
+* [Employee support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
+* [Supporting workers and migrant workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3288.md)
+* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_19.md)
+* [Support for working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2243.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_906.md)
 

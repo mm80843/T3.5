@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_249.md)
-* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2054.md)
+* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_215.md)
+* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3334.md)
 

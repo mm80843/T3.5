@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Cash payments to vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_196.md)
+* [Cash payments to vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3290.md)
 

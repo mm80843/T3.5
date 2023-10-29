@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+* [Government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3938.md)
 

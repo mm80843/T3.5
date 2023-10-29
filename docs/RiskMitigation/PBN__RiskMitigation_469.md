@@ -16,7 +16,7 @@
 * [Strengthen social support systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1036.md)
 * [Reduce negative emotions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1211.md)
 * [Internet-based communication and mental well-being support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_435.md)
-* [Health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3389.md)
+* [Health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5523.md)
 * [Monitor reactions, provide psychosocial support and assistance, modify expectations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2495.md)
 
 ## Benefits linked to a risk

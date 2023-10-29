@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_186 
 
-# __Green and sustainable design practices__
+# __Implementation of smartphone-based apps__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2345.md)
-* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3205.md)
-* [Sustainable building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1729.md)
-* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3255.md)
-* [Implementation of green construction practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3805.md)
-* [Design buildings with access to green spaces, views of nature, and incorporate biophilic design elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2569.md)
-* [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2747.md)
-* [Incorporate green elements in urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3849.md)
-* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3334.md)
-* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2755.md)
-
-## Property: has_MitigationPrinciple
-
-Designing and constructing buildings with a focus on energy efficiency and sustainability to promote a healthier environment.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Environmental impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_748.md)
-
-## Property: has_MitigationSource
-
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
+* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_184.md)
+* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_183.md)
+* [Bluetooth-based apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1475.md)
+* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
+* [Mobile technology applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
+* [Gps-based apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
+* [Wi-fi-based apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
+* [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1595.md)
+* [App-based trackers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2943.md)
+* [Development of mobile applications, websites, and communication channels for information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2959.md)
 

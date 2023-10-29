@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Occupancy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_791.md)
+* [Occupancy limitations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3809.md)
 

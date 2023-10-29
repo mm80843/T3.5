@@ -2,6 +2,10 @@
 
 # __Reduction in traffic volumes__
 
+## Link between Blueprint and General ontology
+
+* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_35.md)
+
 ## Category to which it belongs
 
 * [Invest in sustainable transport infrastructure, promote active transportation, expand public transport, and improve accessibility for safe and inclusive movement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_472.md)

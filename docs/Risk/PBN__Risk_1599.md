@@ -2,6 +2,10 @@
 
 # __Information overload__
 
+## Link between Blueprint and General ontology
+
+* [Information management](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_9.md)
+
 ## Category to which it belongs
 
 * [The dissemination of inaccurate, misleading, and exaggerated information, often referred to as an ’infodemic’, poses a significant challenge in accessing reliable and timely information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
@@ -42,7 +46,7 @@ Excessive amount of information that overwhelms an individual's cognitive capaci
 ## Mitigations of this risk
 
 * [Develop strategies to manage and filter information, promote digital literacy skills](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2149.md)
-* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_589.md)
+* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_551.md)
 
 ## Name of the risk
 

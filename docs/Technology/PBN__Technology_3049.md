@@ -2,6 +2,12 @@
 
 # __Artificial intelligence and ml__
 
+## Link between Blueprint and General ontology
+
+* [AI/ML](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_8.md)
+* [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_168.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_87.md)
+
 ## Category to which it belongs
 
 * [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
@@ -21,5 +27,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Ai-based tools for resource-limited settings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1360.md)
+* [Ai-based tools for resource-limited settings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4328.md)
 

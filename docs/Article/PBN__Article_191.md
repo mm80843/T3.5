@@ -44,14 +44,14 @@ Disinfection technology of hospital wastes and wastewater: Suggestions for disin
 
 ## This article points to following mitigation
 
-* [Ozone disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2241.md)
-* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2242.md)
-* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2243.md)
-* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2244.md)
-* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2245.md)
-* [Incineration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2246.md)
-* [Chemical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2247.md)
-* [Physical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2248.md)
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5120.md)
+* [Ozone disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5119.md)
+* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5121.md)
+* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5122.md)
+* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5123.md)
+* [Incineration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5124.md)
+* [Chemical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5125.md)
+* [Physical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5126.md)
 
 ## This article mentions these technologies
 

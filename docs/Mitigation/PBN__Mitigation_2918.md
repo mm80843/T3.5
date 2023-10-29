@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2918 
 
-# __Improve testing and reporting systems, increase transparency__
+# __Established ontological models__
 
 ## Category to which it belongs
 
-* [Enhanced and widespread testing, utilizing various methods and technologies, to detect and diagnose covid-19 with accuracy and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
+* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
-* [Improving transparency and communication, providing accurate and timely information, addressing concerns and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3594.md)
-* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2744.md)
-* [Increased testing access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1461.md)
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_992.md)
-* [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3797.md)
-* [Promote transparent communication and accurate reporting; combat misinformation through fact-checking and verification systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2919.md)
-* [Increased testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_696.md)
-* [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_105.md)
-* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3624.md)
-* [Information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2390.md)
+* [Existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2911.md)
+* [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2173.md)
+* [Reuse of ontological terms and models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2922.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2910.md)
+* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2914.md)
+* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2916.md)
+* [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2912.md)
+* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
+* [Ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2913.md)
+* [Ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2915.md)
 

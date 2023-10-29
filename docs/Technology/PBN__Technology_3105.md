@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1469.md)
+* [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4427.md)
 

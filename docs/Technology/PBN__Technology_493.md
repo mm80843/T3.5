@@ -25,12 +25,12 @@
 
 ## This technology is mentioned by
 
+* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
 * [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
 * [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
 * [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
 * [Assessment of COVID-19 precautionary measures in sports facilities: A case study on a health club in Saudi Arabia](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_128.md)
 * [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
-* [COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_283.md)
 * [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
 
 ## This Technology belongs to this TechSubgroup
@@ -39,8 +39,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
-* [Promoting awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2144.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_865.md)
+* [Promoting awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5026.md)
 
 ## Risks linked to this technology
 

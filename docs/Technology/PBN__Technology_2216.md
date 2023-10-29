@@ -2,6 +2,17 @@
 
 # __Automation systems__
 
+## Link between Blueprint and General ontology
+
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_172.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_173.md)
+* [Testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_198.md)
+* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_199.md)
+* [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_66.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_200.md)
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_201.md)
+
 ## Category to which it belongs
 
 * [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
@@ -21,6 +32,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Sensor-based fixtures or devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_137.md)
-* [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_174.md)
+* [Sensor-based fixtures or devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3239.md)
+* [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3270.md)
 

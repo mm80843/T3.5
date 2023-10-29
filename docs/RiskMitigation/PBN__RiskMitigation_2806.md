@@ -17,7 +17,7 @@
 * [Increase production and distribution of personal protective equipment, stockpile reserves for emergencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2719.md)
 * [Increase production and distribution of ppe, stockpiling for emergencies, and implementing reuse and decontamination strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2772.md)
 * [Improve cleanliness and maintenance of urban green spaces, implement social distancing measures and capacity limits, provide clear communication on safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2406.md)
-* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3130.md)
+* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5292.md)
 
 ## Risks possibly mitigated by this Mitigation
 

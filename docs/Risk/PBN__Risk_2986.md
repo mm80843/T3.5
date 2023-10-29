@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1316.md)
-* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4286.md)
+* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4293.md)
 

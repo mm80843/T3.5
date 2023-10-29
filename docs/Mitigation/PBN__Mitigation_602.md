@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_602 
 
-# __Distance learning/training__
+# __Ventilation and air filtration__
 
 ## Category to which it belongs
 
-* [Enhancing education access and equity through virtual learning, training programs, and closure of educational institutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
+* [Enhanced air purification using high-efficiency filters and ventilation systems, including portable devices and hvac systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
 
 ## Closest similar item
 
-* [Distance learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1759.md)
-* [Implementing distance learning solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3983.md)
-* [Remote work and distance learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1662.md)
-* [Implement distance learning solutions, provide technology and internet access to students.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3887.md)
-* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_927.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2516.md)
-* [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3644.md)
-* [Training protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3479.md)
-* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2134.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_786.md)
-
-## Property: has_MitigationPrinciple
-
-Use of digital tools to enable remote learning and training for students and public servants
-
-## Risks possibly mitigated by this Mitigation
-
-* [Disruption of education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2625.md)
-
-## Property: has_MitigationSource
-
-* [Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_143.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Virtual learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1420.md)
+* [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_603.md)
+* [Filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_604.md)
+* [Air ventilation and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_605.md)
+* [Mechanical ventilation and filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_606.md)
+* [Improve air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
+* [Filtered ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_608.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_609.md)
+* [Air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
+* [Air filtration and purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_611.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_612.md)
 

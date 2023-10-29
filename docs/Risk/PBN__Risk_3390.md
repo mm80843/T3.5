@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2349.md)
+* [Non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_666.md)
 

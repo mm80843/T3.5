@@ -19,6 +19,10 @@
 * [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1175.md)
 * [Promote healthy habits through education and awareness campaigns, provide support systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1939.md)
 
+## Blueprints with this mitigation
+
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1702.md)

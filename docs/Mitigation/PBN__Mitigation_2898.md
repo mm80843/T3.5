@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2898 
 
-# __Risk connectivity__
+# __Smart metering__
 
 ## Category to which it belongs
 
-* [Implement comprehensive measures to address and mitigate risks, ensure public safety, and promote preventive behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2019.md)
-* [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2899.md)
-* [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2894.md)
-* [Risk communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_6.md)
-* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_236.md)
-* [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_391.md)
-* [Risk management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_730.md)
-* [Improved risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1448.md)
-* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3116.md)
-* [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3016.md)
+* [Adoption of smart meters and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2897.md)
+* [Additional data sources and smart meter integration for water management.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2900.md)
+* [Intelligent monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_236.md)
+* [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1074.md)
+* [Smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3098.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2904.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_838.md)
+* [Mobile and remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1521.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_909.md)
+* [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1065.md)
 

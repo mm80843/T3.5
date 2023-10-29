@@ -2,6 +2,12 @@
 
 # __Surveillance system__
 
+## Link between Blueprint and General ontology
+
+* [Cctv systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_176.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_181.md)
+* [Surveillance camera technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_182.md)
+
 ## Category to which it belongs
 
 * [An array of systems and tools for real-time monitoring, surveillance, and control of various environmental, health, and safety parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
@@ -21,5 +27,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Effective public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1532.md)
+* [Effective public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4487.md)
 

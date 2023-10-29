@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3444 
 
-# __Increase the availability and accessibility of green spaces close to residential areas__
+# __Eave tubes__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3189.md)
-* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1176.md)
-* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2756.md)
-* [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2430.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2754.md)
-* [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1936.md)
-* [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3686.md)
-* [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3333.md)
-* [Limited access to public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3179.md)
-* [Increase access to outdoor spaces through the integration of green infrastructure in urban environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3257.md)
+* [Duct tape](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3445.md)
+* [Fountains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2114.md)
+* [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_619.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_614.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_612.md)
+* [Portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_661.md)
+* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3167.md)
+* [Rapid expansion of aiir capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3446.md)
+* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2935.md)
+* [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_766.md)
 

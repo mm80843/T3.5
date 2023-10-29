@@ -11,7 +11,7 @@
 * [Secure storage or deletion of personal data; careful consideration of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3032.md)
 * [Strong data encryption, secure data storage, consent-based data sharing.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1680.md)
 * [Implement strong security measures, anonymize and encrypt data, and obtain user consent for data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1702.md)
-* [Implement robust cybersecurity measures, such as encryption and secure data storage, to protect residents’ personal information. raise awareness about online safety and privacy protection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3212.md)
+* [Implement robust cybersecurity measures, such as encryption and secure data storage, to protect residents’ personal information. raise awareness about online safety and privacy protection.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5364.md)
 * [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_31.md)
 * [Ensure robust privacy and data protection measures; implement secure data encryption and storage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2696.md)
 * [Implement strong data protection measures, obtain consent, and ensure data anonymity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2776.md)

@@ -2,6 +2,12 @@
 
 # __Artificial intelligence and machine learning__
 
+## Link between Blueprint and General ontology
+
+* [AI/ML](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_8.md)
+* [Artificial intelligence and ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_167.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_87.md)
+
 ## Category to which it belongs
 
 * [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)

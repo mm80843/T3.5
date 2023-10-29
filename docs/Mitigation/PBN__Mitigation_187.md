@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_187 
 
-# __Emergency preparedness planning__
+# __Mobile chatbot applications__
 
 ## Category to which it belongs
 
-* [Build resilience, ensure food supply, manage crises, and enhance emergency plans for a sustainable and inclusive future.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
+* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
-* [Emergency plan development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1572.md)
-* [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_110.md)
-* [Pandemic preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2294.md)
-* [Strengthen public health emergency preparedness and response systems to mitigate the impact of epidemics.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2595.md)
-* [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_111.md)
-* [Emergency facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2596.md)
-* [Preparedness procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2597.md)
-* [Disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2182.md)
-* [Healthcare system preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
-* [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2598.md)
-
-## Property: has_MitigationPrinciple
-
-Developing strategies to ensure occupant safety and health during extreme events, such as fires, floods, and pandemics.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Extreme events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_132.md)
-
-## Property: has_MitigationSource
-
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Emergency systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2280.md)
-* [Safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2281.md)
+* [Whatsapp chatbot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3965.md)
+* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_183.md)
+* [Mobile phone apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_184.md)
+* [Mobile technology applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
+* [Implementation of smartphone-based apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_186.md)
+* [Messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3964.md)
+* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
+* [Use video chat and online platforms for communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3597.md)
+* [Mobile interface for feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1585.md)
+* [Development of mobile applications, websites, and communication channels for information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2959.md)
 

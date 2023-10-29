@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_94.md)
+* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3201.md)
 

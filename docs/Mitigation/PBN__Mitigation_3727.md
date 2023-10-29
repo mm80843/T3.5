@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3727 
 
-# __Closure of entertainment venues__
+# __Increase testing frequency__
 
 ## Category to which it belongs
 
-* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
+* [Enhanced and widespread testing, utilizing various methods and technologies, to detect and diagnose covid-19 with accuracy and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
-* [Closure of schools and entertainment venues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2035.md)
-* [Closure of small businesses, restaurants, cinemas, theatres, bars, pubs, and clubs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1748.md)
-* [Closure of non-essential public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4029.md)
-* [Closure of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1427.md)
-* [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_406.md)
-* [Public and private gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1541.md)
-* [Cancellation of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1747.md)
-* [Temporary closure of non-essential public places until recovery is reached.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3927.md)
-* [Workplace closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1746.md)
-* [Cancelation of mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1298.md)
+* [Lower testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3724.md)
+* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3009.md)
+* [Improve testing methods, consider testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3008.md)
+* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_805.md)
+* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3374.md)
+* [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3426.md)
+* [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3375.md)
+* [Testing strategy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3723.md)
+* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
+* [Increase production and distribution of testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3721.md)
 

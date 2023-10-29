@@ -44,26 +44,26 @@ Assessment of COVID-19 precautionary measures in sports facilities: A case study
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_242.md)
-* [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_244.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_738.md)
-* [Limited occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_813.md)
-* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_669.md)
-* [Monitoring temperature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_815.md)
-* [Training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_814.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3329.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
+* [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3330.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3760.md)
+* [Limited occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3829.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3699.md)
+* [Training and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3830.md)
+* [Monitoring temperature](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3831.md)
 
 ## This article mentions these technologies
 
 * [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
 * [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
 * [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
 * [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_773.md)
 * [Reservation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_774.md)
 * [Crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_775.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
 * [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [Announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_776.md)
 * [Cleaning schedules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_772.md)

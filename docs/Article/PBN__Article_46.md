@@ -40,30 +40,30 @@ A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil
 
 ## This article points to following mitigation
 
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_242.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
-* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_527.md)
-* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_528.md)
-* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_525.md)
-* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
-* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_529.md)
-* [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_531.md)
-* [Respiratory etiquette](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_526.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3329.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3284.md)
+* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_376.md)
+* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3578.md)
+* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3576.md)
+* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3580.md)
+* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3579.md)
+* [Respiratory etiquette](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3577.md)
+* [Contact tracing and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3581.md)
 
 ## This article mentions these technologies
 
 * [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
 * [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 * [Air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [Hvac technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_489.md)
 * [Develop emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_492.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
 * [Contactless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
 * [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_488.md)
 * [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [Build new hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_490.md)
 * [Equip healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_491.md)
 

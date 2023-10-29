@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3144 
 
-# __Raising awareness__
+# __Temporary emergency measures__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Investigating droplet physics, improving surveillance, addressing over-exposure, international collaboration, raising awareness, and more for a comprehensive response to the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_459.md)
+Implementing temporary emergency measures can provide immediate support to vulnerable populations and address urban inequalities during a crisis.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3162.md)
-* [Increased awareness and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_344.md)
-* [Communication and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_418.md)
-* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_867.md)
-* [Raise awareness, promote inclusivity and diversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2527.md)
-* [Raise awareness through education campaigns, provide accurate and accessible information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2804.md)
-* [Promoting awareness and knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_13.md)
-* [Public awareness and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3163.md)
-* [Increase public awareness through educational campaigns, provide reliable and accessible information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3088.md)
-* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3164.md)
+* [Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2212.md)
+
+## Property: has_MitigationSource
+
+* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Crisis management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2140.md)
 

@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1448 
 
-# __Improved risk preparedness__
+# __Automatic doors__
 
 ## Category to which it belongs
 
-* [Implement comprehensive measures to address and mitigate risks, ensure public safety, and promote preventive behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
+* [Enhance monitoring and response systems while integrating various wearable sensors, biosensors, nanotechnology, contactless systems, and robotics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
 
 ## Closest similar item
 
-* [Risk management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_730.md)
-* [Investing in disaster risk reduction and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1053.md)
-* [Preparedness procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2597.md)
-* [Handling uncertain risk](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3016.md)
-* [Risk](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2899.md)
-* [Increased risk](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3116.md)
-* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_236.md)
-* [Risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2019.md)
-* [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2894.md)
-* [Pandemic preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2294.md)
-
-## Property: has_MitigationPrinciple
-
-Governments and firms should work together to identify potential threats to essential activities, map players in essential supply chains, collect and share information on bottlenecks, and develop stress tests for supply chains.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Global value chains: Efficiency and risks in the context of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_60.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Hands-free door opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1453.md)
+* [Contactless door sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1446.md)
+* [Automatic control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1649.md)
+* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1450.md)
+* [Wider doorways and corridors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3097.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1650.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2512.md)
+* [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1652.md)
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1657.md)
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1654.md)
 

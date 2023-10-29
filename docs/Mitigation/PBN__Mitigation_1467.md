@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1467 
 
-# __Support for children’s education__
+# __Glazed windows__
 
-## Property: has_MitigationPrinciple
+## Category to which it belongs
 
-Providing support for children's education, including access to educational resources and digital infrastructure, can help mitigate the negative impact of school closures on the school-to-work transition for children of immigrants.
+* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-* [Disrupted education during school closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3061.md)
-
-## Property: has_MitigationSource
-
-* [What has been the impact of the COVID-19 pandemic on immigrants? An update on recent evidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_287.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+* [Window design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1464.md)
+* [Window ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2008.md)
+* [Natural ventilation and operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2009.md)
+* [Window opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3070.md)
+* [Spatial variety in window design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1469.md)
+* [Opening windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3067.md)
+* [Natural ventilation through window openings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2007.md)
+* [Opening windows for increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2005.md)
+* [Window and vent design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3920.md)
+* [Multiple window opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1465.md)
 

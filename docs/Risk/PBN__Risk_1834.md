@@ -64,8 +64,8 @@ Potential transmission of the virus through contact with contaminated surfaces/b
 
 ## Technologies linked to the risk
 
-* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1216.md)
 * [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1216.md)
 
 ## Property: has_RiskType
 

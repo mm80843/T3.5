@@ -2,6 +2,10 @@
 
 # __Mainstreaming health criteria in public space design__
 
+## Link between Blueprint and General ontology
+
+* [Space design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_6.md)
+
 ## Category to which it belongs
 
 * [Limited access to healthcare, unhealthy behaviors, and health disparities resulting from urban design contribute to negative health effects.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)

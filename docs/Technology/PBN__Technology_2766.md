@@ -2,6 +2,14 @@
 
 # __Data analysis technology__
 
+## Link between Blueprint and General ontology
+
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_2.md)
+* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_69.md)
+* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_71.md)
+* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_75.md)
+* [Data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_79.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Analysis of root causes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_901.md)
+* [Analysis of root causes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3908.md)
 

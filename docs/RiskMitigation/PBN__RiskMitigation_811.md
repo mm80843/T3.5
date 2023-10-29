@@ -15,7 +15,7 @@
 * [Exploration and development of alternative detection methods such as crispr, digital pcr, lab-on-a-chip, and biosensors.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1601.md)
 * [Integration of additional sensors into wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1422.md)
 * [Utilization of molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_586.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3225.md)
+* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5376.md)
 * [Develop eco-friendly and non-toxic nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1579.md)
 * [Proper application of biocidal agents on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2076.md)
 

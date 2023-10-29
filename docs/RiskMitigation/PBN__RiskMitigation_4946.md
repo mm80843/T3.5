@@ -1,0 +1,18 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_4946 
+
+# __Health checks on migrants__
+
+## Property: has_MitigationPrinciple
+
+Health checks conducted on migrants (referred to as the "floating population") to identify potential COVID-19 cases and prevent their spread
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationSource
+
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
+
+## This Mitigation is enabled by the following technologies
+
+

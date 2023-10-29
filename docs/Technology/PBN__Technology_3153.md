@@ -2,6 +2,15 @@
 
 # __Automated devices__
 
+## Link between Blueprint and General ontology
+
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
+* [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_171.md)
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_172.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_173.md)
+* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_199.md)
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_201.md)
+
 ## Category to which it belongs
 
 * [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
@@ -21,5 +30,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1569.md)
+* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4519.md)
 

@@ -19,6 +19,10 @@
 * [Indoor pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3198.md)
 * [Lack of adequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_341.md)
 
+## Blueprints with this risk
+
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
+
 ## Mitigations of this risk
 
 * [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)

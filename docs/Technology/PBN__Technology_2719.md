@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Spearman-karber method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_838.md)
+* [Spearman-karber method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3852.md)
 

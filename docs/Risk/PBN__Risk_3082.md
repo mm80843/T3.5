@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Limit misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1504.md)
+* [Limit misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4461.md)
 

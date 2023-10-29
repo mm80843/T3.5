@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3249 
 
-# __Established ontological models__
+# __Data-driven solutions__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Facilitating knowledge sharing through funding research efforts, developing ontologies, enhancing collaboration, and automating ontology models for data integration and standardization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_480.md)
+Utilizing data analysis and prediction models to forecast new COVID-19 cases and predict outcomes such as mortality risk, length of hospital stay, and the necessity of intensive care
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Ontological reasoning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_842.md)
-* [Existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3242.md)
-* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_53.md)
-* [Explore the use of established ontological models such as eq or rea to fill the gap.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2544.md)
-* [Ontology-based systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_840.md)
-* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3244.md)
-* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3243.md)
-* [Re-use ontological terms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1238.md)
-* [Develop and enhance tools to automate ontology models and applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1477.md)
-* [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3248.md)
+* [Limited historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2437.md)
+
+## Property: has_MitigationSource
+
+* [Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_297.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
 

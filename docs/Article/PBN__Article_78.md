@@ -40,13 +40,13 @@ Health Information Exchange with Blockchain amid Covid-19-like Pandemics
 
 ## This article points to following mitigation
 
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_425.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_426.md)
-* [Decentralized finance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_427.md)
-* [Transparent governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
-* [Health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_430.md)
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_431.md)
-* [Misinformation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_429.md)
+* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1097.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1103.md)
+* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3489.md)
+* [Decentralized finance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3490.md)
+* [Transparent governance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3491.md)
+* [Health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3493.md)
+* [Misinformation prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3492.md)
 
 ## This article mentions these technologies
 

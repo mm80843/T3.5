@@ -19,6 +19,10 @@
 * [Delay in reporting infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_846.md)
 * [Pandemic outbreak in cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_512.md)
 
+## Blueprints with this risk
+
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+
 ## Mitigations of this risk
 
 * [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_588.md)

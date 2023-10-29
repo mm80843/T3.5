@@ -2,6 +2,13 @@
 
 # __Image acquisition & cctv__
 
+## Link between Blueprint and General ontology
+
+* [Cctv cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_177.md)
+* [Cctv footage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_178.md)
+* [Cctv systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_176.md)
+* [Cctv](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_179.md)
+
 ## Category to which it belongs
 
 * [Enhanced visual monitoring technology for communication, collaboration, data collection, and security purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)

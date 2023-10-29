@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3051 
 
-# __Use uv-c disinfection as an adjunct to standard cleaning practices, not as a replacement.__
+# __Enhance access to mental health care__
 
 ## Category to which it belongs
 
-* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
+* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Uv-c disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2686.md)
-* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1025.md)
-* [Uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2690.md)
-* [Uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2924.md)
-* [Uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2923.md)
-* [Use of uv-c light for disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_340.md)
-* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2225.md)
-* [Uv disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2687.md)
-* [Uv light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_540.md)
-* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2925.md)
+* [Provide counseling services, emphasize mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1192.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1191.md)
+* [Provide mental health support, access to accurate information, and social support.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1193.md)
+* [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3052.md)
+* [Mental health support services, community connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1023.md)
+* [Provide targeted interventions for individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1980.md)
+* [Implement mental health and well-being programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3053.md)
+* [Mental health support services, stress management programs, promoting self-care activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1196.md)
+* [Provide mental health support services, financial assistance programs, and social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1198.md)
+* [Address mental health concerns, provide support through social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
 

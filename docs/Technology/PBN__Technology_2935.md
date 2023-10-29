@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Determining citizens’ preferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1159.md)
-* [Assessing citizens’ willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1162.md)
+* [Determining citizens’ preferences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4144.md)
+* [Assessing citizens’ willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4147.md)
 

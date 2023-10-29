@@ -12,7 +12,7 @@
 * [Use of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_374.md)
 * [Install physical barriers such as plexiglass or partitions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1809.md)
 * [Engineering controls physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_514.md)
-* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3217.md)
+* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5369.md)
 * [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_507.md)
 * [Optimize layout to provide separate spaces, utilize room dividers and soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2228.md)
 * [Designing containment space in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_269.md)

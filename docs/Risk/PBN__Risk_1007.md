@@ -43,8 +43,8 @@ Hospitals and healthcare facilities being overwhelmed by a large number of patie
 
 * [Telemedicine and remote testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1426.md)
 * [Tracking patient numbers and capacity prediction; balancing patient load across multiple hospitals; tracking key medical personnel and prioritizing their access to necessary items](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3034.md)
-* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1106.md)
-* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1534.md)
+* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4094.md)
+* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4489.md)
 
 ## Name of the risk
 

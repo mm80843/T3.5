@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1336 
 
-# __Java language__
+# __Health promotion campaigns__
 
 ## Category to which it belongs
 
-* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
+* [Promote health, educate the public, implement interventions, strengthen health systems, and exchange health information for a healthier population.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
-* [Language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1599.md)
-* [Training protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3479.md)
-* [Jsoup library](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1337.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2914.md)
-* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2762.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2150.md)
-* [E-learning packages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1667.md)
-* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3431.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2912.md)
-* [Robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3480.md)
-
-## Property: has_MitigationPrinciple
-
-Supports the web scraping process and data retrieval from websites.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_237.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Java programming language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3034.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1332.md)
+* [Public health campaigns to promote reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1333.md)
+* [Public health campaigns/education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1330.md)
+* [Promotion of healthier lifestyles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3816.md)
+* [Public health education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1331.md)
+* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1334.md)
+* [Promotion of healthy lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3817.md)
+* [Outreach campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_287.md)
+* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_144.md)
+* [Physical activity promotion strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
 

@@ -10,7 +10,7 @@
 
 * [Develop alternative supply chains, increase production and distribution capacity.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1516.md)
 * [Provide relief measures and financial support to manufacturing businesses, explore alternative supply chains](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2391.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3147.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5306.md)
 * [Diversify suppliers, optimize inventory management, establish alternative supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1902.md)
 * [Diversifying supply chains, increasing local production, implementing alternative sourcing strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2449.md)
 * [Diversifying suppliers and exploring local sourcing options, establishing alternative supply chains, and improving communication and coordination with suppliers.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2673.md)

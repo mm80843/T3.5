@@ -44,12 +44,12 @@ On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Dat
 
 ## This article points to following mitigation
 
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_96.md)
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_101.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_97.md)
-* [Anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_98.md)
-* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
-* [Trust and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_100.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3203.md)
+* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3208.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3204.md)
+* [Anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3205.md)
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3206.md)
+* [Trust and transparency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3207.md)
 
 ## This article mentions these technologies
 

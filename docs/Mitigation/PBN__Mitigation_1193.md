@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1193 
 
-# __Increased ventilation rates__
+# __Provide mental health support, access to accurate information, and social support.__
 
 ## Category to which it belongs
 
-* [Enhance airflow and air quality for better respiratory health through improved natural and mechanical ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
+* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Increased ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1979.md)
-* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1325.md)
-* [Higher ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1780.md)
-* [Increasing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1983.md)
-* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_220.md)
-* [High ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1291.md)
-* [Enhanced ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2674.md)
-* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_694.md)
-* [Maximizing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
-* [Increase ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2609.md)
-
-## Property: has_MitigationPrinciple
-
-By increasing the ventilation rates in a room, the amount of outdoor air brought in can dilute and remove indoor contaminants, reducing the risk of transmission of contagious diseases.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-
-## Property: has_MitigationSource
-
-* [Resilient Built Environment: Critical Review of the Strategies Released by the Sustainability Rating Systems in Response to the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_274.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [Provide mental health support services, financial assistance programs, and social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1198.md)
+* [Provide counseling services, emphasize mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1192.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1191.md)
+* [Provide mental health support services and hotlines, promote community support systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3054.md)
+* [Address mental health concerns, provide support through social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
+* [Providing mental health support, counseling, and stress management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1194.md)
+* [Provide information and support, monitor mental health and stress reactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1606.md)
+* [Provide mental health support services, such as counseling and helplines, to individuals in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1199.md)
+* [Mental health support services, community connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1023.md)
+* [Mental health support services, stress management programs, promoting self-care activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1196.md)
 

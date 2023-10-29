@@ -1,21 +1,22 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3180 
 
-# __Urban greening technologies__
+# __Physical activity promotion strategies__
 
-## Category to which it belongs
+## Link between Blueprint and General ontology
 
-* [Promote forest conservation, sustainable land use, and equitable access to urban green spaces for a greener and healthier environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_483.md)
+* [Improve physical health](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_27.md)
 
-## Closest similar item
+## Property: has_MitigationPrinciple
 
-* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_72.md)
-* [Expansion of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_420.md)
-* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_460.md)
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3226.md)
-* [Implement urban greening initiatives to create and enhance green spaces in highly urbanized areas, consider green roofs and vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2072.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3155.md)
-* [Implement green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1313.md)
-* [Create and maintain green spaces, establish green infrastructure policies in urban planning, promote nature-based solutions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1894.md)
-* [Incorporate green elements in urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1783.md)
-* [Building green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_424.md)
+Developing and implementing strategies and measures to encourage and promote physical activities during major public health crises, such as COVID-19, to increase awareness of the importance of exercise and address mental health issues.
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationSource
+
+* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
+
+## This Mitigation is enabled by the following technologies
+
 

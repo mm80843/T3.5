@@ -63,9 +63,9 @@ Poor service quality, network congestion, inability to support high-bandwidth ap
 
 ## Technologies linked to the risk
 
+* [Mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
 * [Network slicing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1580.md)
 * [Virtual nfs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1581.md)
-* [Mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
 * [Full beamforming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1583.md)
 
 ## Property: has_RiskType

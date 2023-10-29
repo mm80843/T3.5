@@ -15,7 +15,7 @@
 * [Promoting accurate information from reliable sources, fact-checking, and public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1461.md)
 * [Filter and synthesize the best available evidence from reliable sources, provide user-friendly formats and plain language summaries, and actively counter misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1852.md)
 * [Promote accurate information and fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2968.md)
-* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3325.md)
+* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5464.md)
 * [Promote fact-checking and accuracy in sharing information, educate the public on reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2410.md)
 * [Fact-checking, promoting reliable sources, educating the public](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1748.md)
 

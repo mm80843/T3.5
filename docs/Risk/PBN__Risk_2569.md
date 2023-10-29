@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_502.md)
+* [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3556.md)
 

@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1217 
 
-# __Telemedicine and remote consultation__
+# __Improve testing and reporting systems, increase transparency__
 
 ## Category to which it belongs
 
-* [Expanding healthcare access through remote technology, including telemedicine, telehealth clinics, and virtual consultations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
+* [Enhanced and widespread testing, utilizing various methods and technologies, to detect and diagnose covid-19 with accuracy and efficiency.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
-* [Telemedicine and remote consultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3518.md)
-* [Telemedicine consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1668.md)
-* [Telemedicine consultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2043.md)
-* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_284.md)
-* [Telemedicine and remote testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3736.md)
-* [Remote consultation solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1669.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
-* [Telemedical services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
-* [Telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1144.md)
-* [Telemedicine for psychosocial services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2840.md)
-
-## Property: has_MitigationPrinciple
-
-Enable remote healthcare services, consultations, and monitoring to reduce exposure
-
-## Risks possibly mitigated by this Mitigation
-
-* [Limited access, internet speed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2951.md)
-
-## Property: has_MitigationSource
-
-* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
-* [Telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2155.md)
+* [Improving transparency and communication, providing accurate and timely information, addressing concerns and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2945.md)
+* [Increase testing capacity, develop rapid and accurate test kits, promote widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_805.md)
+* [Increased testing access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3719.md)
+* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
+* [Increase testing capacity; develop and deploy widespread testing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3426.md)
+* [Promote transparent communication and accurate reporting; combat misinformation through fact-checking and verification systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1219.md)
+* [Increased testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1328.md)
+* [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2134.md)
+* [Increase testing capacity, improved testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3009.md)
+* [Information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1821.md)
 

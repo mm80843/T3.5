@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Timely research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_869.md)
+* [Timely research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3878.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Circle packing algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2155.md)
+* [Circle packing algorithm](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5036.md)
 

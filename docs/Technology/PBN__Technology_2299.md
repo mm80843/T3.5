@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Chlorine disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_224.md)
-* [Wiping surfaces with disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2261.md)
+* [Chlorine disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3313.md)
+* [Wiping surfaces with disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5138.md)
 

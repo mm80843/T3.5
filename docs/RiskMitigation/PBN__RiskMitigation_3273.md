@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3273 
 
-# __Outreach campaigns__
+# __Guidelines and standards__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Promote knowledge sharing, raise public awareness, and combat misinformation through education and communication campaigns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_474.md)
+Develop and implement guidelines and standards for healthy building design, construction, and operation.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3352.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3228.md)
-* [Targeted outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3241.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_662.md)
-* [Targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3230.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3233.md)
-* [Education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3165.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_865.md)
-* [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_66.md)
-* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3129.md)
+* [Lack of clear guidance and standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2448.md)
+
+## Property: has_MitigationSource
+
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Certification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
+* [Building codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1493.md)
 

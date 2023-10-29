@@ -2,6 +2,10 @@
 
 # __Digital integration__
 
+## Link between Blueprint and General ontology
+
+* [Expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_57.md)
+
 ## Category to which it belongs
 
 * [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
@@ -21,9 +25,9 @@
 
 ## This Technology enables the following mitigations
 
-* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2263.md)
-* [Virtualization of public services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2264.md)
-* [Composite space service facilities planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2265.md)
-* [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2266.md)
-* [Integration of physical and virtual space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2267.md)
+* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1393.md)
+* [Virtualization of public services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5140.md)
+* [Composite space service facilities planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5141.md)
+* [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5142.md)
+* [Integration of physical and virtual space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5143.md)
 

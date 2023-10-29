@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2542 
 
-# __Hand hygiene guidance__
+# __Online education__
 
 ## Category to which it belongs
 
-* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
-* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_525.md)
-* [Hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2540.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
-* [Performing hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2541.md)
-* [Regular hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_789.md)
-* [Improved hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1350.md)
-* [Promoting hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1098.md)
-* [Implement hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_958.md)
-* [Education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2567.md)
+* [Improved online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3642.md)
+* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_927.md)
+* [Remote work and online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3619.md)
+* [Online learning platforms, distribution of educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3313.md)
+* [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3643.md)
+* [Implement distance learning solutions, provide technology and internet access to students.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3644.md)
+* [Virtual classrooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1775.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_252.md)
+* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2694.md)
+* [Invest in digital infrastructure for remote learning, provide devices and internet access to students, support teachers and parents in adapting to remote education.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3645.md)
 

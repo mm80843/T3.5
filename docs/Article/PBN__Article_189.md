@@ -40,19 +40,19 @@ Mental health economics: A prospective study on psychological flourishing and as
 
 ## This article points to following mitigation
 
-* [Strengthen social capital and community coherence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1773.md)
-* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1774.md)
-* [Enhance access to mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1775.md)
-* [Implement mental health and well-being programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1776.md)
-* [Strengthen social safety nets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1777.md)
-* [Implement policies for paid sick leave](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1778.md)
+* [Strengthen social capital and community coherence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4709.md)
+* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4710.md)
+* [Enhance access to mental health care](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4711.md)
+* [Implement mental health and well-being programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4712.md)
+* [Strengthen social safety nets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4713.md)
+* [Implement policies for paid sick leave](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4714.md)
 
 ## This article mentions these technologies
 
 * [Online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
 * [Mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
-* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
 * [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
 * [Telemedicine for remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1516.md)
 * [Such as mental health apps and online interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1513.md)
 * [Health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1514.md)

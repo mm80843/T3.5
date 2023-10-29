@@ -12,7 +12,7 @@
 * [Implement distance learning solutions, provide technology and internet access to students.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2661.md)
 * [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1035.md)
 * [Tailoring interventions to target regions, investment in technology and infrastructure, subsidised mobile phone plans, free wi-fi hotspots, training programs, use of devices that do not require continuous network access.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3043.md)
-* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3153.md)
+* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5312.md)
 * [Expand internet connectivity and digital infrastructure, provide access to digital devices and educational resources, and promote digital literacy and inclusion programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1862.md)
 * [Improve accessibility to ugs by creating inclusive infrastructure and providing transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2246.md)
 * [Provide digital devices and internet access to overcome technological barriers, offer targeted support for language and academic needs of immigrant students.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2429.md)

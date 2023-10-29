@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3991 
 
-# __Design units with provisions for natural light, ventilation, access to nature, and personal gardening spaces__
+# __Resistance to new building systems__
 
 ## Category to which it belongs
 
-* [Enhance airflow and air quality for better respiratory health through improved natural and mechanical ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
+* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
-* [Design for natural lighting and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2808.md)
-* [Optimize room layout, create flexible and multipurpose spaces, maximize use of natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3992.md)
-* [Incorporate ventilation systems and optimize natural lighting in building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2810.md)
-* [Improve living conditions, access to natural light and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3684.md)
-* [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3496.md)
-* [Design spaces that prioritize natural light and ventilation, incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2570.md)
-* [Incorporate outdoor spaces in building design and provide access to communal gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2418.md)
-* [Encourage indoor gardening, provide access to natural light, create green views in indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3497.md)
-* [Outdoor design and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1685.md)
-* [Gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2416.md)
+* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
+* [Integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_869.md)
+* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3988.md)
+* [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2287.md)
+* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2274.md)
+* [Shift towards integrated and non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3989.md)
+* [Inefficiency in building systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3910.md)
+* [Non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1396.md)
+* [Slow adoption of new technologies in buildings sector](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3707.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2270.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Drones and robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1623.md)
+* [Drones and robot technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4573.md)
 

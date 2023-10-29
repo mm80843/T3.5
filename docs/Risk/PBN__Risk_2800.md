@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Posting caps with real data related to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_948.md)
+* [Posting caps with real data related to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3950.md)
 

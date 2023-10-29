@@ -14,7 +14,7 @@
 * [Civil right to counsel in eviction cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_180.md)
 * [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_178.md)
 * [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_177.md)
-* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3130.md)
+* [Occupancy control eg separating at/risk contaminated population](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5292.md)
 * [Implement social protection programs and financial incentives to support vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1491.md)
 * [Establish alternative support systems such as online counseling and helplines, ensure shelters remain open and accessible during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1467.md)
 * [Temporary closure of non-essential public places until recovery is reached.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1726.md)
@@ -23,7 +23,20 @@
 
 * [Decreased eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_197.md)
 
+## Property: has_MitigationPrinciple
+
+Implementing diversion programs can decrease eviction rates and prevent homelessness
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Eviction increases the risk of covid-19 acquisition and transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_147.md)
+* [Eviction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2482.md)
+
+## Property: has_MitigationSource
+
+* [Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_43.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Legal support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2327.md)
 

@@ -2,6 +2,10 @@
 
 # __Telecommunication infrastructure__
 
+## Link between Blueprint and General ontology
+
+* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_36.md)
+
 ## Category to which it belongs
 
 * [The built environment for green, digital, healthcare, transportation, and technological needs with reliable and scalable features.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2182.md)
+* [Disaster management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5061.md)
 

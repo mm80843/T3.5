@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Local data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2315.md)
+* [Local data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5188.md)
 

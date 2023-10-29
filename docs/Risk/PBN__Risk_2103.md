@@ -42,7 +42,7 @@ IoT devices and networks may be vulnerable to hacking and cyber-attacks.
 ## Mitigations of this risk
 
 * [Implement strong security measures, update firmware regularly, and monitor network.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2777.md)
-* [Tracetogether app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1652.md)
+* [Tracetogether app](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4596.md)
 
 ## Name of the risk
 

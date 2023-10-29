@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Offshore medical rigs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_13.md)
+* [Offshore medical rigs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_969.md)
 

@@ -2,6 +2,10 @@
 
 # __Collaboration agreements__
 
+## Link between Blueprint and General ontology
+
+* [Smart contracts](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_106.md)
+
 ## Category to which it belongs
 
 * [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Collaboration with national and international partners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2145.md)
+* [Collaboration with national and international partners](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5027.md)
 

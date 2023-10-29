@@ -2,6 +2,11 @@
 
 # __Secure protocols__
 
+## Link between Blueprint and General ontology
+
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_103.md)
+* [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_104.md)
+
 ## Category to which it belongs
 
 * [Enhanced cybersecurity measures and protocols ensure the secure and protected transmission, storage, and access of sensitive data.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Secure storage and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2280.md)
+* [Secure storage and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5155.md)
 

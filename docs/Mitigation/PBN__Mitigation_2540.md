@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2540 
 
-# __Hand hygiene protocols__
+# __Online grocery delivery__
 
 ## Category to which it belongs
 
-* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
+* [Promoting resilience and efficiency in global supply chains through diversification, optimization, and strategic coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_154.md)
 
 ## Closest similar item
 
-* [Implement hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_958.md)
-* [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
-* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_525.md)
-* [Hand hygiene guidance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2542.md)
-* [Regular hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_789.md)
-* [Performing hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2541.md)
-* [Hand hygiene products and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2543.md)
-* [Promoting hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1098.md)
-* [Improved hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1350.md)
+* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2541.md)
+* [Online shopping for home delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2538.md)
+* [Online shopping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2537.md)
+* [Increase in food deliveries and availability of basic food products](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2809.md)
+* [Promoting online shopping and delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2539.md)
+* [Management of deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2804.md)
+* [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3848.md)
+* [Flexible delivery hours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2329.md)
+* [Food parcels and free meals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3677.md)
+* [Implement alternative delivery methods, adapt supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_53.md)
 

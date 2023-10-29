@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Incentives for clean energy manufacturing and deployment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1925.md)
+* [Incentives for clean energy manufacturing and deployment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4847.md)
 

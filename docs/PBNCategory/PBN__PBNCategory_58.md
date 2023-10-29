@@ -5,13 +5,13 @@
 ## Items covered in this category
 
 * [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_70.md)
-* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_72.md)
+* [Data collection](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_85.md)
+* [Linked open data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_175.md)
+* [Linked data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_174.md)
 * [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_74.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_77.md)
 * [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_9.md)
 * [Big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_84.md)
-* [Data collection](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_85.md)
 * [Big data analytics nan platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_83.md)
-* [Linked data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_174.md)
-* [Linked open data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_175.md)
+* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_72.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_77.md)
 

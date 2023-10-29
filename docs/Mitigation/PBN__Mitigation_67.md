@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_67 
 
-# __Support from family and friends__
+# __Contact tracing application__
 
 ## Category to which it belongs
 
-* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
+* [Utilize technology to track, trace, and monitor contacts for effective and secure contact tracing and testing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
 
 ## Closest similar item
 
-* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1673.md)
-* [Social support and connection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_125.md)
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_126.md)
-* [Psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1676.md)
-* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1559.md)
-* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_788.md)
-* [Strengthen psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2421.md)
-* [Well-being support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_726.md)
-* [Support for people who cannot stop working and provide essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2779.md)
-* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_787.md)
-
-## Property: has_MitigationPrinciple
-
-The support from family and friends in engaging in physical activity during the pandemic, providing motivation and companionship, and increasing adherence to exercise routines.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Mental Health and the Role of Physical Activity During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_242.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_68.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_66.md)
+* [Contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_73.md)
+* [Digital contact tracing application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_169.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_153.md)
+* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_69.md)
+* [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_72.md)
+* [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_71.md)
+* [Digital contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_154.md)
+* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_76.md)
 

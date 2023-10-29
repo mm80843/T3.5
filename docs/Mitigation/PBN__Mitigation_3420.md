@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3420 
 
-# __Implementation of iot__
+# __Virtual reality__
 
 ## Category to which it belongs
 
-* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3421.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1535.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3167.md)
-* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3166.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1956.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3169.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3080.md)
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_431.md)
-* [Implement iot technologies and data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4136.md)
-* [Iot data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3168.md)
+* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3421.md)
+* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3422.md)
+* [Augmented / virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3897.md)
+* [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_898.md)
+* [Virtual gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_895.md)
+* [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3898.md)
+* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
+* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1053.md)
+* [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3806.md)
+* [Augmented reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3899.md)
 

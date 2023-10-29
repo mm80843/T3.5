@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2930 
 
-# __Disinfection of surfaces and development of antiviral coatings__
+# __Multi-functional buildings__
 
 ## Category to which it belongs
 
-* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
+* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
-* [Application of antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2931.md)
-* [Antiviral surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2932.md)
-* [Antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
-* [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3347.md)
-* [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2949.md)
-* [Development of more advanced self-disinfecting surface technologies with enhanced antiviral action.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3218.md)
-* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2952.md)
-* [Regular monitoring of coated surfaces for changes in viral viability and development of alternative coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2928.md)
-* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2954.md)
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1058.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2270.md)
+* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2274.md)
+* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1040.md)
+* [Common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
+* [Integrated building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_869.md)
+* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
+* [Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2409.md)
+* [Healthy building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2269.md)
+* [Inflexible building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2271.md)
+* [Sustainable building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3451.md)
 

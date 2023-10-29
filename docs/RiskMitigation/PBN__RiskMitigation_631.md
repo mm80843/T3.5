@@ -9,14 +9,14 @@
 ## Closest similar item
 
 * [Addressing socioeconomic factors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_687.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3151.md)
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5310.md)
 * [Implement wealth redistribution measures, provide social safety nets, invest in education and training opportunities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1949.md)
 * [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_540.md)
 * [Reduce tax cuts and increase public social expenditure to improve health and education.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2946.md)
 * [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1035.md)
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3141.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3272.md)
 * [Increase availability and affordability of healthy food options, support urban agriculture, and provide nutritional education and guidance.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2440.md)
-* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3142.md)
+* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5301.md)
 * [Provide financial assistance programs, energy efficiency upgrades, and education on energy-saving practices for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2094.md)
 
 ## Benefits linked to a risk

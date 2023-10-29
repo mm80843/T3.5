@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2659 
 
-# __Clean air__
+# __Public health and safety measures__
 
 ## Category to which it belongs
 
-* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
+* [Promote health, educate the public, implement interventions, strengthen health systems, and exchange health information for a healthier population.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
-* [Cleaning air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2235.md)
-* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1354.md)
-* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1327.md)
-* [Access to fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_511.md)
-* [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_714.md)
-* [Improve ventilation systems, increase fresh air supply, and use air filters to reduce the spread of airborne particles.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2677.md)
-* [Increase ventilation rates, use air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2679.md)
-* [Portable air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1043.md)
-* [Adequate air exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1731.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1257.md)
+* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2801.md)
+* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2796.md)
+* [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3682.md)
+* [Public health policies and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_961.md)
+* [Public health measures and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1337.md)
+* [Workplace safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3056.md)
+* [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
+* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2487.md)
+* [Occupational safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3804.md)
 

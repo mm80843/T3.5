@@ -2,6 +2,10 @@
 
 # __Urban planners__
 
+## Link between Blueprint and General ontology
+
+* [Big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_84.md)
+
 ## Category to which it belongs
 
 * [Strategies for equitable urban planning, development, and design, integrating green spaces, technology, and spatial optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)

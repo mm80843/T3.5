@@ -19,7 +19,11 @@
 * [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_797.md)
 * [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
 
+## Blueprints with this risk
+
+* [Building adaptation for flexible use](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_13.md)
+
 ## Mitigations of this risk
 
-* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_417.md)
+* [New opportunities for non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3483.md)
 

@@ -23,7 +23,21 @@
 
 * [Facilitating coordination and multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_540.md)
 
+## Property: has_MitigationPrinciple
+
+KT platforms can facilitate coordination and dialogue between stakeholders from different sectors to shape policy solutions and exchange relevant information.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Lack of collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_397.md)
+* [Silos](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2617.md)
+
+## Property: has_MitigationSource
+
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [Real-time information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2567.md)
 

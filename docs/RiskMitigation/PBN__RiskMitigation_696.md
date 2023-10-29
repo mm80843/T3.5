@@ -23,7 +23,18 @@
 
 * [Ineffective policy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_701.md)
 
+## Property: has_MitigationPrinciple
+
+Isolate only the known infected individuals and individuals at risk (such as elderly and people with pre-existing diseases) while allowing young people and adults to work regularly.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_324.md)
+
+## Property: has_MitigationSource
+
+* [COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_139.md)
+
+## This Mitigation is enabled by the following technologies
+
 

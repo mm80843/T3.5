@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3492 
 
-# __Uvgi in ahus__
+# __Smart ppe__
 
 ## Category to which it belongs
 
-* [Utilize uv radiation for germicidal purposes, including upper-room fixtures, aerosol chambers, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1289.md)
-* [Direct uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3489.md)
-* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1369.md)
-* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_258.md)
-* [Upper room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2223.md)
-* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3487.md)
-* [Upper-room uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2703.md)
-* [Lack of standardized tests and protocols for uvgi efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4056.md)
-* [Uvgi systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3488.md)
-* [Use of 254 nm uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3491.md)
+* [Ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3489.md)
+* [Ppe distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3490.md)
+* [Practical ppe rules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3491.md)
+* [Green ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2535.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_481.md)
+* [Ppe usage and disposal protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3493.md)
+* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
+* [Implement engineering and administrative controls, provide ppe.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3495.md)
+* [Providing additional personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
+* [Smart learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3330.md)
 

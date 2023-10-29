@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1477 
 
-# __Public health awareness__
+# __Research on aerosol transmission__
 
 ## Category to which it belongs
 
-* [Promote health, educate the public, implement interventions, strengthen health systems, and exchange health information for a healthier population.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
+* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## Closest similar item
 
-* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_587.md)
-* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2965.md)
-* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3202.md)
-* [Public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2159.md)
-* [Public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2530.md)
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1686.md)
-* [Public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1226.md)
-* [Enhance public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3398.md)
-* [Disease awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1882.md)
-* [Strengthen public and universal health systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3203.md)
-
-## Property: has_MitigationPrinciple
-
-Raising awareness and educating the public about vector-borne diseases and their prevention measures
-
-## Risks possibly mitigated by this Mitigation
-
-* [Lack of knowledge and understanding of vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3070.md)
-
-## Property: has_MitigationSource
-
-* [Vector-borne disease, climate change and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_17.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1117.md)
+* [Virus transmission through aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1239.md)
+* [Transmission of covid-19 through aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2760.md)
+* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_697.md)
+* [Airborne transmission of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2761.md)
+* [Covid-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2762.md)
+* [Aerosol irradiation chamber](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1364.md)
+* [Implement strategies to promote good room air mixing, such as ceiling mounted fans, to ensure even distribution of aerosol particles in the uv field](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1296.md)
+* [Implement proper ventilation systems to reduce aerosol concentration in enclosed spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_699.md)
+* [Uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2763.md)
+* [Effect of relative humidity rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2764.md)
 

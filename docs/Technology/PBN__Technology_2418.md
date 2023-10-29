@@ -2,6 +2,15 @@
 
 # __Home energy management systems__
 
+## Link between Blueprint and General ontology
+
+* [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_29.md)
+* [Energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_196.md)
+* [Smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_111.md)
+* [Improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_247.md)
+* [Power management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_197.md)
+* [Smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_118.md)
+
 ## Category to which it belongs
 
 * [Efficient, sustainable energy technologies and systems that reduce carbon emissions and promote clean, renewable sources, while optimizing energy management and conservation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
@@ -21,5 +30,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_383.md)
+* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3453.md)
 

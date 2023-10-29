@@ -4,6 +4,7 @@
 
 ## Items covered in this category
 
+* [National and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2820.md)
 * [Travel policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
 * [Welfare policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2646.md)
 * [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_804.md)
@@ -23,7 +24,6 @@
 * [Workplace policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3306.md)
 * [Flexibility policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3312.md)
 * [Inclusive policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1804.md)
-* [National and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2820.md)
 * [Environmental policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2550.md)
 * [Community policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
 * [Equitable urban planning and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2059.md)

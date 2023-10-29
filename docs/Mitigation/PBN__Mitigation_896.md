@@ -1,39 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_896 
 
-# __Data visualization__
+# __Active play__
 
 ## Category to which it belongs
 
-* [Promote seamless data sharing, real-time analysis, and collaboration through standardized protocols and integrated platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Analysis visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1077.md)
-* [Visualization tool](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2156.md)
-* [Web platform for data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_683.md)
-* [Visualization and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_377.md)
-* [Data dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2303.md)
-* [Data management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2764.md)
-* [Data integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_895.md)
-* [Increase data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1505.md)
-* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1281.md)
-
-## Property: has_MitigationPrinciple
-
-Presenting data in a visual form to enable easy interpretation and analysis
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
-* [Open-source analytics tools for studying the COVID-19 coronavirus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_218.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2762.md)
-* [Graphical representation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2763.md)
-* [R package ncov2019](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3677.md)
+* [Exergames and active video games](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_893.md)
+* [Active design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1860.md)
+* [Encourage active play, online fitness classes for children, limit screen time](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_901.md)
+* [Virtual gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_895.md)
+* [Indoor challenging games](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_894.md)
+* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1861.md)
+* [Active short breaks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1862.md)
+* [Active design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
+* [Active travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1429.md)
+* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_892.md)
 

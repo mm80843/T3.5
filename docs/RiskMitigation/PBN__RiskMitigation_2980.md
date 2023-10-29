@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3312.md)
+* [Thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5453.md)
 * [Check and control pressure differentials, increase ventilation rates, and monitor and maintain the operation of heat recovery systems.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1936.md)
 * [Improve insulation, adjust hvac systems, provide personal comfort devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2475.md)
 * [Ensure proper facade design and ventilation to maintain thermal comfort.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2485.md)

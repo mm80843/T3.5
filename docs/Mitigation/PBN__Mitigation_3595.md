@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3595 
 
-# __Timely implementation__
+# __Use of social media by firms__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Promoting social distancing, equality, norms, interaction, and facilitation of social spaces to address societal issues and inequalities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
-* [Timely research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_869.md)
-* [Timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1836.md)
-* [Ensure timely implementation of control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3509.md)
-* [Clear and timely information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1672.md)
-* [Timely data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
-* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2391.md)
-* [Adjusting schedules to avoid slowdown bottleneck](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1845.md)
-* [Staggered schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_792.md)
-* [Implement rapid response mechanisms and decision-making protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3078.md)
-* [Promptly repair and maintain infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3045.md)
+* [Use of social media by decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3569.md)
+* [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1793.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1762.md)
+* [Government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2787.md)
+* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1024.md)
+* [Social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3477.md)
+* [Social network](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_357.md)
+* [Monitoring social media content](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2442.md)
+* [Access to social capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3049.md)
+* [Use of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1789.md)
 

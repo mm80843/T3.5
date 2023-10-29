@@ -42,7 +42,7 @@ Positive detection of the virus on toilet surfaces and bathroom areas.
 ## Mitigations of this risk
 
 * [Maintain hygiene in private and public toilets.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1824.md)
-* [Faecal management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_546.md)
+* [Faecal management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3594.md)
 
 ## Name of the risk
 

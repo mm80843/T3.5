@@ -2,6 +2,10 @@
 
 # __Regular disinfection__
 
+## Link between Blueprint and General ontology
+
+* [Sanitizing](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_2.md)
+
 ## Category to which it belongs
 
 * [Inadequate sanitation, contaminated surfaces, and lack of proper cleaning contribute to the spread of pathogens.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)

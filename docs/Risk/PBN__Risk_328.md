@@ -19,6 +19,10 @@
 * [Lack of access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1040.md)
 * [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3415.md)
 
+## Blueprints with this risk
+
+* [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
+
 ## Mitigations of this risk
 
 * [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_423.md)

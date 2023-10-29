@@ -38,14 +38,14 @@ Prototype Early Warning Systems for Vector-Borne Diseases in Europe
 
 ## This article points to following mitigation
 
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
-* [Personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_739.md)
-* [Enhanced surveillance and reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1804.md)
-* [Vector surveillance and control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1801.md)
-* [Early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1802.md)
-* [Healthcare access and early treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1805.md)
-* [Land-use planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1800.md)
-* [Improved blood safety practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1803.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
+* [Personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3761.md)
+* [Enhanced surveillance and reporting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4740.md)
+* [Land-use planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4736.md)
+* [Vector surveillance and control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4737.md)
+* [Early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4738.md)
+* [Improved blood safety practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4739.md)
+* [Healthcare access and early treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4741.md)
 
 ## This article mentions these technologies
 

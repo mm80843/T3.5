@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3288 
 
-# __Maintenance / decontamination of building water sytems__
+# __Nano-spray technology__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Enhancing water and wastewater surveillance, improving sanitation measures, and implementing effective waste management strategies are crucial for public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_453.md)
+Nano-spray technology involves the use of graphene-based nanomaterials, such as graphene oxide (GO) and reduced graphene oxide (rGO), in a spray form to disinfect and inactivate viruses on personal protective equipment (PPE) and surfaces. The nanomaterials act by disrupting the viral membrane and preventing viral binding through electrostatic interactions. Nano-spray can be used by individuals to sanitize their PPE and personal belongings, reducing the risk of virus transmission.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Maintenance and decontamination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_229.md)
-* [Proper treatment and disinfection of water and wastewater systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2297.md)
-* [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2210.md)
-* [Proper wastewater treatment and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_483.md)
-* [Provide hot water for cleaning, implement proper decontamination and waste disposal protocols.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2253.md)
-* [Improved water treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_804.md)
-* [Regular maintenance and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2873.md)
-* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_350.md)
-* [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_364.md)
-* [Environmental sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1364.md)
+* [Personal protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2460.md)
+
+## Property: has_MitigationSource
+
+* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Graphene-based nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_212.md)
 

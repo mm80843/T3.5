@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Virus quantification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_924.md)
+* [Virus quantification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3929.md)
 

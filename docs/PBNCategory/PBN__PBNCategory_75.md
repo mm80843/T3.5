@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Gps location](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_158.md)
 * [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_160.md)
+* [Gps location](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_158.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3004 
 
-# __Regular disinfection of surfaces, hand hygiene, and use of personal protective equipment__
+# __Devising mitigation measures in construction projects__
 
 ## Category to which it belongs
 
-* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
+* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
-* [Regular cleaning and disinfection of surfaces, frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3530.md)
-* [Practicing hand hygiene, disinfecting commonly touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3008.md)
-* [Regular hand hygiene practices, cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3007.md)
-* [Regular disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2958.md)
-* [Regular and thorough disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3345.md)
-* [Strict disinfection measures, hand](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3005.md)
-* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1839.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_243.md)
-* [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3793.md)
-* [Physical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2248.md)
+* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2067.md)
+* [Mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3108.md)
+* [Measures in design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2469.md)
+* [Mitigation measure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3654.md)
+* [Compliance with building codes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3000.md)
+* [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2816.md)
+* [Insufficient building regulations and codes for transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3002.md)
+* [Timing of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2692.md)
+* [Improve building design and operation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2272.md)
+* [Push for information-based construction management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2288.md)
 

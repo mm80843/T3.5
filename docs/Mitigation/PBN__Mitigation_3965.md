@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3965 
 
-# __Overwhelming customization__
+# __Whatsapp chatbot__
 
 ## Category to which it belongs
 
-* [Design spaces that are adaptable, flexible, and can be transformed to accommodate a variety of functions and needs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
+* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## Closest similar item
 
-* [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3465.md)
-* [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3279.md)
-* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3443.md)
-* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3457.md)
-* [Personalized indoor controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_699.md)
-* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3195.md)
-* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
-* [Flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2835.md)
-* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3458.md)
-* [Explore modular and flexible designs to accommodate different uses and activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3441.md)
+* [Mobile chatbot applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_187.md)
+* [Messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3964.md)
+* [Use video chat and online platforms for communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3597.md)
+* [Implement ai-based triage systems and online medical chat bots for early symptom recognition and patient education.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3310.md)
+* [Tele-response bots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4103.md)
+* [Gok direct app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_185.md)
+* [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1827.md)
+* [Automated sms alerts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3023.md)
+* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1208.md)
+* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2944.md)
 

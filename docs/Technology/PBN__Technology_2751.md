@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Short-term cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_884.md)
+* [Short-term cash flow management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_712.md)
 

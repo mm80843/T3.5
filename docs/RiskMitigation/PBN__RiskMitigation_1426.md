@@ -17,7 +17,7 @@
 * [Adoption of telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_906.md)
 * [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_49.md)
 * [Virtual clinics and tele-medicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1327.md)
-* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3211.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5363.md)
 
 ## Benefits linked to a risk
 

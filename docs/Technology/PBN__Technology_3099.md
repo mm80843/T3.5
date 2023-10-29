@@ -2,6 +2,20 @@
 
 # __Digital technologies__
 
+## Link between Blueprint and General ontology
+
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_1.md)
+* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_55.md)
+* [Digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_56.md)
+* [Expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_57.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_58.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_59.md)
+* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_60.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_61.md)
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_62.md)
+* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
+* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_102.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,6 +35,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Reducing heterogeneity of technical standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1454.md)
-* [Reviewing transport, logistics, and border regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1455.md)
+* [Reducing heterogeneity of technical standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4415.md)
+* [Reviewing transport, logistics, and border regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4416.md)
 

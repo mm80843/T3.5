@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1258 
 
-# __Flexibility and transformation__
+# __Conducting experiments under bsl3 protocols__
 
 ## Category to which it belongs
 
-* [Design spaces that are adaptable, flexible, and can be transformed to accommodate a variety of functions and needs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Flexibility and adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_999.md)
-* [Adaptability and flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1001.md)
-* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3443.md)
-* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_764.md)
-* [Flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2835.md)
-* [Permanent transformations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_673.md)
-* [Lack of design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3457.md)
-* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3458.md)
-* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
-* [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_472.md)
-
-## Property: has_MitigationPrinciple
-
-Design buildings with adaptable and flexible spaces that can easily be transformed to meet changing needs and requirements during pandemics.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1136.md)
+* [Standardization of analytical protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1134.md)
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1135.md)
+* [Implementation of safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1140.md)
+* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1259.md)
+* [Implement reliable communication protocols and redundancy measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1260.md)
+* [Standardize data protocols, promote data sharing and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
+* [Clear and transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1261.md)
+* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1262.md)
+* [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1263.md)
 

@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4067 
 
-# __Aerators__
+# __Active smoke-free policies__
 
 ## Category to which it belongs
 
@@ -8,14 +8,14 @@
 
 ## Closest similar item
 
-* [Increase water movement and aeration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2968.md)
-* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1354.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1280.md)
-* [Air control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2717.md)
-* [Quarantines,](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2469.md)
-* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
-* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1329.md)
-* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1327.md)
-* [Water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_625.md)
+* [Public health policies and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_961.md)
+* [Tailored policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_30.md)
+* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_24.md)
+* [Temporary regulations for certain activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1930.md)
+* [Implementation of public health policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1951.md)
+* [Targeted policies for specific social groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3345.md)
+* [Ineffective mitigation policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
+* [Testing policy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3585.md)
+* [Community participation in control policies and preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3294.md)
+* [Restricted visitor policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1885.md)
 

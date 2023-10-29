@@ -1,21 +1,22 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3334 
 
-# __Optimize users flows to prevent contamination__
+# __Surfacide uv-c disinfection system__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Enhancing water and wastewater surveillance, improving sanitation measures, and implementing effective waste management strategies are crucial for public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_453.md)
+Utilizes UV-C radiation emitted by multiple emitters to disinfect a whole room, with disinfection cycle time calculated based on room size
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Restrict population flow](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_125.md)
-* [Implementing proper sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_888.md)
-* [Use individual or limited capacity transportation with partitions/barriers, enforce mask-wearing and no talking, disinfect vehicles after each use](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2794.md)
-* [Implement proper disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2881.md)
-* [Improving access to safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_287.md)
-* [Improved sanitation and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_529.md)
-* [Limiting the number of visitors, enforcing social distancing measures, and increasing sanitation efforts in ugs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2931.md)
-* [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_193.md)
-* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2056.md)
-* [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_571.md)
+
+## Property: has_MitigationSource
+
+* [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Motion sensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2321.md)
+* [Touch screen control tablet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2320.md)
+* [Uv-c emitters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2319.md)
+* [Laser](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2322.md)
 

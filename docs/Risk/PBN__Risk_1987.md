@@ -42,7 +42,7 @@ Automation technologies, such as industrial robots, may replace certain tasks an
 ## Mitigations of this risk
 
 * [Enhance job training and reskilling programs, promote entrepreneurship, and support job creation in new industries.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2626.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1701.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4640.md)
 
 ## Name of the risk
 

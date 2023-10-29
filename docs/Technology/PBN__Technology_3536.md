@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Face to face communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2147.md)
+* [Face to face communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5029.md)
 

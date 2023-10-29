@@ -64,11 +64,11 @@ Inefficient response to the pandemic, difficulty in implementing coordinated mea
 
 ## Technologies linked to the risk
 
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
-* [Emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_275.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 * [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
+* [Emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_275.md)
 * [Remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
 
 ## Property: has_RiskType

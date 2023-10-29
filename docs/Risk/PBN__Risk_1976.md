@@ -63,9 +63,9 @@ Increased risk of contracting COVID-19 and potential negative health impacts.
 
 ## Technologies linked to the risk
 
+* [Ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1461.md)
 * [Contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1460.md)
 * [Temperature screening devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1459.md)
-* [Ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1461.md)
 
 ## Property: has_RiskType
 

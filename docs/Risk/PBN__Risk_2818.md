@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Supporting access to technology and capital goods in global south](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_982.md)
+* [Supporting access to technology and capital goods in global south](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3983.md)
 

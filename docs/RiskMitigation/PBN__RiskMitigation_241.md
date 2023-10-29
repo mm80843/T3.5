@@ -16,14 +16,27 @@
 * [Implement physical distancing measures, modify layout to allow for more space between individuals, and limit occupancy in common areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2261.md)
 * [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
 * [Flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_352.md)
-* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3187.md)
+* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5343.md)
 * [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_748.md)
 
 ## Benefits linked to a risk
 
 * [Personalization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_252.md)
 
+## Property: has_MitigationPrinciple
+
+Provide adjustable indoor spaces to meet residents' needs
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Pc2: personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_202.md)
+* [Personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3295.md)
+
+## Property: has_MitigationSource
+
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Adjustable area ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1777.md)
 

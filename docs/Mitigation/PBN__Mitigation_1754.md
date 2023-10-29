@@ -1,38 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1754 
 
-# __Uv-light radiation__
+# __Household-level activity/sports spaces__
 
 ## Category to which it belongs
 
-* [Utilize uv radiation for germicidal purposes, including upper-room fixtures, aerosol chambers, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
+* [Promote and facilitate various forms of physical activity and exercise through online and home-based programs and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_371.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2706.md)
-* [Ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2978.md)
-* [Uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1681.md)
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_223.md)
-* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2242.md)
-* [Upper-room uv light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2699.md)
-* [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2701.md)
-* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2860.md)
-* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_600.md)
-
-## Property: has_MitigationPrinciple
-
-UV rays can damage the genetic material of viruses, bacteria, and fungi, rendering them unable to reproduce and spread. UV radiation can be generated artificially or obtained from natural sunlight. UV light can be used for disinfection purposes to eliminate pathogens on surfaces, air, and water.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_79.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Led](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3294.md)
-* [Fluorescent lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3293.md)
-* [Uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2415.md)
+* [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_937.md)
+* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
+* [Provide spaces for physical activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2478.md)
+* [Design and develop public spaces that encourage social interaction and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3515.md)
+* [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_917.md)
+* [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2493.md)
+* [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3389.md)
+* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3516.md)
+* [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_230.md)
 

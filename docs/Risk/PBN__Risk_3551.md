@@ -2,6 +2,10 @@
 
 # __Air quality monitoring__
 
+## Link between Blueprint and General ontology
+
+* [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_0.md)
+
 ## Category to which it belongs
 
 * [Inadequate ventilation, poor air quality, and high levels of indoor pollutants pose health risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
@@ -18,4 +22,8 @@
 * [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3567.md)
 * [Low indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1409.md)
 * [Indoor air pollution iap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
+
+## Blueprints with this risk
+
+* [Indoor environmental quality ieq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
 

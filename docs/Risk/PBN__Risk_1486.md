@@ -76,8 +76,8 @@ Increased risk of disease transmission
 ## Technologies linked to the risk
 
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
-* [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)
 * [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
+* [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)
 * [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)
 
 ## Property: has_RiskType

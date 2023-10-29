@@ -2,6 +2,12 @@
 
 # __Infographics__
 
+## Link between Blueprint and General ontology
+
+* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_3.md)
+* [Graphical representation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_91.md)
+* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_92.md)
+
 ## Category to which it belongs
 
 * [Fact-checking tools, education initiatives, and ontology search engines are among the various resources and practices utilized to ensure the credibility and accuracy of information in different fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_240.md)

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Safe water, sanitation, and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
+* [Safe water, sanitation, and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4096.md)
 

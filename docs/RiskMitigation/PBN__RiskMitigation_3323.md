@@ -1,21 +1,19 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3323 
 
-# __Improved location tracking algorithms__
+# __Risk communication strategy__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Implementation of various monitoring technologies, including digital pcr, wearable devices, and iot sensors, for remote tracking and surveillance purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_455.md)
+Risk communication strategies should be developed to address the concerns of diverse communities, promote prevention and response to pandemics, and ensure trust and transparency.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Continuously improve location tracking algorithms, ensure reliable bluetooth connectivity, conduct regular testing and updates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2572.md)
-* [Gps tracking and prediction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1153.md)
-* [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3343.md)
-* [Mobile tracking and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1157.md)
-* [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1405.md)
-* [Logistical tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1409.md)
-* [Digital tracking tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_633.md)
-* [Use of positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_585.md)
-* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1030.md)
-* [Gps-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1151.md)
+
+## Property: has_MitigationSource
+
+* [An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Comprehensive risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2306.md)
 

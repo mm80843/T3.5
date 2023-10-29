@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_808.md)
+* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1276.md)
 

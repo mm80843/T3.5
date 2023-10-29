@@ -31,9 +31,9 @@
 * [A review of facilities management interventions to mitigate respiratory infections in existing buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_171.md)
 * [A Platform for Citizen Cooperation during the COVID-19 Pandemic in RN, Brazil](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_46.md)
 * [Architectural Design Drives the Biogeography of Indoor Bacterial Communities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_52.md)
+* [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
 * [COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_120.md)
 * [A Mixed Approach on Resilience of Spanish Dwellings and Households during COVID-19 Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_89.md)
-* [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
 
 ## This Technology belongs to this TechSubgroup
 
@@ -43,16 +43,16 @@
 
 ## This Technology enables the following mitigations
 
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
-* [Promoting hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1098.md)
-* [Personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_739.md)
-* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_984.md)
-* [Washing hands](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1340.md)
-* [Improved hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1350.md)
-* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1690.md)
-* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_669.md)
-* [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
-* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_859.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
+* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_85.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_985.md)
+* [Promoting hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4087.md)
+* [Personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3761.md)
+* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3985.md)
+* [Washing hands](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4308.md)
+* [Improved hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4318.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3699.md)
+* [Hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3729.md)
 
 ## Risks linked to this technology
 

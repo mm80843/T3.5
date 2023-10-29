@@ -21,9 +21,9 @@
 
 ## Mitigations of this risk
 
-* [Strengthening ongoing prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2376.md)
-* [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2372.md)
-* [Access to accurate and reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2375.md)
-* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2373.md)
-* [Promotion of healthy lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2374.md)
+* [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5238.md)
+* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5239.md)
+* [Promotion of healthy lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5240.md)
+* [Access to accurate and reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5241.md)
+* [Strengthening ongoing prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5242.md)
 

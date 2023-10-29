@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3000 
 
-# __Touchless technologies for doors and faucets__
+# __Compliance with building codes__
 
 ## Category to which it belongs
 
-* [Enhance monitoring and response systems while integrating various wearable sensors, biosensors, nanotechnology, contactless systems, and robotics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_196.md)
+* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
-* [Touchless household technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3049.md)
-* [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1274.md)
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2082.md)
-* [Implement touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3047.md)
-* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2054.md)
-* [Implementation of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3046.md)
-* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1569.md)
-* [Touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3048.md)
-* [Implementation of touchless systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_339.md)
-* [Contactless door sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
+* [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2816.md)
+* [Revision of building codes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3001.md)
+* [Insufficient building regulations and codes for transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3002.md)
+* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2312.md)
+* [Implementing strict protocols for personal cleanliness, sanitization, and ventilation on construction sites.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3003.md)
+* [Devising mitigation measures in construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3004.md)
+* [Building information modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2285.md)
+* [Building closures and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_323.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2270.md)
+* [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3005.md)
 

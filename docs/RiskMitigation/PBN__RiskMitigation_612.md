@@ -2,6 +2,10 @@
 
 # __Design flexibility__
 
+## Link between Blueprint and General ontology
+
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_28.md)
+
 ## Category to which it belongs
 
 * [Design and implement adaptable, sustainable, and human-centric solutions for optimized occupant presence, lighting, physical space, and construction methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_469.md)
@@ -14,7 +18,7 @@
 * [Explore modular and flexible designs to accommodate different uses and activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1973.md)
 * [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_748.md)
 * [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_246.md)
-* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3258.md)
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5406.md)
 * [Flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_352.md)
 * [Passive design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_996.md)
 * [Human-centric design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_139.md)

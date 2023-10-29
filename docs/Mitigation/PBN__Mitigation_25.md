@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_25 
 
-# __Access to adequate sanitation__
+# __Public health interventions__
 
 ## Category to which it belongs
 
-* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
+* [Promote health, educate the public, implement interventions, strengthen health systems, and exchange health information for a healthier population.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
 
 ## Closest similar item
 
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2085.md)
-* [Proper sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3857.md)
-* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1614.md)
-* [Improved sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1111.md)
-* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3207.md)
-* [Mandatory sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1315.md)
-* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3856.md)
-* [Sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3208.md)
-* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3211.md)
-* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2292.md)
-
-## Property: has_MitigationPrinciple
-
-Ensuring access to adequate sanitation facilities is essential to prevent the transmission of infectious diseases within communities.
-
-## Risks possibly mitigated by this Mitigation
-
-* [Spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2380.md)
-
-## Property: has_MitigationSource
-
-* [COVID-19: Lessons for an Urban(izing) World](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_85.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Sanitation infrastructure and services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2136.md)
+* [Implementing public health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
+* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1949.md)
+* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1334.md)
+* [Non-pharmaceutical public health interventions nphis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
+* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2801.md)
+* [Implementing targeted public health interventions for vulnerable populations, promoting healthy behaviors, and improving healthcare accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3529.md)
+* [Implementation of public health policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1951.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1257.md)
+* [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1952.md)
+* [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1946.md)
 

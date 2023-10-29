@@ -21,7 +21,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1110.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1108.md)
-* [Monitoring sewage for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1589.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4097.md)
+* [Monitoring sewage for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4539.md)
 

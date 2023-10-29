@@ -1,20 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1162 
 
-# __Assessing citizens’ willingness to pay__
+# __Biology techs__
 
-## Property: has_MitigationPrinciple
+## Category to which it belongs
 
-Evaluate the importance of accessible green spaces and identify factors that influence the WTP for green roofs
+* [Promote cohesive teamwork, partnerships, and collective knowledge sharing for efficient research, analysis, and collaboration in various fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
-## Risks possibly mitigated by this Mitigation
+## Closest similar item
 
-
-## Property: has_MitigationSource
-
-* [The role of green roofs in post COVID-19 confinement: An analysis of willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_262.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
-* [Marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2935.md)
+* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2144.md)
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1168.md)
+* [Medical technological development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2640.md)
+* [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1157.md)
+* [Technical skills and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1869.md)
+* [Precision medicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1111.md)
+* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2639.md)
+* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2141.md)
+* [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2830.md)
+* [Science-based decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3781.md)
 

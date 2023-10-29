@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Adequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_210.md)
+* [Adequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1193.md)
 

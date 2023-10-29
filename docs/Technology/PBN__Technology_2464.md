@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Exercising on treadmills and stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_447.md)
+* [Exercising on treadmills and stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3509.md)
 

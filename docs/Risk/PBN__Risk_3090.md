@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Marking 6’ distances and one-way traffic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1521.md)
+* [Marking 6’ distances and one-way traffic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4477.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3628 
 
-# __Health education__
+# __Faecal management__
 
 ## Category to which it belongs
 
-* [Promote health, educate the public, implement interventions, strengthen health systems, and exchange health information for a healthier population.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_199.md)
+* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## Closest similar item
 
-* [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2372.md)
-* [Public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2159.md)
-* [Health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1533.md)
-* [Health education platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3679.md)
-* [Enhance public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3398.md)
-* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_587.md)
-* [Public health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
-* [Public health measures and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2967.md)
-* [Health education and community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3625.md)
-* [Patient education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1879.md)
+* [Sanitary reform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1972.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3629.md)
+* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1977.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2627.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1970.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1567.md)
+* [Sanitation and safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3560.md)
+* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1975.md)
+* [Urgent and essential waste management as a service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2749.md)
+* [Sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1968.md)
 

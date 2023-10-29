@@ -2,6 +2,15 @@
 
 # __Mobile app technology__
 
+## Link between Blueprint and General ontology
+
+* [Mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_45.md)
+* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_44.md)
+* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_49.md)
+* [Smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_50.md)
+* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_43.md)
+* [Smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_51.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,7 +30,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
-* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_313.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_354.md)
+* [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4187.md)
+* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3388.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3426.md)
 

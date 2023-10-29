@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2732 
 
-# __Mechanical ventilation systems__
+# __Anti-microbial materials__
 
 ## Category to which it belongs
 
-* [Enhance airflow and air quality for better respiratory health through improved natural and mechanical ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
+* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
 
 ## Closest similar item
 
-* [Mechanical ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3618.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1184.md)
-* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_219.md)
-* [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1679.md)
-* [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1716.md)
-* [State-of-the-art ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2346.md)
-* [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2639.md)
-* [Mechanical and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2641.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_951.md)
+* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2730.md)
+* [Use of anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3094.md)
+* [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2343.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2342.md)
+* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1301.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1302.md)
+* [Use of hygienic and anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1292.md)
+* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1303.md)
+* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2340.md)
+* [Antimicrobial indoor finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3095.md)
 

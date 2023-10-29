@@ -1,0 +1,20 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_4292 
+
+# __Data-driven decision-making__
+
+## Property: has_MitigationPrinciple
+
+Leveraging data analytics to make informed and data-driven decisions in supply chain management
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inefficient decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2989.md)
+
+## Property: has_MitigationSource
+
+* [Mapping research in logistics and supply chain management during COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_4.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
+

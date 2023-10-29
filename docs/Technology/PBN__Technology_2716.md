@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Eagle minimal essential media mem](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_835.md)
+* [Eagle minimal essential media mem](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3849.md)
 

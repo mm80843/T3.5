@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_988 
 
-# __Vaccination programs__
+# __Perceived biodiversity__
 
 ## Category to which it belongs
 
-* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
+* [Promoting social distancing, equality, norms, interaction, and facilitation of social spaces to address societal issues and inequalities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 
 ## Closest similar item
 
-* [Community vaccination programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1471.md)
-* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_586.md)
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_242.md)
-* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2328.md)
-* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2473.md)
-* [Preventive vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_749.md)
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2178.md)
-* [Continued implementation of npis, vaccination campaigns, promote hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3395.md)
-* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3396.md)
-* [Vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3397.md)
-
-## Property: has_MitigationPrinciple
-
-Administer vaccines to individuals to build immunity and protect against the transmission of contagious diseases.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_826.md)
+* [Protection of biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2103.md)
+* [Increased urban biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2102.md)
+* [Views of nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_984.md)
+* [Habitat diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2099.md)
+* [Interaction with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_986.md)
+* [Provide access to nature and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
+* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_985.md)
+* [Nature interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_987.md)
+* [Plant species diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2097.md)
+* [Preserving and developing forests and other green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2105.md)
 

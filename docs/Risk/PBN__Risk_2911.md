@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Independent ventilation system for each apartment unit](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1124.md)
+* [Independent ventilation system for each apartment unit](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4111.md)
 

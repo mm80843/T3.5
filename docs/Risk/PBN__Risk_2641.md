@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Public events ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_661.md)
+* [Public events ban](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3691.md)
 

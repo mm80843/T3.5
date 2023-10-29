@@ -39,11 +39,11 @@ Continuous IEQ monitoring system: Context and development
 
 ## This article points to following mitigation
 
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1535.md)
-* [Wireless sensor networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1536.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1281.md)
-* [Ieq monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1537.md)
-* [Samba](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1538.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4490.md)
+* [Wireless sensor networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4491.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4256.md)
+* [Ieq monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4492.md)
+* [Samba](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4493.md)
 
 ## This article mentions these technologies
 

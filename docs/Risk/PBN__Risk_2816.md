@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_980.md)
+* [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3981.md)
 

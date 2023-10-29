@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Unbiased data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
+* [Unbiased data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3879.md)
 

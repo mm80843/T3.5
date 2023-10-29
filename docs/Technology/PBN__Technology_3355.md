@@ -2,6 +2,11 @@
 
 # __Diagnostic devices__
 
+## Link between Blueprint and General ontology
+
+* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_273.md)
+* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_274.md)
+
 ## Category to which it belongs
 
 * [Enhanced testing capacity and advanced diagnostic technologies ensure widespread and rapid disease screening and identification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Rapid covid-19 screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1871.md)
+* [Rapid covid-19 screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4802.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
+* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3250.md)
 

@@ -25,11 +25,11 @@
 
 ## This Technology enables the following mitigations
 
-* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_306.md)
-* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2210.md)
-* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
-* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2027.md)
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1316.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_832.md)
+* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3364.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4286.md)
+* [Enhance cross-sectoral engagement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4937.md)
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5089.md)
 
 ## Risks linked to this technology
 

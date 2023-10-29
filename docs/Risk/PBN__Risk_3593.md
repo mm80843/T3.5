@@ -19,3 +19,7 @@
 * [Uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3588.md)
 * [Uvgi in ahus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_256.md)
 
+## Blueprints with this risk
+
+* [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+

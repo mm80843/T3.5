@@ -23,7 +23,20 @@
 
 * [Stable energy supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_244.md)
 
+## Property: has_MitigationPrinciple
+
+Provide backup energy sources for a continuous and stable energy supply
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Eu1: energy use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_193.md)
+* [Energy supply disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3293.md)
+
+## Property: has_MitigationSource
+
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Backup energy source](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3465.md)
 

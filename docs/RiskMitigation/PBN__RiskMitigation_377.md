@@ -24,8 +24,19 @@
 * [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
 * [Higher levels of protective behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_375.md)
 
+## Property: has_MitigationPrinciple
+
+Non-pharmaceutical interventions such as social distancing, hand hygiene, and respiratory etiquettes can interrupt the transmission of SARS-CoV-2.
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Covid-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_302.md)
 * [Epidemic control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_585.md)
+
+## Property: has_MitigationSource
+
+* [An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_209.md)
+
+## This Mitigation is enabled by the following technologies
+
 

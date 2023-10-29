@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [National and international funding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_509.md)
+* [National and international funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3563.md)
 

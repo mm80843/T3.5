@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3244 
 
-# __Ontology development strategies__
+# __Neighbourhood hygiene measures__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Facilitating knowledge sharing through funding research efforts, developing ontologies, enhancing collaboration, and automating ontology models for data integration and standardization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_480.md)
+Implementing hygiene measures at the neighbourhood level, such as improved infrastructure and awareness campaigns, reduces the risk of community transmission.
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3242.md)
-* [Ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3246.md)
-* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_53.md)
-* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3243.md)
-* [Ontology-based systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_840.md)
-* [Ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3245.md)
-* [Build an obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1240.md)
-* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3247.md)
-* [Develop and enhance tools to automate ontology models and applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1477.md)
-* [Established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3249.md)
+* [Community transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2434.md)
+
+## Property: has_MitigationSource
+
+* [Adaptive Design of the Built Environment to Mitigate the Transmission Risk of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_151.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Infrastructure improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2225.md)
+* [Community planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2224.md)
 

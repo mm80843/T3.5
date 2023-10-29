@@ -17,7 +17,7 @@
 * [Peer-reviewed journals and official institutions websites](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1360.md)
 * [Promote reliable and verified sources of information, increase public awareness about trusted applications, implement strict review and approval processes for app stores](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2574.md)
 * [Improve testing and reporting systems, increase transparency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2847.md)
-* [Promote verified information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3399.md)
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5533.md)
 
 ## Benefits linked to a risk
 

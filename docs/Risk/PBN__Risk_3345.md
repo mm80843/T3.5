@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Green new deal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2199.md)
+* [Green new deal](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5078.md)
 

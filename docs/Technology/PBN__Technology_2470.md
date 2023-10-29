@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_457.md)
-* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2062.md)
+* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_223.md)
+* [Isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3519.md)
 

@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_219.md)
-* [Adequate control of air conditioning and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_217.md)
+* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3309.md)
+* [Adequate control of air conditioning and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3308.md)
 

@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2644 
 
-# __Increase sunlight exposure__
+# __Sharing systems in apartments__
 
 ## Category to which it belongs
 
-* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
+* [Promote cohesive teamwork, partnerships, and collective knowledge sharing for efficient research, analysis, and collaboration in various fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
 
 ## Closest similar item
 
-* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_467.md)
-* [Heat and sunlight exposure in summer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3191.md)
-* [Sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2643.md)
-* [Improved ventilation and sunlight exposure in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2361.md)
-* [Natural sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1934.md)
-* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2348.md)
-* [Daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_136.md)
-* [Proper use of daylight and sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_539.md)
-* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_171.md)
-* [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_471.md)
+* [Design apartments with more generous living spaces and multiple bathrooms in shared units.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3875.md)
+* [Shared facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2641.md)
+* [Restrictions on shared facilities and uses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_338.md)
+* [Restrictions on shared facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_333.md)
+* [Restrictions on shared facilities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
+* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2312.md)
+* [Restrictions on shared facilities, devices, and services.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2642.md)
+* [Rent controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3714.md)
+* [Independent ventilation system for each apartment unit](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3188.md)
+* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_965.md)
 

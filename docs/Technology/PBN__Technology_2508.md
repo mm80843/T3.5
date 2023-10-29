@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Improvement of sanitary infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_517.md)
+* [Improvement of sanitary infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3570.md)
 

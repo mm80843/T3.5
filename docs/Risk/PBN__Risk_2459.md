@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Graphene-metal composites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_192.md)
+* [Graphene-metal composites](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3286.md)
 

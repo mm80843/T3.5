@@ -10,7 +10,7 @@
 
 * [Providing support systems, domestic violence hotlines, safe shelters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2334.md)
 * [Increased support services for domestic abuse victims](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_680.md)
-* [Implement measures to protect women’s health, income support, and address gender-based violence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3135.md)
+* [Implement measures to protect women’s health, income support, and address gender-based violence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5297.md)
 * [Provide support and resources for victims of domestic violence, ensure safety measures are in place for online gaming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2399.md)
 * [Enhance support services for victims, increase public awareness, provide safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1947.md)
 * [Implement policies and interventions to support and protect victims of intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1465.md)

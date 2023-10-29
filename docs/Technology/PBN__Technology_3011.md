@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Isolation of suspected or confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1299.md)
+* [Isolation of suspected or confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4270.md)
 

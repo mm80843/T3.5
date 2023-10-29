@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3195 
 
-# __Introduce "multi-use" / modular designs__
+# __Adapt green area management to "new normal" lifestyle__
 
 ## Category to which it belongs
 
-* [Design spaces that are adaptable, flexible, and can be transformed to accommodate a variety of functions and needs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
+* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
 
 ## Closest similar item
 
-* [Explore modular and flexible designs to accommodate different uses and activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3441.md)
-* [Flexible design solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
-* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3458.md)
-* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3443.md)
-* [Efficient design changes and management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3465.md)
-* [Flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2835.md)
-* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1265.md)
-* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_764.md)
-* [Innovative design approaches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2572.md)
-* [Active design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_183.md)
+* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_43.md)
+* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_828.md)
+* [Increase awareness of the value of green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3514.md)
+* [Preparation and maintenance of specific green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2122.md)
+* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_830.md)
+* [Citizen participation in green area management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3980.md)
+* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2608.md)
+* [Green and natural environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2106.md)
+* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1916.md)
+* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1645.md)
 

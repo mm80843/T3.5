@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3164 
 
-# __Internet of things iot sensors__
+# __Antimicrobial resistance gene monitoring__
 
 ## Category to which it belongs
 
-* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
+* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## Closest similar item
 
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_431.md)
-* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3169.md)
-* [Internet of things iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3163.md)
-* [Iot data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3168.md)
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3080.md)
-* [Iot networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3166.md)
-* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3165.md)
-* [Iot-based systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_281.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1535.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3167.md)
+* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_836.md)
+* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1119.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2374.md)
+* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2730.md)
+* [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2342.md)
+* [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2732.md)
+* [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2343.md)
+* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1158.md)
+* [Remote monitoring of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2550.md)
 

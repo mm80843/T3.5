@@ -48,18 +48,18 @@ Wastewater surveillance for population-wide Covid-19: The present and future
 
 ## This article points to following mitigation
 
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
-* [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_500.md)
-* [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_505.md)
-* [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_502.md)
-* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_504.md)
-* [Clear and transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_507.md)
-* [Signal calibration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_503.md)
-* [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_499.md)
-* [National and international funding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_509.md)
-* [Pre-targeting sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_501.md)
-* [Open-source model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_506.md)
-* [Centralized database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_508.md)
+* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
+* [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1021.md)
+* [Fast analytical test methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3554.md)
+* [Pre-targeting sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3555.md)
+* [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3556.md)
+* [Signal calibration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3557.md)
+* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3558.md)
+* [Global coordination and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3559.md)
+* [Open-source model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3560.md)
+* [Clear and transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3561.md)
+* [Centralized database](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3562.md)
+* [National and international funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3563.md)
 
 ## This article mentions these technologies
 

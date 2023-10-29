@@ -8,7 +8,7 @@
 
 ## Closest similar item
 
-* [Targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3230.md)
+* [Targeted outreach to disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5380.md)
 * [Provide targeted support and resources to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3047.md)
 * [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_132.md)
 * [Increase social support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_629.md)
@@ -16,7 +16,7 @@
 * [Implement social welfare measures, provide support for vulnerable households, create opportunities for economic recovery and job creation.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2443.md)
 * [Addressing socioeconomic factors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_687.md)
 * [Implement policies that address social and economic inequalities, ensure equal access to essential services, and support vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1833.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3228.md)
+* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5378.md)
 * [Support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1181.md)
 
 ## Benefits linked to a risk

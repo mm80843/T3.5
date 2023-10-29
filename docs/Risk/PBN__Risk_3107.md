@@ -20,8 +20,8 @@
 
 ## Mitigations of this risk
 
-* [Creating mechanisms for psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1564.md)
-* [Monitoring reactions and performance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1561.md)
-* [Altering assignments and schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1562.md)
-* [Modifying expectations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1563.md)
+* [Monitoring reactions and performance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4511.md)
+* [Altering assignments and schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4512.md)
+* [Modifying expectations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4513.md)
+* [Creating mechanisms for psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4514.md)
 

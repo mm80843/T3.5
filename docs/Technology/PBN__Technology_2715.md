@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Sephadex g-10 gel filtration column](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_834.md)
+* [Sephadex g-10 gel filtration column](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3848.md)
 

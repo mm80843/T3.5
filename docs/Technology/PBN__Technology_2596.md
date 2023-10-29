@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Considering additional variables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_645.md)
+* [Considering additional variables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3677.md)
 

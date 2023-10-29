@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Subsidizing and capital injection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_199.md)
+* [Subsidizing and capital injection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3293.md)
 

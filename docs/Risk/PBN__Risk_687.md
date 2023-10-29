@@ -19,6 +19,10 @@
 * [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
 * [Disparities in access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3373.md)
 
+## Blueprints with this risk
+
+* [Smart locker system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_1.md)
+
 ## Mitigations of this risk
 
 * [Lowering prices of wearables and ensuring equal access across socioeconomic groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_951.md)

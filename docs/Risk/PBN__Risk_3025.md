@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Online education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1406.md)
+* [Online education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4370.md)
 

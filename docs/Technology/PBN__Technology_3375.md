@@ -2,6 +2,14 @@
 
 # __Digital services__
 
+## Link between Blueprint and General ontology
+
+* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_55.md)
+* [Digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_56.md)
+* [Expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_57.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_58.md)
+* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_235.md)
+
 ## Category to which it belongs
 
 * [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
@@ -21,5 +29,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1895.md)
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4817.md)
 

@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Linear people movement models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1100.md)
+* [Linear people movement models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4089.md)
 

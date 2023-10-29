@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_751.md)
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3772.md)
 

@@ -2,6 +2,11 @@
 
 # __Monitoring mobility__
 
+## Link between Blueprint and General ontology
+
+* [User journey](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_3.md)
+* [Propagation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_7.md)
+
 ## Category to which it belongs
 
 * [Insufficient oversight and data collection, limited sensor capabilities, and inadequate surveillance contribute to monitoring gaps in various contexts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
@@ -19,7 +24,11 @@
 * [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3425.md)
 * [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3426.md)
 
+## Blueprints with this risk
+
+* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
+
 ## Mitigations of this risk
 
-* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_401.md)
+* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_323.md)
 

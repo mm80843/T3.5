@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3515 
 
-# __Effect of relative humidity rh on uv susceptibility of bacterial aerosols__
+# __Design and develop public spaces that encourage social interaction and physical activity__
 
 ## Category to which it belongs
 
-* [Utilize uv radiation for germicidal purposes, including upper-room fixtures, aerosol chambers, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
+* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## Closest similar item
 
-* [Uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2227.md)
-* [Rh effect on uv inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2228.md)
-* [Effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3215.md)
-* [Uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2229.md)
-* [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2226.md)
-* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2225.md)
-* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1351.md)
-* [Effectiveness of uvgi decreases as humidity increases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4053.md)
-* [Implement strategies to promote good room air mixing, such as ceiling mounted fans, to ensure even distribution of aerosol particles in the uv field](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2948.md)
-* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2692.md)
+* [Provide access to outdoor spaces, create opportunities for physical activity and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2493.md)
+* [Promote safe physical activity guidelines and create opportunities for physical activity in public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_933.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1005.md)
+* [Implement public health measures, reduce indoor gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3389.md)
+* [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_937.md)
+* [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1010.md)
+* [Design communal spaces that support physical distancing and social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2316.md)
+* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3050.md)
+* [Perceptions of public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3858.md)
+* [Provide spaces for physical activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2478.md)
 

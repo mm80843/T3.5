@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Combined use of wbe and clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_743.md)
+* [Combined use of wbe and clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3764.md)
 

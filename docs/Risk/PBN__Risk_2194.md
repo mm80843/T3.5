@@ -63,8 +63,8 @@ Allow residents to adapt indoor spaces based on needs
 
 ## Technologies linked to the risk
 
-* [Flexible layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1778.md)
 * [Adjustable area ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1777.md)
+* [Flexible layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1778.md)
 
 ## Property: has_RiskType
 

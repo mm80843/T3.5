@@ -13,7 +13,7 @@
 * [Implement proper ventilation systems to reduce aerosol concentration in enclosed spaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2955.md)
 * [Follow recommended measures to prevent the spread of airborne pathogens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2983.md)
 * [Air disinfection strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_993.md)
-* [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3292.md)
+* [Disinfection of air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5434.md)
 * [Use of appropriate protective equipment, proper ventilation, and limiting aerosol-generating procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2081.md)
 * [Upper room guv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_340.md)
 * [Developing effective virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_992.md)

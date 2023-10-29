@@ -2,6 +2,20 @@
 
 # __Sensor technologies__
 
+## Link between Blueprint and General ontology
+
+* [Iot sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_112.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_117.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_126.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_115.md)
+* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
+* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_127.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_116.md)
+* [Light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_130.md)
+* [Positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_96.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_128.md)
+
 ## Category to which it belongs
 
 * [A wide array of advanced technologies that detect and measure various environmental factors and human activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
@@ -21,5 +35,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Plsmax technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2107.md)
+* [Plsmax technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4990.md)
 

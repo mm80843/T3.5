@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Quaternary ammonium polymer coating surfacewise2™](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_824.md)
+* [Quaternary ammonium polymer coating surfacewise2™](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3838.md)
 

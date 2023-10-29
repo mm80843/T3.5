@@ -19,6 +19,10 @@
 * [Increased risk of covid-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1701.md)
 * [Infection risk of covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_601.md)
 
+## Blueprints with this risk
+
+* [Rotating shift schedule](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_0.md)
+
 ## Mitigations of this risk
 
 * [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_504.md)

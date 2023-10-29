@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Preparation and maintenance of specific green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2143.md)
+* [Preparation and maintenance of specific green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5025.md)
 

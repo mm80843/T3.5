@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_850.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_607.md)
 

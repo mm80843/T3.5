@@ -42,8 +42,8 @@ Apartments that do not provide spaces that support positive social interactions 
 ## Mitigations of this risk
 
 * [Design communal spaces that support physical distancing and social interactions.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2487.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_469.md)
-* [Home offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2135.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3531.md)
+* [Home offices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5017.md)
 
 ## Name of the risk
 

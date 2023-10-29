@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Citizen participation in green area management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2141.md)
+* [Citizen participation in green area management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5023.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Virtual ways of educating the general population and high-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_208.md)
+* [Virtual ways of educating the general population and high-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3302.md)
 

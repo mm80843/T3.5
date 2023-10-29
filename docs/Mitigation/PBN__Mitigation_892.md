@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_892 
 
-# __Monitoring environmental indicators__
+# __Exergames__
 
 ## Category to which it belongs
 
-* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Environmental measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_740.md)
-* [Monitoring for health indicators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2293.md)
-* [Monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_891.md)
-* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1110.md)
-* [Implement measures to reduce air pollution, promote clean energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3089.md)
-* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2317.md)
-* [Monitoring and sensing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1275.md)
-* [Monitoring regulatory environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2800.md)
-* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1392.md)
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2504.md)
-
-## Property: has_MitigationPrinciple
-
-Tracking and analyzing environmental indicators to understand the impact of policy interventions on the environment
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2754.md)
-* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
+* [Exergames and active video games](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_893.md)
+* [Indoor challenging games](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_894.md)
+* [Virtual gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_895.md)
+* [Active play](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_896.md)
+* [Outdoor activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_897.md)
+* [Virtual experiences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_898.md)
+* [Outdoor recreation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_899.md)
+* [Cordon sanitaire](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_900.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_225.md)
+* [Encourage active play, online fitness classes for children, limit screen time](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_901.md)
 

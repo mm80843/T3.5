@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_697.md)
+* [Filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3723.md)
 

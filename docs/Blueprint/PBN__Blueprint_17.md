@@ -26,19 +26,32 @@ Already a year ago, the European Commission recommended that EU member states se
 
 ## Enablers of the blueprint
 
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
 * [IoT](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_5.md)
 * [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
 * [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_16.md)
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
 
 ## Interventions of the blueprint
 
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_30.md)
 * [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_9.md)
 * [Greywater management](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_11.md)
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_29.md)
-* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_30.md)
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_31.md)
 * [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_32.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_29.md)
+
+## Possible mitigations of the BP
+
+* [Wastewater-based surveillance wbs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1203.md)
+* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_880.md)
+* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
+* [Implement wastewater-based epidemiology wbe , target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1795.md)
+* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2388.md)
+* [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2559.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
+* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5211.md)
+* [Monitoring sewage for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4539.md)
 
 ## Type of deployment of the blueprint
 
@@ -59,6 +72,19 @@ Past experience with other viral diseases, such as polio, hepatitis A and norovi
 ## Restrictions of the blueprint
 
 Although no data is collected on specific individuals, several ethical aspects of this measure can be discussed. It is generally accepted that a population size of more than > 10,000 is sufficient to ensure anonymity and not pose a risk. This number is far from the number of people who might live in a neighbourhood. As a result, some people might be stigmatised by the measure. On the other hand, a smaller number of people may also have an impact on the sensitivity of the system (lower concentrations of pathogens). Moreover, the data gathered through wastewater monitoring cannot replace the data that is gathered by clinical surveillance but might overcome some of its limitations such as the size of the sample. It is also not very representative in case of low levels of disease spread and does not take into account any changes in the presence of individuals (seasonal such as holidays or occasional due to bad weather for instance). Last, standardized method is required for the data to be interpreted in the same manner across various areas. Moreover, high cost of equipement and need for regular maintenance on site might discourage implementation of this measure.  
+
+## Possible risks of the BP
+
+* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3555.md)
+* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3556.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3560.md)
+* [Spread of covid-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_576.md)
+* [Lack of specific biomarkers for covid-19 detection in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1147.md)
+* [Monitoring and control measures along the wastewater handling and treatment train, wastewater-based epidemiology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3558.md)
+* [Implement wastewater-based epidemiology wbe , target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3557.md)
+* [Inaccurate estimation of covid-19 prevalence from wastewater data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)
+* [Temperature impact on virus detectability in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1435.md)
+* [Develop quantitative models that consider various factors affecting wastewater surveillance data to improve interpretation and estimation of prevalence.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3479.md)
 
 ## Scale of the of the blueprint
 

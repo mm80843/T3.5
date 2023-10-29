@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_325.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_498.md)
 

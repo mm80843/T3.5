@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3206 
 
-# __Low compliance__
+# __Contamination of shared spaces__
 
 ## Category to which it belongs
 
-* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
+* [Enhancing accessibility and variety of green spaces while promoting integration of nature in urban environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
 
 ## Closest similar item
 
-* [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_292.md)
-* [Non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3781.md)
-* [Inadequate compliance monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3782.md)
-* [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3979.md)
-* [Importance of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3778.md)
-* [Compliance, accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3821.md)
-* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1974.md)
-* [High costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3114.md)
-* [Risk of non-compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3780.md)
-* [Compliance with regulatory changes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2799.md)
+* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3764.md)
+* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_263.md)
+* [Ensure availability of private spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3975.md)
+* [Implement self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_269.md)
+* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2312.md)
+* [Isolation space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_683.md)
+* [Compartmentalization of private and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2422.md)
+* [Common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
+* [Neighborhood isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_335.md)
+* [Containment space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_270.md)
 

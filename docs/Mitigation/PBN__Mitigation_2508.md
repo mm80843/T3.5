@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2508 
 
-# __Provide safe and social spaces__
+# __Real-time building occupancy__
 
 ## Category to which it belongs
 
-* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
+* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## Closest similar item
 
-* [Making social spaces safe and viable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_402.md)
-* [Lack of safe spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3460.md)
-* [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2823.md)
-* [Lack of social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3111.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2821.md)
-* [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3686.md)
-* [Intimate living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2106.md)
-* [Compartmentalization of private and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3368.md)
-* [Design and develop public spaces that encourage social interaction and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3831.md)
-* [Providing integrated spaces for social interaction and relaxation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3446.md)
+* [Reduction in commercial building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_367.md)
+* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1008.md)
+* [Implement flexible scheduling and occupancy measures, redistribute resources as needed.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2509.md)
+* [Occupancy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2510.md)
+* [Limited occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2511.md)
+* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2410.md)
+* [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2287.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2512.md)
+* [Implement measures to control occupancy and enforce physical distancing rules in the facility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2513.md)
+* [Reduced occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2514.md)
 

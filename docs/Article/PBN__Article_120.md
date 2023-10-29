@@ -50,26 +50,26 @@ COVID-19 Experience Transforming the Protective Environment of Office Buildings 
 
 ## This article points to following mitigation
 
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
-* [Distancing and building layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1568.md)
-* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1569.md)
-* [Emergency plan development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1572.md)
-* [Water and sanitary system safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1570.md)
-* [Workplace safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1571.md)
-* [Education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1574.md)
-* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_913.md)
-* [Business continuity guideline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1573.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
+* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4519.md)
+* [Distancing and building layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4518.md)
+* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3919.md)
+* [Water and sanitary system safety](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4520.md)
+* [Workplace safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4521.md)
+* [Emergency plan development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4522.md)
+* [Business continuity guideline](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4523.md)
+* [Education and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4524.md)
 
 ## This article mentions these technologies
 
-* [Remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
 * [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
+* [Remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
 * [Improved hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_660.md)
 * [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
 * [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_773.md)
 * [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1290.md)
 * [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
 * [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1150.md)
 * [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1289.md)

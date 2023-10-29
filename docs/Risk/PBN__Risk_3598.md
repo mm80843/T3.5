@@ -19,3 +19,7 @@
 * [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3637.md)
 * [Indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_259.md)
 
+## Blueprints with this risk
+
+* [Indoor environmental quality ieq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
+

@@ -2,6 +2,10 @@
 
 # __Global mobility__
 
+## Link between Blueprint and General ontology
+
+* [User journey](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_3.md)
+
 ## Category to which it belongs
 
 * [The challenges and consequences of the global pandemic, including domestic violence, interrupted education, communication barriers, and employment issues, highlight the complexity of our interconnected world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
@@ -41,7 +45,7 @@ The risk of the disease spreading across borders due to international travel and
 
 ## Mitigations of this risk
 
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
 * [Implementing travel restrictions, screening protocols, and quarantine measures for travelers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2713.md)
 
 ## Name of the risk

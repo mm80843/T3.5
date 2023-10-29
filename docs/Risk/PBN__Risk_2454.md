@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Building layout and design for social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_184.md)
-* [Cultural dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_605.md)
+* [Building layout and design for social interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3279.md)
+* [Cultural dissemination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3640.md)
 

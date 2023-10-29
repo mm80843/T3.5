@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3305 
 
-# __Collaborative tools__
+# __Ai algorithms for screening and triage__
 
 ## Category to which it belongs
 
-* [Promote cohesive teamwork, partnerships, and collective knowledge sharing for efficient research, analysis, and collaboration in various fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_194.md)
+* [The utilization of advanced technologies, such as machine learning and artificial intelligence, to facilitate analysis, decision-making, and knowledge sharing across various fields and domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## Closest similar item
 
-* [Collaborative projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3319.md)
-* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2533.md)
-* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3689.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3867.md)
-* [Digital communication and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2911.md)
-* [Cross-disciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1443.md)
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1316.md)
-* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_877.md)
-* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1997.md)
-* [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3289.md)
+* [Ai algorithms for triage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3308.md)
+* [Ai algorithms for initial screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3304.md)
+* [Ai-based triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3309.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2532.md)
+* [Ai-based diagnosis and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2574.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_854.md)
+* [Ai algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3307.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2597.md)
+* [Ai for decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2600.md)
+* [Screening techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1613.md)
 

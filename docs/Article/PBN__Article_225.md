@@ -46,13 +46,13 @@ COVID-19 and its Modes of Transmission
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_524.md)
-* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_525.md)
-* [Proper coughing and sneezing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_914.md)
-* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_915.md)
-* [Disinfection of objects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
-* [Negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_917.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3575.md)
+* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3576.md)
+* [Proper coughing and sneezing techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3920.md)
+* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_698.md)
+* [Disinfection of objects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3921.md)
+* [Negative pressure isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3922.md)
 
 ## This article mentions these technologies
 

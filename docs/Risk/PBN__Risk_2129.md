@@ -2,6 +2,10 @@
 
 # __Poor environmental quality__
 
+## Link between Blueprint and General ontology
+
+* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Theme_1.md)
+
 ## Category to which it belongs
 
 * [The scarcity of urban green spaces and the deterioration of environmental conditions contribute to the loss of biodiversity and declining conservation efforts and revenue, while also impacting public health and community well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
@@ -41,8 +45,8 @@ Polluted environments harbor and facilitate transmission of pathogens
 
 ## Mitigations of this risk
 
+* [Centralize environmental quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_691.md)
 * [Improve environmental quality through better site design and regional planning, reduce pollution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2813.md)
-* [Centralize environmental quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1990.md)
 
 ## Name of the risk
 

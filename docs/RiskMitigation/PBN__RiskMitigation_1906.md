@@ -19,6 +19,10 @@
 * [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1347.md)
 * [Improve ventilation systems, increase outdoor air intake, use air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2474.md)
 
+## Blueprints with this mitigation
+
+* [Indoor environmental quality ieq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_3.md)
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_259.md)

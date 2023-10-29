@@ -40,13 +40,13 @@ COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
-* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_314.md)
-* [Media content regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_316.md)
-* [Information source selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_317.md)
-* [Optimizing communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_315.md)
-* [Content analysis of news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3306.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3389.md)
+* [Media content regulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3391.md)
+* [Optimizing communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3390.md)
+* [Information source selection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3392.md)
+* [Content analysis of news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3393.md)
 
 ## This article mentions these technologies
 

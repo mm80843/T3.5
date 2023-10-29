@@ -4,6 +4,6 @@
 
 ## Items covered in this category
 
-* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_41.md)
 * [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
+* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_41.md)
 

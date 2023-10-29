@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2500 
 
-# __Increase public transport capacity to ensure physical distancing, provide alternative transport options__
+# __Resilient healthcare system__
 
 ## Category to which it belongs
 
-* [Implementing travel restrictions, optimizing transport, active travel, and improving public transportation to address mobility limitations and ensure safe and accessible transportation options.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
+* [Improving healthcare access, enhancing facilities, and strengthening healthcare systems for effective management and optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## Closest similar item
 
-* [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2558.md)
-* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2495.md)
-* [Higher dependency on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2501.md)
-* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1463.md)
-* [Implement physical distancing measures, reduce overcrowding, and promote remote work when possible.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3899.md)
-* [Implement social distancing measures, crowd control, and capacity regulations in public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3339.md)
-* [Enforce strict physical distancing measures and educate people on the importance of maintaining distance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3560.md)
-* [Reduce occupancy rates, enforce physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3561.md)
-* [Provide larger units and flexible housing options to support physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3562.md)
-* [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2365.md)
+* [Strengthened healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2502.md)
+* [Strengthening healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2501.md)
+* [Resilient approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1933.md)
+* [Healthcare system preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_456.md)
+* [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3137.md)
+* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
+* [Better healthcare protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3060.md)
+* [Resilience building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2657.md)
+* [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2666.md)
+* [Health system strengthening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3557.md)
 

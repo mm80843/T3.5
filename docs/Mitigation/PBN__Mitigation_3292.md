@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3292 
 
-# __Closure of educational institutions and workplaces__
+# __Information dissemination through public places__
 
 ## Category to which it belongs
 
-* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
+* [Effective, transparent, and targeted communication strategies are crucial for global coordination, cooperation, and risk prevention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_198.md)
 
 ## Closest similar item
 
-* [Closure of educational institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1296.md)
-* [Closure of schools and universities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2232.md)
-* [School and university closures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_10.md)
-* [School and university closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_654.md)
-* [School and workplace closings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1342.md)
-* [Workplace closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1746.md)
-* [School closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_659.md)
-* [Closing of schools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1488.md)
-* [Closure of schools and entertainment venues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2035.md)
-* [School closing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_818.md)
+* [Information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_880.md)
+* [Public places as informative nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3859.md)
+* [Quick and accurate information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3291.md)
+* [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3739.md)
+* [Limited access nodes for better management of public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1889.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2601.md)
+* [Flexible public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3743.md)
+* [Implement crowd control measures, promote social distancing, expand infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3512.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1005.md)
+* [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2778.md)
 

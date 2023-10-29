@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3047 
 
-# __Implement touchless technologies__
+# __Facial mask detection__
 
 ## Category to which it belongs
 
-* [The advancement and adoption of various technological innovations and tools for communication, healthcare, work, and daily life.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_197.md)
+* [Promoting the wearing of masks and implementing measures to reduce face-to-face contact for risk reduction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## Closest similar item
 
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2082.md)
-* [Implementation of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3046.md)
-* [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1274.md)
-* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2054.md)
-* [Implementation of touchless systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_339.md)
-* [Touchless household technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3049.md)
-* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1569.md)
-* [Touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3048.md)
-* [Artificial intelligence and touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1264.md)
-* [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_174.md)
+* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1518.md)
+* [Face mask](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_308.md)
+* [Face masking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_311.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_309.md)
+* [Face mask usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1080.md)
+* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_306.md)
+* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1519.md)
+* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_474.md)
+* [Face masks with integrated sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1078.md)
+* [Mask wearing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_302.md)
 

@@ -1,37 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_898 
 
-# __Monitoring traffic patterns__
+# __Virtual experiences__
 
 ## Category to which it belongs
 
-* [Continuous monitoring and surveillance systems enable real-time tracking, remote monitoring, and enhanced surveillance to ensure safety and compliance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Tracking and tracing transmissions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_0.md)
-* [Monitoring mobility metrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_893.md)
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2504.md)
-* [Monitoring data sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2338.md)
-* [Intelligent monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_373.md)
-* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1626.md)
-* [Monitoring people movement during events](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2279.md)
-* [Continuous monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_701.md)
-* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_689.md)
-* [Tracking applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1737.md)
-
-## Property: has_MitigationPrinciple
-
-Analyzing traffic patterns using Machine Learning algorithms to provide real-time indicators
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Smart cities and a data-driven response to COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_164.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Iot sensing infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2754.md)
-* [Traffic camera data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2765.md)
+* [Virtual gaming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_895.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3420.md)
+* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3422.md)
+* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3421.md)
+* [Virtual platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3314.md)
+* [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2694.md)
+* [Augmented / virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3897.md)
+* [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3806.md)
+* [Platforms and virtual](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3416.md)
+* [Virtual classrooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1775.md)
 

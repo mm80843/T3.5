@@ -34,7 +34,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Outdoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2412.md)
+* [Outdoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5277.md)
 
 ## Risks linked to this technology
 

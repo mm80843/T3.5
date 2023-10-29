@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_983 
 
-# __Stay-at-home directives__
+# __Ensure proper facade design and ventilation to maintain thermal comfort.__
 
 ## Category to which it belongs
 
-* [Surveillance measures, physical barriers, medical treatments, isolation protocols, diverse ecosystems, and disinfection techniques aim to control and manage public health risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
+* [Enhance airflow and air quality for better respiratory health through improved natural and mechanical ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
 
 ## Closest similar item
 
-* [Stay-at-home regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2369.md)
-* [Stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_928.md)
-* [Stay-at-home recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1301.md)
-* [Stay at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2200.md)
-* [Home confinement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1671.md)
-* [Home isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1204.md)
-* [Implementing social distancing measures, promoting good hygiene practices, and enforcing lockdowns or stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3172.md)
-* [Working from home, where possible with regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1750.md)
-* [Work-from-home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_690.md)
-* [Implementation of home treatments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_766.md)
-
-## Property: has_MitigationPrinciple
-
-Instruct individuals to remain at home and limit interactions to reduce the spread of contagious diseases.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [How loneliness is talked about in social media during COVID-19 pandemic: Text mining of 4,492 Twitter feeds](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_190.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Proper building ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_626.md)
+* [Incorporate proper building design strategies for ventilation, airflow, and social distancing. design buildings with adequate space for ventilation and airflow.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3832.md)
+* [Adequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_618.md)
+* [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_419.md)
+* [Proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_615.md)
+* [Improved thermal comfort of occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_411.md)
+* [Good ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_617.md)
+* [Ventilation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_620.md)
+* [Maintaining optimum ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2693.md)
+* [Improved ventilation in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_579.md)
 

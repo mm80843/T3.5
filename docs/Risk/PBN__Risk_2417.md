@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Standardizing protocols and networks for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_109.md)
+* [Standardizing protocols and networks for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3215.md)
 

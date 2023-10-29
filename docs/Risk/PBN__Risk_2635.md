@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Dog walking guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_633.md)
+* [Dog walking guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3665.md)
 

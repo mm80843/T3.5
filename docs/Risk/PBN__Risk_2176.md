@@ -62,8 +62,8 @@ Eliminate viruses suspended in the air
 ## Technologies linked to the risk
 
 * [Uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_225.md)
-* [High-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1741.md)
 * [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1742.md)
+* [High-efficiency particulate air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1741.md)
 
 ## Property: has_RiskType
 

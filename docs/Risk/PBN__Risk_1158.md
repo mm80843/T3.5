@@ -94,6 +94,7 @@ Misunderstanding of risks, poor compliance with preventive measures, increased i
 
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 * [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
 * [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
 * [Online platforms for sharing information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_253.md)
@@ -102,7 +103,6 @@ Misunderstanding of risks, poor compliance with preventive measures, increased i
 * [Communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_566.md)
 * [Information brochures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_252.md)
 * [Information and communication technologies icts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_626.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
 * [Information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_967.md)
 
 ## Property: has_RiskType

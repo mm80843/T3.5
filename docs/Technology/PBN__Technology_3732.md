@@ -2,6 +2,13 @@
 
 # __Ai/ml__
 
+## Link between Blueprint and General ontology
+
+* [Artificial intelligence and ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_167.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_166.md)
+* [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_168.md)
+* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_87.md)
+
 ## Category to which it belongs
 
 * [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)

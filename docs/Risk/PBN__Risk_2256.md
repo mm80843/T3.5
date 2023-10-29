@@ -42,7 +42,7 @@ Excessive hoarding of essential goods due to fear
 ## Mitigations of this risk
 
 * [Implement rationing systems and stockpiling regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2966.md)
-* [Monitoring buying behavior and limiting purchases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2286.md)
+* [Monitoring buying behavior and limiting purchases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5161.md)
 
 ## Name of the risk
 

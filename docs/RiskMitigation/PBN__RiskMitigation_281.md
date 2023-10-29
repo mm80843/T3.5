@@ -12,7 +12,7 @@
 * [Implement sustainable strategies for economic recovery, promote clean and renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2457.md)
 * [Research on sustainable solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_619.md)
 * [Promote energy efficiency measures and renewable energy production](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2142.md)
-* [Sustainability and environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3172.md)
+* [Sustainability and environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5328.md)
 * [Implement proper waste management and recycling systems, encourage environmentally-friendly consumer behavior.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3096.md)
 * [Sustainable alternatives, proper disposal of waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2789.md)
 * [Adopt energy-efficient practices, implement recycling and waste management programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2785.md)

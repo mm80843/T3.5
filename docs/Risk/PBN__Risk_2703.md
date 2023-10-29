@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Value-driven design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_769.md)
+* [Value-driven design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3789.md)
 

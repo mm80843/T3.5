@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Enhanced surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1041.md)
-* [Automated sms alerts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1622.md)
+* [Enhanced surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4037.md)
+* [Automated sms alerts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4572.md)
 

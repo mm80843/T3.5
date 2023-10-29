@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2972 
 
-# __Develop eco-friendly and non-toxic nanomaterials__
+# __Limiting media exposure__
 
 ## Category to which it belongs
 
-* [Designing environments with optimal lighting, temperature, humidity, and acoustics to ensure occupant comfort and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
+* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## Closest similar item
 
-* [Nanotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1272.md)
-* [Use of non-toxic cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1732.md)
-* [Nano-spray technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_194.md)
-* [Use of local and sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_768.md)
-* [Nanotechnology silver nanoparticles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_276.md)
-* [Nano-vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_195.md)
-* [Implement proper waste management and recycling systems, encourage environmentally-friendly consumer behavior.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4034.md)
-* [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3495.md)
-* [Use of hygienic and anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2945.md)
-* [Use of anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_759.md)
+* [Media content regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3717.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3007.md)
+* [Exposure response plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2973.md)
+* [Same room exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2970.md)
+* [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_203.md)
+* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2387.md)
+* [Increase sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_570.md)
+* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_571.md)
+* [Same building exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2971.md)
+* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_165.md)
 

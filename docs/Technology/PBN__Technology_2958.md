@@ -2,6 +2,10 @@
 
 # __Hvac filters__
 
+## Link between Blueprint and General ontology
+
+* [Hvac systems with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_139.md)
+
 ## Category to which it belongs
 
 * [Air and water purification systems, including filters, machines, purifiers, and technologies for improved air quality and filtration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
@@ -21,5 +25,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1195.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4180.md)
 

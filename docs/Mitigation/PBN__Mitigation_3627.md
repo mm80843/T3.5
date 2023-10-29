@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3627 
 
-# __Designating community-level areas for essential services and supplies.__
+# __Rely on evidence-based measures, prioritize hygienic practices__
 
 ## Category to which it belongs
 
-* [Promote community engagement, awareness, and action to reduce environmental impact, educate the public, and enhance social cohesion.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
+* [Promoting and implementing strict hygiene practices, including handwashing and regular cleaning, to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## Closest similar item
 
-* [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3098.md)
-* [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2266.md)
-* [Provision of community-level key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_407.md)
-* [Provision of community-level designated zones as key public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3953.md)
-* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3099.md)
-* [Providing resources and support, clear communication of guidelines, ensuring access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2825.md)
-* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2274.md)
-* [Shared facilities and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1257.md)
-* [Explore modular and flexible designs to accommodate different uses and activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3441.md)
-* [Supporting essential sectors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3357.md)
+* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1253.md)
+* [Implement hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1256.md)
+* [Implementing safety measures, promoting hygiene practices, and providing accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3682.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2454.md)
+* [Implement safety protocols, increase hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2487.md)
+* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1856.md)
+* [Use of hygienic materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2367.md)
+* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2462.md)
+* [Implementing strict hygiene protocols, promoting social distancing, providing personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2742.md)
+* [Hygiene compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2488.md)
 

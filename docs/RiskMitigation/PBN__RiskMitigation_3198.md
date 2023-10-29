@@ -1,21 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3198 
 
-# __Advanced ventilation systems__
+# __Effective waste management__
 
-## Category to which it belongs
+## Property: has_MitigationPrinciple
 
-* [Enhance ventilation systems, optimize airflow and air exchange, and improve indoor air quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_491.md)
+Improve waste management practices to reduce disease transmission
 
-## Closest similar item
+## Risks possibly mitigated by this Mitigation
 
-* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3195.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3266.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)
-* [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3268.md)
-* [Implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3300.md)
-* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_341.md)
-* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3196.md)
-* [Building ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_192.md)
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_606.md)
-* [Natural ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3301.md)
+* [Poor waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2406.md)
+
+## Property: has_MitigationSource
+
+* [Global policy challenges for urban vector-borne disease risks](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_132.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
 

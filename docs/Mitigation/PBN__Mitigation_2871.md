@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2871 
 
-# __Wastewater-based monitoring wbe__
+# __Challenges in implementing and enforcing the carbon border tax__
 
 ## Category to which it belongs
 
-* [Enhancing water and waste management practices to ensure environmental sanitation and promote public health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
+* [Promote economic stability and wellbeing through decentralized finance, financial support, and regulatory practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## Closest similar item
 
-* [Wastewater-based surveillance wbs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2870.md)
-* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2295.md)
-* [Monitoring wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1397.md)
-* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1631.md)
-* [Wastewater-based epidemiology wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2454.md)
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1108.md)
-* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2340.md)
-* [Implement wastewater-based epidemiology wbe , target specific subpopulations, improve testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2457.md)
-* [Monitoring community wastewater influent and implementing real-time monitoring.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3508.md)
+* [Carbon border tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2872.md)
+* [Strengthened carbon tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3571.md)
+* [Carbon pricing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1716.md)
+* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_106.md)
+* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3574.md)
+* [Border control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_102.md)
+* [Closing of borders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_100.md)
+* [Border control and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_105.md)
+* [Travel restrictions and border control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_109.md)
+* [Policies for green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2083.md)
 

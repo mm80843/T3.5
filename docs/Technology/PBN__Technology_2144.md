@@ -21,6 +21,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Travel-related measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_741.md)
-* [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_35.md)
+* [Travel-related measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3762.md)
+* [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3149.md)
 

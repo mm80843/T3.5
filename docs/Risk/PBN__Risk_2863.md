@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1044.md)
+* [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4039.md)
 

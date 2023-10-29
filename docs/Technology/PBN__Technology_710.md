@@ -33,8 +33,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_53.md)
-* [Integration and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_57.md)
+* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3166.md)
+* [Integration and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3170.md)
 
 ## Risks linked to this technology
 

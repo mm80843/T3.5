@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Elimination of indoor pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1726.md)
+* [Elimination of indoor pollutants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4665.md)
 

@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1142 
 
-# __Community gardens__
+# __Standardizing protocols and networks for data sharing__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [Promote seamless data sharing, real-time analysis, and collaboration through standardized protocols and integrated platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
-* [Gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
-* [Urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2419.md)
-* [Domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
-* [Pocket gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3186.md)
-* [Vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3170.md)
-* [Rain gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3187.md)
-* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_767.md)
-* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3335.md)
-* [Greeneries or gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2160.md)
-* [Gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2416.md)
-
-## Property: has_MitigationPrinciple
-
-Promoting community gardens as flexible spaces that support physical distancing, provide social and emotional connections, and contribute to the overall urban fabric in a neighbourhood.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Impact of Covid-19 on the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_10.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Standardize data protocols, promote data sharing and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1138.md)
+* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1262.md)
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1135.md)
+* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_295.md)
+* [Enhance protocols and network security measures, establish centralized data networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3845.md)
+* [Centralised primary data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_352.md)
+* [Seamless data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1597.md)
+* [Non-standardized data collection, data sharing barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3843.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_291.md)
+* [Standardization of protocols for seamless communication and privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
 

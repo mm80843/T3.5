@@ -1,36 +1,20 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1440 
 
-# __Indoor air quality and thermal comfort__
+# __Allocation of entry and exit points, signage, and wayfinding.__
 
 ## Category to which it belongs
 
-* [Optimize indoor air by managing pollution, utilizing portable filters, increasing outdoor airflow, and monitoring quality.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
+* [Enhancing urban spaces through strategies like pedestrianization, widened sidewalks, and improved infrastructure to reduce population density.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## Closest similar item
 
-* [Indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1262.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_178.md)
-* [Improve indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2725.md)
-* [Improving indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_470.md)
-* [Improved indoor climate quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1707.md)
-* [Natural ventilation and thermal comfort at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1555.md)
-* [Indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3042.md)
-* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and indoor air quality iaq](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_488.md)
-* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_169.md)
-* [Improved ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1240.md)
-
-## Property: has_MitigationPrinciple
-
-Balance building modifications for malaria mitigation with indoor air quality and human comfort
-
-## Risks possibly mitigated by this Mitigation
-
-* [Poor indoor air quality and discomfort lead to increased time spent outdoors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3046.md)
-
-## Property: has_MitigationSource
-
-* [Decision Making within the Built Environment as a Strategy for Mitigating the Risk of Malaria and Other Vector-Borne Diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_272.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Implementing crowd control measures such as capacity limits, timed entry systems, one-way circulation, and designated waiting areas.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3511.md)
+* [Wider doorways and corridors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3097.md)
+* [Use of standardized signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3079.md)
+* [Limit capacity, enforce social distancing measures, provide clear signage and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1020.md)
+* [Marking 6’ distances and one-way traffic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1439.md)
+* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3321.md)
+* [Separate entrance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1406.md)
+* [Placement and size of openings in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3209.md)
+* [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_370.md)
 

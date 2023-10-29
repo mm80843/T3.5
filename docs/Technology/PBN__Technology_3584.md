@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2195.md)
+* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5074.md)
 

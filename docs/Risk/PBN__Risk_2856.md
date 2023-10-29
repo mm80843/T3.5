@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1036.md)
-* [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1038.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4032.md)
+* [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4034.md)
 

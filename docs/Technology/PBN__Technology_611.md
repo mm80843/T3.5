@@ -21,12 +21,12 @@
 
 ## This technology is mentioned by
 
-* [Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_166.md)
 * [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+* [Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_166.md)
 
 ## This Technology enables the following mitigations
 
-* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1062.md)
+* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_987.md)
 
 ## Risks linked to this technology
 

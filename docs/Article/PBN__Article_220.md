@@ -38,16 +38,16 @@ Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic
 
 ## This article points to following mitigation
 
-* [Disinfecting shared tools and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1637.md)
-* [Providing additional personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1636.md)
-* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1640.md)
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1639.md)
-* [Assessing the possibility of late or halted deliveries of materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1643.md)
-* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1635.md)
-* [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1644.md)
-* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1638.md)
-* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1642.md)
-* [Regular communication and coordination among project teams](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1641.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1062.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1063.md)
+* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1059.md)
+* [Disinfecting shared tools and equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1061.md)
+* [Providing additional personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4584.md)
+* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4585.md)
+* [Regular communication and coordination among project teams](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4586.md)
+* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4587.md)
+* [Assessing the possibility of late or halted deliveries of materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4588.md)
+* [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4589.md)
 
 ## This article mentions these technologies
 

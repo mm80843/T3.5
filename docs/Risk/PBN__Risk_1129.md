@@ -19,6 +19,11 @@
 * [Spread of contagious diseases in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1671.md)
 * [Spread of contagious diseases in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1664.md)
 
+## Blueprints with this risk
+
+* [Managing user flows in building and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_4.md)
+* [Tender support at building stage](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_9.md)
+
 ## Description of the risk
 
 Spread of diseases in the built environment, leading to increased transmission among individuals

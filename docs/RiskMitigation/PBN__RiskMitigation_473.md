@@ -8,16 +8,16 @@
 
 ## Closest similar item
 
-* [Education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3152.md)
+* [Education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5311.md)
 * [Expand internet connectivity and digital infrastructure, provide access to digital devices and educational resources, and promote digital literacy and inclusion programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1862.md)
 * [Provide digital literacy training and support programs for residents to improve their digital skills and knowledge.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3025.md)
-* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3153.md)
+* [Education technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5312.md)
 * [Develop strategies to manage and filter information, promote digital literacy skills](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2149.md)
 * [Bridge the digital divide, ensure equal access and affordability, promote digital literacy.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2782.md)
 * [Invest in digital infrastructure for remote learning, provide devices and internet access to students, support teachers and parents in adapting to remote education.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2909.md)
 * [To digital platforms for](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2977.md)
 * [Use of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_707.md)
-* [Information and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3234.md)
+* [Information and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5384.md)
 
 ## Benefits linked to a risk
 

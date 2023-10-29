@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Use of health and hygiene focus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_765.md)
+* [Use of health and hygiene focus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3785.md)
 

@@ -2,6 +2,11 @@
 
 # __Smart home systems__
 
+## Link between Blueprint and General ontology
+
+* [Home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_246.md)
+* [Smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_118.md)
+
 ## Category to which it belongs
 
 * [An array of systems and tools for real-time monitoring, surveillance, and control of various environmental, health, and safety parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
@@ -21,5 +26,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Housing automation and electromagnetic fields](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_491.md)
+* [Housing automation and electromagnetic fields](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3548.md)
 

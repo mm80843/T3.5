@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Contactless payment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1511.md)
+* [Contactless payment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4468.md)
 

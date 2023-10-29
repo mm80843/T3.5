@@ -42,9 +42,9 @@ First detection of SARS-CoV-2 in untreated wastewaters in Italy
 
 ## This article points to following mitigation
 
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1054.md)
-* [Nested pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1056.md)
-* [Thermal treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1055.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
+* [Thermal treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4049.md)
+* [Nested pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4050.md)
 
 ## This article mentions these technologies
 

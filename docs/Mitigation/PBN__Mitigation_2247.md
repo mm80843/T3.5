@@ -1,36 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2247 
 
-# __Chemical disinfection__
+# __Energy bill reductions or cancellations__
 
 ## Category to which it belongs
 
-* [Implementation of various disinfection methods and technologies to ensure cleanliness and prevention of virus spread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
+* [Promote sustainable energy practices, implement energy-efficient technologies, and provide financial assistance for low-income households.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
 
 ## Closest similar item
 
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
-* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2864.md)
-* [Physical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2248.md)
-* [Disinfection and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1851.md)
-* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2865.md)
-* [Use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3498.md)
-* [Effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2867.md)
-* [Disinfection of objects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
-* [Thorough disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1519.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2877.md)
-
-## Property: has_MitigationPrinciple
-
-Chemical disinfection is a technology that uses disinfectants such as sodium hypochlorite, chlorine dioxide, and calcium hypochlorite to kill microorganisms in hospital wastes.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Chemical disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3607.md)
+* [Energy bill deferral and payment extension plans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3943.md)
+* [Direct energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1620.md)
+* [Enhancement of energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1623.md)
+* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3548.md)
+* [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1731.md)
+* [Promote energy-saving practices, provide energy efficiency advice and incentives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1686.md)
+* [Implement energy-saving measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1687.md)
+* [Implement demand response programs, incentivize load shifting and energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1617.md)
+* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1536.md)
 

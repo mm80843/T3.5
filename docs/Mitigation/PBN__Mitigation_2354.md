@@ -1,6 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2354 
 
-# __Autonomous drones/ground vehicles for sample transfer__
+# __Autonomous vehicles__
 
 ## Category to which it belongs
 
@@ -8,31 +8,14 @@
 
 ## Closest similar item
 
-* [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_285.md)
-* [Drones and robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1623.md)
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2976.md)
-* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3635.md)
-* [Delivery drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1405.md)
-* [Surveillance drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_350.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1280.md)
-* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1282.md)
-* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3632.md)
-* [Air sampling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1481.md)
-
-## Property: has_MitigationPrinciple
-
-Safe and efficient transport of samples and delivery of medicines
-
-## Risks possibly mitigated by this Mitigation
-
-* [Sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3394.md)
-
-## Property: has_MitigationSource
-
-* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
-
-## This Mitigation is enabled by the following technologies
-
-* [Ground vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3695.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
+* [Autonomous robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3039.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3038.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1351.md)
+* [Autonomous human behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2355.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1763.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1354.md)
+* [Driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3068.md)
+* [Automotive systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3664.md)
+* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3042.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_853.md)
 

@@ -1,35 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_228 
 
-# __Standardization of analytical protocols__
+# __Linear people movement models__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Promote and facilitate various forms of physical activity and exercise through online and home-based programs and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## Closest similar item
 
-* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
-* [Standardized testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_504.md)
-* [Standardization of protocols for seamless communication and privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_113.md)
-* [Standardize data protocols, promote data sharing and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2878.md)
-* [Standardized protocols and governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2879.md)
-* [Implementation of safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_128.md)
-* [Standard working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_493.md)
-* [Standardizing protocols and networks for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_109.md)
-* [Reducing heterogeneity of technical standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1454.md)
-* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
-
-## Property: has_MitigationPrinciple
-
-Standardized protocols are needed to ensure comparability and sensitivity of PCR methods for virus detection in wastewaters.
-
-## Risks possibly mitigated by this Mitigation
-
-
-## Property: has_MitigationSource
-
-* [Wastewater-Based Epidemiology to monitor COVID-19 outbreak: Present and future diagnostic methods to be in your radar](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_178.md)
-
-## This Mitigation is enabled by the following technologies
-
+* [Human movement analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_221.md)
+* [Optimization-based people flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_342.md)
+* [Monitoring people movement during events](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_222.md)
+* [Movement restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_226.md)
+* [Restrictions of movement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2515.md)
+* [Autonomous human behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2355.md)
+* [Correlating health issues with movement patterns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_220.md)
+* [Restricted movement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1851.md)
+* [Reduction in pedestrian flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_341.md)
+* [Crowd control on public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2516.md)
 

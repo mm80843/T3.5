@@ -2,6 +2,10 @@
 
 # __Waste management__
 
+## Link between Blueprint and General ontology
+
+* [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_258.md)
+
 ## Category to which it belongs
 
 * [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
@@ -21,6 +25,6 @@
 
 ## This Technology enables the following mitigations
 
-* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_91.md)
-* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2055.md)
+* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_216.md)
+* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3198.md)
 

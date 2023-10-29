@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2101.md)
+* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4985.md)
 

@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Proper insulation maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1382.md)
+* [Proper insulation maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4347.md)
 

@@ -45,14 +45,14 @@ Green in times of COVID-19: urban green space relevance during the COVID-19 pand
 
 ## This article points to following mitigation
 
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1172.md)
-* [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1173.md)
-* [Conservation of existing tree specimens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1174.md)
-* [Participative design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1175.md)
-* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1176.md)
-* [Homogeneous distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1177.md)
-* [Integration of social interaction and secluded relaxation in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1178.md)
-* [Conservation and promotion of urban green spaces as part of public policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1179.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4157.md)
+* [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4158.md)
+* [Conservation of existing tree specimens](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4159.md)
+* [Participative design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4160.md)
+* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4161.md)
+* [Homogeneous distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4162.md)
+* [Integration of social interaction and secluded relaxation in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4163.md)
+* [Conservation and promotion of urban green spaces as part of public policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4164.md)
 
 ## This article mentions these technologies
 

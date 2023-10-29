@@ -47,17 +47,17 @@ Preventing and Controlling COVID-19: A Practical-Based Review in Offshore Workpl
 
 ## This article points to following mitigation
 
-* [Pre-employment and periodic mcus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1964.md)
-* [Self-health evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1965.md)
-* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1966.md)
-* [Worker traffic flow direction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1967.md)
-* [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1968.md)
-* [Good ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1969.md)
-* [Online meetings and shift schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1970.md)
-* [Ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1971.md)
-* [Quarantine and isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1972.md)
-* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1973.md)
-* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1974.md)
+* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_513.md)
+* [Pre-employment and periodic mcus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4881.md)
+* [Self-health evaluation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4882.md)
+* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4883.md)
+* [Worker traffic flow direction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4884.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4885.md)
+* [Good ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4886.md)
+* [Online meetings and shift schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4887.md)
+* [Ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4888.md)
+* [Quarantine and isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4889.md)
+* [Monitoring and compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4890.md)
 
 ## This article mentions these technologies
 

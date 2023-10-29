@@ -2,6 +2,11 @@
 
 # __Telecommunication technology__
 
+## Link between Blueprint and General ontology
+
+* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_34.md)
+* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_36.md)
+
 ## Category to which it belongs
 
 * [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
@@ -21,16 +26,16 @@
 
 ## This Technology enables the following mitigations
 
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_306.md)
-* [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_329.md)
-* [Telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1144.md)
-* [Digital transformation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1252.md)
-* [Ability to work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1263.md)
-* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_873.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_469.md)
-* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_603.md)
-* [Telemedicine and telepsychology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_209.md)
-* [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1510.md)
-* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2130.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_832.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3247.md)
+* [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3403.md)
+* [Telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4129.md)
+* [Digital transformation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4235.md)
+* [Ability to work from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4246.md)
+* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_706.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3531.md)
+* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3638.md)
+* [Telemedicine and telepsychology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3303.md)
+* [Remote work/telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4467.md)
+* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5012.md)
 

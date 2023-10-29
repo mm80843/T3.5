@@ -21,5 +21,5 @@
 
 ## This Technology enables the following mitigations
 
-* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1839.md)
+* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4774.md)
 

@@ -1,0 +1,19 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [RiskMitigation](https://github.com/mm80843/T3.5/tree/main/docs/RiskMitigation/index.md) >> Individual ID:PBN__RiskMitigation_3513 
+
+# __Avoiding physical activity during viral infection__
+
+## Property: has_MitigationPrinciple
+
+Restricting physical activity during systemic viral infection to reduce the risk of complications.
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased risk of sudden cardiac death](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2541.md)
+
+## Property: has_MitigationSource
+
+* [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
+
+## This Mitigation is enabled by the following technologies
+
+

@@ -8,16 +8,20 @@
 
 ## Closest similar item
 
-* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3277.md)
+* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5421.md)
 * [Disinfection of surfaces and development of antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1576.md)
-* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3278.md)
+* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5422.md)
 * [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_574.md)
 * [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1189.md)
-* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3279.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5423.md)
 * [Regular surface disinfection and use of self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2031.md)
 * [Development of more advanced self-disinfecting surface technologies with enhanced antiviral action.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2034.md)
-* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3206.md)
+* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5358.md)
 * [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1188.md)
+
+## Blueprints with this mitigation
+
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_5.md)
 
 ## Risks possibly mitigated by this Mitigation
 

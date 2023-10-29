@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Assessing the possibility of late or halted deliveries of materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1643.md)
+* [Assessing the possibility of late or halted deliveries of materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4588.md)
 

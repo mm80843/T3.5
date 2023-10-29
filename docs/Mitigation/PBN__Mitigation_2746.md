@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2746 
 
-# __Improvement of the quality of green space__
+# __Availability of self-dependent services__
 
 ## Category to which it belongs
 
-* [Enhancing accessibility and variety of green spaces while promoting integration of nature in urban environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
+* [Promote holistic support systems encompassing well-being, social connection, mental health assistance, and individual and organizational-level support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## Closest similar item
 
-* [Quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_50.md)
-* [Proper planning, designing, and managing of green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3334.md)
-* [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1021.md)
-* [Design of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2747.md)
-* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2215.md)
-* [Increased green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2745.md)
-* [Incorporate green space quality assessments into urban planning, prioritize the preservation of high-quality green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3922.md)
-* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2362.md)
-* [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2429.md)
-* [Poor quality of green space in disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2757.md)
+* [Self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2747.md)
+* [Create self-dependent and sustainable services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3638.md)
+* [Self-dependent services and urban farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3636.md)
+* [Continuity of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2388.md)
+* [Extending basic services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2227.md)
+* [Ensuring the quality and reliability of services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3639.md)
+* [Availability of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2256.md)
+* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1844.md)
+* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2225.md)
+* [Self-sufficiency in recreational facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2822.md)
 

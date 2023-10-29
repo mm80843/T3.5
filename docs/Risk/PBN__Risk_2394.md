@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_54.md)
+* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3167.md)
 

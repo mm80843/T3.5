@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4043 
 
-# __Shortage of construction materials__
+# __Addressing precarity__
 
 ## Category to which it belongs
 
-* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Material shortage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4042.md)
-* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3317.md)
-* [Disruption of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3248.md)
-* [Further develop and optimize off-site construction methods, invest in new materials and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4095.md)
-* [Material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3667.md)
-* [Increase in off-site construction and engineering](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_411.md)
-* [Improve construction techniques and standards, ensure the use of high-quality building materials.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4100.md)
-* [Material selection for buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3196.md)
-* [Decline in housing construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2992.md)
-* [Smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1373.md)
+* [Proximity and immediateness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2177.md)
+* [Pre-targeting sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_347.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_941.md)
+* [Immediate response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3297.md)
+* [Immediate consequences messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3966.md)
+* [Pre-employment and periodic mcus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3484.md)
+* [Early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_944.md)
+* [Sequence annotation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3331.md)
+* [Deterrence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3378.md)
+* [Prioritizing shipments of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2803.md)
 

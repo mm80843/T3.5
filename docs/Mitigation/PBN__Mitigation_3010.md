@@ -1,21 +1,21 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3010 
 
-# __Window design__
+# __Accurate evidence__
 
 ## Category to which it belongs
 
-* [Design spaces that are adaptable, flexible, and can be transformed to accommodate a variety of functions and needs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
+* [The elements in the list relate to various aspects of adaptation, collaboration, health, technology, and compliance during the global pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## Closest similar item
 
-* [Spatial variety in window design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3012.md)
-* [Window and vent design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1438.md)
-* [Window ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3221.md)
-* [Window opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_793.md)
-* [Design apartments with windows that offer views of nature and the sky.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4036.md)
-* [Glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_795.md)
-* [Multiple window opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_794.md)
-* [Natural ventilation and operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3222.md)
-* [Window views, spatial variety and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1551.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3314.md)
+* [Verify sources and rely on accurate, evidence-based information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2949.md)
+* [Evidence-based](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3580.md)
+* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3583.md)
+* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3656.md)
+* [Gather and analyze accurate data, rely on evidence-based estimates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2040.md)
+* [Provide accurate and evidence-based information through trusted sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2950.md)
+* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2161.md)
+* [Reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1583.md)
+* [Real-world evidence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3582.md)
+* [Evidence-based research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3581.md)
 

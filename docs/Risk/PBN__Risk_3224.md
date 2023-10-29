@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Non-intrusive audio-visual alerts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1850.md)
+* [Non-intrusive audio-visual alerts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4784.md)
 

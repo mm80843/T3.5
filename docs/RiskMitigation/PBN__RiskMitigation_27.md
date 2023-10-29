@@ -23,7 +23,20 @@
 
 * [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_35.md)
 
+## Property: has_MitigationPrinciple
+
+Remote provision of healthcare services through telecommunication technologies, including remote clinical healthcare, health education, and health administration
+
 ## Risks possibly mitigated by this Mitigation
 
 * [Overwhelmed healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_22.md)
+* [Lack of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3237.md)
+
+## Property: has_MitigationSource
+
+* [The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_9.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Telecommunication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3292.md)
 

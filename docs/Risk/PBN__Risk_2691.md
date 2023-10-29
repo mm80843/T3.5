@@ -19,7 +19,11 @@
 * [Ineffective contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2055.md)
 * [Close contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2473.md)
 
+## Blueprints with this risk
+
+* [Reducing contact points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_15.md)
+
 ## Mitigations of this risk
 
-* [Hands-free door opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_758.md)
+* [Hands-free door opening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3778.md)
 
