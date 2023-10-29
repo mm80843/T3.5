@@ -1,0 +1,29 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_374 
+
+# __construction technology and software__
+
+## Category to which it belongs
+
+* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
+
+## Risks linked to this technology
+
+* [Push for information-based construction management methods](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_243.md)
+
+## Closest similar item
+
+* [Construction technology and software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2329.md)
+* [construction materials and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2973.md)
+* [construction and technical changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3730.md)
+* [architectural & Construction Materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2661.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4552.md)
+* [building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_457.md)
+* [building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
+* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2657.md)
+* [building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_385.md)
+* [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2335.md)
+
+## This Technology is identified by the following QID
+
+* [Q2674423](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2674423.md)
+

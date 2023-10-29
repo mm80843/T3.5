@@ -1,0 +1,12 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1918 
+
+# __online learning resources to enhance residents’ digital literacy and skills__
+
+## This Technology is identified by the following QID
+
+* [Q12599816](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q12599816.md)
+
+## Risks linked to this technology
+
+* [Lack of digital literacy and skills](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2328.md)
+
