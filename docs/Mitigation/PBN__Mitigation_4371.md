@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4371 
 
+<<<<<<< HEAD
 # __Mortgage holidays__
 
 ## Category to which it belongs
@@ -33,4 +34,7 @@ Provide temporary relief to individuals who are unable to make mortgage payments
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __genome sequencing__
+>>>>>>> refs/remotes/origin/main
 

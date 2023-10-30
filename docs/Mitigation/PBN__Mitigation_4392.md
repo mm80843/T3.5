@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4392 
 
+<<<<<<< HEAD
 # __Use of outdoor spaces__
 
 ## Link between Blueprint and General ontology
@@ -36,4 +37,7 @@ Encourages individuals to spend time outdoors in open spaces, where the risk of 
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __HVAC systems with HEPA filters__
+>>>>>>> refs/remotes/origin/main
 

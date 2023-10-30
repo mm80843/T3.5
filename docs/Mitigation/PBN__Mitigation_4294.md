@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4294 
 
+<<<<<<< HEAD
 # __Flexible manufacturing__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Adopting flexible manufacturing technologies to quickly adapt production in resp
 ## This Mitigation is enabled by the following technologies
 
 * [Flexible production technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3191.md)
+=======
+# __Conduct comprehensive energy consumption breakdown__
+>>>>>>> refs/remotes/origin/main
 

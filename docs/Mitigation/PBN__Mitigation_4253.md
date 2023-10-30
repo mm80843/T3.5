@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4253 
 
+<<<<<<< HEAD
 # __Maintenance and monitoring__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Conducting regular maintenance and monitoring of buildings, including the ventil
 
 * [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3162.md)
 * [Regular physical examination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3161.md)
+=======
+# __WM1: Waste management__
+>>>>>>> refs/remotes/origin/main
 

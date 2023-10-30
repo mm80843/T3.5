@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4311 
 
+<<<<<<< HEAD
 # __Restricted travel__
 
 ## Category to which it belongs
@@ -33,4 +34,7 @@ Limit travel between regions to prevent the introduction and spread of the disea
 ## This Mitigation is enabled by the following technologies
 
 * [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
+=======
+# __Outdoor gathering spaces__
+>>>>>>> refs/remotes/origin/main
 

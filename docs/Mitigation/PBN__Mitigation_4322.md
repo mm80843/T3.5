@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4322 
 
+<<<<<<< HEAD
 # __Room air cleaners__
 
 ## Category to which it belongs
@@ -36,4 +37,7 @@ Room air cleaners remove airborne pathogens through filters or other disinfectio
 * [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_192.md)
 * [Or other disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3210.md)
 * [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3209.md)
+=======
+# __Effect of relative humidity (RH) on UV susceptibility of bacterial aerosols__
+>>>>>>> refs/remotes/origin/main
 

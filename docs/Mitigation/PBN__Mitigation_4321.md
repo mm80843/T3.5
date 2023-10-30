@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4321 
 
+<<<<<<< HEAD
 # __Upper room germicidal uv fixtures__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Upper room germicidal UV fixtures disinfect large volumes of room air by deconta
 ## This Mitigation is enabled by the following technologies
 
 * [Germicidal uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3207.md)
+=======
+# __Virus Transmission through aerosol__
+>>>>>>> refs/remotes/origin/main
 

@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4306 
 
+<<<<<<< HEAD
 # __Sqlite database__
 
 ## Category to which it belongs
@@ -33,4 +34,7 @@ Stores scraped data and retrieves it for display in the application.
 ## This Mitigation is enabled by the following technologies
 
 * [Sqlite database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3201.md)
+=======
+# __Integration of smart building technologies__
+>>>>>>> refs/remotes/origin/main
 

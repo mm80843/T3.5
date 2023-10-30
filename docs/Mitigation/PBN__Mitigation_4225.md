@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4225 
 
+<<<<<<< HEAD
 # __Air filtration and purification__
 
 ## Link between Blueprint and General ontology
@@ -38,4 +39,7 @@ Using air filtration systems to remove airborne particles, including viral parti
 ## This Mitigation is enabled by the following technologies
 
 * [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3148.md)
+=======
+# __virtual learning technologies__
+>>>>>>> refs/remotes/origin/main
 

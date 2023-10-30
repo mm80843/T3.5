@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4275 
 
+<<<<<<< HEAD
 # __Training for healthcare professionals in psychosocial skills__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ To equip healthcare professionals with the necessary skills to cope with stress 
 ## This Mitigation is enabled by the following technologies
 
 * [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+=======
+# __Restrictions on shared facilities and uses__
+>>>>>>> refs/remotes/origin/main
 

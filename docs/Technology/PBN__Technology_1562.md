@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1562 
 
+<<<<<<< HEAD
 # __Vaccine education and communication tools__
 
 ## Category to which it belongs
@@ -26,4 +27,32 @@
 ## Risks linked to this technology
 
 * [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2056.md)
+=======
+# __antibiotic stewardship programs__
+
+## Category to which it belongs
+
+* [Government programs and initiatives provide support, training, and financial assistance for education, healthcare, employment, and overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
+
+## Risks linked to this technology
+
+* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
+
+## Closest similar item
+
+* [hygiene education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_627.md)
+* [assistance programs for healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1283.md)
+* [health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_986.md)
+* [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
+* [anti-bacterial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3917.md)
+* [antimicrobial filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3773.md)
+* [healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
+* [Outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2645.md)
+* [outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_174.md)
+* [healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
+
+## This Technology is identified by the following QID
+
+* [Q112581955](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q112581955.md)
+>>>>>>> refs/remotes/origin/main
 

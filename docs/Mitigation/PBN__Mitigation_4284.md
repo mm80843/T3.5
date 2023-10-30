@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4284 
 
+<<<<<<< HEAD
 # __Virtual learning in combination with in-person classes__
 
 ## Category to which it belongs
@@ -33,4 +34,7 @@ Reduce the number of individuals present in the building, minimizing the risk of
 ## This Mitigation is enabled by the following technologies
 
 * [Virtual learning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3186.md)
+=======
+# __Proper disposal methods for chemical wastes, including hazardous waste treatment.__
+>>>>>>> refs/remotes/origin/main
 

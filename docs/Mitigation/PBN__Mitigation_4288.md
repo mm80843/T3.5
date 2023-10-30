@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4288 
 
+<<<<<<< HEAD
 # __Demand management__
 
 ## Link between Blueprint and General ontology
@@ -39,4 +40,7 @@ Implementing effective demand management strategies to prevent inventory shortag
 ## This Mitigation is enabled by the following technologies
 
 * [Demand forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3187.md)
+=======
+# __Provide backup energy sources__
+>>>>>>> refs/remotes/origin/main
 

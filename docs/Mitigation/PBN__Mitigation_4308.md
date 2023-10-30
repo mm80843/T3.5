@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4308 
 
+<<<<<<< HEAD
 # __Washing hands__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Proper hand hygiene can help reduce the risk of transmission by killing or remov
 
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
 * [Soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2459.md)
+=======
+# __Integration of smart city technologies__
+>>>>>>> refs/remotes/origin/main
 

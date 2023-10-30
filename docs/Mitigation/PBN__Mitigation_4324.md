@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4324 
 
+<<<<<<< HEAD
 # __Machine learning algorithms for screening of sars-cov-2__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ ML algorithms can accurately screen for SARS-CoV-2 using respiratory patterns
 ## This Mitigation is enabled by the following technologies
 
 * [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2555.md)
+=======
+# __Transmission of COVID-19 through aerosols__
+>>>>>>> refs/remotes/origin/main
 

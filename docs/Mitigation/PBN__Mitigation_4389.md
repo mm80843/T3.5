@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4389 
 
+<<<<<<< HEAD
 # __Information communication__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Providing accurate and timely information to the public through various communic
 
 * [Media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3022.md)
 * [Government communications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3259.md)
+=======
+# __air purifiers with HEPA filters__
+>>>>>>> refs/remotes/origin/main
 

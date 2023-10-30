@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4374 
 
+<<<<<<< HEAD
 # __Government bailout__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Provide financial support to struggling industries to prevent collapse and job l
 ## This Mitigation is enabled by the following technologies
 
 * [Financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3019.md)
+=======
+# __dna barcoding__
+>>>>>>> refs/remotes/origin/main
 

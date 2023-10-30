@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4268 
 
+<<<<<<< HEAD
 # __Work from home__
 
 ## Category to which it belongs
@@ -35,4 +36,7 @@ To minimize the interaction and physical contact between employees in the workpl
 
 * [Video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
 * [Communication technology internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3175.md)
+=======
+# __Acknowledge diverse levels of risk tolerance__
+>>>>>>> refs/remotes/origin/main
 

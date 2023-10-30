@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4307 
 
+<<<<<<< HEAD
 # __Geographic information system gis__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Displays the spread of COVID-19 on a map, categorizing areas based on risk level
 ## This Mitigation is enabled by the following technologies
 
 * [Gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3202.md)
+=======
+# __Smart metering__
+>>>>>>> refs/remotes/origin/main
 

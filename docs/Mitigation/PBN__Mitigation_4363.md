@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4363 
 
+<<<<<<< HEAD
 # __Evaluating control measures__
 
 ## Category to which it belongs
@@ -32,4 +33,7 @@ Using wastewater-based epidemiology to evaluate the effectiveness of different c
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __comparative analysis of genome sequences__
+>>>>>>> refs/remotes/origin/main
 

@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4207 
 
+<<<<<<< HEAD
 # __Informal signs__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Used to communicate rapidly changing information and guidelines during the pande
 ## This Mitigation is enabled by the following technologies
 
 * [Ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3146.md)
+=======
+# __Enforce data sharing requirements, incentivize data sharing, improve legal and regulatory frameworks.__
+>>>>>>> refs/remotes/origin/main
 

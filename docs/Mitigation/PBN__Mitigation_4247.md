@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4247 
 
+<<<<<<< HEAD
 # __Adaptive reuse__
 
 ## Category to which it belongs
@@ -35,4 +36,7 @@ Repurpose existing buildings and spaces for emergency facilities to quickly resp
 ## This Mitigation is enabled by the following technologies
 
 * [Conversion of existing structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3670.md)
+=======
+# __Poor waste management__
+>>>>>>> refs/remotes/origin/main
 

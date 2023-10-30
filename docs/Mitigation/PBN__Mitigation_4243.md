@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4243 
 
+<<<<<<< HEAD
 # __Space and density__
 
 ## Category to which it belongs
@@ -32,4 +33,7 @@ Explore strategies to optimize space utilization and reduce overcrowding in buil
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __Regular cleaning and sanitization procedures__
+>>>>>>> refs/remotes/origin/main
 

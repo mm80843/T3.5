@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4203 
 
+<<<<<<< HEAD
 # __Rapid diagnosis techniques__
 
 ## Category to which it belongs
@@ -35,4 +36,7 @@ Develop AI models and techniques to diagnose COVID-19 quickly and accurately
 
 * [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Deep learning models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3137.md)
+=======
+# __Regulatory frameworks for data protection__
+>>>>>>> refs/remotes/origin/main
 

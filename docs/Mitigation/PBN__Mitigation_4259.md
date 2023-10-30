@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4259 
 
+<<<<<<< HEAD
 # __Predictive analytics for resource planning__
 
 ## Category to which it belongs
@@ -35,4 +36,7 @@ Predicts the demand for healthcare resources, such as hospital beds and ventilat
 
 * [Epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_755.md)
 * [Predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3089.md)
+=======
+# __Properly design and allocate washing areas in houses and buildings__
+>>>>>>> refs/remotes/origin/main
 

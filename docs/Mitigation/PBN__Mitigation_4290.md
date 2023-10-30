@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4290 
 
+<<<<<<< HEAD
 # __Resilient supply chain design__
 
 ## Link between Blueprint and General ontology
@@ -38,4 +39,7 @@ Designing resilient supply chains that are better prepared to withstand and reco
 ## This Mitigation is enabled by the following technologies
 
 * [Network design tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3189.md)
+=======
+# __Implement renewable energy sources__
+>>>>>>> refs/remotes/origin/main
 

@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4302 
 
+<<<<<<< HEAD
 # __Web scraping__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Accesses web pages, extracts data, and retrieves information in an automated man
 ## This Mitigation is enabled by the following technologies
 
 * [Html parsing library](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3198.md)
+=======
+# __Support local economies and livelihoods, promote sustainable alternative income-generating activities, and engage local communities in conservation efforts.__
+>>>>>>> refs/remotes/origin/main
 

@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4272 
 
+<<<<<<< HEAD
 # __Stay-at-home recommendations__
 
 ## Category to which it belongs
@@ -33,4 +34,7 @@ To limit the movement and interaction of individuals within the community to min
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __Foster collaboration and clear communication among stakeholders, establish effective project governance structure.__
+>>>>>>> refs/remotes/origin/main
 

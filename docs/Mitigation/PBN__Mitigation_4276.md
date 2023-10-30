@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4276 
 
+<<<<<<< HEAD
 # __Clear and inclusive communication__
 
 ## Link between Blueprint and General ontology
@@ -41,4 +42,7 @@ To provide reliable and accessible information about the disease to all populati
 * [Diverse communication channels television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3179.md)
 * [Newspapers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3181.md)
 * [Radio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3180.md)
+=======
+# __Educating building occupants__
+>>>>>>> refs/remotes/origin/main
 

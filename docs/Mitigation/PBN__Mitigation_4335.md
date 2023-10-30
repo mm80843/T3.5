@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4335 
 
+<<<<<<< HEAD
 # __Phone-based ai software for patient data collection__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ AI software can assist in remote patient monitoring and data collection in LMIC
 ## This Mitigation is enabled by the following technologies
 
 * [Artificial intelligence and mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3222.md)
+=======
+# __Preparedness procedures__
+>>>>>>> refs/remotes/origin/main
 

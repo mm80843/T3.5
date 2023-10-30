@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4196 
 
+<<<<<<< HEAD
 # __Gis tools for mapping and tracking__
 
 ## Category to which it belongs
@@ -36,4 +37,7 @@ Track and map the spread of COVID-19 to inform decision-making and interventions
 * [Gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2398.md)
 * [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
 * [Gis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3143.md)
+=======
+# __Legal and regulatory__
+>>>>>>> refs/remotes/origin/main
 

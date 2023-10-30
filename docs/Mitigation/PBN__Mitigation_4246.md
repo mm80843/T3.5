@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4246 
 
+<<<<<<< HEAD
 # __Ability to work from home__
 
 ## Category to which it belongs
@@ -33,4 +34,7 @@ Enable remote work options to reduce physical contact and limit the spread of in
 ## This Mitigation is enabled by the following technologies
 
 * [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2456.md)
+=======
+# __Waste management__
+>>>>>>> refs/remotes/origin/main
 

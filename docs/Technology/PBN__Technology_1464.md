@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1464 
 
+<<<<<<< HEAD
 # __Trajectory analysis tools__
 
 ## Category to which it belongs
@@ -34,4 +35,32 @@
 ## Risks linked to this technology
 
 * [Lack of microscale representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
+=======
+# __agent-based modeling__
+
+## Category to which it belongs
+
+* [Advanced technologies and algorithms for modeling, simulation, optimization, and artificial intelligence in various applications, including robotics and computational fluid dynamics.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
+
+## Risks linked to this technology
+
+* [Incomplete macroscopic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2003.md)
+
+## Closest similar item
+
+* [Agent-based modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2035.md)
+* [modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1979.md)
+* [simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1458.md)
+* [agent dimensions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4044.md)
+* [computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3961.md)
+* [mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2929.md)
+* [advanced modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1201.md)
+* [flexible working models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3949.md)
+* [predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3951.md)
+* [rule-based system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3175.md)
+
+## This Technology is identified by the following QID
+
+* [Q392811](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q392811.md)
+>>>>>>> refs/remotes/origin/main
 

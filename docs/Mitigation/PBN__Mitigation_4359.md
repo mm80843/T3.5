@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4359 
 
+<<<<<<< HEAD
 # __Separate collection services__
 
 ## Category to which it belongs
@@ -32,4 +33,7 @@ Providing separate collection services to COVID-19 infected households and quara
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __Data privacy concerns__
+>>>>>>> refs/remotes/origin/main
 

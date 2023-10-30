@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4220 
 
+<<<<<<< HEAD
 # __Improved social distancing measures__
 
 ## Link between Blueprint and General ontology
@@ -37,4 +38,7 @@ Implementing measures to enforce social distancing, such as maintaining a safe d
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __Augmented / Virtual Reality__
+>>>>>>> refs/remotes/origin/main
 

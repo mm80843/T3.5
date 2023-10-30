@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4204 
 
+<<<<<<< HEAD
 # __Vaccine development and drug discovery__
 
 ## Category to which it belongs
@@ -35,4 +36,7 @@ Utilize AI and data analysis to accelerate the development of vaccines and drugs
 
 * [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2736.md)
+=======
+# __Access to Legal Representation__
+>>>>>>> refs/remotes/origin/main
 

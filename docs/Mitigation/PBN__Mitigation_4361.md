@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4361 
 
+<<<<<<< HEAD
 # __Nucleic acid testing__
 
 ## Category to which it belongs
@@ -33,4 +34,7 @@ Using nucleic acid testing to detect and quantify SARS-CoV-2 in environmental sa
 ## This Mitigation is enabled by the following technologies
 
 * [Real-time polymerase chain reaction rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3250.md)
+=======
+# __Privacy and data security concerns__
+>>>>>>> refs/remotes/origin/main
 

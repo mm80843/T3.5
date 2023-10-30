@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4310 
 
+<<<<<<< HEAD
 # __School and workplace closings__
 
 ## Category to which it belongs
@@ -32,4 +33,7 @@ Close schools and workplaces to reduce the potential for large gatherings and li
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __outdoor gathering spaces__
+>>>>>>> refs/remotes/origin/main
 

@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4239 
 
+<<<<<<< HEAD
 # __Design and disease transmission__
 
 ## Category to which it belongs
@@ -32,4 +33,7 @@ Implement design strategies that minimize the transmission of diseases within a 
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __Selection of materials__
+>>>>>>> refs/remotes/origin/main
 

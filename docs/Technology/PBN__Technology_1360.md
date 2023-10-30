@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1360 
 
+<<<<<<< HEAD
 # __Environmental factors__
 
 ## Category to which it belongs
@@ -28,4 +29,32 @@
 
 * [Key factors of covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2335.md)
 * [Inaccurate estimation of covid-19 prevalence from wastewater data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)
+=======
+# __including confirmation with clinical testing__
+
+## Category to which it belongs
+
+* [Enhanced diagnostic techniques and screening methods, including the development of rapid and reliable testing technologies and increased availability of diagnostic tools and kits.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
+
+## Risks linked to this technology
+
+* [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
+
+## Closest similar item
+
+* [clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3434.md)
+* [diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_345.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
+* [clinical assessment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3957.md)
+* [diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
+* [increased availability of diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_948.md)
+* [Increased availability of diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2109.md)
+* [diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3512.md)
+* [testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2780.md)
+
+## This Technology is identified by the following QID
+
+* [Q70439788](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q70439788.md)
+>>>>>>> refs/remotes/origin/main
 

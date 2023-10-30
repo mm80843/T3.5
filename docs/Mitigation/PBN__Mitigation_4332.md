@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4332 
 
+<<<<<<< HEAD
 # __Ai technology for accurate and cost-effective tests__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ AI can reduce the burden on health systems by providing accurate and cost-effect
 ## This Mitigation is enabled by the following technologies
 
 * [Artificial intelligence and diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3219.md)
+=======
+# __Promote diversification of supplies and improve flexibility in sourcing inputs across multiple suppliers and countries.__
+>>>>>>> refs/remotes/origin/main
 

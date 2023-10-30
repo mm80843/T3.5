@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4296 
 
+<<<<<<< HEAD
 # __Air cleaning devices__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Removes or inactivates microorganisms in the air, reducing the concentration of 
 ## This Mitigation is enabled by the following technologies
 
 * [Germicidal ultraviolet guv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3194.md)
+=======
+# __Flexible room layout__
+>>>>>>> refs/remotes/origin/main
 

@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4233 
 
+<<<<<<< HEAD
 # __Sanitary reform__
 
 ## Category to which it belongs
@@ -32,4 +33,7 @@ Develop water and sewage systems to fight pathogens and improve hygiene.
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __blockchain)__
+>>>>>>> refs/remotes/origin/main
 

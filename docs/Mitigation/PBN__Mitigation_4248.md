@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4248 
 
+<<<<<<< HEAD
 # __Lightweight architecture__
 
 ## Category to which it belongs
@@ -32,4 +33,7 @@ Design and construct lightweight and adaptable structures for field hospitals an
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __Inadequate waste management__
+>>>>>>> refs/remotes/origin/main
 

@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4226 
 
+<<<<<<< HEAD
 # __Isolation measures__
 
 ## Category to which it belongs
@@ -33,4 +34,7 @@ Implementing isolation measures in specific buildings or facilities to prevent t
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __Virtual classrooms__
+>>>>>>> refs/remotes/origin/main
 

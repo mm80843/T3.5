@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4348 
 
+<<<<<<< HEAD
 # __Good housekeeping practices__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Proper cleaning and maintenance of HVAC system components can prevent the accumu
 ## This Mitigation is enabled by the following technologies
 
 * [Regular cleaning and maintenance of hvac system components](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3243.md)
+=======
+# __Virtual reality medical training__
+>>>>>>> refs/remotes/origin/main
 

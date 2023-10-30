@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1921 
 
+<<<<<<< HEAD
 # __Construction industry worker__
 
 ## Category to which it belongs
@@ -26,4 +27,35 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Real estate and construction](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1684.md)
+=======
+# __contracting client__
+
+## Category to which it belongs
+
+* [Various industries, businesses, and supply chain partners rely on suppliers and supply chain professionals for their products and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
+
+## Closest similar item
+
+* [contracting clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1018.md)
+* [clients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_297.md)
+* [client](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2546.md)
+* [contractor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1977.md)
+* [contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_179.md)
+* [freelancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1737.md)
+* [freelancers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1805.md)
+* [procurement](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_987.md)
+* [Maintenance contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1823.md)
+* [maintenance contractors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1120.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+
+## This Stakeholder is identified by the following QID
+
+* [Q852835](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q852835.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
+>>>>>>> refs/remotes/origin/main
 

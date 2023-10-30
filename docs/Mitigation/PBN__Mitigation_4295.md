@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4295 
 
+<<<<<<< HEAD
 # __Avoid air recirculation__
 
 ## Link between Blueprint and General ontology
@@ -38,4 +39,7 @@ Prevents the transportation of airborne contaminants from one space to another t
 ## This Mitigation is enabled by the following technologies
 
 * [Filtering devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3193.md)
+=======
+# __Adjustability of indoor temperature__
+>>>>>>> refs/remotes/origin/main
 

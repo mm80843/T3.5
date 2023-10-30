@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4338 
 
+<<<<<<< HEAD
 # __Disinfectant fogging systems__
 
 ## Category to which it belongs
@@ -33,4 +34,7 @@ Disperse fine particles of liquid disinfectant to decontaminate surfaces and air
 ## This Mitigation is enabled by the following technologies
 
 * [Fogging technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3231.md)
+=======
+# __advanced wastewater treatment technologies such as uv disinfection or ozonation__
+>>>>>>> refs/remotes/origin/main
 

@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4287 
 
+<<<<<<< HEAD
 # __Technology adoption__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Adopting advanced technologies to improve agility and adaptability in supply cha
 ## This Mitigation is enabled by the following technologies
 
 * [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
+=======
+# __Proper testing and treatment of groundwater, alternative sources of clean water__
+>>>>>>> refs/remotes/origin/main
 

@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4383 
 
+<<<<<<< HEAD
 # __Home isolation and quarantine__
 
 ## Category to which it belongs
@@ -36,4 +37,7 @@ Staying at home and avoiding contact with others when experiencing symptoms of a
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __Educational programs__
+>>>>>>> refs/remotes/origin/main
 

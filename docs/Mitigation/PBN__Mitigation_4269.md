@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4269 
 
+<<<<<<< HEAD
 # __Cancelation of mass gatherings__
 
 ## Category to which it belongs
@@ -33,4 +34,7 @@ To prevent large groups of people from gathering in close proximity to each othe
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __Increase perceived threat__
+>>>>>>> refs/remotes/origin/main
 

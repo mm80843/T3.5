@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4376 
 
+<<<<<<< HEAD
 # __Increased funding for vaccine research__
 
 ## Category to which it belongs
@@ -35,4 +36,7 @@ Accelerate research and development of a vaccine for COVID-19
 
 * [Financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3019.md)
 * [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
+=======
+# __Continued implementation of NPIs, vaccination campaigns, promote hygiene practices__
+>>>>>>> refs/remotes/origin/main
 

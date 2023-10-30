@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4298 
 
+<<<<<<< HEAD
 # __Ventilation distribution__
 
 ## Category to which it belongs
@@ -33,4 +34,7 @@ Ensures proper distribution of ventilation by strategically placing supply and e
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __Designing personalized indoor controls at room and patient levels__
+>>>>>>> refs/remotes/origin/main
 

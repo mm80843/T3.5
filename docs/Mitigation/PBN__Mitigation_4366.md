@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4366 
 
+<<<<<<< HEAD
 # __Data sharing mechanisms__
 
 ## Category to which it belongs
@@ -32,4 +33,7 @@ Establishing data sharing mechanisms between health authorities and waste servic
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __bioinformatics tools__
+>>>>>>> refs/remotes/origin/main
 

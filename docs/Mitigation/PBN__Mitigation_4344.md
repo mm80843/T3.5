@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4344 
 
+<<<<<<< HEAD
 # __Portable room air purifiers__
 
 ## Category to which it belongs
@@ -38,4 +39,7 @@ Using portable room air purifiers with HEPA filters can help filter and purify t
 ## This Mitigation is enabled by the following technologies
 
 * [Portable air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3240.md)
+=======
+# __fountains__
+>>>>>>> refs/remotes/origin/main
 

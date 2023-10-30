@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4200 
 
+<<<<<<< HEAD
 # __Immersive virtual reality__
 
 ## Category to which it belongs
@@ -35,4 +36,7 @@ Provide realistic, immersive training and education experiences to enhance learn
 
 * [Vr devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3141.md)
 * [Input sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3142.md)
+=======
+# __Legal problems__
+>>>>>>> refs/remotes/origin/main
 

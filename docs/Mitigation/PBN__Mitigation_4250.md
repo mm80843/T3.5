@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4250 
 
+<<<<<<< HEAD
 # __Touchless technology__
 
 ## Link between Blueprint and General ontology
@@ -41,4 +42,7 @@ Implementing technology that eliminates or reduces the need for physical contact
 * [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
 * [Voice recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3158.md)
 * [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3237.md)
+=======
+# __WM3: Waste management__
+>>>>>>> refs/remotes/origin/main
 

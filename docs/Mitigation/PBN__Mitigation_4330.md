@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4330 
 
+<<<<<<< HEAD
 # __Ai-assisted patient positioning for radiological imaging__
 
 ## Category to which it belongs
@@ -36,4 +37,7 @@ AI-assisted patient positioning reduces the risk of infection for healthcare wor
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 * [Cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3216.md)
 * [And speakers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3217.md)
+=======
+# __Stocking up on necessary medical supplies, personal protective equipment, and establishing protocols for infection control__
+>>>>>>> refs/remotes/origin/main
 

@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4205 
 
+<<<<<<< HEAD
 # __Real-time updates and communication__
 
 ## Category to which it belongs
@@ -33,4 +34,7 @@ Provide timely and accurate information to the public to increase awareness and 
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __Transparency and governance of data__
+>>>>>>> refs/remotes/origin/main
 

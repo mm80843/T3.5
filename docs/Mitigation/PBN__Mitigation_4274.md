@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4274 
 
+<<<<<<< HEAD
 # __Use of mobile apps for counselling/treatment__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ To provide remote psychological support and therapy for individuals who cannot a
 ## This Mitigation is enabled by the following technologies
 
 * [Mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
+=======
+# __Designing containment space in residential buildings__
+>>>>>>> refs/remotes/origin/main
 

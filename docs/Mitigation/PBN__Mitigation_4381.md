@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4381 
 
+<<<<<<< HEAD
 # __Increased support for domestic violence services__
 
 ## Category to which it belongs
@@ -35,4 +36,7 @@ Provide resources and coordination to support victims of domestic violence
 
 * [Financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3019.md)
 * [Coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3257.md)
+=======
+# __hygiene education programs__
+>>>>>>> refs/remotes/origin/main
 

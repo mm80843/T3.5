@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4211 
 
+<<<<<<< HEAD
 # __Improved health care facilities__
 
 ## Category to which it belongs
@@ -33,4 +34,7 @@ Increase the number of medical staff and hospitals to cope with the increased de
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __online platforms__
+>>>>>>> refs/remotes/origin/main
 

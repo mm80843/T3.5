@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4326 
 
+<<<<<<< HEAD
 # __Deep learning-based drug discovery pipeline__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Deep learning algorithms help in finding new drug-like compounds against SARS-Co
 ## This Mitigation is enabled by the following technologies
 
 * [Deep learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3213.md)
+=======
+# __Airborne transmission of viruses__
+>>>>>>> refs/remotes/origin/main
 

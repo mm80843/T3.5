@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4331 
 
+<<<<<<< HEAD
 # __Data mining methods for understanding the covid-19 outbreak__
 
 ## Category to which it belongs
@@ -34,4 +35,7 @@ Data mining helps in understanding and analyzing health crisis data for efficien
 ## This Mitigation is enabled by the following technologies
 
 * [Data mining techniques and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3218.md)
+=======
+# __Designating community-level areas for essential services and supplies.__
+>>>>>>> refs/remotes/origin/main
 

@@ -4,6 +4,7 @@
 
 ## Category to which it belongs
 
+<<<<<<< HEAD
 * [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
@@ -64,4 +65,33 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Education in general](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1632.md)
+=======
+* [The community, including residents, educators, healthcare institutions, and government research institutions, is involved in education and healthcare.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_377.md)
+
+## Closest similar item
+
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1837.md)
+* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3112.md)
+* [Technology Sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3113.md)
+* [National Authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3114.md)
+* [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2539.md)
+* [City Officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3115.md)
+* [Health Authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3116.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1708.md)
+* [Crisis Management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_3117.md)
+* [Community Stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2453.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+* [Education in General](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_12.md)
+
+## This Stakeholder is identified by the following QID
+
+* [Q8434](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q8434.md)
+* [Q5341232](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q5341232.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Education](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_1.md)
+>>>>>>> refs/remotes/origin/main
 

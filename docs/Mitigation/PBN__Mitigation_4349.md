@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4349 
 
+<<<<<<< HEAD
 # __Negative pressure during cleaning__
 
 ## Link between Blueprint and General ontology
@@ -38,4 +39,7 @@ Maintaining negative pressure during cleaning reduces the discharge of dirt and 
 ## This Mitigation is enabled by the following technologies
 
 * [Proper cleaning procedures and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3244.md)
+=======
+# __Virtual reality patient education__
+>>>>>>> refs/remotes/origin/main
 

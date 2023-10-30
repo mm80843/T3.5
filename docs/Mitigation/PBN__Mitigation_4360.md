@@ -1,5 +1,6 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4360 
 
+<<<<<<< HEAD
 # __72-hour delay in waste collection time__
 
 ## Category to which it belongs
@@ -32,4 +33,7 @@ Recommended delay in waste collection time of 72 hours to allow any potential vi
 
 ## This Mitigation is enabled by the following technologies
 
+=======
+# __Privacy__
+>>>>>>> refs/remotes/origin/main
 
