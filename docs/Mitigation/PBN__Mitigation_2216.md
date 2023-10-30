@@ -1,21 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2216 
 
-# __Wireless data transmission__
+# __Planting low voc emitting tree species, proper tree maintenance__
 
 ## Category to which it belongs
 
-* [Integration of various technologies, such as remote supervision, real-time mobile apps, and iot-based solutions, for improved outcomes and efficient communication in a digitalized world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
+* [Promote self-cleaning spaces, implement touchless technologies, and use natural light to establish safer environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_80.md)
 
 ## Closest similar item
 
-* [Wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2217.md)
-* [Wireless data transmission 3g](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2218.md)
-* [Data transmission systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2219.md)
-* [Wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1066.md)
-* [Encrypted data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2220.md)
-* [Wireless sensor networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2215.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2221.md)
-* [Technology for remote communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2222.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1205.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1207.md)
+* [Use of low-voc products](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4660.md)
+* [Increase in green spaces and tree coverage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_174.md)
+* [Conservation of existing tree specimens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4159.md)
+* [Proper ventilation, air filtration, natural daylighting, indoor plantings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3077.md)
+* [Increased tree canopy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_859.md)
+* [Preserving and developing forests and other green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_649.md)
+* [Design to minimize forest edges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3664.md)
+* [Minimizing forest edges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3669.md)
+* [Deforestation reduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3613.md)
+* [Indoor plants as air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_366.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Increased air pollution from emissions of volatile organic compounds by urban trees](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
 

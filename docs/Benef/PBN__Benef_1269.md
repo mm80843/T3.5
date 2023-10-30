@@ -20,5 +20,5 @@ Adequate planning and long-term solutions can ensure the financial stability and
 
 ## Risks which can benefit from this action
 
-* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1287.md)
+* [Adequate planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1287.md)
 

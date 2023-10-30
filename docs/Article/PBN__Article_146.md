@@ -43,11 +43,11 @@ Association between indoor-outdoor green features and psychological health durin
 
 ## This article points to following mitigation
 
-* [Presence of indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_729.md)
-* [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_732.md)
-* [Natural sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4855.md)
-* [Green view from home windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_731.md)
-* [Living on a road with higher levels of greenness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4856.md)
+* [Presence of indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_729.md)
+* [Natural sunlight in the home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4855.md)
+* [Accessibility to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_732.md)
+* [Living on a road with higher levels of greenness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4856.md)
+* [Green view from home windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_731.md)
 
 ## This article mentions these technologies
 

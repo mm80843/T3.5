@@ -20,5 +20,5 @@ Encouraging investors to provide capital, supporting future growth
 
 ## Risks which can benefit from this action
 
-* [Incentivizing growth capital investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_791.md)
+* [Incentivizing growth capital investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_791.md)
 

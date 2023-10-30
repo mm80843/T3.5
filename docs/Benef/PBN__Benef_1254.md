@@ -24,10 +24,10 @@ Disinfecting shoe soles can prevent the tracking of viruses on the floor and red
 
 ## Risks which can benefit from this action
 
-* [Performing hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1266.md)
-* [Disinfecting shoe soles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1265.md)
-* [Disinfecting masks before discarding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1267.md)
-* [Improvement of safety practices in covid-19 wards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1270.md)
-* [Division of workplaces into high-risk and low-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1268.md)
-* [Stricter protective measures in the icu](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1269.md)
+* [Performing hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1266.md)
+* [Disinfecting shoe soles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1265.md)
+* [Disinfecting masks before discarding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1267.md)
+* [Improvement of safety practices in covid-19 wards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1270.md)
+* [Division of workplaces into high-risk and low-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1268.md)
+* [Stricter protective measures in the icu](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1269.md)
 

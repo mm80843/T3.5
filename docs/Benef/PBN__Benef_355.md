@@ -20,5 +20,5 @@ Ensuring rights are respected in public health interventions safeguards privacy,
 
 ## Risks which can benefit from this action
 
-* [Rights-based approach to public health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_359.md)
+* [Rights-based approach to public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_359.md)
 

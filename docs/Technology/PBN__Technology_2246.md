@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2246 
 
-# __Epidermal tattoos__
+# __Payment and transaction systems__
 
 ## Category to which it belongs
 
-* [Protection measures include face masks, personal protective equipment, facial recognition, education on masks, barriers, and physical distancing markers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
+* [Various forms of financial support and assistance, including government programs, funding initiatives, microfinance, cash transfer, and community outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
 
 ## Closest similar item
 
-* [Wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
-* [Facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
-* [Printing and lamination technologies can be used to create professional signs that are durable and visually appealing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1090.md)
-* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3660.md)
-* [Emanators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3669.md)
-* [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_854.md)
-* [Surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2723.md)
-* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
-* [Cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3705.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
+* [Virtual payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_129.md)
+* [Digital payment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1945.md)
+* [Implement contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_299.md)
+* [Contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_744.md)
+* [Financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2350.md)
+* [Mobile payment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3290.md)
+* [Debt management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1412.md)
+* [Mobile payment applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3803.md)
+* [Financial management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1329.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechnologySubgroup
 
-* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3261.md)
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
 

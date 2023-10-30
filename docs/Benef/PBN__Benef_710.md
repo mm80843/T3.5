@@ -20,5 +20,5 @@ Enables remote onboarding and training of new staff members
 
 ## Risks which can benefit from this action
 
-* [Virtual induction and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_709.md)
+* [Virtual induction and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_709.md)
 

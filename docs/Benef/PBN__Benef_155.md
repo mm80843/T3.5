@@ -20,5 +20,5 @@ Providing exercise opportunities in design, such as treadmills under workstation
 
 ## Risks which can benefit from this action
 
-* [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_137.md)
+* [Incorporating exercise opportunities in design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_137.md)
 

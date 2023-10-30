@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2473 
 
-# __Uv light sterilisation__
+# __Biomarker measurements__
 
 ## Category to which it belongs
 
-* [Innovative technology utilizing ultraviolet light for sterilization and disinfection purposes in various systems and devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_244.md)
+* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
-* [Air filtration and uv light sterilisation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
-* [Uv light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2113.md)
-* [Uv-c light sterilization in public transport vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2105.md)
-* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1251.md)
-* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
-* [Uv disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1141.md)
-* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1902.md)
-* [Uv-c disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2103.md)
+* [Biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2671.md)
+* [Biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3508.md)
+* [Molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2025.md)
+* [Biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2578.md)
+* [Molecular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3016.md)
+* [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2285.md)
+* [Urine proteomics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3514.md)
+* [Pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2468.md)
+* [Pharmacokinetics data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3516.md)
+* [Clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2823.md)
 
 ## This Technology enables the following mitigations
 
-* [Enhanced ventilation with provision of uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3523.md)
+* [Integration of multiple measurement methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3322.md)
 

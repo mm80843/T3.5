@@ -21,5 +21,5 @@ Pooled-sample analysis can greatly increase testing capacity and throughput, all
 
 ## Risks which can benefit from this action
 
-* [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1021.md)
+* [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1021.md)
 

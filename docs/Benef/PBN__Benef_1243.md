@@ -20,5 +20,5 @@ Reduced risk of virus transmission, improved access to transportation options
 
 ## Risks which can benefit from this action
 
-* [Investing in hygiene and cleaning protocols for shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1259.md)
+* [Investing in hygiene and cleaning protocols for shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1259.md)
 

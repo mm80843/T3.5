@@ -20,5 +20,5 @@ Results in a significant impact on reducing transmission rates and controlling t
 
 ## Risks which can benefit from this action
 
-* [Combination of multiple interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_409.md)
+* [Combination of multiple interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_409.md)
 

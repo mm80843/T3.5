@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Public and private entities, including decision-makers, procurement, healthcare facilities, vulnerable communities, and the general public.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_411.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
-* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2745.md)
-* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2746.md)
-* [Temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2747.md)
-* [Temperature adjustments in data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2748.md)
-* [Thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2749.md)
-* [Automatic control of temperature](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2718.md)
-* [Temperature screenings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2750.md)
-* [Temperature monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2751.md)
-* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2752.md)
-* [Heat](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2753.md)
+* [Climate](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_251.md)
+* [Especially those with medical conditions and sensitivity to temperature](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_649.md)
+* [Especially those with medical condition and sensitivity to temperature](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2152.md)
+* [Especially those in extreme temperature environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_643.md)
+* [Especially those in extreme temperature environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2191.md)
+* [Occupants of buildings with inefficient thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1200.md)
+* [Occupant of building with inefficient thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2524.md)
+* [Environmental conditions and settings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2253.md)
+* [Climate change communicators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_906.md)
+* [Meteorologists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_956.md)
 
 ## Risk affecting this stakeholder
 

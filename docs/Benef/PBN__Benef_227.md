@@ -20,5 +20,5 @@ Improving the quality of parks in low-socioeconomic status neighborhoods can enc
 
 ## Risks which can benefit from this action
 
-* [Improve park quality in low-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_211.md)
+* [Improve park quality in low-socioeconomic status neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_211.md)
 

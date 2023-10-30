@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Insufficient infrastructure, inadequate education and training, lack of global leadership, and inadequate governance contribute to a lack of preparedness and coordination in various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
+* [Fragmented global governance, disconnect from nature, limited stakeholder collaboration, rise of authoritarianism, and exclusion from support characterize the challenges at hand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_26.md)
 
 ## Closest similar item
 
@@ -23,25 +23,25 @@
 
 Insufficient legal protections and financial support, such as eviction moratoria and rental assistance, lead to increased eviction rates and housing displacement.
 
-## Is the risk affecting GBN scales
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Type of the risk
 
 * [Other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
+## Is the risk affecting GBN scales
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_1.md)
+
 ## Type of impact of the risk (according to ISO37100)
 
-* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_8.md)
+* [Economy and sustainable production and consumption](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_8.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_4.md)
 
 ## Mitigations of this risk
 
-* [Implement eviction moratoria, provide rental assistance, establish eviction diversion programs.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1633.md)
+* [Implement eviction moratoria, provide rental assistance, establish eviction diversion programs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1633.md)
 
 ## Name of the risk
 

@@ -4,15 +4,15 @@
 
 ## Category to which it belongs
 
-* [Promotion and implementation of sustainable and eco-friendly techniques, technologies, and initiatives for environmental conservation and management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
+* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
 * [Gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1734.md)
 * [Urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_619.md)
 * [Pocket gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_846.md)
-* [Vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
-* [Rain gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3109.md)
+* [Vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3084.md)
+* [Rain gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3274.md)
 * [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1784.md)
 * [Gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1783.md)
 * [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1847.md)
@@ -21,7 +21,7 @@
 
 ## This Technology belongs to this TechGroup
 
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
 
 ## This technology is mentioned by
 
@@ -29,7 +29,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Urban planning and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+* [Urban planning and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2128.md)
 
 ## Risks linked to this technology
 

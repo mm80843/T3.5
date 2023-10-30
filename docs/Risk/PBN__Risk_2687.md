@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The challenges include limited access to technology, lack of interoperability, education disruption, high costs, and inadequate infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_129.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_22.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_53.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_53.md)
 

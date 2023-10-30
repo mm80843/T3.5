@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The toll of the pandemic on mental health, including increased mental health issues, domestic violence, and limited resources for support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_20.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_564.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
 

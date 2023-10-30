@@ -21,5 +21,5 @@ Helps identify potential close contacts and facilitates early testing and isolat
 
 ## Risks which can benefit from this action
 
-* [Bluetooth-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1150.md)
+* [Bluetooth-based apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1150.md)
 

@@ -20,5 +20,5 @@ Enables effective remote work and increases productivity and efficiency
 
 ## Risks which can benefit from this action
 
-* [Adoption of proper software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1398.md)
+* [Adoption of proper software and hardware](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1398.md)
 

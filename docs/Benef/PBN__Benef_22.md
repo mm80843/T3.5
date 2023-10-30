@@ -20,5 +20,5 @@ Data-driven decision-making processes can improve supply chain performance and r
 
 ## Risks which can benefit from this action
 
-* [Implementing data-driven decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_14.md)
+* [Implementing data-driven decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_14.md)
 

@@ -21,5 +21,5 @@ Changes in social practices, such as reduced travel and increased remote work, c
 
 ## Risks which can benefit from this action
 
-* [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_62.md)
+* [Behavioral change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_62.md)
 

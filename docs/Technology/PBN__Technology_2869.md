@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2869 
 
-# __Customized occupancy simulation parameters__
+# __Self-disinfecting coatings__
 
 ## Category to which it belongs
 
-* [Strategies for equitable urban planning, development, and design, integrating green spaces, technology, and spatial optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
+* [The advancement and use of various technologies and materials for the purpose of eliminating microorganisms and promoting cleanliness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
-* [Occupancy estimation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2893.md)
-* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_248.md)
-* [Occupancy limits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_965.md)
-* [Occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_431.md)
-* [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_773.md)
-* [Real-time occupancy tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1026.md)
-* [Real-time occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2008.md)
-* [Occupancy sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_647.md)
-* [Occupancy tracking sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_332.md)
-* [Simulation activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_394.md)
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_786.md)
+* [Advanced self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_789.md)
+* [Self-disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1755.md)
+* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_785.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1908.md)
+* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2666.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
 
 ## This Technology enables the following mitigations
 
-* [Configurable simulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4067.md)
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1188.md)
 

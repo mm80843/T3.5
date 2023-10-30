@@ -4,11 +4,10 @@
 
 ## Category to which it belongs
 
-* [The ramifications of a global crisis include disrupted education, reduced socialization, resistance to change, misinterpretation, inconsistent implementation, and increased poverty.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
+* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_14.md)
 
 ## Closest similar item
 
-* [Negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3446.md)
 * [Fear and negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1801.md)
 * [Emotional stress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3274.md)
 * [Emotional disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3108.md)
@@ -18,31 +17,32 @@
 * [Psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
 * [Negative emotional reactions and noncompliance with public health directives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_591.md)
 * [Increased anxiety and negative psychological effects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2796.md)
+* [False negatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2721.md)
 
 ## Description of the risk
 
 Feelings of anxiety, fear, and frustration due to the measures
 
-## Is the risk affecting GBN scales
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Type of the risk
 
 * [Mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
+## Is the risk affecting GBN scales
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_1.md)
+
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
-* [Mental health support services, stress management programs, promoting self-care activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2962.md)
-* [Media content regulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3391.md)
+* [Mental health support services, stress management programs, promoting self-care activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2962.md)
+* [Media content regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3391.md)
 
 ## Name of the risk
 

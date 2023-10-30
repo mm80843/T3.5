@@ -4,15 +4,15 @@
 
 ## Category to which it belongs
 
-* [Efforts to provide financial assistance and support through various programs, incentives, grants, and investments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
+* [Various forms of financial support and assistance, including government programs, funding initiatives, microfinance, cash transfer, and community outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
 
 ## Closest similar item
 
 * [Online financial education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_429.md)
 * [Financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_892.md)
 * [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
-* [Financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3185.md)
-* [Financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2854.md)
+* [Financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3350.md)
+* [Financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3019.md)
 * [Financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
 * [Financial assistance programs and grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1438.md)
 * [Counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_113.md)

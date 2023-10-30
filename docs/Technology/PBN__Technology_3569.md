@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3569 
 
-# __Greywater treatment systems__
+# __Medical equipment and personnel__
 
 ## Category to which it belongs
 
-* [Improvements in sanitation, waste management, and water treatment to ensure efficient and sustainable infrastructure and practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_243.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
-* [Greywater disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1757.md)
-* [Graywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1773.md)
-* [Greywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1770.md)
-* [Water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3571.md)
-* [Separate pipes for greywater](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1756.md)
-* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
-* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
-* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_996.md)
-* [Wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3196.md)
-* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1351.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [Portable medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_953.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2638.md)
+* [Medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1250.md)
+* [Proper equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2429.md)
+* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2295.md)
+* [Laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
+* [Medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2299.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [Use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_556.md)
 
 ## This Technology enables the following mitigations
 
-* [Greywater separation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5054.md)
+* [Pre-employment and periodic mcus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4881.md)
 

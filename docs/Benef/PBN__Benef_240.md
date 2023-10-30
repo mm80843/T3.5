@@ -20,5 +20,5 @@ Regular maintenance and decontamination of the water system prevent contaminatio
 
 ## Risks which can benefit from this action
 
-* [Maintenance and decontamination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_229.md)
+* [Maintenance and decontamination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_229.md)
 

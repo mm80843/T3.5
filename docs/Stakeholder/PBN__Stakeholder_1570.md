@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Vulnerable populations include individuals with preexisting medical conditions, low-income individuals, the elderly, children, and those with disabilities, particularly respiratory conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_421.md)
+* [Individuals with respiratory conditions or weakened immune systems, including allergy sufferers, are at higher risk, particularly in areas with high infection rates.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
 
 ## Closest similar item
 
@@ -12,12 +12,12 @@
 * [Individuals in high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1074.md)
 * [High-risk patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_539.md)
 * [Individuals with underlying health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_886.md)
-* [Individual in high-risk area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2133.md)
+* [Individual in high-risk area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2205.md)
 * [Individuals at risk including those who contract the disease](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_335.md)
+* [Individuals with health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2077.md)
 * [Especially vulnerable individuals such as children and people with respiratory conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_640.md)
 * [General populations at risk of exposure to new diseases](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1568.md)
 * [Individuals at risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_796.md)
-* [Individuals with comorbidities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1256.md)
 
 ## Risk affecting this stakeholder
 

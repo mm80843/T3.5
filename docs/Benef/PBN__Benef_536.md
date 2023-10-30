@@ -21,5 +21,5 @@ Prioritizing relevant issues and aligning research with policy needs informs cri
 
 ## Risks which can benefit from this action
 
-* [Engaging decision-makers and stakeholders in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_550.md)
+* [Engaging decision-makers and stakeholders in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_550.md)
 

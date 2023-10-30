@@ -20,5 +20,5 @@ Conversion of public venues into makeshift hospitals increases healthcare capaci
 
 ## Risks which can benefit from this action
 
-* [Conversion of public venues into makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_611.md)
+* [Conversion of public venues into makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_611.md)
 

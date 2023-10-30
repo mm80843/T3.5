@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2700 
 
-# __Digital reservation systems__
+# __Mobile-health disease-monitoring data__
 
 ## Category to which it belongs
 
-* [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
+* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
-* [Reservation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_774.md)
-* [Online booking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_991.md)
-* [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
-* [Online booking systems for entrance fees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1819.md)
-* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_40.md)
-* [Digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3375.md)
-* [Digital management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2036.md)
-* [Appointment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1293.md)
-* [Digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
-* [Digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_15.md)
+* [Mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1689.md)
+* [Mobile health applications for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1566.md)
+* [Mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1550.md)
+* [Integration of mobile technology with public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1387.md)
+* [Mobile apps for monitoring and managing health behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_687.md)
+* [Mobile health apps and services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2077.md)
+* [Existing health data capture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2710.md)
+* [Mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_475.md)
+* [Health data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2711.md)
+* [Disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1884.md)
 
 ## This Technology enables the following mitigations
 
-* [Limited occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3829.md)
+* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3596.md)
 

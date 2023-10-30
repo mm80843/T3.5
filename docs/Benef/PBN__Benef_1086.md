@@ -21,5 +21,5 @@ AI/ML models can analyze large datasets to predict infection rates, enabling gov
 
 ## Risks which can benefit from this action
 
-* [Artificial intelligence/machine learning ai/ml](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1099.md)
+* [Artificial intelligence/machine learning ai/ml](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1099.md)
 

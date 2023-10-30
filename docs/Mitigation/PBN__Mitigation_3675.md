@@ -1,20 +1,35 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3675 
 
-# __Interruption of access to food for children from households dependent on school-feeding programs__
+# __Adjusting research design__
 
 ## Category to which it belongs
 
-* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
+* [Enhancing learning methods, implementing flexible work arrangements, improving planning mechanisms, and promoting workforce education and training.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_85.md)
 
 ## Closest similar item
 
-* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3676.md)
-* [Food security](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3555.md)
-* [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3551.md)
-* [Food parcels and free meals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3677.md)
-* [Support for children’s education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3678.md)
-* [Increased household chores](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1751.md)
-* [Improve food systems planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3552.md)
-* [Interrupted education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3679.md)
-* [School closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1779.md)
+* [Consider implications for design, conduct, and interpretation of research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1385.md)
+* [Employ longitudinal elements in research design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1386.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
+* [Planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3164.md)
+* [Improved guidelines and scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1361.md)
+* [Replicating previous research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3679.md)
+* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
+* [Collect more data, conduct larger studies for more solid conclusions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2213.md)
+* [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
+* [Consider possible impacts of the pandemic on findings, adjust research design and data collection, report extra contextual detail.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1877.md)
+
+## Property: has_MitigationPrinciple
+
+Anticipate and mitigate potential threats to internal and external validity in study design and methods
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationSource
+
+* [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
+
+## This Mitigation is enabled by the following technologies
+
 

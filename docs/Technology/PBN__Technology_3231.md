@@ -1,29 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3231 
 
-# __Universal design__
-
-## Link between Blueprint and General ontology
-
-* [Incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_228.md)
+# __Fogging technology__
 
 ## Category to which it belongs
 
-* [Building design and construction practices prioritize sustainability, incorporate innovative technology, and consider social equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
-* [Flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2484.md)
-* [Compact design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2019.md)
-* [Inclusive design principles and social equity considerations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_733.md)
-* [Innovative design approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3382.md)
-* [Design principles that allow for future modifications and customization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2672.md)
-* [Architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2784.md)
-* [Designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_379.md)
-* [Nature-based design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3727.md)
-* [Specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
-* [Architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2653.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2540.md)
+* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2432.md)
+* [Soundproofing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1832.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3668.md)
+* [Double-glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2647.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2238.md)
+* [Lighting solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
+* [Image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2402.md)
+* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
+* [Cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
 
 ## This Technology enables the following mitigations
 
-* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4603.md)
+* [Disinfectant fogging systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4338.md)
 

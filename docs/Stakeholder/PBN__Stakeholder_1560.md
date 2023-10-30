@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All stakeholders involved in safeguarding, regulating, and controlling data access and security across vulnerable communities, surveillance systems, and communication channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_441.md)
+* [The populace that inhabits a specific area, including public housing, gated communities, urban areas, and apartment complexes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
 
 ## Closest similar item
 
-* [Controlled access](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2721.md)
 * [Access control](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_191.md)
 * [Especially those with limited access to healthcare and education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_900.md)
-* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2722.md)
-* [Especially those without acces to private outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2122.md)
-* [Access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2723.md)
+* [Especially those without acces to private outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2194.md)
 * [Especially those without access to private outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_915.md)
-* [Access control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2724.md)
-* [Especially those with limited acce to healthcare and education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2214.md)
-* [Especially those with limited acces to healthcare and education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2182.md)
+* [Especially those with limited acce to healthcare and education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2299.md)
+* [Especially those with limited acces to healthcare and education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2267.md)
+* [Especially those without acce to private outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2256.md)
+* [Particularly those with low income or low education](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_267.md)
+* [Individuals with limited access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_801.md)
+* [Areas with limited healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1268.md)
 
 ## Risk affecting this stakeholder
 

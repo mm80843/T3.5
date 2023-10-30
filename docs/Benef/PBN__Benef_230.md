@@ -20,5 +20,5 @@ Improved ventilation systems to maintain fresh air in the building, which can he
 
 ## Risks which can benefit from this action
 
-* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_214.md)
+* [Use of new smart/innovative technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_214.md)
 

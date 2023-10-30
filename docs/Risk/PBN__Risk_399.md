@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The challenges in the field of testing and drug development, including limited capacity, slow processes, and the need for improved detection methods, hamper the identification and control of cases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_134.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_22.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_556.md)
+* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_556.md)
 

@@ -20,5 +20,5 @@ Proper measures to limit virus spread in wastewater management reduce the risk o
 
 ## Risks which can benefit from this action
 
-* [Specific measures for virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_230.md)
+* [Specific measures for virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_230.md)
 

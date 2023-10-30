@@ -24,6 +24,6 @@ Real-time data from water systems can inform policy decisions, optimize operatio
 
 ## Risks which can benefit from this action
 
-* [Knowledge management and bim](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_812.md)
-* [Water digitalization and iot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_805.md)
+* [Knowledge management and bim](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_812.md)
+* [Water digitalization and iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_805.md)
 

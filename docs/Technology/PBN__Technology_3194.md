@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3194 
 
-# __Clean drinking water__
+# __Germicidal ultraviolet guv__
 
 ## Category to which it belongs
 
-* [Enhanced cleaning practices, hygiene supplies, and proper cleaning procedures ensure optimal cleanliness and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
-* [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_980.md)
-* [Water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1943.md)
-* [Water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
-* [Water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3571.md)
-* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
-* [Soap and clean water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2214.md)
-* [Water filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
-* [Water purification technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1508.md)
-* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_996.md)
-* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
+* [Germicidal ultraviolet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1142.md)
+* [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1349.md)
+* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_232.md)
+* [Uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_225.md)
+* [Germicidal uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3207.md)
+* [Uv germicidal irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1877.md)
+* [Uv-c germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1005.md)
+* [Ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3769.md)
+* [Ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3224.md)
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1902.md)
 
 ## This Technology enables the following mitigations
 
-* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4564.md)
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4296.md)
 

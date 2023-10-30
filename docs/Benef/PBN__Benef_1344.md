@@ -21,5 +21,5 @@ Immigrants are more likely to be retained in their jobs and avoid unemployment
 
 ## Risks which can benefit from this action
 
-* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1376.md)
+* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1376.md)
 

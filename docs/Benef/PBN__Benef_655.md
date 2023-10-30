@@ -21,5 +21,5 @@ AI algorithms can identify COVID-19 on CT chest much faster than radiologists, r
 
 ## Risks which can benefit from this action
 
-* [Ai for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_650.md)
+* [Ai for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_650.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Insufficient infrastructure, inadequate education and training, lack of global leadership, and inadequate governance contribute to a lack of preparedness and coordination in various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
+* [Fragmented global governance, disconnect from nature, limited stakeholder collaboration, rise of authoritarianism, and exclusion from support characterize the challenges at hand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_26.md)
 
 ## Closest similar item
 
@@ -17,31 +17,31 @@
 * [Effective crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3316.md)
 * [Inadequate preparedness for biological disasters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2420.md)
 * [Crises](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3223.md)
-* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3501.md)
+* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
 
 ## Description of the risk
 
 Buildings that are not designed to withstand or adapt to crisis situations can put occupants at risk during emergencies or disasters
 
-## Is the risk affecting GBN scales
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Type of the risk
 
 * [Physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
+## Is the risk affecting GBN scales
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_1.md)
+
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preserv. and improve. of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_7.md)
+* [Preserv. and improve. of the environment](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_7.md)
 
 ## Mitigations of this risk
 
-* [Design buildings with safety measures and emergency preparedness in mind, such as evacuation routes, emergency supplies, and structural resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2570.md)
+* [Design buildings with safety measures and emergency preparedness in mind, such as evacuation routes, emergency supplies, and structural resilience](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2570.md)
 
 ## Name of the risk
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The scarcity of urban green spaces and the deterioration of environmental conditions contribute to the loss of biodiversity and declining conservation efforts and revenue, while also impacting public health and community well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
+* [Indoor living challenges include limited self-sufficiency, reliance on artificial elements, poor lighting, and environmental variations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_35.md)
 
 ## Closest similar item
 
@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Integration of outdoor air quality management in ventilation and infiltration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_547.md)
-* [Outdoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3726.md)
+* [Outdoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3726.md)
+* [Integration of outdoor air quality management in ventilation and infiltration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_547.md)
 

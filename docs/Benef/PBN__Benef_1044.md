@@ -20,5 +20,5 @@ Emphasizing the use of personal protective measures can improve the overall effe
 
 ## Risks which can benefit from this action
 
-* [Emphasizing use of personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1049.md)
+* [Emphasizing use of personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1049.md)
 

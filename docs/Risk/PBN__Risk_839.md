@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The extensive list encompasses a range of potential dangers, from health risks and psychological risks to security risks and safety concerns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
+* [The spread of false and misleading information during a pandemic leads to misinformation, inaccurate news, and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_24.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Testing and validation of the expert system’s performance and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1145.md)
+* [Testing and validation of the expert system’s performance and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1145.md)
 

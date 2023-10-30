@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3470 
 
-# __Availability of local services__
+# __Government legislation__
 
 ## Category to which it belongs
 
-* [Enhanced travel experiences, seamless transportation, and real-time updates for optimal accessibility and convenience.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
+* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
 
 ## Closest similar item
 
-* [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
-* [Utilization of available infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1047.md)
-* [Coordinated services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3288.md)
-* [Local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2843.md)
-* [Local food supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1781.md)
-* [Local supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2212.md)
-* [Local sourcing networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
-* [Support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2634.md)
-* [Remote service platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3490.md)
-* [Infrastructure support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2183.md)
+* [Legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2810.md)
+* [Government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
+* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
+* [Government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3698.md)
+* [Government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1640.md)
+* [Government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3020.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
+* [Policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2980.md)
+* [Regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1175.md)
+* [Regulation, governance, and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2109.md)
 
 ## This Technology enables the following mitigations
 
-* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_244.md)
+* [Implement policies for paid sick leave](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4714.md)
 

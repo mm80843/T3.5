@@ -20,5 +20,5 @@ Open, accessible, and unmanaged green space in the urban periphery provides addi
 
 ## Risks which can benefit from this action
 
-* [Open green spaces in urban periphery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1230.md)
+* [Open green spaces in urban periphery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
 

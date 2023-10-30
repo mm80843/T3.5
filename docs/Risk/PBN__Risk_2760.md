@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Insufficient infrastructure, inadequate education and training, lack of global leadership, and inadequate governance contribute to a lack of preparedness and coordination in various sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_20.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Remote meetings and video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3883.md)
+* [Remote meetings and video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3883.md)
 

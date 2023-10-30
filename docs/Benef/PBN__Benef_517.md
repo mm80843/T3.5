@@ -20,5 +20,5 @@ Stronger collaboration between government and residents fosters a sense of empow
 
 ## Risks which can benefit from this action
 
-* [Robust government support and partnership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_531.md)
+* [Robust government support and partnership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_531.md)
 

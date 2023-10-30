@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [All individuals and entities involved in various aspects of public life and ownership responsibilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_423.md)
+* [Individuals living in densely populated neighborhoods, informal settlements, or substandard housing, including migrants and those facing eviction, who may also reside in underserved communities without basic amenities or access to clean water.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Closest similar item
 

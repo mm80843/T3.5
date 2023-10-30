@@ -1,26 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3597 
 
-# __Microorganisms__
+# __Sanitizing products__
 
 ## Category to which it belongs
 
-* [Innovative technologies and materials combat pathogens, enhance disinfection, and advance research in antiviral therapies and detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
+* [The advancement and use of various technologies and materials for the purpose of eliminating microorganisms and promoting cleanliness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
-* [Pathogen detectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3567.md)
-* [Biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2125.md)
-* [Anti-bacterial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3126.md)
-* [Biocidal products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_505.md)
-* [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3442.md)
-* [Biological structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2161.md)
-* [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)
-* [Sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2368.md)
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_228.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2379.md)
+* [Disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
+* [Sanitization procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1416.md)
+* [Sanitization devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_718.md)
+* [Disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2458.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
+* [Sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_143.md)
+* [Enhanced sanitization measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1238.md)
+* [Easy-to-sanitize materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3672.md)
+* [Sanitization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2769.md)
 
 ## This Technology enables the following mitigations
 
-* [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5114.md)
-* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5115.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3699.md)
 

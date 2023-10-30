@@ -20,5 +20,5 @@ Standardized protocols and platforms will ensure consistent and reliable results
 
 ## Risks which can benefit from this action
 
-* [Standardization of pcr platforms and protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_877.md)
+* [Standardization of pcr platforms and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_877.md)
 

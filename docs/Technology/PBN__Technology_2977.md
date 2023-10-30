@@ -1,31 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2977 
 
-# __Input sensors__
-
-## Link between Blueprint and General ontology
-
-* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_117.md)
-* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
+# __Social capital__
 
 ## Category to which it belongs
 
-* [A wide array of advanced technologies that detect and measure various environmental factors and human activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
+* [Various online platforms and tools promoting personal interaction, building social capital, and monitoring social behavior.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
-* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
-* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3084.md)
-* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1723.md)
-* [Sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_642.md)
-* [Smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2979.md)
-* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2372.md)
-* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
-* [Sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_641.md)
-* [Indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3139.md)
-* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2264.md)
+* [Building social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3445.md)
+* [Social capital building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3586.md)
+* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3273.md)
+* [Social determinants of health](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1333.md)
+* [Social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
+* [Designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2447.md)
+* [Social pods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3565.md)
+* [Online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1402.md)
+* [Social networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1535.md)
+* [Fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3446.md)
 
 ## This Technology enables the following mitigations
 
-* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4195.md)
-* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4200.md)
+* [Relational capability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3997.md)
+* [Access to social capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4008.md)
 

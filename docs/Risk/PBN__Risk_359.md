@@ -4,22 +4,22 @@
 
 ## Category to which it belongs
 
-* [The changing workforce landscape has led to job loss, remote work challenges, and increased job insecurity, affecting productivity and job opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_139.md)
+* [The impact of various challenges on the workforce, including job insecurity, increased workload, uncertainty, unemployment, and changes in work schedules and productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_41.md)
 
 ## Closest similar item
 
 * [Changes in work schedules of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1459.md)
-* [Revised work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3619.md)
 * [Increased workload for nurses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_409.md)
 * [Shortage in nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1457.md)
 * [Shortage of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_357.md)
 * [Increased workload for medical staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_998.md)
 * [Delay in works due to staff members at high risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_499.md)
-* [Implementing strategies to cope with staff shortages and consider alternative staffing options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3482.md)
-* [Staff training / upskilling](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3607.md)
-* [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3610.md)
+* [Workforce distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
+* [Pre-employment and periodic medical check-ups mcus](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2111.md)
+* [Decreased working time](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1972.md)
+* [Psychological problems among nurses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_358.md)
 
 ## Mitigations of this risk
 
-* [Revised work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_470.md)
+* [Revised work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_470.md)
 

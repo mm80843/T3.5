@@ -1,25 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3513 
 
-# __Interdependency analysis__
+# __Next generation sequencing__
 
 ## Category to which it belongs
 
-* [Fact-checking tools, education initiatives, and ontology search engines are among the various resources and practices utilized to ensure the credibility and accuracy of information in different fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_240.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
-* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2568.md)
-* [Collaboration mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2579.md)
-* [Impact investment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1695.md)
-* [Coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3092.md)
-* [Financial practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2816.md)
-* [Restrictive measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2805.md)
-* [Modeling and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3414.md)
-* [Financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2854.md)
-* [Social behavior analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2764.md)
+* [Sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2342.md)
+* [Genome sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1950.md)
+* [Comparative analysis of genome sequences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3837.md)
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
+* [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3251.md)
+* [Bioinformatics and genomic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2072.md)
+* [Improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_58.md)
+* [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
+* [Dna barcoding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1704.md)
+* [Bioinformatics software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2827.md)
 
 ## This Technology enables the following mitigations
 
-* [Interdependencies mapping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4997.md)
+* [Antimicrobial resistance gene monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4794.md)
+* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4791.md)
 

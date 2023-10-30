@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Inadequate ventilation, poor air quality, and high levels of indoor pollutants pose health risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
+* [Inadequate air quality control contributes to the circulation of harmful contaminants and transmission of diseases through the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_37.md)
 
 ## Closest similar item
 
@@ -13,13 +13,13 @@
 * [Insufficient air circulation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1761.md)
 * [Controlling human circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2519.md)
 * [Insufficient air circulation and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1662.md)
-* [Improving ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3536.md)
 * [Increased air change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2713.md)
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3537.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3535.md)
-* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3538.md)
+* [Increased air change rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2712.md)
+* [Airflow issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2973.md)
+* [Air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1311.md)
+* [Air circulation-limiting potential of tall, planted roadside vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1652.md)
 
 ## Mitigations of this risk
 
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_627.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_627.md)
 

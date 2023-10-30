@@ -1,29 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2620 
 
-# __Energy-efficient equipment__
-
-## Link between Blueprint and General ontology
-
-* [Energy storage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_265.md)
+# __Exercise equipment dumbbells__
 
 ## Category to which it belongs
 
-* [Efficient, sustainable energy technologies and systems that reduce carbon emissions and promote clean, renewable sources, while optimizing energy management and conservation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
+* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
-* [Energy-efficient systems and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_650.md)
-* [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2062.md)
-* [Energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)
-* [Energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1891.md)
-* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
-* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2813.md)
-* [Energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_81.md)
-* [Energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
-* [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2470.md)
+* [Exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2628.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2638.md)
+* [Treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2631.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
+* [Proper equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2429.md)
+* [Exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1222.md)
+* [Gyms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1739.md)
+* [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_405.md)
+* [Fitness tracking devices for children](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_408.md)
+* [Online exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1073.md)
 
 ## This Technology enables the following mitigations
 
-* [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3721.md)
+* [Muscle strengthening exercises](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3498.md)
 

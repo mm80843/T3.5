@@ -22,5 +22,5 @@ Advanced analytics can improve pandemic prediction and decision-making
 
 ## Risks which can benefit from this action
 
-* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_808.md)
+* [Artificial intelligence and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_808.md)
 

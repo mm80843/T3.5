@@ -20,5 +20,5 @@ Regional containment measures can limit the spread of COVID-19 to neighboring re
 
 ## Risks which can benefit from this action
 
-* [Implementation of regional containment measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_166.md)
+* [Implementation of regional containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_166.md)
 

@@ -1,34 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3176 
 
-# __Digitalisation__
-
-## Link between Blueprint and General ontology
-
-* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_1.md)
-* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_55.md)
-* [Expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_57.md)
-* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_59.md)
-* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_60.md)
-* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
+# __Isolation rooms or designated isolation areas__
 
 ## Category to which it belongs
 
-* [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
-* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
-* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3099.md)
-* [Expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1873.md)
-* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
-* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
-* [Digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3375.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_638.md)
-* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2801.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
+* [Dedicated isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2934.md)
+* [Isolation areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2524.md)
+* [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2294.md)
+* [Dedicated isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3204.md)
+* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [Isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1655.md)
+* [Separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
+* [Separate rooms or designated areas for contagion control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2816.md)
+* [Isolation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_673.md)
+* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1269.md)
 
 ## This Technology enables the following mitigations
 
-* [Reimagining water infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4542.md)
+* [Isolation of suspected or confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4270.md)
 

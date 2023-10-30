@@ -20,5 +20,5 @@ Contactless technology reduces the need for physical
 
 ## Risks which can benefit from this action
 
-* [Contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1354.md)
+* [Contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1354.md)
 

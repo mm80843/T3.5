@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3014 
 
-# __Diverse communication channels television__
+# __Environmental surveillance__
 
 ## Category to which it belongs
 
-* [Enhanced exchange of information and ideas through technology, platforms, and techniques for effective communication and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
+* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
-* [Diversified communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_578.md)
-* [Communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_566.md)
-* [Public communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2561.md)
-* [Effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2827.md)
-* [Open communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2002.md)
-* [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
-* [Television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3121.md)
-* [Transparent communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_875.md)
-* [Public communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2004.md)
-* [Government communications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3094.md)
+* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_705.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1961.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
+* [Environmental and outdoor monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2137.md)
+* [Surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2204.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
+* [Sewage surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1101.md)
+* [Increased surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_523.md)
+* [Community surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1688.md)
+* [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_268.md)
 
 ## This Technology enables the following mitigations
 
-* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4276.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_202.md)
 

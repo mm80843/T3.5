@@ -20,5 +20,5 @@ Containment measures can reduce the spread of the virus and minimize the impact 
 
 ## Risks which can benefit from this action
 
-* [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_507.md)
+* [Containment measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_507.md)
 

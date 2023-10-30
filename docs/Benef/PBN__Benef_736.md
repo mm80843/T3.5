@@ -20,5 +20,5 @@ Higher temperatures and intense UV radiation in summer may support public health
 
 ## Risks which can benefit from this action
 
-* [Heat and sunlight exposure in summer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_728.md)
+* [Heat and sunlight exposure in summer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_728.md)
 

@@ -20,5 +20,5 @@ Improved air and water quality, increased biodiversity, and enhanced aesthetic v
 
 ## Risks which can benefit from this action
 
-* [Implement green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1313.md)
+* [Implement green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1313.md)
 

@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2507 
 
-# __Clearing and rebuilding of informal settlements__
+# __Personalized air supply devices__
 
 ## Category to which it belongs
 
-* [Efforts to inform, educate, and enforce regulations, policies, and preparedness strategies for public safety and effective governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
+* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_129.md)
 
 ## Closest similar item
 
-* [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
-* [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3566.md)
-* [Apartment-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3471.md)
-* [Zoning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3245.md)
-* [Ecosystem restoration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_535.md)
-* [Land-use policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_596.md)
-* [Equitable urban planning and policies to address spatial inequalities and improve social and economic conditions in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1992.md)
-* [Local sourcing and sustainable material choices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2676.md)
-* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
-* [Investment in local production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_943.md)
+* [Personalized air supply combined with specific air distribution system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3580.md)
+* [Portable air conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3545.md)
+* [Personalized ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_273.md)
+* [Portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
+* [Air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1660.md)
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1140.md)
+* [Indoor air technlogies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2292.md)
+* [Portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2642.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2266.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
 
 ## This Technology enables the following mitigations
 
-* [Slum clearance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3569.md)
+* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1166.md)
 

@@ -20,5 +20,5 @@ Public health campaigns focused on increasing public knowledge about mosquito-bo
 
 ## Risks which can benefit from this action
 
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_865.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_865.md)
 

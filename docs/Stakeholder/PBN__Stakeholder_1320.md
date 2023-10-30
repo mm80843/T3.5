@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Public and private entities, including decision-makers, procurement, healthcare facilities, vulnerable communities, and the general public.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_411.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
 * [Telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1499.md)
-* [Telepsychiatry platform](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1793.md)
+* [Telepsychiatry platform](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1829.md)
+* [Telecommunications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2533.md)
 * [Clients of telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1498.md)
 * [Telecommunication companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_631.md)
-* [Client of telepsychiatry consultation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2370.md)
+* [Client of telepsychiatry consultation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2474.md)
 * [Clients and healthcare providers in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1500.md)
-* [Remote workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1676.md)
-* [Telecommunication company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2424.md)
-* [Client and healthcare provider in telepsychiatry consultation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2384.md)
-* [Technicians](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_167.md)
+* [Remote workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1700.md)
+* [Telecommunication company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2532.md)
+* [Client and healthcare provider in telepsychiatry consultation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2488.md)
 
 ## Risks that can be mitigated by this stakeholder
 

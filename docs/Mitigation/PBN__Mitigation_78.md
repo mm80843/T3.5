@@ -1,21 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_78 
 
-# __Outbreak investigation and response__
+# __Implement rodent management program__
 
 ## Category to which it belongs
 
-* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
+* [Enhanced monitoring and control measures in various sectors, including vector control, infrastructure management, and behavior change interventions, with the use of advanced technology and continuous evaluation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_75.md)
 
 ## Closest similar item
 
-* [Outbreak tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_79.md)
-* [Control and stop virus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_77.md)
-* [Data mining methods for understanding the covid-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_87.md)
-* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2374.md)
-* [Infectious agents management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_80.md)
-* [Viral surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2050.md)
-* [Deployment of viral testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_83.md)
-* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_82.md)
-* [Isolation of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2414.md)
-* [Maintenance of web apps during outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2415.md)
+* [Rat management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4104.md)
+* [Proper rodent control measures, sanitation practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2219.md)
+* [Proper rodent control measures, public education on disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2220.md)
+* [Improve animal-human interactions, control illegal wildlife trade, strengthen surveillance and monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1444.md)
+* [Implement ecosystem-based approaches to control vectors, such as maintaining natural habitats and reducing breeding sites.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2430.md)
+* [Incorporate wildlife support into green space design and management, create diverse habitats and food sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1876.md)
+* [Strengthen regulations on wildlife trade and consumption, protect biodiversity, and improve animal husbandry practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1832.md)
+* [Reduce wildlife urban interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_688.md)
+* [Reduce wildlife urban interfaces wuis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4904.md)
+* [Prioritize urbanization patterns that reduce wildlife urban interfaces and regulate animal rearing practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2811.md)
+
+## Benefits linked to a risk
+
+* [Reduced rat populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_91.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Urban pests and disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_66.md)
 

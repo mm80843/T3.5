@@ -21,5 +21,5 @@ Biosensors can quickly detect waterborne pathogens, monitor disease outbreaks
 
 ## Risks which can benefit from this action
 
-* [Biosensors and nanoscale tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_811.md)
+* [Biosensors and nanoscale tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_811.md)
 

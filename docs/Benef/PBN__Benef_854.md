@@ -20,5 +20,5 @@ Self-dependent services and urban farming in residential complexes ensure access
 
 ## Risks which can benefit from this action
 
-* [Self-dependent services and urban farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_852.md)
+* [Self-dependent services and urban farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_852.md)
 

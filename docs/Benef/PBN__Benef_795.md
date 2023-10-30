@@ -21,5 +21,5 @@ Larger fonts make signs more legible from a distance, allowing for easier compre
 
 ## Risks which can benefit from this action
 
-* [Use of larger, readable fonts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_794.md)
+* [Use of larger, readable fonts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_794.md)
 

@@ -20,5 +20,5 @@ Implementing proper drainage systems can prevent the formation of stagnant water
 
 ## Risks which can benefit from this action
 
-* [Proper drainage systems to prevent stagnant water pools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1300.md)
+* [Proper drainage systems to prevent stagnant water pools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1300.md)
 

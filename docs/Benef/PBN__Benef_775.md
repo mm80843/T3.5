@@ -20,5 +20,5 @@ Portable air filters can be used in hospitals as an attractive solution when iso
 
 ## Risks which can benefit from this action
 
-* [Use of portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_774.md)
+* [Use of portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_774.md)
 

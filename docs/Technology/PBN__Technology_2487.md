@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2487 
 
-# __Natural lighting__
+# __Uv-c emitters__
 
 ## Category to which it belongs
 
-* [Efficient and innovative lighting technologies for energy savings and enhanced control of natural and artificial light sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_245.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
-* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2259.md)
-* [Natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_422.md)
-* [Use of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1730.md)
-* [Access to natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2663.md)
-* [Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3500.md)
-* [Natural light solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1611.md)
-* [Lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3311.md)
-* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_118.md)
-* [Led lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_188.md)
-* [Lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2258.md)
+* [Uv-c emitters or lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3758.md)
+* [Uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2491.md)
+* [Uv-c light technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1647.md)
+* [Uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2481.md)
+* [Uv-c devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3125.md)
+* [Uv light systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_880.md)
+* [Ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3224.md)
+* [Far-uvc light sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_309.md)
+* [Ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3769.md)
+* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1251.md)
 
 ## This Technology enables the following mitigations
 
-* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and indoor air quality iaq](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_801.md)
+* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3334.md)
 

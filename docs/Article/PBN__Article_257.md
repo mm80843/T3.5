@@ -37,16 +37,16 @@ What our response to the COVID-19 pandemic tells us of our capacity to respond t
 
 ## This article points to following mitigation
 
-* [Permanent transformations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1234.md)
-* [Immediate consequences messaging](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3700.md)
-* [Connect extreme weather and climate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3701.md)
-* [Emphasize public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3702.md)
-* [Tailored policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3703.md)
-* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3704.md)
-* [Global response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3708.md)
-* [Proximity and immediateness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3705.md)
-* [Enforce lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3706.md)
-* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3707.md)
+* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3707.md)
+* [Enforce lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3706.md)
+* [Tailored policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3703.md)
+* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3704.md)
+* [Emphasize public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3702.md)
+* [Global response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3708.md)
+* [Proximity and immediateness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3705.md)
+* [Immediate consequences messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3700.md)
+* [Permanent transformations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1234.md)
+* [Connect extreme weather and climate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3701.md)
 
 ## This article mentions these technologies
 

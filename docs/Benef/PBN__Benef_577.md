@@ -21,5 +21,5 @@ Enhanced ability to locate affected areas and allocate resources accordingly
 
 ## Risks which can benefit from this action
 
-* [Use of positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_585.md)
+* [Use of positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_585.md)
 

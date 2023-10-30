@@ -20,5 +20,5 @@ Proper water filtration and disinfection measures ensure a clean and safe water 
 
 ## Risks which can benefit from this action
 
-* [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_228.md)
+* [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_228.md)
 

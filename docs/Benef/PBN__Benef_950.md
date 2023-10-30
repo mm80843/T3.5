@@ -21,5 +21,5 @@ Wearables can track the effects of vaccination on the body, leading to personali
 
 ## Risks which can benefit from this action
 
-* [Monitoring the effects of vaccination on the body using wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_946.md)
+* [Monitoring the effects of vaccination on the body using wearables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_946.md)
 

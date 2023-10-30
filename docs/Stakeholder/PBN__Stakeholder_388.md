@@ -8,7 +8,7 @@
 
 ## Category to which it belongs
 
-* [Public and private entities, including decision-makers, procurement, healthcare facilities, vulnerable communities, and the general public.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_411.md)
+* [The financial ecosystem involves a diverse range of entities such as investors, regulatory bodies, stakeholders, banks, and professional associations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 

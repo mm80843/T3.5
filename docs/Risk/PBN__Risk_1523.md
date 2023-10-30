@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Limited and fragmented data availability and interoperability hinder analysis, decision-making, and trust in the reliability of information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
+* [The fragmented and non-interoperable nature of data and knowledge, along with the lack of bioinformatics tools and data integration, hinder effective data management and sharing, leading to limitations in analysis, communication, and decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_21.md)
 
 ## Closest similar item
 
@@ -23,25 +23,25 @@
 
 The accuracy and reliability of the data collected by the Newcastle Urban Observatory may be questionable
 
-## Is the risk affecting GBN scales
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Type of the risk
 
 * [Other](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_2.md)
 
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_0.md)
+
 ## Type of impact of the risk (according to ISO37100)
 
-* [Living together, interdependence and mutuality](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_10.md)
+* [Living together, interdependence and mutuality](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_10.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_9.md)
+* [Attractiveness](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_9.md)
 
 ## Mitigations of this risk
 
-* [Implement rigorous data validation processes, cross-check data with other reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2061.md)
+* [Implement rigorous data validation processes, cross-check data with other reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2061.md)
 
 ## Name of the risk
 
@@ -59,8 +59,8 @@ Misinterpretation of data, incorrect decision-making
 ## People affected by this risk
 
 * [Researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [Public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 * [Decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_227.md)
+* [Public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_52.md)
 
 ## Technologies linked to the risk
 

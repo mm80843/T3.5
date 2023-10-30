@@ -1,21 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3109 
 
-# __Strict adherence to covid-19 preventative measures__
+# __Improve the design of 3d-printed ppe to address safety concerns__
 
 ## Category to which it belongs
 
-* [Implement comprehensive measures to address and mitigate risks, ensure public safety, and promote preventive behaviors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
+* [Ensure safety and protection through the implementation of protocols, equipment distribution, and preventive measures in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_98.md)
 
 ## Closest similar item
 
-* [Preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_533.md)
-* [System robustness against covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_194.md)
-* [Isolation of suspected covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_198.md)
-* [Rapid covid-19 screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_195.md)
-* [Preventive and therapeutic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1108.md)
-* [Inefficient testing for covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_196.md)
-* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2801.md)
-* [Compliance of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_476.md)
-* [Improved access to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_528.md)
-* [Strict infection control and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2740.md)
+* [3d-printed ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5268.md)
+* [3d-printed personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1277.md)
+* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
+* [3d-printed isolation wards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5271.md)
+* [Ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4888.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
+* [Personal protective equipment ppe samples](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4438.md)
+* [Providing additional personal protective equipment ppe to workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1060.md)
+* [Providing additional personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4584.md)
+* [Provide and enforce proper use of ppe based on job-specific risks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2800.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Safety concerns with 3d-printed ppe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2369.md)
 

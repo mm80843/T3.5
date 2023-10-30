@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Inadequate ventilation, poor air quality, and high levels of indoor pollutants pose health risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
+* [Inadequate infection control measures can result in microbial resistance, pathogen contamination, and insufficient disinfection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_40.md)
 
 ## Closest similar item
 
@@ -22,8 +22,9 @@
 ## Blueprints with this risk
 
 * [Installing uv in ductwork](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_10.md)
+* [Installing high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_11.md)
 
 ## Mitigations of this risk
 
-* [Upper room guv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_340.md)
+* [Upper room guv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_340.md)
 

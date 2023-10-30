@@ -21,5 +21,5 @@ By limiting access nodes, better monitoring of the ins and outs of public places
 
 ## Risks which can benefit from this action
 
-* [Limiting access nodes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_321.md)
+* [Limiting access nodes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_321.md)
 

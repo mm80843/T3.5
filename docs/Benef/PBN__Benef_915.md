@@ -21,5 +21,5 @@ Graphene-based coatings can provide an additional layer of protection against vi
 
 ## Risks which can benefit from this action
 
-* [Development of graphene-based antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_918.md)
+* [Development of graphene-based antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_918.md)
 

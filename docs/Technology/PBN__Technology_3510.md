@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3510 
 
-# __Proper resources and problem-solving capabilities__
+# __Pcr techniques__
 
 ## Category to which it belongs
 
-* [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+* [Various methods for analyzing and detecting biomarkers and nucleic acids, including quantitative pcr and real-time pcr techniques, as well as dna/rna extraction methods and sequencing techniques, with the aid of monitoring and scanning technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
-* [Resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2860.md)
-* [It resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3427.md)
-* [Increased resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3650.md)
-* [Manufacturing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1849.md)
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
-* [Capacity-building programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1567.md)
-* [Investment in resources and training for vector control organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1467.md)
-* [Expertise and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2210.md)
-* [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3103.md)
-* [Knowledge management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2971.md)
+* [Pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2464.md)
+* [Quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3067.md)
+* [Digital pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2069.md)
+* [Rt-pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2888.md)
+* [Digital rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2345.md)
+* [Pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2468.md)
+* [Rt-pcr test](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2790.md)
+* [Rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2587.md)
+* [Qrt pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2822.md)
+* [Qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3511.md)
 
 ## This Technology enables the following mitigations
 
-* [Resourcefulness of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4994.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_202.md)
 

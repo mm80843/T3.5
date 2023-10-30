@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3316 
 
-# __Accessibility measures__
+# __Social and mental health services__
 
 ## Category to which it belongs
 
-* [A comprehensive range of measures and mechanisms to ensure safety, compliance, governance, transparency, and enforcement in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
+* [A comprehensive array of digital platforms, resources, and professionals offering support, counseling, therapy, and interventions for mental health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
-* [Accessibility features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3232.md)
-* [Access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_327.md)
-* [Facilities in ugs can improve accessibility for people with disabilities. public transportation options can improve access for those without personal vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1036.md)
-* [Restrictive measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2805.md)
-* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3526.md)
-* [Compliance measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1644.md)
-* [Transparency measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_103.md)
-* [Safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2281.md)
-* [Easily accessible safety resources and contacts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1669.md)
-* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [Mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1078.md)
+* [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1119.md)
+* [Online mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1240.md)
+* [Mental health resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2111.md)
+* [Social and mental health experts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2475.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2106.md)
+* [Mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_874.md)
+* [Mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_937.md)
+* [Mental health care support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1280.md)
+* [Mental health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1810.md)
 
 ## This Technology enables the following mitigations
 
-* [Special access and spaces for vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4730.md)
+* [Psychosocial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_828.md)
 

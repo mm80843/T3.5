@@ -21,5 +21,5 @@ Reduced risk of spreading the virus from contaminated PPE to other surfaces or i
 
 ## Risks which can benefit from this action
 
-* [Proper disposal of ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1273.md)
+* [Proper disposal of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1273.md)
 

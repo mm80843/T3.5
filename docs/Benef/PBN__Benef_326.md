@@ -21,5 +21,5 @@ By implementing a one-way mobility circulation in public places, it can influenc
 
 ## Risks which can benefit from this action
 
-* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_322.md)
+* [One-way mobility circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_322.md)
 

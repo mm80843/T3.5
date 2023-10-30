@@ -4,22 +4,22 @@
 
 ## Category to which it belongs
 
-* [The challenges and consequences of the global pandemic, including domestic violence, interrupted education, communication barriers, and employment issues, highlight the complexity of our interconnected world.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
+* [The challenges of urban inequality, parameter identification, noise pollution, waste, and delayed decision making have resulted in increased inequalities and exclusion, posing numerous issues for governance and scalability.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_14.md)
 
 ## Closest similar item
 
 * [Decreased public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2706.md)
 * [Transmission in gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3072.md)
 * [Transmission, gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2641.md)
-* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3511.md)
 * [Transmission at mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1342.md)
-* [Implementing temporary regulations to restrict group gatherings, overcrowding, and high-level interactions.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3545.md)
 * [Transmission among attendees](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2979.md)
 * [Risk of transmission during social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_228.md)
 * [Crowded living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1474.md)
 * [Crowded public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1317.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2435.md)
+* [Socializing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3286.md)
 
 ## Mitigations of this risk
 
-* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1063.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
 

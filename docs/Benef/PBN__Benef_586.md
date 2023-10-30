@@ -20,5 +20,5 @@ Evidence for original host/intermediate host, control future pandemics
 
 ## Risks which can benefit from this action
 
-* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_590.md)
+* [Phylogenetic analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_590.md)
 

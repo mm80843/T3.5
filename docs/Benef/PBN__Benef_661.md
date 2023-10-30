@@ -21,5 +21,5 @@ AI technology can speed up drug testing and discovery, allowing for faster devel
 
 ## Risks which can benefit from this action
 
-* [Ai for drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_656.md)
+* [Ai for drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_656.md)
 

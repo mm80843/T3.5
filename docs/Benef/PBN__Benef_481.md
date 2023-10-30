@@ -20,5 +20,5 @@ Implementing a progressive tax system, where taxes are reduced for low-income ea
 
 ## Risks which can benefit from this action
 
-* [Progressive tax system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_497.md)
+* [Progressive tax system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_497.md)
 

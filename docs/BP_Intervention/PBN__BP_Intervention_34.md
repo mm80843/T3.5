@@ -12,7 +12,7 @@ Absorb resource shortages
 
 ## Category to which it belongs
 
-* [Resource scarcity is assimilated.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_383.md)
+* [Addressing scarcity of resources by assimilating or incorporating them.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_183.md)
 
 ## This intervention is used in the following blueprints
 

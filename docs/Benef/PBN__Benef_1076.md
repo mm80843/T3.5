@@ -21,5 +21,5 @@ Enables quick and reversible modifications to support different uses
 
 ## Risks which can benefit from this action
 
-* [Integration of portable and temporary installations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1087.md)
+* [Integration of portable and temporary installations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1087.md)
 

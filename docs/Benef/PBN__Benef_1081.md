@@ -20,5 +20,5 @@ Prevents transmission from contaminated surfaces
 
 ## Risks which can benefit from this action
 
-* [Strict precautions and infection control training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1093.md)
+* [Strict precautions and infection control training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1093.md)
 

@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2524 
 
-# __Sodium dichloroisocyanurate solution containing 500 mg/l chlorine__
+# __Isolation areas__
 
 ## Category to which it belongs
 
-* [Innovative technologies and materials combat pathogens, enhance disinfection, and advance research in antiviral therapies and detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
-* [Sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
-* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
-* [Sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2710.md)
-* [Chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2966.md)
-* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
-* [Chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2299.md)
-* [Benzalkonium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2773.md)
-* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
-* [Chlorine gas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3605.md)
-* [Chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
+* [Isolation rooms or designated isolation areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3176.md)
+* [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2294.md)
+* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [Dedicated isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2934.md)
+* [Dedicated isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3204.md)
+* [Isolation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_673.md)
+* [Sound isolation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3666.md)
+* [Isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1655.md)
+* [Designated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3720.md)
+* [Separation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3722.md)
 
 ## This Technology enables the following mitigations
 
-* [Surface cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3592.md)
+* [Exposure response plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3371.md)
 

@@ -21,5 +21,5 @@ Allows for customization of lighting levels based on different uses and requirem
 
 ## Risks which can benefit from this action
 
-* [Incorporation of adaptable lighting solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1084.md)
+* [Incorporation of adaptable lighting solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1084.md)
 

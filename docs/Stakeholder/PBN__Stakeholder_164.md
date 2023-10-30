@@ -9,7 +9,7 @@
 
 ## Category to which it belongs
 
-* [Individuals in confined, crowded, and subpar indoor environments where ventilation and air quality are compromised.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_433.md)
+* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 

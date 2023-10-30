@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3278 
 
-# __Non-toxic cleaning products__
+# __Anterooms__
 
 ## Category to which it belongs
 
-* [Enhanced cleaning practices, hygiene supplies, and proper cleaning procedures ensure optimal cleanliness and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_881.md)
-* [Sanitizing products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3432.md)
-* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
-* [Enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_735.md)
-* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1288.md)
-* [Cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2776.md)
-* [Increased use of cleaning and disinfecting products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_584.md)
-* [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
-* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3317.md)
-* [Disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2953.md)
+* [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1930.md)
+* [Corticosteroids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3295.md)
+* [Alarms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3369.md)
+* [Medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3260.md)
+* [Rodenticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3071.md)
+* [Snomed](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+* [Announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_776.md)
+* [Aeroponics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3388.md)
+* [Plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3763.md)
+* [Medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1250.md)
 
 ## This Technology enables the following mitigations
 
-* [Use of non-toxic cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4671.md)
+* [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4436.md)
 

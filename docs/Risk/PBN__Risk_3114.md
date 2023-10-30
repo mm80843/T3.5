@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The changing workforce landscape has led to job loss, remote work challenges, and increased job insecurity, affecting productivity and job opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_139.md)
+* [The impact of various challenges on the workforce, including job insecurity, increased workload, uncertainty, unemployment, and changes in work schedules and productivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_41.md)
 
 ## Closest similar item
 
@@ -15,11 +15,11 @@
 * [Blurring of work-life boundaries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
 * [Closure of secondary public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_270.md)
 * [Workforce protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1519.md)
-* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3582.md)
 * [Workplace transformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3364.md)
 * [Delay in works due to staff members at high risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_499.md)
+* [Lack of employee awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3115.md)
 
 ## Mitigations of this risk
 
-* [Business continuity guideline](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4523.md)
+* [Business continuity guideline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4523.md)
 

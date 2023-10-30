@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3175 
 
-# __Climate change adaptation strategies__
+# __Communication technology internet__
 
 ## Category to which it belongs
 
-* [Promotion and implementation of sustainable and eco-friendly techniques, technologies, and initiatives for environmental conservation and management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
-* [Climate mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1511.md)
-* [Climate change mitigation techniques and mosquito control methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1465.md)
-* [Climate control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1098.md)
-* [Evaluation and adaptation of temporary changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_726.md)
-* [Conservation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
-* [Climate-smart agriculture methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2834.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
-* [Environmental policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2550.md)
-* [Cultural and linguistic adaptation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2005.md)
-* [Task-shifting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
+* [Telecommunication technology internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3178.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [Information communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3870.md)
+* [Information and communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2310.md)
+* [Internet-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_23.md)
+* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2456.md)
+* [Telecommunication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3457.md)
+* [Communication technologies and channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2066.md)
+* [Remote communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3254.md)
 
 ## This Technology enables the following mitigations
 
-* [Reimagining water infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4542.md)
+* [Work from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4268.md)
 

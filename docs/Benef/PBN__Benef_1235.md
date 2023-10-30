@@ -19,5 +19,5 @@ in the field of epidemiology.
 
 ## Risks which can benefit from this action
 
-* [Bfo backbone structure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1247.md)
+* [Bfo backbone structure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1247.md)
 

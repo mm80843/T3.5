@@ -1,21 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1127 
 
-# __Virus concentration methods__
+# __Virtual reality psychological treatment__
 
 ## Category to which it belongs
 
-* [Preventing and controlling viral outbreaks through vaccination, testing, tracking, antiviral coatings, and international coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
+* [Promote physical activity through various methods, including incorporating exercise opportunities into design, online classes, and virtual reality training, to enhance health and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_90.md)
 
 ## Closest similar item
 
-* [Developing effective virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1128.md)
-* [Concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
-* [Modeling studies of viral activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_846.md)
-* [Concentration method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1126.md)
-* [Virus transmission simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1243.md)
-* [Virus quantification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1984.md)
-* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_82.md)
-* [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2869.md)
-* [Deployment of viral testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_83.md)
-* [Virus transmission through aerosol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1239.md)
+* [Virtual reality-based therapy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2737.md)
+* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1126.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4880.md)
+* [Virtual reality pain management and physical therapy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1128.md)
+* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
+* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4195.md)
+* [Use virtual reality to educate patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2736.md)
+* [Use virtual reality for pain management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2738.md)
+* [Provide virtual reality-based training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2735.md)
+* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4200.md)
+
+## Benefits linked to a risk
+
+* [Enhanced psychological treatment effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1113.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Psychological and mental health challenges during covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_822.md)
 

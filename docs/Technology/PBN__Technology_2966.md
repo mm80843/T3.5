@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2966 
 
-# __Chlorine__
+# __Public spaces__
 
 ## Category to which it belongs
 
-* [Innovative technologies and materials combat pathogens, enhance disinfection, and advance research in antiviral therapies and detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
+* [Efforts to inform and engage the public, promote awareness, influence policies, and foster community involvement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
-* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
-* [Chlorination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3168.md)
-* [Chlorine gas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3605.md)
-* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
-* [Chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2299.md)
-* [Chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
-* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
-* [Sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2710.md)
-* [Sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
-* [Sodium dichloroisocyanurate solution containing 500 mg/l chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2524.md)
+* [Public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2806.md)
+* [Public spaces and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2185.md)
+* [Communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3313.md)
+* [Designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2447.md)
+* [Updated terminology and classification systems for public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_725.md)
+* [Public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1497.md)
+* [Public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1220.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
+* [Flexible and adaptable public space designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_724.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1982.md)
 
 ## This Technology enables the following mitigations
 
-* [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4181.md)
+* [Outdoor activities/usage of open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3988.md)
 

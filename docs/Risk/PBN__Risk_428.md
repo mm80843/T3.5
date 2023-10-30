@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Disease transmission can occur through various means, such as direct contact, airborne particles, or contaminated surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
+* [The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_45.md)
 
 ## Closest similar item
 
@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Ace2 and tmprss2 inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_595.md)
-* [Thrombotomodulin](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_596.md)
+* [Ace2 and tmprss2 inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_595.md)
+* [Thrombotomodulin](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_596.md)
 

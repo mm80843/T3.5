@@ -21,5 +21,5 @@ Improved access to training and upskilling programs for immigrants
 
 ## Risks which can benefit from this action
 
-* [Training and upskilling programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1377.md)
+* [Training and upskilling programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1377.md)
 

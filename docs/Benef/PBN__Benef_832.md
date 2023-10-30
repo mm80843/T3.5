@@ -20,5 +20,5 @@ Monitoring reactions and performance, altering assignments and schedules, modify
 
 ## Risks which can benefit from this action
 
-* [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_831.md)
+* [Monitoring and support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_831.md)
 

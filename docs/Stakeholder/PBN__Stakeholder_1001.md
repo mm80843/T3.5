@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [A diverse group of individuals with specialized knowledge and expertise in various fields and professions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_408.md)
+* [The financial ecosystem involves a diverse range of entities such as investors, regulatory bodies, stakeholders, banks, and professional associations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
 
 ## Closest similar item
 
-* [Professional association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1767.md)
+* [Professional association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1793.md)
 * [Professional organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1332.md)
-* [Professional organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1699.md)
+* [Professional organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1723.md)
 * [Business associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1386.md)
 * [Industry associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_629.md)
 * [Professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1190.md)
-* [Professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1759.md)
+* [Professional](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1785.md)
+* [Agencies/providers/associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1885.md)
 * [Organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_186.md)
-* [Industry association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1982.md)
-* [Community associations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_637.md)
+* [Industry association](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2032.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -25,9 +25,9 @@
 
 ## This Stakeholder belongs to this StakeholderGroup
 
-* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_2.md)
+* [Workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_128.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Specific roles and job titles](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_21.md)
+* [Specific roles and job titles](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1654.md)
 

@@ -12,7 +12,7 @@ Touchless technologies
 
 ## Category to which it belongs
 
-* [Contact-free solutions for interacting with devices, systems, or interfaces without physical contact.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_362.md)
+* [Innovative methods that allow interaction without physical contact.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_162.md)
 
 ## This intervention is used in the following blueprints
 

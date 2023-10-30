@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3342 
 
-# __Neighborhood control measures__
+# __Treatment plant automation__
 
 ## Category to which it belongs
 
-* [A comprehensive range of measures and mechanisms to ensure safety, compliance, governance, transparency, and enforcement in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
-* [Neighbourhood improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2636.md)
-* [Crowd control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_775.md)
-* [Restrictive measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2805.md)
-* [Control measures for shared facilities and devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2425.md)
-* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2808.md)
-* [Targeted investment in underserved neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1181.md)
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
-* [Pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3111.md)
-* [Pollution control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3041.md)
-* [Access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_327.md)
+* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1351.md)
+* [Water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
+* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1631.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1449.md)
+* [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2384.md)
+* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
+* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
+* [Wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3361.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1469.md)
 
 ## This Technology enables the following mitigations
 
-* [Neighborhood isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4788.md)
+* [Optimizing energy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4543.md)
 

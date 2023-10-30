@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3649 
 
-# __Limited data retention__
+# __Water-saving technology__
 
 ## Category to which it belongs
 
-* [Efficiently manage, secure, analyze, and integrate diverse data through various advanced tools and platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
-* [Limits on data use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_107.md)
-* [Job retention schemes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1207.md)
-* [Job retention programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3102.md)
-* [Data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2200.md)
-* [Data management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_158.md)
-* [Record-keeping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2358.md)
-* [Data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2735.md)
-* [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_758.md)
-* [New data and technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3613.md)
-* [Data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
+* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
+* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_996.md)
+* [Smart water consumption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3659.md)
+* [Water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1943.md)
+* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2170.md)
+* [Water usage reduction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3629.md)
+* [Water storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2359.md)
+* [Water efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3849.md)
+* [Water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
+* [Water supply infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3284.md)
 
 ## This Technology enables the following mitigations
 
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5184.md)
+* [Eco-showerheads](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4974.md)
 

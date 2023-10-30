@@ -21,5 +21,5 @@ Strengthening social support systems, such as social welfare programs and commun
 
 ## Risks which can benefit from this action
 
-* [Strengthen social support systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1036.md)
+* [Strengthen social support systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1036.md)
 

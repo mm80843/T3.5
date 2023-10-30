@@ -20,5 +20,5 @@ Reduction in air pollutants from private vehicles, leading to improved air quali
 
 ## Risks which can benefit from this action
 
-* [Implementation of public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_176.md)
+* [Implementation of public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_176.md)
 

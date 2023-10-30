@@ -20,5 +20,5 @@ Increased funding and capacity for vector control can strengthen vector control 
 
 ## Risks which can benefit from this action
 
-* [Increased funding and capacity for vector control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_335.md)
+* [Increased funding and capacity for vector control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_335.md)
 

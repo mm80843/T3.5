@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3402 
 
-# __Ducted air conditioning__
+# __Digital content creation tools__
 
 ## Category to which it belongs
 
-* [Enhanced hvac systems with improved ventilation, air purification, humidity control, and energy efficiency, along with regular maintenance and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
-* [Air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2883.md)
-* [Air-conditioning system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2525.md)
-* [Reticulated air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3388.md)
-* [Ducting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2917.md)
-* [Hvac system modification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2295.md)
-* [In hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_681.md)
-* [Hvac systems with improved ventilation and air filtration capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2100.md)
-* [Hvac system modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3027.md)
-* [Air purifiers and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_423.md)
-* [Correct use and maintenance of air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_676.md)
+* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2914.md)
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2683.md)
+* [Digital integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3403.md)
+* [Technology and digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2098.md)
+* [Web development tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3845.md)
+* [Software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2328.md)
+* [Web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3298.md)
+* [Digital communication and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2141.md)
+* [Virtual collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_131.md)
+* [Digital management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2045.md)
 
 ## This Technology enables the following mitigations
 
-* [Zoned air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4873.md)
+* [E-learning packages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4609.md)
 

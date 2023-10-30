@@ -20,5 +20,5 @@ Understanding the relationship between indoor and outdoor temperature and humidi
 
 ## Risks which can benefit from this action
 
-* [Improved understanding of indoor and outdoor environmental parameters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_260.md)
+* [Improved understanding of indoor and outdoor environmental parameters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_260.md)
 

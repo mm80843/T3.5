@@ -1,21 +1,36 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3712 
 
-# __Civil right to counsel in eviction cases__
+# __Web platform for data visualization__
 
 ## Category to which it belongs
 
-* [Implementing measures to restrict movement, limit gatherings, and enhance accessibility during lockdown while ensuring equitable access to resources and support for vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
+* [Promote data collaboration, enhance data quality, standardize protocols, and optimize data collection for comprehensive and reliable information sharing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_52.md)
 
 ## Closest similar item
 
-* [Establish civil right to counsel in eviction cases, provide legal aid resources.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3713.md)
-* [Civil right to counsel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2867.md)
-* [Housing evictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1417.md)
-* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3709.md)
-* [Access to legal representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2866.md)
-* [Implement eviction moratoria, provide rental assistance, and support eviction prevention programs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3710.md)
-* [Implement eviction moratoria, provide rental assistance, establish eviction diversion programs.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3711.md)
-* [Legal and contractual disputes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3701.md)
-* [Legal problems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3405.md)
-* [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2054.md)
+* [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3903.md)
+* [Visualization tool](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5037.md)
+* [Data dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5178.md)
+* [Visualization and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3447.md)
+* [Analysis visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4069.md)
+* [Develop platforms for real-time data collection and analysis.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2850.md)
+* [Develop tools and platforms for easy access to data from multiple sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3069.md)
+* [Data integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3902.md)
+* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4047.md)
+* [Online dashboard for wbe data communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3767.md)
+
+## Property: has_MitigationPrinciple
+
+Provide an interface for professionals to visualize IEQ data, examine the running status of IBEM, and download data for further analyses
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationSource
+
+* [An Intelligent IEQ Monitoring and Feedback System: Development and Applications](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_62.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2780.md)
 

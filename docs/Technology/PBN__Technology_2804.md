@@ -1,30 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2804 
 
-# __Improved diagnostic testing capacity__
-
-## Link between Blueprint and General ontology
-
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_204.md)
-* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_275.md)
+# __Neighbourhood improvements__
 
 ## Category to which it belongs
 
-* [Enhanced testing capacity and advanced diagnostic technologies ensure widespread and rapid disease screening and identification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Increased availability of diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_946.md)
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
-* [Increased testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_590.md)
-* [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
-* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1000.md)
-* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1307.md)
-* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
-* [Testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_905.md)
-* [Improved testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_569.md)
-* [Diagnostic testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2732.md)
+* [Neighborhood control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
+* [Improved connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1384.md)
+* [Targeted investment in underserved neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1181.md)
+* [Improved infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_669.md)
+* [Improved urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2271.md)
+* [Habitat modification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3819.md)
+* [Improved location tracking algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1381.md)
+* [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1847.md)
+* [Infrastructure improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2393.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_377.md)
 
 ## This Technology enables the following mitigations
 
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3993.md)
+* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3742.md)
 

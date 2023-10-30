@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3393 
 
-# __Desk-based extraction__
+# __Whatsapp__
 
 ## Category to which it belongs
 
-* [Efficiently manage, secure, analyze, and integrate diverse data through various advanced tools and platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
-* [Standing desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3226.md)
-* [Adjustable desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1396.md)
-* [Ergonomic office furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_127.md)
-* [Nucleic acid extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3682.md)
-* [Furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3499.md)
-* [Self-cleaning surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_506.md)
-* [Outdoor furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_145.md)
-* [Flexible furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2476.md)
-* [Dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3209.md)
-* [Rearrangement of furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_496.md)
+* [Messaging apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3400.md)
+* [Skype](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2613.md)
+* [Text and video messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2452.md)
+* [Phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1092.md)
+* [Sms messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3775.md)
+* [Messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1425.md)
+* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3518.md)
+* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3600.md)
+* [Chat rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2512.md)
+* [Public health messaging systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_703.md)
 
 ## This Technology enables the following mitigations
 
-* [Adaptation of schools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4860.md)
+* [Whatsapp chatbot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4597.md)
 

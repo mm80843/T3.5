@@ -4,16 +4,16 @@
 
 ## Category to which it belongs
 
-* [The use of various technologies and products for the sterilization and cleaning of surfaces and waste, including uv disinfection and eco-friendly disinfectants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
+* [Promotion and implementation of clean and safe practices, including the use of sanitizers, soap, proper hygiene supplies, and improved sanitation protocols.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
 * [Sensor-activated faucets and soap dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_749.md)
-* [Hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3408.md)
-* [Soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2311.md)
-* [Hand soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3229.md)
-* [Soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2291.md)
-* [Soap and water or hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3009.md)
+* [Hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3573.md)
+* [Soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2479.md)
+* [Hand soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3394.md)
+* [Soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2459.md)
+* [Soap and water or hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3174.md)
 * [Use of soap and hot water for handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_502.md)
 * [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_855.md)
 * [Hygiene supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_766.md)
@@ -25,7 +25,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3591.md)
+* [Proper handwashing hygiene promotion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3591.md)
 
 ## Risks linked to this technology
 

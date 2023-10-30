@@ -4,26 +4,28 @@
 
 ## Category to which it belongs
 
-* [Limited access to healthcare, unhealthy behaviors, and health disparities resulting from urban design contribute to negative health effects.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
+* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
 * [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3366.md)
-* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3615.md)
 * [Public health system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_738.md)
 * [Challenges in public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_520.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3604.md)
 * [Health care, surveillance and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_749.md)
 * [Lack of public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1319.md)
 * [Health care, surveillance, and monitoring gaps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1608.md)
 * [Insufficient attention to public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2648.md)
 * [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1574.md)
+* [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2240.md)
+* [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
 
 ## Blueprints with this risk
 
 * [Controls at key checkpoints](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_6.md)
+* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
+* [Tracking and enforcing use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_19.md)
 
 ## Mitigations of this risk
 
-* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1001.md)
+* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1001.md)
 

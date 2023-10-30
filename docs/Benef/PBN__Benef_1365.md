@@ -20,5 +20,5 @@ Controlling movement and minimizing contact between individuals
 
 ## Risks which can benefit from this action
 
-* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1403.md)
+* [Enforcing lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1403.md)
 

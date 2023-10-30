@@ -22,5 +22,5 @@ Coordinated efforts and timely implementation of preventive measures can lead to
 
 ## Risks which can benefit from this action
 
-* [Improve coordination between researchers, academia, and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1135.md)
+* [Improve coordination between researchers, academia, and policymakers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1135.md)
 

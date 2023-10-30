@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3054 
 
-# __Artificial intelligence and diagnostic tests__
+# __Road network data__
 
 ## Category to which it belongs
 
-* [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
-* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1000.md)
-* [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
-* [Artificial intelligence and clinical data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3047.md)
-* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
-* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1307.md)
-* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
-* [Artificial intelligence and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
-* [Improved diagnostic testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2804.md)
+* [Road network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3057.md)
+* [Traffic camera data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2931.md)
+* [Traffic sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2921.md)
+* [Big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3539.md)
+* [Mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2924.md)
+* [Traffic management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1393.md)
+* [Traffic management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_961.md)
+* [Flight data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3055.md)
+* [Network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2174.md)
+* [Transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2309.md)
 
 ## This Technology enables the following mitigations
 
-* [Ai technology for accurate and cost-effective tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4332.md)
+* [Lowering between-ness centrality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4081.md)
 

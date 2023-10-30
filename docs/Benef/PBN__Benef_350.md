@@ -20,5 +20,5 @@ Adaptability to changing needs, privacy, and comfort for each family member
 
 ## Risks which can benefit from this action
 
-* [Flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_352.md)
+* [Flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_352.md)
 

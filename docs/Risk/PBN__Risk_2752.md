@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The strains of economic instability, reduced funding, financial fragility, and insolvency risks burden various sectors and contribute to overall financial vulnerability.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_12.md)
 
 ## Closest similar item
 
@@ -16,10 +16,10 @@
 * [Inventory shortage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2988.md)
 * [Financial instability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1081.md)
 * [Financial fragility on businesses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_412.md)
-* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3502.md)
 * [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2148.md)
+* [Financial difficulties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2808.md)
 
 ## Mitigations of this risk
 
-* [Prevention of panic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3875.md)
+* [Prevention of panic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3875.md)
 

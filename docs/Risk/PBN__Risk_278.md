@@ -4,22 +4,22 @@
 
 ## Category to which it belongs
 
-* [Ultraviolet germicidal irradiation uvgi and its various applications and challenges in effectively using and maintaining uvgi systems for preventing infections, all while considering its harmful effects and limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_148.md)
+* [Uv germicidal technology: limited awareness, efficacy, and safety concerns with potential health risks and lack of definitive evidence.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_46.md)
 
 ## Closest similar item
 
-* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3595.md)
 * [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
 * [Comparability of far-uvc light with conventional germicidal uv light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1223.md)
-* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3590.md)
 * [Uvgi systems must be properly used and maintained to ensure safety and efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1745.md)
-* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3592.md)
 * [Lack of standardized tests and protocols for uvgi efficacy and testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1742.md)
 * [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
-* [Ensure proper use and maintenance of uvgi systems, provide training and protective equipment for occupants and service personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3596.md)
 * [Harmful effects of uv-c light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
+* [Exposing items or surfaces to uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2512.md)
+* [Safety of far-uvc light exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1222.md)
+* [Uvgi systems may not be a reliable method for preventing surgical site infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1743.md)
+* [Lack of definitive epidemiologic data on the ability of uvgi systems to prevent healthcare-associated infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1746.md)
 
 ## Mitigations of this risk
 
-* [Increased awareness and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_344.md)
+* [Increased awareness and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_344.md)
 

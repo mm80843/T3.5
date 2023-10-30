@@ -4,35 +4,29 @@
 
 ## Link between Blueprint and General ontology
 
-* [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_29.md)
-* [Smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_111.md)
-* [Improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_247.md)
-* [Home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_246.md)
-* [Power management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_197.md)
-* [Energy storage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_265.md)
-* [Smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_118.md)
+* [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_29.md)
 
 ## Category to which it belongs
 
-* [Efficient, sustainable energy technologies and systems that reduce carbon emissions and promote clean, renewable sources, while optimizing energy management and conservation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
+* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
-* [Energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3743.md)
+* [Energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3907.md)
 * [Improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_181.md)
-* [Power management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2621.md)
-* [Home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2418.md)
+* [Power management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2789.md)
+* [Home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2586.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
 * [Smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_324.md)
 * [Energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
-* [Smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2417.md)
-* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
-* [Energy storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1763.md)
-* [Energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1891.md)
+* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2143.md)
+* [Smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2585.md)
+* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2166.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_16.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
 
 ## This technology is mentioned by
 
@@ -42,9 +36,9 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Data management and communication systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
-* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_116.md)
-* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_95.md)
+* [Data management and communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2060.md)
+* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2166.md)
+* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2143.md)
 
 ## Risks linked to this technology
 

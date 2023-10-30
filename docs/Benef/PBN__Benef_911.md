@@ -25,6 +25,6 @@ Minimized risk of infection by reducing physical interactions and ensuring prope
 
 ## Risks which can benefit from this action
 
-* [Optimized physical space modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_913.md)
-* [Transformation design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1079.md)
+* [Optimized physical space modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_913.md)
+* [Transformation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
 

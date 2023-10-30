@@ -1,25 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2391 
 
-# __Data transmission systems__
+# __Movable walls__
 
 ## Category to which it belongs
 
-* [Efficiently manage, secure, analyze, and integrate diverse data through various advanced tools and platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_643.md)
-* [Communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1055.md)
-* [Encrypted data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3363.md)
-* [Data sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1424.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_814.md)
-* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_40.md)
-* [Data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
-* [Wireless data transmission 3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2607.md)
-* [Data sharing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3046.md)
-* [Data recording systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_360.md)
+* [Thick walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2355.md)
+* [Glass walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [Adjustable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3660.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
+* [Covered spaces with soft walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3566.md)
+* [Movable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3726.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
+* [Flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3559.md)
+* [Structural foundations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3110.md)
+* [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
 
 ## This Technology enables the following mitigations
 
-* [Data ownership decentralization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3404.md)
+* [Isolation space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3243.md)
+* [Creating flexible and adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3534.md)
 

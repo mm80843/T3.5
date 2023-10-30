@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2576 
 
-# __Grey literature__
+# __Medical resource management__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
-* [Literature mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_714.md)
-* [Biomedical literature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2163.md)
-* [Greywater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3569.md)
-* [Separate pipes for greywater](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1756.md)
-* [Greenery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3724.md)
-* [Greywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1770.md)
-* [Green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
-* [Greywater disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1757.md)
-* [Graywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1773.md)
-* [Information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_967.md)
+* [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1996.md)
+* [Healthcare resource optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1552.md)
+* [Medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2299.md)
+* [Healthcare capacity planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1604.md)
+* [Medical equipment and personnel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3569.md)
+* [Medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2295.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1086.md)
+* [Infrastructure and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2183.md)
+* [Healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2774.md)
+* [Workforce and resource management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2160.md)
 
 ## This Technology enables the following mitigations
 
-* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3634.md)
+* [Field hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3427.md)
 

@@ -21,5 +21,5 @@ Compliance with social distancing guidelines while maintaining production and sa
 
 ## Risks which can benefit from this action
 
-* [Prioritizing new vehicle models over existing ones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_576.md)
+* [Prioritizing new vehicle models over existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_576.md)
 

@@ -1,25 +1,27 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2248 
 
-# __Textiles__
+# __Data collection and reporting systems__
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
-* [Protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2559.md)
-* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
-* [Pyrethrin-soaked cotton fibers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2903.md)
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
-* [Natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
-* [Or impregnated fabric](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3670.md)
-* [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
-* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
-* [Lightweight materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3506.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2632.md)
+* [Reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1151.md)
+* [Data reporting mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3490.md)
+* [Digital reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1247.md)
+* [Data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2901.md)
+* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_40.md)
+* [Data collection and sharing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_939.md)
+* [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_758.md)
+* [Centralized reporting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_41.md)
+* [Data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1001.md)
+* [Data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2223.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechnologySubgroup
 
-* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3261.md)
+* [Reporting guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_838.md)
+* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_40.md)
+* [Research methodology improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
 

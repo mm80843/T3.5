@@ -20,5 +20,5 @@ Increasing vaccination coverage reduces the risk of reinfection, contributing to
 
 ## Risks which can benefit from this action
 
-* [Increase vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1185.md)
+* [Increase vaccination coverage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1185.md)
 

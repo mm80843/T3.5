@@ -20,5 +20,5 @@ Moderate physical exercise has been shown to improve immunity and provide immune
 
 ## Risks which can benefit from this action
 
-* [Moderate physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1177.md)
+* [Moderate physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1177.md)
 

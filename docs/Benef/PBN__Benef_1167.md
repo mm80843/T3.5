@@ -21,5 +21,5 @@ Donors can verify the transfer process and recipients can confirm receipt, reduc
 
 ## Risks which can benefit from this action
 
-* [Use of blockchain for donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1170.md)
+* [Use of blockchain for donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1170.md)
 

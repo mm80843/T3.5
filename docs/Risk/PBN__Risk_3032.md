@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Challenges in governance coordination, geopolitical tensions, inadequate policies, limited collaboration, and ineffective management hinder effective response to crises.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
+* [The challenges of urbanization and population density manifest in overcrowding, limited transport infrastructure, and disrupted mobility patterns.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_13.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Food parcels and free meals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4377.md)
+* [Food parcels and free meals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4377.md)
 

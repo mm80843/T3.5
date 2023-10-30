@@ -8,7 +8,7 @@
 
 ## Category to which it belongs
 
-* [Public and private entities, including decision-makers, procurement, healthcare facilities, vulnerable communities, and the general public.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_411.md)
+* [Different demographic groups, ranging from children to older adults, including migrants and minorities, with a focus on vulnerable families and children.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
 
 ## Closest similar item
 
@@ -20,6 +20,6 @@
 * [Families in poor housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1174.md)
 * [Parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
 * [Household members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_162.md)
-* [Vulnerable family](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2213.md)
+* [Vulnerable family](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2298.md)
 * [Impoverished households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_460.md)
 

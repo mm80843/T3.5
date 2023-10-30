@@ -1,31 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3731 
 
-# __Water sensors__
-
-## Link between Blueprint and General ontology
-
-* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_126.md)
-* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
-* [Light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_130.md)
+# __Urban/community farming__
 
 ## Category to which it belongs
 
-* [A wide array of advanced technologies that detect and measure various environmental factors and human activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
+* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
-* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
-* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
-* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2372.md)
-* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
-* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1723.md)
-* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2264.md)
-* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
-* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3084.md)
-* [Light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_721.md)
-* [Sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_641.md)
+* [Community-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+* [Urban farming technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1219.md)
+* [Apartment-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3636.md)
+* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1505.md)
+* [Organic farming methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2721.md)
+* [Vertical farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3389.md)
+* [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1847.md)
+* [Urban forestry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_663.md)
+* [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_122.md)
+* [Urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_619.md)
 
-## This is also an enabler
+## This Technology enables the following mitigations
 
-* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
+* [Self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5050.md)
 

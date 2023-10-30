@@ -21,5 +21,5 @@ Air filtration devices effectively remove airborne SARS-CoV-2, reducing the risk
 
 ## Risks which can benefit from this action
 
-* [Air filtration and uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1129.md)
+* [Air filtration and uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1129.md)
 

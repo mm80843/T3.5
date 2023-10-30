@@ -21,5 +21,5 @@ New materials with improved insulation properties increase energy efficiency, re
 
 ## Risks which can benefit from this action
 
-* [Development of new materials for better insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_294.md)
+* [Development of new materials for better insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_294.md)
 

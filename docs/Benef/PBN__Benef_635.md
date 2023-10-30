@@ -20,5 +20,5 @@ Providing strategies for managing anxiety, stress, and depression can enhance in
 
 ## Risks which can benefit from this action
 
-* [Promote strategies for managing anxiety, stress, and depression](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_632.md)
+* [Promote strategies for managing anxiety, stress, and depression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_632.md)
 

@@ -20,5 +20,5 @@ Reduces disparities, provides equal access to resources and support
 
 ## Risks which can benefit from this action
 
-* [Support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1181.md)
+* [Support for vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1181.md)
 

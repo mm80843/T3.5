@@ -20,5 +20,5 @@ Strengthening public health systems will improve healthcare delivery, disease pr
 
 ## Risks which can benefit from this action
 
-* [Increase public health funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_621.md)
+* [Increase public health funding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_621.md)
 

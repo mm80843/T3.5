@@ -1,21 +1,39 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3371 
 
-# __Practical capacity__
+# __Exposure response plan__
 
 ## Category to which it belongs
 
-* [Efficient and comprehensive strategies for addressing various factors and challenges in a complex system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
+* [Enhancing risk management, crisis response, resilience building, and effective communication through comprehensive preparedness planning and strategic decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_63.md)
 
 ## Closest similar item
 
-* [Capacity limitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3372.md)
-* [Capacity overload](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2253.md)
-* [Capacity limitations, lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3373.md)
-* [Limited testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3374.md)
-* [Low testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3375.md)
-* [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3341.md)
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2276.md)
-* [Availability of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2256.md)
-* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3376.md)
-* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3337.md)
+* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_9.md)
+* [Designing targeted responses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5059.md)
+* [Limiting media exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4516.md)
+* [Same building exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4635.md)
+* [Same room exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4634.md)
+* [Develop a universal occupant exposure model that can be used with microscopic crowd models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2620.md)
+* [Global response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3708.md)
+* [Implementation of level 1 response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4950.md)
+* [Increase sunlight exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2862.md)
+* [Demand response programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3442.md)
+
+## Property: has_MitigationPrinciple
+
+Develop a response plan for possible virus exposure, including isolating employees, safely transporting them, and maintaining effective record-keeping for contact tracing.
+
+## Risks possibly mitigated by this Mitigation
+
+* [Virus exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2487.md)
+
+## Property: has_MitigationSource
+
+* [Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_82.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2525.md)
+* [Isolation areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2524.md)
+* [Record-keeping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2526.md)
 

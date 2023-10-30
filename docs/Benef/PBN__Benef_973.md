@@ -20,5 +20,5 @@ Establishing offshore medical rigs with specialized facilities can provide addit
 
 ## Risks which can benefit from this action
 
-* [Offshore medical rigs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_969.md)
+* [Offshore medical rigs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_969.md)
 

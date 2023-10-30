@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Ultraviolet germicidal irradiation uvgi and its various applications and challenges in effectively using and maintaining uvgi systems for preventing infections, all while considering its harmful effects and limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_148.md)
+* [Uv germicidal technology: limited awareness, efficacy, and safety concerns with potential health risks and lack of definitive evidence.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_46.md)
 
 ## Closest similar item
 
@@ -16,10 +16,10 @@
 * [Transmission through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1366.md)
 * [Transmission via contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_72.md)
 * [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
-* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3595.md)
 * [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1324.md)
+* [Health risks from uv-c radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2271.md)
 
 ## Mitigations of this risk
 
-* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1351.md)
+* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1351.md)
 

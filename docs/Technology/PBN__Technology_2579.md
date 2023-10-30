@@ -1,25 +1,32 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2579 
 
-# __Collaboration mechanisms__
+# __Wearable devices__
+
+## Link between Blueprint and General ontology
+
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_11.md)
 
 ## Category to which it belongs
 
-* [A comprehensive range of measures and mechanisms to ensure safety, compliance, governance, transparency, and enforcement in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
+* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
-* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
-* [Collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
-* [Collaboration across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2885.md)
-* [Collaboration with other groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2597.md)
-* [Communication and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_808.md)
-* [Collaboration agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3532.md)
-* [Expertise and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2210.md)
-* [Coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1468.md)
-* [Collaboration platforms and emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2590.md)
+* [Wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2553.md)
+* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2408.md)
+* [Wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2800.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2347.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2287.md)
+* [Subsidized access to wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_175.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2965.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3399.md)
 
 ## This Technology enables the following mitigations
 
-* [Leverage complementary evidence networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3635.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3248.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
+* [Smart learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3437.md)
 

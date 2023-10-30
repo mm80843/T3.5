@@ -1,25 +1,31 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2459 
 
-# __Online yoga classes__
+# __Soap and water__
 
 ## Category to which it belongs
 
-* [Promotion of knowledge and skill development through various digital platforms and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
+* [Promotion and implementation of clean and safe practices, including the use of sanitizers, soap, proper hygiene supplies, and improved sanitation protocols.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
-* [Online exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1073.md)
-* [Online dance classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2457.md)
-* [Online fitness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2462.md)
-* [Yoga mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2458.md)
-* [Online training courses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1693.md)
-* [Online exercise videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1077.md)
-* [Virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_68.md)
-* [Online training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1699.md)
-* [Home-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_63.md)
-* [Online fitness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
+* [Soap and clean water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2382.md)
+* [Soap and water or hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3174.md)
+* [Soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2479.md)
+* [Hand soap](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3394.md)
+* [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_855.md)
+* [Use of soap and hot water for handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_502.md)
+* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2480.md)
+* [Soap dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1021.md)
+* [Personal hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_829.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
 
 ## This Technology enables the following mitigations
 
-* [Yoga](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3501.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
+* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_85.md)
+* [Hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_985.md)
+* [Washing hands](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4308.md)
+* [Regular hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3807.md)
+* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3576.md)
+* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3985.md)
 

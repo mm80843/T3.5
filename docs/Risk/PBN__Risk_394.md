@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The challenges in the field of testing and drug development, including limited capacity, slow processes, and the need for improved detection methods, hamper the identification and control of cases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_134.md)
+* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_34.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_551.md)
+* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_551.md)
 

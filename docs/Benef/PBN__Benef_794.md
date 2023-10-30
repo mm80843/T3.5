@@ -21,5 +21,5 @@ Standardized signs provide clear and consistent messaging, reducing confusion an
 
 ## Risks which can benefit from this action
 
-* [Use of standardized signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_793.md)
+* [Use of standardized signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_793.md)
 

@@ -20,5 +20,5 @@ The use of force majeure clauses helps resolve disputes and claims related to CO
 
 ## Risks which can benefit from this action
 
-* [Force majeure clause](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_783.md)
+* [Force majeure clause](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_783.md)
 

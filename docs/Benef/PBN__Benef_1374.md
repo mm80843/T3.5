@@ -21,5 +21,5 @@ Tracking key items such as protective equipment and medicine to ensure availabil
 
 ## Risks which can benefit from this action
 
-* [Logistical tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1409.md)
+* [Logistical tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1409.md)
 

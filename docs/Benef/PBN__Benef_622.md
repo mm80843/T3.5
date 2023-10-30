@@ -20,5 +20,5 @@ Bans on disconnection prevent vulnerable households from losing access to essent
 
 ## Risks which can benefit from this action
 
-* [Bans on disconnection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_618.md)
+* [Bans on disconnection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_618.md)
 

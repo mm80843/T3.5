@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3701 
 
-# __Cycling and pedestrian infrastructure__
+# __Absence of noise__
 
 ## Category to which it belongs
 
-* [The built environment for green, digital, healthcare, transportation, and technological needs with reliable and scalable features.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_239.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Walking and cycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1221.md)
-* [Bicycle paths](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2429.md)
-* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3704.md)
-* [Pedestrian trajectories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3251.md)
-* [Transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2141.md)
-* [Public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
-* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1153.md)
-* [Bicycles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2369.md)
-* [Road network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2892.md)
-* [Pedestrian sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2756.md)
+* [Noise barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_960.md)
+* [Noise level difference](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3634.md)
+* [Noise control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2235.md)
+* [Noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1237.md)
+* [Noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2000.md)
+* [White noise machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_191.md)
+* [Noise level difference compared to background](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1780.md)
+* [Noise-cancelling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1831.md)
+* [Noise-cancelling technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_958.md)
+* [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1939.md)
 
 ## This Technology enables the following mitigations
 
-* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3694.md)
+* [Face to face communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5029.md)
 

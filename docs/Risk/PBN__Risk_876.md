@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The challenges include increased domestic violence, lack of understanding of disease spread, limitations in epidemiological models, and inadequate vaccine distribution.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
+* [The fragmented and non-interoperable nature of data and knowledge, along with the lack of bioinformatics tools and data integration, hinder effective data management and sharing, leading to limitations in analysis, communication, and decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_21.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1198.md)
+* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1198.md)
 

@@ -1,29 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3016 
 
-# __Newspapers__
-
-## Link between Blueprint and General ontology
-
-* [Ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_223.md)
+# __Molecular testing__
 
 ## Category to which it belongs
 
-* [The nexus of journalism and technology includes various methods of noise reduction, responsible reporting, media literacy, and communication tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
+* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
-* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2581.md)
-* [News and information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3220.md)
-* [Reliable news sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1125.md)
-* [Digital newsletters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_879.md)
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2857.md)
-* [Media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3707.md)
-* [Mass media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1538.md)
-* [Public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_370.md)
-* [Media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_335.md)
-* [Posters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2347.md)
+* [Molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2025.md)
+* [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1910.md)
+* [Clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2823.md)
+* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1407.md)
+* [Molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3738.md)
+* [Drug development and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2826.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_401.md)
+* [Antigen tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2026.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
 
 ## This Technology enables the following mitigations
 
-* [Clear and inclusive communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4276.md)
+* [Nested pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4050.md)
 

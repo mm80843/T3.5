@@ -21,5 +21,5 @@ Monitoring changes in SARS-CoV-2 RNA concentration in sewage can serve as a sens
 
 ## Risks which can benefit from this action
 
-* [Monitoring changes in rna concentration over time](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4.md)
+* [Monitoring changes in rna concentration over time](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4.md)
 

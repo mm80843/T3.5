@@ -20,5 +20,5 @@ Better and smarter targeting of limited fiscal support provides greater protecti
 
 ## Risks which can benefit from this action
 
-* [Targeted support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_493.md)
+* [Targeted support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_493.md)
 

@@ -20,5 +20,5 @@ Implementing social distancing measures in open-plan offices reduces the risk of
 
 ## Risks which can benefit from this action
 
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
 

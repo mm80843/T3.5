@@ -21,5 +21,5 @@ Provides vital information for decision-making and risk assessment in implementi
 
 ## Risks which can benefit from this action
 
-* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
+* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_9.md)
 

@@ -21,5 +21,5 @@ Enables representation and sharing of data
 
 ## Risks which can benefit from this action
 
-* [Re-use ontological terms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1238.md)
+* [Re-use ontological terms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1238.md)
 

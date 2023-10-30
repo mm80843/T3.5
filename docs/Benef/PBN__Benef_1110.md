@@ -20,5 +20,5 @@ Alternative funding formats incentivize collaboration, coordination, and data sh
 
 ## Risks which can benefit from this action
 
-* [Alternative funding formats](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1124.md)
+* [Alternative funding formats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1124.md)
 

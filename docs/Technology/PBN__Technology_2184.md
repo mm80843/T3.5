@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2184 
 
-# __Community mobilization efforts__
+# __Logistics and supply chain management__
 
 ## Category to which it belongs
 
-* [Promote community engagement and support through various initiatives, programs, campaigns, platforms, and networks, fostering social capital and volunteer involvement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_246.md)
+* [The seamless flow, analysis, and oversight of goods, services, and information across various industries and locations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
-* [Community mobilization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_77.md)
-* [Community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2139.md)
-* [Community engagement initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1301.md)
-* [Public engagement strategies and community involvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_731.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1487.md)
-* [Community engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_436.md)
-* [Fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3281.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1080.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
+* [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
+* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_110.md)
+* [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_9.md)
+* [Improving supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1627.md)
+* [Supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1790.md)
+* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3026.md)
+* [Advanced supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_927.md)
+* [Logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1537.md)
+* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2983.md)
+* [Supply chain management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_132.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechnologySubgroup
 
-* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3190.md)
+* [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
+* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
+* [Vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1299.md)
+* [Cold chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1296.md)
+* [Ultra-cold freezers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1297.md)
 

@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3706 
 
-# __Information communication technology__
+# __Object detection algorithms__
 
 ## Category to which it belongs
 
-* [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
+* [Enhanced monitoring and tracking technologies ensure efficient surveillance, tracking, and crowd management without compromising privacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
 
 ## Closest similar item
 
-* [Information and communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2142.md)
-* [Information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2130.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
-* [Information and communication technologies icts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_626.md)
-* [Communication technology internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3010.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [Information dissemination technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2780.md)
-* [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2288.md)
-* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
-* [Information technology and data management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2208.md)
+* [Vision algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3855.md)
+* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3140.md)
+* [Improved detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_707.md)
+* [Image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2402.md)
+* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
+* [Video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3705.md)
+* [Detectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3654.md)
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3043.md)
+* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3638.md)
+* [Facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1355.md)
 
 ## This Technology enables the following mitigations
 
-* [Regular updates on covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5237.md)
+* [Deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5032.md)
 

@@ -1,30 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2924 
 
-# __Predictive analytics__
-
-## Link between Blueprint and General ontology
-
-* [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_74.md)
+# __Mobility data analysis__
 
 ## Category to which it belongs
 
-* [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
+* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
-* [Predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3160.md)
-* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
-* [Data analytics and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3746.md)
-* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2406.md)
-* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_18.md)
-* [Forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
-* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
-* [Big-data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1709.md)
-* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_769.md)
-* [Fast prediction models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3538.md)
+* [Shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1332.md)
+* [Road network data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3054.md)
+* [Travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3415.md)
+* [Develop smart phone applications for route planning and real-time information on active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_302.md)
+* [Cell phone data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3372.md)
+* [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1683.md)
+* [Location and bluetooth data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3168.md)
+* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2755.md)
+* [Mobile-health disease-monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2700.md)
+* [Big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3539.md)
 
 ## This Technology enables the following mitigations
 
-* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4135.md)
-* [Predictive analytics for resource planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4259.md)
+* [Benchmarking mobility metrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3907.md)
+* [Monitoring mobility metrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3900.md)
 

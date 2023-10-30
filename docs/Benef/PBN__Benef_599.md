@@ -16,10 +16,10 @@ HEMS can automate demand response programs, optimizing energy use and contributi
 
 ## Stakeholders benefitting from this Benefit
 
-* [Electricity providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_249.md)
 * [Grid operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_250.md)
+* [Electricity providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_249.md)
 
 ## Risks which can benefit from this action
 
-* [Home energy management systems hems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_601.md)
+* [Home energy management systems hems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_601.md)
 

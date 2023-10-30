@@ -1,25 +1,30 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2199 
 
-# __Restructuring models__
+# __Data governance and management__
 
 ## Category to which it belongs
 
-* [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
-* [Flexible working models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3158.md)
-* [Cost reduction strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_316.md)
-* [Modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1977.md)
-* [Inter-sectorial impact models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_981.md)
-* [Conversion of existing structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3505.md)
-* [Diversification strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_636.md)
-* [Flexibility in operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3419.md)
-* [Construction and technical changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2944.md)
-* [Sustainable financing models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_54.md)
-* [Modeling and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3414.md)
+* [Data governance policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_106.md)
+* [Data governance agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_515.md)
+* [Data ownership policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2558.md)
+* [Information technology and data management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2376.md)
+* [Data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
+* [Data management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_158.md)
+* [Data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2368.md)
+* [Data sharing platforms and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1123.md)
+* [Data management and communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2060.md)
+* [Governance mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_319.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechnologySubgroup
 
-* [Ppp restructuring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3211.md)
+* [Data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
+* [Data governance policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_106.md)
+* [Limits on data use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_107.md)
+* [Data governance agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_515.md)
+* [Reporting standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_519.md)
+* [Standardized data recording structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_518.md)
 

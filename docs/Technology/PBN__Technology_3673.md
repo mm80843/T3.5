@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3673 
 
-# __Attenuated/inactivated virus__
+# __Resilient design principles__
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
-* [Viral survival](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1957.md)
-* [Airborne virus filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2433.md)
-* [Antiviral](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3128.md)
-* [Antivirals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_827.md)
-* [Advanced laboratory techniques for virus detection and identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_494.md)
-* [Advanced antiviral technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_790.md)
-* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_236.md)
-* [Improved virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_59.md)
-* [Viral enrichment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3683.md)
-* [Viral testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
+* [Resilient design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2258.md)
+* [Sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_470.md)
+* [Resilience-based practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3682.md)
+* [Design principles that allow for future modifications and customization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2838.md)
+* [Resilient production systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3009.md)
+* [Design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2154.md)
+* [Flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2652.md)
+* [Use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1378.md)
+* [Innovative design approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3547.md)
+* [Nature-based design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
 
 ## This Technology enables the following mitigations
 
-* [Vaccine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5199.md)
+* [Robustness of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4992.md)
 

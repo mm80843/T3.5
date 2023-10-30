@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The challenges include increased domestic violence, lack of understanding of disease spread, limitations in epidemiological models, and inadequate vaccine distribution.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
+* [The spread of infectious diseases and lack of understanding of transmission mechanisms contribute to the propagation of contagions, posing a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Modeling occupant presence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_838.md)
+* [Modeling occupant presence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_838.md)
 

@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2250 
 
-# __Patches__
+# __Energy saving and conservation__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
-* [Repair](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3715.md)
-* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2997.md)
-* [Regular system security updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1303.md)
-* [Regular maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_651.md)
-* [Maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1890.md)
-* [Support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2644.md)
-* [Project updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
-* [Medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3095.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1051.md)
-* [Regular maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1323.md)
+* [Energy-saving tips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_86.md)
+* [Incentives for energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_87.md)
+* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2262.md)
+* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2143.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
+* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
+* [Energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3907.md)
+* [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2172.md)
+* [Energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2358.md)
+* [Energy systems and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2166.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechnologySubgroup
 
-* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3261.md)
+* [Energy-saving tips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_86.md)
 

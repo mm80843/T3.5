@@ -21,5 +21,5 @@ Geolocation data enable monitoring of overcrowding and enforcement of regulation
 
 ## Risks which can benefit from this action
 
-* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_722.md)
+* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_722.md)
 

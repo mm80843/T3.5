@@ -20,5 +20,5 @@ Softening the labor market impact of automation through policies such as unemplo
 
 ## Risks which can benefit from this action
 
-* [Softening labor market impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_496.md)
+* [Softening labor market impact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_496.md)
 

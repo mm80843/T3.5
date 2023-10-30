@@ -23,5 +23,5 @@ Coordinated and multidisciplinary approach informs policy and practice, increase
 
 ## Risks which can benefit from this action
 
-* [Providing platforms for cross-sectoral dialogue](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_554.md)
+* [Providing platforms for cross-sectoral dialogue](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_554.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Providers across various sectors, including technology, essential services, and information, servicing remote regions and clients.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_451.md)
+* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2677.md)
-* [Secure server networks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2680.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2552.md)
 * [Blockchain developers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_786.md)
 * [Network providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1393.md)
-* [Blockchain developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2440.md)
-* [Online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2716.md)
+* [Blockchain developer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2551.md)
 * [Network operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1401.md)
-* [Support network](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2314.md)
+* [Support network](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2412.md)
 * [Support networks](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1146.md)
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2575.md)
+* [Network provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1688.md)
+* [Private investors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_89.md)
+* [Internet companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2558.md)
 
 ## Risk affecting this stakeholder
 

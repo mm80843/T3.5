@@ -1,25 +1,32 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2262 
 
-# __Natural elements plants__
+# __Energy efficiency__
 
 ## Category to which it belongs
 
-* [A compilation of various materials used for soundproofing, insulation, building, education, sustainability, and innovative purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
+* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
-* [Natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
-* [Plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3598.md)
-* [Potted plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3448.md)
-* [Online plant stores](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_418.md)
-* [Plant roots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3599.md)
-* [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
-* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2259.md)
-* [Plant installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3552.md)
-* [Natural](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2329.md)
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1610.md)
+* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2143.md)
+* [Energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2358.md)
+* [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2172.md)
+* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
+* [Energy efficiency grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_870.md)
+* [Energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1891.md)
+* [Energy saving and conservation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2250.md)
+* [Energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2788.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
+* [Water efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3849.md)
+
+## This Technology belongs to this TechnologySubgroup
+
+* [Energy-efficient systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_323.md)
+* [Demand response technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_351.md)
+* [Use of energy-efficient and properly sized ventilation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1112.md)
 
 ## This Technology enables the following mitigations
 
-* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1017.md)
+* [Green stimulus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1389.md)
 

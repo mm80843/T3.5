@@ -21,5 +21,5 @@ Global cooperation in economic recovery can help mitigate poverty and inequality
 
 ## Risks which can benefit from this action
 
-* [Global cooperation for economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_625.md)
+* [Global cooperation for economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_625.md)
 

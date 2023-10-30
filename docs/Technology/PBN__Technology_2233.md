@@ -1,30 +1,30 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2233 
 
-# __Digital signatures__
-
-## Link between Blueprint and General ontology
-
-* [Ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_223.md)
-* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_31.md)
+# __Bipolar ionization devices__
 
 ## Category to which it belongs
 
-* [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_364.md)
-* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
-* [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
-* [Digital payment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1945.md)
-* [Digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3375.md)
-* [Digital infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
-* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_814.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3099.md)
-* [Digital representation and information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2952.md)
+* [Bipolar ionization technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
+* [Improved negative ionizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
+* [High voltage electrodes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3156.md)
+* [Plasmacluster ion technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2503.md)
+* [Low-power silicon electronics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2421.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2965.md)
+* [Sanitization devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_718.md)
+* [Analytical chemistry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2670.md)
+* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2472.md)
+* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1114.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3252.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2238.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
 

@@ -20,5 +20,5 @@ Access to green space positively affects physical activity, healthier habits and
 
 ## Risks which can benefit from this action
 
-* [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_167.md)
+* [Including green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_167.md)
 

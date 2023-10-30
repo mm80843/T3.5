@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The proliferation and transfer of illnesses and infections, particularly those carried by vectors, enhance the risk and global impact of epidemic outbreaks and their consequences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
+* [Rapid transmission and global impact of infectious diseases, including those spread by vectors, due to various factors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_15.md)
 
 ## Closest similar item
 
@@ -21,9 +21,9 @@
 
 ## Mitigations of this risk
 
-* [Vector control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_331.md)
-* [Use of insecticide-treated bed nets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_332.md)
-* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_333.md)
-* [Development of novel vector control tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_334.md)
-* [Increased funding and capacity for vector control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_335.md)
+* [Vector control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_331.md)
+* [Use of insecticide-treated bed nets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_332.md)
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_333.md)
+* [Development of novel vector control tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_334.md)
+* [Increased funding and capacity for vector control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_335.md)
 

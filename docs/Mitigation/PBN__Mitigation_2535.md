@@ -1,21 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_2535 
 
-# __Green ppe__
+# __Implementing transportation equity measures, prioritizing affordable and accessible public transport options in underserved areas__
 
 ## Category to which it belongs
 
-* [Promote equitable access to and integration of green spaces in urban areas, incorporating sustainable design practices and citizen participation in green area management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
+* [Promote active transportation while optimizing transport, managing destination image, and streamlining travel processes and operations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_68.md)
 
 ## Closest similar item
 
-* [Green retrofitting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3452.md)
-* [Ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3489.md)
-* [Green new deals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2402.md)
-* [Smart ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3492.md)
-* [Ppe distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3490.md)
-* [Green stimulus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3456.md)
-* [Greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2536.md)
-* [Green technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3453.md)
-* [Green pockets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2534.md)
-* [Green new deal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3850.md)
+* [Public transportation improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4422.md)
+* [Improved public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5231.md)
+* [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_741.md)
+* [Develop affordable transportation options, reduce entrance fees, and provide flexible visiting hours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2920.md)
+* [Increase public transport capacity to ensure physical distancing, provide alternative transport options](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1665.md)
+* [Improve transportation to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1311.md)
+* [Implementation of public transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_176.md)
+* [Reduce travel time by public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_128.md)
+* [Implement policies to reduce inequality in access to green areas, provide subsidies or incentives for low-income individuals, and improve transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2924.md)
+* [Prioritize green space in deprived areas, consider equitable distribution in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1471.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
 

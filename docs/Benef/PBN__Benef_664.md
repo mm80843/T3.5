@@ -20,5 +20,5 @@ Improved housing and infrastructure reduces the risk of disease transmission and
 
 ## Risks which can benefit from this action
 
-* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_659.md)
+* [Improved urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_659.md)
 

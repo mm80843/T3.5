@@ -4,11 +4,10 @@
 
 ## Category to which it belongs
 
-* [Limited access to healthcare, unhealthy behaviors, and health disparities resulting from urban design contribute to negative health effects.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
+* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
-* [Implement policies and programs to prevent long-term sickness absence, such as workplace wellness programs and early intervention strategies.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3659.md)
 * [Staff sickness and self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1958.md)
 * [Inequities in disease vulnerability and access to care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1841.md)
 * [Health system vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
@@ -18,30 +17,31 @@
 * [Importation of diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3216.md)
 * [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
 * [Corruption in donation processes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_847.md)
+* [Vulnerability to disease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3276.md)
 
 ## Description of the risk
 
 Long-term absence from work due to illness leads to financial compensation by governments, increasing social costs.
 
-## Is the risk affecting GBN scales
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Type of the risk
 
 * [Physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_0.md)
+
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_6.md)
 
 ## Mitigations of this risk
 
-* [Implement policies and programs to prevent long-term sickness absence, such as workplace wellness programs and early intervention strategies.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2670.md)
+* [Implement policies and programs to prevent long-term sickness absence, such as workplace wellness programs and early intervention strategies.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2670.md)
 
 ## Name of the risk
 

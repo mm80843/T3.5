@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [Promotion and implementation of sustainable and eco-friendly techniques, technologies, and initiatives for environmental conservation and management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
 * [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
-* [Environmental monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2785.md)
+* [Environmental monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2951.md)
 * [Environmental monitoring and pollution control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1672.md)
-* [Control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
+* [Control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3605.md)
 * [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_705.md)
 * [Ecological monitoring and regulation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1670.md)
-* [Pollution control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3041.md)
-* [Environmental policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2550.md)
-* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
+* [Pollution control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3206.md)
+* [Environmental policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2718.md)
+* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2923.md)
 * [Climate control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1098.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2238.md)
 
 ## This technology is mentioned by
 
@@ -29,7 +29,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_77.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
 
 ## Risks linked to this technology
 

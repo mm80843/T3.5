@@ -20,5 +20,5 @@ Increased comfort and convenience in managing home systems
 
 ## Risks which can benefit from this action
 
-* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_351.md)
+* [Smart home automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_351.md)
 

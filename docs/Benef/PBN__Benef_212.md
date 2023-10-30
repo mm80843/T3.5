@@ -20,5 +20,5 @@ Ability to vaccinate a large number of people efficiently, reducing wait times a
 
 ## Risks which can benefit from this action
 
-* [Design and implement mass vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_198.md)
+* [Design and implement mass vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_198.md)
 

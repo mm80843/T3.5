@@ -1,8 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3879 
 
-# __Sensors&&&smart sensors&&&sensor devices&&&wearable sensors for exercise monitoring&&&sensor technologies&&&wearable technology&&&wearable devices&&&wireless sensors&&&wearables&&&sensor technology__
+# __Repair__
 
-## Link between Blueprint and General ontology
+## Category to which it belongs
 
-* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_128.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
+
+## Closest similar item
+
+* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3162.md)
+* [Maintenance needs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3098.md)
+* [Regular maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_651.md)
+* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_147.md)
+* [Patches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2418.md)
+* [Such as regular cleaning and repairs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1195.md)
+* [Routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3623.md)
+* [Support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2812.md)
+* [Maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1890.md)
+* [Mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2498.md)
+
+## This Technology enables the following mitigations
+
+* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5266.md)
 

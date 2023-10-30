@@ -21,5 +21,5 @@ Virtual reality technologies can provide interactive and immersive training expe
 
 ## Risks which can benefit from this action
 
-* [Adoption of emerging technologies , virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_466.md)
+* [Adoption of emerging technologies , virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_466.md)
 

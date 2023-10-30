@@ -20,5 +20,5 @@ Reduces the likelihood of transmissions within households by isolating infected 
 
 ## Risks which can benefit from this action
 
-* [Home quarantine of household members](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_407.md)
+* [Home quarantine of household members](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_407.md)
 

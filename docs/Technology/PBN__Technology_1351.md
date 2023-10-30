@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [Improvements in sanitation, waste management, and water treatment to ensure efficient and sustainable infrastructure and practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_243.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
-* [Wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3196.md)
+* [Wastewater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3361.md)
 * [Wastewater treatment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1064.md)
-* [Water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3571.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2051.md)
+* [Water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
 * [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
-* [Proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3480.md)
+* [Proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3645.md)
 * [Water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
-* [Wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2964.md)
+* [Wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3129.md)
 * [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_996.md)
 * [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_997.md)
-* [Advanced wastewater treatment technologies such as uv disinfection or ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1356.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
 
 ## This technology is mentioned by
 
@@ -29,11 +29,11 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Water and waste management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_134.md)
+* [Water and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)
 
 ## This Technology enables the following mitigations
 
-* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_492.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_492.md)
 
 ## Risks linked to this technology
 

@@ -8,7 +8,7 @@
 
 ## Category to which it belongs
 
-* [Vulnerable populations, including marginalized communities, people at risk, those in isolation, and individuals in close proximity, face various challenges during lockdown.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_414.md)
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 * [Individuals in quarantine or social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_357.md)
 * [Individuals in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1281.md)
 * [Individuals in quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_606.md)
-* [Individual under surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2249.md)
+* [Individual under surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2335.md)
 

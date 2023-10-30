@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3391 
 
-# __Separate air cycles__
+# __Standing desks__
 
 ## Category to which it belongs
 
-* [Enhanced hvac systems with improved ventilation, air purification, humidity control, and energy efficiency, along with regular maintenance and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
-* [Separate control of air temperature room by room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1732.md)
-* [Airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1116.md)
-* [Air circulation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_259.md)
-* [Improved airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2726.md)
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2084.md)
-* [Outdoor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1162.md)
-* [Air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1660.md)
-* [Air distribution evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3413.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2983.md)
-* [Floor-level air returns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3389.md)
+* [Adjustable desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1396.md)
+* [Ergonomic office furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_127.md)
+* [Furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3664.md)
+* [Desk-based extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3558.md)
+* [Ergonomic furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1395.md)
+* [Adjustable furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2428.md)
+* [Flexible furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2644.md)
+* [Ergonomic chairs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1397.md)
+* [Modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
+* [Flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3559.md)
 
 ## This Technology enables the following mitigations
 
-* [Compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4858.md)
+* [Active design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4590.md)
 

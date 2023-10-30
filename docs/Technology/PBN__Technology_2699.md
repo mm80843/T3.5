@@ -1,26 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2699 
 
-# __Data tracking__
+# __Disease registries__
 
 ## Category to which it belongs
 
-* [Efficient use of data analysis and modeling techniques to analyze various types of data for targeted insights.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
+* [Cutting-edge techniques, strategies, and technologies for pathogen detection, vaccine development, and global disease surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
-* [Data tracking and analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3383.md)
-* [Tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1720.md)
-* [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
-* [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1683.md)
-* [Personnel tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3628.md)
-* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
-* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2072.md)
-* [Location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)
-* [Digital monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3647.md)
-* [Data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1486.md)
+* [Disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1884.md)
+* [International registries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2713.md)
+* [Vaccine registries and reminder systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1563.md)
+* [Surveillance systems for disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
+* [Health records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3790.md)
+* [Public epidemiological data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2696.md)
+* [Health data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2711.md)
+* [International classification of diseases icd codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_514.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_334.md)
+* [Technology for disease surveillance and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1029.md)
 
 ## This Technology enables the following mitigations
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
-* [Tracking applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4676.md)
+* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3596.md)
 

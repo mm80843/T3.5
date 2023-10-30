@@ -21,5 +21,5 @@ Improvement in research quality and reliability, minimizing the publication of f
 
 ## Risks which can benefit from this action
 
-* [Transparency and accountability in peer review](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_857.md)
+* [Transparency and accountability in peer review](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_857.md)
 

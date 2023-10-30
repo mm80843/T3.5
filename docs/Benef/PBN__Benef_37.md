@@ -21,5 +21,5 @@ Utilizing 5G and IoT devices in supply chain management can increase transparenc
 
 ## Risks which can benefit from this action
 
-* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_29.md)
+* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_29.md)
 

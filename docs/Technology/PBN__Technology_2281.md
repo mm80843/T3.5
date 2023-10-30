@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2281 
 
-# __Safety measures__
+# __Antiretroviral therapy__
 
 ## Category to which it belongs
 
-* [A comprehensive range of measures and mechanisms to ensure safety, compliance, governance, transparency, and enforcement in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
+* [Cutting-edge techniques, strategies, and technologies for pathogen detection, vaccine development, and global disease surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
-* [Safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1158.md)
-* [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1667.md)
-* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1878.md)
-* [Safety monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
-* [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_810.md)
-* [Fire safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2640.md)
-* [Rigorous safety testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2023.md)
-* [Health and safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_693.md)
-* [Safety training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1665.md)
-* [Safe management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3459.md)
+* [Antiviral](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3293.md)
+* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_236.md)
+* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_836.md)
+* [Antivirals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_827.md)
+* [Advanced antiviral technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_790.md)
+* [Hiv testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2722.md)
+* [Hiv testing and counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2280.md)
+* [Clinical trials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1959.md)
+* [Medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3260.md)
+* [Antimalarial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3292.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Emergency preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3282.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Vaccines and therapies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2148.md)
 

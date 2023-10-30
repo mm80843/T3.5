@@ -20,5 +20,5 @@ Adjusting energy contracts based on actual energy demand can lead to cost saving
 
 ## Risks which can benefit from this action
 
-* [Analyze and adjust energy contracts based on actual energy demand](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1370.md)
+* [Analyze and adjust energy contracts based on actual energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1370.md)
 

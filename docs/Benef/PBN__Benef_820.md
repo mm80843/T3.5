@@ -20,5 +20,5 @@ Balconies provide additional outdoor living space, allowing apartment owners to 
 
 ## Risks which can benefit from this action
 
-* [Use of balcony in apartments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_818.md)
+* [Use of balcony in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_818.md)
 

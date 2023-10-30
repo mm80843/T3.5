@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Challenges with waste, drainage, hoarding, and resource shortages require careful management and solutions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
+* [Proper management of water safety, waste, and consumption is crucial to prevent environmental hazards.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_44.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Availability of separate toilets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_231.md)
+* [Availability of separate toilets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_231.md)
 

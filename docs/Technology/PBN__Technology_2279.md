@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2279 
 
-# __Designated social spaces__
+# __Uv light disinfection__
 
 ## Category to which it belongs
 
-* [Promotion of green spaces and various types of outdoor areas for physical activity, recreation, and community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
+* [The advancement and use of various technologies and materials for the purpose of eliminating microorganisms and promoting cleanliness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
-* [Communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3148.md)
-* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2800.md)
-* [Designated space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2219.md)
-* [Design of safe and social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1737.md)
-* [Public space design with social distancing in mind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1497.md)
-* [Designated workspaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_741.md)
-* [Designated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3555.md)
-* [Updated terminology and classification systems for public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_725.md)
-* [Physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2278.md)
-* [Gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1783.md)
+* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
+* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1251.md)
+* [Uv disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1141.md)
+* [Uv-c disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2267.md)
+* [Uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2641.md)
+* [Uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1625.md)
+* [Uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1024.md)
+* [Uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2055.md)
+* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1983.md)
+* [Water disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Building layout and design for social interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3279.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Disinfection and cleaning techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2057.md)
 

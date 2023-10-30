@@ -1,26 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2539 
 
-# __Standardised data formats__
+# __Walking__
 
 ## Category to which it belongs
 
-* [Efficiently manage, secure, analyze, and integrate diverse data through various advanced tools and platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Data standardization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1084.md)
-* [Standardized data recording structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_518.md)
-* [User-friendly formats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2565.md)
-* [Data modeling standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1346.md)
-* [Standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3368.md)
-* [Standardization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1637.md)
-* [Standardization of protocols and nan standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1572.md)
-* [Standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_153.md)
-* [Data transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_799.md)
-* [Standardized protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_115.md)
+* [Walking and cycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1221.md)
+* [Pedestrian trajectories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3416.md)
+* [Transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2525.md)
+* [Bicycle paths](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2597.md)
+* [Public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3029.md)
+* [Cycling and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3865.md)
+* [Planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2386.md)
+* [Treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2631.md)
+* [Transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_659.md)
+* [Modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2987.md)
 
 ## This Technology enables the following mitigations
 
-* [Timely data transfer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3603.md)
-* [Shareable data formats](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3610.md)
+* [Active travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3382.md)
 

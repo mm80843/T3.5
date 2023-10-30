@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The complexities of social distancing, social inequalities, isolation, and lack of interaction impact society in multiple ways.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
+* [The consequences of social distancing include inconsistent recommendations, environmental degradation, prolonged isolation, and social inequalities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_4.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Restorative common spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1334.md)
+* [Restorative common spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1334.md)
 

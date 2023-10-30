@@ -1,35 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2240 
 
-# __Wearable electronic devices__
-
-## Link between Blueprint and General ontology
-
-* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_11.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_68.md)
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_108.md)
-* [Wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_140.md)
-* [Wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_141.md)
-* [Fitbits](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_143.md)
-* [Wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_144.md)
+# __Ppe equipment and supplies__
 
 ## Category to which it belongs
 
-* [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
+* [Implement strategies to optimize costs, manage crises, and develop sustainable practices while ensuring efficient resource allocation and effective communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
 
 ## Closest similar item
 
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2411.md)
-* [Wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2403.md)
-* [Wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2385.md)
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2632.md)
-* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
-* [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2799.md)
-* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
-* [Digital and smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2491.md)
+* [Ppe supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3479.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_817.md)
+* [Manufacturing and supply chain of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_795.md)
+* [Developing new ppe technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1628.md)
+* [Increase ppe production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1417.md)
+* [Proper training and use of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_61.md)
+* [Ppe training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2151.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2638.md)
+* [Ppe guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2230.md)
+* [Proper training on ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_509.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3258.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_817.md)
 

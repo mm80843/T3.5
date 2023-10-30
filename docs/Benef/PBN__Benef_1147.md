@@ -21,5 +21,5 @@ Facilitates effective communication, timely updates, and dissemination of preven
 
 ## Risks which can benefit from this action
 
-* [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1149.md)
+* [Internet-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1149.md)
 

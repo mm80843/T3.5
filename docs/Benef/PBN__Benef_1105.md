@@ -20,5 +20,5 @@ Data harmonization across different cohorts improves statistical power and contr
 
 ## Risks which can benefit from this action
 
-* [Data collection and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1119.md)
+* [Data collection and harmonization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1119.md)
 

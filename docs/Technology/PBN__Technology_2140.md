@@ -1,26 +1,34 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2140 
 
-# __Crisis management strategies__
+# __Public health measures and regulations__
 
 ## Category to which it belongs
 
-* [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
-* [Crisis management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4.md)
-* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_530.md)
-* [Financial management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2751.md)
-* [Create emergency preparedness plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1379.md)
-* [Develop emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_492.md)
-* [Disaster management center](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3612.md)
-* [Emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1498.md)
-* [Preparedness strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_33.md)
-* [Emergency management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1213.md)
-* [Safe management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3459.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
+* [Public health and safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
+* [Public health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3326.md)
+* [Public health measures and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2090.md)
+* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2064.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_334.md)
+* [Public health measures such as social distancing and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2972.md)
+* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2306.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_311.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechnologySubgroup
 
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_382.md)
-* [Temporary emergency measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3144.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
+* [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1083.md)
+* [Rapid and widespread testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1362.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
+* [Sensor redundancy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_330.md)
+* [Regular calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_329.md)
+* [Remote diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_331.md)
+* [Evaluation and adaptation of temporary changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_726.md)
+* [Updated terminology and classification systems for public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_725.md)
 

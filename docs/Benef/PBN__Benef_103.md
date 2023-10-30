@@ -20,5 +20,5 @@ Faster sample collection, reduced risk of infection, and freeing up staff for ot
 
 ## Risks which can benefit from this action
 
-* [Automated sample collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_89.md)
+* [Automated sample collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_89.md)
 

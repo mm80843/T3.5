@@ -21,5 +21,5 @@ Increased livelihood opportunities, improved working conditions, enhanced econom
 
 ## Risks which can benefit from this action
 
-* [Integrating informal street vendors and workers into public space design and regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1263.md)
+* [Integrating informal street vendors and workers into public space design and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1263.md)
 

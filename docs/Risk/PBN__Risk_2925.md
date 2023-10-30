@@ -4,22 +4,22 @@
 
 ## Category to which it belongs
 
-* [Protection of vulnerable groups and individuals during the lockdown, while addressing cybersecurity threats and ensuring the use of personal protective equipment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
+* [Insufficient safety measures, inadequate protective equipment, and lack of adherence to prevention guidelines pose significant risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_48.md)
 
 ## Closest similar item
 
 * [Shortages of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_478.md)
-* [Personal safety and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3562.md)
 * [Lack of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2054.md)
 * [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1957.md)
 * [Inadequate use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1316.md)
 * [Maintaining safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2521.md)
-* [Provide necessary equipment and support for remote work.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3485.md)
-* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3460.md)
 * [Ineffective use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
 * [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1490.md)
+* [Personal protective equipment ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2120.md)
+* [Prevention and protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_975.md)
+* [Risk communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2383.md)
 
 ## Mitigations of this risk
 
-* [Video and audio devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4172.md)
+* [Video and audio devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4172.md)
 

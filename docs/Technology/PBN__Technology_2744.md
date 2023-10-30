@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2744 
 
-# __Reliable research__
+# __Grey literature__
 
 ## Category to which it belongs
 
-* [Fact-checking tools, education initiatives, and ontology search engines are among the various resources and practices utilized to ensure the credibility and accuracy of information in different fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_240.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1860.md)
-* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_580.md)
-* [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1994.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
-* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_762.md)
-* [Credible sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3122.md)
-* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1814.md)
-* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1159.md)
-* [Validation studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_903.md)
-* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
+* [Literature mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_714.md)
+* [Biomedical literature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2331.md)
+* [Greywater treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3734.md)
+* [Separate pipes for greywater](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1756.md)
+* [Greenery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3888.md)
+* [Greywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1770.md)
+* [Green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
+* [Greywater disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1757.md)
+* [Graywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1773.md)
+* [Information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_967.md)
 
 ## This Technology enables the following mitigations
 
-* [Accurate evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3881.md)
+* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3634.md)
 

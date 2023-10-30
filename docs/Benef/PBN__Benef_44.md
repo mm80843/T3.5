@@ -20,5 +20,5 @@ Implementing zone-based lockdown measures can effectively suppress the spread of
 
 ## Risks which can benefit from this action
 
-* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_36.md)
+* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_36.md)
 

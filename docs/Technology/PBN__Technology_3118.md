@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3118 
 
-# __Sodium dichloroisocyanurate__
+# __Disinfection products__
 
 ## Category to which it belongs
 
-* [Innovative technologies and materials combat pathogens, enhance disinfection, and advance research in antiviral therapies and detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
+* [The advancement and use of various technologies and materials for the purpose of eliminating microorganisms and promoting cleanliness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
-* [Sodium dichloroisocyanurate solution containing 500 mg/l chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2524.md)
-* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
-* [Sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2710.md)
-* [Chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2966.md)
-* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
-* [Benzalkonium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2773.md)
-* [Chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2299.md)
-* [Chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
-* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
-* [Chlorination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3168.md)
+* [Disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2458.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_362.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3115.md)
+* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2666.md)
+* [Chemical disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
+* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3332.md)
 
 ## This Technology enables the following mitigations
 
-* [Routine cleaning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4440.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3760.md)
 

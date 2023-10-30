@@ -1,26 +1,36 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2139 
 
-# __Community initiatives__
+# __Uv radiation__
+
+## Link between Blueprint and General ontology
+
+* [UV/UVGI/Irradation](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_15.md)
 
 ## Category to which it belongs
 
-* [Promote community engagement and support through various initiatives, programs, campaigns, platforms, and networks, fostering social capital and volunteer involvement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_246.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
-* [Government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1640.md)
-* [Community engagement initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1301.md)
-* [Community mobilization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2184.md)
-* [Community mobilization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_77.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1487.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1080.md)
-* [Community planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2224.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
-* [Community policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
+* [Ultraviolet radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3224.md)
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2451.md)
+* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3209.md)
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1902.md)
+* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2268.md)
+* [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1349.md)
+* [Uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2481.md)
+* [Ultraviolet light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3769.md)
+* [Uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_225.md)
+
+## This Technology belongs to this TechGroup
+
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2100.md)
+
+## This Technology belongs to this TechSubgroup
+
 
 ## This Technology enables the following mitigations
 
-* [Mutual aid groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3143.md)
-* [Community action](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4277.md)
+* [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4181.md)
 

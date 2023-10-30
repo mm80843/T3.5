@@ -1,31 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2587 
 
-# __Geolocation data__
-
-## Link between Blueprint and General ontology
-
-* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_10.md)
-* [Gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_157.md)
-* [Gps location](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_158.md)
+# __Rt-pcr__
 
 ## Category to which it belongs
 
-* [Efficient use of data analysis and modeling techniques to analyze various types of data for targeted insights.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
+* [Various methods for analyzing and detecting biomarkers and nucleic acids, including quantitative pcr and real-time pcr techniques, as well as dna/rna extraction methods and sequencing techniques, with the aid of monitoring and scanning technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
-* [Gps location](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2963.md)
-* [Location and bluetooth data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3003.md)
-* [Gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2230.md)
-* [Location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)
-* [Geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1212.md)
-* [Geographical information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2341.md)
-* [Gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2386.md)
-* [Mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2758.md)
-* [Geographical information system gis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2556.md)
-* [Mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3624.md)
+* [Digital rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2345.md)
+* [Real-time rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3375.md)
+* [Rt-pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2888.md)
+* [Rt-pcr test](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2790.md)
+* [Pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2464.md)
+* [Rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3846.md)
+* [Quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3067.md)
+* [Digital pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2069.md)
+* [Pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3510.md)
+* [Real-time polymerase chain reaction rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3250.md)
 
 ## This Technology enables the following mitigations
 
-* [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3643.md)
+* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3466.md)
 

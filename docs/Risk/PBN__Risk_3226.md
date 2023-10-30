@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Spread of contagious diseases and pathogens, including zoonotic infections, through various transmission routes and environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
+* [The spread of infectious diseases and lack of understanding of transmission mechanisms contribute to the propagation of contagions, posing a global threat.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_5.md)
 
 ## Closest similar item
 
@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_863.md)
-* [Neighborhood isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4788.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
+* [Neighborhood isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4788.md)
 

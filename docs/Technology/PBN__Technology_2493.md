@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2493 
 
-# __Pneumatic networks__
+# __Cu2o__
 
 ## Category to which it belongs
 
-* [Enhancing digital connectivity through internet-based communication, networking platforms, and wireless data transmission for efficient collaboration and reliable connectivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Telecommunication networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3434.md)
-* [Sensor networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3261.md)
-* [Actuators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3337.md)
-* [Efficient network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2946.md)
-* [Coordination systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1283.md)
-* [Backflow valves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3491.md)
-* [Mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2330.md)
-* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3692.md)
-* [Network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2063.md)
-* [Small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3364.md)
+* [Copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3641.md)
+* [Copper particles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2858.md)
+* [Alloys copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3642.md)
+* [Copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3227.md)
+* [Photocatalyst tio2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2501.md)
+* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
+* [Photocatalysts such as tio2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3154.md)
+* [75% 2-propanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2941.md)
+* [Chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3131.md)
+* [Stainless steel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2886.md)
 
 ## This Technology enables the following mitigations
 
-* [Urban solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_803.md)
+* [Anti-sars-cov-2 coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3345.md)
 

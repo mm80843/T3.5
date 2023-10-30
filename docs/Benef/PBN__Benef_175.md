@@ -20,5 +20,5 @@ Designing social spaces promotes social interaction and bonding among occupants,
 
 ## Risks which can benefit from this action
 
-* [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_155.md)
+* [Designing social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_155.md)
 

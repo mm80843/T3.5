@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Concerns about the protection and confidentiality of personal information, risk of unauthorized access or breach, and potential invasive surveillance practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
+* [Risks to personal information, confidentiality, ethical issues, surveillance, and the need for data protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_17.md)
 
 ## Closest similar item
 
@@ -21,6 +21,6 @@
 
 ## Mitigations of this risk
 
-* [Integration of smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1341.md)
-* [Adoption of universal standards for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1340.md)
+* [Integration of smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
+* [Adoption of universal standards for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1340.md)
 

@@ -2,20 +2,16 @@
 
 # __Virtual meetings__
 
-## Link between Blueprint and General ontology
-
-* [Virtual exhibitions](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_241.md)
-
 ## Category to which it belongs
 
-* [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
-* [Virtual meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3134.md)
-* [Online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2360.md)
+* [Virtual meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3299.md)
+* [Online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2528.md)
 * [Online meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1658.md)
-* [Meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2346.md)
+* [Meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2514.md)
 * [Virtual collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_131.md)
 * [Virtual team-building activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1401.md)
 * [Virtual tours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_440.md)

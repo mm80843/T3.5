@@ -21,5 +21,5 @@ Mixed-use neighborhoods reduce the need for transportation by providing access t
 
 ## Risks which can benefit from this action
 
-* [Encouraging mixed-use developments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_705.md)
+* [Encouraging mixed-use developments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_705.md)
 

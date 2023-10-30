@@ -20,5 +20,5 @@ Regular testing and contact tracing can detect cases early and help with prompt 
 
 ## Risks which can benefit from this action
 
-* [Regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_440.md)
+* [Regular testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_440.md)
 

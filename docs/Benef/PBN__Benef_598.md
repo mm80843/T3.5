@@ -20,5 +20,5 @@ HEMS can optimize energy use, leading to improved energy efficiency and reduced 
 
 ## Risks which can benefit from this action
 
-* [Home energy management systems hems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_601.md)
+* [Home energy management systems hems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_601.md)
 

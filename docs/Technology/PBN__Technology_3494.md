@@ -1,25 +1,33 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3494 
 
-# __Smart water consumption technologies__
+# __Teleworking__
+
+## Link between Blueprint and General ontology
+
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_23.md)
 
 ## Category to which it belongs
 
-* [Efficient, sustainable energy technologies and systems that reduce carbon emissions and promote clean, renewable sources, while optimizing energy management and conservation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
+* [Virtual healthcare and remote communication technology for medical diagnosis, therapy, and consultation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
 
 ## Closest similar item
 
-* [Water-saving technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3484.md)
-* [Water usage reduction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3464.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3731.md)
-* [Water supply infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3119.md)
-* [Water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1943.md)
-* [Smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2979.md)
-* [Smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
-* [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1843.md)
-* [Smart meters and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1311.md)
-* [Smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_324.md)
+* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1419.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_386.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1447.md)
+* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3398.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
+* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3519.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1650.md)
+* [Telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3462.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
+
+## This is also an enabler
+
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_23.md)
 
 ## This Technology enables the following mitigations
 
-* [Sustainable water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_350.md)
+* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
 

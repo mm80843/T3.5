@@ -1,35 +1,30 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2234 
 
-# __Image processing__
-
-## Link between Blueprint and General ontology
-
-* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_63.md)
-* [Graphical representation](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_91.md)
-* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_95.md)
-* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_192.md)
+# __Photocatalytic oxidation systems__
 
 ## Category to which it belongs
 
-* [These tools and techniques streamline processes, optimize systems, and enable data-driven decision-making in a variety of industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2975.md)
-* [Vision algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3691.md)
-* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
-* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3438.md)
-* [Object detection algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3541.md)
-* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3473.md)
-* [Medical imaging techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
-* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2878.md)
-* [Facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1355.md)
-* [Facial recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1711.md)
+* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1742.md)
+* [Photocatalytic oxidation filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3236.md)
+* [Photocatalytic paints](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2665.md)
+* [Photocatalysts such as tio2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3154.md)
+* [Photocatalyst tio2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2501.md)
+* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2472.md)
+* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2268.md)
+* [Uv light systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_880.md)
+* [Hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
+* [Energy-efficient lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1254.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1276.md)
-* [Prevention applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3253.md)
-* [Temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3825.md)
-* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3828.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2238.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
 

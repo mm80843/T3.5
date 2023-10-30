@@ -20,5 +20,5 @@ Easier and more convenient access to public transport, reducing waiting times an
 
 ## Risks which can benefit from this action
 
-* [Increase frequency and capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_568.md)
+* [Increase frequency and capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_568.md)
 

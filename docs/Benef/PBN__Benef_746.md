@@ -20,5 +20,5 @@ Empowering individuals to make responsible travel choices can lead to reduced co
 
 ## Risks which can benefit from this action
 
-* [Promotion of responsible travel behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_743.md)
+* [Promotion of responsible travel behavior](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_743.md)
 

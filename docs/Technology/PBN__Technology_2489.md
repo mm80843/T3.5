@@ -1,29 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2489 
 
-# __Suitable materials__
-
-## Link between Blueprint and General ontology
-
-* [Biodegradable materials](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_193.md)
+# __Motion sensor__
 
 ## Category to which it belongs
 
-* [A compilation of various materials used for soundproofing, insulation, building, education, sustainability, and innovative purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
+* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_117.md)
 
 ## Closest similar item
 
-* [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2014.md)
-* [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_180.md)
-* [Natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
-* [Lightweight materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3506.md)
-* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
-* [Sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3275.md)
-* [Living materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3723.md)
-* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
-* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2098.md)
+* [Motion sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1721.md)
+* [Motion-sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2831.md)
+* [Motion sensor controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2622.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2540.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3668.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2347.md)
+* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2432.md)
+* [Smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3144.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3249.md)
 
 ## This Technology enables the following mitigations
 
-* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and indoor air quality iaq](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_801.md)
+* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
+* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3334.md)
 

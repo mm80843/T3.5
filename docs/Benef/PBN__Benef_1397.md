@@ -21,5 +21,5 @@ AI-powered applications can detect COVID-19 carriers early and develop personali
 
 ## Risks which can benefit from this action
 
-* [Ai-powered applications for diagnosis and treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1432.md)
+* [Ai-powered applications for diagnosis and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1432.md)
 

@@ -20,5 +20,5 @@ Users can access reliable and real-time COVID-19 data, including case numbers, n
 
 ## Risks which can benefit from this action
 
-* [Web scraping of official covid-19 websites to gather data for the mobile application](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1144.md)
+* [Web scraping of official covid-19 websites to gather data for the mobile application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1144.md)
 

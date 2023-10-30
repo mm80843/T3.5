@@ -21,5 +21,5 @@ Changes in heart rate variability can signal the presence of COVID-19 several da
 
 ## Risks which can benefit from this action
 
-* [Changes in heart rate variability captured by smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_945.md)
+* [Changes in heart rate variability captured by smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_945.md)
 

@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3062 
 
-# __Copper alloy coatings__
+# __Anylogic__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Alloys copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3477.md)
-* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
-* [Copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3476.md)
-* [Copper particles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2692.md)
-* [Surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_791.md)
-* [Titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3064.md)
-* [Safe coating materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_266.md)
-* [Carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3065.md)
-* [Cu2o](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2325.md)
-* [Silver nanocoating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3063.md)
+* [Anylogic simulation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_985.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_710.md)
+* [Existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2333.md)
+* [Ontology development and integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2828.md)
+* [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+* [Obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3352.md)
+* [Owl 2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3351.md)
+* [Signs and information boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_415.md)
+* [Nfv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3522.md)
+* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_715.md)
 
 ## This Technology enables the following mitigations
 
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1350.md)
+* [Simulation software tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4091.md)
 

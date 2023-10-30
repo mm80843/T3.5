@@ -4,15 +4,15 @@
 
 ## Category to which it belongs
 
-* [Enhanced cleaning practices, hygiene supplies, and proper cleaning procedures ensure optimal cleanliness and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
+* [Enhanced cleaning practices and hygiene protocols utilize a wide range of tools, equipment, solutions, and technologies to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
-* [Cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3273.md)
+* [Cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3438.md)
 * [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_205.md)
-* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3317.md)
-* [Recognized cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3083.md)
-* [Cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3137.md)
+* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3482.md)
+* [Recognized cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
+* [Cleaning staff](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3302.md)
 * [Cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
 * [Cleaning solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_437.md)
 * [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2007.md)
@@ -21,7 +21,7 @@
 
 ## This Technology belongs to this TechGroup
 
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
 
 ## This technology is mentioned by
 
@@ -29,7 +29,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Hygiene and sanitation practices and protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_60.md)
+* [Hygiene and sanitation practices and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2103.md)
 
 ## Risks linked to this technology
 

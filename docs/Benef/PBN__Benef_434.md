@@ -21,5 +21,5 @@ Studying the effect of RH on UV susceptibility of bacterial aerosols is crucial 
 
 ## Risks which can benefit from this action
 
-* [Study of the effect of rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_450.md)
+* [Study of the effect of rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_450.md)
 

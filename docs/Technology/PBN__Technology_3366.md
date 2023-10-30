@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3366 
 
-# __User-friendly applications__
+# __Cnn__
 
 ## Category to which it belongs
 
-* [A compilation of various mobile apps and technologies used for reporting, contact tracing, banking, scheduling, and other functions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
+* [Advanced audiovisual technology is revolutionizing communication, surveillance, and media dissemination in our society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
-* [User-friendly interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1586.md)
-* [Web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_243.md)
-* [Mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
-* [Apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1088.md)
-* [Online applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1679.md)
-* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_65.md)
-* [Software and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3769.md)
-* [Simplified user interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1383.md)
-* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2690.md)
-* [Smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3572.md)
+* [Deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1713.md)
+* [Mass media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1538.md)
+* [Cctv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1928.md)
+* [Deep learning ai models faster r-cnn](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
+* [Television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3286.md)
+* [Deep learning models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3137.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3022.md)
+* [Media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3871.md)
+* [Deep learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3213.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 
 ## This Technology enables the following mitigations
 
-* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4814.md)
+* [Facial mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4569.md)
 

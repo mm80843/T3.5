@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2365 
 
-# __Material quarantine__
+# __Video networking__
 
 ## Category to which it belongs
 
-* [A compilation of various materials used for soundproofing, insulation, building, education, sustainability, and innovative purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
+* [Advanced audiovisual technology is revolutionizing communication, surveillance, and media dissemination in our society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2144.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_27.md)
-* [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2769.md)
-* [Quarantine guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3247.md)
-* [Quarantine protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_834.md)
-* [Quarantine facilities or designated quarantine areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3012.md)
-* [Isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1655.md)
-* [Easy-to-sanitize materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
-* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2950.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3382.md)
+* [Videoconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1365.md)
+* [Video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
+* [Video communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2619.md)
+* [Video conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_419.md)
+* [Video conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_123.md)
+* [Video conferencing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2912.md)
+* [Video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_426.md)
+* [Video conferencing and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_809.md)
+* [Video recording and conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2163.md)
 
 ## This Technology enables the following mitigations
 
-* [Management of deliveries](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3374.md)
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3209.md)
 

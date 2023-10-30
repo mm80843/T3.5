@@ -20,5 +20,5 @@ NPHIs have resulted in a 16.50% decrease in COVID-19 ICU admission, reducing the
 
 ## Risks which can benefit from this action
 
-* [Non-pharmaceutical public health interventions nphis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_74.md)
+* [Non-pharmaceutical public health interventions nphis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_74.md)
 

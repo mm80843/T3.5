@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
 * [Government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
 * [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
 * [Safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1158.md)
-* [Regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
-* [Policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2815.md)
+* [Regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2807.md)
+* [Enforcement and regulation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2219.md)
+* [Policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2980.md)
 * [Privacy regulations compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_575.md)
 * [Privacy regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1592.md)
 * [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_6.md)
 * [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1997.md)
-* [Zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_658.md)
 
 ## This technology is mentioned by
 
@@ -25,8 +25,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3742.md)
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4627.md)
+* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3742.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4627.md)
 
 ## Risks linked to this technology
 

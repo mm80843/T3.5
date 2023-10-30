@@ -20,5 +20,5 @@ Collaborative partnerships can improve the agility of the supply chain, enabling
 
 ## Risks which can benefit from this action
 
-* [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_11.md)
+* [Developing collaborative partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_11.md)
 

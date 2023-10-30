@@ -20,5 +20,5 @@ Regulating animal rearing practices reduces the risk of interspecific transmissi
 
 ## Risks which can benefit from this action
 
-* [Improve food systems planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_689.md)
+* [Improve food systems planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_689.md)
 

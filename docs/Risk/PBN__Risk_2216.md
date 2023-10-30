@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Concerns about the protection and confidentiality of personal information, risk of unauthorized access or breach, and potential invasive surveillance practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
+* [The risks of unauthorized access, misuse, corruption, and breaches in data security and privacy are widespread.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_27.md)
 
 ## Closest similar item
 
@@ -13,35 +13,35 @@
 * [Breach of confidentiality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3319.md)
 * [Potential breach of privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2637.md)
 * [Privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3247.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3490.md)
 * [Limited access to teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3054.md)
 * [Misdiagnoses, privacy breaches, equipment malfunction, costs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3372.md)
 * [Data privacy breach](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2723.md)
 * [Privacy interference](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3171.md)
+* [Potential data breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2498.md)
 
 ## Description of the risk
 
 Observers can potentially breach confidentiality during telepsychiatry consultations, compromising privacy and trust between clients and providers.
 
-## Is the risk affecting GBN scales
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Type of the risk
 
 * [Mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_0.md)
+
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_3.md)
 
 ## Mitigations of this risk
 
-* [Ensuring informed consent, informing clients about the potential risks, implementing secure telepsychiatry platforms.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2915.md)
+* [Ensuring informed consent, informing clients about the potential risks, implementing secure telepsychiatry platforms.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2915.md)
 
 ## Name of the risk
 

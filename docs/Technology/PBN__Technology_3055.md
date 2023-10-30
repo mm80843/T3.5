@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3055 
 
-# __Cross-population ai models__
+# __Flight data__
 
 ## Category to which it belongs
 
-* [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
-* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
-* [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1316.md)
-* [Ai/ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3732.md)
-* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2034.md)
-* [Ai-backed systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1312.md)
-* [Ai triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
-* [Ai support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
-* [Artificial intelligence and ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3049.md)
+* [Travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3415.md)
+* [Cell phone data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3372.md)
+* [Road network data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3054.md)
+* [Air travel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3052.md)
+* [Traffic camera data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2931.md)
+* [New data and technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3778.md)
+* [Real-time passenger information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1326.md)
+* [Data tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2865.md)
+* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2755.md)
+* [Data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2901.md)
 
 ## This Technology enables the following mitigations
 
-* [Cross-population train/test-based ai models for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4333.md)
+* [Restricting inter-city flights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4082.md)
 

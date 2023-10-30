@@ -21,5 +21,5 @@ AI models can predict and forecast infection risk, severity risk, and outcome ri
 
 ## Risks which can benefit from this action
 
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_500.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_500.md)
 

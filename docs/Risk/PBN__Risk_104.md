@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The challenges include the imprecision of data, uncertainty in measurements, inaccuracies, misinformation, and inconsistency in results.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
+* [The spread of false and misleading information during a pandemic leads to misinformation, inaccurate news, and a lack of trust in reliable sources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_24.md)
 
 ## Closest similar item
 
@@ -21,7 +21,7 @@
 
 ## Mitigations of this risk
 
-* [Restricting the amount of covid-19 specific information people are exposed to on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_120.md)
-* [Educating social media users to consume content in a sustainable manner](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_121.md)
-* [Implementing measures to detect and prevent the spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_122.md)
+* [Restricting the amount of covid-19 specific information people are exposed to on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_120.md)
+* [Educating social media users to consume content in a sustainable manner](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_121.md)
+* [Implementing measures to detect and prevent the spread of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_122.md)
 

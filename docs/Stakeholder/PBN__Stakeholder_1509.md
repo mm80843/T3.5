@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Individuals across various demographics, including high-risk, low-income, elderly, and homeless, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_431.md)
+* [Various categories of people, including individuals of different socioeconomic, gender, age, and health statuses, as well as those affected by specific circumstances or conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
+* [Individuals with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2094.md)
 * [People with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_565.md)
 * [Persons with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_450.md)
-* [Person with disability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2180.md)
+* [Person with disability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2265.md)
 * [People with physical disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1112.md)
-* [Person with physical disability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2207.md)
+* [Person with physical disability](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2292.md)
 * [And people with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_108.md)
 * [Individuals in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_288.md)
-* [Individual in deprived area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2087.md)
+* [Individual in deprived area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2158.md)
 * [Homeless individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_549.md)
-* [People living in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_567.md)
 
 ## Risk affecting this stakeholder
 

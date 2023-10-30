@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Protection of vulnerable groups and individuals during the lockdown, while addressing cybersecurity threats and ensuring the use of personal protective equipment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
+* [Insufficient safety measures, inadequate protective equipment, and lack of adherence to prevention guidelines pose significant risks.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_48.md)
 
 ## Closest similar item
 
@@ -15,11 +15,11 @@
 * [Need for effective disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_422.md)
 * [Inadequate preparedness for biological disasters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2420.md)
 * [Inadequate healthcare response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_515.md)
-* [Enhance monitoring and early warning systems to detect and respond to shocks in a timely manner.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3614.md)
 * [Insufficient electrical infrastructure in makeshift hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_444.md)
 * [Effective crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3316.md)
+* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1937.md)
 
 ## Mitigations of this risk
 
-* [Emergency plan development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4522.md)
+* [Emergency plan development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4522.md)
 

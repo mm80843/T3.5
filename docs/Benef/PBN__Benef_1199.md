@@ -21,5 +21,5 @@ Use existing resources efficiently and provide targeted support for pandemic mit
 
 ## Risks which can benefit from this action
 
-* [Subaltern technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1201.md)
+* [Subaltern technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1201.md)
 

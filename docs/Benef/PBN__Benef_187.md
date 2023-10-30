@@ -22,5 +22,5 @@ Proximity to green space is important for physical and mental health, particular
 
 ## Risks which can benefit from this action
 
-* [Ensuring green space is within a ten-minute walk from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_168.md)
+* [Ensuring green space is within a ten-minute walk from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_168.md)
 

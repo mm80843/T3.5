@@ -20,5 +20,5 @@ Promotes better pandemic prevention measures, well-informed dwellers, access to 
 
 ## Risks which can benefit from this action
 
-* [Horizontal urban development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_20.md)
+* [Horizontal urban development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_20.md)
 

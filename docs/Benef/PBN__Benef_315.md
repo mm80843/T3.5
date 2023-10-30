@@ -20,5 +20,5 @@ Purification using UVGI destroys infectious agents
 
 ## Risks which can benefit from this action
 
-* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_314.md)
+* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_314.md)
 

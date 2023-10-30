@@ -1,27 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3767 
 
-# __Artificial intelligence and machine learning__
-
-## Link between Blueprint and General ontology
-
-* [AI/ML](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_8.md)
-* [Artificial intelligence and ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_167.md)
-* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_87.md)
+# __Property matching__
 
 ## Category to which it belongs
 
-* [The vast array of tools and systems harnessing artificial intelligence and machine learning for efficient decision-making, optimization, and automated processes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_247.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
-* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2033.md)
-* [Artificial intelligence ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1712.md)
-* [Ai and machine learning for data processing and modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_754.md)
-* [Artificial intelligence and ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3049.md)
-* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2387.md)
-* [Artificial intelligence and mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3057.md)
-* [Ai and machine learning for modeling and simulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_759.md)
-* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2034.md)
-* [Machine learning methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2538.md)
+* [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+* [Property developers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1389.md)
+* [Correspondence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2746.md)
+* [Nature-based features and systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
+* [Similarity measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3768.md)
+* [Rule-based algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3197.md)
+* [Regular inspection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3878.md)
+* [Rule-based system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2565.md)
+* [Neighborhood control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
+* [Rule-based methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
+
+## This Technology enables the following mitigations
+
+* [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5118.md)
 

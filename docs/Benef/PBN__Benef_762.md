@@ -20,5 +20,5 @@ Creates opportunities for outdoor activities and socializing, improving mental a
 
 ## Risks which can benefit from this action
 
-* [Planning for open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_756.md)
+* [Planning for open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_756.md)
 

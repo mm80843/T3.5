@@ -20,5 +20,5 @@ Ensured delivery and tracking of medications
 
 ## Risks which can benefit from this action
 
-* [Blockchain medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1329.md)
+* [Blockchain medication delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1329.md)
 

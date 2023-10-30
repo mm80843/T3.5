@@ -20,5 +20,5 @@ Recognizing the health consequences of climate change enhances the perception of
 
 ## Risks which can benefit from this action
 
-* [Highlighting health impacts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1233.md)
+* [Highlighting health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1233.md)
 

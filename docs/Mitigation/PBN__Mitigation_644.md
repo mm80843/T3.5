@@ -1,21 +1,46 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_644 
 
-# __Increasing ventilation rate__
+# __Resilient approach__
 
 ## Category to which it belongs
 
-* [Enhance airflow and air quality for better respiratory health through improved natural and mechanical ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
+* [Enhancing risk management, crisis response, resilience building, and effective communication through comprehensive preparedness planning and strategic decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_63.md)
 
 ## Closest similar item
 
-* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_643.md)
-* [Increased ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_496.md)
-* [Increased ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_495.md)
-* [Improved ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_645.md)
-* [Higher ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_646.md)
-* [Maximizing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_648.md)
-* [Enhanced ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_647.md)
-* [High ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_649.md)
-* [Increase ventilation rates, prevent airflow obstruction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_650.md)
-* [Increase ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_491.md)
+* [Development of resilience strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_736.md)
+* [Resilience building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3999.md)
+* [Building resilience measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_156.md)
+* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4489.md)
+* [Resilience training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1182.md)
+* [Enhance system resilience, diversify dependencies, and establish backup systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2898.md)
+* [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1040.md)
+* [Foster economic resilience through improved risk management and diversification strategies.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2421.md)
+* [Resilient supply chain design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4290.md)
+* [Resilient supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4059.md)
+
+## Blueprints with this mitigation
+
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+
+## Benefits linked to a risk
+
+* [Improved continuity of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_645.md)
+
+## Property: has_MitigationPrinciple
+
+Critical infrastructure should adopt a resilience-based approach that focuses on identifying and managing vulnerabilities, anticipating and adapting to changing conditions, and ensuring rapid recovery and continuity of essential services. This shift from a preventive to a resilient approach allows for better preparedness and response to unexpected events.
+
+## Risks possibly mitigated by this Mitigation
+
+* [Black swan events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_454.md)
+* [Future "black swan" events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3313.md)
+
+## Property: has_MitigationSource
+
+* [Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_129.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Resilience-based practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3682.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Protection of vulnerable groups and individuals during the lockdown, while addressing cybersecurity threats and ensuring the use of personal protective equipment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
+* [The effects of lockdown measures: exacerbated social inequalities, limited accessibility to green spaces, shifts in energy demands, work delays, adversity for startups, and mental health issues.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_11.md)
 
 ## Closest similar item
 
@@ -15,33 +15,33 @@
 * [Increase in neighbour noise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_869.md)
 * [Neighbour annoyance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2880.md)
 * [Noise disturbance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2452.md)
-* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3612.md)
 * [Shifts in energy demands for the building sector during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_391.md)
 * [Noise disturbances](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2546.md)
+* [Excessive noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2228.md)
 
 ## Description of the risk
 
 Increased annoyance and disruption of daily activities from neighbour noise sources in flats during the lockdown period compared to before the lockdown
 
-## Is the risk affecting GBN scales
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Type of the risk
 
 * [Mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
 
+## Is the risk affecting GBN scales
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_1.md)
+
 ## Type of impact of the risk (according to ISO37100)
 
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_1.md)
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_1.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
-* [Improve sound insulation in flats and promote respectful neighbor behavior through community engagement during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2176.md)
+* [Improve sound insulation in flats and promote respectful neighbor behavior through community engagement during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2176.md)
 
 ## Name of the risk
 

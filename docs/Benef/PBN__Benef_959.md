@@ -20,5 +20,5 @@ Control measures (isolation, closure, banning) reduced case reports by 96%, aver
 
 ## Risks which can benefit from this action
 
-* [Transmission control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_955.md)
+* [Transmission control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_955.md)
 

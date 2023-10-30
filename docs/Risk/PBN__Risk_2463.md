@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The strains of economic instability, reduced funding, financial fragility, and insolvency risks burden various sectors and contribute to overall financial vulnerability.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_12.md)
 
 ## Closest similar item
 
@@ -16,12 +16,12 @@
 * [Limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2831.md)
 * [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
 * [Financial sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_719.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3524.md)
 * [Rent burden](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2481.md)
+* [Financial strain on government budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3028.md)
 
 ## Mitigations of this risk
 
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_780.md)
-* [Lending](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3292.md)
-* [Deferring or suspending taxes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3294.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_780.md)
+* [Deferring or suspending taxes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3294.md)
+* [Lending](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3292.md)
 

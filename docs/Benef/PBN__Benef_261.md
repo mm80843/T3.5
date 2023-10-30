@@ -20,5 +20,5 @@ Designing spaces with diverse human occupancy can encourage the colonization of 
 
 ## Risks which can benefit from this action
 
-* [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_250.md)
+* [Designing spaces with diverse human occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_250.md)
 

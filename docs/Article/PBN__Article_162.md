@@ -45,25 +45,25 @@ Water and wastewater digital surveillance for monitoring and early detection of 
 
 ## List of risks in an article
 
-* [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1698.md)
-* [Spread of covid-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_576.md)
-* [Lack of effective surveillance and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1696.md)
-* [Vulnerability to covid-19 in lmics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1695.md)
 * [Privacy and security concerns in contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1697.md)
+* [Lack of equitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1698.md)
+* [Lack of effective surveillance and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1696.md)
+* [Spread of covid-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_576.md)
+* [Vulnerability to covid-19 in lmics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1695.md)
 
 ## This article points to following mitigation
 
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
-* [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4187.md)
-* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3119.md)
-* [Digital revolution in water management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4182.md)
-* [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4181.md)
-* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4183.md)
-* [Robotics for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4184.md)
-* [Building information modelling bim](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4185.md)
-* [Artificial intelligence in predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4186.md)
-* [Geospatial analysis of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4188.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3332.md)
+* [Mobile apps for information and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4187.md)
+* [Robotics for social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4184.md)
+* [Geospatial analysis of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4188.md)
+* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3119.md)
+* [Digital revolution in water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4182.md)
+* [Artificial intelligence in predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4186.md)
+* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4183.md)
+* [Building information modelling bim](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4185.md)
+* [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4181.md)
 
 ## This article mentions these technologies
 
@@ -73,11 +73,11 @@ Water and wastewater digital surveillance for monitoring and early detection of 
 * [International organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_611.md)
 * [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
 * [Contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1066.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
 * [Testing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1065.md)
 * [Community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
 * [Encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1068.md)
 * [Secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
 * [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
 

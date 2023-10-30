@@ -20,5 +20,5 @@ Improves officer morale and job satisfaction
 
 ## Risks which can benefit from this action
 
-* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_254.md)
+* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_254.md)
 

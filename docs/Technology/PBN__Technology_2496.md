@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2496 
 
-# __Eco-active materials__
+# __Expanded medicaid__
 
 ## Category to which it belongs
 
-* [A compilation of various materials used for soundproofing, insulation, building, education, sustainability, and innovative purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_232.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
-* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
-* [Sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3275.md)
-* [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_180.md)
-* [Natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
-* [Living materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3723.md)
-* [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2489.md)
-* [Green sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3686.md)
-* [Recycled materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3719.md)
-* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
-* [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2014.md)
+* [Increased healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_109.md)
+* [Assistance programs for healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1281.md)
+* [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_602.md)
+* [Healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1852.md)
+* [Healthcare infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_298.md)
+* [Health insurance policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2562.md)
+* [Access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3491.md)
+* [Targeted healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_592.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
+* [Healthcare infrastructure investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3746.md)
 
 ## This Technology enables the following mitigations
 
-* [Indoor building and finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3549.md)
+* [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3350.md)
 

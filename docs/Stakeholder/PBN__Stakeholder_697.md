@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [A diverse range of professionals working across various industries, institutions, and organizations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_419.md)
+* [People at risk or affected by infectious diseases, including covid-19, and those involved in containment and response measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 

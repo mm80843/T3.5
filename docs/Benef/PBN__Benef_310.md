@@ -21,5 +21,5 @@ Adoption of digital technologies for trade facilitation
 
 ## Risks which can benefit from this action
 
-* [Promote digital technologies in trade facilitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_307.md)
+* [Promote digital technologies in trade facilitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_307.md)
 

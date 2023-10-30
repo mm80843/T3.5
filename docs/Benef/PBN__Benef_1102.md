@@ -20,5 +20,5 @@ Alignment between international data protection legislation and GDPR reduces bar
 
 ## Risks which can benefit from this action
 
-* [Alignment of data protection laws](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1116.md)
+* [Alignment of data protection laws](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1116.md)
 

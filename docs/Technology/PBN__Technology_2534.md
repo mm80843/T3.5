@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2534 
 
-# __Commercial vendors__
+# __Flexible sick leave__
 
 ## Category to which it belongs
 
-* [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
-* [Digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2818.md)
-* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
-* [Local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2843.md)
-* [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1083.md)
-* [Online marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1696.md)
-* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3266.md)
-* [Local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1605.md)
-* [Coordination with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2364.md)
-* [Digital supply chain platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1519.md)
+* [Flexible work policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_126.md)
+* [Implementation of flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_497.md)
+* [Flexibility policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3477.md)
+* [Access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3491.md)
+* [Financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1886.md)
+* [Flexible working models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3323.md)
+* [Promotion of flexible visiting hours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1820.md)
+* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_472.md)
+* [Flexible living arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3450.md)
+* [Equip healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_491.md)
 
 ## This Technology enables the following mitigations
 
-* [Commercial real-world data services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3600.md)
+* [Physical and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3375.md)
 

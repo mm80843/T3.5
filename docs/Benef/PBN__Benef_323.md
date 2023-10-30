@@ -21,5 +21,5 @@ IBEM allows for simultaneous collection of objective IEQ data and occupant opini
 
 ## Risks which can benefit from this action
 
-* [Ibem](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_320.md)
+* [Ibem](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_320.md)
 

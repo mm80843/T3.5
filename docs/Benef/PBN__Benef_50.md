@@ -21,5 +21,5 @@ The teleconference format allows for a live video feed, interactive discussions,
 
 ## Risks which can benefit from this action
 
-* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_42.md)
+* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
 

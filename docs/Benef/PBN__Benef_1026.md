@@ -21,5 +21,5 @@ Education and awareness campaigns improve public health literacy, leading to bet
 
 ## Risks which can benefit from this action
 
-* [Enhance public health education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1032.md)
+* [Enhance public health education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1032.md)
 

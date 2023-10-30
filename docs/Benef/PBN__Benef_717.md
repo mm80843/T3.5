@@ -21,5 +21,5 @@ Regular cleaning and disinfection of surfaces prevents virus transmission throug
 
 ## Risks which can benefit from this action
 
-* [Regular cleaning and disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_718.md)
+* [Regular cleaning and disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_718.md)
 

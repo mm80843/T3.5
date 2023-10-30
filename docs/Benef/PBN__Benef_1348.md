@@ -22,5 +22,5 @@ By incorporating longitudinal elements into research design, researchers can gai
 
 ## Risks which can benefit from this action
 
-* [Employ longitudinal elements in research design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1386.md)
+* [Employ longitudinal elements in research design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1386.md)
 

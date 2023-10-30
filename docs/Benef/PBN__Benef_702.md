@@ -20,5 +20,5 @@ Flattened infection curve, reduced spread
 
 ## Risks which can benefit from this action
 
-* [Partial isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_697.md)
+* [Partial isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_697.md)
 

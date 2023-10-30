@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2612 
 
-# __Web platform__
+# __Webex__
 
 ## Category to which it belongs
 
-* [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
-* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
-* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
-* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1130.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_638.md)
-* [E-commerce platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_694.md)
-* [Online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_907.md)
-* [Web service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3141.md)
-* [Networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2265.md)
-* [Cloud-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1135.md)
+* [Web service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3306.md)
+* [Web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3298.md)
 * [Web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_243.md)
+* [Web portals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2337.md)
+* [Web development tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3845.md)
+* [Web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2780.md)
+* [Webinars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2437.md)
+* [Online applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1679.md)
+* [Telecommunication tools and web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2476.md)
+* [E-commerce platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_694.md)
 
 ## This Technology enables the following mitigations
 
-* [Web platform for data visualization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3712.md)
+* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
 

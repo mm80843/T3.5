@@ -1,31 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2987 
 
-# __Uvgi__
-
-## Link between Blueprint and General ontology
-
-* [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_189.md)
-* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_191.md)
+# __Modes of transportation__
 
 ## Category to which it belongs
 
-* [Innovative technology utilizing ultraviolet light for sterilization and disinfection purposes in various systems and devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_244.md)
+* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
-* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3710.md)
-* [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2079.md)
-* [Uvgi lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2332.md)
-* [Uvc and uvgi lights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2520.md)
-* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
-* [Uv/uvgi/irradation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
-* [Design and engineering solutions for upper-room uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_257.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
-* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2056.md)
-* [Uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2415.md)
+* [Alternative modes of transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1990.md)
+* [Transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2525.md)
+* [Transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_659.md)
+* [Alternative transportation methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_111.md)
+* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2165.md)
+* [Promote active transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1375.md)
+* [Transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2309.md)
+* [Railway transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3051.md)
+* [Public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3029.md)
+* [Public spaces and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2185.md)
 
 ## This Technology enables the following mitigations
 
-* [Purification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_314.md)
-* [Uv-based technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_994.md)
+* [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4027.md)
 

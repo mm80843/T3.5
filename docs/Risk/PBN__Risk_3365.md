@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Inadequate sanitation, contaminated surfaces, and lack of proper cleaning contribute to the spread of pathogens.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_115.md)
+* [Limited access to safe water, sanitation, and hygiene facilities, leading to insufficient cleanliness and inadequate cleaning practices in unhygienic environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_36.md)
 
 ## Closest similar item
 
@@ -25,5 +25,5 @@
 
 ## Mitigations of this risk
 
-* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5167.md)
+* [Increased sanitation monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5167.md)
 

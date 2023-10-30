@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Limited access to healthcare, unhealthy behaviors, and health disparities resulting from urban design contribute to negative health effects.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
+* [The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_3.md)
 
 ## Closest similar item
 
@@ -16,10 +16,10 @@
 * [Lower vaccination rates among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1826.md)
 * [Health risk, data source](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2896.md)
 * [Lack of digital health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1961.md)
-* [International and health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3512.md)
 * [Disruption of immigrant employment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1827.md)
+* [Need for common standards in health data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_817.md)
 
 ## Mitigations of this risk
 
-* [Big data analytics for case identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_99.md)
+* [Big data analytics for case identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
 

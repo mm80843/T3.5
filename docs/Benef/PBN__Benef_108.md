@@ -21,5 +21,5 @@ Increased access to accurate and timely information for non-Taiwanese citizens
 
 ## Risks which can benefit from this action
 
-* [Communication in multiple languages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_95.md)
+* [Communication in multiple languages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_95.md)
 

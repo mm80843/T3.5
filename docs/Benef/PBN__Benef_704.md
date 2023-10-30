@@ -21,5 +21,5 @@ Flattened infection curve, reduced economic losses
 
 ## Risks which can benefit from this action
 
-* [Face masks + 50% isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_699.md)
+* [Face masks + 50% isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_699.md)
 

@@ -4,28 +4,28 @@
 
 ## Link between Blueprint and General ontology
 
-* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_7.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_7.md)
 
 ## Category to which it belongs
 
-* [A wide array of advanced technologies that detect and measure various environmental factors and human activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
+* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_117.md)
 
 ## Closest similar item
 
 * [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
-* [Input sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2977.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3731.md)
-* [Air sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3730.md)
-* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3084.md)
-* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
-* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2372.md)
+* [Input sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3142.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3895.md)
+* [Air sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3894.md)
+* [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3249.md)
+* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2440.md)
+* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2540.md)
 * [Motion sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1721.md)
-* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
-* [Thermal sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3690.md)
+* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3668.md)
+* [Thermal sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3854.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
 
 ## This technology is mentioned by
 
@@ -33,11 +33,11 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
+* [Surveillance and tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2062.md)
 
 ## This Technology enables the following mitigations
 
-* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_215.md)
+* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
 
 ## Risks linked to this technology
 

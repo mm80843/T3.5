@@ -20,5 +20,5 @@ Continuous monitoring allows deviations from baseline to be detected, enabling e
 
 ## Risks which can benefit from this action
 
-* [Wearable devices for the detection of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1421.md)
+* [Wearable devices for the detection of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1421.md)
 

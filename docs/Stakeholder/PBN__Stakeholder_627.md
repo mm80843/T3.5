@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals and entities involved in various aspects of public life and ownership responsibilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_423.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
-* [None specified](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2625.md)
-* [All individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2378.md)
+* [All individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2482.md)
 * [All individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1315.md)
-* [](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2626.md)
 * [Members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_271.md)
 * [Experts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_538.md)
 * [Community members](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_155.md)
 * [All residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_510.md)
-* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2627.md)
 * [Private](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_435.md)
+* [Teams](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_363.md)
+* [All workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_131.md)
+* [Communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -25,6 +25,7 @@
 * [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1735.md)
 * [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1096.md)
 * [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1887.md)
+* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
 * [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2057.md)
 * [Reduction in tourism revenue for pcas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
 * [Increase in local opportunity cost for pca-adjacent communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
@@ -39,7 +40,6 @@
 * [Associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
 * [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2314.md)
 * [Air recirculation in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1759.md)
-* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
 
 ## Risk affecting this stakeholder
 
@@ -58,9 +58,9 @@
 * [Difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2134.md)
 * [Lack of data for ai models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1780.md)
 * [Economic disparities among member states](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1575.md)
+* [Increase in default risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2135.md)
 * [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1099.md)
 * [Fragmented wbe data collection and reporting system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1303.md)
 * [Fragmented political responses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1573.md)
 * [Vulnerability to covid-19 in lmics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1695.md)
-* [Increase in default risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2135.md)
 

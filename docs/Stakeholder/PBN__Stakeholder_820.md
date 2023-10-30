@@ -4,14 +4,14 @@
 
 ## Category to which it belongs
 
-* [Vulnerable populations include individuals with preexisting medical conditions, low-income individuals, the elderly, children, and those with disabilities, particularly respiratory conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_421.md)
+* [Different demographic groups, ranging from children to older adults, including migrants and minorities, with a focus on vulnerable families and children.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
 
 ## Closest similar item
 
 * [Particularly children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_918.md)
 * [Including workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_679.md)
 * [Children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_62.md)
-* [Particularly child](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2232.md)
+* [Particularly child](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2318.md)
 * [Women and young children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_519.md)
 * [Particularly children and vulnerable individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1390.md)
 * [Including residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1119.md)

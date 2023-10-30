@@ -8,5 +8,5 @@ theme_Activities_continuity
 
 ## Category to which it belongs
 
-* [Seamless flow of activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_510.md)
+* [Seamless flow of actions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_278.md)
 

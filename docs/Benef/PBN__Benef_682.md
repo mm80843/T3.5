@@ -21,5 +21,5 @@ Improves resilience and sustainability of the supply chain, reduces dependency o
 
 ## Risks which can benefit from this action
 
-* [Increased investment in disease prevention infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_677.md)
+* [Increased investment in disease prevention infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_677.md)
 

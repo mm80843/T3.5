@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2884 
 
-# __Insecticide-treated screens__
+# __Astm e1052 standard test method__
 
 ## Category to which it belongs
 
-* [Innovative technologies and materials combat pathogens, enhance disinfection, and advance research in antiviral therapies and detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
+* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
-* [Insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3658.md)
-* [Pesticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
-* [Development of new insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1947.md)
-* [Auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_978.md)
-* [Insecticide-treated bed nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3657.md)
-* [Pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3111.md)
-* [Screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3496.md)
-* [Plastic tubes with insecticide-laden electrostatic netting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3671.md)
-* [Integrated pest management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
-* [Screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2152.md)
+* [Astm e1153 method](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2883.md)
+* [Advanced testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_801.md)
+* [Development of new testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_462.md)
+* [Development of rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1969.md)
+* [Improvement of testing accuracy and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1971.md)
+* [Regular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1751.md)
+* [Testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3307.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_401.md)
+* [Verification of results through multiple testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1357.md)
+* [Rapid testing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3884.md)
 
 ## This Technology enables the following mitigations
 
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4077.md)
+* [Astm e1052 standard test method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3851.md)
 

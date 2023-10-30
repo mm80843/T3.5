@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2909 
 
-# __Fountains__
+# __Research priorities__
 
 ## Category to which it belongs
 
-* [Promotion and implementation of sustainable and eco-friendly techniques, technologies, and initiatives for environmental conservation and management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
-* [Waterfalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2908.md)
-* [Water features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2263.md)
-* [Sink](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2668.md)
-* [Drainage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3653.md)
-* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
-* [Drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3110.md)
-* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
-* [Bathrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3114.md)
-* [Bathroom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2669.md)
-* [Rain gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3109.md)
+* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
+* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_762.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1814.md)
+* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_262.md)
+* [Research methodology improvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_839.md)
+* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1159.md)
+* [Research funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2905.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_312.md)
+* [Research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
 
 ## This Technology enables the following mitigations
 
-* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4105.md)
+* [Preparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3880.md)
 

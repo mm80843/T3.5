@@ -1,33 +1,33 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2870 
 
-# __Situated visualization__
+# __Antimicrobial coating__
 
 ## Link between Blueprint and General ontology
 
-* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_3.md)
-* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_82.md)
-* [Timeline-based visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_81.md)
-* [Infographics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_93.md)
-* [Augmented reality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_97.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_26.md)
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [The advancement and use of various technologies and materials for the purpose of eliminating microorganisms and promoting cleanliness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
-* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3729.md)
-* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2871.md)
-* [Timeline-based visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2872.md)
-* [Data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2762.md)
-* [Spatial layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2787.md)
-* [Augmented / virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
-* [Data visualization platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2657.md)
-* [Positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3575.md)
-* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_18.md)
-* [Infographics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1185.md)
+* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_787.md)
+* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1023.md)
+* [Antimicrobial surface materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3483.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_228.md)
+* [Antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2830.md)
+* [Antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3226.md)
+* [Anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3607.md)
+* [Anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2832.md)
+* [Selection of anti-microbial materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1727.md)
+* [Surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_791.md)
+
+## This is also an enabler
+
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_26.md)
 
 ## This Technology enables the following mitigations
 
-* [Large-scale & longitudinal](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4068.md)
+* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1189.md)
 

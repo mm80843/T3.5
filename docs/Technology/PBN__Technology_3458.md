@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3458 
 
-# __Routine maintenance__
+# __Fluorescent lamps__
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
-* [Regular maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_651.md)
-* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2997.md)
-* [Maintenance needs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2933.md)
-* [Maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1890.md)
-* [Regular maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1323.md)
-* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_147.md)
-* [Maintenance and inspection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1182.md)
-* [Such as regular cleaning and repairs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1195.md)
-* [Maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_842.md)
-* [Hvac maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3267.md)
+* [Uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2583.md)
+* [Uvgi lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2500.md)
+* [Uv-c emitters or lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3758.md)
+* [Lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2426.md)
+* [Uv-c germicidal lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1005.md)
+* [Germicidal uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3207.md)
+* [Filtered excimer lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2544.md)
+* [Fluorescent staining protocol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2548.md)
+* [Light tubes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_142.md)
+* [Lighting solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
 
 ## This Technology enables the following mitigations
 
-* [Maintenance and/or decontamination of water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4963.md)
+* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_402.md)
 

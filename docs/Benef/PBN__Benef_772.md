@@ -20,5 +20,5 @@ Improving the quality of data and addressing under-reporting of cases enables mo
 
 ## Risks which can benefit from this action
 
-* [Improving data quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_773.md)
+* [Improving data quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_773.md)
 

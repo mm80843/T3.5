@@ -20,5 +20,5 @@ Access to quality education, enhanced skills, and improved employment prospects
 
 ## Risks which can benefit from this action
 
-* [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_540.md)
+* [Investment in education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_540.md)
 

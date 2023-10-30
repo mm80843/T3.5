@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The far-reaching impact and transmission of covid-19 in various settings and populations, including public spaces, housing, neighborhoods, construction sites, and healthcare facilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
+* [The wide-ranging impacts of the covid-19 pandemic, from its spread in urban areas to its economic, social, and psychological consequences, call for urgent and effective crisis management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_19.md)
 
 ## Closest similar item
 
@@ -19,7 +19,11 @@
 * [Aggravating covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3081.md)
 * [Impact of covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
 
+## Blueprints with this risk
+
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+
 ## Mitigations of this risk
 
-* [Iot technologies iot, ai, big data, vr](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_143.md)
+* [Iot technologies iot, ai, big data, vr](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_143.md)
 

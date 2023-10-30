@@ -1,25 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3646 
 
-# __Cloud-based ai-assisted ct service__
+# __Sealed bathroom catchments__
 
 ## Category to which it belongs
 
-* [Advancements in healthcare technology, remote care services, public health campaigns, and improved healthcare facilities contribute to a comprehensive and efficient healthcare system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
+* [Promotion and implementation of clean and safe practices, including the use of sanitizers, soap, proper hygiene supplies, and improved sanitation protocols.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_130.md)
 
 ## Closest similar item
 
-* [Artificial intelligence and ct imaging data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3050.md)
-* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1506.md)
-* [Ai support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
-* [Robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1503.md)
-* [Ai triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
-* [Cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
-* [Ai-driven triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1243.md)
-* [Cloud service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2610.md)
-* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2034.md)
-* [Ai-backed systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1312.md)
+* [Drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3275.md)
+* [Drainage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3818.md)
+* [Bathrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3279.md)
+* [Proper sealing of pipes and sinks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1752.md)
+* [Fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3074.md)
+* [Stratified sewer collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3557.md)
+* [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1843.md)
+* [Proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3645.md)
+* [Bathroom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
+* [Ultrafiltration units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3799.md)
 
 ## This Technology enables the following mitigations
 
-* [Ai-assisted ct service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5182.md)
+* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4971.md)
+* [Proper plumbing work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4980.md)
 

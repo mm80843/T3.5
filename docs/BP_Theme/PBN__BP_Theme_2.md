@@ -8,5 +8,5 @@ theme_Sanitizing
 
 ## Category to which it belongs
 
-* [Purifying and disinfecting to ensure cleanliness and hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_504.md)
+* [Ensuring cleanliness and hygiene by eliminating harmful bacteria and viruses through thorough cleaning and disinfection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_272.md)
 

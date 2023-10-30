@@ -20,5 +20,5 @@ The Cu2O/PU film can be applied to a variety of surfaces, such as doorknobs, cre
 
 ## Risks which can benefit from this action
 
-* [Coating with cuprous oxide cu2o /polyurethane pu film](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_964.md)
+* [Coating with cuprous oxide cu2o /polyurethane pu film](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_964.md)
 

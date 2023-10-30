@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2752 
 
-# __Employee support programs__
+# __Electrostatic space charge systems escss__
 
 ## Category to which it belongs
 
-* [Promote community engagement and support through various initiatives, programs, campaigns, platforms, and networks, fostering social capital and volunteer involvement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_246.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Job support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1509.md)
-* [Support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1490.md)
-* [Workforce support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3290.md)
-* [Economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1599.md)
-* [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
-* [Community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_593.md)
-* [Support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2634.md)
-* [Business assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1887.md)
-* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_481.md)
-* [Welfare support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2837.md)
+* [Electrostatic filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1114.md)
+* [Develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_306.md)
+* [Implement electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_305.md)
+* [High voltage electrodes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3156.md)
+* [Solar chargers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1786.md)
+* [Electrostatic sprayer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2873.md)
+* [Energy storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1763.md)
+* [Bipolar ionization devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2233.md)
+* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2472.md)
+* [Electrical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3107.md)
 
 ## This Technology enables the following mitigations
 
-* [Employee support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3894.md)
+* [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_523.md)
 

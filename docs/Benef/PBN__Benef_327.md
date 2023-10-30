@@ -21,5 +21,5 @@ Allocating checkpoints in public places allows for effective monitoring of mobil
 
 ## Risks which can benefit from this action
 
-* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_323.md)
+* [Checkpoint allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_323.md)
 

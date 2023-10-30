@@ -20,5 +20,5 @@ Decreased number of potential sources of contagion
 
 ## Risks which can benefit from this action
 
-* [Reduced occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_610.md)
+* [Reduced occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_610.md)
 

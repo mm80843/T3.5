@@ -1,25 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2619 
 
-# __Energy analysis software__
+# __Video communication platforms__
 
 ## Category to which it belongs
 
-* [Efficient, sustainable energy technologies and systems that reduce carbon emissions and promote clean, renewable sources, while optimizing energy management and conservation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
+* [Advanced audiovisual technology is revolutionizing communication, surveillance, and media dissemination in our society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
-* [Advanced energy modeling software and data analytics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_872.md)
-* [Energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3743.md)
-* [Energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
-* [Energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_322.md)
-* [Data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1532.md)
-* [Energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_869.md)
-* [Energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_81.md)
-* [Statistical analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2555.md)
-* [Smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_324.md)
-* [Home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2418.md)
+* [Video conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_419.md)
+* [Videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3382.md)
+* [Video recording and conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2163.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
+* [Video conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_123.md)
+* [Virtual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_172.md)
+* [Video conferencing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2912.md)
+* [Video networking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2365.md)
+* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_895.md)
+* [Such as video conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2945.md)
 
 ## This Technology enables the following mitigations
 
-* [Energy audits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3720.md)
+* [Online physical activity classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3497.md)
+* [Virtual exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3506.md)
 

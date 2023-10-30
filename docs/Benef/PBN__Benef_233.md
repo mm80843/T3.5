@@ -20,5 +20,5 @@ Access to outdoor spaces can positively impact mental health and reduce mental s
 
 ## Risks which can benefit from this action
 
-* [Availability of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_221.md)
+* [Availability of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_221.md)
 

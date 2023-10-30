@@ -4,25 +4,25 @@
 
 ## Category to which it belongs
 
-* [Enhanced exchange of information and ideas through technology, platforms, and techniques for effective communication and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
-* [Effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2827.md)
-* [Public communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2561.md)
+* [Effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2992.md)
+* [Public communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2729.md)
+* [Communication technologies and channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2066.md)
 * [Open communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2002.md)
 * [Transparent communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_875.md)
 * [Diversified communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_578.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2684.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2850.md)
 * [Communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1055.md)
 * [Communication methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_463.md)
-* [Digital communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_814.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
+* [Communication and connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2161.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2100.md)
 
 ## This technology is mentioned by
 
@@ -33,15 +33,15 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Communication technologies and channels](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_27.md)
-* [Public health measures and education](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_47.md)
+* [Communication technologies and channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2066.md)
+* [Public health measures and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2090.md)
 
 ## This Technology enables the following mitigations
 
-* [Targeted communications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4637.md)
-* [Health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4488.md)
-* [Education and communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4524.md)
-* [Open, accurate, and consistent messages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5260.md)
+* [Health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4488.md)
+* [Targeted communications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4637.md)
+* [Open, accurate, and consistent messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5260.md)
+* [Education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4524.md)
 
 ## Risks linked to this technology
 

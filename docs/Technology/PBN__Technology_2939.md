@@ -1,25 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2939 
 
-# __Online survey technology__
+# __Benzalkonium chloride__
 
 ## Category to which it belongs
 
-* [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3522.md)
-* [Web surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2409.md)
-* [Electronic surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1824.md)
-* [Surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
-* [Online questionnaire/app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3405.md)
-* [E-participation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2342.md)
-* [Questionnaire design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2557.md)
-* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
-* [Online forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3236.md)
-* [E-participation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_283.md)
+* [Sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2876.md)
+* [Sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
+* [Chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3131.md)
+* [Sodium dichloroisocyanurate solution containing 500 mg/l chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2692.md)
+* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
+* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
+* [Chlorine gas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3770.md)
+* [Chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2467.md)
+* [Chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
+* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
 
 ## This Technology enables the following mitigations
 
-* [Data collection through online survey](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4149.md)
+* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3919.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
 

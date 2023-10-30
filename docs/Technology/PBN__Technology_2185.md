@@ -1,29 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2185 
 
-# __Chws__
-
-## Link between Blueprint and General ontology
-
-* [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_258.md)
+# __Public spaces and transportation__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
-* [Wbe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2297.md)
-* [Rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1060.md)
-* [Iwls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2381.md)
-* [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3713.md)
-* [Chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2966.md)
-* [Wind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3301.md)
-* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
-* [Chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
-* [Uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2987.md)
-* [Greenery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3724.md)
+* [Public transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3029.md)
+* [Public transport infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3868.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2966.md)
+* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1827.md)
+* [Infrastructure and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2165.md)
+* [Transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2309.md)
+* [Transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_542.md)
+* [Transportation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_659.md)
+* [Emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3549.md)
+* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3691.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechnologySubgroup
 
-* [Mobilizing informal institutions for education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3191.md)
+* [Improved public transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1827.md)
+* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
 

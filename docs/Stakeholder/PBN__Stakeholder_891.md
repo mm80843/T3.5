@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Healthcare stakeholders, medical professionals, patients, and caregivers rely on various healthcare resources, institutions, and services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_417.md)
+* [The various individuals and entities involved in the provision and administration of healthcare services and systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_190.md)
 
 ## Closest similar item
 
@@ -12,7 +12,7 @@
 * [Patients in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1165.md)
 * [Patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_31.md)
 * [Healthcare providers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_120.md)
-* [Hospital patient](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1815.md)
+* [Hospital patient](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1853.md)
 * [Healthcare facilities and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_225.md)
 * [Hospital patients and staff](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_309.md)
 * [Healthcare workers and patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_215.md)

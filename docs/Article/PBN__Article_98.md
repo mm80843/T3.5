@@ -40,11 +40,11 @@ Pandemics and Automation: Will the Lost Jobs Come Back?
 
 ## This article points to following mitigation
 
-* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_832.md)
-* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4641.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3247.md)
-* [Increased cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4642.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4640.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3247.md)
+* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4641.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_832.md)
+* [Increased cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4642.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4640.md)
 
 ## This article mentions these technologies
 
@@ -54,9 +54,9 @@ Pandemics and Automation: Will the Lost Jobs Come Back?
 * [Job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1473.md)
 * [Progressive tax policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1470.md)
 * [Inclusive economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1475.md)
-* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1474.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
 * [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1469.md)
+* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1474.md)
 * [Social safety nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_527.md)
 * [Investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1471.md)
 * [Countercyclical fiscal and monetary policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1472.md)

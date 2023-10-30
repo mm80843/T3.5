@@ -21,5 +21,5 @@ Enhances the capabilities of existing crowd models by incorporating an occupant 
 
 ## Risks which can benefit from this action
 
-* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_9.md)
+* [Universal occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_9.md)
 

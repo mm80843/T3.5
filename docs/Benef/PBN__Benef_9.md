@@ -21,5 +21,5 @@ Analyzing the correlation between SARS-CoV-2 RNA concentration in sewage and rep
 
 ## Risks which can benefit from this action
 
-* [Comparative analysis of virus rna concentration and reported covid-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5.md)
+* [Comparative analysis of virus rna concentration and reported covid-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5.md)
 

@@ -20,5 +20,5 @@ The use of renewable energy sources promotes sustainability and reduces environm
 
 ## Risks which can benefit from this action
 
-* [Promotion of sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_234.md)
+* [Promotion of sustainable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_234.md)
 

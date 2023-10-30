@@ -20,5 +20,5 @@ High-efficiency air filters, such as MERV-13 or HEPA filters, can effectively ca
 
 ## Risks which can benefit from this action
 
-* [Use of proper filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_519.md)
+* [Use of proper filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_519.md)
 

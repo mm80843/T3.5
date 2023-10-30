@@ -20,5 +20,5 @@ Decreased pollution, improved air quality, and mitigated climate change
 
 ## Risks which can benefit from this action
 
-* [Investment in clean energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_543.md)
+* [Investment in clean energy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_543.md)
 

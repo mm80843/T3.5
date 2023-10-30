@@ -20,5 +20,5 @@ Improved indoor air quality leads to a healthier living environment, reducing th
 
 ## Risks which can benefit from this action
 
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_476.md)
 

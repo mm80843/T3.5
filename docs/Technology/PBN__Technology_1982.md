@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [Promotion of green spaces and various types of outdoor areas for physical activity, recreation, and community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
+* [Increasing access to and incorporating elements of nature into urban environments can enhance the quality and availability of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_139.md)
 
 ## Closest similar item
 
+* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2127.md)
+* [Urban planning and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2128.md)
 * [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
 * [Green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
 * [Development of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1617.md)
-* [Availability of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2828.md)
+* [Green and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2126.md)
+* [Availability of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2993.md)
 * [Urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1618.md)
 * [Urban planning and design strategies for green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_453.md)
 * [Urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_840.md)
-* [Public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1220.md)
-* [Temporary parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2067.md)
-* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1871.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
 
 ## This technology is mentioned by
 
@@ -29,7 +29,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Urban planning and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_85.md)
+* [Urban planning and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2128.md)
 
 ## Risks linked to this technology
 

@@ -22,5 +22,5 @@ Limiting deforestation and wildlife trade reduces the risk of zoonotic diseases,
 
 ## Risks which can benefit from this action
 
-* [Prevent tropical deforestation and limit wildlife trade](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_15.md)
+* [Prevent tropical deforestation and limit wildlife trade](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_15.md)
 

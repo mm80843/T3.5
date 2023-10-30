@@ -21,5 +21,5 @@ Provides flexibility in creating different atmospheres and aesthetics in adapted
 
 ## Risks which can benefit from this action
 
-* [Integration of adaptable finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1086.md)
+* [Integration of adaptable finishing materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1086.md)
 

@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3164 
 
-# __Rfid__
+# __Eye protection gear__
 
 ## Category to which it belongs
 
-* [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
+* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
-* [Rfid technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1134.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2171.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [Internet of things](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2149.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
-* [Identification and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1703.md)
-* [Nfc technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
-* [Wireless sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3138.md)
-* [Wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2396.md)
-* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
+* [Personal protective equipment masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2404.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [Goggles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2635.md)
+* [Protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2727.md)
+* [Contact lenses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2415.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_949.md)
+* [Face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_484.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_817.md)
+* [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_589.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2800.md)
 
 ## This Technology enables the following mitigations
 
-* [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4527.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3575.md)
 

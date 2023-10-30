@@ -21,5 +21,5 @@ Providing emotional support and motivation improves the psychological well-being
 
 ## Risks which can benefit from this action
 
-* [Emotional support and motivation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_469.md)
+* [Emotional support and motivation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_469.md)
 

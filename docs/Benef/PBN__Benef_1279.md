@@ -20,5 +20,5 @@ Modifying building envelopes to minimize the size and number of openings can red
 
 ## Risks which can benefit from this action
 
-* [Modification of building envelopes to reduce mosquito accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1299.md)
+* [Modification of building envelopes to reduce mosquito accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1299.md)
 

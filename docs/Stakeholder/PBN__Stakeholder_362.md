@@ -8,7 +8,7 @@
 
 ## Category to which it belongs
 
-* [Interconnected actors and entities operating within various environmental, economic, and regulatory systems striving for conservation, sustainability, and cooperation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_438.md)
+* [The wide-ranging sectors and industries, from the private sector to energy and manufacturing, that drive global economies and the interconnectedness of businesses and industries worldwide.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -16,7 +16,7 @@
 * [Global markets](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_852.md)
 * [And service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_325.md)
 * [Local economies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_518.md)
-* [Global market](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1999.md)
+* [Global market](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2049.md)
 * [Economy](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_91.md)
 * [And citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_382.md)
 * [Global economic and financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_24.md)

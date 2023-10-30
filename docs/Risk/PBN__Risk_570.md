@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The built environment faces challenges in terms of occupant exposure, material shortages, high costs, inadequate design, and lack of flexibility.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
+* [The construction industry faces challenges in occupant exposure, pandemic preparedness, information-based management, off-site construction, building systems, and financial crisis.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_7.md)
 
 ## Closest similar item
 

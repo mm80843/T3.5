@@ -20,5 +20,5 @@ UV-C light sterilizes clothing and footwear, reducing the likelihood of virus tr
 
 ## Risks which can benefit from this action
 
-* [Installation of uv-c cupboards for external clothing and footwear](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_270.md)
+* [Installation of uv-c cupboards for external clothing and footwear](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_270.md)
 

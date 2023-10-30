@@ -20,5 +20,5 @@ Improved water quality
 
 ## Risks which can benefit from this action
 
-* [Increased chlorination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_997.md)
+* [Increased chlorination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_997.md)
 

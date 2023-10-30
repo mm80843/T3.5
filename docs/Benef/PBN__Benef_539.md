@@ -23,5 +23,5 @@ Credible hub of trustworthy evidence counters misinformation and provides eviden
 
 ## Risks which can benefit from this action
 
-* [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_553.md)
+* [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_553.md)
 

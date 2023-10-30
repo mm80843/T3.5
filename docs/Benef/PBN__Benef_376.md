@@ -20,5 +20,5 @@ Enhancing the public's knowledge on COVID-19 increases their understanding of th
 
 ## Risks which can benefit from this action
 
-* [Knowledge acquisition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_378.md)
+* [Knowledge acquisition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_378.md)
 

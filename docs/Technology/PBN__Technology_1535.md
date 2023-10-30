@@ -4,40 +4,32 @@
 
 ## Link between Blueprint and General ontology
 
-* [Social media analytics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_73.md)
-* [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_165.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_88.md)
-* [Social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_231.md)
-* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_185.md)
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_232.md)
-* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_233.md)
-* [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_89.md)
-* [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_90.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_20.md)
 
 ## Category to which it belongs
 
-* [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+* [Various online platforms and tools promoting personal interaction, building social capital, and monitoring social behavior.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_121.md)
 
 ## Closest similar item
 
 * [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
-* [Social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2605.md)
+* [Social support networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2773.md)
 * [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_424.md)
 * [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1081.md)
-* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3435.md)
+* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3600.md)
 * [Social media algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1450.md)
 * [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_420.md)
 * [Online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1402.md)
-* [Social media communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2343.md)
+* [Social media communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2511.md)
 * [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
 
 ## This is also an enabler
 
-* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_20.md)
+* [Social Networks](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_20.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_3.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1447.md)
 
 ## This technology is mentioned by
 
@@ -48,7 +40,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4615.md)
+* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4615.md)
 
 ## Risks linked to this technology
 

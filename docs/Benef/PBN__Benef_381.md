@@ -20,5 +20,5 @@ Building good relationships with suppliers can improve supply chain resilience, 
 
 ## Risks which can benefit from this action
 
-* [Establish good relationships with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_384.md)
+* [Establish good relationships with suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_384.md)
 

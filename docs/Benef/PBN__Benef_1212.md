@@ -20,5 +20,5 @@ Providing support and resources for individuals working from home can improve th
 
 ## Risks which can benefit from this action
 
-* [Support for working from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1219.md)
+* [Support for working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1219.md)
 

@@ -20,5 +20,5 @@ Investing in infrastructure and training can enhance the resilience of the suppl
 
 ## Risks which can benefit from this action
 
-* [Investing in infrastructure and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_10.md)
+* [Investing in infrastructure and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_10.md)
 

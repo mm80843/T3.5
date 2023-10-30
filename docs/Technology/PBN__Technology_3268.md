@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3268 
 
-# __Policy implementation__
+# __Training resources__
 
 ## Category to which it belongs
 
-* [Efforts to inform, educate, and enforce regulations, policies, and preparedness strategies for public safety and effective governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
+* [Enhancement of knowledge and skills through resources, initiatives, programs, and proper utilization of personnel for various purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
-* [Policy support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1607.md)
-* [Policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
-* [Policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_443.md)
-* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2645.md)
-* [Policy frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1492.md)
-* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2808.md)
-* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
-* [Policy advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_451.md)
-* [Government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3533.md)
-* [Policy engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_160.md)
+* [Educational and training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2082.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [Training materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1659.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2044.md)
+* [Training sessions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2848.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+* [Resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3025.md)
+* [Education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2322.md)
+* [Job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_630.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2105.md)
 
 ## This Technology enables the following mitigations
 
-* [Active smoke-free policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4662.md)
+* [Training programs for skill development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4424.md)
 

@@ -1,29 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2312 
 
-# __Water__
+# __Quarantine__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2291.md)
-* [Water storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2191.md)
-* [Water features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2263.md)
-* [Water movement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2913.md)
-* [Clean drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3194.md)
-* [Fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2909.md)
-* [Drainage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3653.md)
-* [Water efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3685.md)
-* [Bathroom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2669.md)
-* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_27.md)
+* [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2935.md)
+* [Material quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2533.md)
+* [Quarantine guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3412.md)
+* [Quarantine protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_834.md)
+* [Quarantine facilities or designated quarantine areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3177.md)
+* [Isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1655.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3115.md)
+* [Surveillance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_268.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1961.md)
 
 ## This Technology enables the following mitigations
 
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
-* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_86.md)
-* [Hand washing prevention](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4394.md)
-* [Frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4600.md)
-* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5115.md)
+* [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3149.md)
+* [Travel-related measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3762.md)
 

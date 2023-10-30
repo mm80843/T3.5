@@ -21,5 +21,5 @@ Improved ventilation systems in buildings contribute to better indoor air qualit
 
 ## Risks which can benefit from this action
 
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
 

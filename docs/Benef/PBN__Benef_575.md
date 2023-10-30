@@ -21,5 +21,5 @@ Reduced risk of infection for healthcare workers
 
 ## Risks which can benefit from this action
 
-* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_583.md)
+* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_583.md)
 

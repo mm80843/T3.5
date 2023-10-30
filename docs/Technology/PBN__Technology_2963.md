@@ -1,32 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2963 
 
-# __Gps location__
-
-## Link between Blueprint and General ontology
-
-* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_10.md)
-* [Gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_157.md)
-* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_160.md)
-* [Positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_96.md)
+# __Technology transfer__
 
 ## Category to which it belongs
 
-* [Enhanced travel experiences, seamless transportation, and real-time updates for optimal accessibility and convenience.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
-* [Gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2230.md)
-* [Gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2386.md)
-* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2587.md)
-* [Location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)
-* [Mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3624.md)
-* [Location and bluetooth data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3003.md)
-* [Positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3575.md)
-* [Improved location tracking algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1381.md)
-* [Checkpoint stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2421.md)
-* [Travel monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3250.md)
+* [Technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3265.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
+* [Technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2561.md)
+* [Improved access to technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_526.md)
+* [Technological means](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3538.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2965.md)
+* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
+* [Information technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2298.md)
+* [Continued technological advancements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1641.md)
+* [Smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3882.md)
 
 ## This Technology enables the following mitigations
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
+* [Supporting access to technology and capital goods in global south](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3983.md)
 

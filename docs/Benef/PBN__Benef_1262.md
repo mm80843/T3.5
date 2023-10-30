@@ -21,5 +21,5 @@ Innovative ventilator designs, such as 3D-printed ventilator parts and automated
 
 ## Risks which can benefit from this action
 
-* [Innovative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1281.md)
+* [Innovative ventilator designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1281.md)
 

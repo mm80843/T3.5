@@ -1,29 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2266 
 
-# __Collaborative tools__
-
-## Link between Blueprint and General ontology
-
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_232.md)
+# __Portable air cleaners__
 
 ## Category to which it belongs
 
-* [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+* [Enhanced cleaning practices and hygiene protocols utilize a wide range of tools, equipment, solutions, and technologies to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
-* [Collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
-* [Online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1661.md)
-* [Virtual collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_131.md)
-* [Communication and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_808.md)
-* [Remote collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_125.md)
-* [Software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2160.md)
-* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
-* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1130.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
-* [Web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3133.md)
+* [Use of portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_677.md)
+* [Portable air cleaners pac](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3873.md)
+* [Air cleaning devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1140.md)
+* [Air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2797.md)
+* [Air cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3761.md)
+* [Other air cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1110.md)
+* [Portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2642.md)
+* [Portable air filtration devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
+* [Air extractors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3644.md)
+* [Portable air conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3545.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Collaboration and interdisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3271.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2238.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Purification and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2134.md)
 

@@ -21,5 +21,5 @@ Ensures consistent and reliable information, reducing confusion and conflicting 
 
 ## Risks which can benefit from this action
 
-* [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1440.md)
+* [Centralized communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1440.md)
 

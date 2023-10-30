@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2815 
 
-# __Policy and regulation__
+# __Bim software__
+
+## Link between Blueprint and General ontology
+
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_27.md)
 
 ## Category to which it belongs
 
-* [Efforts to inform, educate, and enforce regulations, policies, and preparedness strategies for public safety and effective governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
+* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
 
 ## Closest similar item
 
-* [Regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
-* [Policy and regulation changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1177.md)
-* [Policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
-* [Strengthened regulation and oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3586.md)
-* [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
-* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
-* [Government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
-* [Regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1175.md)
-* [Regulatory oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_267.md)
-* [Government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3533.md)
+* [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3877.md)
+* [Design & construction software bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3905.md)
+* [Building information model bim](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1041.md)
+* [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_637.md)
+* [Financial management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_128.md)
+* [Project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
+* [Software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3537.md)
+* [Software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2328.md)
+* [Data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_779.md)
+* [Gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3202.md)
 
 ## This Technology enables the following mitigations
 
-* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4024.md)
+* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3756.md)
 

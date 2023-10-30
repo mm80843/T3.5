@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Limited and fragmented data availability and interoperability hinder analysis, decision-making, and trust in the reliability of information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
+* [The fragmented and non-interoperable nature of data and knowledge, along with the lack of bioinformatics tools and data integration, hinder effective data management and sharing, leading to limitations in analysis, communication, and decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_21.md)
 
 ## Closest similar item
 
@@ -13,12 +13,13 @@
 * [Misuse of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_50.md)
 * [Lack of healthcare data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1266.md)
 * [Lack of homogeneous data model for medical records](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_320.md)
-* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3466.md)
+* [Misinformation and ’infodemic’](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3410.md)
 * [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1224.md)
 * [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
 * [Need for common standards in health data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_817.md)
+* [Incomplete or inaccurate data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3000.md)
 
 ## Mitigations of this risk
 
-* [Accurate and reliable medical data communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_398.md)
+* [Accurate and reliable medical data communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_398.md)
 

@@ -8,7 +8,7 @@
 
 ## Category to which it belongs
 
-* [Vulnerable individuals in low-income, densely populated areas, with limited access to essential services and green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_427.md)
+* [Populations in crowded areas, high-risk areas, low-income communities, and areas with poor sanitation, particularly those in densely populated regions, are at risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
@@ -17,9 +17,9 @@
 * [Communities and populations with socio-economic disparities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_873.md)
 * [Disadvantaged communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1139.md)
 * [Low-income communities in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_586.md)
-* [Low-income community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2243.md)
+* [Low-income community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2329.md)
 * [Disadvantaged communities and social groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_415.md)
 * [Individuals from lower socio-economic backgrounds](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_743.md)
 * [Socioeconomically disadvantaged groups](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1366.md)
-* [Socially and economically disadvantaged group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2030.md)
+* [Socially and economically disadvantaged group](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2091.md)
 

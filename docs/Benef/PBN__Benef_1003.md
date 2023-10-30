@@ -20,5 +20,5 @@ Increased efficiency and productivity
 
 ## Risks which can benefit from this action
 
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1003.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1003.md)
 

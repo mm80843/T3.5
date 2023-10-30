@@ -21,5 +21,5 @@ Improved surveillance and social monitoring can help prevent and address psychol
 
 ## Risks which can benefit from this action
 
-* [Integration of urban technology for disaster preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_737.md)
+* [Integration of urban technology for disaster preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_737.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The spread of the virus through various means such as airborne transmission, contaminated surfaces, close contact, and gatherings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
+* [The spread of disease through direct and indirect contact in various environments and social settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_32.md)
 
 ## Closest similar item
 
@@ -23,25 +23,25 @@
 
 The virus can spread through close contact with an infected person, such as hugging, shaking hands, or sharing utensils.
 
-## Is the risk affecting GBN scales
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Type of the risk
 
 * [Physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
+## Is the risk affecting GBN scales
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_1.md)
+
 ## Type of impact of the risk (according to ISO37100)
 
-* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_4.md)
+* [Biodiversity and ecosystem services](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_4.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_4.md)
 
 ## Mitigations of this risk
 
-* [Avoid close contact with infected individuals, practice good hand hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1868.md)
+* [Avoid close contact with infected individuals, practice good hand hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1868.md)
 
 ## Name of the risk
 
@@ -64,8 +64,8 @@ High risk of infection for individuals who have close contact with an infected p
 
 ## Technologies linked to the risk
 
-* [Promotion of alternative greetings and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_587.md)
 * [Increased awareness and education about transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_586.md)
+* [Promotion of alternative greetings and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_587.md)
 
 ## Property: has_RiskType
 

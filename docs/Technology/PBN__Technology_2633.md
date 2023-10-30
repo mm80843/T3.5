@@ -1,25 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2633 
 
-# __Panic buttons__
+# __Heart rate monitors__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_117.md)
 
 ## Closest similar item
 
-* [Alarms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3204.md)
-* [Iot buttons](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2925.md)
-* [Alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2926.md)
-* [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1667.md)
-* [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1878.md)
-* [Door-lock devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_969.md)
-* [Safety monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
-* [Safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2281.md)
-* [Crisis management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4.md)
-* [Rigorous safety testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2023.md)
+* [Vital sign monitoring equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2217.md)
+* [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_405.md)
+* [Wearable sensors for exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_66.md)
+* [Air quality monitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1980.md)
+* [Monitor risers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1399.md)
+* [Fitness tracker](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2552.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1502.md)
+* [Smartwatch](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2551.md)
+* [Smartwatches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2409.md)
+* [Monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1844.md)
 
 ## This Technology enables the following mitigations
 
-* [Panic button protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3740.md)
+* [Exercising on treadmills and stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3509.md)
+* [Rowing ergometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3510.md)
 

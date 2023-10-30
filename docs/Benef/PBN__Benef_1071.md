@@ -21,5 +21,5 @@ Provides clear guidance for creating adaptable and flexible buildings
 
 ## Risks which can benefit from this action
 
-* [Development of detailed design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1081.md)
+* [Development of detailed design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1081.md)
 

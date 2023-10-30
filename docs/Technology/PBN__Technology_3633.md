@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3633 
 
-# __Centrifugation__
+# __Room to member ratio__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
-* [Centrifugal filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2176.md)
-* [75% 2-propanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2775.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1750.md)
-* [Ethanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_851.md)
-* [Transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1925.md)
-* [Aeration control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3179.md)
-* [Ducting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2917.md)
-* [Green technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1645.md)
-* [Airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1116.md)
-* [Vector control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3322.md)
+* [Ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1779.md)
+* [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
+* [Adjustable area ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1777.md)
+* [Rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3574.md)
+* [Separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
+* [Allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2960.md)
+* [Modular spacing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2390.md)
+* [Capacity building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_449.md)
+* [Energy reduction ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3631.md)
+* [Number of people in the building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3420.md)
 
 ## This Technology enables the following mitigations
 
-* [Physical removal of solid residues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5172.md)
+* [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_242.md)
 

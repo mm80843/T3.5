@@ -20,5 +20,5 @@ Enables the development and implementation of sustainable remote and digital hea
 
 ## Risks which can benefit from this action
 
-* [New ways of remote and digital health working](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_475.md)
+* [New ways of remote and digital health working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_475.md)
 

@@ -20,5 +20,5 @@ Reduces the number of cases requiring hospitalization, lowering the demand on he
 
 ## Risks which can benefit from this action
 
-* [Home isolation of suspect cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_406.md)
+* [Home isolation of suspect cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_406.md)
 

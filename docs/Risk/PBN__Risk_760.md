@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The urban environment exacerbates the spread of vector-borne diseases and compromises wildlife conservation efforts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_117.md)
+* [The ecological impact of climate change, urbanization, and habitat alteration on the spread of diseases and wildlife conservation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_30.md)
 
 ## Closest similar item
 
@@ -25,5 +25,5 @@
 
 ## Mitigations of this risk
 
-* [Emphasizing use of personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1049.md)
+* [Emphasizing use of personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1049.md)
 

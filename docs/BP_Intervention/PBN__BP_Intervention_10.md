@@ -12,5 +12,5 @@ Separate water facilities (toilets/bathrooms for contaminated)
 
 ## Category to which it belongs
 
-* [Facilities for water segregation to accommodate contaminated waste.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_359.md)
+* [Sanitary amenities for tainted liquid disposal.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_159.md)
 

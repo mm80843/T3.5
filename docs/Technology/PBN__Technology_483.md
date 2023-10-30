@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [N95 respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2724.md)
-* [Facemasks or respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2513.md)
-* [N95 respirator](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2523.md)
+* [N95 respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2890.md)
+* [Facemasks or respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2681.md)
+* [N95 respirator](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2691.md)
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2354.md)
-* [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2416.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2522.md)
+* [Ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2584.md)
 * [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1011.md)
 * [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
 * [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
-* [Surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2723.md)
+* [Surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2889.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_9.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
 
 ## This technology is mentioned by
 
@@ -29,12 +29,12 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_58.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_817.md)
 
 ## This Technology enables the following mitigations
 
-* [Ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4888.md)
-* [Enhanced respiratory protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3521.md)
+* [Enhanced respiratory protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3521.md)
+* [Ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4888.md)
 
 ## Risks linked to this technology
 

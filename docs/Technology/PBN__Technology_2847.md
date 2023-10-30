@@ -1,25 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2847 
 
-# __Preparedness planning__
+# __Supplies__
 
 ## Category to which it belongs
 
-* [Efforts to inform, educate, and enforce regulations, policies, and preparedness strategies for public safety and effective governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Preparedness strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_33.md)
-* [Create emergency preparedness plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1379.md)
-* [Contingency planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_633.md)
-* [Planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
-* [Contingency planning frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1457.md)
-* [Scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3023.md)
-* [Planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_382.md)
-* [Participatory planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3420.md)
-* [Emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1498.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
+* [Medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1250.md)
+* [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2638.md)
+* [Hygiene supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_766.md)
+* [Ppe equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2240.md)
+* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2983.md)
+* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3026.md)
+* [Procurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2958.md)
+* [Laboratory equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3203.md)
+* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3431.md)
 
 ## This Technology enables the following mitigations
 
-* [Investing in disaster risk reduction and preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4048.md)
+* [Healthcare system preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3991.md)
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3803.md)
 

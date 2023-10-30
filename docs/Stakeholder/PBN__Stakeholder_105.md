@@ -8,11 +8,12 @@
 
 ## Category to which it belongs
 
-* [Interconnected actors and entities operating within various environmental, economic, and regulatory systems striving for conservation, sustainability, and cooperation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_438.md)
+* [Populations in crowded areas, high-risk areas, low-income communities, and areas with poor sanitation, particularly those in densely populated regions, are at risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
 * [Remote regions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1562.md)
+* [Geographical areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2361.md)
 * [Resource poor regions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_471.md)
 * [Residents and travelers in neighboring regions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_871.md)
 * [Urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_591.md)
@@ -21,5 +22,4 @@
 * [Local populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1152.md)
 * [Rural areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_876.md)
 * [Urban and periurban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_279.md)
-* [Nearby residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1271.md)
 

@@ -20,5 +20,5 @@ Collaborating globally in the response to infectious diseases enables sharing of
 
 ## Risks which can benefit from this action
 
-* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_987.md)
+* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_987.md)
 

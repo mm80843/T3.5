@@ -21,5 +21,5 @@ Uses Kalman filter to reduce bias caused by error accumulation
 
 ## Risks which can benefit from this action
 
-* [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_118.md)
+* [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_118.md)
 

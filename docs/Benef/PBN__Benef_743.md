@@ -21,5 +21,5 @@ Adoption of pandemic preparedness protocols can ensure a coordinated and efficie
 
 ## Risks which can benefit from this action
 
-* [Adoption of pandemic preparedness protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_738.md)
+* [Adoption of pandemic preparedness protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_738.md)
 

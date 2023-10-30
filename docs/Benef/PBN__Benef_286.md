@@ -21,5 +21,5 @@ Sustainable methods protect and regenerate ecological resources, ensuring long-t
 
 ## Risks which can benefit from this action
 
-* [Promoting sustainable production and consumption methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_281.md)
+* [Promoting sustainable production and consumption methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_281.md)
 

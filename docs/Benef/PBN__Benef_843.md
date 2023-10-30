@@ -21,5 +21,5 @@ Mathematical models can help simulate infection growth and contact tracing, prov
 
 ## Risks which can benefit from this action
 
-* [Mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_841.md)
+* [Mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_841.md)
 

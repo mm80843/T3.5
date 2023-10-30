@@ -20,5 +20,5 @@ Increased awareness and education about the benefits of urban green spaces can l
 
 ## Risks which can benefit from this action
 
-* [Promote awareness and education about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_459.md)
+* [Promote awareness and education about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
 

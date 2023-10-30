@@ -1,26 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2327 
 
-# __Legal support__
+# __Mathematical models__
 
 ## Category to which it belongs
 
-* [Promote community engagement and support through various initiatives, programs, campaigns, platforms, and networks, fostering social capital and volunteer involvement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_246.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
-* [Legal advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_159.md)
-* [Support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2644.md)
-* [Legal advice](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3369.md)
-* [Legal measures and social support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2137.md)
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_605.md)
-* [Welfare support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2837.md)
-* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_317.md)
-* [Legal counsel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1642.md)
-* [Community support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
-* [Support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2634.md)
+* [Mathematical modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_296.md)
+* [Computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3335.md)
+* [Statistical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)
+* [Modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1977.md)
+* [Statistical modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3103.md)
+* [Simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1456.md)
+* [Advanced modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1199.md)
+* [Predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3325.md)
+* [Modeling and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3579.md)
+* [Diffusion models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3039.md)
 
 ## This Technology enables the following mitigations
 
-* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_179.md)
-* [Civil right to counsel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3349.md)
+* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3167.md)
 

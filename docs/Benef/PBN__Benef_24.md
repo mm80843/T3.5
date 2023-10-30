@@ -21,5 +21,5 @@ Strengthening public and universal health systems ensures that healthcare servic
 
 ## Risks which can benefit from this action
 
-* [Strengthen public and universal health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_16.md)
+* [Strengthen public and universal health systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_16.md)
 

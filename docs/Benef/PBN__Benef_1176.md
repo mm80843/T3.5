@@ -20,5 +20,5 @@ Ensures stability of employment, reduces anxiety and financial stress
 
 ## Risks which can benefit from this action
 
-* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1180.md)
+* [Employment protections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1180.md)
 

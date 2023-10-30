@@ -1,37 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3637 
 
-# __Mobile phones__
-
-## Link between Blueprint and General ontology
-
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
-* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_33.md)
-* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_36.md)
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_19.md)
-* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_41.md)
-* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_44.md)
-* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_42.md)
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_43.md)
-* [Smartphone control systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_52.md)
+# __Community-level farming__
 
 ## Category to which it belongs
 
-* [A compilation of various mobile apps and technologies used for reporting, contact tracing, banking, scheduling, and other functions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
+* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
-* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
-* [Smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2231.md)
-* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3353.md)
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2132.md)
-* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2405.md)
-* [Phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1092.md)
-* [Mobile phone application](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3645.md)
-* [Mobile computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2228.md)
-* [Mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
-* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2690.md)
+* [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3731.md)
+* [Apartment-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3636.md)
+* [Vertical farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3389.md)
+* [Urban farming technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1219.md)
+* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1505.md)
+* [Organic farming methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2721.md)
+* [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1847.md)
+* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1487.md)
+* [Community-level infrastructure planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2606.md)
+* [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_122.md)
 
 ## This Technology enables the following mitigations
 
-* [Migration maps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5175.md)
+* [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 

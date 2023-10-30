@@ -20,5 +20,5 @@ Monitoring vaccination status allows for early detection of waning efficacy of v
 
 ## Risks which can benefit from this action
 
-* [Monitor vaccination status](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1184.md)
+* [Monitor vaccination status](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1184.md)
 

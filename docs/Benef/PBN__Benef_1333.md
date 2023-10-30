@@ -20,5 +20,5 @@ Antimicrobial paint prevents the growth and spread
 
 ## Risks which can benefit from this action
 
-* [Antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1357.md)
+* [Antimicrobial paint](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1357.md)
 

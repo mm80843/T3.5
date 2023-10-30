@@ -21,5 +21,5 @@ Blockchain technology provides verifiable and secure data by using distributed l
 
 ## Risks which can benefit from this action
 
-* [Digitally data storage using blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1054.md)
+* [Digitally data storage using blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1054.md)
 

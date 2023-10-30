@@ -21,5 +21,5 @@ Sharing data between cities allows for early detection and containment of virus 
 
 ## Risks which can benefit from this action
 
-* [Seamless data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1338.md)
+* [Seamless data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1338.md)
 

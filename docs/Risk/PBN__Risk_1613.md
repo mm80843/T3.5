@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The wide dissemination of the sars-cov-2 virus and its transmission through various pathways pose significant challenges.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
+* [Wastewater acts as a carrier and data source for undetected transmission and decay of sars-cov-2.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_47.md)
 
 ## Closest similar item
 
@@ -23,25 +23,25 @@
 
 The absence of a standardized method for detecting SARS-CoV-2 in wastewater and other environmental samples can result in inconsistencies in the data and hinder comparisons between studies.
 
-## Is the risk affecting GBN scales
-
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_1.md)
-
 ## Type of the risk
 
 * [Physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
 
+## Is the risk affecting GBN scales
+
+* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_1.md)
+
 ## Type of impact of the risk (according to ISO37100)
 
-* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_2.md)
+* [Innovation, creativity and research](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_2.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_3.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_3.md)
 
 ## Mitigations of this risk
 
-* [Development and implementation of standardized protocols and assays for sars-cov-2 detection in environmental samples can ensure consistency and comparability of data.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2164.md)
+* [Development and implementation of standardized protocols and assays for sars-cov-2 detection in environmental samples can ensure consistency and comparability of data.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2164.md)
 
 ## Name of the risk
 

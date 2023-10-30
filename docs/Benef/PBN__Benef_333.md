@@ -22,5 +22,5 @@ Providing designated community-level areas for essential services and supplies e
 
 ## Risks which can benefit from this action
 
-* [Designated community-level areas for essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_329.md)
+* [Designated community-level areas for essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_329.md)
 

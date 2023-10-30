@@ -21,5 +21,5 @@ Government decisions based on risk communication would lead to improved informat
 
 ## Risks which can benefit from this action
 
-* [Infuse risk communication into policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_922.md)
+* [Infuse risk communication into policy decisions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_922.md)
 

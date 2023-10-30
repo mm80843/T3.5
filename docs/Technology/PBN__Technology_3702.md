@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3702 
 
-# __Park design__
+# __Short distance__
 
 ## Category to which it belongs
 
-* [Strategies for equitable urban planning, development, and design, integrating green spaces, technology, and spatial optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1738.md)
-* [Temporary parks and green spaces can be created in parking lots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1037.md)
-* [Parks and recreation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_662.md)
-* [Public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1220.md)
-* [Temporary parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2067.md)
-* [Investment in park infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2830.md)
-* [Equitable distribution of parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2826.md)
-* [Park with workout stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3452.md)
-* [Landscape design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2812.md)
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
+* [Physical distance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2770.md)
+* [Gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2398.md)
+* [Distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_830.md)
+* [Iot devices for distance monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1543.md)
+* [Zoom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2611.md)
+* [Walking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2539.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2850.md)
+* [Positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3740.md)
+* [Far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3153.md)
+* [Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_831.md)
 
 ## This Technology enables the following mitigations
 
-* [Adequate green space allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5228.md)
+* [Face to face communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5029.md)
 

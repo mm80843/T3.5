@@ -1,28 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3681 
 
-# __Rt-qpcr__
+# __Cooperative frameworks__
 
 ## Category to which it belongs
 
-* [Advanced genomic analysis techniques, including real-time polymerase chain reaction pcr and digital pcr, are employed to analyze genetic material.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_249.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
-* [Rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2419.md)
-* [Rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2965.md)
-* [Qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
-* [Digital rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3215.md)
-* [Qrt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2043.md)
-* [Real-time rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3210.md)
-* [Digital rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2177.md)
-* [Improved rt-qpcr assays and sequencing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_58.md)
-* [Taqman rt-qpcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3213.md)
-* [Reverse transcription-quantitative polymerase chain reaction rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3630.md)
+* [Collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1130.md)
+* [Model sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3787.md)
+* [Coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1468.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
+* [Development of interoperability frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1638.md)
+* [Collaborative platforms and networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3817.md)
+* [Coordinated services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3453.md)
+* [Communication and coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1149.md)
+* [Collaboration mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2747.md)
+* [Collaboration platforms and emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2758.md)
 
 ## This Technology enables the following mitigations
 
-* [Wastewater-based surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5211.md)
-* [Viral enrichment protocol](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5212.md)
-* [Pmmov as an internal reference](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5214.md)
-* [Longitudinal analysis of wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5215.md)
+* [Stakeholder cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5000.md)
 

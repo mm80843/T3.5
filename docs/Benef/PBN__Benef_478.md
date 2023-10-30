@@ -20,5 +20,5 @@ Revamping education and training to meet the demand for flexible skill sets ensu
 
 ## Risks which can benefit from this action
 
-* [Revamp education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_494.md)
+* [Revamp education and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_494.md)
 

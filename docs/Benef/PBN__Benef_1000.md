@@ -20,5 +20,5 @@ Reduced water loss
 
 ## Risks which can benefit from this action
 
-* [Smart metering](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_999.md)
+* [Smart metering](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_999.md)
 

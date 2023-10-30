@@ -20,5 +20,5 @@ Valuable insights into disease processes and improved understanding of disease
 
 ## Risks which can benefit from this action
 
-* [Data mining for insights](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1006.md)
+* [Data mining for insights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1006.md)
 

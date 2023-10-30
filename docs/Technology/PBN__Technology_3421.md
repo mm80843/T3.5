@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3421 
 
-# __Social capital building__
+# __Pesticides__
 
 ## Category to which it belongs
 
-* [Promote community engagement and support through various initiatives, programs, campaigns, platforms, and networks, fostering social capital and volunteer involvement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_246.md)
+* [Combatting malaria and mitigating its impact through various means such as drugs, deterrents, treatments, surveillance, alternative materials, and pest control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
-* [Building social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3280.md)
-* [Social capital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2811.md)
-* [Fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3281.md)
-* [Designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2279.md)
-* [Social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
-* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3108.md)
-* [Placemaking initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1800.md)
-* [Community outreach](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1487.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
-* [Community planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2224.md)
+* [Insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3823.md)
+* [Development of new insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1947.md)
+* [Auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_978.md)
+* [Insecticide-treated screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3049.md)
+* [Pest control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3276.md)
+* [Rodenticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3071.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
+* [Insecticide-treated bed nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3822.md)
+* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2361.md)
+* [Integrated pest management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
 
 ## This Technology enables the following mitigations
 
-* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_693.md)
+* [Larvicides and adulticides](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4636.md)
 

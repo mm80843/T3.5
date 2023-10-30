@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2565 
 
-# __User-friendly formats__
+# __Rule-based system__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
-* [Standardised data formats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2539.md)
-* [Digital content creation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3237.md)
-* [User-friendly applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3366.md)
-* [User-friendly interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1586.md)
-* [Data standardization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1084.md)
-* [Simplified user interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1383.md)
-* [Standardized data recording structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_518.md)
-* [Web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3133.md)
-* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2515.md)
-* [Standardization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1637.md)
+* [Rule-based algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3197.md)
+* [Rule-based methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
+* [Expert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1145.md)
+* [Knowledge-base system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2566.md)
+* [Decision support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1315.md)
+* [Data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1317.md)
+* [Control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3605.md)
+* [Coordination systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1283.md)
+* [Smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2646.md)
+* [Ai support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2053.md)
 
 ## This Technology enables the following mitigations
 
-* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3632.md)
+* [Safe pedestrian navigation service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3419.md)
 

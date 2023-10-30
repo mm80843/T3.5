@@ -20,5 +20,5 @@ Planting insect-pollinated plants can reduce the amount of wind-blown pollen in 
 
 ## Risks which can benefit from this action
 
-* [Plant insect-pollinated plants instead of wind-pollinated ones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_80.md)
+* [Plant insect-pollinated plants instead of wind-pollinated ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_80.md)
 

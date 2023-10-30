@@ -1,31 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3088 
 
-# __Fifth-generation wireless networks__
-
-## Link between Blueprint and General ontology
-
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_0.md)
-* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_34.md)
-* [Massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_38.md)
+# __Smart infrastructure__
 
 ## Category to which it belongs
 
-* [Enhancing digital connectivity through internet-based communication, networking platforms, and wireless data transmission for efficient collaboration and reliable connectivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
-* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2980.md)
-* [Wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2396.md)
-* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3328.md)
-* [L5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
-* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1776.md)
-* [Small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3364.md)
-* [Internet and wi-fi networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2495.md)
-* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_643.md)
-* [Wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2609.md)
-* [Wireless data transmission 3g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2607.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
+* [Smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2646.md)
+* [Network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2174.md)
+* [Smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3882.md)
+* [It infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3383.md)
+* [Technology infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3265.md)
+* [Infrastructure support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2351.md)
+* [Smart city technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
+* [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2287.md)
 
 ## This Technology enables the following mitigations
 
-* [Tele-response bots](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4368.md)
+* [Iot-enabled hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4133.md)
 

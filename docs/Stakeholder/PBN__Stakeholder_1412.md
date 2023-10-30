@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [A comprehensive network of entities involved in sustainable, renewable, and efficient energy production, research, and distribution.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_448.md)
+* [The wide-ranging sectors and industries, from the private sector to energy and manufacturing, that drive global economies and the interconnectedness of businesses and industries worldwide.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
@@ -15,9 +15,9 @@
 * [Energy companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1003.md)
 * [Workers in the renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1411.md)
 * [Energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1581.md)
-* [Worker in the renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1739.md)
+* [Worker in the renewable energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1765.md)
 * [Clean energy sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_256.md)
-* [Energy company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1939.md)
+* [Energy company](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1989.md)
 
 ## Risks that can be mitigated by this stakeholder
 

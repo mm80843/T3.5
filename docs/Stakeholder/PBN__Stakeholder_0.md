@@ -44,7 +44,7 @@
 
 ## Category to which it belongs
 
-* [Public health authorities and agencies are responsible for regulating, monitoring, and promoting health in communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_403.md)
+* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
 
 ## Closest similar item
 
@@ -52,8 +52,8 @@
 * [Public health officials](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_310.md)
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_222.md)
 * [Public-health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_513.md)
-* [Public-health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1804.md)
-* [Public health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1805.md)
+* [Public-health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1842.md)
+* [Public health agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1843.md)
 * [Local health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1372.md)
 * [Public health](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_58.md)
 * [Public health officers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_818.md)
@@ -119,20 +119,20 @@
 * [Limited coordination across sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1986.md)
 * [Potential fecal-oral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1925.md)
 * [Risk of human infection from contact with contaminated solids fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1170.md)
+* [Lack of knowledge on the infectivity of wastewater-borne genetic material](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2316.md)
 * [Transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1086.md)
 * [Late adoption of nphis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1492.md)
 * [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1106.md)
 * [Risk of low viability period of sars-cov-2 on solids](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1171.md)
 * [Incidence disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1914.md)
 * [Inaccurate estimation of covid-19 prevalence from wastewater data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)
+* [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1927.md)
 * [Low public knowledge and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1985.md)
-* [Lack of knowledge on the infectivity of wastewater-borne genetic material](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2316.md)
 * [Increased prevalence of human schistosomiasis resulting from dam constructions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1649.md)
 * [Lack of reliable ai forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
 * [Spread before symptoms appear](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1732.md)
 * [Testing disparities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1913.md)
 * [Differential impact of measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1915.md)
-* [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1927.md)
 
 ## Risk affecting this stakeholder
 
@@ -142,6 +142,6 @@
 * [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1360.md)
 * [Limited coordination across sub-populations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1986.md)
 * [Inaccurate estimation of covid-19 prevalence from wastewater data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1928.md)
-* [Lack of reliable ai forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
 * [False positive reactions in wastewater testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1927.md)
+* [Lack of reliable ai forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
 

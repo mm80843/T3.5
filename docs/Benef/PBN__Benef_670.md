@@ -20,5 +20,5 @@ NPIs such as handwashing, wearing masks, and social distancing have been shown t
 
 ## Risks which can benefit from this action
 
-* [Non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_666.md)
+* [Non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_666.md)
 

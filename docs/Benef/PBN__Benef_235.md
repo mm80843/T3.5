@@ -20,5 +20,5 @@ Effective air filtration systems can eliminate viruses and reduce the risk of ai
 
 ## Risks which can benefit from this action
 
-* [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_224.md)
+* [Efficiency of air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_224.md)
 

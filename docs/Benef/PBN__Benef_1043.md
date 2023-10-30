@@ -21,5 +21,5 @@ Improving capacity for essential vector control operations can enhance the abili
 
 ## Risks which can benefit from this action
 
-* [Improving capacity for essential vector control operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1048.md)
+* [Improving capacity for essential vector control operations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1048.md)
 

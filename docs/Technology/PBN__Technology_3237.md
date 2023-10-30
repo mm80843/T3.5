@@ -1,29 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3237 
 
-# __Digital content creation tools__
+# __Smartphone control systems__
 
 ## Link between Blueprint and General ontology
 
-* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_62.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_19.md)
 
 ## Category to which it belongs
 
-* [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+* [Digital tools and technologies facilitating various functions and services on mobile devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
-* [Digital tools and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2748.md)
-* [Digital tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2515.md)
-* [Digital integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3238.md)
-* [Web development tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3680.md)
-* [Software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2160.md)
-* [Web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3133.md)
-* [Virtual collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_131.md)
-* [Digital management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2036.md)
-* [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_717.md)
-* [Collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
+* [Smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2399.md)
+* [Smartphone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2573.md)
+* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_65.md)
+* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3518.md)
+* [Control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3605.md)
+* [Smartphone apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3737.md)
+* [Mobile interface](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2781.md)
+* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3399.md)
+* [Smartphone app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3535.md)
+* [Mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3802.md)
 
 ## This Technology enables the following mitigations
 
-* [E-learning packages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4609.md)
+* [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4250.md)
 

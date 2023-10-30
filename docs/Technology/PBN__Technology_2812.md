@@ -1,26 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2812 
 
-# __Landscape design__
+# __Support__
 
 ## Category to which it belongs
 
-* [Strategies for equitable urban planning, development, and design, integrating green spaces, technology, and spatial optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
+* [Various forms of financial support and assistance, including government programs, funding initiatives, microfinance, cash transfer, and community outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
 
 ## Closest similar item
 
-* [Landscape architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_121.md)
-* [Landscape design and integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
-* [Landscape ground](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3447.md)
-* [Landscaped grounds](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1733.md)
-* [Landscaping techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_921.md)
-* [Landscaping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_963.md)
-* [Landscaping materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
-* [Spatial layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2787.md)
-* [Park design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3702.md)
-* [Terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3553.md)
+* [Community support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3448.md)
+* [Support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2802.md)
+* [Support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_805.md)
+* [Legal support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2495.md)
+* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_317.md)
+* [Welfare support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
+* [Community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
+* [Support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1490.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_605.md)
+* [Technical support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1594.md)
 
 ## This Technology enables the following mitigations
 
-* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4018.md)
-* [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4019.md)
+* [Well-being support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3749.md)
 

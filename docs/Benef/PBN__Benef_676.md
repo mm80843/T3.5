@@ -21,5 +21,5 @@ Stringent compliance with OSHA regulations ensures a safe and healthy working en
 
 ## Risks which can benefit from this action
 
-* [Improved occupational safety and health administration osha compliance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_671.md)
+* [Improved occupational safety and health administration osha compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_671.md)
 

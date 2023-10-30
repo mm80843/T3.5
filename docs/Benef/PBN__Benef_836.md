@@ -22,5 +22,5 @@ Implementing risk management strategies can help mitigate financial risks associ
 
 ## Risks which can benefit from this action
 
-* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_836.md)
+* [Risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_836.md)
 

@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [An array of systems and tools for real-time monitoring, surveillance, and control of various environmental, health, and safety parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
+* [Firewalls and intrusion detection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
 * [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1879.md)
 * [Cybersecurity technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1574.md)
 * [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
 * [Data monitoring and analysis systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1486.md)
-* [Smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2478.md)
+* [Smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2646.md)
 * [Data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1314.md)
-* [Alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2926.md)
-* [Object detection algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3541.md)
+* [Alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3091.md)
+* [Object detection algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3706.md)
 * [Notifications systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1324.md)
-* [Cybersecurity protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_577.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2191.md)
 
 ## This technology is mentioned by
 
@@ -29,7 +29,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Firewalls and intrusion detection systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_144.md)
+* [Firewalls and intrusion detection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
 
 ## Risks linked to this technology
 

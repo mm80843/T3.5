@@ -21,5 +21,5 @@ Decentralizing data ownership and establishing secure transmission of biometric 
 
 ## Risks which can benefit from this action
 
-* [Decentralizing data ownership and establishing secure transmission of biometric data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_950.md)
+* [Decentralizing data ownership and establishing secure transmission of biometric data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_950.md)
 

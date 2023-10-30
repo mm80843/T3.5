@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2882 
 
-# __Housing quality__
+# __Eagle minimal essential media__
 
 ## Category to which it belongs
 
-* [Strategies for equitable urban planning, development, and design, integrating green spaces, technology, and spatial optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
-* [Housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_454.md)
-* [Housing policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3703.md)
-* [Affordable and sustainable housing solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_90.md)
-* [Housing developers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1394.md)
-* [Indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3684.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
-* [Community amenities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_170.md)
-* [Ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1779.md)
-* [Number of building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3254.md)
+* [Print media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2968.md)
+* [Media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1284.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3022.md)
+* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3714.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
+* [Digital content creation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3402.md)
+* [Lightweight materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3671.md)
+* [Bird deterrent devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_962.md)
+* [Owl 2](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3351.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_335.md)
 
 ## This Technology enables the following mitigations
 
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4077.md)
+* [Eagle minimal essential media mem](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3849.md)
 

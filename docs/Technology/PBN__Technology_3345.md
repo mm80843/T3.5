@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3345 
 
-# __Pcr techniques__
+# __Multi-criteria decision analysis__
 
 ## Category to which it belongs
 
-* [Advanced genomic analysis techniques, including real-time polymerase chain reaction pcr and digital pcr, are employed to analyze genetic material.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_249.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
-* [Pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2296.md)
-* [Quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
-* [Digital pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2044.md)
-* [Rt-pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2722.md)
-* [Digital rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2177.md)
-* [Pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2300.md)
-* [Rt-pcr test](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2622.md)
-* [Rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2419.md)
-* [Qrt pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2655.md)
-* [Qpcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3346.md)
+* [Adaptive criteria](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3451.md)
+* [Effective decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_536.md)
+* [Data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_16.md)
+* [Policy analysis and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1201.md)
+* [Decision support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1315.md)
+* [Data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1976.md)
+* [Rule-based methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
+* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2736.md)
+* [Advanced data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2259.md)
+* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2423.md)
 
 ## This Technology enables the following mitigations
 
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
+* [Value-based decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4545.md)
 

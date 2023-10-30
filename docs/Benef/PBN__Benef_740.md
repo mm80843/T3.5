@@ -21,5 +21,5 @@ Improved coordination and communication in the supply chain can ensure the avail
 
 ## Risks which can benefit from this action
 
-* [Standardization of protocols and networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_735.md)
+* [Standardization of protocols and networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_735.md)
 

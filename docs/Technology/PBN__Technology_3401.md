@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3401 
 
-# __Covered spaces with soft walls__
+# __Online forums__
 
 ## Category to which it belongs
 
-* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
-* [Thick walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2187.md)
-* [Movable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2223.md)
-* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
-* [Glass walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
-* [Flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3394.md)
-* [Adjustable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3495.md)
-* [Specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
-* [Roof spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1736.md)
-* [Containment spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3398.md)
-* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1269.md)
+* [Online community forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_425.md)
+* [Forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1536.md)
+* [Discussion forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1426.md)
+* [Online support forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1246.md)
+* [Online support groups and forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1442.md)
+* [Online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
+* [Online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1402.md)
+* [Online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3687.md)
+* [Online communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3404.md)
+* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
 
 ## This Technology enables the following mitigations
 
-* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4863.md)
+* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_472.md)
 

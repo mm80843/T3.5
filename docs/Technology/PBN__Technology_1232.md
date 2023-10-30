@@ -4,28 +4,28 @@
 
 ## Link between Blueprint and General ontology
 
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_4.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_4.md)
 
 ## Category to which it belongs
 
-* [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
+* [Contract and financial management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
 * [Contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_458.md)
 * [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
 * [Partnership agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_445.md)
-* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2196.md)
+* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2364.md)
 * [Temporary use agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1801.md)
-* [Contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
+* [Contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3498.md)
 * [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
-* [Collaboration agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3532.md)
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2090.md)
-* [Procurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2792.md)
+* [Collaboration agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3697.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2241.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_10.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2241.md)
 
 ## This technology is mentioned by
 
@@ -34,11 +34,11 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_169.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2241.md)
 
 ## This Technology enables the following mitigations
 
-* [Simplified loan and insurance services during the crisis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4763.md)
+* [Simplified loan and insurance services during the crisis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4763.md)
 
 ## Risks linked to this technology
 

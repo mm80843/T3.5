@@ -21,5 +21,5 @@ Improved identification and monitoring of high-risk individuals through data int
 
 ## Risks which can benefit from this action
 
-* [Big data analytics for case identification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_99.md)
+* [Big data analytics for case identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_99.md)
 

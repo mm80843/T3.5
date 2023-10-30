@@ -20,5 +20,5 @@ Ensuring continuity of essential services such as healthcare, groceries, and pha
 
 ## Risks which can benefit from this action
 
-* [Continuity of essential services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_436.md)
+* [Continuity of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_436.md)
 

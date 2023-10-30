@@ -1,29 +1,30 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2202 
 
-# __Uniformity of protocols__
+# __Blockchain and quantum cryptography__
 
 ## Link between Blueprint and General ontology
 
-* [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_104.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_4.md)
 
 ## Category to which it belongs
 
-* [Enhanced cybersecurity measures and protocols ensure the secure and protected transmission, storage, and access of sensitive data.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
+* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
-* [Protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_154.md)
-* [Standardized protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_115.md)
-* [Secure protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3627.md)
-* [Containment protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2.md)
-* [Testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_265.md)
-* [Reliable communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_325.md)
-* [Authentication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_398.md)
+* [Quantum cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_95.md)
+* [Blockchain and cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2241.md)
+* [Blockchain technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2364.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
 * [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_397.md)
-* [Standardization of testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1102.md)
-* [Cybersecurity protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_577.md)
+* [Encryption and security algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2193.md)
+* [Blockchain technology for supply chain transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1630.md)
+* [Encryption and authentication nan technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1568.md)
+* [Encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_315.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechnologySubgroup
 
-* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3206.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
+* [Quantum cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_95.md)
 

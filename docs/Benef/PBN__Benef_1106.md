@@ -20,5 +20,5 @@ Collaborative projects enable coordination and harmonization of data, leading to
 
 ## Risks which can benefit from this action
 
-* [Collaborative projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1120.md)
+* [Collaborative projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1120.md)
 

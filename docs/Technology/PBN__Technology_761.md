@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [Innovative technologies and materials combat pathogens, enhance disinfection, and advance research in antiviral therapies and detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Pharmacies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
+* [Pharmacies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3729.md)
 * [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
-* [Medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3095.md)
+* [Medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3260.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_339.md)
 * [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
 * [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
-* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2534.md)
-* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3266.md)
+* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2702.md)
+* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3431.md)
 * [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
-* [Biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2125.md)
+* [Biotechnology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2293.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
 
 ## This technology is mentioned by
 
@@ -29,7 +29,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Vaccines and therapies](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_100.md)
+* [Vaccines and therapies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2148.md)
 
 ## Risks linked to this technology
 

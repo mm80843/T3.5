@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The challenges in the field of testing and drug development, including limited capacity, slow processes, and the need for improved detection methods, hamper the identification and control of cases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_134.md)
+* [The challenges include inadequate monitoring and contact tracing, limited sensor diversity, and temporary regulations to restrict activities in public places.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_16.md)
 
 ## Closest similar item
 
@@ -12,14 +12,14 @@
 * [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3269.md)
 * [Incomplete detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2442.md)
 * [Transmission, detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2640.md)
-* [Development of expert systems and mobile applications for early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3599.md)
-* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3601.md)
-* [Development of a mobile application with an expert system for early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3600.md)
 * [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
 * [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_684.md)
-* [Ai for rapid identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3519.md)
+* [Early detection of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3228.md)
+* [Limited monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2455.md)
+* [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2329.md)
+* [Inaccurate identification and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
 
 ## Mitigations of this risk
 
-* [Integration of new technologies digital pcr, csrpp, loc/poc, biosensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
+* [Integration of new technologies digital pcr, csrpp, loc/poc, biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_878.md)
 

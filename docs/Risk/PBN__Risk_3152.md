@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Spread of contagious diseases and pathogens, including zoonotic infections, through various transmission routes and environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
+* [The repercussions of domestic violence, the pandemic’s transmission, extreme events, population dynamics, and systemic vulnerabilities persist.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_1.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Avoid touching face](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4570.md)
+* [Avoid touching face](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4570.md)
 

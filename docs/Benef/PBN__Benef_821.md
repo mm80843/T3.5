@@ -20,5 +20,5 @@ Well-designed balconies with proper orientation can enhance natural ventilation 
 
 ## Risks which can benefit from this action
 
-* [Balcony design and orientation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_819.md)
+* [Balcony design and orientation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_819.md)
 

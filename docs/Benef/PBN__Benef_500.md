@@ -20,5 +20,5 @@ Installing physical barriers in the workplace ensures that workers are not in cl
 
 ## Risks which can benefit from this action
 
-* [Engineering controls physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_514.md)
+* [Engineering controls physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_514.md)
 

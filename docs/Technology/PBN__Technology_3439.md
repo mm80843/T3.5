@@ -1,29 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3439 
 
-# __Surface classification__
-
-## Link between Blueprint and General ontology
-
-* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_243.md)
+# __Green building strategies__
 
 ## Category to which it belongs
 
-* [Protection measures include face masks, personal protective equipment, facial recognition, education on masks, barriers, and physical distancing markers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
+* [Increasing access to and incorporating elements of nature into urban environments can enhance the quality and availability of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_139.md)
 
 ## Closest similar item
 
-* [Facial recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
-* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3473.md)
-* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2033.md)
-* [Remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
-* [Image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2234.md)
-* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2387.md)
-* [Vision algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3691.md)
-* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2975.md)
-* [Facial recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1355.md)
-* [Surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_791.md)
+* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1030.md)
+* [Green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3232.md)
+* [Green space planning strategies and design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_723.md)
+* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1871.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
+* [Urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_840.md)
+* [Urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1618.md)
+* [Urban planning and design strategies for green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_453.md)
+* [Green space management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2762.md)
+* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_50.md)
 
 ## This Technology enables the following mitigations
 
-* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_216.md)
+* [Sustainable building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4668.md)
 

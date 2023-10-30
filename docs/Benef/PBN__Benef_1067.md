@@ -20,5 +20,5 @@ Maintaining comfortable indoor temperatures improves cognitive performance and p
 
 ## Risks which can benefit from this action
 
-* [Implement cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1078.md)
+* [Implement cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1078.md)
 

@@ -1,30 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3003 
 
-# __Location and bluetooth data__
-
-## Link between Blueprint and General ontology
-
-* [Gps location](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_158.md)
-* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_160.md)
+# __Waste disposal infrastructure__
 
 ## Category to which it belongs
 
-* [A compilation of various mobile apps and technologies used for reporting, contact tracing, banking, scheduling, and other functions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
-* [Bluetooth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2229.md)
-* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2587.md)
-* [Gps location](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2963.md)
-* [Bluetooth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1382.md)
-* [Cell phone data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3207.md)
-* [Location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2922.md)
-* [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1683.md)
-* [Mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3624.md)
-* [Gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2230.md)
-* [Bluetooth low energy ble technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3330.md)
+* [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_92.md)
+* [Improved waste management infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_944.md)
+* [Proper disposal](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3622.md)
+* [Waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_865.md)
+* [Waste management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2222.md)
+* [Recycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2001.md)
+* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2360.md)
+* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2171.md)
+* [Waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3626.md)
+* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3046.md)
 
 ## This Technology enables the following mitigations
 
-* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4257.md)
+* [Improved waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4042.md)
 

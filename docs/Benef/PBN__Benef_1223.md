@@ -20,5 +20,5 @@ Immediate and proximate threat prompts swift action to protect personal health.
 
 ## Risks which can benefit from this action
 
-* [Immediate response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1231.md)
+* [Immediate response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1231.md)
 

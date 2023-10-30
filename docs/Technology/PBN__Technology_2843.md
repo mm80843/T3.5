@@ -1,29 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2843 
 
-# __Local supply chains__
-
-## Link between Blueprint and General ontology
-
-* [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_99.md)
+# __Ethical considerations and responsible building practices__
 
 ## Category to which it belongs
 
-* [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
-* [Local supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2212.md)
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2818.md)
-* [Local food supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1781.md)
-* [Local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1605.md)
-* [Local sourcing networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
-* [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
-* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_110.md)
-* [Supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1790.md)
-* [Diversification of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_531.md)
-* [Supply chain management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_132.md)
+* [Building codes and standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2180.md)
+* [Ethical guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1430.md)
+* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_62.md)
+* [Sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
+* [Housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_454.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3429.md)
+* [Building design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2257.md)
+* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
+* [Ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_318.md)
+* [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2785.md)
 
 ## This Technology enables the following mitigations
 
-* [Diversified and localized production systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4045.md)
+* [Value-driven design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3789.md)
 

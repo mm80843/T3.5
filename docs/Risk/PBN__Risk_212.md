@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Widening wealth gaps, global interconnectedness, pandemic, declining investment, reduced tourism revenue—economic instabilities and disparities impact various sectors and groups.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
+* [The pandemic has led to a decrease in in-person surgical education, loss of control, temporary panic from cruise ship docking, limited social distancing, and decreased morale.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_20.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_254.md)
+* [Focus on safety and security issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_254.md)
 

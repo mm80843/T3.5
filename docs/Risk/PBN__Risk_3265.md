@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The repercussions of climate change, environmental damage, and the pandemic’s environmental impacts necessitate urgent and comprehensive global climate action.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
+* [The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_38.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Development pathways synchronized to the ndcs of the paris accord or the findings of the ipcc](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4852.md)
+* [Development pathways synchronized to the ndcs of the paris accord or the findings of the ipcc](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4852.md)
 

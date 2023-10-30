@@ -1,28 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2662 
 
-# __Waste management systems__
+# __Smart home systems__
 
 ## Category to which it belongs
 
-* [Improvements in sanitation, waste management, and water treatment to ensure efficient and sustainable infrastructure and practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_243.md)
+* [A comprehensive collection of iot devices, sensors, and monitoring systems for remote monitoring, measurement, and environmental control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_117.md)
 
 ## Closest similar item
 
-* [Waste management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_865.md)
-* [Waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
-* [Waste management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3461.md)
-* [Improved waste management infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_944.md)
-* [Solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2881.md)
-* [Sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3763.md)
-* [Waste segregation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1845.md)
-* [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_92.md)
-* [Waste disposal infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2838.md)
-* [Waste separation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3493.md)
+* [Smart home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1013.md)
+* [Smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_349.md)
+* [Smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2646.md)
+* [Smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2585.md)
+* [Smart city and home technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2156.md)
+* [Home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2586.md)
+* [Energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_866.md)
+* [Smart lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1830.md)
+* [Smart grid systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_352.md)
+* [Smart hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1979.md)
 
 ## This Technology enables the following mitigations
 
-* [Disinfection of household waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_237.md)
-* [Segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5045.md)
-* [Improved waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5055.md)
-* [Improved waste disposal](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3774.md)
+* [Housing automation and electromagnetic fields](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3548.md)
 

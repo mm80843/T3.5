@@ -20,5 +20,5 @@ Green spaces can promote physical activities, improving overall health and immun
 
 ## Risks which can benefit from this action
 
-* [Preserving and developing forests and other green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_649.md)
+* [Preserving and developing forests and other green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_649.md)
 

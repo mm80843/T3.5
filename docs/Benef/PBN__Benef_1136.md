@@ -20,5 +20,5 @@ Users can access the latest information about COVID-19, including prevention mea
 
 ## Risks which can benefit from this action
 
-* [Inclusion of covid-19 prevention and mitigation information in the mobile application using web scraping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1142.md)
+* [Inclusion of covid-19 prevention and mitigation information in the mobile application using web scraping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1142.md)
 

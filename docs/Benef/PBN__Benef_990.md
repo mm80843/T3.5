@@ -21,5 +21,5 @@ Validates the presence of SARS-CoV-2 in wastewater and detects specific strains,
 
 ## Risks which can benefit from this action
 
-* [Sequencing wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_990.md)
+* [Sequencing wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_990.md)
 

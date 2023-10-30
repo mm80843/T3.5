@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3398 
 
-# __Containment spaces__
+# __Teleconferencing tools__
+
+## Link between Blueprint and General ontology
+
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_23.md)
 
 ## Category to which it belongs
 
-* [Promotion of green spaces and various types of outdoor areas for physical activity, recreation, and community engagement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
+* [Virtual healthcare and remote communication technology for medical diagnosis, therapy, and consultation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
 
 ## Closest similar item
 
-* [Containment protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2.md)
-* [Designated space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2219.md)
-* [Physical space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2314.md)
-* [Intermediate spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3450.md)
-* [Open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2220.md)
-* [Adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2485.md)
-* [Green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
-* [Communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3148.md)
-* [Designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2279.md)
-* [Covered spaces with soft walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3401.md)
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
+* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_386.md)
+* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3519.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3494.md)
+* [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
+* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_242.md)
+* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_952.md)
+* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1419.md)
+* [Telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2326.md)
+* [Secure telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1811.md)
 
 ## This Technology enables the following mitigations
 
-* [Adaptation of healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4862.md)
+* [Remote work and distance learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4605.md)
 

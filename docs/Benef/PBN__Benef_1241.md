@@ -22,5 +22,5 @@ Clearer communication and analysis of public spaces, better decision-making
 
 ## Risks which can benefit from this action
 
-* [Creating a new vocabulary or typology to describe public spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1257.md)
+* [Creating a new vocabulary or typology to describe public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1257.md)
 

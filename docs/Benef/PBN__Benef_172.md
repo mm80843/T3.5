@@ -20,5 +20,5 @@ Good acoustic design reduces noise levels, lowers stress levels, and increases o
 
 ## Risks which can benefit from this action
 
-* [Improved acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_152.md)
+* [Improved acoustic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_152.md)
 

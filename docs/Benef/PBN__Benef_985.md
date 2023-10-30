@@ -20,5 +20,5 @@ Living close to high-quality urban green spaces is associated with positive impa
 
 ## Risks which can benefit from this action
 
-* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_982.md)
+* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_982.md)
 

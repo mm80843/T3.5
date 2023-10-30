@@ -4,16 +4,16 @@
 
 ## Category to which it belongs
 
-* [Individuals in confined, crowded, and subpar indoor environments where ventilation and air quality are compromised.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_433.md)
+* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 
 * [Public health authorities and meteorological agencies are responsible for monitoring and regulating indoor and outdoor conditions to reduce influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1134.md)
 * [People in indoor environments during an epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1185.md)
-* [Person in indoor environment during an epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2254.md)
+* [Person in indoor environment during an epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2341.md)
 * [Public health authorities are responsible for regulating humidity levels in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1131.md)
 * [Particularly those in buildings with inadequate air disinfection measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1162.md)
-* [Particularly those in building with inadequate air disinfection measure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2217.md)
+* [Particularly those in building with inadequate air disinfection measure](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2302.md)
 * [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
 * [Occupants of buildings with poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1198.md)
 * [Visitors in poorly ventilated indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1288.md)

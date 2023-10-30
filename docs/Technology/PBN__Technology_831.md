@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
@@ -12,16 +12,16 @@
 * [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
 * [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1878.md)
 * [Partition barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1654.md)
-* [Barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2510.md)
-* [Plastic barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3407.md)
+* [Barriers such as plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2678.md)
+* [Plastic barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3572.md)
 * [Noise barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_960.md)
+* [Physical barriers and signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2189.md)
 * [Physical barrier installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_798.md)
-* [Physical barrier materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3307.md)
-* [Barricades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_367.md)
+* [Physical barrier materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3472.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
 
 ## This technology is mentioned by
 
@@ -29,12 +29,12 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Physical barriers and signage](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_132.md)
+* [Physical barriers and signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2189.md)
 
 ## This Technology enables the following mitigations
 
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1062.md)
-* [Restricting access to public parks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5018.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1062.md)
+* [Restricting access to public parks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5018.md)
 
 ## Risks linked to this technology
 

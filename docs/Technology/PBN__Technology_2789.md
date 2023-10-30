@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2789 
 
-# __Hand hygiene products and facilities__
+# __Power management systems__
+
+## Link between Blueprint and General ontology
+
+* [Energy Management](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_29.md)
 
 ## Category to which it belongs
 
-* [Enhanced cleaning practices, hygiene supplies, and proper cleaning procedures ensure optimal cleanliness and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
+* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
-* [Hand hygiene stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_247.md)
-* [Hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1164.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_507.md)
-* [Hand hygiene guidance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2078.md)
-* [Education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_856.md)
-* [Hand-washing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2362.md)
-* [Hygiene supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_766.md)
-* [Hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2955.md)
-* [Touchless technologies for hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1526.md)
-* [Increased provision of hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_290.md)
+* [Energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_322.md)
+* [Home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2586.md)
+* [Improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_181.md)
+* [Smart grid systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_352.md)
+* [Energy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_350.md)
+* [Energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3907.md)
+* [Smart home energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2585.md)
+* [Smart energy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_324.md)
+* [Energy storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1763.md)
+* [Energy and resource management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2168.md)
 
 ## This Technology enables the following mitigations
 
-* [Implement hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3959.md)
+* [Stand-by load](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3721.md)
 

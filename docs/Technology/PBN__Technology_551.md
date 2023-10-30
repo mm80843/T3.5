@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [An array of systems and tools for real-time monitoring, surveillance, and control of various environmental, health, and safety parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
+* [Implementing measures and protocols to ensure the protection and well-being of individuals in various emergency situations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_134.md)
 
 ## Closest similar item
 
 * [Improved surveillance and early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_885.md)
+* [Risk detection and early response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2212.md)
 * [Early detection and response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_524.md)
-* [Alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2926.md)
-* [Alarms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3204.md)
+* [Alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3091.md)
+* [Alarms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3369.md)
 * [Safety monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1234.md)
 * [Notifications systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1324.md)
 * [Safety awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1667.md)
 * [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
 * [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1127.md)
-* [Comprehensive risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2306.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
 
 ## This technology is mentioned by
 
@@ -31,7 +31,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Data management and communication systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_18.md)
+* [Data management and communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2060.md)
 
 ## Risks linked to this technology
 

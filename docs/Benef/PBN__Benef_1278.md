@@ -20,5 +20,5 @@ Selecting project sites away from breeding sites such as open surface water bodi
 
 ## Risks which can benefit from this action
 
-* [Selection of project sites away from breeding sites](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1298.md)
+* [Selection of project sites away from breeding sites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1298.md)
 

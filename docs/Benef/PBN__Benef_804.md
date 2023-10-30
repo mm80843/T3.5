@@ -20,5 +20,5 @@ Proper management of water supply and wastewater reduces health risks and ensure
 
 ## Risks which can benefit from this action
 
-* [Water consumption and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_802.md)
+* [Water consumption and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_802.md)
 

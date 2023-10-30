@@ -21,5 +21,5 @@ AI technology can optimize testing strategies and prioritize high-risk groups fo
 
 ## Risks which can benefit from this action
 
-* [Ai for testing optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_652.md)
+* [Ai for testing optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_652.md)
 

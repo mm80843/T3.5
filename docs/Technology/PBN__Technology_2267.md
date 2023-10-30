@@ -1,26 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2267 
 
-# __Workshops__
+# __Uv-c disinfection__
 
 ## Category to which it belongs
 
-* [Building design and construction practices prioritize sustainability, incorporate innovative technology, and consider social equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
+* [The advancement and use of various technologies and materials for the purpose of eliminating microorganisms and promoting cleanliness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
-* [Offer workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1914.md)
-* [Community workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1180.md)
-* [Virtual classes and workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_417.md)
-* [Safety workshops and trainings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1668.md)
-* [Meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2346.md)
-* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
-* [Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
-* [Courses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2268.md)
-* [Expertise and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2210.md)
-* [Procurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2792.md)
+* [Uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1625.md)
+* [Uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2055.md)
+* [Uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1024.md)
+* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
+* [Uv disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1141.md)
+* [Uv light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2279.md)
+* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1251.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Water disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2658.md)
+* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1983.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3272.md)
-* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3364.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2238.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Purification and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2134.md)
 

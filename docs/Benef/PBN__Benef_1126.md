@@ -20,5 +20,5 @@ Opening windows can help to remove odors and smoke from specific rooms, improvin
 
 ## Risks which can benefit from this action
 
-* [Opening windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1133.md)
+* [Opening windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1133.md)
 

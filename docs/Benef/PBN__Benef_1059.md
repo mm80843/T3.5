@@ -22,5 +22,5 @@ Knowledge exchange promotes effective responses to challenges and increases resi
 
 ## Risks which can benefit from this action
 
-* [Knowledge exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1067.md)
+* [Knowledge exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1067.md)
 

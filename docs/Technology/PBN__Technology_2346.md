@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2346 
 
-# __Meetings__
+# __Electronic products for human-computer interaction__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
-* [Online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2360.md)
-* [Virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_628.md)
-* [Online meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1658.md)
-* [Virtual meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3134.md)
-* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
-* [Community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
-* [Appointment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1293.md)
-* [Community workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1180.md)
-* [Collaboration with other groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2597.md)
-* [Workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2267.md)
+* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2408.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2965.md)
+* [User-friendly interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1586.md)
+* [Computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3464.md)
+* [Simplified user interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1383.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
+* [Technological tracking device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2766.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2579.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
+* [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3318.md)
 
 ## This Technology enables the following mitigations
 
-* [Communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3367.md)
+* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1176.md)
 

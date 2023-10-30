@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3169 
 
-# __Digital twins__
+# __Medical imaging techniques__
 
 ## Category to which it belongs
 
-* [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
-* [Digital twin](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2970.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
-* [Expansion of digital](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1873.md)
-* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
-* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
-* [Digitalplatform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3728.md)
-* [Digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3375.md)
-* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3099.md)
-* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2801.md)
-* [Digital integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3619.md)
+* [Ultrasound imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3857.md)
+* [Digital imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3603.md)
+* [Thermal imaging technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3602.md)
+* [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2027.md)
+* [Image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2402.md)
+* [Surgical techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2726.md)
+* [Artificial intelligence and ct imaging data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3215.md)
+* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2599.md)
+* [Thermographic cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3461.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
 
 ## This Technology enables the following mitigations
 
-* [Remote control of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4537.md)
+* [Ai-based diagnosis and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4258.md)
 

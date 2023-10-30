@@ -20,5 +20,5 @@ Continuous monitoring and data analysis allows for real-time intervention and re
 
 ## Risks which can benefit from this action
 
-* [Implement digital twin framework](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_199.md)
+* [Implement digital twin framework](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_199.md)
 

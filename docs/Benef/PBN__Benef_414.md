@@ -20,5 +20,5 @@ Implementing regular health monitoring measures, such as temperature checks and 
 
 ## Risks which can benefit from this action
 
-* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_419.md)
+* [Worker health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_419.md)
 

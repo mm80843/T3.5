@@ -4,28 +4,28 @@
 
 ## Category to which it belongs
 
-* [Residents in need of safe housing, especially those facing financial instability or the challenges of domestic violence.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_424.md)
+* [Individuals with ownership, control, or responsibility over various properties, businesses, data, or belongings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_213.md)
 
 ## Closest similar item
 
-* [Renter](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2398.md)
-* [Landlords](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1942.md)
+* [Renter](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2503.md)
+* [Landlords](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1992.md)
 * [Low-income renters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_112.md)
 * [Apartment owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_334.md)
 * [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_281.md)
-* [Landlord](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1929.md)
+* [Landlord](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1979.md)
 * [Homeowners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_478.md)
 * [Apartment residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_356.md)
 * [Housing developers and landlords](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_609.md)
-* [Tenant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1861.md)
+* [Tenant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1908.md)
 
 ## This Stakeholder belongs to this StakeholderGroup
 
-* [Housing and property](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_10.md)
+* [Housing and property](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2502.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_65.md)
+* [Tenants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_281.md)
 
 ## Risk affecting this stakeholder
 

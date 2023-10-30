@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3496 
 
-# __Screens__
+# __Uavs__
 
 ## Category to which it belongs
 
-* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Large screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
-* [Led screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3205.md)
-* [Screens or mesh materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3659.md)
-* [Lcd panel](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2696.md)
-* [Screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_391.md)
-* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
-* [Television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3121.md)
-* [Computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3299.md)
-* [Insecticide-treated screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2884.md)
-* [Mobile devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
+* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2289.md)
+* [Risk detection systems and drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2214.md)
+* [Drone technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2570.md)
+* [Drones for medical supply delivery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1169.md)
+* [Robots, drones & automated vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3899.md)
+* [Nfv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3522.md)
+* [Robotic and drone technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2162.md)
+* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_414.md)
+* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
 
 ## This Technology enables the following mitigations
 
-* [Flexible building systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4985.md)
+* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4764.md)
 

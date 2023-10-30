@@ -20,5 +20,5 @@ Structured activities, maintenance of routines, and linkages to social and menta
 
 ## Risks which can benefit from this action
 
-* [Stress management and coping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_829.md)
+* [Stress management and coping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_829.md)
 

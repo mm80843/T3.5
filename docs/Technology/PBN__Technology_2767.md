@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2767 
 
-# __Behavior change analysis__
+# __Symptom monitoring__
 
 ## Category to which it belongs
 
-* [Efforts to inform, educate, and enforce regulations, policies, and preparedness strategies for public safety and effective governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
+* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
-* [Behavior change programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_656.md)
-* [Social behavior analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2764.md)
-* [Behavioral change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_778.md)
-* [User behavior](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2783.md)
-* [Evaluation and adaptation of temporary changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_726.md)
-* [Policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_443.md)
-* [Behaviour transition matrix](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2868.md)
-* [Data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2568.md)
-* [Compliance measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1644.md)
-* [Modeling and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3414.md)
+* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2412.md)
+* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1000.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
+* [Diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2215.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
+* [Diagnostic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3520.md)
+* [Enhanced diagnostic techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2027.md)
+* [Rapid diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3126.md)
+* [Remote monitoring and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_468.md)
 
 ## This Technology enables the following mitigations
 
-* [Analysis of root causes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3908.md)
+* [Case-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3690.md)
 

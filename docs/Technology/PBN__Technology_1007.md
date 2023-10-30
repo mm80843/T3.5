@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -12,16 +12,16 @@
 * [Private balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1735.md)
 * [Balconies in apartment designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1264.md)
 * [Barricades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_367.md)
-* [Balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2918.md)
-* [Terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3553.md)
+* [Balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3083.md)
+* [Terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3718.md)
 * [Community amenities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_170.md)
-* [Shelter facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2156.md)
-* [Air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2883.md)
-* [Rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3409.md)
+* [Shelter facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2324.md)
+* [Air conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3048.md)
+* [Rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3574.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
 
 ## This technology is mentioned by
 
@@ -32,9 +32,9 @@
 
 ## This Technology enables the following mitigations
 
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5041.md)
-* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4507.md)
-* [Presence of green spaces and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4114.md)
+* [Connection to nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4507.md)
+* [Presence of green spaces and natural elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4114.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5041.md)
 
 ## Risks linked to this technology
 

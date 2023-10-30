@@ -8,5 +8,5 @@ theme_Information_management
 
 ## Category to which it belongs
 
-* [Effective organization and control of data and knowledge to facilitate decision-making and strategic planning.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_511.md)
+* [Effective organization and control of data to facilitate efficient access and utilization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_279.md)
 

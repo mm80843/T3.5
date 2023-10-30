@@ -20,5 +20,5 @@ Leveraging partnerships, networks, and social capital to access resources
 
 ## Risks which can benefit from this action
 
-* [Relational capabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_785.md)
+* [Relational capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_785.md)
 

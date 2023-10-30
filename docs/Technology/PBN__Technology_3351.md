@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3351 
 
-# __Pharmacokinetics data__
+# __Owl 2__
 
 ## Category to which it belongs
 
-* [Efficient use of data analysis and modeling techniques to analyze various types of data for targeted insights.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Clinical trial data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2529.md)
-* [Biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2305.md)
-* [Pharmacies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3564.md)
-* [Artificial intelligence and clinical data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3047.md)
-* [Population data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1361.md)
-* [Drug development and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2659.md)
-* [Personalized medicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1551.md)
-* [Drug resistance surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_916.md)
-* [Mobile-health disease-monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2532.md)
-* [Epidemiological data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3211.md)
+* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_715.md)
+* [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_710.md)
+* [Semantic web technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1341.md)
+* [Ontology development and integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2828.md)
+* [Ontologies and semantic web](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2058.md)
+* [Existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2333.md)
+* [Semantic web standard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3354.md)
+* [Obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3352.md)
+* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
 
 ## This Technology enables the following mitigations
 
-* [Monitoring of pharmaceuticals and metabolites](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4793.md)
+* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4557.md)
 

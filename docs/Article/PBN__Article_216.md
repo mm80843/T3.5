@@ -45,9 +45,9 @@ Proximity and post-COVID-19 urban development: Reflections from Milan, Italy
 
 ## This article points to following mitigation
 
-* [Experiment with innovative models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5005.md)
-* [Support widespread skills](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5004.md)
-* [Manage placemaking paths](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5006.md)
+* [Manage placemaking paths](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5006.md)
+* [Experiment with innovative models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5005.md)
+* [Support widespread skills](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5004.md)
 
 ## This article mentions these technologies
 
@@ -62,7 +62,6 @@ Proximity and post-COVID-19 urban development: Reflections from Milan, Italy
 * [Social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
 * [Fiscal policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1794.md)
 * [Investment in job creation and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1795.md)
-* [Digital supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_210.md)
 * [Targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_893.md)
 * [Online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
 * [Placemaking initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1800.md)
@@ -71,6 +70,7 @@ Proximity and post-COVID-19 urban development: Reflections from Milan, Italy
 * [Teletherapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
 * [Remote teaching tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1808.md)
 * [Inclusive policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1804.md)
+* [Digital supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_210.md)
 * [Localization of production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1796.md)
 * [Mental health hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1809.md)
 * [Support for entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1802.md)

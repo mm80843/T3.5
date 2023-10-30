@@ -21,5 +21,5 @@ Systematic understanding of project delivery model, emphasis on value in critica
 
 ## Risks which can benefit from this action
 
-* [Value integrated project delivery model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_367.md)
+* [Value integrated project delivery model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_367.md)
 

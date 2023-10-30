@@ -29,16 +29,16 @@ Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis
 
 ## List of risks in an article
 
+* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1356.md)
 * [Patient overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
 * [Absence of efficacy studies in clinical settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1359.md)
 * [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1357.md)
 * [Inadequate tb infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1355.md)
-* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1356.md)
 
 ## This article points to following mitigation
 
-* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3636.md)
-* [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_523.md)
+* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3636.md)
+* [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_523.md)
 
 ## This article mentions these technologies
 

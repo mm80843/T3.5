@@ -21,5 +21,5 @@ Implementing alternative planning strategies can help reduce construction time, 
 
 ## Risks which can benefit from this action
 
-* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_834.md)
+* [Alternative planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_834.md)
 

@@ -20,5 +20,5 @@ Wearables can help individuals with long COVID implement pacing, managing their 
 
 ## Risks which can benefit from this action
 
-* [Using wearables to manage symptoms and identify overexertion in individuals with long covid](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_949.md)
+* [Using wearables to manage symptoms and identify overexertion in individuals with long covid](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_949.md)
 

@@ -21,5 +21,5 @@ Addresses the shortage of ventilators, ensures access to life-saving equipment f
 
 ## Risks which can benefit from this action
 
-* [Increased production of ventilators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_676.md)
+* [Increased production of ventilators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_676.md)
 

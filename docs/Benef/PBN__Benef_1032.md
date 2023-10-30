@@ -21,5 +21,5 @@ Promoting media literacy and critical thinking skills improves the ability to di
 
 ## Risks which can benefit from this action
 
-* [Promote media literacy and critical thinking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1038.md)
+* [Promote media literacy and critical thinking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1038.md)
 

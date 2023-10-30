@@ -20,5 +20,5 @@ Implementation of workplace modifications, such as providing hand wash gel and r
 
 ## Risks which can benefit from this action
 
-* [Workplace modification activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_935.md)
+* [Workplace modification activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_935.md)
 

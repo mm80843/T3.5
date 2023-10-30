@@ -40,11 +40,11 @@ Integrating rapid risk mapping and mobile phone call record data for strategic m
 
 ## This article points to following mitigation
 
-* [Targeted operations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4928.md)
-* [Risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4929.md)
-* [Case-based mapping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4930.md)
-* [Human movement analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4931.md)
-* [Modularity optimization algorithm](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4932.md)
+* [Case-based mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4930.md)
+* [Human movement analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4931.md)
+* [Targeted operations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4928.md)
+* [Risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4929.md)
+* [Modularity optimization algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4932.md)
 
 ## This article mentions these technologies
 

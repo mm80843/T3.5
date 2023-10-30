@@ -20,5 +20,5 @@ Adhering to public health measures decreases the spread of COVID-19
 
 ## Risks which can benefit from this action
 
-* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_767.md)
+* [Promote public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_767.md)
 

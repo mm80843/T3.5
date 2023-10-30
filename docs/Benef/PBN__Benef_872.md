@@ -21,5 +21,5 @@ Implementing ETs in governance models allows for more open, collaborative, and p
 
 ## Risks which can benefit from this action
 
-* [Implementation of ets-based governance models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_874.md)
+* [Implementation of ets-based governance models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_874.md)
 

@@ -21,5 +21,5 @@ User-centric HIE systems provide a standardized format for storing and exchangin
 
 ## Risks which can benefit from this action
 
-* [Blockchain-based decentralized framework for health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_399.md)
+* [Blockchain-based decentralized framework for health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_399.md)
 

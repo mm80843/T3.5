@@ -20,5 +20,5 @@ Designing bedrooms with lower window-to-wall ratios, operable windows, and the a
 
 ## Risks which can benefit from this action
 
-* [Bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1333.md)
+* [Bedrooms designed for sleep](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1333.md)
 

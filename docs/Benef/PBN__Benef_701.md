@@ -20,5 +20,5 @@ Same results as doing nothing
 
 ## Risks which can benefit from this action
 
-* [Vertical isolation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_696.md)
+* [Vertical isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_696.md)
 

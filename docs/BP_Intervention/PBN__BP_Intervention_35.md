@@ -12,7 +12,7 @@ Absorb surge in service demande
 
 ## Category to which it belongs
 
-* [Meet the increasing service demand through efficient absorption.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_384.md)
+* [Meet increase in customer demand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_184.md)
 
 ## This intervention is used in the following blueprints
 

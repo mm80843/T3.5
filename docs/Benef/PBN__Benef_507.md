@@ -21,5 +21,5 @@ The implementation of anti-contagion policies has helped reduce the strain on he
 
 ## Risks which can benefit from this action
 
-* [Implementation of anti-contagion policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_516.md)
+* [Implementation of anti-contagion policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_516.md)
 

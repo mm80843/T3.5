@@ -21,5 +21,5 @@ Increased funding for clean energy projects can create jobs and stimulate econom
 
 ## Risks which can benefit from this action
 
-* [Increased funding for clean energy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_620.md)
+* [Increased funding for clean energy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_620.md)
 

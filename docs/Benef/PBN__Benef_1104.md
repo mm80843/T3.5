@@ -20,5 +20,5 @@ Collaboration between medical and data science professionals enhances data quali
 
 ## Risks which can benefit from this action
 
-* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1118.md)
+* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1118.md)
 

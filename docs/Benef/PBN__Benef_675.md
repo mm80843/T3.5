@@ -21,5 +21,5 @@ Circular economy promotes the use of renewable energy, minimizes waste, and redu
 
 ## Risks which can benefit from this action
 
-* [Implementation of circular economy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_669.md)
+* [Implementation of circular economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_669.md)
 

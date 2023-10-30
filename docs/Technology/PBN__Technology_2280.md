@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2280 
 
-# __Emergency systems__
+# __Hiv testing and counseling services__
 
 ## Category to which it belongs
 
-* [An array of systems and tools for real-time monitoring, surveillance, and control of various environmental, health, and safety parameters.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
+* [A comprehensive array of digital platforms, resources, and professionals offering support, counseling, therapy, and interventions for mental health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
-* [Emergency response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_32.md)
-* [Emergency management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1213.md)
-* [Emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1498.md)
-* [Emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1054.md)
-* [Emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
-* [Emergency psychiatric services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1287.md)
-* [Develop emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_492.md)
-* [Disaster management center](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3612.md)
-* [Alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2926.md)
-* [Use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1378.md)
+* [Hiv testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2722.md)
+* [Counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_113.md)
+* [Online counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1624.md)
+* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
+* [Clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2823.md)
+* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1714.md)
+* [Online counseling and therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2108.md)
+* [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1119.md)
+* [Online counseling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1126.md)
+* [Antiretroviral therapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2281.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Emergency preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3282.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Diagnostic and testing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2052.md)
 

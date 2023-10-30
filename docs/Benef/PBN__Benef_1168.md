@@ -21,5 +21,5 @@ Storing information on blockchain prevents alteration and makes it traceable, ma
 
 ## Risks which can benefit from this action
 
-* [Storing information on blockchain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1171.md)
+* [Storing information on blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1171.md)
 

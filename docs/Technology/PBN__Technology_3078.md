@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3078 
 
-# __Regular cleaning and maintenance of hvac system components__
+# __Water movement__
 
 ## Category to which it belongs
 
-* [Enhanced cleaning practices, hygiene supplies, and proper cleaning procedures ensure optimal cleanliness and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
-* [Hvac maintenance and cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3267.md)
-* [Hvac system cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2057.md)
-* [Proper maintenance and operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2293.md)
-* [Correct use and maintenance of air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_676.md)
-* [Proper operation and maintenance of heat recovery systems in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_684.md)
-* [Hvac maintenance and calibration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2073.md)
-* [Air cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3596.md)
-* [Regular maintenance and inspection of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1111.md)
-* [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_205.md)
-* [Implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_557.md)
+* [Water features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
+* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2170.md)
+* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2480.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3895.md)
+* [Water efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3849.md)
+* [Water storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2359.md)
+* [Water-saving technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3649.md)
+* [Rainwater capture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1772.md)
+* [Fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3074.md)
+* [Water usage reduction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3629.md)
 
 ## This Technology enables the following mitigations
 
-* [Good housekeeping practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4348.md)
+* [Algae control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4106.md)
 

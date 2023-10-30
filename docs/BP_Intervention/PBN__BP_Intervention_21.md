@@ -12,7 +12,7 @@ Personal hygiene (eg handwashing)
 
 ## Category to which it belongs
 
-* [Maintaining cleanliness and cleanliness practices for oneself, such as handwashing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_370.md)
+* [Maintaining cleanliness and preventing the spread of germs through practices such as handwashing.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_170.md)
 
 ## This intervention is used in the following blueprints
 

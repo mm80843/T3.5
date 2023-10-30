@@ -20,5 +20,5 @@ Ensures that privacy concerns are addressed and balanced with the potential valu
 
 ## Risks which can benefit from this action
 
-* [Transparency and governance of data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_815.md)
+* [Transparency and governance of data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_815.md)
 

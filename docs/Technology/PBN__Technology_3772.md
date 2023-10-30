@@ -1,21 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3772 
 
-# __Woods bagot’s ad-apt system__
+# __Chemical disinfectants__
 
 ## Category to which it belongs
 
-* [Promotion and implementation of sustainable and eco-friendly techniques, technologies, and initiatives for environmental conservation and management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
+* [The advancement and use of various technologies and materials for the purpose of eliminating microorganisms and promoting cleanliness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
-* [Woods bagot’s ad-apt system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
-* [Online advertising tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3589.md)
-* [Web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3133.md)
-* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_248.md)
-* [Occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_431.md)
-* [Signage and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1179.md)
-* [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_773.md)
-* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
-* [Advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2858.md)
-* [Software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2160.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
+* [Use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1726.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3115.md)
+* [Disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2458.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Cleaning disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3880.md)
+* [Disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
+* [Surface disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_785.md)
+* [Disinfection processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3332.md)
+
+## This Technology enables the following mitigations
+
+* [Chemical disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5125.md)
 

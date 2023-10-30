@@ -20,5 +20,5 @@ Improved social inclusion and integration, reduced social and economic marginali
 
 ## Risks which can benefit from this action
 
-* [Avoidance of stigmatizing and blaming informal settlements and their residents](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_148.md)
+* [Avoidance of stigmatizing and blaming informal settlements and their residents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_148.md)
 

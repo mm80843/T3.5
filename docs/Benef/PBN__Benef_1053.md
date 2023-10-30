@@ -23,5 +23,5 @@ Blockchain technology provides a secure environment for online education, ensuri
 
 ## Risks which can benefit from this action
 
-* [Blockchain-based secure cross-platform sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1058.md)
+* [Blockchain-based secure cross-platform sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1058.md)
 

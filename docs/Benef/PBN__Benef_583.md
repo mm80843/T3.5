@@ -21,5 +21,5 @@ Implementing smart city solutions for social distancing monitoring can provide r
 
 ## Risks which can benefit from this action
 
-* [Smart city solutions for social distancing monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_589.md)
+* [Smart city solutions for social distancing monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_589.md)
 

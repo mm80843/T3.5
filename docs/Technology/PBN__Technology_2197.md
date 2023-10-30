@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2197 
 
-# __Video networking__
+# __Authentication and access control__
 
 ## Category to which it belongs
 
-* [Enhanced visual monitoring technology for communication, collaboration, data collection, and security purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_236.md)
+* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
-* [Videoconferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3217.md)
-* [Videoconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1365.md)
-* [Video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
-* [Video communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2451.md)
-* [Video conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_419.md)
-* [Video conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_123.md)
-* [Video conferencing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2746.md)
-* [Video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_426.md)
-* [Video conferencing and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_809.md)
-* [Such as video conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2779.md)
+* [Access control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1576.md)
+* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
+* [Access control protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_825.md)
+* [Controlled access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3719.md)
+* [Access control system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2403.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
+* [Access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_327.md)
+* [Access control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3550.md)
+* [Authentication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_398.md)
+* [Encryption and authentication techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2039.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechnologySubgroup
 
-* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3209.md)
+* [Biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
+* [Authentication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_398.md)
+* [Biometric identification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1546.md)
+* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
+* [Access control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1576.md)
 

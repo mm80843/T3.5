@@ -20,5 +20,5 @@ Acknowledging diverse levels of risk tolerance and providing understandable expl
 
 ## Risks which can benefit from this action
 
-* [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_926.md)
+* [Acknowledge diverse levels of risk tolerance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_926.md)
 

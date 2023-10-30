@@ -21,5 +21,5 @@ Combined interventions, including PPE, testing, social distancing, and education
 
 ## Risks which can benefit from this action
 
-* [Combined measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1224.md)
+* [Combined measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
 

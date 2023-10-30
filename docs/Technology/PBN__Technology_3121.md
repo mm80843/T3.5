@@ -1,29 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3121 
 
-# __Television__
-
-## Link between Blueprint and General ontology
-
-* [Cctv](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_179.md)
+# __Thermostats__
 
 ## Category to which it belongs
 
-* [Remote healthcare services through virtual platforms and technologies, including telemedicine, teletherapy, teleconferencing, and teleworking, using tele-devices for mental health support and counseling.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
+* [Detection and regulation of heat, from thermal cameras and sensors to smart thermostats and temperature control devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
-* [Cctv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1928.md)
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2857.md)
-* [Internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2286.md)
-* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2801.md)
-* [Cctv systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1656.md)
-* [Diverse communication channels television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3014.md)
-* [Music](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2456.md)
-* [Computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3299.md)
-* [Radio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3015.md)
-* [Phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1092.md)
+* [Smart thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1252.md)
+* [Thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3296.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
+* [Energy-efficient technologies such as smart thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_78.md)
+* [Heat source](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2582.md)
+* [Temperature monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3484.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
+* [Automatic control of temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1731.md)
+* [Smart temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3648.md)
+* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2440.md)
 
 ## This Technology enables the following mitigations
 
-* [Use of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4455.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3439.md)
 

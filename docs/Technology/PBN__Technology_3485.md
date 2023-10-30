@@ -1,29 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3485 
 
-# __Solar energy__
-
-## Link between Blueprint and General ontology
-
-* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_264.md)
+# __Automatic door systems__
 
 ## Category to which it belongs
 
-* [Promotion and implementation of sustainable and eco-friendly techniques, technologies, and initiatives for environmental conservation and management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
-* [Solar](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3300.md)
-* [Solar panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1760.md)
-* [Renewable energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_532.md)
-* [Solar chargers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1786.md)
-* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_353.md)
-* [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
-* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2813.md)
-* [Off-grid solar systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_930.md)
-* [Renewable energy development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1606.md)
-* [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2062.md)
+* [Automatic doors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3362.md)
+* [Door-lock devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_969.md)
+* [Self-closing doors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1745.md)
+* [Automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2384.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1449.md)
+* [Smart home systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2662.md)
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
+* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1352.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1469.md)
 
 ## This Technology enables the following mitigations
 
-* [Solar chargers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4975.md)
+* [Automatic doors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4735.md)
 

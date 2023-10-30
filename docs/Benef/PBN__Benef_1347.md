@@ -22,5 +22,5 @@ By considering the potential effects of the COVID-19 pandemic on research design
 
 ## Risks which can benefit from this action
 
-* [Consider implications for design, conduct, and interpretation of research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1385.md)
+* [Consider implications for design, conduct, and interpretation of research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1385.md)
 

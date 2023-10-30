@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3543 
 
-# __Circle packing algorithm__
+# __Portable awnings__
 
 ## Category to which it belongs
 
-* [These tools and techniques streamline processes, optimize systems, and enable data-driven decision-making in a variety of industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
-* [Algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3123.md)
-* [Optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_986.md)
-* [Space planning and layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2786.md)
-* [Rule-based algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3032.md)
-* [Optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2896.md)
-* [Vision algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3691.md)
-* [Efficient space planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1046.md)
-* [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
-* [Efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2737.md)
-* [Route optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_337.md)
+* [Portable air conditioners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3545.md)
+* [Portable medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_953.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2266.md)
+* [Energy-efficient equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2788.md)
+* [Wind catchers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2356.md)
+* [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2809.md)
+* [Portable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3541.md)
+* [Remote monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_549.md)
+* [Iot devices for monitoring and controlling occupancy and airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1518.md)
+* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
 
 ## This Technology enables the following mitigations
 
-* [Optimization algorithm](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5035.md)
+* [Portable awnings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4823.md)
 

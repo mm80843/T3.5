@@ -21,5 +21,5 @@ Enables representation and sharing of patient
 
 ## Risks which can benefit from this action
 
-* [Use sio design pattern](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1242.md)
+* [Use sio design pattern](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1242.md)
 

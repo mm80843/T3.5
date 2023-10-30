@@ -21,5 +21,5 @@ Cloud computing enables secure storage and analysis of large volumes of health d
 
 ## Risks which can benefit from this action
 
-* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1101.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1101.md)
 

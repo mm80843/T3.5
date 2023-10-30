@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The toll of the pandemic on mental health, including increased mental health issues, domestic violence, and limited resources for support.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
+* [The toll of the pandemic includes harm to mental health, increased domestic violence, and psychological distress, highlighting the need for support and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_2.md)
 
 ## Closest similar item
 
@@ -17,9 +17,9 @@
 * [Psychological distress](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2067.md)
 * [Mental stress and fatigue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2774.md)
 * [Negative emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
-* [Negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3446.md)
+* [Increased stress for students and faculty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_213.md)
 
 ## Mitigations of this risk
 
-* [Patience and compassion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4903.md)
+* [Patience and compassion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4903.md)
 

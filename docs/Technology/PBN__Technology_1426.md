@@ -4,16 +4,16 @@
 
 ## Category to which it belongs
 
-* [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
 * [Forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1536.md)
-* [Online forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3236.md)
+* [Online forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3401.md)
 * [Online community forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_425.md)
 * [Online support forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1246.md)
 * [Online support groups and forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1442.md)
-* [Chat rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2344.md)
+* [Chat rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2512.md)
 * [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_420.md)
 * [Online meeting platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1658.md)
 * [Community workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1180.md)

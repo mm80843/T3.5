@@ -21,5 +21,5 @@ Gender-responsive recovery plans can promote women's employment and economic emp
 
 ## Risks which can benefit from this action
 
-* [Promote gender equality in recovery plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_624.md)
+* [Promote gender equality in recovery plans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_624.md)
 

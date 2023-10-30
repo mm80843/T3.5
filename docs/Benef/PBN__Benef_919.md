@@ -21,5 +21,5 @@ Incorporating risk communication as a dynamic and adaptive process would facilit
 
 ## Risks which can benefit from this action
 
-* [Treat risk communication as a process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_923.md)
+* [Treat risk communication as a process](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_923.md)
 

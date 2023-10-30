@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2547 
 
-# __Audit and enforcement frameworks__
+# __Anti-human coronavirus spike glycoprotein__
 
 ## Category to which it belongs
 
-* [Enhanced cybersecurity measures and protocols ensure the secure and protected transmission, storage, and access of sensitive data.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_216.md)
+* [Cutting-edge techniques, strategies, and technologies for pathogen detection, vaccine development, and global disease surveillance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_145.md)
 
 ## Closest similar item
 
-* [Audit and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_516.md)
-* [Security audit platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1900.md)
-* [Regular security audits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_328.md)
-* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1150.md)
-* [Monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_287.md)
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
-* [Regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_285.md)
-* [Compliance checks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
-* [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
-* [Legal frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1429.md)
+* [Antiviral](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3293.md)
+* [Antivirals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_827.md)
+* [Johns hopkins university coronavirus dashboard](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3806.md)
+* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_236.md)
+* [Antiviral drug research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_836.md)
+* [Advanced antiviral technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_790.md)
+* [Research on viral cell entry mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1951.md)
+* [Viral survival](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1957.md)
+* [Attenuated/inactivated virus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3838.md)
+* [Viral enrichment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3848.md)
 
 ## This Technology enables the following mitigations
 
-* [Enforcing data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3609.md)
+* [Immunofluorescence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3397.md)
 

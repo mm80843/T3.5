@@ -20,5 +20,5 @@ The reduction in transmission achieved by interventions, as measured by changes 
 
 ## Risks which can benefit from this action
 
-* [Reduction in transmission as measured by changes in reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_826.md)
+* [Reduction in transmission as measured by changes in reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_826.md)
 

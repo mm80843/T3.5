@@ -21,5 +21,5 @@ Big data analytics promote data sharing initiatives, improving access to real-ti
 
 ## Risks which can benefit from this action
 
-* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_526.md)
+* [Improved data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_526.md)
 

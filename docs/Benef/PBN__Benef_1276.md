@@ -22,5 +22,5 @@ Equity funds transitioned from growth to value stocks, while fixed income funds 
 
 ## Risks which can benefit from this action
 
-* [Style analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1296.md)
+* [Style analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1296.md)
 

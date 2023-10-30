@@ -23,5 +23,5 @@ Attracting private investment through sustainable financing strategies
 
 ## Risks which can benefit from this action
 
-* [Engaging finance sector](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_133.md)
+* [Engaging finance sector](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_133.md)
 

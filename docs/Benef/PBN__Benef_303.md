@@ -21,5 +21,5 @@ Identifying potential threats, mapping players, collecting and sharing informati
 
 ## Risks which can benefit from this action
 
-* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_300.md)
+* [Improve risk preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_300.md)
 

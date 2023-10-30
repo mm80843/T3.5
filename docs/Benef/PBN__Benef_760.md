@@ -20,5 +20,5 @@ Maintaining hygiene in neighbourhood reduces transmission risk of COVID-19 and p
 
 ## Risks which can benefit from this action
 
-* [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_754.md)
+* [Neighbourhood hygiene maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_754.md)
 

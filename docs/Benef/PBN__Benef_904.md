@@ -21,5 +21,5 @@ Seamless coordination of care, improved care transitions
 
 ## Risks which can benefit from this action
 
-* [Integration of primary, hospital, long term, and social care](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_905.md)
+* [Integration of primary, hospital, long term, and social care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_905.md)
 

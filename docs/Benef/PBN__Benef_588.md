@@ -20,5 +20,5 @@ Increased understanding of virus and potential treatments
 
 ## Risks which can benefit from this action
 
-* [Reverse genetics systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_592.md)
+* [Reverse genetics systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_592.md)
 

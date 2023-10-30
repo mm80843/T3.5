@@ -20,5 +20,5 @@ Routes avoid dangerous areas
 
 ## Risks which can benefit from this action
 
-* [Safe pedestrian navigation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_970.md)
+* [Safe pedestrian navigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_970.md)
 

@@ -21,5 +21,5 @@ Reduced risk of virus transmission, improved access to transportation options
 
 ## Risks which can benefit from this action
 
-* [Restructuring public transit operations to comply with health and safety guidelines](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1260.md)
+* [Restructuring public transit operations to comply with health and safety guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1260.md)
 

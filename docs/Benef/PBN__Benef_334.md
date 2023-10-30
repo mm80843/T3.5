@@ -21,5 +21,5 @@ Implementing temporary regulations on certain activities in public places, such 
 
 ## Risks which can benefit from this action
 
-* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_330.md)
+* [Temporary regulations on activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_330.md)
 

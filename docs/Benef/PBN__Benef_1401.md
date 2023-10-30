@@ -20,5 +20,5 @@ Using modular construction techniques can create flexible and adaptable building
 
 ## Risks which can benefit from this action
 
-* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1355.md)
+* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1355.md)
 

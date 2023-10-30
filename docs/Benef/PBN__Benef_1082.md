@@ -20,5 +20,5 @@ Identifies possible presence of virus prior to discharge
 
 ## Risks which can benefit from this action
 
-* [Testing of feces or anal swab samples](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1094.md)
+* [Testing of feces or anal swab samples](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1094.md)
 

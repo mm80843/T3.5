@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3566 
 
-# __Urban/community farming__
+# __Covered spaces with soft walls__
 
 ## Category to which it belongs
 
-* [Strategies for equitable urban planning, development, and design, integrating green spaces, technology, and spatial optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
+* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
 
 ## Closest similar item
 
-* [Community-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3472.md)
-* [Urban farming technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1219.md)
-* [Apartment-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3471.md)
-* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1505.md)
-* [Organic farming methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2553.md)
-* [Vertical farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3224.md)
-* [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1847.md)
-* [Urban forestry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_663.md)
-* [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_122.md)
-* [Urban gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_619.md)
+* [Thick walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2355.md)
+* [Movable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2391.md)
+* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
+* [Glass walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [Flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3559.md)
+* [Adjustable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3660.md)
+* [Specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2637.md)
+* [Roof spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1736.md)
+* [Containment spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3563.md)
+* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1269.md)
 
 ## This Technology enables the following mitigations
 
-* [Self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5050.md)
+* [Design of public open-air spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4863.md)
 

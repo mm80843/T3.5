@@ -21,5 +21,5 @@ Preprocessing disinfection of sewage prevents the transmission of SARS-CoV-2 thr
 
 ## Risks which can benefit from this action
 
-* [Preprocessing disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_266.md)
+* [Preprocessing disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_266.md)
 

@@ -20,5 +20,5 @@ Blockchain-based EHR systems simplify data exchange and improve interoperability
 
 ## Risks which can benefit from this action
 
-* [Blockchain-enabled system for ehr exchange](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_401.md)
+* [Blockchain-enabled system for ehr exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_401.md)
 

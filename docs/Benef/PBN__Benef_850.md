@@ -20,5 +20,5 @@ Minimal natural light reduces bacterial activity, contributing to a healthier li
 
 ## Risks which can benefit from this action
 
-* [Minimal natural light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_848.md)
+* [Minimal natural light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_848.md)
 

@@ -20,5 +20,5 @@ Access to reliable and accurate information decreases anxiety
 
 ## Risks which can benefit from this action
 
-* [Provide accurate](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_761.md)
+* [Provide accurate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_761.md)
 

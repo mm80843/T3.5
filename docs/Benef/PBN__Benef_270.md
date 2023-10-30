@@ -20,5 +20,5 @@ Outdoor absolute humidity can serve as a better predictor of influenza incidence
 
 ## Risks which can benefit from this action
 
-* [Monitoring outdoor absolute humidity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_259.md)
+* [Monitoring outdoor absolute humidity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_259.md)
 

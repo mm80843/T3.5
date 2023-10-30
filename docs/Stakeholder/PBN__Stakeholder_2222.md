@@ -1,0 +1,28 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2222 
+
+# __Person in proximity to uv-c radiation source__
+
+## Category to which it belongs
+
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+
+## Closest similar item
+
+* [People in proximity to uv-c radiation sources](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1527.md)
+* [Individuals exposed to far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_740.md)
+* [Individual in environment where uv light disinfection is employed](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2301.md)
+* [Individuals in environments where uv light disinfection is employed](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_741.md)
+* [Individual in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2255.md)
+* [Person in indoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2206.md)
+* [Person in indoor space with air-conditioning system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2320.md)
+* [Individual in public space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2288.md)
+* [Person in indoor building and space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2209.md)
+* [Person in environment with high humidity level](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2192.md)
+
+## This Stakeholder belongs to this StakeholderGroup
+
+* [Vulnerable population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_547.md)
+
+## This Stakeholder belongs to this StakeholderSubgroup
+
+

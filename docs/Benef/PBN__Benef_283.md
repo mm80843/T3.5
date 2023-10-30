@@ -20,5 +20,5 @@ External corridors and stairs enhance airflow and decrease the concentration of 
 
 ## Risks which can benefit from this action
 
-* [Addition of external communication corridors and emphasis on stair usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_273.md)
+* [Addition of external communication corridors and emphasis on stair usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_273.md)
 

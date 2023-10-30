@@ -21,5 +21,5 @@ AI algorithms can accurately detect and diagnose COVID-19, reducing the need for
 
 ## Risks which can benefit from this action
 
-* [Ai for diagnosis and screening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_651.md)
+* [Ai for diagnosis and screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_651.md)
 

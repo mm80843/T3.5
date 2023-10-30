@@ -20,5 +20,5 @@ NPHIs have resulted in a 1.90 decrease in the COVID-19 reproduction number, slow
 
 ## Risks which can benefit from this action
 
-* [Non-pharmaceutical public health interventions nphis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_74.md)
+* [Non-pharmaceutical public health interventions nphis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_74.md)
 

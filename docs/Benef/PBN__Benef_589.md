@@ -20,5 +20,5 @@ Identification of additional receptors for intervention
 
 ## Risks which can benefit from this action
 
-* [Proteolysis of s protein by cathepsin](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_593.md)
+* [Proteolysis of s protein by cathepsin](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_593.md)
 

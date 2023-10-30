@@ -20,5 +20,5 @@ Bringing in more outdoor air into the building through HVAC systems or opening w
 
 ## Risks which can benefit from this action
 
-* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_520.md)
+* [Increased outdoor air ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_520.md)
 

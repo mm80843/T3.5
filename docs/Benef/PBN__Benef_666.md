@@ -20,5 +20,5 @@ Effective drainage and waste management reduce the risk of water stagnation and 
 
 ## Risks which can benefit from this action
 
-* [Enhancing drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_661.md)
+* [Enhancing drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_661.md)
 

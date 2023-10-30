@@ -21,5 +21,5 @@ Citizens will have easier access to UGS, allowing them to enjoy the benefits of 
 
 ## Risks which can benefit from this action
 
-* [Distribution of ugs in a more homogenous way](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_959.md)
+* [Distribution of ugs in a more homogenous way](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_959.md)
 

@@ -20,5 +20,5 @@ Urban greening can promote the presence of efficient virus-carrying mosquitoes, 
 
 ## Risks which can benefit from this action
 
-* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_72.md)
+* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_72.md)
 

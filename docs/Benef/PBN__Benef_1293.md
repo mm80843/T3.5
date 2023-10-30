@@ -20,5 +20,5 @@ Implementation of measures to ensure safe and equal access to green areas during
 
 ## Risks which can benefit from this action
 
-* [Adapt green area management to "new normal" lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1316.md)
+* [Adapt green area management to "new normal" lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1316.md)
 

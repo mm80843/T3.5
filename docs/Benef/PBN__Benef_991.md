@@ -21,5 +21,5 @@ Enhances the sensitivity of detection for SARS-CoV-2 in wastewater, increasing a
 
 ## Risks which can benefit from this action
 
-* [Developing sensitive rt-qpcr assays for wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_991.md)
+* [Developing sensitive rt-qpcr assays for wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_991.md)
 

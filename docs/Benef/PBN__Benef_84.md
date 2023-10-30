@@ -23,6 +23,6 @@ Regular exercise improves self-esteem, reduces depression and anxiety, and enhan
 
 ## Risks which can benefit from this action
 
-* [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_73.md)
-* [Ultrabrief psychological interventions ubpi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1235.md)
+* [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_73.md)
+* [Ultrabrief psychological interventions ubpi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1235.md)
 

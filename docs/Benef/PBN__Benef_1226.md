@@ -20,5 +20,5 @@ UBPI addresses stress and prevents psychological distress, potentially reducing 
 
 ## Risks which can benefit from this action
 
-* [Ultrabrief psychological interventions ubpi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1235.md)
+* [Ultrabrief psychological interventions ubpi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1235.md)
 

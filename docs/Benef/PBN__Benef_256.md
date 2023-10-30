@@ -20,5 +20,5 @@ Urban/community farming promotes local food production, self-sufficiency, and a 
 
 ## Risks which can benefit from this action
 
-* [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_245.md)
+* [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 

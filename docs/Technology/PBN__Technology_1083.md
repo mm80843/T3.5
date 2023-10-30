@@ -4,33 +4,28 @@
 
 ## Link between Blueprint and General ontology
 
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_21.md)
-* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_235.md)
-* [Improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_225.md)
-* [Logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_100.md)
-* [Advanced logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_110.md)
-* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_237.md)
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_21.md)
 
 ## Category to which it belongs
 
-* [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+* [The seamless flow, analysis, and oversight of goods, services, and information across various industries and locations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
-* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2861.md)
+* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3026.md)
 * [Logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1537.md)
+* [Logistics and supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2184.md)
 * [Advanced logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1229.md)
 * [Improvements in logistics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1629.md)
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2818.md)
-* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
-* [Local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2843.md)
+* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2983.md)
+* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
+* [Local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3008.md)
 * [Supply chain tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1448.md)
-* [Insurance providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2536.md)
-* [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
+* [Insurance providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2704.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
 
 ## This technology is mentioned by
 
@@ -38,7 +33,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Public health measures and regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
+* [Public health measures and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2140.md)
 
 ## Risks linked to this technology
 

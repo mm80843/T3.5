@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Individuals across various demographics, including high-risk, low-income, elderly, and homeless, among others.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_431.md)
+* [Various categories of people, including individuals of different socioeconomic, gender, age, and health statuses, as well as those affected by specific circumstances or conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
 
 ## Closest similar item
 
 * [Especially individuals who relied on gyms or public spaces for exercise](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1144.md)
-* [Especially individual who relied on gym or public space for exercise](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2117.md)
-* [Individual without acce to natural area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2190.md)
-* [Individual without acces to natural area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2250.md)
-* [Individual in crowded environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2245.md)
+* [Especially individual who relied on gym or public space for exercise](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2189.md)
+* [Individual without acce to natural area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2275.md)
+* [Individual without acces to natural area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2337.md)
+* [Individual in crowded environment](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2331.md)
 * [Individuals living in areas with natural outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_306.md)
+* [Commuters/cyclists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2469.md)
 * [Individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_20.md)
-* [Individuals in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2383.md)
-* [People with physical disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1112.md)
-* [Individuals in crowded environments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1594.md)
+* [Individuals with health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2077.md)
+* [Individuals in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2487.md)
 
 ## Risk affecting this stakeholder
 

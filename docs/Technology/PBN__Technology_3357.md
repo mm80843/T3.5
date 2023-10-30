@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3357 
 
-# __Nfv__
+# __Upper-level ontologies gfo__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
-* [Virtual nfs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1581.md)
-* [Uavs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3331.md)
-* [N95 masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2998.md)
-* [R package ncov2019](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3677.md)
-* [N95/ffp3 masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2591.md)
-* [Mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
-* [Dpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3347.md)
-* [Pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2296.md)
-* [Cctv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1928.md)
-* [Rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1060.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_710.md)
+* [Existing ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2333.md)
+* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
+* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_715.md)
+* [Obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3352.md)
+* [Ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1343.md)
+* [Established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1345.md)
+* [Ontologies and semantic web](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2058.md)
+* [Ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1342.md)
+* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_713.md)
 
 ## This Technology enables the following mitigations
 
-* [Rapid deployment of new healthcare applications and services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_28.md)
+* [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4563.md)
 

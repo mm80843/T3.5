@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3425 
 
-# __Snomed__
+# __Improved stove technology__
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
-* [Mhealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3227.md)
-* [Medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3095.md)
-* [Gotomeeting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2442.md)
-* [Anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3113.md)
-* [Mopso](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3018.md)
-* [Natural](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2329.md)
-* [Anylogic](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2897.md)
-* [Emergency psychiatric services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1287.md)
-* [Social pods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3400.md)
-* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_761.md)
+* [Clean cooking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1480.md)
+* [Cooking appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3285.md)
+* [Clean cookstoves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1481.md)
+* [Cooking techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3434.md)
+* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
+* [Emission control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1249.md)
+* [Energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2358.md)
+* [Improved biomass fuels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1482.md)
+* [Improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2013.md)
+* [Advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1555.md)
 
 ## This Technology enables the following mitigations
 
-* [Common standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4905.md)
+* [Improved cooking stoves](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4654.md)
 

@@ -1,27 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2269 
 
-# __Webinars__
+# __Uv-c light sterilization in public transport vehicles__
 
 ## Category to which it belongs
 
-* [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
-* [Web portals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2169.md)
-* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
-* [Web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2612.md)
-* [Webex](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2444.md)
-* [Web service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3141.md)
-* [Web surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2409.md)
-* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
-* [Web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_243.md)
-* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
-* [Online training platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1208.md)
+* [Uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2641.md)
+* [Air filtration and uv light sterilisation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1251.md)
+* [Uv light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2279.md)
+* [Uv-c disinfection technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1625.md)
+* [Uv-c disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2267.md)
+* [Uv-c light technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1647.md)
+* [Uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2491.md)
+* [Uv-c irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2481.md)
+* [Uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1024.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3272.md)
-* [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_561.md)
-* [Communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3367.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2238.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Purification and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2134.md)
 

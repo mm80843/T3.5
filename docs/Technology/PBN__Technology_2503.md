@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2503 
 
-# __Biomarkers__
+# __Plasmacluster ion technology__
 
 ## Category to which it belongs
 
-* [Innovative technologies and materials combat pathogens, enhance disinfection, and advance research in antiviral therapies and detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2305.md)
-* [Biomarker extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3343.md)
-* [Molecular diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2025.md)
-* [Biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2410.md)
-* [Molecular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2851.md)
-* [Clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2656.md)
-* [Urine proteomics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3349.md)
-* [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2119.md)
-* [Identification of potential therapeutic targets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1954.md)
-* [Clinical assessment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3166.md)
+* [Air disinfector based on plasma](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3782.md)
+* [Bipolar ionization technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3225.md)
+* [Bipolar ionization devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2233.md)
+* [Improved negative ionizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
+* [Ozonation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3800.md)
+* [Emission control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1249.md)
+* [Uv-c emitters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2487.md)
+* [Glare control devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_189.md)
+* [Ultraviolet irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1902.md)
+* [Improved stove technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3425.md)
 
 ## This Technology enables the following mitigations
 
-* [Biomarker testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3556.md)
+* [Plasmacluster ions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3352.md)
 

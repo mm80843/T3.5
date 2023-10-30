@@ -21,5 +21,5 @@ Closing the vaccination gap between immigrants and native-born populations
 
 ## Risks which can benefit from this action
 
-* [Ensuring vaccination equity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1375.md)
+* [Ensuring vaccination equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1375.md)
 

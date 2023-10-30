@@ -1,0 +1,41 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_386 
+
+# __Teleconferencing__
+
+## Link between Blueprint and General ontology
+
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_23.md)
+
+## Category to which it belongs
+
+* [Virtual healthcare and remote communication technology for medical diagnosis, therapy, and consultation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_102.md)
+
+## Closest similar item
+
+* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
+* [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3398.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3494.md)
+* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3519.md)
+* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1419.md)
+* [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
+* [Telehealth technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1650.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1447.md)
+* [Telehealth/telepresence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3462.md)
+
+## This Technology belongs to this TechGroup
+
+* [Monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2215.md)
+
+## This technology is mentioned by
+
+* [Using Technology to Maintain the Education of Residents During the COVID-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_11.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2075.md)
+
+## Risks linked to this technology
+
+* [Decreased exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1255.md)
+

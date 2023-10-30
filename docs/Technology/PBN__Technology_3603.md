@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3603 
 
-# __Similarity measures__
+# __Digital imaging__
+
+## Link between Blueprint and General ontology
+
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_1.md)
 
 ## Category to which it belongs
 
-* [A comprehensive range of measures and mechanisms to ensure safety, compliance, governance, transparency, and enforcement in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
-* [Redundancy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_326.md)
-* [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3601.md)
-* [Comparative data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_902.md)
-* [Noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1237.md)
-* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
-* [Statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_357.md)
-* [Neighborhood control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3342.md)
-* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2033.md)
-* [Information filtering systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1285.md)
-* [Data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1976.md)
+* [Medical imaging techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3169.md)
+* [Digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2599.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
+* [Image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2402.md)
+* [Ultrasound imaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3857.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2318.md)
+* [Digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2617.md)
+* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
+* [Thermal imaging technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3602.md)
+* [Digitalisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3341.md)
 
 ## This Technology enables the following mitigations
 
-* [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5118.md)
+* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3250.md)
 

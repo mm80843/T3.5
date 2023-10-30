@@ -20,5 +20,5 @@ Efficient utilization of storage space reduces cost and waste.
 
 ## Risks which can benefit from this action
 
-* [Improve cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_197.md)
+* [Improve cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_197.md)
 

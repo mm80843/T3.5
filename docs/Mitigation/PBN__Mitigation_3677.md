@@ -1,21 +1,36 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3677 
 
-# __Food parcels and free meals__
+# __Considering additional variables__
 
 ## Category to which it belongs
 
-* [Promoting resilience and efficiency in global supply chains through diversification, optimization, and strategic coordination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_154.md)
+* [Enhancing risk management, crisis response, resilience building, and effective communication through comprehensive preparedness planning and strategic decision-making.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_63.md)
 
 ## Closest similar item
 
-* [Increase in food deliveries and availability of basic food products](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2809.md)
-* [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3551.md)
-* [Food security](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3555.md)
-* [Establishing makeshift neighborhood food markets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3757.md)
-* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3818.md)
-* [Online grocery delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2540.md)
-* [Improve food systems planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3552.md)
-* [Interruption of access to food for children from households dependent on school-feeding programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3675.md)
-* [Ensure food supply chains, promote sustainable agriculture, and provide food assistance and support to vulnerable populations.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3554.md)
-* [Ensure adequate food production, import, storage, and transportation, prioritize vulnerable families, establish neighborhood food markets.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3556.md)
+* [Better working conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4683.md)
+* [Evaluate the use of the](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1246.md)
+* [Regression modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4151.md)
+* [Control for confounding factors in analysis, use multivariable regression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1708.md)
+* [Anticipate how the pandemic may affect variables of interest, measure and test these additional variables to assess their impact on study results.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1878.md)
+* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4293.md)
+* [Correlation/association analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4150.md)
+* [Multivariable adjusted logistic regression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3624.md)
+* [Cost concern](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3457.md)
+* [Capturing extra relevant data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3674.md)
+
+## Property: has_MitigationPrinciple
+
+Include additional measures that may gain relevance in the context of the pandemic to enhance validity and commensurability
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationSource
+
+* [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Standardized approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2764.md)
 

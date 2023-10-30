@@ -21,5 +21,5 @@ Use of smart robots, AI-enabled diagnostic systems, telemedicine platforms for r
 
 ## Risks which can benefit from this action
 
-* [Providing support to overstretched staff](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1107.md)
+* [Providing support to overstretched staff](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1107.md)
 

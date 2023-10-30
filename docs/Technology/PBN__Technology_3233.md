@@ -1,33 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3233 
 
-# __Teleconferencing tools__
-
-## Link between Blueprint and General ontology
-
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_23.md)
-* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_216.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_215.md)
-* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_217.md)
-* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_245.md)
+# __Low-pollutant-emitting products__
 
 ## Category to which it belongs
 
-* [Remote healthcare services through virtual platforms and technologies, including telemedicine, teletherapy, teleconferencing, and teleworking, using tele-devices for mental health support and counseling.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
-* [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_386.md)
-* [Tele-devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3354.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3329.md)
-* [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
-* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_242.md)
-* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_952.md)
-* [Telework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1419.md)
-* [Telehealth system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2158.md)
-* [Secure telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1811.md)
+* [Emission control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1249.md)
+* [Uv-c emitters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2487.md)
+* [Emission control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2998.md)
+* [Non-toxic cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3443.md)
+* [Various disinfection technologies including ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1901.md)
+* [Disinfectant products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2458.md)
+* [Uv-c emitters or lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3758.md)
+* [Ozone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1907.md)
+* [Implement emission monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_307.md)
+* [Disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
 
 ## This Technology enables the following mitigations
 
-* [Remote work and distance learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4605.md)
+* [Smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4339.md)
 

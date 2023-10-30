@@ -20,5 +20,5 @@ Stringency measures can effectively reduce transmission and lower the infection 
 
 ## Risks which can benefit from this action
 
-* [Stringency index](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_769.md)
+* [Stringency index](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_769.md)
 

@@ -20,5 +20,5 @@ Creating separate entrance spaces with sealed doors and rapid air exchange in pr
 
 ## Risks which can benefit from this action
 
-* [Compartmentalization of private and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_746.md)
+* [Compartmentalization of private and communal spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_746.md)
 

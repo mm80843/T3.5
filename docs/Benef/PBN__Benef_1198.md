@@ -22,5 +22,5 @@ Organize networks of solidarity to provide support for vulnerable populations in
 
 ## Risks which can benefit from this action
 
-* [Community action networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1200.md)
+* [Community action networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1200.md)
 

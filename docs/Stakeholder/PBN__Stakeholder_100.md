@@ -9,18 +9,18 @@
 
 ## Category to which it belongs
 
-* [Vulnerable populations include individuals with preexisting medical conditions, low-income individuals, the elderly, children, and those with disabilities, particularly respiratory conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_421.md)
+* [People who lack access to private outdoor spaces and have limited access to green spaces, including rural women with ovarian cancer, frequents public places.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_227.md)
 
 ## Closest similar item
 
 * [Rural women with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_856.md)
-* [Rural woman with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2025.md)
+* [Rural woman with ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2082.md)
+* [Rural individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2083.md)
 * [Elderly cancer patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_457.md)
-* [Rural and underserved community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2158.md)
-* [Rural area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2290.md)
+* [Rural and underserved community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2236.md)
+* [Rural area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2385.md)
 * [Rural areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_876.md)
 * [Women experiencing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_563.md)
 * [Women in south africa](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_853.md)
-* [Woman experiencing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2209.md)
-* [Rural household in developing country](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2135.md)
+* [Woman experiencing economic hardship](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2294.md)
 

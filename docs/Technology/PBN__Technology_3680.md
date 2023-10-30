@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3680 
 
-# __Web development tools__
+# __Coordination mechanisms__
 
 ## Category to which it belongs
 
-* [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
-* [Web-based tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3133.md)
-* [Software tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2160.md)
-* [Project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
-* [Online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1661.md)
-* [Digital content creation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3237.md)
-* [Collaborative tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2266.md)
-* [Collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
-* [Web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_243.md)
-* [Virtual collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_131.md)
-* [Web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2612.md)
+* [Coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3257.md)
+* [Coordination systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1283.md)
+* [Coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1468.md)
+* [Communication and coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1149.md)
+* [Collaboration mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2747.md)
+* [International cooperation and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3750.md)
+* [International coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_918.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
+* [Care coordination tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1488.md)
 
 ## This Technology enables the following mitigations
 
-* [Interactive web apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5208.md)
+* [Government coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4999.md)
 

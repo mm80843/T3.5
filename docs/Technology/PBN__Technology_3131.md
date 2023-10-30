@@ -1,26 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3131 
 
-# __Thermometers__
+# __Chlorine__
 
 ## Category to which it belongs
 
-* [Synonymous with monitoring and regulating heat levels, temperature-related equipment and devices are utilized.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_229.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3644.md)
-* [Infrared thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2468.md)
-* [Infrared thermometer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2694.md)
-* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2272.md)
-* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1298.md)
-* [Thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2956.md)
-* [Thermographic cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3296.md)
-* [Thermal sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3690.md)
-* [Temperature scanners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_359.md)
-* [Temperature detection devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2422.md)
+* [Liquid chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1903.md)
+* [Chlorination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
+* [Chlorine gas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3770.md)
+* [Chlorine dioxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1904.md)
+* [Chlorine-containing disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2467.md)
+* [Chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
+* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
+* [Sodium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2876.md)
+* [Sodium dichloroisocyanurate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3283.md)
+* [Sodium dichloroisocyanurate solution containing 500 mg/l chlorine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2692.md)
 
 ## This Technology enables the following mitigations
 
-* [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5179.md)
-* [Temperature checks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4474.md)
+* [Disinfection of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4181.md)
 

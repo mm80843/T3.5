@@ -20,5 +20,5 @@ Protects personal data from unauthorized access and ensures privacy rights are r
 
 ## Risks which can benefit from this action
 
-* [Encryption and anonymity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_64.md)
+* [Encryption and anonymity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_64.md)
 

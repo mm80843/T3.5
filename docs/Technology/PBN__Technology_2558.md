@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2558 
 
-# __Surgical techniques__
+# __Data ownership policies__
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
-* [Surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_388.md)
-* [Surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2723.md)
-* [Procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2350.md)
-* [Suitable treatment and](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1863.md)
-* [Medical imaging techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
-* [High-quality surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2448.md)
-* [Heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2850.md)
-* [Sterilization procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3315.md)
-* [Surgical video libraries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_392.md)
-* [Standard operating procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2569.md)
+* [Data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2368.md)
+* [Data sharing platforms and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1123.md)
+* [Data governance policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_106.md)
+* [Open data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_821.md)
+* [Data governance and management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2199.md)
+* [Data governance agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_515.md)
+* [Regulations on personal data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3338.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3007.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2191.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1587.md)
 
 ## This Technology enables the following mitigations
 
-* [Cytoreduction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3626.md)
+* [Data ownership decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3404.md)
 

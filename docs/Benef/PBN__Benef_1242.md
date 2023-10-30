@@ -21,5 +21,5 @@ Safer and more enjoyable streets, reduced pollution, enhanced social interaction
 
 ## Risks which can benefit from this action
 
-* [Implementing temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1258.md)
+* [Implementing temporary street calming and pedestrianization projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1258.md)
 

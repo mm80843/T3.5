@@ -8,7 +8,7 @@
 
 ## Category to which it belongs
 
-* [Caregivers and beneficiaries in the healthcare field with a focus on personnel, infrastructure, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_404.md)
+* [A collective group, including marginalized and vulnerable, local and global communities, individuals, and communication entities, particularly in underserved areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_193.md)
 
 ## Closest similar item
 
@@ -17,9 +17,9 @@
 * [Individuals seeking health information online](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1036.md)
 * [Communities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_4.md)
 * [Health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_422.md)
-* [Individual seeking health information online](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2256.md)
+* [Individual seeking health information online](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2343.md)
 * [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_173.md)
-* [Health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2542.md)
-* [Health organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1810.md)
+* [Health organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1848.md)
 * [Health club organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_270.md)
+* [Community](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_313.md)
 

@@ -21,5 +21,5 @@ Strengthened credibility and trust in scientific findings, leading to better dec
 
 ## Risks which can benefit from this action
 
-* [Improved peer review process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_853.md)
+* [Improved peer review process](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_853.md)
 

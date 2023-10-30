@@ -21,5 +21,5 @@ Identifying and addressing changes in priorities and needs with tailored product
 
 ## Risks which can benefit from this action
 
-* [Remain alert and responsive to changing priorities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_558.md)
+* [Remain alert and responsive to changing priorities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_558.md)
 

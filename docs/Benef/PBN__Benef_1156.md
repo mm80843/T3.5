@@ -21,5 +21,5 @@ Allows individuals to monitor their health status, track symptoms, and assess th
 
 ## Risks which can benefit from this action
 
-* [Mobile tracing and monitoring apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1158.md)
+* [Mobile tracing and monitoring apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1158.md)
 

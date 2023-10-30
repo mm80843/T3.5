@@ -20,5 +20,5 @@ Implementing administrative controls such as online meetings and shift arrangeme
 
 ## Risks which can benefit from this action
 
-* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_515.md)
+* [Administrative controls online meetings, shift arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_515.md)
 

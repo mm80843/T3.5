@@ -21,5 +21,5 @@ Reliable and evidence-based treatment guidelines and recommendations, ensuring a
 
 ## Risks which can benefit from this action
 
-* [Rigorous data scrutiny and review](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_856.md)
+* [Rigorous data scrutiny and review](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_856.md)
 

@@ -21,5 +21,5 @@ Color and design elements make signs more noticeable and eye-catching, increasin
 
 ## Risks which can benefit from this action
 
-* [Use of color and design elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_796.md)
+* [Use of color and design elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_796.md)
 

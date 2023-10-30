@@ -21,5 +21,5 @@ Policy and research priorities support the view that a focus on promoting mental
 
 ## Risks which can benefit from this action
 
-* [Promoting mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_927.md)
+* [Promoting mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_927.md)
 

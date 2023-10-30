@@ -21,5 +21,5 @@ Testing and contact tracing can identify asymptomatic individuals and prevent fu
 
 ## Risks which can benefit from this action
 
-* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_720.md)
+* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_720.md)
 

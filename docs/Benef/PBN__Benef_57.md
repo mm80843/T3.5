@@ -20,5 +20,5 @@ Remote access to mental health services can improve access and reduce barriers
 
 ## Risks which can benefit from this action
 
-* [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_49.md)
+* [Implement telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_49.md)
 

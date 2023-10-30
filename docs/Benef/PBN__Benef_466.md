@@ -21,5 +21,5 @@ Flexible spaces and robust internet connection support remote working and adapta
 
 ## Risks which can benefit from this action
 
-* [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_479.md)
+* [Remote working and flexible spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_479.md)
 

@@ -21,5 +21,5 @@ CIDO facilitates the annotation and modeling of vaccine candidates, aiding in th
 
 ## Risks which can benefit from this action
 
-* [Annotating and modeling vaccine candidates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_58.md)
+* [Annotating and modeling vaccine candidates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_58.md)
 

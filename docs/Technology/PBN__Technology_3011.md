@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3011 
 
-# __Isolation rooms or designated isolation areas__
+# __Integrated data systems__
 
 ## Category to which it belongs
 
-* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
-* [Dedicated isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2768.md)
-* [Isolation areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2356.md)
-* [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2126.md)
-* [Dedicated isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3039.md)
-* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
-* [Isolation and quarantine room equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1655.md)
-* [Separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
-* [Separate rooms or designated areas for contagion control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2648.md)
-* [Isolation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_673.md)
-* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1269.md)
+* [Data integration technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2926.md)
+* [Data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
+* [Data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
+* [Data integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1897.md)
+* [Data integration and exchange platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1122.md)
+* [Data management and communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2060.md)
+* [Digital integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3784.md)
+* [Data management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_158.md)
+* [Integrated healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3447.md)
+* [Digital data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_40.md)
 
 ## This Technology enables the following mitigations
 
-* [Isolation of suspected or confirmed cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4270.md)
+* [Strengthened data infrastructure and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4047.md)
 

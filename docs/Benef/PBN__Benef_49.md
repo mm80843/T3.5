@@ -20,5 +20,5 @@ The social media platform provides daily practice questions and serves as a plat
 
 ## Risks which can benefit from this action
 
-* [Social media-based platform for daily practice questions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_41.md)
+* [Social media-based platform for daily practice questions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_41.md)
 

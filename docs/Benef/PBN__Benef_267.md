@@ -21,5 +21,5 @@ Increases trust and comfort on campus
 
 ## Risks which can benefit from this action
 
-* [Campus law enforcement introduction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_256.md)
+* [Campus law enforcement introduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_256.md)
 

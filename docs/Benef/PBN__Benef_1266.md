@@ -21,5 +21,5 @@ Autonomous vehicles can deliver essential goods, clean streets and public spaces
 
 ## Risks which can benefit from this action
 
-* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1284.md)
+* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1284.md)
 

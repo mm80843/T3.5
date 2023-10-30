@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The spread of the virus through various means such as airborne transmission, contaminated surfaces, close contact, and gatherings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_143.md)
+* [The spread of disease through direct and indirect contact in various environments and social settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_32.md)
 
 ## Closest similar item
 
@@ -23,24 +23,24 @@
 
 Many factors such as air travel, urbanization, testing intensity, and health expenditure can confound the relationship between temperature/humidity and transmission
 
-## Is the risk affecting GBN scales
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Type of the risk
 
 
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_0.md)
+
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_5.md)
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_5.md)
 
 ## Mitigations of this risk
 
-* [Control for confounding factors in analysis, use multivariable regression](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1708.md)
+* [Control for confounding factors in analysis, use multivariable regression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1708.md)
 
 ## Name of the risk
 

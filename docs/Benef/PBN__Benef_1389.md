@@ -20,5 +20,5 @@ Next-generation wearable devices must be biocompatible, energy efficient, compli
 
 ## Risks which can benefit from this action
 
-* [Development of next-generation wearable devices with sufficient reliability and robustness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1423.md)
+* [Development of next-generation wearable devices with sufficient reliability and robustness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1423.md)
 

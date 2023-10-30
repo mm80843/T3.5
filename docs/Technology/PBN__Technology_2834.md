@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2834 
 
-# __Climate-smart agriculture methods__
+# __Sink__
 
 ## Category to which it belongs
 
-* [Promotion and implementation of sustainable and eco-friendly techniques, technologies, and initiatives for environmental conservation and management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
-* [Precision agriculture technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1244.md)
-* [Sustainable agriculture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_533.md)
-* [Climate control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1098.md)
-* [Organic farming methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2553.md)
-* [Climate mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1511.md)
-* [Agricultural technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_69.md)
-* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1505.md)
-* [Urban farming technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1219.md)
-* [Smart temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3483.md)
-* [Greenhouse technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3221.md)
+* [Bathroom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2835.md)
+* [Drainage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3818.md)
+* [Fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3074.md)
+* [Bathrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3279.md)
+* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2480.md)
+* [Proper disposal](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3622.md)
+* [Proper sealing of pipes and sinks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1752.md)
+* [Waterfalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3073.md)
+* [Drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3275.md)
+* [And plumbing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3108.md)
 
 ## This Technology enables the following mitigations
 
-* [Resilient agricultural practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4039.md)
+* [Enhanced sanitation room](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3781.md)
 

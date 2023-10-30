@@ -20,5 +20,5 @@ Ensures that essential services, such as supermarkets and pharmacies, are adequa
 
 ## Risks which can benefit from this action
 
-* [Balanced allocation of pois](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_22.md)
+* [Balanced allocation of pois](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_22.md)
 

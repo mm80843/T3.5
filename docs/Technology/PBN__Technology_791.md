@@ -2,27 +2,21 @@
 
 # __Surface coatings__
 
-## Link between Blueprint and General ontology
-
-* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_26.md)
-* [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_248.md)
-* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_249.md)
-
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
 * [Safe coating materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_266.md)
 * [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1023.md)
 * [Antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_787.md)
-* [Carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3065.md)
-* [Titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3064.md)
-* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2704.md)
-* [Self-disinfecting coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2703.md)
-* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2363.md)
-* [Copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3062.md)
+* [Carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3230.md)
+* [Titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3229.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2870.md)
+* [Self-disinfecting coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2869.md)
+* [Surface sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2531.md)
+* [Copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3227.md)
 * [Anti-sars-cov-2 coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_263.md)
 
 ## This technology is mentioned by

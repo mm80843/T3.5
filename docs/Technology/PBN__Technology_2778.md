@@ -1,25 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2778 
 
-# __Technology for remote communication__
+# __Cloud service__
 
 ## Category to which it belongs
 
-* [Enhanced exchange of information and ideas through technology, platforms, and techniques for effective communication and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
-* [Remote communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3089.md)
-* [Remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1239.md)
-* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
-* [Remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_548.md)
-* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [Remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_284.md)
-* [Communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_737.md)
-* [Remote working technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_218.md)
-* [Communication technology internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3010.md)
+* [Cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
+* [Cloud computing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1230.md)
+* [Cloud-based systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1453.md)
+* [Cloud storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2366.md)
+* [Cloud-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1135.md)
+* [Web service](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3306.md)
+* [Digital services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3540.md)
+* [Remote service platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3655.md)
+* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
+* [Server infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3593.md)
 
 ## This Technology enables the following mitigations
 
-* [Remote working](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3931.md)
+* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3718.md)
+* [Cloud service and database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3711.md)
 

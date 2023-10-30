@@ -20,5 +20,5 @@ Provision of isolation spaces in built environment helps to control transmission
 
 ## Risks which can benefit from this action
 
-* [Adaptive design of built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_753.md)
+* [Adaptive design of built environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_753.md)
 

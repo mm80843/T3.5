@@ -21,5 +21,5 @@ Medicaid expansion reduces medical debt and financial burden, increasing tenants
 
 ## Risks which can benefit from this action
 
-* [Medicaid expansion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_181.md)
+* [Medicaid expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_181.md)
 

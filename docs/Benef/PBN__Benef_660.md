@@ -21,5 +21,5 @@ AI-powered chatbots and visual sensors can assist in remote patient monitoring, 
 
 ## Risks which can benefit from this action
 
-* [Ai for patient management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_655.md)
+* [Ai for patient management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_655.md)
 

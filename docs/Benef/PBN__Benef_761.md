@@ -20,5 +20,5 @@ Provides better access to medical facilities for testing, vaccination, and treat
 
 ## Risks which can benefit from this action
 
-* [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_755.md)
+* [Development of medical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_755.md)
 

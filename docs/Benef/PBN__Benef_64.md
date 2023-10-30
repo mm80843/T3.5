@@ -21,5 +21,5 @@ Ontological representation of missing drug information enables comprehensive stu
 
 ## Risks which can benefit from this action
 
-* [Ontology-based representation of missing information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_57.md)
+* [Ontology-based representation of missing information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_57.md)
 

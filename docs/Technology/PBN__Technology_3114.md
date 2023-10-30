@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3114 
 
-# __Bathrooms__
+# __Steam or specialized commercial steam bags__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Bathroom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2669.md)
-* [Designated toilet facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3568.md)
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_624.md)
-* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1216.md)
-* [Rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3409.md)
-* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
-* [Separate toilets in every apartment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1754.md)
-* [Proper sanitation facilities and practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_858.md)
-* [Sanitation supplies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2667.md)
-* [Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
+* [High temperature steam](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3774.md)
+* [Steam sterilization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1049.md)
+* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2266.md)
+* [Sealing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3721.md)
+* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2702.md)
+* [Air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2797.md)
+* [Portable air cleaners pac](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3873.md)
+* [Use of portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_677.md)
+* [Air extractors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3644.md)
+* [Personalized air supply devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2507.md)
 
 ## This Technology enables the following mitigations
 
-* [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4436.md)
+* [Decontamination and sterilization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4174.md)
 

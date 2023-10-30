@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3406 
 
-# __Strip curtains__
+# __Government agencies__
 
 ## Category to which it belongs
 
-* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [Enforcement, regulation, and policy measures are implemented to ensure compliance, ethical standards, and effective governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_137.md)
 
 ## Closest similar item
 
-* [Double-glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2479.md)
-* [Balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2918.md)
-* [Buffer strips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2911.md)
-* [Glass walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
-* [Gowns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_486.md)
-* [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
-* [Private balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3449.md)
-* [Glare-reducing fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_196.md)
-* [Furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3499.md)
-* [Window design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2475.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
+* [Government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3020.md)
+* [Government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1640.md)
+* [Government websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1187.md)
+* [City governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_338.md)
+* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_317.md)
+* [Government communications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3259.md)
+* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
+* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
 
 ## This Technology enables the following mitigations
 
-* [Partition/barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4883.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4616.md)
 

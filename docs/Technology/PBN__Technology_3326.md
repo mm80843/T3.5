@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3326 
 
-# __Access to healthcare__
+# __Public health guidelines__
 
 ## Category to which it belongs
 
-* [Advancements in healthcare technology, remote care services, public health campaigns, and improved healthcare facilities contribute to a comprehensive and efficient healthcare system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
+* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
-* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1942.md)
-* [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1996.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
-* [Digital platforms for accessing and sharing healthcare information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1521.md)
-* [Healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1852.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1086.md)
-* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
-* [Assistance programs for healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1281.md)
-* [Healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2606.md)
+* [Public health measures and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2140.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
+* [Public health and safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_334.md)
+* [Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_521.md)
+* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2306.md)
+* [Health-focused design principles and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_722.md)
+* [Public health and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2094.md)
+* [Preventive measures and public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2064.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
 
 ## This Technology enables the following mitigations
 
-* [Healthcare access and early treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4741.md)
+* [Local lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4525.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Especially for individuals in impacted areas, noisy environments, crowded and poorly ventilated spaces, low-income communities, or lockdown areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_447.md)
+* [Individuals in confined, poorly ventilated indoor spaces, including offices and homes, with low air quality and inadequate filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
 
 ## Closest similar item
 

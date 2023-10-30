@@ -21,5 +21,5 @@ Localised manufacturing reduces dependence on global supply chains, enhances sup
 
 ## Risks which can benefit from this action
 
-* [Localised manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_622.md)
+* [Localised manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_622.md)
 

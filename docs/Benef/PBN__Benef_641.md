@@ -22,5 +22,5 @@ Compliance with regulations ensures a safe and healthy environment, reducing the
 
 ## Risks which can benefit from this action
 
-* [Implementing precautionary measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_639.md)
+* [Implementing precautionary measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_639.md)
 

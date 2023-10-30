@@ -21,5 +21,5 @@ Implementing mobility limitations and promoting teleworking can lead to a reduct
 
 ## Risks which can benefit from this action
 
-* [Forced experimentation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_431.md)
+* [Forced experimentation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_431.md)
 

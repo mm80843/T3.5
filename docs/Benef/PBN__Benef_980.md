@@ -21,5 +21,5 @@ Switching to a domestic supply chain would reduce costs for corporations and con
 
 ## Risks which can benefit from this action
 
-* [Domestic-based supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_978.md)
+* [Domestic-based supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_978.md)
 

@@ -21,5 +21,5 @@ AI-based models can predict the location and timing of outbreaks, allowing for e
 
 ## Risks which can benefit from this action
 
-* [Ai for outbreak prediction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_658.md)
+* [Ai for outbreak prediction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_658.md)
 

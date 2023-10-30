@@ -20,5 +20,5 @@ Inclusion of data from additional sensors can reduce the effects of external fac
 
 ## Risks which can benefit from this action
 
-* [Integration of additional sensors into wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1422.md)
+* [Integration of additional sensors into wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1422.md)
 

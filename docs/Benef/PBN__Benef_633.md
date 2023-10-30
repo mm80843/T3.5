@@ -20,5 +20,5 @@ Access to reliable information reduces anxiety and stress caused by misinformati
 
 ## Risks which can benefit from this action
 
-* [Improve access to reliable information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_628.md)
+* [Improve access to reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_628.md)
 

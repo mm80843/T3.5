@@ -1,30 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2968 
 
-# __Bio-sensor technology__
+# __Print media__
 
 ## Link between Blueprint and General ontology
 
-* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_115.md)
-* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_127.md)
+* [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_18.md)
 
 ## Category to which it belongs
 
-* [A wide array of advanced technologies that detect and measure various environmental factors and human activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
+* [Advanced audiovisual technology is revolutionizing communication, surveillance, and media dissemination in our society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_120.md)
 
 ## Closest similar item
 
-* [Biosensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_239.md)
-* [Biosensor](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2410.md)
-* [Sensor-based technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2264.md)
-* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2372.md)
-* [Biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2119.md)
-* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
-* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
-* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2179.md)
-* [Environmental sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2757.md)
-* [Motion-sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2665.md)
+* [Ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3146.md)
+* [Printing company services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3147.md)
+* [3d printing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_133.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3022.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
+* [3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3881.md)
+* [Improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2013.md)
+* [Media monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1284.md)
+* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3714.md)
+* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_928.md)
 
 ## This Technology enables the following mitigations
 
-* [Biosensors for diagnostics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4183.md)
+* [Public health education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3990.md)
 

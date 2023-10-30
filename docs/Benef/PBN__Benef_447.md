@@ -21,5 +21,5 @@ GIS and GPS applications can support the mapping of COVID-19 hotspots, contact t
 
 ## Risks which can benefit from this action
 
-* [Integration of gis and gps applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_465.md)
+* [Integration of gis and gps applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_465.md)
 

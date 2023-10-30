@@ -21,5 +21,5 @@ HEMS can provide CO2 emission information, promoting more environmentally-consci
 
 ## Risks which can benefit from this action
 
-* [Home energy management systems hems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_601.md)
+* [Home energy management systems hems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_601.md)
 

@@ -21,5 +21,5 @@ Identifies model parameters using AnyLogic simulation
 
 ## Risks which can benefit from this action
 
-* [People flow model identification method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_117.md)
+* [People flow model identification method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_117.md)
 

@@ -1,21 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3768 
 
-# __Online learning resources to enhance residents’ digital literacy and skills__
+# __Similarity measures__
 
 ## Category to which it belongs
 
-* [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Online learning resources to enhance residents’ digital literacy and skills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3768.md)
-* [Digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
-* [Online educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_627.md)
-* [Online educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2092.md)
-* [Improve broadband availability and invest in digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1912.md)
-* [Online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_74.md)
-* [Online tutorials and guides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_416.md)
-* [Online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
-* [Media literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_581.md)
-* [Online training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1699.md)
+* [Redundancy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_326.md)
+* [Ontology matching](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3766.md)
+* [Comparative data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_902.md)
+* [Noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1237.md)
+* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2423.md)
+* [Statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_357.md)
+* [Neighborhood control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3507.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
+* [Information filtering systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1285.md)
+* [Data analysis algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1976.md)
+
+## This Technology enables the following mitigations
+
+* [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5118.md)
 

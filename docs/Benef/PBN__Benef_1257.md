@@ -20,5 +20,5 @@ Identifies people not wearing masks, helps enforce proper regulations
 
 ## Risks which can benefit from this action
 
-* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1276.md)
+* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1276.md)
 

@@ -21,5 +21,5 @@ Cross-population AI models can be used to detect COVID-19 in one country using a
 
 ## Risks which can benefit from this action
 
-* [Cross-population ai models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_653.md)
+* [Cross-population ai models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_653.md)
 

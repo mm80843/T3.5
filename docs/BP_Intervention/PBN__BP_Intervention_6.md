@@ -12,7 +12,7 @@ Disinfection of air
 
 ## Category to which it belongs
 
-* [Air purification for hygiene purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_356.md)
+* [Sanitizing the atmosphere.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_156.md)
 
 ## This intervention is used in the following blueprints
 

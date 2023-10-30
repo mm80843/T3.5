@@ -20,5 +20,5 @@ Safety measures for drinking water ensure high-quality water, reducing the risk 
 
 ## Risks which can benefit from this action
 
-* [Safety measures for drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_850.md)
+* [Safety measures for drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_850.md)
 

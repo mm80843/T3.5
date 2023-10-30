@@ -20,5 +20,5 @@ Promoting positive attitudes towards COVID-19 prevention measures and government
 
 ## Risks which can benefit from this action
 
-* [Attitude change interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_868.md)
+* [Attitude change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_868.md)
 

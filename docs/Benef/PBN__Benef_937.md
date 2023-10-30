@@ -21,5 +21,5 @@ Early detection allows for prompt isolation and treatment, reducing transmission
 
 ## Risks which can benefit from this action
 
-* [Development of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_934.md)
+* [Development of wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_934.md)
 

@@ -21,5 +21,5 @@ Comparing the number of deaths averted with and without interventions provides a
 
 ## Risks which can benefit from this action
 
-* [Comparison of deaths averted with and without interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_825.md)
+* [Comparison of deaths averted with and without interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_825.md)
 

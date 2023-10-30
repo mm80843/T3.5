@@ -21,5 +21,5 @@ Physical barriers, such as plexiglass shields, can create a physical barrier bet
 
 ## Risks which can benefit from this action
 
-* [Use of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_374.md)
+* [Use of physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_374.md)
 

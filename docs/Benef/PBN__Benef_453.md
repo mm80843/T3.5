@@ -21,5 +21,5 @@ Equipping hospitals with trained rapid-response teams, proper PPE, and infection
 
 ## Risks which can benefit from this action
 
-* [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_471.md)
+* [Equipping hospitals and infection control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_471.md)
 

@@ -20,5 +20,5 @@ Vector control tools aim to limit transmission of pathogens, reducing disease in
 
 ## Risks which can benefit from this action
 
-* [Vector control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_331.md)
+* [Vector control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_331.md)
 

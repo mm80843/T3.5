@@ -20,5 +20,5 @@ Repurposing existing smart city infrastructure (e.g., wearables, surveillance sy
 
 ## Risks which can benefit from this action
 
-* [Preparing and providing smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1104.md)
+* [Preparing and providing smart city infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1104.md)
 

@@ -21,5 +21,5 @@ Decreased number of imported cases and potential for community transmission
 
 ## Risks which can benefit from this action
 
-* [Border control and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_94.md)
+* [Border control and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_94.md)
 

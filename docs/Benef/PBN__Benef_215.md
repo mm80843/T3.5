@@ -20,5 +20,5 @@ Access to real-time patient health data allows for better understanding of the v
 
 ## Risks which can benefit from this action
 
-* [Implement iot technologies and data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_201.md)
+* [Implement iot technologies and data collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_201.md)
 

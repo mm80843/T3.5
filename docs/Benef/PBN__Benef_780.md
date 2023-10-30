@@ -22,5 +22,5 @@ Inspiring other nations to pursue climate action, promoting green recovery, supp
 
 ## Risks which can benefit from this action
 
-* [Leadership by example and ambition](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_779.md)
+* [Leadership by example and ambition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_779.md)
 

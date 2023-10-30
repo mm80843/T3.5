@@ -21,5 +21,5 @@ Blockchain technology provides transparency and traceability in the supply chain
 
 ## Risks which can benefit from this action
 
-* [Blockchain technology for supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1056.md)
+* [Blockchain technology for supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1056.md)
 

@@ -20,5 +20,5 @@ Designing rooms with moveable partition walls and flexible layouts allows for ad
 
 ## Risks which can benefit from this action
 
-* [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_748.md)
+* [Flexible and adaptable room design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_748.md)
 

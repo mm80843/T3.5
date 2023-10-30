@@ -1,30 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2369 
 
-# __Bicycles__
-
-## Link between Blueprint and General ontology
-
-* [Bim](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_258.md)
+# __Control__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
-* [Bicycle paths](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2429.md)
-* [Stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2464.md)
-* [Cycling and pedestrian infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3701.md)
-* [Walking and cycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1221.md)
-* [Gyms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1739.md)
-* [Mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2330.md)
-* [Ground vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3695.md)
-* [Treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2463.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
-* [E-scooters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2370.md)
+* [Control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3605.md)
+* [Individual controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_195.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3321.md)
+* [Voice control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3639.md)
+* [Source control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3436.md)
+* [Crowd control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2818.md)
+* [Control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1103.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
+* [Remote control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3647.md)
+* [Controlled access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3719.md)
 
 ## This Technology enables the following mitigations
 
-* [Active travel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3382.md)
-* [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4063.md)
+* [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3212.md)
 

@@ -21,5 +21,5 @@ Drones can transport medical equipment and samples, monitor quarantine areas, an
 
 ## Risks which can benefit from this action
 
-* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1282.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1282.md)
 

@@ -21,5 +21,5 @@ Strengthening public health surveillance allows for timely and accurate data, wh
 
 ## Risks which can benefit from this action
 
-* [Strengthening public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_727.md)
+* [Strengthening public health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_727.md)
 

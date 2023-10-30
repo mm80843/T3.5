@@ -21,5 +21,5 @@ Cloud, edge, and fog computing enable efficient storage and analysis of wearable
 
 ## Risks which can benefit from this action
 
-* [Cloud, edge, and fog computing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_501.md)
+* [Cloud, edge, and fog computing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_501.md)
 

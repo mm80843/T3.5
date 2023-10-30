@@ -38,11 +38,11 @@ Understanding the role of urban design in disease spreading
 
 ## This article points to following mitigation
 
-* [Decentralization of activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3377.md)
-* [Segregation of subsets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3378.md)
-* [Even distribution of housing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3379.md)
-* [Isolation parameter](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3380.md)
-* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3381.md)
+* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3381.md)
+* [Decentralization of activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3377.md)
+* [Segregation of subsets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3378.md)
+* [Even distribution of housing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3379.md)
+* [Isolation parameter](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3380.md)
 
 ## This article mentions these technologies
 

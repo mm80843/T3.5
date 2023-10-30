@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2668 
 
-# __Sink__
+# __Nucleic acid-based polymerase chain reaction pcr__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Various methods for analyzing and detecting biomarkers and nucleic acids, including quantitative pcr and real-time pcr techniques, as well as dna/rna extraction methods and sequencing techniques, with the aid of monitoring and scanning technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_140.md)
 
 ## Closest similar item
 
-* [Bathroom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2669.md)
-* [Drainage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3653.md)
-* [Fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2909.md)
-* [Bathrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3114.md)
-* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2312.md)
-* [Proper disposal](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3457.md)
-* [Proper sealing of pipes and sinks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1752.md)
-* [Waterfalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2908.md)
-* [Drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3110.md)
-* [And plumbing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2943.md)
+* [Nucleic acid-based polymerase chain reaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2466.md)
+* [Real-time polymerase chain reaction rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3250.md)
+* [Reverse transcription-quantitative polymerase chain reaction rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3795.md)
+* [Reverse transcriptase quantitative polymerase chain reaction rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2341.md)
+* [Pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2468.md)
+* [Pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2464.md)
+* [Pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3510.md)
+* [Digital pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2069.md)
+* [Nucleic acid extraction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3847.md)
+* [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3797.md)
 
 ## This Technology enables the following mitigations
 
-* [Enhanced sanitation room](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3781.md)
+* [Pooled-sample analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1021.md)
 

@@ -17,10 +17,10 @@ Facial recognition technology can identify individuals without physical contact,
 ## Stakeholders benefitting from this Benefit
 
 * [Healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_192.md)
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_190.md)
 * [Access control](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_191.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_190.md)
 
 ## Risks which can benefit from this action
 
-* [Automated face recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_405.md)
+* [Automated face recognition technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_405.md)
 

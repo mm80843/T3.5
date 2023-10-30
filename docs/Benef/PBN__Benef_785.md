@@ -20,5 +20,5 @@ Implementing safety protocols and providing PPE improves the well-being of const
 
 ## Risks which can benefit from this action
 
-* [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_781.md)
+* [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_781.md)
 

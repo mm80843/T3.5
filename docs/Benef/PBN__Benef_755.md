@@ -20,5 +20,5 @@ Green spaces provide habitat, shelter, and food for urban wildlife, contributing
 
 ## Risks which can benefit from this action
 
-* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_752.md)
+* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_752.md)
 

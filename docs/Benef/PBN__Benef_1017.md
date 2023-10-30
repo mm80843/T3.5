@@ -22,5 +22,5 @@ WBE can facilitate the properly timed and targeted shutdown and reopening of spe
 
 ## Risks which can benefit from this action
 
-* [Wbe for monitoring covid-19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1023.md)
+* [Wbe for monitoring covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1023.md)
 

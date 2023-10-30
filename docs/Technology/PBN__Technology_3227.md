@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3227 
 
-# __Mhealth__
+# __Copper alloy coatings__
 
 ## Category to which it belongs
 
-* [Advancements in healthcare technology, remote care services, public health campaigns, and improved healthcare facilities contribute to a comprehensive and efficient healthcare system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Healthy lifestyle apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2051.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_339.md)
-* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1215.md)
-* [Health education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_320.md)
-* [Official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3240.md)
-* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_311.md)
-* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
-* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
-* [Healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2375.md)
-* [Community health centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_221.md)
+* [Alloys copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3642.md)
+* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
+* [Copper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3641.md)
+* [Copper particles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2858.md)
+* [Surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_791.md)
+* [Titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3229.md)
+* [Safe coating materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_266.md)
+* [Carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3230.md)
+* [Cu2o](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2493.md)
+* [Silver nanocoating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3228.md)
 
 ## This Technology enables the following mitigations
 
-* [Mobile technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4591.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1350.md)
 

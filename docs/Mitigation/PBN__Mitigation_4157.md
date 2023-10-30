@@ -1,8 +1,43 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4157 
 
-# __Negative-pressure ventilation&&&airflow direction&&&control the airflows in micro spaces&&&negative pressure aiirs&&&generating negative pressure&&&air control&&&negative pressure during cleaning&&&good air flow&&&ventilation control&&&negative pressure isolation ward__
+# __Urban green spaces__
 
 ## Link between Blueprint and General ontology
 
-* [Control of airflows (airtight / negative pressure)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_7.md)
+* [Greenery](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_24.md)
+
+## Category to which it belongs
+
+* [Enhancing access to and incorporating green and outdoor spaces for improved livability and connectivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_58.md)
+
+## Closest similar item
+
+* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3526.md)
+* [Availability of urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5094.md)
+* [Open green spaces in urban periphery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1230.md)
+* [Proximity to urban green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5095.md)
+* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4161.md)
+* [Increase in the number and accessibility of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_982.md)
+* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2405.md)
+* [Incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4969.md)
+* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_460.md)
+* [Promote awareness and education about the benefits of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_459.md)
+
+## Blueprints with this mitigation
+
+* [Acces to green space](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_16.md)
+
+## Property: has_MitigationPrinciple
+
+UGSs provide physical and mental health benefits, ecosystemic services, and a connection to nature, improving overall well-being in urban areas.
+
+## Risks possibly mitigated by this Mitigation
+
+
+## Property: has_MitigationSource
+
+* [Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_198.md)
+
+## This Mitigation is enabled by the following technologies
+
 

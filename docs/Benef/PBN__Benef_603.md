@@ -21,5 +21,5 @@ Modifying office building design and layout can minimize infection spreading pro
 
 ## Risks which can benefit from this action
 
-* [Modify office building design and layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_603.md)
+* [Modify office building design and layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_603.md)
 

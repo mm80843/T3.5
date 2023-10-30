@@ -12,7 +12,7 @@ Quarantine support
 
 ## Category to which it belongs
 
-* [Support for isolation or restricted movement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_379.md)
+* [Support for individuals in isolation or lockdown due to a communicable disease or contagious condition.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_179.md)
 
 ## This intervention is used in the following blueprints
 

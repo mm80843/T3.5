@@ -22,5 +22,5 @@ Early contractor involvement, improved communication and decision-making, shared
 
 ## Risks which can benefit from this action
 
-* [Integrated project delivery model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_370.md)
+* [Integrated project delivery model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_370.md)
 

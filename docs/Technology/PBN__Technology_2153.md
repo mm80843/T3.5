@@ -1,25 +1,30 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2153 
 
-# __Helpline system__
+# __Uv air purification systems__
 
 ## Category to which it belongs
 
-* [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
+* [Advanced filtration systems that clean and purify air, water, and remove particles and pathogens efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_113.md)
 
 ## Closest similar item
 
-* [Helpline services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_43.md)
-* [Online platforms for helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_685.md)
-* [Helplines and hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_421.md)
-* [Helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1188.md)
-* [Support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2634.md)
-* [Support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_805.md)
-* [Hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_222.md)
-* [Mental health hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1809.md)
-* [Ai support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
-* [Support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1490.md)
+* [Air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
+* [Air filtration and uv light sterilisation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_412.md)
+* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
+* [Uv disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1141.md)
+* [Uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1024.md)
+* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2268.md)
+* [Water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
+* [Uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2055.md)
+* [Uv-c light disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1251.md)
+* [Air filtration technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_308.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Increase helpline](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3157.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2100.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2238.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Purification and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2134.md)
 

@@ -20,5 +20,5 @@ Increased biodiversity reduces the abundance of infected vectors, leading to low
 
 ## Risks which can benefit from this action
 
-* [Increase biodiversity of urban environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_76.md)
+* [Increase biodiversity of urban environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_76.md)
 

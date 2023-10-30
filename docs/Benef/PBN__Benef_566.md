@@ -20,5 +20,5 @@ The government needs to boost the country's economy, overcome unemployment, and 
 
 ## Risks which can benefit from this action
 
-* [Financial aids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_577.md)
+* [Financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_577.md)
 

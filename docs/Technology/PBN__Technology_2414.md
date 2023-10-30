@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2414 
 
-# __Heat source__
+# __Epidermal tattoos__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
-* [Heat](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2626.md)
-* [Heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2850.md)
-* [Thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2956.md)
-* [Temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1061.md)
-* [Cooling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3259.md)
-* [Thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3131.md)
-* [Hot water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1048.md)
-* [Thermal sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3690.md)
-* [Thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3145.md)
-* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
+* [Wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2417.md)
+* [Facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
+* [Printing and lamination technologies can be used to create professional signs that are durable and visually appealing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1090.md)
+* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3825.md)
+* [Emanators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3834.md)
+* [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_854.md)
+* [Surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2889.md)
+* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3209.md)
+* [Cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
 
 ## This Technology enables the following mitigations
 
-* [Heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3441.md)
+* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3261.md)
 

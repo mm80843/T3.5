@@ -46,25 +46,25 @@ Using Technology to Maintain the Education of Residents During the COVID-19 Pand
 
 ## This article points to following mitigation
 
-* [Flipped classroom strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_40.md)
-* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_42.md)
-* [Separate tracks for junior and senior residents](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3484.md)
-* [Social media group for daily practice questions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3485.md)
-* [Telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3486.md)
-* [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3487.md)
-* [Viewing surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3488.md)
+* [Telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3486.md)
+* [Flipped classroom strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_40.md)
+* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
+* [Social media group for daily practice questions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3485.md)
+* [Viewing surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3488.md)
+* [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3487.md)
+* [Separate tracks for junior and senior residents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3484.md)
 
 ## This article mentions these technologies
 
-* [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
 * [Simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_387.md)
 * [Simulation activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_394.md)
-* [Screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_391.md)
+* [Telehealth conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_389.md)
 * [Flipped classroom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_384.md)
 * [Video lectures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_385.md)
 * [Teleconferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_386.md)
 * [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
 * [Surgical videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_388.md)
 * [Surgical video libraries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_392.md)
+* [Screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_391.md)
 * [Staff oversight](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_393.md)
 

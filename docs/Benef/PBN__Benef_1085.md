@@ -21,5 +21,5 @@ By reducing inter-personal contact, robots and drones minimize the risk of infec
 
 ## Risks which can benefit from this action
 
-* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1098.md)
+* [Robots and drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1098.md)
 

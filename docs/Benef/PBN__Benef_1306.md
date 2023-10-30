@@ -20,5 +20,5 @@ Chat bots and phone-based software for self-monitoring and medical treatment ref
 
 ## Risks which can benefit from this action
 
-* [Ai-based triage systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1328.md)
+* [Ai-based triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1328.md)
 

@@ -20,5 +20,5 @@ Proper urban planning can minimize conditions that favor mosquito breeding and l
 
 ## Risks which can benefit from this action
 
-* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_70.md)
+* [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_70.md)
 

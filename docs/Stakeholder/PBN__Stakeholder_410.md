@@ -8,7 +8,7 @@
 
 ## Category to which it belongs
 
-* [Groups and individuals who are at a disadvantage and in need of support in various community settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_415.md)
+* [Individuals and communities experiencing financial hardship, including renters, workers, and residents of low-income neighborhoods, particularly in urban areas and developing countries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
 
 ## Closest similar item
 
@@ -18,7 +18,7 @@
 * [Low-income residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_488.md)
 * [Students and young workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_224.md)
 * [Low-income citizens](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_508.md)
-* [Low-income citizen](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2163.md)
+* [Low-income citizen](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2242.md)
 * [Students](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_101.md)
 * [Individuals in low-income areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1561.md)
 * [Low-income workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1258.md)

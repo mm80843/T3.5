@@ -20,5 +20,5 @@ Implementing risk prevention measures and promoting small-scale tourism can help
 
 ## Risks which can benefit from this action
 
-* [Risk prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_412.md)
+* [Risk prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_412.md)
 

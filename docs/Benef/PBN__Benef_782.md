@@ -20,5 +20,5 @@ Safety protocols help ensure the health and safety of construction workers, redu
 
 ## Risks which can benefit from this action
 
-* [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_781.md)
+* [Safety protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_781.md)
 

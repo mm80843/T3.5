@@ -22,5 +22,5 @@ Directing recovery funds towards sustainable development initiatives promotes ec
 
 ## Risks which can benefit from this action
 
-* [Direct recovery funds towards sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_19.md)
+* [Direct recovery funds towards sustainable development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_19.md)
 

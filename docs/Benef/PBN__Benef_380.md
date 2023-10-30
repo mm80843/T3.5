@@ -20,5 +20,5 @@ Reviewing and adjusting contracts and service agreements can help construction c
 
 ## Risks which can benefit from this action
 
-* [Review and adjust contracts and service agreements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_383.md)
+* [Review and adjust contracts and service agreements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_383.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Efforts to inform, educate, and enforce regulations, policies, and preparedness strategies for public safety and effective governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
+* [Efforts to inform and engage the public, promote awareness, influence policies, and foster community involvement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
 * [Partnership agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_445.md)
-* [International partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3531.md)
-* [Collaboration agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3532.md)
-* [Cross-sector collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2749.md)
+* [International partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3696.md)
+* [Collaboration agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3697.md)
+* [Cross-sector collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2915.md)
 * [Public consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_105.md)
 * [Public consultations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1597.md)
-* [Collaboration across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2885.md)
-* [Network of partners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2809.md)
+* [Collaboration across sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3050.md)
+* [Network of partners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2975.md)
 * [Public engagement strategies and community involvement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_731.md)
-* [Public engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3518.md)
+* [Public engagement strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3683.md)
 
 ## This technology is mentioned by
 

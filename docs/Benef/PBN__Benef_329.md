@@ -21,5 +21,5 @@ Transforming public places into informative nodes allows for the dissemination o
 
 ## Risks which can benefit from this action
 
-* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_325.md)
+* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_325.md)
 

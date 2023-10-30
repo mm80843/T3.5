@@ -4,5 +4,5 @@
 
 ## Mitigations of this risk
 
-* [Credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1395.md)
+* [Credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1395.md)
 

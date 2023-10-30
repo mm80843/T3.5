@@ -22,5 +22,5 @@ Improved surveillance systems can detect and identify outbreaks early, leading t
 
 ## Risks which can benefit from this action
 
-* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1030.md)
+* [Improve surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1030.md)
 

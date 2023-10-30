@@ -23,5 +23,5 @@ Innovating and utilizing multiple channels such as social media, interviews, and
 
 ## Risks which can benefit from this action
 
-* [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_561.md)
+* [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_561.md)
 

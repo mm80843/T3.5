@@ -22,5 +22,5 @@ By raising awareness about the importance of UGS in the urban landscape, cities 
 
 ## Risks which can benefit from this action
 
-* [Raising awareness about the relevance of ugs in urban landscape](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_963.md)
+* [Raising awareness about the relevance of ugs in urban landscape](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_963.md)
 

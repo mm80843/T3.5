@@ -12,5 +12,5 @@ Cleaning technologies (robots)
 
 ## Category to which it belongs
 
-* [Automated systems designed to maintain cleanliness without human intervention.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_361.md)
+* [Robotic solutions for maintaining cleanliness and tidiness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_161.md)
 

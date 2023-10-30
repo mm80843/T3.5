@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2519 
 
-# __Humidification systems__
+# __Task classification low__
 
 ## Category to which it belongs
 
-* [Enhanced hvac systems with improved ventilation, air purification, humidity control, and energy efficiency, along with regular maintenance and smart controls.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
-* [Humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_923.md)
-* [Humidifier](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2413.md)
-* [Humidity control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1163.md)
-* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3446.md)
-* [Hvac systems with humidity control capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2101.md)
-* [Humidity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2355.md)
-* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3748.md)
-* [Moisture management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3276.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
-* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
+* [Task-shifting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
+* [Deep learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1713.md)
+* [Early detection and response systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_524.md)
+* [Classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1915.md)
+* [Surface classification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3604.md)
+* [Deep learning models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3137.md)
+* [Data mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2423.md)
+* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2555.md)
+* [Deep learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3213.md)
 
 ## This Technology enables the following mitigations
 
-* [Maintaining indoor relative humidity between 40% and 60%](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3586.md)
+* [Daily tasks and activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3369.md)
 

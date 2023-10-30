@@ -21,5 +21,5 @@ A flexible and adaptable design allows for easy modifications to meet changing n
 
 ## Risks which can benefit from this action
 
-* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1322.md)
+* [Implementing flexible and adaptable design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1322.md)
 

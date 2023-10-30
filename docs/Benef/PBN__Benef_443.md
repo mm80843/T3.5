@@ -20,5 +20,5 @@ Well-maintained and upgraded urban green spaces enhance the overall quality of t
 
 ## Risks which can benefit from this action
 
-* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_460.md)
+* [Upgrade and maintain urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_460.md)
 

@@ -22,6 +22,6 @@ Transparent barriers limit direct contact, reducing the risk of virus transmissi
 
 ## Risks which can benefit from this action
 
-* [Installation of barriers or partitions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_477.md)
-* [Integration of touch-free systems and antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_481.md)
+* [Installation of barriers or partitions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_477.md)
+* [Integration of touch-free systems and antimicrobial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_481.md)
 

@@ -21,5 +21,5 @@ By adopting a resilient approach, critical infrastructure can maintain the deliv
 
 ## Risks which can benefit from this action
 
-* [Resilient approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_644.md)
+* [Resilient approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_644.md)
 

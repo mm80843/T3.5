@@ -21,5 +21,5 @@ Rental assistance programs reduce rental debt and rent burdens, increasing housi
 
 ## Risks which can benefit from this action
 
-* [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_178.md)
+* [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_178.md)
 

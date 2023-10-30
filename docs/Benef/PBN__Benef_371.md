@@ -21,5 +21,5 @@ High-efficiency air filters, such as HEPA filters, can effectively capture and r
 
 ## Risks which can benefit from this action
 
-* [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_373.md)
+* [Use of high-efficiency air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_373.md)
 

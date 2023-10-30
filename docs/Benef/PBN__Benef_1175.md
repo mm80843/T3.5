@@ -20,5 +20,5 @@ Increased social support and wellbeing through virtual communication
 
 ## Risks which can benefit from this action
 
-* [Virtual platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1178.md)
+* [Virtual platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1178.md)
 

@@ -22,5 +22,5 @@ Increased investment in research and development boosts innovation and technolog
 
 ## Risks which can benefit from this action
 
-* [Invest in research and development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1041.md)
+* [Invest in research and development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1041.md)
 

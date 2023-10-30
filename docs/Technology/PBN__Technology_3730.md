@@ -1,35 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3730 
 
-# __Air sensors__
-
-## Link between Blueprint and General ontology
-
-* [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_119.md)
-* [Air pollution sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_120.md)
-* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_121.md)
-* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_122.md)
-* [Smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_123.md)
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_124.md)
-* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_125.md)
+# __Stores__
 
 ## Category to which it belongs
 
-* [A wide array of advanced technologies that detect and measure various environmental factors and human activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_430.md)
-* [Air pollution sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2271.md)
-* [Indoor air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1485.md)
-* [Outdoor air monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1747.md)
-* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
-* [Smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1019.md)
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2084.md)
-* [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
-* [Air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1660.md)
-* [Indoor sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3139.md)
+* [Online plant stores](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_418.md)
+* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3431.md)
+* [On-site shopping facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2406.md)
+* [Websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1087.md)
+* [Supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2847.md)
+* [Pharmacies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3729.md)
+* [Rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3574.md)
+* [Newspapers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3181.md)
+* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2702.md)
+* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
 
-## This is also an enabler
+## This Technology enables the following mitigations
 
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_6.md)
+* [Self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5050.md)
 

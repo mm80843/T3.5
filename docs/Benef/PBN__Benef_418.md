@@ -21,5 +21,5 @@ Greened facades and access to greened roofs can compensate for a lack of outdoor
 
 ## Risks which can benefit from this action
 
-* [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_423.md)
+* [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_423.md)
 

@@ -1,26 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3760 
 
-# __Housing and building design__
-
-## Link between Blueprint and General ontology
-
-* [Building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_205.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_207.md)
+# __Measuring rh__
 
 ## Category to which it belongs
 
-* [Building design and construction practices prioritize sustainability, incorporate innovative technology, and consider social equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
+* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
-* [Housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_454.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [Building systems and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
-* [Building design and construction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_455.md)
-* [Housing quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2882.md)
-* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
-* [Building design and layout modifications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2671.md)
-* [Building layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2521.md)
-* [Housing policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3703.md)
-* [Housing developers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1394.md)
+* [Rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1060.md)
+* [Can be used to regulate ah and rh levels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1058.md)
+* [Measurement devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2786.md)
+* [Multiplexed measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2420.md)
+* [Physical distancing tools and measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2115.md)
+* [Infrared thermometer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2860.md)
+* [Biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2473.md)
+* [Physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1988.md)
+* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1881.md)
+* [Laboratory standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1318.md)
+
+## This Technology enables the following mitigations
+
+* [Rh effect on uv inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5106.md)
 

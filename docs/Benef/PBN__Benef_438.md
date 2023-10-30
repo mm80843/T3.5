@@ -20,5 +20,5 @@ Improved spatial organization maximizes space usage, enhances functionality, and
 
 ## Risks which can benefit from this action
 
-* [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_454.md)
+* [Optimize space and improve spatial layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_454.md)
 

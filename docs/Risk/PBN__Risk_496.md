@@ -4,22 +4,22 @@
 
 ## Category to which it belongs
 
-* [Inadequate ventilation, poor air quality, and high levels of indoor pollutants pose health risks in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_136.md)
+* [Inadequate air quality control contributes to the circulation of harmful contaminants and transmission of diseases through the built environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_37.md)
 
 ## Closest similar item
 
-* [Air ventilation control system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3569.md)
-* [Control air movement in small spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3570.md)
-* [Clean air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3568.md)
 * [Control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3270.md)
-* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3571.md)
 * [Aq3: airflows control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_186.md)
 * [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3347.md)
-* [Control the airflows in micro spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3526.md)
-* [Control sources, design ventilation systems, clean air.](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3572.md)
 * [Increased air change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2713.md)
+* [Air recirculation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1311.md)
+* [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
+* [Air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3289.md)
+* [Improving air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2513.md)
+* [Increased air change rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2712.md)
+* [Airflow issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2973.md)
 
 ## Mitigations of this risk
 
-* [Ventilation, filtration, and humidification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_704.md)
+* [Ventilation, filtration, and humidification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_704.md)
 

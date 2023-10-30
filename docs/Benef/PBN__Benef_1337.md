@@ -20,5 +20,5 @@ The use of PPE, such as masks and gloves, can protect individuals from infection
 
 ## Risks which can benefit from this action
 
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
 

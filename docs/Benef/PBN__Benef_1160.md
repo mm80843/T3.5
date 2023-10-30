@@ -21,5 +21,5 @@ Facilitates remote monitoring of individuals in quarantine, ensures compliance, 
 
 ## Risks which can benefit from this action
 
-* [Mobile technology in tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1162.md)
+* [Mobile technology in tracking patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1162.md)
 

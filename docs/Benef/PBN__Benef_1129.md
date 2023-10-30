@@ -20,5 +20,5 @@ Access to accurate and reliable information can reduce fear and anxiety levels, 
 
 ## Risks which can benefit from this action
 
-* [Promote reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1134.md)
+* [Promote reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1134.md)
 

@@ -20,5 +20,5 @@ Individuals in deprived areas have equitable access to COVID-19 testing, reducin
 
 ## Risks which can benefit from this action
 
-* [Differential testing rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_682.md)
+* [Differential testing rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_682.md)
 

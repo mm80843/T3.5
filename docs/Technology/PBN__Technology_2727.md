@@ -1,25 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2727 
 
-# __Window fans__
+# __Protective clothing__
 
 ## Category to which it belongs
 
-* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
-* [Fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2256.md)
-* [Mixing fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
-* [Quieter fan technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2018.md)
-* [Use of fans and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_683.md)
-* [Ceiling mounted fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_258.md)
-* [Window design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2475.md)
-* [Window size](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3443.md)
-* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
-* [Wind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3301.md)
-* [Use operable windows and shading devices for natural ventilation and temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1266.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
+* [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
+* [Cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3869.md)
+* [Personal protective equipment masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2404.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_949.md)
+* [Technology and materials for protection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2116.md)
+* [Eye protection gear](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3164.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_817.md)
+* [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_589.md)
+* [Textiles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2416.md)
 
 ## This Technology enables the following mitigations
 
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_607.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3575.md)
 

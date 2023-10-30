@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2548 
 
-# __Github repositories__
+# __Fluorescent staining protocol__
 
 ## Category to which it belongs
 
-* [Fact-checking tools, education initiatives, and ontology search engines are among the various resources and practices utilized to ensure the credibility and accuracy of information in different fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_240.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
-* [Gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3037.md)
-* [Gis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2978.md)
-* [Geographic information systems gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3523.md)
-* [Geographic information systems gis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_539.md)
-* [Gis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2973.md)
-* [Open-source platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_465.md)
-* [Project updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_816.md)
-* [Geographic information systems gis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1680.md)
-* [Geographical information system gis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2556.md)
-* [Trusted sources certification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_936.md)
+* [Fluorescent lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3458.md)
+* [X-ray fluorescence spectroscopy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2872.md)
+* [Molecular testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3016.md)
+* [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1910.md)
+* [Laboratory standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1318.md)
+* [Uv light sterilisation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2641.md)
+* [Pathogen detectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3732.md)
+* [Premoistened swabs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3280.md)
+* [Biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2671.md)
+* [Ultraviolet uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2798.md)
 
 ## This Technology enables the following mitigations
 
-* [Shareable data formats](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3610.md)
+* [Immunofluorescence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3397.md)
 

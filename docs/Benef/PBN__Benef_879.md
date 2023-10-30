@@ -21,5 +21,5 @@ WBE surveillance can identify patients who have recovered from COVID-19, providi
 
 ## Risks which can benefit from this action
 
-* [Wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_881.md)
+* [Wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_881.md)
 

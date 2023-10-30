@@ -21,5 +21,5 @@ Reduction in travel-related cases and potential for large-scale transmission
 
 ## Risks which can benefit from this action
 
-* [Specific approaches for containment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_98.md)
+* [Specific approaches for containment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_98.md)
 

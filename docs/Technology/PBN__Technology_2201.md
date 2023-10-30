@@ -1,25 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2201 
 
-# __Control__
+# __Firewalls and intrusion detection systems__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Data protection measures, privacy regulations, encryption and authentication techniques, and standardized protocols ensure secure and anonymous communication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_118.md)
 
 ## Closest similar item
 
-* [Control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
-* [Individual controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_195.md)
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3156.md)
-* [Voice control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3474.md)
-* [Source control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3271.md)
-* [Crowd control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2651.md)
-* [Control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1103.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
-* [Remote control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3482.md)
-* [Controlled access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3554.md)
+* [Intrusion detection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1634.md)
+* [Firewalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1595.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1879.md)
+* [Use firewalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1917.md)
+* [Cybersecurity and security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2192.md)
+* [Cybersecurity protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_577.md)
+* [Data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1314.md)
+* [Network security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_101.md)
+* [Cybersecurity technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1574.md)
+* [Security audit platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1900.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechnologySubgroup
 
-* [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3212.md)
+* [Firewalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1595.md)
+* [Intrusion detection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1634.md)
 

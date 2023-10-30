@@ -20,5 +20,5 @@ Offering smaller, isolated accommodation units and more outdoor experiences can 
 
 ## Risks which can benefit from this action
 
-* [Adaptation of tourism offerings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_411.md)
+* [Adaptation of tourism offerings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_411.md)
 

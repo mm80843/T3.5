@@ -1,30 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2520 
 
-# __Uvc and uvgi lights__
-
-## Link between Blueprint and General ontology
-
-* [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_189.md)
-* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_191.md)
+# __Medium__
 
 ## Category to which it belongs
 
-* [Innovative technology utilizing ultraviolet light for sterilization and disinfection purposes in various systems and devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_244.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Uvgi lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2332.md)
-* [Uv-c light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2323.md)
-* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2283.md)
-* [Ultraviolet uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2630.md)
-* [Uv light systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_880.md)
-* [Uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2415.md)
-* [Uv light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2583.md)
-* [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2079.md)
-* [Uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3710.md)
-* [Uv-c light technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1647.md)
+* [Infection medium](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2546.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3022.md)
+* [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1579.md)
+* [Heat](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2794.md)
+* [None specified](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1623.md)
+* [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3872.md)
+* [Mmwave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3523.md)
+* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2749.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_485.md)
+* [Phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1092.md)
 
 ## This Technology enables the following mitigations
 
-* [Uv light disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3589.md)
+* [Daily tasks and activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3369.md)
 

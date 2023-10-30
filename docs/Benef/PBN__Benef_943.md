@@ -20,5 +20,5 @@ Redesigning the workplace to accommodate social distancing measures can increase
 
 ## Risks which can benefit from this action
 
-* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_936.md)
+* [Workplace redesign](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_936.md)
 

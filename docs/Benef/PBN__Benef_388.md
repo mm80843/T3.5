@@ -22,5 +22,5 @@ Focus resources on areas with higher risk
 
 ## Risks which can benefit from this action
 
-* [Risk mapping process](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_391.md)
+* [Risk mapping process](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_391.md)
 

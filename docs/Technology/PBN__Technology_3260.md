@@ -1,29 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3260 
 
-# __Improved stove technology__
-
-## Link between Blueprint and General ontology
-
-* [Improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_220.md)
+# __Medications__
 
 ## Category to which it belongs
 
-* [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
-* [Clean cooking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1480.md)
-* [Cooking appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3120.md)
-* [Clean cookstoves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1481.md)
-* [Cooking techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3269.md)
-* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
-* [Emission control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1249.md)
-* [Energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)
-* [Improved biomass fuels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1482.md)
-* [Improved 3d printing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2013.md)
-* [Advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1555.md)
+* [Anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_238.md)
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_761.md)
+* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_236.md)
+* [Personalized medicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1551.md)
+* [Anti-malaria drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_237.md)
+* [Pharmacies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3729.md)
+* [Antiviral](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3293.md)
+* [Suitable treatment and](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1863.md)
+* [Antivirals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_827.md)
+* [Anti-bacterial](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3291.md)
 
 ## This Technology enables the following mitigations
 
-* [Improved cooking stoves](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4654.md)
+* [Medication prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4393.md)
 

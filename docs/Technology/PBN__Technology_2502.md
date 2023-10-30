@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2502 
 
-# __Analytical chemistry__
+# __Silica gel desiccant rotor__
 
 ## Category to which it belongs
 
-* [Innovative technologies and materials combat pathogens, enhance disinfection, and advance research in antiviral therapies and detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Analytical tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3350.md)
-* [Mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2047.md)
-* [Advanced mass spectrometry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3344.md)
-* [Electrochemical reactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2304.md)
-* [Chemical compositions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2162.md)
-* [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
-* [Bipolar ionization technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
-* [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_180.md)
-* [Eco-active materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2496.md)
-* [Molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3573.md)
+* [Biophilic desing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3908.md)
+* [Desiccation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2795.md)
+* [Sephadex g-10 gel filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2881.md)
+* [Disinfectant wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_671.md)
+* [Robotic disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2291.md)
+* [Adsorption-elution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2470.md)
+* [Preprocessing disinfection equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3783.md)
+* [Sanitizing wipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_771.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3115.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
 
 ## This Technology enables the following mitigations
 
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
+* [Desiccant rotor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3351.md)
 

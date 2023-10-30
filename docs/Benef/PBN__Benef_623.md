@@ -21,5 +21,5 @@ Research on sustainable solutions during and after the pandemic can accelerate t
 
 ## Risks which can benefit from this action
 
-* [Research on sustainable solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_619.md)
+* [Research on sustainable solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_619.md)
 

@@ -20,5 +20,5 @@ Users can conduct independent detection and understand their risk of infection.
 
 ## Risks which can benefit from this action
 
-* [Development of a mobile application with an expert system for early detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1141.md)
+* [Development of a mobile application with an expert system for early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1141.md)
 

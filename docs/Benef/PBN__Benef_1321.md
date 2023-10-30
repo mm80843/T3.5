@@ -20,5 +20,5 @@ Modern heating and cooling systems can provide better control over indoor temper
 
 ## Risks which can benefit from this action
 
-* [Improvement of indoor heating and cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1346.md)
+* [Improvement of indoor heating and cooling systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1346.md)
 

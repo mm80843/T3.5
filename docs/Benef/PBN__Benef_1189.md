@@ -21,5 +21,5 @@ Continuously active antimicrobial coating reduces the spread of hospital acquire
 
 ## Risks which can benefit from this action
 
-* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1189.md)
+* [Continuously active antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1189.md)
 

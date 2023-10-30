@@ -22,5 +22,5 @@ By incorporating sustainability criteria that prioritize the integration of UGS 
 
 ## Risks which can benefit from this action
 
-* [Incorporation of sustainability criteria for urban design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_962.md)
+* [Incorporation of sustainability criteria for urban design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_962.md)
 

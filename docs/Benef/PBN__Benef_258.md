@@ -20,5 +20,5 @@ Optimizing ventilation systems can reduce the influx of outdoor microbes and con
 
 ## Risks which can benefit from this action
 
-* [Optimizing ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_247.md)
+* [Optimizing ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_247.md)
 

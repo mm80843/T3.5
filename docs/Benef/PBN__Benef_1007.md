@@ -21,5 +21,5 @@ Consistent and standardized data terminologies, facilitating data sharing and in
 
 ## Risks which can benefit from this action
 
-* [Standardizing data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1007.md)
+* [Standardizing data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1007.md)
 

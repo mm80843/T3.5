@@ -22,5 +22,5 @@ Inactivation of the virus on high-touch surfaces and reduced risk of infection f
 
 ## Risks which can benefit from this action
 
-* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_574.md)
+* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_574.md)
 

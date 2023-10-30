@@ -24,6 +24,6 @@ Contact tracing and monitoring technology enables early detection and containmen
 
 ## Risks which can benefit from this action
 
-* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_537.md)
-* [Testing policy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_772.md)
+* [Contact tracing and monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_537.md)
+* [Testing policy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_772.md)
 

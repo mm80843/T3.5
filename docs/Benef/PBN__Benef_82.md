@@ -20,5 +20,5 @@ Strategic landscaping in suburban areas can reduce contact between disease vecto
 
 ## Risks which can benefit from this action
 
-* [Suburban landscape design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_71.md)
+* [Suburban landscape design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_71.md)
 

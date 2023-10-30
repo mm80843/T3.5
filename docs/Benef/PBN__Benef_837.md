@@ -21,5 +21,5 @@ By adjusting occupant presence, the risk of viral transmission can be minimized
 
 ## Risks which can benefit from this action
 
-* [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_837.md)
+* [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_837.md)
 

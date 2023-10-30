@@ -20,5 +20,5 @@ Passive design strategies, such as optimized building orientation and careful op
 
 ## Risks which can benefit from this action
 
-* [Passive design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_996.md)
+* [Passive design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_996.md)
 

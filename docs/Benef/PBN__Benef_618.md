@@ -21,5 +21,5 @@ Adequate ventilation systems in makeshift hospitals reduce the risk of airborne 
 
 ## Risks which can benefit from this action
 
-* [Adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_613.md)
+* [Adequate ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_613.md)
 

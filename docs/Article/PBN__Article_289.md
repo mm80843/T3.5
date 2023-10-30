@@ -40,16 +40,16 @@ Validity of energy social research during and after COVID-19: challenges, consid
 
 ## This article points to following mitigation
 
-* [Capturing extra relevant data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3674.md)
-* [Adjusting research design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3675.md)
-* [Reporting study conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3676.md)
-* [Considering additional variables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3677.md)
-* [Longitudinal elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3678.md)
-* [Replicating previous research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3679.md)
-* [Using multiple data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3680.md)
-* [Considering context in interpretation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3681.md)
-* [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3682.md)
-* [Address biases in knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3683.md)
+* [Using multiple data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3680.md)
+* [Longitudinal elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3678.md)
+* [Adjusting research design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3675.md)
+* [Replicating previous research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3679.md)
+* [Capturing extra relevant data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3674.md)
+* [Reporting study conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3676.md)
+* [Considering additional variables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3677.md)
+* [Considering context in interpretation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3681.md)
+* [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3682.md)
+* [Address biases in knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3683.md)
 
 ## This article mentions these technologies
 

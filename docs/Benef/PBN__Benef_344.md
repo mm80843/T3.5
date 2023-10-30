@@ -20,5 +20,5 @@ Decreased risk of virus transmission through surfaces
 
 ## Risks which can benefit from this action
 
-* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_216.md)
+* [Self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_216.md)
 

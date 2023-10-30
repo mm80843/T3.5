@@ -12,7 +12,7 @@ Use of smart/innovative air quality controls technology
 
 ## Category to which it belongs
 
-* [Implementation of cutting-edge air quality management systems to improve environmental conditions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_350.md)
+* [Harnessing cutting-edge air quality controls technology for improved environmental outcomes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_150.md)
 
 ## This intervention is used in the following blueprints
 

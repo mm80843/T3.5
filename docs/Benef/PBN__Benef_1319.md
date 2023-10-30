@@ -20,5 +20,5 @@ Improved cooking systems reduce the concentration of harmful pollutants such as 
 
 ## Risks which can benefit from this action
 
-* [Improved cooking systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1343.md)
+* [Improved cooking systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1343.md)
 

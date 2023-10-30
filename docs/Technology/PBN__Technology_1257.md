@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
@@ -15,13 +15,13 @@
 * [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_563.md)
 * [Multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1256.md)
 * [Multilingual resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1321.md)
-* [Language resources technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3184.md)
+* [Language resources technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3349.md)
 * [Multilingual social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_900.md)
-* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3755.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+* [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1316.md)
 
 ## This technology is mentioned by
 
@@ -32,7 +32,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Targeted communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1373.md)
+* [Targeted communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1373.md)
 
 ## Risks linked to this technology
 

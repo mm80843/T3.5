@@ -20,5 +20,5 @@ Provides a virtual platform for Annual Review of Clinical Progression (ARCP) ass
 
 ## Risks which can benefit from this action
 
-* [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
+* [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_473.md)
 

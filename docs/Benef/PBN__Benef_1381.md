@@ -21,5 +21,5 @@ Monitoring high temperatures or other indicators to identify individuals who may
 
 ## Risks which can benefit from this action
 
-* [People monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1416.md)
+* [People monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1416.md)
 

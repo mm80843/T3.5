@@ -21,5 +21,5 @@ Back-calculating infections from deaths allows for a more accurate estimation of
 
 ## Risks which can benefit from this action
 
-* [Back-calculation of infections from observed deaths](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_823.md)
+* [Back-calculation of infections from observed deaths](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_823.md)
 

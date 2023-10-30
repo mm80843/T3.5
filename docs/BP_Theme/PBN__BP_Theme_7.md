@@ -8,5 +8,5 @@ theme_Propagation_monitoring
 
 ## Category to which it belongs
 
-* [Monitoring the spread or growth of something.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_509.md)
+* [Monitoring the spread or transmission of something.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_277.md)
 

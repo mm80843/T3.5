@@ -20,5 +20,5 @@ Government, as the client, to revise the contract to aid the contractor in claim
 
 ## Risks which can benefit from this action
 
-* [Contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_581.md)
+* [Contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_581.md)
 

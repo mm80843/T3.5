@@ -20,5 +20,5 @@ Mechanical ventilation systems can effectively dilute and remove infectious part
 
 ## Risks which can benefit from this action
 
-* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_341.md)
+* [Mechanical ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_341.md)
 

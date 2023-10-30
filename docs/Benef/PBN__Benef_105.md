@@ -22,5 +22,5 @@ Remote access for telemedicine, online courses, and virtual conferences, reducin
 
 ## Risks which can benefit from this action
 
-* [Teleoperation technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_91.md)
+* [Teleoperation technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_91.md)
 

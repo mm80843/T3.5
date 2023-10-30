@@ -20,5 +20,5 @@ Restructuring the spatial configuration of services and work activities can impr
 
 ## Risks which can benefit from this action
 
-* [Rethinking management of services and work activities with focus on spatial configuration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1042.md)
+* [Rethinking management of services and work activities with focus on spatial configuration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1042.md)
 

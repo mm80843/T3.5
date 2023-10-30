@@ -20,5 +20,5 @@ Public parks provide health and recreational benefits, but are unlikely to be pr
 
 ## Risks which can benefit from this action
 
-* [Government intervention in providing public parks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_169.md)
+* [Government intervention in providing public parks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_169.md)
 

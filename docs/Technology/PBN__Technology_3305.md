@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3305 
 
-# __Government legislation__
+# __Hardware__
 
 ## Category to which it belongs
 
-* [Efforts to inform, educate, and enforce regulations, policies, and preparedness strategies for public safety and effective governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
+* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
 
 ## Closest similar item
 
-* [Legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2642.md)
-* [Government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
-* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
-* [Government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3533.md)
-* [Government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1640.md)
-* [Government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2855.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
-* [Policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2815.md)
-* [Regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1175.md)
-* [Regulatory policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2639.md)
+* [Hardware and devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2167.md)
+* [Hardware resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1454.md)
+* [Computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3464.md)
+* [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2965.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2638.md)
+* [Embedded board](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2863.md)
+* [Supercomputing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3739.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2287.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
 
 ## This Technology enables the following mitigations
 
-* [Implement policies for paid sick leave](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4714.md)
+* [Samba](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4493.md)
 

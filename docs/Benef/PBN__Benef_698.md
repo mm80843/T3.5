@@ -20,5 +20,5 @@ Building redundancies in supply chains reduces the risk of shortages during cris
 
 ## Risks which can benefit from this action
 
-* [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_692.md)
+* [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_692.md)
 

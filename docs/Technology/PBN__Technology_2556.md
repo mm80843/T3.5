@@ -1,29 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2556 
 
-# __Geographical information system gis__
-
-## Link between Blueprint and General ontology
-
-* [Geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_160.md)
+# __Self-reporting functionality in wearables__
 
 ## Category to which it belongs
 
-* [Strategies for equitable urban planning, development, and design, integrating green spaces, technology, and spatial optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
+* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
-* [Geographic information systems gis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_539.md)
-* [Geographic information systems gis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1680.md)
-* [Geographic information systems gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3523.md)
-* [Geographic information system gis mapping technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2064.md)
-* [Geographical information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2341.md)
-* [Geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1212.md)
-* [Geographic information systems gis can be used to analyze community needs and optimize facility placement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1911.md)
-* [Gis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2973.md)
-* [Geographic information systems gis can help identify areas with low ugs access and guide planning efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1032.md)
-* [Gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3037.md)
+* [Wearable device](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2553.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2800.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2579.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1233.md)
+* [Wearable devices for social distancing monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_859.md)
+* [Wearable device technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
+* [Wearable electronic devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2408.md)
+* [Wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2347.md)
+* [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_405.md)
+* [Fitness tracker](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2552.md)
 
 ## This Technology enables the following mitigations
 
-* [Spatial analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_160.md)
+* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3260.md)
 

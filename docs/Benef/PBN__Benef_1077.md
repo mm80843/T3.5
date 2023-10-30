@@ -20,5 +20,5 @@ Reduces financial burden of implementing necessary adaptations
 
 ## Risks which can benefit from this action
 
-* [Financial support for adaptation projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1088.md)
+* [Financial support for adaptation projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1088.md)
 

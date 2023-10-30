@@ -21,5 +21,5 @@ Increased accuracy and efficiency in tracking and preventing the spread of disea
 
 ## Risks which can benefit from this action
 
-* [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_588.md)
+* [Adoption of digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_588.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Fact-checking tools, education initiatives, and ontology search engines are among the various resources and practices utilized to ensure the credibility and accuracy of information in different fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_240.md)
+* [Efforts to inform and engage the public, promote awareness, influence policies, and foster community involvement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
 * [Public consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_105.md)
-* [Expert consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3629.md)
+* [Expert consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3794.md)
 * [Public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1300.md)
 * [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_334.md)
 * [Public awareness initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_444.md)
 * [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
+* [Advocacy and lobbying efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2085.md)
 * [Remote consultation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1422.md)
-* [Public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3367.md)
+* [Public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3532.md)
 * [Participatory tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1596.md)
-* [Lobbying and advocacy efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1325.md)
 
 ## This technology is mentioned by
 

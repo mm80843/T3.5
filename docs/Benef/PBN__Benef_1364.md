@@ -21,5 +21,5 @@ Reduces the negative financial impact of the pandemic on construction companies 
 
 ## Risks which can benefit from this action
 
-* [Proper handling of pandemic impact](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1402.md)
+* [Proper handling of pandemic impact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1402.md)
 

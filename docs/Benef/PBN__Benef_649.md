@@ -20,5 +20,5 @@ Conducting vulnerability assessments and addressing identified vulnerabilities s
 
 ## Risks which can benefit from this action
 
-* [Identifying and addressing vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_648.md)
+* [Identifying and addressing vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_648.md)
 

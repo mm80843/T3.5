@@ -20,5 +20,5 @@ Requiring people to wear masks in enclosed communal spaces reduces the risk of C
 
 ## Risks which can benefit from this action
 
-* [Mandatory wearing of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_745.md)
+* [Mandatory wearing of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_745.md)
 

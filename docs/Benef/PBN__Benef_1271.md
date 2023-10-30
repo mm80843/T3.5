@@ -22,5 +22,5 @@ UV-C energy reduces viral titers, resulting in undetectable levels of the virus
 
 ## Risks which can benefit from this action
 
-* [Surfacide multiple-emitter automated uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1290.md)
+* [Surfacide multiple-emitter automated uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1290.md)
 

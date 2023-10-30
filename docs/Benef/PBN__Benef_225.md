@@ -20,5 +20,5 @@ Increased access to greenspace has been associated with positive cardiovascular 
 
 ## Risks which can benefit from this action
 
-* [Increase greenspace availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_209.md)
+* [Increase greenspace availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_209.md)
 

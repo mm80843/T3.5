@@ -20,5 +20,5 @@ Equal access to employment, equal pay, and career advancement opportunities
 
 ## Risks which can benefit from this action
 
-* [Investment in gender equality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_541.md)
+* [Investment in gender equality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_541.md)
 

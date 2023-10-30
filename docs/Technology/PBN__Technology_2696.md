@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2696 
 
-# __Lcd panel__
+# __Public epidemiological data__
 
 ## Category to which it belongs
 
-* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
-* [Screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3496.md)
-* [Led screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3205.md)
-* [Large screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
-* [Screens or mesh materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3659.md)
-* [Sliding panel systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2670.md)
-* [Solar panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1760.md)
-* [Glare control devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_189.md)
-* [Screen recording](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_391.md)
-* [Touch screen control tablet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2320.md)
-* [Insecticide-treated screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2884.md)
+* [Epidemiological data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3376.md)
+* [Epidemiological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_755.md)
+* [Artificial intelligence and epidemiological data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3221.md)
+* [Data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_474.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
+* [Population data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1361.md)
+* [Disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1884.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [Disease registries](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2699.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_334.md)
 
 ## This Technology enables the following mitigations
 
-* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3827.md)
+* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3595.md)
 

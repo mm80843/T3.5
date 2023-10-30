@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3712 
 
-# __Positive pressure__
+# __Cleaning and disinfecting agents__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [The advancement and use of various technologies and materials for the purpose of eliminating microorganisms and promoting cleanliness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
-* [Negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1744.md)
-* [Negative pressure system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3711.md)
-* [Pressure sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1723.md)
-* [Negative-pressure ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3309.md)
-* [Negative air machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2877.md)
-* [Backflow valves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3491.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2354.md)
-* [Airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1116.md)
-* [Wind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3301.md)
-* [Adequate airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2282.md)
+* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2229.md)
+* [Cleaning disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3880.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
+* [Disinfection and cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2118.md)
+* [Disinfection and cleaning techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2057.md)
+* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1288.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
+* [Proper cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_226.md)
+* [Cleaning agents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2682.md)
+* [Cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_264.md)
 
 ## This Technology enables the following mitigations
 
-* [Air pressure controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5264.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3283.md)
 

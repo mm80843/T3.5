@@ -21,5 +21,5 @@ Effective contact tracing and isolation can slow and prevent transmission in the
 
 ## Risks which can benefit from this action
 
-* [Outbreak investigations and response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1222.md)
+* [Outbreak investigations and response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1222.md)
 

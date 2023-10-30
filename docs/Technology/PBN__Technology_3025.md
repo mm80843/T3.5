@@ -1,29 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3025 
 
-# __Inventory management__
-
-## Link between Blueprint and General ontology
-
-* [Logistics](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_237.md)
+# __Resources__
 
 ## Category to which it belongs
 
-* [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Inventory management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1132.md)
-* [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
-* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_110.md)
-* [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_9.md)
-* [Improving supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1627.md)
-* [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_637.md)
-* [Supply chain management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_132.md)
-* [Supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1790.md)
-* [Advanced supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_927.md)
-* [Supply chain management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_815.md)
+* [It resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3592.md)
+* [Training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3268.md)
+* [Increased resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3815.md)
+* [Information resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3454.md)
+* [Online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
+* [Financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3019.md)
+* [Food resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3255.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+* [Hardware resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1454.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
 
 ## This Technology enables the following mitigations
 
-* [Inventory optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4293.md)
+* [Health system strengthening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4058.md)
+* [Resilient healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4489.md)
 

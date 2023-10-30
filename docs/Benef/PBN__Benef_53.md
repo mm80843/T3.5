@@ -20,5 +20,5 @@ Viewing high-quality surgical videos in a group study format enhances learning a
 
 ## Risks which can benefit from this action
 
-* [Viewing high-quality surgical videos in a group study format](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_45.md)
+* [Viewing high-quality surgical videos in a group study format](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_45.md)
 

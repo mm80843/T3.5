@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3040 
 
-# __Digital contact tracing apps__
+# __State-transition matrix__
 
 ## Category to which it belongs
 
-* [A compilation of various mobile apps and technologies used for reporting, contact tracing, banking, scheduling, and other functions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Contact tracing app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3341.md)
-* [Use of contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_555.md)
-* [Contact-tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_951.md)
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_793.md)
-* [Mobile apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
-* [Contact tracing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1066.md)
-* [Mobile applications for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_615.md)
-* [Mobile phone apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_601.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_402.md)
+* [Behaviour transition matrix](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3033.md)
+* [Kalman filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3059.md)
+* [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_989.md)
+* [Extended kalman filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3060.md)
+* [Control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3605.md)
+* [Coordination systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1283.md)
+* [Digital control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1313.md)
+* [Energy feedback systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_654.md)
+* [Vector control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3487.md)
+* [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
 
 ## This Technology enables the following mitigations
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3332.md)
+* [Autonomous human behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4071.md)
 

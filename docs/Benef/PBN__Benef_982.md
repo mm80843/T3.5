@@ -20,5 +20,5 @@ Online learning provides access to education for students, especially those who 
 
 ## Risks which can benefit from this action
 
-* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_981.md)
+* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_981.md)
 

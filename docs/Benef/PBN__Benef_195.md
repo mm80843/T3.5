@@ -25,6 +25,6 @@ Eviction moratoria reduce overcrowding and increase compliance with pandemic hea
 
 ## Risks which can benefit from this action
 
-* [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_177.md)
-* [Pre-employment and periodic medical check-ups mcus](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_510.md)
+* [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
+* [Pre-employment and periodic medical check-ups mcus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_510.md)
 

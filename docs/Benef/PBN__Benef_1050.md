@@ -21,5 +21,5 @@ Blockchain technology provides a decentralized solution for contact tracing, ens
 
 ## Risks which can benefit from this action
 
-* [Blockchain technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1055.md)
+* [Blockchain technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1055.md)
 

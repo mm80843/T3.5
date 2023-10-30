@@ -21,5 +21,5 @@ Enables data sharing and formal reasoning
 
 ## Risks which can benefit from this action
 
-* [Build an obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1240.md)
+* [Build an obo ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1240.md)
 

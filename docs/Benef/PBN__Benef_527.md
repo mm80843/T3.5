@@ -20,5 +20,5 @@ Reduced poverty levels and improved living conditions
 
 ## Risks which can benefit from this action
 
-* [Investment in social and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_539.md)
+* [Investment in social and healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_539.md)
 

@@ -22,5 +22,5 @@ Integrated UGS that provide opportunities for both social interaction and seclud
 
 ## Risks which can benefit from this action
 
-* [Providing integrated spaces for social interaction and relaxation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_961.md)
+* [Providing integrated spaces for social interaction and relaxation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_961.md)
 

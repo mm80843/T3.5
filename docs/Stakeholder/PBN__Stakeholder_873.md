@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Vulnerable individuals in low-income, densely populated areas, with limited access to essential services and green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_427.md)
+* [Populations in crowded areas, high-risk areas, low-income communities, and areas with poor sanitation, particularly those in densely populated regions, are at risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 

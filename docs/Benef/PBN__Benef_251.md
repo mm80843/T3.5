@@ -20,5 +20,5 @@ Access to reliable and constant ICT infrastructure ensures stable internet acces
 
 ## Risks which can benefit from this action
 
-* [Emphasis on ict infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_240.md)
+* [Emphasis on ict infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_240.md)
 

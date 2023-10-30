@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3634 
 
-# __Ultrafiltration units__
+# __Noise level difference__
 
 ## Category to which it belongs
 
-* [Air and water purification systems, including filters, machines, purifiers, and technologies for improved air quality and filtration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
-* [Ultrafiltration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2301.md)
-* [Ultrafiltration or nanomembrane filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1748.md)
-* [Membrane filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1931.md)
-* [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
-* [Water purification technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1508.md)
-* [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1843.md)
-* [Water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_91.md)
-* [Water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1750.md)
-* [Mechanical filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3030.md)
+* [Noise level difference compared to background](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1780.md)
+* [Noise barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_960.md)
+* [Noise control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2235.md)
+* [Absence of noise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3701.md)
+* [Noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1237.md)
+* [Noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2000.md)
+* [Noise-cancelling technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_958.md)
+* [Noise-cancelling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1831.md)
+* [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1939.md)
+* [White noise machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_191.md)
 
 ## This Technology enables the following mitigations
 
-* [Physical removal of solid residues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5172.md)
+* [Design level adjustments on noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4968.md)
 

@@ -21,5 +21,5 @@ Exergames using interactive video games have been shown to have a positive effec
 
 ## Risks which can benefit from this action
 
-* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1176.md)
+* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1176.md)
 

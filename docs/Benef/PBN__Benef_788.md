@@ -20,5 +20,5 @@ Using available resources to create new products and services
 
 ## Risks which can benefit from this action
 
-* [Bricolage crisis response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_786.md)
+* [Bricolage crisis response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_786.md)
 

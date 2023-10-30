@@ -20,5 +20,5 @@ Addressing disparities and reducing inequalities can improve social cohesion, in
 
 ## Risks which can benefit from this action
 
-* [Addressing disparities between territories and social groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1043.md)
+* [Addressing disparities between territories and social groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1043.md)
 

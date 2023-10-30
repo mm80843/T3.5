@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2392 
 
-# __Market competition__
+# __Community planning__
 
 ## Category to which it belongs
 
-* [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+* [Strategies and techniques for organizing and developing cities, including infrastructure, green spaces, and equitable policies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
-* [Marketing strategy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2934.md)
-* [Advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2858.md)
-* [Digital marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_906.md)
-* [Digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)
-* [Marketing research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2935.md)
-* [Marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1702.md)
-* [Online marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1799.md)
-* [Market research tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_913.md)
-* [Financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
-* [Market analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1368.md)
+* [Community-level infrastructure planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2606.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
+* [Participatory planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3585.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_377.md)
+* [Planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2386.md)
+* [Community initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2307.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
+* [Community policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2394.md)
+* [Community areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1847.md)
+* [Planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_382.md)
 
 ## This Technology enables the following mitigations
 
-* [Price reduction and availability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3405.md)
+* [Neighbourhood hygiene measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3244.md)
 

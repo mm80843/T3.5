@@ -20,5 +20,5 @@ Monitoring and controlling indoor air quality can help reduce exposure to VOCs, 
 
 ## Risks which can benefit from this action
 
-* [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1347.md)
+* [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1347.md)
 

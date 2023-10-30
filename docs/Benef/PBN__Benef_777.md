@@ -21,5 +21,5 @@ Stronger collective response to crisis, enhanced trust and collaboration among M
 
 ## Risks which can benefit from this action
 
-* [Greater european solidarity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_776.md)
+* [Greater european solidarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_776.md)
 

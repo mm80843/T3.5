@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3368 
 
-# __Standardization__
+# __Robot technology__
+
+## Link between Blueprint and General ontology
+
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_14.md)
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
-* [Standardization efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1637.md)
-* [Standardization and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1588.md)
-* [Laboratory standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1318.md)
-* [Standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_153.md)
-* [Data standardization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1084.md)
-* [Standardized approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2596.md)
-* [Standardized protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_115.md)
-* [Standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_888.md)
-* [Standardised data formats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2539.md)
-* [Standardization of testing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1102.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1171.md)
+* [Robot systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3134.md)
+* [Robotic systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3856.md)
+* [Robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2290.md)
+* [Social robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3860.md)
+* [Industrial robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3863.md)
+* [Medical robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3463.md)
+* [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2042.md)
+* [Robotic and drone technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2162.md)
+* [Automation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3886.md)
 
 ## This Technology enables the following mitigations
 
-* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4815.md)
+* [Drones and robot technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4573.md)
 

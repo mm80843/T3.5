@@ -21,5 +21,5 @@ Increasing the number of medical staff and hospitals can improve healthcare serv
 
 ## Risks which can benefit from this action
 
-* [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1111.md)
+* [Increase healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1111.md)
 

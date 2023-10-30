@@ -20,5 +20,5 @@ UVGI can effectively inactivate airborne infectious agents, reducing the risk of
 
 ## Risks which can benefit from this action
 
-* [Use of 254 nm uvgi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_447.md)
+* [Use of 254 nm uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_447.md)
 

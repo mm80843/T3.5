@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The challenges include the imprecision of data, uncertainty in measurements, inaccuracies, misinformation, and inconsistency in results.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
+* [The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_34.md)
 
 ## Closest similar item
 
@@ -14,12 +14,12 @@
 * [Decrease in traffic flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_868.md)
 * [Controlling human circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2519.md)
 * [Human movement patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_309.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3413.md)
 * [Minimization of the number of people in indoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_440.md)
 * [Crowd congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3090.md)
 * [Information asymmetry between occupants and indoor environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_261.md)
+* [Inaccurate positioning of patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2999.md)
 
 ## Mitigations of this risk
 
-* [Simulation-based people flow modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_116.md)
+* [Simulation-based people flow modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_116.md)
 

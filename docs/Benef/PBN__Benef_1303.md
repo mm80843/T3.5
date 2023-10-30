@@ -20,5 +20,5 @@ Accurate information dissemination and clarifying uncertainties
 
 ## Risks which can benefit from this action
 
-* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1325.md)
+* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1325.md)
 

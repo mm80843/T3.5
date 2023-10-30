@@ -21,5 +21,5 @@ Tracking patient numbers and balancing hospital loads to prevent overwhelming
 
 ## Risks which can benefit from this action
 
-* [Patient tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1408.md)
+* [Patient tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1408.md)
 

@@ -20,5 +20,5 @@ Increasing temperatures and longer sunlight exposure during summer may boost the
 
 ## Risks which can benefit from this action
 
-* [Heat and sunlight exposure in summer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_728.md)
+* [Heat and sunlight exposure in summer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_728.md)
 

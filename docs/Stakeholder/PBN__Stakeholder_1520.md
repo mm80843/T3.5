@@ -4,12 +4,12 @@
 
 ## Category to which it belongs
 
-* [All individuals present in a specific location, including tourists, residents, citizens, migrants, and visitors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_442.md)
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
 
 ## Closest similar item
 
-* [Individuals attending events](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2392.md)
-* [Individual attending event](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2358.md)
+* [Individuals attending events](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2497.md)
+* [Individual attending event](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2460.md)
 * [Event attendees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_841.md)
 * [General nan public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1391.md)
 * [Government nan agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1394.md)

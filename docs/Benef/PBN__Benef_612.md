@@ -20,5 +20,5 @@ Reduced risk of exposure to viable viruses
 
 ## Risks which can benefit from this action
 
-* [Germicidal ultraviolet guv](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_609.md)
+* [Germicidal ultraviolet guv](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_609.md)
 

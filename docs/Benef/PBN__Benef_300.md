@@ -21,5 +21,5 @@ Smaller and individual spaces reduce the chances of disease transmission and pro
 
 ## Risks which can benefit from this action
 
-* [Redesign of internal layouts for better safety and health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_297.md)
+* [Redesign of internal layouts for better safety and health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_297.md)
 

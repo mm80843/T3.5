@@ -20,5 +20,5 @@ Safeguard privacy and protect civil rights from potential abuses from surveillan
 
 ## Risks which can benefit from this action
 
-* [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1199.md)
+* [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1199.md)
 

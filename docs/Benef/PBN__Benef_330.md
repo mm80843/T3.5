@@ -21,5 +21,5 @@ By transforming underused public places into spaces for essential uses, such as 
 
 ## Risks which can benefit from this action
 
-* [Transformation of public places for essential uses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_326.md)
+* [Transformation of public places for essential uses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_326.md)
 

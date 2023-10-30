@@ -20,5 +20,5 @@ UVGI devices can help to inactivate viruses and other microorganisms in high-ris
 
 ## Risks which can benefit from this action
 
-* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_191.md)
+* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_191.md)
 

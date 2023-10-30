@@ -1,25 +1,28 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2177 
 
-# __Digital rt-pcr__
+# __Urban greening technologies__
 
 ## Category to which it belongs
 
-* [Advanced genomic analysis techniques, including real-time polymerase chain reaction pcr and digital pcr, are employed to analyze genetic material.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_249.md)
+* [Increasing access to and incorporating elements of nature into urban environments can enhance the quality and availability of green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_139.md)
 
 ## Closest similar item
 
-* [Rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2419.md)
-* [Digital pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2044.md)
-* [Real-time rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3210.md)
-* [Rt-pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2722.md)
-* [Rt-pcr test](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2622.md)
-* [Quantitative rt-pcr methodology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2902.md)
-* [Pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2296.md)
-* [Rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3681.md)
-* [Pcr techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3345.md)
-* [Real-time polymerase chain reaction rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
+* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
+* [Green technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1645.md)
+* [Urban planning and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2125.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1982.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
+* [Urban planning and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2128.md)
+* [Green spaces and urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2127.md)
+* [Creation of green spaces and green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1871.md)
+* [Urban planning strategies for incorporating green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1618.md)
+* [Green building strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3439.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Robust rt-qpcr assays](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3173.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
+
+## This Technology belongs to this TechSubgroup
+
 

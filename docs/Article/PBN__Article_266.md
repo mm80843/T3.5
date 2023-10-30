@@ -50,12 +50,12 @@ Supporting Technologies for COVID-19 Prevention: Systemized Review
 
 ## This article points to following mitigation
 
-* [3d-printed ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5268.md)
-* [Smart ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5269.md)
-* [Green ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5270.md)
-* [3d-printed isolation wards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5271.md)
-* [Ventilator innovations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5273.md)
-* [Rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5272.md)
+* [Green ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5270.md)
+* [Rapid testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5272.md)
+* [Ventilator innovations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5273.md)
+* [Smart ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5269.md)
+* [3d-printed ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5268.md)
+* [3d-printed isolation wards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5271.md)
 
 ## This article mentions these technologies
 

@@ -21,5 +21,5 @@ Strengthening surveillance and monitoring can improve the ability to forecast an
 
 ## Risks which can benefit from this action
 
-* [Strengthened public health preparedness and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1020.md)
+* [Strengthened public health preparedness and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1020.md)
 

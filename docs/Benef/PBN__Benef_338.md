@@ -20,5 +20,5 @@ Investing in research and development of novel vector control tools can lead to 
 
 ## Risks which can benefit from this action
 
-* [Development of novel vector control tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_334.md)
+* [Development of novel vector control tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_334.md)
 

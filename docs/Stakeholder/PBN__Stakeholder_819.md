@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [The populace, both young and old, from various backgrounds and locations, including vulnerable and marginalized groups, as well as wildlife and indigenous populations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_426.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 

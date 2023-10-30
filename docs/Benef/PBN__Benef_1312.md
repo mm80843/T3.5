@@ -20,5 +20,5 @@ Use of operable windows in living and cooking spaces improves indoor air quality
 
 ## Risks which can benefit from this action
 
-* [Natural ventilation and operable windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1335.md)
+* [Natural ventilation and operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1335.md)
 

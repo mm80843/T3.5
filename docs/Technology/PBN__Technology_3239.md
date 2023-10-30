@@ -1,29 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3239 
 
-# __Online communication tools__
-
-## Link between Blueprint and General ontology
-
-* [Signage and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_268.md)
+# __Uv filter glass__
 
 ## Category to which it belongs
 
-* [Enhanced exchange of information and ideas through technology, platforms, and techniques for effective communication and collaboration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_205.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
-* [Communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
-* [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_717.md)
-* [Communication and collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_808.md)
-* [Virtual communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_144.md)
-* [Remote communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1239.md)
-* [Communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_737.md)
-* [Online collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1661.md)
-* [Messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1425.md)
-* [Education and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2701.md)
-* [Virtual communication and workflow tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2588.md)
+* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2139.md)
+* [Uv air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2153.md)
+* [Affordable filter materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2020.md)
+* [Uv light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2451.md)
+* [Uv irradiation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2268.md)
+* [Uv](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3209.md)
+* [Water filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3628.md)
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
+* [Glass walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
+* [Uv light systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_880.md)
 
 ## This Technology enables the following mitigations
 
-* [Digital care processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4612.md)
+* [Roof uv filter glass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4341.md)
 

@@ -20,5 +20,5 @@ IoT enables effective reachability to patients, allowing for better care and mon
 
 ## Risks which can benefit from this action
 
-* [Implementation of iot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1418.md)
+* [Implementation of iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1418.md)
 

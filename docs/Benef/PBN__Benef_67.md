@@ -21,5 +21,5 @@ Divestment from fossil fuels reduces financial risks and promotes investment in 
 
 ## Risks which can benefit from this action
 
-* [Divestment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_60.md)
+* [Divestment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_60.md)
 

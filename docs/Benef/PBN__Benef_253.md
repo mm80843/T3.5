@@ -20,5 +20,5 @@ Availability of personal space allows residents to establish boundaries and main
 
 ## Risks which can benefit from this action
 
-* [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_242.md)
+* [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_242.md)
 

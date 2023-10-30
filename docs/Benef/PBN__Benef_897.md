@@ -20,5 +20,5 @@ Improved response to public health emergencies
 
 ## Risks which can benefit from this action
 
-* [Adoption of smart communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_898.md)
+* [Adoption of smart communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_898.md)
 

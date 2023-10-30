@@ -21,5 +21,5 @@ Regular disinfection procedures, high-level hygiene, and waste management method
 
 ## Risks which can benefit from this action
 
-* [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_324.md)
+* [Regular disinfection and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_324.md)
 

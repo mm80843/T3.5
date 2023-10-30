@@ -20,5 +20,5 @@ Portable air cleaners with HEPA filters can effectively remove virus particles f
 
 ## Risks which can benefit from this action
 
-* [Use portable room air cleaners with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_190.md)
+* [Use portable room air cleaners with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_190.md)
 

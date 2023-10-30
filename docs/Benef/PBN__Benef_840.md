@@ -21,5 +21,5 @@ Optimizing occupant distribution reduces the number of infected people
 
 ## Risks which can benefit from this action
 
-* [Optimal occupant distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_839.md)
+* [Optimal occupant distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_839.md)
 

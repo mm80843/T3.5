@@ -20,5 +20,5 @@ Providing continued social interactions and adherence to treatment regimes witho
 
 ## Risks which can benefit from this action
 
-* [Deployment of social robots](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_90.md)
+* [Deployment of social robots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_90.md)
 

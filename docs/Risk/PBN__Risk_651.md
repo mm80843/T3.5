@@ -4,5 +4,5 @@
 
 ## Mitigations of this risk
 
-* [Two-way dialogue between decision-makers and the public on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_911.md)
+* [Two-way dialogue between decision-makers and the public on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_911.md)
 

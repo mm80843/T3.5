@@ -20,5 +20,5 @@ Good planning leads to sustainable development, ensuring economic stability and 
 
 ## Risks which can benefit from this action
 
-* [Strengthening planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_280.md)
+* [Strengthening planning mechanism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_280.md)
 

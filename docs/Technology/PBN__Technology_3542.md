@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3542 
 
-# __Bioaider software__
+# __Tempfloor panels__
 
 ## Category to which it belongs
 
-* [Innovative technologies and materials combat pathogens, enhance disinfection, and advance research in antiviral therapies and detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_217.md)
+* [Detection and regulation of heat, from thermal cameras and sensors to smart thermostats and temperature control devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
-* [Bio-sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2968.md)
-* [Biosafety measures and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2207.md)
-* [Bioinformatics software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2660.md)
-* [Financial management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_128.md)
-* [Communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_737.md)
-* [Contract management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_458.md)
-* [R software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2382.md)
-* [Software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3372.md)
-* [Teleconferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_390.md)
-* [Data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1532.md)
+* [Sliding panel systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2836.md)
+* [Temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1061.md)
+* [Flexible floor plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3315.md)
+* [Solar panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1760.md)
+* [Cool roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_970.md)
+* [Double or triple-glazed windows conducive to airtight construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2853.md)
+* [Temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2440.md)
+* [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3435.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
+* [Temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
 
 ## This Technology enables the following mitigations
 
-* [Sequence annotation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5033.md)
+* [Tempfloor panels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4822.md)
 

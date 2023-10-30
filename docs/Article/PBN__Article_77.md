@@ -33,8 +33,8 @@ Rapid expansion of temporary, reliable airborne-infection isolation rooms with n
 ## List of risks in an article
 
 * [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
-* [Shortage of aiirs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_313.md)
 * [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1631.md)
+* [Shortage of aiirs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_313.md)
 * [Lack of patient monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1629.md)
 * [Inadequate room selection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1627.md)
 * [Lack of anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1628.md)
@@ -42,11 +42,11 @@ Rapid expansion of temporary, reliable airborne-infection isolation rooms with n
 
 ## This article points to following mitigation
 
-* [Selecting adequate ward and patient rooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4072.md)
-* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_394.md)
-* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_395.md)
-* [Partitioning to make anterooms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4073.md)
-* [Relocating additional healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4074.md)
+* [Relocating additional healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4074.md)
+* [Selecting adequate ward and patient rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4072.md)
+* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_394.md)
+* [Partitioning to make anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4073.md)
+* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_395.md)
 
 ## This article mentions these technologies
 

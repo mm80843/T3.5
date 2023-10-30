@@ -23,5 +23,5 @@ Users can freely customize space configurations and occupant behaviors to see th
 
 ## Risks which can benefit from this action
 
-* [Multi-agent occupancy simulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_106.md)
+* [Multi-agent occupancy simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_106.md)
 

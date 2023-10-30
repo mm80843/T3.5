@@ -22,5 +22,5 @@ Improve deployment of resources and maximize impact
 
 ## Risks which can benefit from this action
 
-* [Risk maps through cdrs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_387.md)
+* [Risk maps through cdrs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_387.md)
 

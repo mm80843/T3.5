@@ -20,5 +20,5 @@ WBE allows for population-wide surveillance of COVID-19, providing better data o
 
 ## Risks which can benefit from this action
 
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_988.md)
+* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_988.md)
 

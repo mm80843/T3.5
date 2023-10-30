@@ -21,5 +21,5 @@ Blockchain technology provides transparency in the donation process, ensuring th
 
 ## Risks which can benefit from this action
 
-* [Blockchain-based donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1053.md)
+* [Blockchain-based donation tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1053.md)
 

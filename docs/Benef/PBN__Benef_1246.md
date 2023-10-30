@@ -27,5 +27,5 @@ Improved access to public space, reduced disparities, enhanced social inclusion
 
 ## Risks which can benefit from this action
 
-* [Incorporating the needs of vulnerable groups in public space design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1262.md)
+* [Incorporating the needs of vulnerable groups in public space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1262.md)
 

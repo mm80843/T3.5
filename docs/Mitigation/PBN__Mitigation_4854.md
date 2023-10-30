@@ -1,0 +1,37 @@
+[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4854 
+
+# __Green new deals__
+
+## Category to which it belongs
+
+* [Promote equitable access to and utilization of urban green spaces, prioritize biodiversity conservation, and implement sustainable land use practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_56.md)
+
+## Closest similar item
+
+* [Green new deal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5078.md)
+* [Green ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5270.md)
+* [Green retrofitting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1390.md)
+* [Increase availability of green views](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_461.md)
+* [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4063.md)
+* [Increased greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4984.md)
+* [Adapt green area management to "new normal" lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1316.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4431.md)
+* [Green retrofit of buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_423.md)
+* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_72.md)
+
+## Property: has_MitigationPrinciple
+
+Implement policy frameworks and initiatives, such as Green New Deals, to stimulate economic recovery while promoting sustainable development and climate action
+
+## Risks possibly mitigated by this Mitigation
+
+* [Lack of comprehensive and coordinated climate action](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3267.md)
+
+## Property: has_MitigationSource
+
+* [Contextualizing the Covid-19 pandemic for a carbon-constrained world: Insights for sustainability transitions, energy justice, and research methodology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_123.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Policy frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1492.md)
+

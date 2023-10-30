@@ -20,5 +20,5 @@ Access to financial resources and reduced risk of food insecurity
 
 ## Risks which can benefit from this action
 
-* [Social protection programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1070.md)
+* [Social protection programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1070.md)
 

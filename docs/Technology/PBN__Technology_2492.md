@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2492 
 
-# __Smart bins__
+# __Louvers or shields__
 
 ## Category to which it belongs
 
-* [Technological advancements enable seamless, secure, and convenient digital interactions, remote work, contact tracing, and smart device integration.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_209.md)
+* [Various measures such as wearable devices, protective clothing, and physical distancing markers promote safety and protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_127.md)
 
 ## Closest similar item
 
-* [Trash bins](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1022.md)
-* [Smart windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
-* [Smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2979.md)
-* [Smart technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3718.md)
-* [Segregation boxes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3492.md)
-* [Automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3153.md)
-* [Smart systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2478.md)
-* [Smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1004.md)
-* [Smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
-* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
+* [Shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2891.md)
+* [Face shields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_484.md)
+* [Barricades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_367.md)
+* [Wind catchers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2356.md)
+* [Masks or face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2460.md)
+* [Gloves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_485.md)
+* [Posters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2515.md)
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3832.md)
+* [Protective barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_229.md)
+* [Protective clothing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2727.md)
 
 ## This Technology enables the following mitigations
 
-* [Urban solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_803.md)
+* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
 

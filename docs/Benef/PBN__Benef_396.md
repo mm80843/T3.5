@@ -20,5 +20,5 @@ Allowing patients to authorize access to their medical records improves their co
 
 ## Risks which can benefit from this action
 
-* [Patient-controlled access to medical records](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_400.md)
+* [Patient-controlled access to medical records](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_400.md)
 

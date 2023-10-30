@@ -20,5 +20,5 @@ Ensuring equitable distribution of nutritious food improves dietary behaviors an
 
 ## Risks which can benefit from this action
 
-* [Mapping access to nutritious food and equitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_355.md)
+* [Mapping access to nutritious food and equitable distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_355.md)
 

@@ -21,5 +21,5 @@ Testing identifies few cases at potentially high cost during reduced community t
 
 ## Risks which can benefit from this action
 
-* [Universal asymptomatic rt-pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1220.md)
+* [Universal asymptomatic rt-pcr testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1220.md)
 

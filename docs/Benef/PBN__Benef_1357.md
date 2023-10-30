@@ -20,5 +20,5 @@ Non-contact interaction activities, such as online administrative services, redu
 
 ## Risks which can benefit from this action
 
-* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1393.md)
+* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1393.md)
 

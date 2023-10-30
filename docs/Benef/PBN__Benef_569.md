@@ -20,5 +20,5 @@ Government can provide officers to the project sites to help in the explanation 
 
 ## Risks which can benefit from this action
 
-* [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_578.md)
+* [Planning and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_578.md)
 

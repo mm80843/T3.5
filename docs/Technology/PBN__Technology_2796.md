@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2796 
 
-# __Carbon allowances__
+# __Freezing__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Carbon accounting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2552.md)
-* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1236.md)
-* [Carbon reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3303.md)
-* [Low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3387.md)
-* [Activated carbon](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1889.md)
-* [Activated carbon filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2689.md)
-* [Co2 concentration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3455.md)
-* [Reduced fossil fuel use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2832.md)
-* [Carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3065.md)
-* [Environmental policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2550.md)
+* [Ultra-cold freezers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1297.md)
+* [Temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1061.md)
+* [Cold storage facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3327.md)
+* [Heat](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2794.md)
+* [Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2425.md)
+* [Responsiveness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2741.md)
+* [Thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3121.md)
+* [Water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2480.md)
+* [Cooling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3424.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3423.md)
 
 ## This Technology enables the following mitigations
 
-* [Carbon border tax](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3979.md)
+* [Effective disinfection techniques for roundworms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3734.md)
 

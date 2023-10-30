@@ -21,5 +21,5 @@ Using location data to optimize transport based on demand
 
 ## Risks which can benefit from this action
 
-* [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1405.md)
+* [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1405.md)
 

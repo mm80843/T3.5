@@ -21,5 +21,5 @@ Improving access to quality education for students from low-income backgrounds r
 
 ## Risks which can benefit from this action
 
-* [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1035.md)
+* [Enhance education access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1035.md)
 

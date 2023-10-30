@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3589 
 
-# __Online advertising tools__
+# __Fihr__
 
 ## Category to which it belongs
 
-* [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2858.md)
-* [Online campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_46.md)
-* [Media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2189.md)
-* [Market analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1368.md)
-* [Market research tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_913.md)
-* [Online marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1799.md)
-* [Marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1702.md)
-* [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_878.md)
-* [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
-* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
+* [Rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1060.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1750.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1447.md)
+* [Tissues](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2964.md)
+* [Chws](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2353.md)
+* [Mechanical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2498.md)
+* [Technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3000.md)
+* [Chloramine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3132.md)
+* [Digital twin](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3135.md)
+* [Textiles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2416.md)
 
 ## This Technology enables the following mitigations
 
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4406.md)
+* [Common standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4905.md)
 

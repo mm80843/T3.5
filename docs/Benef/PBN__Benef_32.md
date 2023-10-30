@@ -20,5 +20,5 @@ Increases access to job opportunities near neighborhoods and promotes alternativ
 
 ## Risks which can benefit from this action
 
-* [Job proximity and active transportation support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_24.md)
+* [Job proximity and active transportation support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_24.md)
 

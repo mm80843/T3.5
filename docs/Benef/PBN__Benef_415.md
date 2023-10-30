@@ -21,5 +21,5 @@ Urban green spaces provide aesthetic benefits, promote recreation and health, an
 
 ## Risks which can benefit from this action
 
-* [Expansion of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_420.md)
+* [Expansion of urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_420.md)
 

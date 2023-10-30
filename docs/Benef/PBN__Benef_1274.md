@@ -20,5 +20,5 @@ The development of drug therapies can provide treatment options for COVID-19 pat
 
 ## Risks which can benefit from this action
 
-* [Development of drug therapies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1294.md)
+* [Development of drug therapies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1294.md)
 

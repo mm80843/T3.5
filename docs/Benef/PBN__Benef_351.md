@@ -20,5 +20,5 @@ Enhanced productivity and communication, increased access to services
 
 ## Risks which can benefit from this action
 
-* [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_353.md)
+* [Improved internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_353.md)
 

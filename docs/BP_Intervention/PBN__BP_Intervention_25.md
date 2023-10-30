@@ -12,7 +12,7 @@ Outdoor spaces
 
 ## Category to which it belongs
 
-* [Open-air environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_374.md)
+* [Open-air environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_174.md)
 
 ## This intervention is used in the following blueprints
 

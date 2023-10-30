@@ -24,6 +24,6 @@ Company policies promoting personal hygiene practices, such as handwashing and p
 
 ## Risks which can benefit from this action
 
-* [Increased sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1415.md)
-* [Implementation of company policies promoting personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1308.md)
+* [Increased sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1415.md)
+* [Implementation of company policies promoting personal hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1308.md)
 

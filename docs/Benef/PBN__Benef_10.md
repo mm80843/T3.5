@@ -20,5 +20,5 @@ Enhanced safety for victims of domestic violence through increased reporting and
 
 ## Risks which can benefit from this action
 
-* [Increased surveillance and support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_6.md)
+* [Increased surveillance and support services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_6.md)
 

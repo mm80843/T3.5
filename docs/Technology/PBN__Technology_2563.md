@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2563 
 
-# __Systematic reviews__
+# __Evidence base__
 
 ## Category to which it belongs
 
-* [Fact-checking tools, education initiatives, and ontology search engines are among the various resources and practices utilized to ensure the credibility and accuracy of information in different fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_240.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Expert review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1895.md)
-* [Peer review](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2745.md)
-* [Reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2744.md)
-* [Contract review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3333.md)
-* [Reporting guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_838.md)
+* [Knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2325.md)
 * [Frameworks for evaluation of real-world evidence research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_522.md)
-* [Improved evaluation and selection criteria for meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1927.md)
-* [Improved peer-review processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1924.md)
-* [Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_521.md)
-* [Peer-review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1226.md)
+* [Knowledge-base system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2566.md)
+* [Fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
+* [Fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_579.md)
+* [Fact-checking and information verification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2059.md)
+* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_890.md)
+* [Credible sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3287.md)
+* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_580.md)
+* [Fact-checking organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_935.md)
 
 ## This Technology enables the following mitigations
 
-* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_551.md)
+* [Health insurance coverage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3406.md)
 

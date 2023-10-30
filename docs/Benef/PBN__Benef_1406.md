@@ -21,5 +21,5 @@ Provides reliable and scientifically proven information, guiding medical profess
 
 ## Risks which can benefit from this action
 
-* [Evidence-based research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1442.md)
+* [Evidence-based research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1442.md)
 

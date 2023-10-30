@@ -20,5 +20,5 @@ Temperature and RH affect virus stability, leading to improved survival in the e
 
 ## Risks which can benefit from this action
 
-* [Maintaining optimum temperature and humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_257.md)
+* [Maintaining optimum temperature and humidity levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_257.md)
 

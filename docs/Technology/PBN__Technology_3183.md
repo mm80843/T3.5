@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3183 
 
-# __Cleaning and sanitation technology__
+# __Mopso__
 
 ## Category to which it belongs
 
-* [Enhanced cleaning practices, hygiene supplies, and proper cleaning procedures ensure optimal cleanliness and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Increased cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1822.md)
-* [Enhanced cleaning and sanitation protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1178.md)
-* [Sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_30.md)
-* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3317.md)
-* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1216.md)
-* [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
-* [Sanitation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_246.md)
-* [Water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1943.md)
-* [Automated cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_751.md)
-* [Enhanced cleaning and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_727.md)
+* [Omop](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3588.md)
+* [Sio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3358.md)
+* [Gis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3143.md)
+* [Cu2o](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2493.md)
+* [Yolo](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3504.md)
+* [Ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1461.md)
+* [Snomed](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3590.md)
+* [Chws](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2353.md)
+* [Press releases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1174.md)
+* [Mhealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3392.md)
 
 ## This Technology enables the following mitigations
 
-* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4227.md)
+* [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_837.md)
 

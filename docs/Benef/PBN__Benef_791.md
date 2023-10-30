@@ -20,5 +20,5 @@ Providing information and assistance tailored to startup challenges
 
 ## Risks which can benefit from this action
 
-* [Information and support services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_789.md)
+* [Information and support services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_789.md)
 

@@ -1,32 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2611 
 
-# __Database__
-
-## Link between Blueprint and General ontology
-
-* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_9.md)
-* [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_78.md)
-* [Linked data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_174.md)
+# __Zoom__
 
 ## Category to which it belongs
 
-* [Efficiently manage, secure, analyze, and integrate diverse data through various advanced tools and platforms.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2571.md)
-* [Sqlite database](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3036.md)
-* [Research databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2562.md)
-* [Open-access databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_784.md)
-* [Data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2735.md)
-* [Data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
-* [Data management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_158.md)
-* [Data collection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_758.md)
-* [Data management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_779.md)
-* [Knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2157.md)
+* [Camera](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2864.md)
+* [Large screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
+* [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3140.md)
+* [Screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3661.md)
+* [Glazing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3311.md)
+* [Cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3216.md)
+* [Goggles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2635.md)
+* [Virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1231.md)
+* [Views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3308.md)
+* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3518.md)
 
 ## This Technology enables the following mitigations
 
-* [Cloud service and database](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3711.md)
-* [Qr code check-in](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3826.md)
+* [Teleconference format for academic conferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_42.md)
 

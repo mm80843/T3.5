@@ -20,5 +20,5 @@ Controlling indoor humidity can limit the survival and transmission of influenza
 
 ## Risks which can benefit from this action
 
-* [Indoor humidity monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_258.md)
+* [Indoor humidity monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_258.md)
 

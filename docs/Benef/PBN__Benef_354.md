@@ -21,5 +21,5 @@ Bringing fresh food supplies closer to neighborhoods mitigates closure of centra
 
 ## Risks which can benefit from this action
 
-* [Establishing makeshift neighborhood food markets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_356.md)
+* [Establishing makeshift neighborhood food markets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_356.md)
 

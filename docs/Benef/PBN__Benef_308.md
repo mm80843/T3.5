@@ -21,5 +21,5 @@ Harmonization of technical standards and regulations
 
 ## Risks which can benefit from this action
 
-* [Reduce heterogeneity of technical standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_305.md)
+* [Reduce heterogeneity of technical standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_305.md)
 

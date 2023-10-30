@@ -44,12 +44,12 @@ COVID19: Small and medium enterprises challenges and responses with creativity, 
 
 ## This article points to following mitigation
 
-* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_832.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_275.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_427.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4051.md)
-* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3699.md)
-* [Testing and tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4935.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_427.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_832.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4051.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3699.md)
+* [Testing and tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4935.md)
 
 ## This article mentions these technologies
 
@@ -61,7 +61,7 @@ COVID19: Small and medium enterprises challenges and responses with creativity, 
 * [E-commerce platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_694.md)
 * [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_637.md)
 * [Job placement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1692.md)
-* [Online training courses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1693.md)
 * [Local sourcing networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1691.md)
+* [Online training courses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1693.md)
 * [Digital marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_906.md)
 

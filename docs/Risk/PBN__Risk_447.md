@@ -4,5 +4,5 @@
 
 ## Mitigations of this risk
 
-* [Increase public health funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_621.md)
+* [Increase public health funding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_621.md)
 

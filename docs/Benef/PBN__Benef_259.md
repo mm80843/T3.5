@@ -20,5 +20,5 @@ Designing restrooms with low network centrality can limit the movement of microb
 
 ## Risks which can benefit from this action
 
-* [Designing restrooms with low network centrality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_248.md)
+* [Designing restrooms with low network centrality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_248.md)
 

@@ -21,5 +21,5 @@ Engaging communities in control policies increases support and participation, le
 
 ## Risks which can benefit from this action
 
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_662.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_662.md)
 

@@ -20,5 +20,5 @@ Improving public transport options encourages modal shift from private cars, lea
 
 ## Risks which can benefit from this action
 
-* [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_741.md)
+* [Expansion of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_741.md)
 

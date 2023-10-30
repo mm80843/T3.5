@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3636 
 
-# __Membrane technology__
+# __Apartment-level farming__
 
 ## Category to which it belongs
 
-* [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
+* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
-* [Membrane filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1931.md)
-* [Ultrafiltration or nanomembrane filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1748.md)
-* [Electronegative membranes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2175.md)
-* [Water purification technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1508.md)
-* [Ultrafiltration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2301.md)
-* [Molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3573.md)
-* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
-* [Ultrafiltration units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3634.md)
-* [Water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_91.md)
-* [Wastewater treatment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1064.md)
+* [Community-level farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
+* [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3731.md)
+* [Vertical farming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3389.md)
+* [Urban farming technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1219.md)
+* [Gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1783.md)
+* [Organic farming methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2721.md)
+* [Vertical gardening systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_620.md)
+* [Sustainable farming practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1505.md)
+* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1269.md)
+* [Shelter facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2324.md)
 
 ## This Technology enables the following mitigations
 
-* [Membrane-based wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5174.md)
+* [Urban/community farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_245.md)
 

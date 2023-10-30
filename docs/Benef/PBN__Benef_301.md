@@ -21,5 +21,5 @@ Community-level planning and design strategies promote social cohesion, active l
 
 ## Risks which can benefit from this action
 
-* [Implementation of community-level planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_298.md)
+* [Implementation of community-level planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
 

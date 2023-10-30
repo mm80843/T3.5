@@ -22,5 +22,5 @@ Implementing digital and ICT tools can enhance performance, efficiency, and cust
 
 ## Risks which can benefit from this action
 
-* [Implementing digital and ict tools for retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1045.md)
+* [Implementing digital and ict tools for retail and neighborhood services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1045.md)
 

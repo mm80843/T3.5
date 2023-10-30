@@ -20,5 +20,5 @@ Copper coatings can be quickly applied to existing steel parts, providing a cost
 
 ## Risks which can benefit from this action
 
-* [Copper coating via cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_69.md)
+* [Copper coating via cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_69.md)
 

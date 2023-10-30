@@ -20,5 +20,5 @@ The integration of virtual space and physical space in community planning create
 
 ## Risks which can benefit from this action
 
-* [Composite space service facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1394.md)
+* [Composite space service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1394.md)
 

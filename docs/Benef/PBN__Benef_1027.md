@@ -22,5 +22,5 @@ Strengthened coordination and collaboration between different agencies and stake
 
 ## Risks which can benefit from this action
 
-* [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1033.md)
+* [Strengthen coordination and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1033.md)
 

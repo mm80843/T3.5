@@ -21,5 +21,5 @@ Proper classification and disinfection of hospital wastes reduces the risk of di
 
 ## Risks which can benefit from this action
 
-* [Proper classification and disinfection of hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_933.md)
+* [Proper classification and disinfection of hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_933.md)
 

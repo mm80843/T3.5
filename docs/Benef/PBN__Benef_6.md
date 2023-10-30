@@ -21,5 +21,5 @@ Developing better controls can improve the accuracy of quantifying SARS-CoV-2 in
 
 ## Risks which can benefit from this action
 
-* [Improved controls for monitoring virus recovery efficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_2.md)
+* [Improved controls for monitoring virus recovery efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2.md)
 

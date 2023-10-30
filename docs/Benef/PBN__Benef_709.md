@@ -20,5 +20,5 @@ Reduces the risk of infection for vulnerable employees
 
 ## Risks which can benefit from this action
 
-* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_708.md)
+* [Restructuring workforce](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_708.md)
 

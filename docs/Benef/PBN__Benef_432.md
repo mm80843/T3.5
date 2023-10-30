@@ -20,5 +20,5 @@ UV air disinfection can effectively inactivate respiratory animal viral aerosols
 
 ## Risks which can benefit from this action
 
-* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_448.md)
+* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_448.md)
 

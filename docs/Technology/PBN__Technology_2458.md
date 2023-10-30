@@ -1,25 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2458 
 
-# __Yoga mats__
+# __Disinfectant products__
 
 ## Category to which it belongs
 
-* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [The advancement and use of various technologies and materials for the purpose of eliminating microorganisms and promoting cleanliness.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_114.md)
 
 ## Closest similar item
 
-* [Rollout mats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1717.md)
-* [Online yoga classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2459.md)
-* [Treadmills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2463.md)
-* [Exercise equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2460.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2632.md)
-* [Material support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2685.md)
-* [Textiles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2248.md)
-* [Cloth masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3705.md)
-* [Wristbands](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2249.md)
-* [Flexible furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2476.md)
+* [Disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
+* [Disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3115.md)
+* [Chemical disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3772.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
+* [Disinfection supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_362.md)
+* [Use of disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1726.md)
+* [Regular disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2666.md)
 
 ## This Technology enables the following mitigations
 
-* [Yoga](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3501.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3283.md)
+* [Disinfection of fomites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3305.md)
 

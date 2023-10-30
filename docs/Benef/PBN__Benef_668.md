@@ -20,5 +20,5 @@ Highlighting the health benefits of sustainable development policies promotes th
 
 ## Risks which can benefit from this action
 
-* [Integration of health in development policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_663.md)
+* [Integration of health in development policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_663.md)
 

@@ -22,5 +22,5 @@ Establishing well-documented procedures for future pandemics and crises
 
 ## Risks which can benefit from this action
 
-* [Preparedness procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1417.md)
+* [Preparedness procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1417.md)
 

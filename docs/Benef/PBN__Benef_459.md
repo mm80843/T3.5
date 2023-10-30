@@ -20,5 +20,5 @@ Provides remote access to healthcare services, reducing the need for patients to
 
 ## Risks which can benefit from this action
 
-* [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_474.md)
+* [Digital patient management solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_474.md)
 

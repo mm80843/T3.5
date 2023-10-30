@@ -21,5 +21,5 @@ Early detection and rapid response to disease outbreaks can help contain their s
 
 ## Risks which can benefit from this action
 
-* [Integrated surveillance of human cases and vectors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1019.md)
+* [Integrated surveillance of human cases and vectors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1019.md)
 

@@ -20,5 +20,5 @@ UVGI technology disinfects viruses in the air
 
 ## Risks which can benefit from this action
 
-* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1356.md)
+* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1356.md)
 

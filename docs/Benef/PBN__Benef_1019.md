@@ -20,5 +20,5 @@ More than 90% inactivation of SARS-CoV-2, more than 97% inactivation of Influenz
 
 ## Risks which can benefit from this action
 
-* [Use of uv-c germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1025.md)
+* [Use of uv-c germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1025.md)
 

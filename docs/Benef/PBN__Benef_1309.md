@@ -20,5 +20,5 @@ Designing spaces with adaptable lighting and thermal comfort levels supports var
 
 ## Risks which can benefit from this action
 
-* [Variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1332.md)
+* [Variety in visual and thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1332.md)
 

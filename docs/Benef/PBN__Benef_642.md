@@ -20,5 +20,5 @@ Restricting occupancy and spacing equipment allows for physical distancing among
 
 ## Risks which can benefit from this action
 
-* [Restricting occupancy and spacing equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_640.md)
+* [Restricting occupancy and spacing equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_640.md)
 

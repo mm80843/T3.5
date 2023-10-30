@@ -20,5 +20,5 @@ Increased ability to predict and plan for future waves of the pandemic, allowing
 
 ## Risks which can benefit from this action
 
-* [Develop predictive models using sir and vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_200.md)
+* [Develop predictive models using sir and vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_200.md)
 

@@ -20,5 +20,5 @@ Clear information and guidelines can reduce anxiety and provide reassurance
 
 ## Risks which can benefit from this action
 
-* [Implement effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_46.md)
+* [Implement effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_46.md)
 

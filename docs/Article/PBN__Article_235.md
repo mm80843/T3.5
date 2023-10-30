@@ -39,8 +39,8 @@ The Effect of Opening Windows on Air Change Rates in Two Homes
 
 ## This article points to following mitigation
 
-* [Multiple window opening](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3812.md)
-* [Proper insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3816.md)
+* [Proper insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3816.md)
+* [Multiple window opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3812.md)
 
 ## This article mentions these technologies
 

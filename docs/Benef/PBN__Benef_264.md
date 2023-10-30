@@ -20,5 +20,5 @@ Reduces the risk of transmission between officers
 
 ## Risks which can benefit from this action
 
-* [Separate patrol for officers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_253.md)
+* [Separate patrol for officers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_253.md)
 

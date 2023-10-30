@@ -21,5 +21,5 @@ Prioritizing access for delivery to ensure availability of goods in short supply
 
 ## Risks which can benefit from this action
 
-* [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1412.md)
+* [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1412.md)
 

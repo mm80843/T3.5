@@ -21,5 +21,5 @@ Safeguarding of democratic processes, prevention of abuse of power, preservation
 
 ## Risks which can benefit from this action
 
-* [Strengthening european democracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_778.md)
+* [Strengthening european democracy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_778.md)
 

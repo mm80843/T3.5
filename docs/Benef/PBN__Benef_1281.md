@@ -20,5 +20,5 @@ Selecting building materials that are less attractive to mosquitoes, such as non
 
 ## Risks which can benefit from this action
 
-* [Material selection to minimize mosquito attraction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1301.md)
+* [Material selection to minimize mosquito attraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1301.md)
 

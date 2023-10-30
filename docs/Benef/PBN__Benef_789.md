@@ -20,5 +20,5 @@ Adapting organizational structures and processes to navigate disruption
 
 ## Risks which can benefit from this action
 
-* [Organizational adaptability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_787.md)
+* [Organizational adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_787.md)
 

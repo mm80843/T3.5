@@ -20,5 +20,5 @@ Identifying the factors that contribute to energy waste in buildings can help de
 
 ## Risks which can benefit from this action
 
-* [Conduct comprehensive energy consumption breakdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1369.md)
+* [Conduct comprehensive energy consumption breakdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1369.md)
 

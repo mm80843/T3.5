@@ -20,5 +20,5 @@ Provides safer and more spacious living conditions, reducing overcrowding and lo
 
 ## Risks which can benefit from this action
 
-* [Affordable housing with resilient design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_23.md)
+* [Affordable housing with resilient design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_23.md)
 

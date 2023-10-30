@@ -21,5 +21,5 @@ Big data analytics techniques can extract significant information from multiple 
 
 ## Risks which can benefit from this action
 
-* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_843.md)
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_843.md)
 

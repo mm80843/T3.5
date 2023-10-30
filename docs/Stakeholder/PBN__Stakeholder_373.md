@@ -8,18 +8,18 @@
 
 ## Category to which it belongs
 
-* [Those at risk include victims of domestic violence, individuals in quarantine or isolation, and those in close proximity to infected individuals.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_422.md)
+* [People at risk or affected by infectious diseases, including covid-19, and those involved in containment and response measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
 * [Individuals infected with covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_684.md)
-* [Individual infected with covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2024.md)
+* [Individual infected with covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2080.md)
 * [Covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_501.md)
 * [Patients with severe covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1595.md)
 * [All individuals seeking covid-19 information and applications](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1313.md)
 * [Individuals in areas with high virus prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1571.md)
 * [Hospitalized covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1087.md)
-* [All individual seeking covid-19 information and application](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2238.md)
+* [All individual seeking covid-19 information and application](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2324.md)
 * [Infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_161.md)
 * [Critical covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1058.md)
 

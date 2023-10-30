@@ -12,7 +12,7 @@ Ensure use of personal protection equipment
 
 ## Category to which it belongs
 
-* [Take necessary precautions to wear appropriate safety gear.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_372.md)
+* [Promote the utilization of safety gear.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_172.md)
 
 ## This intervention is used in the following blueprints
 

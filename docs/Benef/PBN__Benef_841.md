@@ -20,5 +20,5 @@ Optimizing occupant distribution aligns internal load with climatic conditions
 
 ## Risks which can benefit from this action
 
-* [Optimal occupant distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_839.md)
+* [Optimal occupant distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_839.md)
 

@@ -20,5 +20,5 @@ Enables quick access to educational content and upskilling opportunities in the 
 
 ## Risks which can benefit from this action
 
-* [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_473.md)
+* [Digital educational initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_473.md)
 

@@ -1,29 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2929 
 
-# __High bandwidth networks__
+# __Graphical representation__
 
 ## Link between Blueprint and General ontology
 
-* [Massive mimo](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_38.md)
+* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_3.md)
 
 ## Category to which it belongs
 
-* [Enhancing digital connectivity through internet-based communication, networking platforms, and wireless data transmission for efficient collaboration and reliable connectivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
-* [High-speed internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3486.md)
-* [Telecommunication networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3434.md)
-* [Efficient network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2946.md)
-* [Network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2063.md)
-* [Telecommunication infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3576.md)
-* [Improved internet infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_942.md)
-* [Broadband internet](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3648.md)
-* [High-speed communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3698.md)
-* [Small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3364.md)
-* [Networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2265.md)
+* [Visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3893.md)
+* [Data visualization technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2928.md)
+* [Graph-based structure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2567.md)
+* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_18.md)
+* [Infographics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1185.md)
+* [Timeline-based visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3037.md)
+* [3d visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3036.md)
+* [Data visualization platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2824.md)
+* [Vector-based](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3839.md)
+* [Image processing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2402.md)
 
 ## This Technology enables the following mitigations
 
-* [Scalability of iot devices in iomt](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4141.md)
+* [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3903.md)
 

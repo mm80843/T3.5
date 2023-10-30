@@ -20,5 +20,5 @@ Ensuring the quality and reliability of services, despite the challenging circum
 
 ## Risks which can benefit from this action
 
-* [Ensuring the quality and reliability of services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_103.md)
+* [Ensuring the quality and reliability of services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_103.md)
 

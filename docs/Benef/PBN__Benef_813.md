@@ -20,5 +20,5 @@ Digital contact tracing can help identify and isolate infected individuals
 
 ## Risks which can benefit from this action
 
-* [Contact tracing mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_810.md)
+* [Contact tracing mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_810.md)
 

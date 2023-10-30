@@ -20,5 +20,5 @@ Widespread testing can provide crucial information about the extent and severity
 
 ## Risks which can benefit from this action
 
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_441.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_441.md)
 

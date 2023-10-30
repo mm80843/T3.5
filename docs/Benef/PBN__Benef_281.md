@@ -20,5 +20,5 @@ Easy access to sinks in the containment space encourages regular hand washing, r
 
 ## Risks which can benefit from this action
 
-* [Including sinks with running warm water in the containment space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_271.md)
+* [Including sinks with running warm water in the containment space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_271.md)
 

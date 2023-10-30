@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Residents in need of safe housing, especially those facing financial instability or the challenges of domestic violence.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_424.md)
+* [The wide-ranging sectors and industries, from the private sector to energy and manufacturing, that drive global economies and the interconnectedness of businesses and industries worldwide.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
 
 ## Closest similar item
 
 * [Small businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_371.md)
-* [Individuals and households facing job loss or economic instability; small businesses and self-employed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2171.md)
+* [Individuals and households facing job loss or economic instability; small businesses and self-employed individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2251.md)
 * [Small and medium-sized businesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_416.md)
 * [Small business owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_76.md)
-* [Small business](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1972.md)
-* [Individual and household facing job los or economic instability; small business and self-employed individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2049.md)
-* [Individual and household facing job lo or economic instability; small busines and self-employed individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2149.md)
-* [Small and medium-sized business](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1956.md)
-* [Individual and household facing job lo or economic instability; small busine and self-employed individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2167.md)
+* [Small business](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2022.md)
+* [Individual and household facing job los or economic instability; small business and self-employed individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2116.md)
+* [Individual and household facing job lo or economic instability; small busines and self-employed individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2226.md)
+* [Small and medium-sized business](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2006.md)
+* [Individual and household facing job lo or economic instability; small busine and self-employed individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2247.md)
 * [Businesses and individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_383.md)
 
 ## Risk affecting this stakeholder

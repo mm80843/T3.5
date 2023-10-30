@@ -20,5 +20,5 @@ Energy audits and monitoring can provide insights into building energy use, iden
 
 ## Risks which can benefit from this action
 
-* [Conduct energy audits and monitoring of building performance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1372.md)
+* [Conduct energy audits and monitoring of building performance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1372.md)
 

@@ -21,5 +21,5 @@ Adoption of policies to promote competition and diversification in GVCs
 
 ## Risks which can benefit from this action
 
-* [Foster competition and diversification in gvcs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_308.md)
+* [Foster competition and diversification in gvcs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_308.md)
 

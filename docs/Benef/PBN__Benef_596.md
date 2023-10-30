@@ -20,5 +20,5 @@ Improved outcomes and reduced mortality
 
 ## Risks which can benefit from this action
 
-* [Drug development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_599.md)
+* [Drug development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_599.md)
 

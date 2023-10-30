@@ -36,15 +36,15 @@ Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection 
 
 ## This article points to following mitigation
 
-* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3334.md)
-* [Loading of virus onto glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3335.md)
-* [Inoculation of virus onto hela cells](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3336.md)
-* [Plaque count determination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3337.md)
-* [Conducting experiments under bsl3 protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3338.md)
-* [Use of bleach-soaked pads to prevent virus spread](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3339.md)
-* [Layering dmem to prevent drying](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3340.md)
-* [Fixation of cells with formalin](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3341.md)
-* [Use of crystal violet for plaque detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3342.md)
+* [Layering dmem to prevent drying](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3340.md)
+* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3334.md)
+* [Loading of virus onto glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3335.md)
+* [Inoculation of virus onto hela cells](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3336.md)
+* [Plaque count determination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3337.md)
+* [Conducting experiments under bsl3 protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3338.md)
+* [Use of bleach-soaked pads to prevent virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3339.md)
+* [Fixation of cells with formalin](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3341.md)
+* [Use of crystal violet for plaque detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3342.md)
 
 ## This article mentions these technologies
 

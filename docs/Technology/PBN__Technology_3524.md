@@ -1,25 +1,30 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3524 
 
-# __High-resolution land use data__
+# __Massive mimo__
+
+## Link between Blueprint and General ontology
+
+* [5G](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_0.md)
 
 ## Category to which it belongs
 
-* [Efficient use of data analysis and modeling techniques to analyze various types of data for targeted insights.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_233.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
-* [Land-use policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_596.md)
-* [Land use regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3700.md)
-* [Remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
-* [Remote sensing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1697.md)
-* [Remote sensing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2070.md)
-* [Satellite imagery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1682.md)
-* [Landscaping techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_921.md)
-* [Geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1212.md)
-* [Big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3374.md)
-* [Landscape ground](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3447.md)
+* [5g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3493.md)
+* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1776.md)
+* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3145.md)
+* [Small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
+* [4g](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2776.md)
+* [Wireless communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2564.md)
+* [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3253.md)
+* [Wi-fi](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2777.md)
+* [High bandwidth networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3094.md)
+* [Scalable iot infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3093.md)
 
 ## This Technology enables the following mitigations
 
-* [Land use data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5020.md)
+* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_29.md)
+* [Scalability and qos provisioning in massive connectivity regime](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_33.md)
 

@@ -20,5 +20,5 @@ Common spaces for socialization help meet the fundamental human need for social 
 
 ## Risks which can benefit from this action
 
-* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_222.md)
+* [Access to common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_222.md)
 

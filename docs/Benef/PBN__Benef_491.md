@@ -20,5 +20,5 @@ Providing appropriate PPE, such as gowns, masks, shields, and gloves, reduces th
 
 ## Risks which can benefit from this action
 
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_415.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
 

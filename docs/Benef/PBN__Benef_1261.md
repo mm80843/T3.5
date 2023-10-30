@@ -21,5 +21,5 @@ Rapid diagnostic tests provide same-day results, reducing waiting time and allow
 
 ## Risks which can benefit from this action
 
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1280.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1280.md)
 

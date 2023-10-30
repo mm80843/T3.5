@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2513 
 
-# __Facemasks or respirators__
+# __Linked open data__
 
 ## Category to which it belongs
 
-* [Protection measures include face masks, personal protective equipment, facial recognition, education on masks, barriers, and physical distancing markers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_225.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
-* [Respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_483.md)
-* [Masks or face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2292.md)
-* [Facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_482.md)
-* [Surgical masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2723.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
-* [Face mask usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1989.md)
-* [N95 respirators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2724.md)
-* [N95 respirator](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2523.md)
-* [Widespread use of masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_582.md)
-* [Personal protective equipment masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2236.md)
+* [Linked data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2335.md)
+* [Open data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1590.md)
+* [Open data platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_282.md)
+* [Open data policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_821.md)
+* [Open-access databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_784.md)
+* [Data access platforms and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1967.md)
+* [Data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
+* [Data integration technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2926.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3007.md)
+* [Data integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1897.md)
 
 ## This Technology enables the following mitigations
 
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3575.md)
+* [Open data sharing and analysis for pandemic dataset creation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3365.md)
 

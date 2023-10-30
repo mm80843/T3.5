@@ -21,5 +21,5 @@ Monitoring energy demands at a large scale allows for adaptive design of buildin
 
 ## Risks which can benefit from this action
 
-* [Continuous monitoring of energy demands and adaptive design of the built environment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_548.md)
+* [Continuous monitoring of energy demands and adaptive design of the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_548.md)
 

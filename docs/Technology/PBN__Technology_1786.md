@@ -4,13 +4,13 @@
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
 * [Solar panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1760.md)
-* [Solar](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3300.md)
-* [Solar energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3485.md)
+* [Solar](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3465.md)
+* [Solar energy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3650.md)
 * [Off-grid solar systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_930.md)
 * [Sun tubes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1612.md)
 * [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_353.md)

@@ -24,5 +24,5 @@ Integrated management platforms and observatories facilitate data sharing, commu
 
 ## Risks which can benefit from this action
 
-* [Facilitating collaborative and integrated planning and management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1105.md)
+* [Facilitating collaborative and integrated planning and management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1105.md)
 

@@ -21,5 +21,5 @@ Financial interventions such as loans and grants can support businesses and help
 
 ## Risks which can benefit from this action
 
-* [Financial interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1013.md)
+* [Financial interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1013.md)
 

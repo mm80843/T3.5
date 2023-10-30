@@ -22,5 +22,5 @@ Measures to prevent conflict and domestic violence within households can protect
 
 ## Risks which can benefit from this action
 
-* [Implement measures to reduce interpersonal conflict](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1139.md)
+* [Implement measures to reduce interpersonal conflict](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1139.md)
 

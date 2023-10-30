@@ -21,5 +21,5 @@ Facilitates data sharing, analysis, and collaboration for research and epidemiol
 
 ## Risks which can benefit from this action
 
-* [Smartphone technology in research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1164.md)
+* [Smartphone technology in research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1164.md)
 

@@ -21,5 +21,5 @@ Strengthening partnerships enhances collective response and promotes shared goal
 
 ## Risks which can benefit from this action
 
-* [Strengthening partnerships](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1066.md)
+* [Strengthening partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1066.md)
 

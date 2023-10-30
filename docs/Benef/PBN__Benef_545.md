@@ -21,5 +21,5 @@ Expanding search beyond traditional sources addresses challenges of scarcity and
 
 ## Risks which can benefit from this action
 
-* [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_559.md)
+* [Search for evidence beyond ’conventional’ sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_559.md)
 

@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Vulnerable populations, including marginalized communities, people at risk, those in isolation, and individuals in close proximity, face various challenges during lockdown.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_414.md)
+* [Populations in crowded areas, high-risk areas, low-income communities, and areas with poor sanitation, particularly those in densely populated regions, are at risk.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
 
 ## Closest similar item
 
 * [Individuals in isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1577.md)
 * [Isolated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_65.md)
 * [Individuals in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1142.md)
-* [Individual in isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2075.md)
-* [Individual in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2145.md)
+* [Individual in isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2146.md)
+* [Individual in self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2221.md)
 * [Individuals living alone or with limited social connections](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1339.md)
 * [Individuals in quarantine or social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_357.md)
-* [Individuals living alone or with limited social connections; older adults; individuals in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2107.md)
-* [Individual living alone or with limited social connections; older adults; individual in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2124.md)
+* [Individuals living alone or with limited social connections; older adults; individuals in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2179.md)
+* [Individual living alone or with limited social connections; older adults; individual in quarantine or isolation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2196.md)
 * [Individuals living alone](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_612.md)
 
 ## Risk affecting this stakeholder

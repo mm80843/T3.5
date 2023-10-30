@@ -8,7 +8,7 @@
 
 ## Category to which it belongs
 
-* [Public and private entities, including decision-makers, procurement, healthcare facilities, vulnerable communities, and the general public.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_411.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
@@ -16,10 +16,10 @@
 * [Endangered species](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_391.md)
 * [Wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_117.md)
 * [Consumers of wildlife products](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1479.md)
-* [Consumer of wildlife product](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1886.md)
+* [Consumer of wildlife product](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1936.md)
 * [Pet owners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1097.md)
 * [Wildlife populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1478.md)
 * [Urban wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_887.md)
 * [Communities near wildlife habitats](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1455.md)
-* [Wildlife conservation organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2482.md)
+* [Wildlife conservation organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2598.md)
 

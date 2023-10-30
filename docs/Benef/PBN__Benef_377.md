@@ -20,5 +20,5 @@ Perceiving COVID-19 as a severe threat increases individuals' willingness to ado
 
 ## Risks which can benefit from this action
 
-* [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_379.md)
+* [Risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_379.md)
 

@@ -20,5 +20,5 @@ Lockdown-associated increases in recreational activity were greater over trail s
 
 ## Risks which can benefit from this action
 
-* [Green trail segments with greater tree cover and vegetation greenness values](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1227.md)
+* [Green trail segments with greater tree cover and vegetation greenness values](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1227.md)
 

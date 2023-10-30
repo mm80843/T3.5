@@ -21,5 +21,5 @@ Blockchain ensures secure and traceable sharing of COVID-19 data, such as patien
 
 ## Risks which can benefit from this action
 
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1103.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1103.md)
 

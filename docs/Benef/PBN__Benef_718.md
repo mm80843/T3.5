@@ -21,5 +21,5 @@ Proper ventilation helps to mitigate the spread of virus particles suspended in 
 
 ## Risks which can benefit from this action
 
-* [Proper ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_719.md)
+* [Proper ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_719.md)
 

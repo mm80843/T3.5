@@ -21,5 +21,5 @@ Fills the gap in epidemiological surveillance terms
 
 ## Risks which can benefit from this action
 
-* [Add new terms to obo](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1244.md)
+* [Add new terms to obo](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1244.md)
 

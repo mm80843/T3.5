@@ -21,5 +21,5 @@ Ensures continued food supply and availability, reduces concerns about shortages
 
 ## Risks which can benefit from this action
 
-* [Increase in food deliveries and availability of basic food products](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_679.md)
+* [Increase in food deliveries and availability of basic food products](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_679.md)
 

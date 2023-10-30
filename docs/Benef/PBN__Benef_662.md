@@ -21,5 +21,5 @@ AI-based tools can help reduce healthcare inequalities in LMIC by improving acce
 
 ## Risks which can benefit from this action
 
-* [Ai for health equity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_657.md)
+* [Ai for health equity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_657.md)
 

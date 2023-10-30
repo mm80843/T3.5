@@ -21,6 +21,6 @@ Even distribution of activity hubs can inhibit the rapid transmission of pathoge
 
 ## Risks which can benefit from this action
 
-* [Designing cities with evenly distributed activity hubs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_360.md)
-* [Decentralizing economic activities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_362.md)
+* [Decentralizing economic activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_362.md)
+* [Designing cities with evenly distributed activity hubs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_360.md)
 

@@ -11,7 +11,7 @@
 
 ## Category to which it belongs
 
-* [People in urban areas, especially those in high-risk, low-income, and underserved neighborhoods, living in substandard housing and lacking access to basic amenities and natural areas.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_430.md)
+* [Individuals living in densely populated neighborhoods, informal settlements, or substandard housing, including migrants and those facing eviction, who may also reside in underserved communities without basic amenities or access to clean water.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
 
 ## Closest similar item
 
@@ -24,5 +24,5 @@
 * [Nearby residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1271.md)
 * [Residents of urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1223.md)
 * [Residents of neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_39.md)
-* [Resident of densely populated city](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2319.md)
+* [Resident of densely populated city](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2419.md)
 

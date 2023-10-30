@@ -20,5 +20,5 @@ Reduced risk of virus spread through waste
 
 ## Risks which can benefit from this action
 
-* [Proper waste management and segregation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_349.md)
+* [Proper waste management and segregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_349.md)
 

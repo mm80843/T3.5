@@ -20,5 +20,5 @@ Social distancing measures for at-risk groups reduce their risk of severe outcom
 
 ## Risks which can benefit from this action
 
-* [Social distancing of at-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_338.md)
+* [Social distancing of at-risk groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_338.md)
 

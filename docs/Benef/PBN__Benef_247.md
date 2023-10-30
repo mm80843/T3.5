@@ -20,5 +20,5 @@ Proper segregation of medical waste ensures safe waste management and prevents t
 
 ## Risks which can benefit from this action
 
-* [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_236.md)
+* [Proper segregation of medical waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_236.md)
 

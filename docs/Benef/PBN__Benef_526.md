@@ -20,5 +20,5 @@ Improved access to healthcare, reduced mortality, and better response to future 
 
 ## Risks which can benefit from this action
 
-* [Investment in healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_538.md)
+* [Investment in healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_538.md)
 

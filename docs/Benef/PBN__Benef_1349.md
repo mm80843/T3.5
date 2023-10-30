@@ -21,5 +21,5 @@ By exploring alternative data collection methods, such as combining online surve
 
 ## Risks which can benefit from this action
 
-* [Explore alternative data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1387.md)
+* [Explore alternative data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1387.md)
 

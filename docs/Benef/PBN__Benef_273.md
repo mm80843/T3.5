@@ -20,5 +20,5 @@ Measuring indoor humidity can help establish the relationship between indoor and
 
 ## Risks which can benefit from this action
 
-* [Indoor humidity measurements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_262.md)
+* [Indoor humidity measurements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_262.md)
 

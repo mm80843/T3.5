@@ -20,5 +20,5 @@ Incorporating vaccination uptake data helps identify disparities in vaccine acce
 
 ## Risks which can benefit from this action
 
-* [Incorporating vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_685.md)
+* [Incorporating vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_685.md)
 

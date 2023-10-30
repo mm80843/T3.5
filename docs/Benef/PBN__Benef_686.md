@@ -20,5 +20,5 @@ Increased demand and engagement with video games, leading to higher revenue for 
 
 ## Risks which can benefit from this action
 
-* [Boost in revenue for video-gaming industry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_681.md)
+* [Boost in revenue for video-gaming industry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_681.md)
 

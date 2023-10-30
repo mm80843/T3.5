@@ -20,5 +20,5 @@ Increases chances of successful treatment and improves long-term health outcomes
 
 ## Risks which can benefit from this action
 
-* [Reduced time from diagnosis to surgery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_163.md)
+* [Reduced time from diagnosis to surgery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_163.md)
 

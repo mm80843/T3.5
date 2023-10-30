@@ -22,5 +22,5 @@ Ensures the safety and integrity of data and systems, minimizing the risk of int
 
 ## Risks which can benefit from this action
 
-* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_65.md)
+* [Advanced security measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_65.md)
 

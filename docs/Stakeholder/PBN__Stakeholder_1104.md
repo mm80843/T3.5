@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [All individuals and entities involved in various aspects of public life and ownership responsibilities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_423.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
-* [Etc.](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2831.md)
 * [Specifically men](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_351.md)
 * [Particularly females](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1333.md)
-* [Particularly female](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2029.md)
-* [Websites](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2649.md)
+* [Particularly female](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2089.md)
 * [Particularly children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_918.md)
-* [Particularly child](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2232.md)
-* [And speakers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2832.md)
+* [Particularly child](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2318.md)
 * [Including children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_820.md)
-* [Internet](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2741.md)
+* [And service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_325.md)
+* [And people with disabilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_108.md)
+* [Companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_67.md)
+* [Users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_430.md)
 
 ## Risk affecting this stakeholder
 

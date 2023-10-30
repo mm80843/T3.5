@@ -22,5 +22,5 @@ The use of environmental-friendly sustainable disinfection technologies can effe
 
 ## Risks which can benefit from this action
 
-* [Development of sustainable disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1293.md)
+* [Development of sustainable disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1293.md)
 

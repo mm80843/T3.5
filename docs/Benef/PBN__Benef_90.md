@@ -21,5 +21,5 @@ Predators such as fish and birds feed on mosquito larvae, reducing tick populati
 
 ## Risks which can benefit from this action
 
-* [Increase number of aquatic predators](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_77.md)
+* [Increase number of aquatic predators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_77.md)
 

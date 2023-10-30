@@ -21,5 +21,5 @@ Provides insight into the changing social behavior of urban residents and allows
 
 ## Risks which can benefit from this action
 
-* [Developing a covid-19 dashboard](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_813.md)
+* [Developing a covid-19 dashboard](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_813.md)
 

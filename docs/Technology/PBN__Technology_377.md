@@ -2,13 +2,9 @@
 
 # __Urban planners__
 
-## Link between Blueprint and General ontology
-
-* [Big urban data](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_84.md)
-
 ## Category to which it belongs
 
-* [Strategies for equitable urban planning, development, and design, integrating green spaces, technology, and spatial optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_210.md)
+* [Strategies and techniques for organizing and developing cities, including infrastructure, green spaces, and equitable policies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_110.md)
 
 ## Closest similar item
 
@@ -17,16 +13,16 @@
 * [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
 * [Urban planning and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1176.md)
 * [Urban planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1839.md)
+* [Urban planning and zoning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2181.md)
 * [Urban planning and city management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1104.md)
 * [Urban planning guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
 * [Urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
 * [Urban planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_657.md)
-* [Urban planning and transportation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_371.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_14.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
+* [Urban technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2270.md)
 
 ## This technology is mentioned by
 
@@ -35,8 +31,8 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Crowd and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_13.md)
-* [Infrastructure and urban planning](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_86.md)
+* [Crowd and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2054.md)
+* [Infrastructure and urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2131.md)
 
 ## Risks linked to this technology
 

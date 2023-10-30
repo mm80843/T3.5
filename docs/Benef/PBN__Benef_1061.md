@@ -21,5 +21,5 @@ Access to nutritious food and reduced risk of undernutrition
 
 ## Risks which can benefit from this action
 
-* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1069.md)
+* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1069.md)
 

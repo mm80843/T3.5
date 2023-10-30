@@ -12,5 +12,5 @@ Control of airflows (airtight / negative pressure)
 
 ## Category to which it belongs
 
-* [Manage air movement to prevent air recirculation and maintain desired air pressure differentials.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_354.md)
+* [Ensure proper air circulation and prevent the recycling of air in controlled environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_154.md)
 

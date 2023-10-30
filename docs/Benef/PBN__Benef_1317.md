@@ -21,5 +21,5 @@ Integration of smart city technologies enables sharing of information between us
 
 ## Risks which can benefit from this action
 
-* [Integration of smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1341.md)
+* [Integration of smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1341.md)
 

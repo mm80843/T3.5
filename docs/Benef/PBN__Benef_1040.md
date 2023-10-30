@@ -22,5 +22,5 @@ Placemaking approaches can revitalize commercial and artisanal spaces, enhance p
 
 ## Risks which can benefit from this action
 
-* [Placemaking approaches for urban regeneration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1046.md)
+* [Placemaking approaches for urban regeneration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1046.md)
 

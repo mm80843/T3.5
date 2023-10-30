@@ -23,5 +23,5 @@ Graphene-based coatings can provide long-lasting disinfection with low toxicity,
 
 ## Risks which can benefit from this action
 
-* [Use of nanomaterials and graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_919.md)
+* [Use of nanomaterials and graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_919.md)
 

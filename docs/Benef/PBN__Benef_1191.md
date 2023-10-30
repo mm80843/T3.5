@@ -20,5 +20,5 @@ Significant reduction in
 
 ## Risks which can benefit from this action
 
-* [Traffic restriction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1190.md)
+* [Traffic restriction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1190.md)
 

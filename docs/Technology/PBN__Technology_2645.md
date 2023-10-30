@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2645 
 
-# __Policy interventions__
+# __Terrace or balcony design__
 
 ## Category to which it belongs
 
-* [Efforts to inform, educate, and enforce regulations, policies, and preparedness strategies for public safety and effective governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
-* [Policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3268.md)
-* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2808.md)
-* [Policy support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1607.md)
-* [Policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
-* [Policy engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_160.md)
-* [Targeted interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1277.md)
-* [Government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2781.md)
-* [Tailored interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
-* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
-* [Policy advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_451.md)
+* [Balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3083.md)
+* [Private balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3614.md)
+* [Terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3718.md)
+* [Courtyard concept](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2354.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3429.md)
+* [Outdoor terraces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_847.md)
+* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1784.md)
+* [Courtyards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1271.md)
+* [Incorporate shared roof terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1270.md)
+* [Architectural design and building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1105.md)
 
 ## This Technology enables the following mitigations
 
-* [Policy interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3742.md)
+* [Designing outdoor areas or balconies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3535.md)
 

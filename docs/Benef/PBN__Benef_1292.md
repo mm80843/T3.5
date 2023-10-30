@@ -20,5 +20,5 @@ Increased understanding of the physical, mental, and social benefits of green ar
 
 ## Risks which can benefit from this action
 
-* [Increase awareness of the value of green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1315.md)
+* [Increase awareness of the value of green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1315.md)
 

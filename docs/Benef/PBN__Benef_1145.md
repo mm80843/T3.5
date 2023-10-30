@@ -21,5 +21,5 @@ Allows for timely intervention and focused resource allocation to high-risk area
 
 ## Risks which can benefit from this action
 
-* [Mobile technology applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1148.md)
+* [Mobile technology applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1148.md)
 

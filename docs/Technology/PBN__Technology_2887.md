@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2887 
 
-# __Air travel__
+# __Mrc-5 cell line__
 
 ## Category to which it belongs
 
-* [Enhanced travel experiences, seamless transportation, and real-time updates for optimal accessibility and convenience.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Air exchanges](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3112.md)
-* [Airflow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1116.md)
-* [Transport](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2357.md)
-* [Air distribution evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3413.md)
-* [Travel management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2129.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
-* [Air exhaustion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3456.md)
-* [Flight data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2890.md)
-* [Emergency transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3384.md)
-* [Travel policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3248.md)
+* [Human host cells](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2545.md)
+* [Mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
+* [Small cell networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3529.md)
+* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1776.md)
+* [Helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1188.md)
+* [Pm2.5 filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3235.md)
+* [Helplines and hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_421.md)
+* [Telephone network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2754.md)
+* [Helpline system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2321.md)
+* [Astm e1153 method](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2883.md)
 
 ## This Technology enables the following mitigations
 
-* [Restricting inter-city connections](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4079.md)
+* [Human lung fibroblast mrc-5 cell line](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3854.md)
 

@@ -1,8 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3883 
 
-# __Cctv cameras&&&cctv footage&&&cctv systems&&&cctv&&&video cameras&&&surveillance cameras&&&surveillance camera technology&&&video surveillance&&&cameras&&&video surveillance systems__
+# __Recycled materials__
 
-## Link between Blueprint and General ontology
+## Category to which it belongs
 
-* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_12.md)
+* [Innovative, green, and biodegradable materials used in construction, soundproofing, insulation, and education promote sustainability and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
+
+## Closest similar item
+
+* [Recycling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3663.md)
+* [Recycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2001.md)
+* [Promotion of recyclable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1767.md)
+* [Recycling programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3004.md)
+* [Sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3440.md)
+* [Eco-friendly materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2012.md)
+* [Green sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3850.md)
+* [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_92.md)
+* [Natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3390.md)
+* [Green and biodegradable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2227.md)
+
+## This Technology enables the following mitigations
+
+* [Green ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5270.md)
 

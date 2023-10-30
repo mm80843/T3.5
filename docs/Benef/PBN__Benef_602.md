@@ -22,5 +22,5 @@ Workplace regulations and directives can prevent the spread of COVID-19 among wo
 
 ## Risks which can benefit from this action
 
-* [Implement workplace regulations and directives](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_602.md)
+* [Implement workplace regulations and directives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_602.md)
 

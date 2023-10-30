@@ -4,12 +4,12 @@
 
 ## Category to which it belongs
 
-* [Public administrators and decision-makers responsible for creating and implementing government policies and regulations at various levels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_410.md)
+* [Public and governmental entities at various levels, including policy makers, governments, and citizens.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_192.md)
 
 ## Closest similar item
 
-* [Individuals in need of pfa](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2360.md)
-* [Individual in need of pfa](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2388.md)
+* [Individuals in need of pfa](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2462.md)
+* [Individual in need of pfa](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2492.md)
 * [General public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_29.md)
 * [The general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_952.md)
 * [Public sector](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_87.md)
@@ -17,7 +17,7 @@
 * [Private organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_247.md)
 * [Public administrators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_715.md)
 * [Workers and general public](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_214.md)
-* [Public administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1677.md)
+* [Public administrator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1701.md)
 
 ## Risk affecting this stakeholder
 

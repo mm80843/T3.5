@@ -21,5 +21,5 @@ Video conferencing and digital monitoring enable remote healthcare delivery, red
 
 ## Risks which can benefit from this action
 
-* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_638.md)
+* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_638.md)
 

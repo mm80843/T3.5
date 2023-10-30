@@ -20,5 +20,5 @@ Ultraviolet germicidal irradiation (UVGI) devices can disinfect air and surfaces
 
 ## Risks which can benefit from this action
 
-* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_521.md)
+* [Use of uvgi devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_521.md)
 

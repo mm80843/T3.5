@@ -20,5 +20,5 @@ Voluntary home quarantine reduces the burden on emergency healthcare system
 
 ## Risks which can benefit from this action
 
-* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_565.md)
+* [Voluntary home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_565.md)
 

@@ -22,5 +22,5 @@ Removal of non-value added processes, optimization of design and management, inc
 
 ## Risks which can benefit from this action
 
-* [Lean construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_368.md)
+* [Lean construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_368.md)
 

@@ -21,5 +21,5 @@ Blockchain technology ensures scrutiny of data accuracy and provides real-time u
 
 ## Risks which can benefit from this action
 
-* [Blockchain-based medical record management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1057.md)
+* [Blockchain-based medical record management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1057.md)
 

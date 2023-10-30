@@ -22,5 +22,5 @@ Efficient supply chain management ensures a secure and uninterrupted flow of mat
 
 ## Risks which can benefit from this action
 
-* [Effective supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_672.md)
+* [Effective supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_672.md)
 

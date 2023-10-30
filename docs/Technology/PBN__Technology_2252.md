@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2252 
 
-# __Multiplexed measurements__
+# __Online educational materials__
 
 ## Category to which it belongs
 
-* [A comprehensive range of measures and mechanisms to ensure safety, compliance, governance, transparency, and enforcement in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
+* [Enhancing education through digital platforms and online resources, promoting virtual classes and workshops, and improving digital literacy.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_148.md)
 
 ## Closest similar item
 
-* [Measurement devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2618.md)
-* [Synchronization of massive and long-term ieq measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2615.md)
-* [Smart meters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_666.md)
-* [Integration of multiple wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_178.md)
-* [Historical measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_987.md)
-* [Physical distancing tools and measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3761.md)
-* [Biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2305.md)
-* [Smart meters and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1311.md)
-* [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3644.md)
-* [Physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1988.md)
+* [Online educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_627.md)
+* [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1143.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
+* [Education materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3713.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+* [Online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
+* [Education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2322.md)
+* [Online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_74.md)
+* [Online training courses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1693.md)
+* [Online financial education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_429.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Multimodal and multiplexed measurements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3262.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Educational and training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2082.md)
 

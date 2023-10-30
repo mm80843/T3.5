@@ -20,5 +20,5 @@ Enables smooth transition to remote working culture
 
 ## Risks which can benefit from this action
 
-* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_714.md)
+* [Change management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_714.md)
 

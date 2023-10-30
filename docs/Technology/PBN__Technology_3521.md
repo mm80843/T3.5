@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3521 
 
-# __Locks__
+# __Sdn__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Improved and diversified communication channels through digital integration, telecommunication technology, and network infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_105.md)
 
 ## Closest similar item
 
-* [Door-lock devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_969.md)
-* [Promotion of outdoor activities during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2052.md)
-* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
-* [Automatic doors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3197.md)
-* [Encryption techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_819.md)
-* [Self-closing doors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1745.md)
-* [Alarms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3204.md)
-* [Controlled access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3554.md)
-* [Secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
-* [Closed streets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1038.md)
+* [Vpn](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2242.md)
+* [Telecommunication networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3599.md)
+* [Networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2433.md)
+* [L5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
+* [Network of partners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2975.md)
+* [Virtual networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_739.md)
+* [Efficient network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3111.md)
+* [Sensor networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3426.md)
+* [Online networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_907.md)
+* [Connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3517.md)
 
 ## This Technology enables the following mitigations
 
-* [Restricting access to public parks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5018.md)
+* [Rapid deployment of new healthcare applications and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
 

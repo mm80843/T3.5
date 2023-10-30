@@ -21,5 +21,5 @@ Prioritize investigation and control efforts
 
 ## Risks which can benefit from this action
 
-* [Population mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_390.md)
+* [Population mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_390.md)
 

@@ -21,5 +21,5 @@ Using innovation and creativity to adapt to changing customer behavior and needs
 
 ## Risks which can benefit from this action
 
-* [Innovation and creativity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_942.md)
+* [Innovation and creativity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_942.md)
 

@@ -20,5 +20,5 @@ Insecticide-treated bed nets reduce contact between mosquitoes and humans, preve
 
 ## Risks which can benefit from this action
 
-* [Use of insecticide-treated bed nets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_332.md)
+* [Use of insecticide-treated bed nets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_332.md)
 

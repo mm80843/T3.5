@@ -20,5 +20,5 @@ Reduces the risk of transmission from infected patients
 
 ## Risks which can benefit from this action
 
-* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1095.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1095.md)
 

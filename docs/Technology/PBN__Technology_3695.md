@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3695 
 
-# __Ground vehicles__
+# __Park/garden maintenance equipment__
 
 ## Category to which it belongs
 
-* [Promotion and implementation of sustainable and eco-friendly techniques, technologies, and initiatives for environmental conservation and management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
+* [Promoting sustainable and inclusive outdoor environments through land use regulation, environmental surveillance, and community gardening.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_111.md)
 
 ## Closest similar item
 
-* [Electric vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_354.md)
-* [Self-driving cars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3001.md)
-* [Driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3208.md)
-* [Robots, drones & automated vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3735.md)
-* [Landscape ground](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3447.md)
-* [E-scooters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2370.md)
-* [Ramps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1035.md)
-* [Intelligent transportation systems its](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2863.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_862.md)
-* [Drones and robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2122.md)
+* [Maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_842.md)
+* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_147.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2638.md)
+* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
+* [Cleaning equipment and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_438.md)
+* [Gardening spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1783.md)
+* [Park design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3866.md)
+* [Maintenance needs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3098.md)
+* [Routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3623.md)
+* [Investment in park infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2995.md)
 
 ## This Technology enables the following mitigations
 
-* [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5221.md)
+* [Preparation and maintenance of specific green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5025.md)
 

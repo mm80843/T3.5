@@ -21,5 +21,5 @@ Enables telemedicine services, prediction of outbreak, surveillance, and control
 
 ## Risks which can benefit from this action
 
-* [Iot technologies iot, ai, big data, vr](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_143.md)
+* [Iot technologies iot, ai, big data, vr](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_143.md)
 

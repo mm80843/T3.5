@@ -4,12 +4,12 @@
 
 ## Category to which it belongs
 
-* [Those in contact with contaminated individuals or surfaces, at risk of exposure to new diseases, or exposed to various disinfection methods such as uv light or filtered air.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_452.md)
+* [People at risk or affected by infectious diseases, including covid-19, and those involved in containment and response measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_195.md)
 
 ## Closest similar item
 
 * [Especially vulnerable populations and individuals with pre-existing health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1226.md)
-* [Especially vulnerable population and individual with pre-existing health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2045.md)
+* [Especially vulnerable population and individual with pre-existing health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2112.md)
 * [Individuals at risk including those who contract the disease](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_335.md)
 * [Population at risk](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_157.md)
 * [Individuals with symptoms or high-risk exposures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1570.md)

@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2918 
 
-# __Balcony__
+# __Employee support programs__
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Various forms of financial support and assistance, including government programs, funding initiatives, microfinance, cash transfer, and community outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
 
 ## Closest similar item
 
-* [Private balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3449.md)
-* [Terrace or balcony design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2477.md)
-* [Courtyards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1271.md)
-* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1784.md)
-* [Courtyard concept](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2186.md)
-* [Terraces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3553.md)
-* [Communal rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1268.md)
-* [Vertical gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2919.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
-* [Outdoor terraces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_847.md)
+* [Job support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1509.md)
+* [Support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1490.md)
+* [Workforce support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3455.md)
+* [Economic support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1599.md)
+* [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
+* [Community support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_593.md)
+* [Support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2802.md)
+* [Business assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1887.md)
+* [Employee training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_481.md)
+* [Welfare support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
 
 ## This Technology enables the following mitigations
 
-* [Access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4112.md)
+* [Employee support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3894.md)
 

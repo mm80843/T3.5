@@ -21,5 +21,5 @@ Studying the effect of RH on UV susceptibility of pathogenic viral aerosols is i
 
 ## Risks which can benefit from this action
 
-* [Study of the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_451.md)
+* [Study of the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_451.md)
 

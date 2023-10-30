@@ -21,5 +21,5 @@ Sustainable design and construction practices can reduce carbon emissions, impro
 
 ## Risks which can benefit from this action
 
-* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1289.md)
+* [Sustainable design and construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1289.md)
 

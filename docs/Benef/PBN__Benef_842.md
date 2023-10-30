@@ -21,5 +21,5 @@ Annotating and integrating real-time data from various sources aids in taking th
 
 ## Risks which can benefit from this action
 
-* [Ontology-based systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_840.md)
+* [Ontology-based systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_840.md)
 

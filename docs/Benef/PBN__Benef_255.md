@@ -20,5 +20,5 @@ Availability of local services ensures a sustainable and independent supply of f
 
 ## Risks which can benefit from this action
 
-* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_244.md)
+* [Availability of self-dependent services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_244.md)
 

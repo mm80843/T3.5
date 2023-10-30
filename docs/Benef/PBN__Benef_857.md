@@ -21,5 +21,5 @@ Avoidance of ineffective or harmful treatments, ensuring patient safety and well
 
 ## Risks which can benefit from this action
 
-* [Stringent evaluation of preprints](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_855.md)
+* [Stringent evaluation of preprints](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_855.md)
 

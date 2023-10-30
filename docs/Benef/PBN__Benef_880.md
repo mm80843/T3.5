@@ -21,5 +21,5 @@ WBE surveillance can provide additional data on the prevalence of COVID-19 cases
 
 ## Risks which can benefit from this action
 
-* [Wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_881.md)
+* [Wbe surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_881.md)
 

@@ -20,5 +20,5 @@ Cost-effective, fast, and effective disinfection, reducing exposure risk and imp
 
 ## Risks which can benefit from this action
 
-* [Robot-controlled surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_87.md)
+* [Robot-controlled surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_87.md)
 

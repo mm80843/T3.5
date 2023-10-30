@@ -21,5 +21,5 @@ Thermal cameras, temperature measurement, and mobile technology allow for quick 
 
 ## Risks which can benefit from this action
 
-* [Screening technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_635.md)
+* [Screening technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_635.md)
 

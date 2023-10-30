@@ -22,5 +22,5 @@ Bridging entities and facilitating collaboration improve efficiency and effectiv
 
 ## Risks which can benefit from this action
 
-* [Harness the strength of complementary evidence networks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_560.md)
+* [Harness the strength of complementary evidence networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_560.md)
 

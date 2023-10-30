@@ -21,5 +21,5 @@ Providing evidence in user-friendly formats and tailoring findings to local cont
 
 ## Risks which can benefit from this action
 
-* [Contextualising and disseminating actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_552.md)
+* [Contextualising and disseminating actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_552.md)
 

@@ -12,7 +12,7 @@ Occupancy control (eg separating at/risk contaminated population)
 
 ## Category to which it belongs
 
-* [Restricting access to separate individuals at risk from exposure to contamination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_367.md)
+* [Effective management of individuals to maintain safe distancing and protect vulnerable groups from potential infection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_167.md)
 
 ## This intervention is used in the following blueprints
 

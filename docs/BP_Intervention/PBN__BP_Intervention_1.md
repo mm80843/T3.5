@@ -12,7 +12,7 @@ Environmental parameters control
 
 ## Category to which it belongs
 
-* [The factors that dictate and regulate the natural surroundings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_351.md)
+* [Nature’s influences dictate.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_151.md)
 
 ## This intervention is used in the following blueprints
 

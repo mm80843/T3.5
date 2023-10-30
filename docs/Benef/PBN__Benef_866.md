@@ -20,5 +20,5 @@ Improved understanding of COVID-19 symptoms, transmission routes, and prevention
 
 ## Risks which can benefit from this action
 
-* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_867.md)
+* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_867.md)
 

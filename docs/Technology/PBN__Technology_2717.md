@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2717 
 
-# __Astm e1153 method__
+# __Digital health technologies__
 
 ## Category to which it belongs
 
-* [These tools and techniques streamline processes, optimize systems, and enable data-driven decision-making in a variety of industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
+* [Advancements in various technological domains facilitate touchless, remote, and efficient ways of communication, work, and data management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_108.md)
 
 ## Closest similar item
 
-* [Astm e1052 standard test method](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2718.md)
-* [Tcid50 technique](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2713.md)
-* [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3086.md)
-* [Rfid](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3164.md)
-* [Implementation of hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_678.md)
-* [Rfid technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1134.md)
-* [Upcode](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
-* [Standard operating procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2569.md)
-* [Dna/rna extraction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3209.md)
-* [Dna analyzer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3632.md)
+* [Digital health solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_471.md)
+* [Digital health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_933.md)
+* [Healthcare technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2768.md)
+* [Digital technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
+* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
+* [Digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2318.md)
+* [Health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1514.md)
+* [Electronic health records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1423.md)
+* [Mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1689.md)
+* [Electronic health record systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_513.md)
 
 ## This Technology enables the following mitigations
 
-* [Astm e1153 method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3850.md)
+* [Sustainable and equitable tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3611.md)
 

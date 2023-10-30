@@ -21,5 +21,5 @@ Instantaneous reporting without passing through intermediaries improves response
 
 ## Risks which can benefit from this action
 
-* [Use of blockchain for reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1169.md)
+* [Use of blockchain for reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1169.md)
 

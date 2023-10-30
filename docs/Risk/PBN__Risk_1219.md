@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Ultraviolet germicidal irradiation uvgi and its various applications and challenges in effectively using and maintaining uvgi systems for preventing infections, all while considering its harmful effects and limitations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_148.md)
+* [Uv germicidal technology: limited awareness, efficacy, and safety concerns with potential health risks and lack of definitive evidence.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_46.md)
 
 ## Closest similar item
 
@@ -14,33 +14,33 @@
 * [Inactivation of human coronaviruses by far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1221.md)
 * [Exposing items or surfaces to uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2512.md)
 * [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
-* [Implement ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3595.md)
 * [Limited awareness and expertise in germicidal uv technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_278.md)
 * [Health risks from uv-c radiation exposure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2271.md)
-* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3590.md)
+* [Insufficient evidence of uv-c effectiveness against sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
+* [Uvgi systems require careful design and installation to ensure proper efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1744.md)
 
 ## Description of the risk
 
 Far-UVC light cannot penetrate living cells in human skin or eyes, limiting its reach and potential damage to pathogens.
 
-## Is the risk affecting GBN scales
-
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/RiskGBN/PBN__RiskGBN_0.md)
-
 ## Type of the risk
 
 * [Physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+
+## Is the risk affecting GBN scales
+
+* [No](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_0.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/RiskISO/PBN__RiskISO_Impact_4.md)
+* [Responsible resource use](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_4.md)
 
 ## Mitigations of this risk
 
-* [Use additional methods for disinfection and protection of living cells.](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1674.md)
+* [Use additional methods for disinfection and protection of living cells.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1674.md)
 
 ## Name of the risk
 

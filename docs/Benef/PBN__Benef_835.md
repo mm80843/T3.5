@@ -21,5 +21,5 @@ Proactive cost control measures can help prevent cost overruns and improve the f
 
 ## Risks which can benefit from this action
 
-* [Proactive cost control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_835.md)
+* [Proactive cost control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_835.md)
 

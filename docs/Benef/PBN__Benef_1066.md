@@ -21,5 +21,5 @@ Improved air quality reduces the spread of respiratory diseases and decreases si
 
 ## Risks which can benefit from this action
 
-* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1077.md)
+* [Increase ventilation rates](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1077.md)
 

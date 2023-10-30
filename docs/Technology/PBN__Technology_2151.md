@@ -1,25 +1,31 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2151 
 
-# __Crowd surveillance technology__
+# __Ppe training__
 
 ## Category to which it belongs
 
-* [Emerging technologies encompass various fields such as blockchain, remote work, surveillance, and communication, driving advancements in society.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_208.md)
+* [Enhancement of knowledge and skills through resources, initiatives, programs, and proper utilization of personnel for various purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
-* [Crowd monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_743.md)
-* [Crowd monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1075.md)
-* [Crowd-monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1834.md)
-* [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_488.md)
-* [Crowd density monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_333.md)
-* [Surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2852.md)
-* [Use of digital tools for crowd monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1025.md)
-* [Crowd management technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_545.md)
-* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
-* [Crowd management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_617.md)
+* [Proper training and use of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_61.md)
+* [Proper training on ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_509.md)
+* [Ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1461.md)
+* [Ppe guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2230.md)
+* [Ppe supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3479.md)
+* [Increase ppe production](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1417.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
+* [Developing new ppe technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1628.md)
+* [Ppe equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2240.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2044.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Strict social distancing protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3155.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2100.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Educational and training resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2082.md)
+* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
 

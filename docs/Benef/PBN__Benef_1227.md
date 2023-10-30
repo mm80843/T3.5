@@ -21,5 +21,5 @@ Implementation of protocols ensures confidentiality and reduces the risk of brea
 
 ## Risks which can benefit from this action
 
-* [Implementation of confidentiality and risk management protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1236.md)
+* [Implementation of confidentiality and risk management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1236.md)
 

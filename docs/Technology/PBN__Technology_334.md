@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [Advancements in healthcare technology, remote care services, public health campaigns, and improved healthcare facilities contribute to a comprehensive and efficient healthcare system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
+* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
 
 ## Closest similar item
 
 * [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
 * [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
 * [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_311.md)
-* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2138.md)
-* [Official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3240.md)
+* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2306.md)
+* [Local government and health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2146.md)
+* [Official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3405.md)
 * [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
-* [Public health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3161.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
-* [Data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_474.md)
-* [Community health centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_221.md)
+* [Public health measures and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2140.md)
+* [Public health guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3326.md)
+* [Public health and safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
 
 ## This technology is mentioned by
 
@@ -29,7 +29,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Public health and safety measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_52.md)
+* [Public health and safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2095.md)
 
 ## Risks linked to this technology
 

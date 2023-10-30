@@ -20,5 +20,5 @@ Simulates people flow in mega-tall buildings where real measurements are difficu
 
 ## Risks which can benefit from this action
 
-* [Simulation-based people flow modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_116.md)
+* [Simulation-based people flow modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_116.md)
 

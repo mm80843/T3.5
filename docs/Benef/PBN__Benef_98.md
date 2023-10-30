@@ -20,5 +20,5 @@ Use of hygienic measures such as frequent handwashing, wearing masks, gloves, an
 
 ## Risks which can benefit from this action
 
-* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_85.md)
+* [Hygienic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_85.md)
 

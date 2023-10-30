@@ -20,5 +20,5 @@ Real-time IEQ data allows for timely identification and resolution of issues, le
 
 ## Risks which can benefit from this action
 
-* [Samba monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_797.md)
+* [Samba monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_797.md)
 

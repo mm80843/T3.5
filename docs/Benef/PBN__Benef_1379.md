@@ -21,5 +21,5 @@ Using IoT devices to monitor and prioritize maintenance of essential services
 
 ## Risks which can benefit from this action
 
-* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1413.md)
+* [Iot monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1413.md)
 

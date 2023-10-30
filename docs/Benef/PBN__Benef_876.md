@@ -20,5 +20,5 @@ New technologies will enhance the sensitivity and accuracy of virus detection in
 
 ## Risks which can benefit from this action
 
-* [Integration of new technologies digital pcr, csrpp, loc/poc, biosensors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_878.md)
+* [Integration of new technologies digital pcr, csrpp, loc/poc, biosensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_878.md)
 

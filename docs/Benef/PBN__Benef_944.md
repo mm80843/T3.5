@@ -20,5 +20,5 @@ Transforming the office portfolio to include flexible working options, such as r
 
 ## Risks which can benefit from this action
 
-* [Portfolio transformation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_939.md)
+* [Portfolio transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_939.md)
 

@@ -21,5 +21,5 @@ Enhances consistency and validity of data analysis
 
 ## Risks which can benefit from this action
 
-* [Evaluate the use of the](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1246.md)
+* [Evaluate the use of the](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1246.md)
 

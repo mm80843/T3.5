@@ -20,5 +20,5 @@ Income redistribution helps reduce inequality, providing support to low-skilled 
 
 ## Risks which can benefit from this action
 
-* [Income redistribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_495.md)
+* [Income redistribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_495.md)
 

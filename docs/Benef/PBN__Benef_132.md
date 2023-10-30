@@ -21,5 +21,5 @@ Search and browse interfaces provide efficient access to the knowledge stored in
 
 ## Risks which can benefit from this action
 
-* [Search and browse interfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_113.md)
+* [Search and browse interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_113.md)
 

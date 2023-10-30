@@ -20,5 +20,5 @@ Implementing innovative waste management strategies, such as digital monitoring 
 
 ## Risks which can benefit from this action
 
-* [Urban solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_803.md)
+* [Urban solid waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_803.md)
 

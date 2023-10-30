@@ -20,5 +20,5 @@ The use of telehealth clinics allows residents to participate in patient encount
 
 ## Risks which can benefit from this action
 
-* [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_43.md)
+* [Increased use of telehealth clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_43.md)
 

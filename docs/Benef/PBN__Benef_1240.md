@@ -21,5 +21,5 @@ Ability to quickly adapt to emergencies, improved community health and safety
 
 ## Risks which can benefit from this action
 
-* [Repurposing large public spaces for emergency health purposes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1256.md)
+* [Repurposing large public spaces for emergency health purposes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1256.md)
 

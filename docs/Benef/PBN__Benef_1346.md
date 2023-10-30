@@ -22,5 +22,5 @@ By collecting and reporting additional contextual data related to the pandemic, 
 
 ## Risks which can benefit from this action
 
-* [Capture and report on extra relevant data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1384.md)
+* [Capture and report on extra relevant data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1384.md)
 

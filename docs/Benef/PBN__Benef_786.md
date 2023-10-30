@@ -20,5 +20,5 @@ Combining internal and external resources to address adversity and create opport
 
 ## Risks which can benefit from this action
 
-* [Purposeful bricolage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_784.md)
+* [Purposeful bricolage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_784.md)
 

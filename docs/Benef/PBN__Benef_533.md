@@ -20,5 +20,5 @@ Managing outdoor air quality as part of ventilation systems protects occupants f
 
 ## Risks which can benefit from this action
 
-* [Integration of outdoor air quality management in ventilation and infiltration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_547.md)
+* [Integration of outdoor air quality management in ventilation and infiltration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_547.md)
 

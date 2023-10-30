@@ -20,5 +20,5 @@ WBE can provide a cheap and early warning method for COVID-19 outbreak, allowing
 
 ## Risks which can benefit from this action
 
-* [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1291.md)
+* [Sewage epidemiology indicator](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1291.md)
 

@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Efforts to inform, educate, and enforce regulations, policies, and preparedness strategies for public safety and effective governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
+* [Various forms of financial support and assistance, including government programs, funding initiatives, microfinance, cash transfer, and community outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
 
 ## Closest similar item
 
-* [Welfare support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2837.md)
+* [Welfare support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3002.md)
 * [Policy support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1607.md)
 * [Government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1428.md)
-* [Support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2644.md)
+* [Support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2812.md)
 * [Funding support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1161.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
 * [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
 * [Government initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1640.md)
-* [Government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2781.md)
-* [Government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2855.md)
+* [Government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2947.md)
+* [Government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3020.md)
 
 ## This technology is mentioned by
 

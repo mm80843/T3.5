@@ -20,5 +20,5 @@ Increased space and distance between passengers, reduces risk of infection
 
 ## Risks which can benefit from this action
 
-* [Limit number of passengers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_572.md)
+* [Limit number of passengers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_572.md)
 

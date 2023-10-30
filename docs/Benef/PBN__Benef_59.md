@@ -20,5 +20,5 @@ Support strategies can help individuals adjust to lifestyle changes and challeng
 
 ## Risks which can benefit from this action
 
-* [Implement mental health supporting strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_52.md)
+* [Implement mental health supporting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_52.md)
 

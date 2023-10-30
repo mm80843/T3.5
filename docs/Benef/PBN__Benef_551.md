@@ -20,5 +20,5 @@ Early implementation of mitigation measures delays outbreaks and prevents furthe
 
 ## Risks which can benefit from this action
 
-* [Timely implementation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_567.md)
+* [Timely implementation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_567.md)
 

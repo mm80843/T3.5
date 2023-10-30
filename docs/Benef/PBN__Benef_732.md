@@ -21,5 +21,5 @@ Non-pharmaceutical interventions stabilize the economy by reducing the spread of
 
 ## Risks which can benefit from this action
 
-* [Implementation of non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_723.md)
+* [Implementation of non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_723.md)
 

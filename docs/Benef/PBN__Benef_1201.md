@@ -21,5 +21,5 @@ WBS can detect the presence of pathogens and estimate population prevalence with
 
 ## Risks which can benefit from this action
 
-* [Wastewater-based surveillance wbs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1203.md)
+* [Wastewater-based surveillance wbs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1203.md)
 

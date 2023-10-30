@@ -20,5 +20,5 @@ Well-designed public spaces that support NPIs such as social distancing and hand
 
 ## Risks which can benefit from this action
 
-* [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_667.md)
+* [Urban planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_667.md)
 

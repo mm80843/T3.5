@@ -20,5 +20,5 @@ Telecommuting eliminates the need for daily commuting, resulting in reduced tran
 
 ## Risks which can benefit from this action
 
-* [Telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_534.md)
+* [Telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_534.md)
 

@@ -21,5 +21,5 @@ Enhanced efficiency and effectiveness in addressing global health emergencies
 
 ## Risks which can benefit from this action
 
-* [Integration of industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_587.md)
+* [Integration of industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_587.md)
 

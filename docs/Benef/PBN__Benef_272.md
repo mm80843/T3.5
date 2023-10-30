@@ -20,5 +20,5 @@ Studying the impact of humidity on virus survival and transmission in animal mod
 
 ## Risks which can benefit from this action
 
-* [Carefully-designed studies on humidity effects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_261.md)
+* [Carefully-designed studies on humidity effects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_261.md)
 

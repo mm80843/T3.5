@@ -22,5 +22,5 @@ Access to up-to-date and reliable scientific findings, aiding in informed decisi
 
 ## Risks which can benefit from this action
 
-* [Transparent and responsible preprint publishing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_854.md)
+* [Transparent and responsible preprint publishing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_854.md)
 

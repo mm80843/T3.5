@@ -20,5 +20,5 @@ Providing openings for air circulation and sun exposure can improve indoor air q
 
 ## Risks which can benefit from this action
 
-* [Provide openings for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_884.md)
+* [Provide openings for air circulation and sun exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_884.md)
 

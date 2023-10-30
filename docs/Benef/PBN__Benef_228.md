@@ -20,5 +20,5 @@ Encouraging physical activity in greenspaces can lead to improved physical fitne
 
 ## Risks which can benefit from this action
 
-* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_212.md)
+* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_212.md)
 

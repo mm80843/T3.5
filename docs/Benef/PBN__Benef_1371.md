@@ -21,5 +21,5 @@ Secure storage and careful sharing of personal data to prevent misuse
 
 ## Risks which can benefit from this action
 
-* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1406.md)
+* [Personal data security](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1406.md)
 

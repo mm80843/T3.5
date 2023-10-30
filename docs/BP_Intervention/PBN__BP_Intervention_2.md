@@ -12,7 +12,7 @@ Air filtration
 
 ## Category to which it belongs
 
-* [Purifying and cleaning the air through the removal of particles and pollutants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_352.md)
+* [Clean air purification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_152.md)
 
 ## This intervention is used in the following blueprints
 

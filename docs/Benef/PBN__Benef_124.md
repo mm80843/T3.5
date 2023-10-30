@@ -20,5 +20,5 @@ Proper training and guidance on hygiene practices reduce the risk of infection t
 
 ## Risks which can benefit from this action
 
-* [Training protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_107.md)
+* [Training protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_107.md)
 

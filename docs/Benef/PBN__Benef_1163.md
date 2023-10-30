@@ -21,5 +21,5 @@ Enables rapid reporting of cases, facilitates contact tracing and targeted inter
 
 ## Risks which can benefit from this action
 
-* [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1165.md)
+* [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1165.md)
 

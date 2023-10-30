@@ -12,7 +12,7 @@ Animal vectors control
 
 ## Category to which it belongs
 
-* [Managing the movement of animals to regulate or prevent the spread of diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_365.md)
+* [Animal-borne manipulation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_165.md)
 
 ## This intervention is used in the following blueprints
 

@@ -20,5 +20,5 @@ Government stimulus packages provide financial assistance and incentives to the 
 
 ## Risks which can benefit from this action
 
-* [Government stimulus packages](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_617.md)
+* [Government stimulus packages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_617.md)
 

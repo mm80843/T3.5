@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2877 
 
-# __Negative air machines__
+# __Polyethylene glycol mw 8000__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Negative air machines with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_968.md)
-* [Negative-pressure ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3309.md)
-* [Negative pressure system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3711.md)
-* [Negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1744.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [Air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2629.md)
-* [Air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1660.md)
-* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
-* [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
-* [Air cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3596.md)
+* [Polyurethane](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2494.md)
+* [Polycarbonate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_478.md)
+* [Ordinary printer paper](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3146.md)
+* [Quaternary ammonium polymer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2871.md)
+* [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_180.md)
+* [Suitable materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2657.md)
+* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2261.md)
+* [Plexiglass](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_477.md)
+* [Green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3232.md)
+* [Better materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2014.md)
 
 ## This Technology enables the following mitigations
 
-* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_394.md)
+* [Polyethylene glycol mw 8000 extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3844.md)
 

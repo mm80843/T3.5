@@ -21,5 +21,5 @@ Providing safe water, sanitation, and hygienic conditions can prevent the transm
 
 ## Risks which can benefit from this action
 
-* [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_364.md)
+* [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_364.md)
 

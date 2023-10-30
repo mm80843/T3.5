@@ -40,16 +40,16 @@ Epidemics, Planning and the City: A Special Issue of Planning Perspectives
 
 ## This article points to following mitigation
 
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3123.md)
-* [Access to fresh air](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3564.md)
-* [Temporary use strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3565.md)
-* [Adaptability of urban fabrics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3566.md)
-* [Development of public health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3567.md)
-* [Climate-sensitive design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3568.md)
-* [Slum clearance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3569.md)
-* [Improvement of sanitary infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3570.md)
-* [Behavioral interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3571.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3123.md)
+* [Behavioral interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3571.md)
+* [Access to fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3564.md)
+* [Improvement of sanitary infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3570.md)
+* [Temporary use strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3565.md)
+* [Adaptability of urban fabrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3566.md)
+* [Development of public health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3567.md)
+* [Climate-sensitive design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3568.md)
+* [Slum clearance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3569.md)
 
 ## This article mentions these technologies
 
@@ -63,7 +63,7 @@ Epidemics, Planning and the City: A Special Issue of Planning Perspectives
 * [Community health workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_476.md)
 * [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_472.md)
 * [Health education platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_473.md)
-* [Data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_474.md)
 * [Digital health solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_471.md)
 * [Sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_470.md)
+* [Data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_474.md)
 

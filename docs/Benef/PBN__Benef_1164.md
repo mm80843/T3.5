@@ -21,5 +21,5 @@ Dilution of room air with clean, disinfected air reduces the concentration of ai
 
 ## Risks which can benefit from this action
 
-* [Total volume air distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1167.md)
+* [Total volume air distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1167.md)
 

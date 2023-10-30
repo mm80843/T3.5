@@ -40,12 +40,12 @@ Mental health economics: A prospective study on psychological flourishing and as
 
 ## This article points to following mitigation
 
-* [Strengthen social capital and community coherence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4709.md)
-* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4710.md)
-* [Enhance access to mental health care](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4711.md)
-* [Implement mental health and well-being programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4712.md)
-* [Strengthen social safety nets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4713.md)
-* [Implement policies for paid sick leave](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4714.md)
+* [Enhance access to mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4711.md)
+* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4710.md)
+* [Strengthen social safety nets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4713.md)
+* [Strengthen social capital and community coherence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4709.md)
+* [Implement mental health and well-being programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4712.md)
+* [Implement policies for paid sick leave](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4714.md)
 
 ## This article mentions these technologies
 
@@ -57,6 +57,6 @@ Mental health economics: A prospective study on psychological flourishing and as
 * [Such as mental health apps and online interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1513.md)
 * [Health information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1514.md)
 * [Well-being promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1512.md)
-* [Workplace health promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1515.md)
 * [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1245.md)
+* [Workplace health promotion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1515.md)
 

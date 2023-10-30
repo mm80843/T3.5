@@ -20,5 +20,5 @@ Adoption of common standards in health data facilitates interoperability and dat
 
 ## Risks which can benefit from this action
 
-* [Adoption of common standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1122.md)
+* [Adoption of common standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1122.md)
 

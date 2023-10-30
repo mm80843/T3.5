@@ -21,5 +21,5 @@ Robots can assist in patient care and reduce transmission risk
 
 ## Risks which can benefit from this action
 
-* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_809.md)
+* [Robotics in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_809.md)
 

@@ -21,5 +21,5 @@ CIDO provides standardized and logical representation of coronavirus knowledge, 
 
 ## Risks which can benefit from this action
 
-* [Development of cido ontology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_56.md)
+* [Development of cido ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_56.md)
 

@@ -22,5 +22,5 @@ Clear understanding of the sectors impacted by COVID-19, such as finance, busine
 
 ## Risks which can benefit from this action
 
-* [Topic modelling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_573.md)
+* [Topic modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_573.md)
 

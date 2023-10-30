@@ -20,5 +20,5 @@ Identification of risk factors for infection
 
 ## Risks which can benefit from this action
 
-* [Blood types](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_597.md)
+* [Blood types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_597.md)
 

@@ -20,5 +20,5 @@ Protects those most vulnerable to severe disease by reducing their exposure to t
 
 ## Risks which can benefit from this action
 
-* [Social distancing of the elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_408.md)
+* [Social distancing of the elderly and at-risk individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_408.md)
 

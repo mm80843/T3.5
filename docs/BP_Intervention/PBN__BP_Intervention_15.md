@@ -12,7 +12,7 @@ Selection of materials
 
 ## Category to which it belongs
 
-* [Variety of resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_364.md)
+* [Material assortment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_164.md)
 
 ## This intervention is used in the following blueprints
 

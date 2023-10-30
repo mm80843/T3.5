@@ -20,5 +20,5 @@ Increased access to healthcare services, remote consultations
 
 ## Risks which can benefit from this action
 
-* [Adoption of telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_906.md)
+* [Adoption of telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_906.md)
 

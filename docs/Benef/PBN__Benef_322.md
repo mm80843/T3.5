@@ -21,5 +21,5 @@ IBEM provides real-time, continuous data collection and analysis, overcoming lim
 
 ## Risks which can benefit from this action
 
-* [Ibem](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_320.md)
+* [Ibem](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_320.md)
 

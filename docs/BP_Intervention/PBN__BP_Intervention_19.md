@@ -12,7 +12,7 @@ Shift controls (occupancy control of total users)
 
 ## Category to which it belongs
 
-* [Manage the number of people using a certain space.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_368.md)
+* [Manage the allocation of users to different shifts for optimal occupancy control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_168.md)
 
 ## This intervention is used in the following blueprints
 

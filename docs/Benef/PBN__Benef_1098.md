@@ -20,5 +20,5 @@ Widespread testing and contact tracing can help in early identification and isol
 
 ## Risks which can benefit from this action
 
-* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_720.md)
+* [Widespread testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_720.md)
 

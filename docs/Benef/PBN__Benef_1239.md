@@ -21,5 +21,5 @@ Increased opportunities for nature connection, improved mental and physical heal
 
 ## Risks which can benefit from this action
 
-* [Creating smaller, local green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1255.md)
+* [Creating smaller, local green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1255.md)
 

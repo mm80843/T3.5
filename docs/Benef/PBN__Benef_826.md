@@ -21,5 +21,5 @@ The use of a semi-mechanistic Bayesian hierarchical model allows for more reliab
 
 ## Risks which can benefit from this action
 
-* [Semi-mechanistic bayesian hierarchical model](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_824.md)
+* [Semi-mechanistic bayesian hierarchical model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_824.md)
 

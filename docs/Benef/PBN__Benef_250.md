@@ -20,5 +20,5 @@ Water-efficient appliances and fixtures decrease water consumption and lower uti
 
 ## Risks which can benefit from this action
 
-* [Use of water-efficient appliances and fixtures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_239.md)
+* [Use of water-efficient appliances and fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_239.md)
 

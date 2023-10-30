@@ -20,5 +20,5 @@ Designing spaces that support physical distancing and provide adequate living an
 
 ## Risks which can benefit from this action
 
-* [Appropriate unit sizes and layouts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1337.md)
+* [Appropriate unit sizes and layouts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1337.md)
 

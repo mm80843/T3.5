@@ -25,5 +25,5 @@ Screening, education, and support focus on vulnerable groups
 
 ## Risks which can benefit from this action
 
-* [Prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_827.md)
+* [Prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_827.md)
 

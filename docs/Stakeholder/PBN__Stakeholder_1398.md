@@ -4,20 +4,19 @@
 
 ## Category to which it belongs
 
-* [Enthusiasts and professionals involved in the interconnected world of smart devices and applications.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_449.md)
+* [Participants in the iot ecosystem, including users, data collectors, technology providers, essential service providers, and information providers.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_231.md)
 
 ## Closest similar item
 
 * [Iot industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1396.md)
 * [Iot device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_788.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2770.md)
-* [Iot device](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2457.md)
-* [Iots](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2771.md)
-* [Iot technology provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2462.md)
-* [Iot device manufacturer and service provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2467.md)
+* [Iot device](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2569.md)
+* [Iot technology provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2574.md)
+* [Iot device manufacturer and service provider](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2579.md)
 * [Iot technology providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_911.md)
 * [Iot device manufacturers and service providers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1432.md)
 * [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1392.md)
+* [Government nan agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1394.md)
 
 ## Risk affecting this stakeholder
 

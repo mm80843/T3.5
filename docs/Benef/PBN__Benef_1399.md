@@ -20,5 +20,5 @@ Implementing urban farming in the built environment can improve food security an
 
 ## Risks which can benefit from this action
 
-* [Urban farming integrated approaches](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1435.md)
+* [Urban farming integrated approaches](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1435.md)
 

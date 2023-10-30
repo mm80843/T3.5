@@ -20,5 +20,5 @@ Lower risk of exposure due to reduced number of people in the building
 
 ## Risks which can benefit from this action
 
-* [Implementation of flexible work policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_891.md)
+* [Implementation of flexible work policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_891.md)
 

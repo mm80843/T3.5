@@ -20,5 +20,5 @@ Implementing HVAC systems in low-income communities improves indoor air quality 
 
 ## Risks which can benefit from this action
 
-* [Addressing sociotechnical solutions for low-income vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_549.md)
+* [Addressing sociotechnical solutions for low-income vulnerable communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_549.md)
 

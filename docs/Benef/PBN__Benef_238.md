@@ -20,5 +20,5 @@ Natural ventilation systems provide fresh air supply, improving indoor air quali
 
 ## Risks which can benefit from this action
 
-* [Level of natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_227.md)
+* [Level of natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_227.md)
 

@@ -21,5 +21,5 @@ Characterizing the UV susceptibility of viral aerosols is essential for designin
 
 ## Risks which can benefit from this action
 
-* [Characterization of uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_449.md)
+* [Characterization of uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_449.md)
 

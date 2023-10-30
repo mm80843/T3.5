@@ -20,5 +20,5 @@ Increased perception of safety, reduces risk of infection
 
 ## Risks which can benefit from this action
 
-* [Implement safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_569.md)
+* [Implement safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_569.md)
 

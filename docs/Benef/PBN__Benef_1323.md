@@ -20,5 +20,5 @@ Modifications to HVAC systems reduce the spread
 
 ## Risks which can benefit from this action
 
-* [Hvac system modifications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1348.md)
+* [Hvac system modifications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1348.md)
 

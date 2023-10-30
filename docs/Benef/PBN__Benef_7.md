@@ -21,5 +21,5 @@ Using reference materials and digital droplet PCR can improve the precision and 
 
 ## Risks which can benefit from this action
 
-* [Quantification using reference materials and digital droplet pcr](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3.md)
+* [Quantification using reference materials and digital droplet pcr](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3.md)
 

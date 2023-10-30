@@ -2,32 +2,28 @@
 
 # __Manufacturing facilities__
 
-## Link between Blueprint and General ontology
-
-* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_222.md)
-
 ## Category to which it belongs
 
-* [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+* [Innovative, green, and biodegradable materials used in construction, soundproofing, insulation, and education promote sustainability and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_125.md)
 
 ## Closest similar item
 
 * [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
 * [Local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1605.md)
-* [Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
+* [Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3065.md)
 * [Manufacturing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1849.md)
-* [Research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2734.md)
-* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2733.md)
+* [Research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
+* [Laboratory facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2899.md)
 * [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1944.md)
-* [Medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2131.md)
+* [Medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2299.md)
 * [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1086.md)
-* [Local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2843.md)
+* [Local supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3008.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
 
 ## This technology is mentioned by
 
@@ -35,9 +31,9 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Economic and financial support](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_102.md)
-* [Logistics and supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_127.md)
-* [Public spaces and transportation](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_128.md)
+* [Logistics and supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2184.md)
+* [Economic and financial support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2150.md)
+* [Public spaces and transportation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2185.md)
 
 ## Risks linked to this technology
 

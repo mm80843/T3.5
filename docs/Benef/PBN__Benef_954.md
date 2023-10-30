@@ -20,5 +20,5 @@ Lowering prices of wearables and ensuring equal access can help bridge the gap i
 
 ## Risks which can benefit from this action
 
-* [Lowering prices of wearables and ensuring equal access across socioeconomic groups](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_951.md)
+* [Lowering prices of wearables and ensuring equal access across socioeconomic groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_951.md)
 

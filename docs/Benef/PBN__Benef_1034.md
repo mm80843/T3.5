@@ -21,5 +21,5 @@ Strengthening supply chain resilience through diversification and localization i
 
 ## Risks which can benefit from this action
 
-* [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1040.md)
+* [Strengthen supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1040.md)
 

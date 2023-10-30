@@ -21,5 +21,5 @@ Provides timely and evidence-based insights into the effectiveness of government
 
 ## Risks which can benefit from this action
 
-* [Real-time local information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_817.md)
+* [Real-time local information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_817.md)
 

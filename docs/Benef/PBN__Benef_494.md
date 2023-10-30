@@ -20,5 +20,5 @@ Promoting influenza vaccination can reduce the burden on healthcare systems and 
 
 ## Risks which can benefit from this action
 
-* [Vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_508.md)
+* [Vaccination uptake](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_508.md)
 

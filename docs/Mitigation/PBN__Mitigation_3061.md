@@ -1,21 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3061 
 
-# __Healthcare access and early treatment__
+# __Conduct research on the key factors contributing to the transmission of sars-cov-2.__
 
 ## Category to which it belongs
 
-* [Improving healthcare access, enhancing facilities, and strengthening healthcare systems for effective management and optimization.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
+* [Implementing comprehensive measures to control virus spread, monitor viral concentration, and develop effective antiviral coatings and treatments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_51.md)
 
 ## Closest similar item
 
-* [Improved healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1424.md)
-* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1425.md)
-* [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3052.md)
-* [Equitable healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3355.md)
-* [Healthcare access and affordability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1427.md)
-* [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3137.md)
-* [Better healthcare protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3060.md)
-* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1422.md)
-* [Increase availability of healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3459.md)
-* [Enhance access to mental health care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3051.md)
+* [Reducing transmission routes of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_930.md)
+* [Continue research and development of vaccines against sars-cov-2.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3062.md)
+* [Development and implementation of standardized protocols and assays for sars-cov-2 detection in environmental samples can ensure consistency and comparability of data.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2164.md)
+* [Conduct research to understand the tissue tropism and pathogenesis of sars-cov-2.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3059.md)
+* [Regular testing and evaluation of the effectiveness of portable air filters in reducing sars-cov-2 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2834.md)
+* [Development and implementation of validated methodological protocols for the quantitative analysis of sars-cov-2 in wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1600.md)
+* [Validate and optimize pcr assays to ensure accurate detection of sars-cov-2 genetic material.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3038.md)
+* [Quantification of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_989.md)
+* [Machine learning algorithms for screening of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4324.md)
+* [Conduct research to determine the mechanisms of cell entry and membrane fusion of sars-cov-2.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3058.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Key factors of covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2335.md)
 

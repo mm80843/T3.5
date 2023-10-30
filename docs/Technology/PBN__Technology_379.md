@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [Building design and construction practices prioritize sustainability, incorporate innovative technology, and consider social equity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_226.md)
+* [Building design and construction incorporate biophilic principles, modular techniques, and flexible layouts to create sustainable, resilient, and adaptable spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_138.md)
 
 ## Closest similar item
 
 * [Urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_381.md)
 * [Interior designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_380.md)
 * [Architects](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_378.md)
-* [Interior design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2436.md)
-* [Universal design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3231.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
+* [Interior design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2604.md)
+* [Universal design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3396.md)
+* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3429.md)
 * [Building engineers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_383.md)
+* [Design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2154.md)
 * [Architectural design technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1108.md)
 * [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
-* [Urban design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2652.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
 
 ## This technology is mentioned by
 

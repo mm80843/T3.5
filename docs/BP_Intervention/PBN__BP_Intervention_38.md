@@ -12,7 +12,7 @@ Raising awareness
 
 ## Category to which it belongs
 
-* [Promoting consciousness and understanding.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_387.md)
+* [Spreading information to increase knowledge or understanding.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_187.md)
 
 ## This intervention is used in the following blueprints
 

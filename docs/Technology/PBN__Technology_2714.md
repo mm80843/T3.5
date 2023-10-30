@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2714 
 
-# __Letheen broth base__
+# __Fair principles__
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Green walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1008.md)
-* [Chws](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2185.md)
-* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_374.md)
-* [Crispr](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2117.md)
-* [Evidence base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2395.md)
-* [Ble](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3361.md)
-* [Layers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2931.md)
-* [Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
-* [Wind](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3301.md)
-* [Private balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1735.md)
+* [Clear guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_803.md)
+* [Standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_153.md)
+* [Ethical guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1430.md)
+* [Ethical guidelines and approvals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_62.md)
+* [Regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1175.md)
+* [Equal opportunity initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_528.md)
+* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1997.md)
+* [Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_521.md)
+* [Ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_318.md)
+* [Equitable governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1591.md)
 
 ## This Technology enables the following mitigations
 
-* [Letheen broth base lbb](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3847.md)
+* [Incremental gains in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3608.md)
 

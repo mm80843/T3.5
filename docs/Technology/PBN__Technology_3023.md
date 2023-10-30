@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3023 
 
-# __Scenario planning__
+# __Advertising__
 
 ## Category to which it belongs
 
-* [Efforts to inform, educate, and enforce regulations, policies, and preparedness strategies for public safety and effective governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2218.md)
-* [Contingency planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_633.md)
-* [Contingency planning frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1457.md)
-* [Preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2847.md)
-* [Event planning guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_546.md)
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
-* [Participatory planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3420.md)
-* [Emergency response planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1498.md)
-* [Planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_382.md)
-* [Create emergency preparedness plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1379.md)
+* [Media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2357.md)
+* [Marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1702.md)
+* [Digital marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_906.md)
+* [Online advertising tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
+* [Online marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1799.md)
+* [Digital and online marketing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2087.md)
+* [Market competition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2560.md)
+* [Communication and marketing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_732.md)
+* [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_878.md)
+* [Digital marketing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_441.md)
 
 ## This Technology enables the following mitigations
 
-* [Scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4289.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_865.md)
 

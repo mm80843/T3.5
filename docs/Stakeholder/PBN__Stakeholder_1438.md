@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Public and private entities, including decision-makers, procurement, healthcare facilities, vulnerable communities, and the general public.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_411.md)
+* [All individuals or groups involved in various sectors, professions, and categories of people.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_212.md)
 
 ## Closest similar item
 
 * [Close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_971.md)
 * [Individuals in close contact](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_754.md)
-* [Individual in close contact](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2056.md)
+* [Individual in close contact](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2124.md)
 * [Individuals in contact with surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1517.md)
-* [Individual in contact with surface](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2123.md)
+* [Individual in contact with surface](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2195.md)
 * [Individuals in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1202.md)
 * [Contact persons of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1047.md)
 * [Individuals in close proximity to infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_739.md)
-* [Individual in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2174.md)
+* [Individual in close proximity](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2255.md)
 * [Telecommunication companies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_631.md)
 
 ## Risk affecting this stakeholder

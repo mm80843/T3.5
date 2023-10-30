@@ -20,5 +20,5 @@ Reusable masks and shields made from recycled materials are inexpensive, easily 
 
 ## Risks which can benefit from this action
 
-* [Environmental-friendly personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1279.md)
+* [Environmental-friendly personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1279.md)
 

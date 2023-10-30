@@ -20,5 +20,5 @@ Managing and improving the destination image through effective communication, ma
 
 ## Risks which can benefit from this action
 
-* [Managing and improving destination image](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_104.md)
+* [Managing and improving destination image](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_104.md)
 

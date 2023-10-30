@@ -12,7 +12,7 @@ Wall and floors treatment
 
 ## Category to which it belongs
 
-* [Surface finishes for walls and floors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
+* [Interior surface finishes and coverings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_163.md)
 
 ## This intervention is used in the following blueprints
 

@@ -21,5 +21,5 @@ Filters out irrelevant or inaccurate information, improving the quality and usef
 
 ## Risks which can benefit from this action
 
-* [Establish reliable filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1441.md)
+* [Establish reliable filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1441.md)
 

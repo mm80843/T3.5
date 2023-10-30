@@ -12,7 +12,7 @@ Staff training / upskilling
 
 ## Category to which it belongs
 
-* [Enhancing employee knowledge and skills through training and development programs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_371.md)
+* [Enhancing staff knowledge and skills through training and development programs.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_171.md)
 
 ## This intervention is used in the following blueprints
 

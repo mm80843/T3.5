@@ -21,5 +21,5 @@ A well-functioning social safety net system provides support and assistance to l
 
 ## Risks which can benefit from this action
 
-* [Improve social safety net system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1034.md)
+* [Improve social safety net system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1034.md)
 

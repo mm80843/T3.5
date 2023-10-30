@@ -20,5 +20,5 @@ Combining PCR methods with biomarker measurements will provide a more comprehens
 
 ## Risks which can benefit from this action
 
-* [Combination of pcr methods and biomarker measurements elisa, ms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_879.md)
+* [Combination of pcr methods and biomarker measurements elisa, ms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_879.md)
 

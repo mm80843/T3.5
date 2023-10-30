@@ -39,14 +39,14 @@ Impacts of COVID-19 on residential building energy use and performance
 
 ## This article points to following mitigation
 
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
-* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_981.md)
-* [Stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_744.md)
-* [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_193.md)
-* [Remote working](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3931.md)
-* [Reduction in commercial building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3932.md)
-* [Personal protective equipment ppe use](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3933.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
+* [Online learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_981.md)
+* [Stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_744.md)
+* [Increased cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_193.md)
+* [Personal protective equipment ppe use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3933.md)
+* [Reduction in commercial building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3932.md)
+* [Remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3931.md)
 
 ## This article mentions these technologies
 
@@ -56,7 +56,7 @@ Impacts of COVID-19 on residential building energy use and performance
 * [Energy-efficient hvac systems and smart thermostat technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_867.md)
 * [Energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_866.md)
 * [Energy efficiency grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_870.md)
-* [Energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_869.md)
 * [Demand response technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_351.md)
+* [Energy assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_869.md)
 * [Advanced energy modeling software and data analytics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_872.md)
 

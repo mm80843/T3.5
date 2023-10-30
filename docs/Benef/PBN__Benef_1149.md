@@ -21,5 +21,5 @@ Provides visual information on infection hotspots and trends, enabling informed 
 
 ## Risks which can benefit from this action
 
-* [Gps-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1151.md)
+* [Gps-based apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1151.md)
 

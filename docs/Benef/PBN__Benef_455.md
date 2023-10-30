@@ -20,5 +20,5 @@ Facilitates knowledge sharing, learning from international colleagues, and updat
 
 ## Risks which can benefit from this action
 
-* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_472.md)
+* [Digital communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_472.md)
 

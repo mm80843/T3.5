@@ -20,5 +20,5 @@ Increased investment in smart city infrastructure, adoption of 5G and 6G network
 
 ## Risks which can benefit from this action
 
-* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1109.md)
+* [Accelerating transition towards digitalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1109.md)
 

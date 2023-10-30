@@ -20,5 +20,5 @@ Giving attention to liver transplant recipients with metabolic comorbidities and
 
 ## Risks which can benefit from this action
 
-* [Attention to liver transplant recipients with metabolic comorbidities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_365.md)
+* [Attention to liver transplant recipients with metabolic comorbidities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_365.md)
 

@@ -21,5 +21,5 @@ Supporting local communities in maintaining sustainable livelihoods through cons
 
 ## Risks which can benefit from this action
 
-* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_132.md)
+* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_132.md)
 

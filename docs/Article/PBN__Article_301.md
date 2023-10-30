@@ -5,9 +5,9 @@
 ## List of risks in an article
 
 * [Connectivity issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2060.md)
+* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
 * [Reliability of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2062.md)
 * [Data overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2064.md)
-* [Cybersecurity risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2063.md)
 
 ## This article mentions these technologies
 

@@ -21,5 +21,5 @@ Combining telemedicine with wearables can reduce the need for face-to-face appoi
 
 ## Risks which can benefit from this action
 
-* [Combining telemedicine with wearable technology for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_952.md)
+* [Combining telemedicine with wearable technology for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_952.md)
 

@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3614 
 
-# __Government funds and military personnel__
+# __Private balcony__
 
 ## Category to which it belongs
 
-* [Efforts to provide financial assistance and support through various programs, incentives, grants, and investments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1428.md)
-* [Increased government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_860.md)
-* [Financial grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1805.md)
-* [Government financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_457.md)
-* [Government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2855.md)
-* [Funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_467.md)
-* [Government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3241.md)
-* [Adequate funding and staffing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1183.md)
-* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_317.md)
-* [Financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2854.md)
+* [Balcony](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3083.md)
+* [Terrace or balcony design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2645.md)
+* [Communal rooftops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1268.md)
+* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1784.md)
+* [Courtyards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1271.md)
+* [Courtyard concept](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2354.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2966.md)
+* [Private balconies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1735.md)
+* [Public facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2806.md)
+* [Communal lounge areas in apartment designs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1272.md)
 
 ## This Technology enables the following mitigations
 
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3876.md)
+* [Availability of outdoor spaces in the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4962.md)
 

@@ -21,5 +21,5 @@ Monitoring buying patterns and limiting purchases to prevent hoarding
 
 ## Risks which can benefit from this action
 
-* [Buying behavior monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1411.md)
+* [Buying behavior monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1411.md)
 

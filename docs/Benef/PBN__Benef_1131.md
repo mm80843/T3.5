@@ -20,5 +20,5 @@ Provision of support and resources can help alleviate stress, anxiety, and depre
 
 ## Risks which can benefit from this action
 
-* [Provide psychosocial support and resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1137.md)
+* [Provide psychosocial support and resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1137.md)
 

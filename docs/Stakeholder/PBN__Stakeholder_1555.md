@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Government bodies responsible for specific areas such as regulation, education, housing, conservation, park management, and transportation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_412.md)
+* [A diverse collection of organizations and individuals with specific areas of expertise and jurisdiction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_189.md)
 
 ## Closest similar item
 
-* [Journal editor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1777.md)
+* [Journal editor](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1808.md)
 * [Medical journal editors](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_851.md)
-* [Scientific journal](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1818.md)
+* [Scientific journal](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1856.md)
 * [Scientific journals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_968.md)
-* [Publisher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1772.md)
+* [Publisher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1800.md)
 * [Publishers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1556.md)
-* [Journalists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1776.md)
-* [Journalist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1771.md)
-* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2601.md)
-* [Reporters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1782.md)
+* [Journalists](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1806.md)
+* [Publishing](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1801.md)
+* [Journalism and reporting](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1799.md)
+* [Journalist](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1798.md)
 
 ## Risks that can be mitigated by this stakeholder
 
@@ -26,9 +26,9 @@
 
 ## This Stakeholder belongs to this StakeholderGroup
 
-* [Media](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_3.md)
+* [Media](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_231.md)
 
 ## This Stakeholder belongs to this StakeholderSubgroup
 
-* [Journalism and reporting](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_35.md)
+* [Journalism and reporting](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1799.md)
 

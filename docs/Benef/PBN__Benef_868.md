@@ -20,5 +20,5 @@ Encouraging and promoting good practices for COVID-19 prevention, such as handwa
 
 ## Risks which can benefit from this action
 
-* [Behavior change interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_869.md)
+* [Behavior change interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_869.md)
 

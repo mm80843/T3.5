@@ -20,5 +20,5 @@ Reduction in cases and severity of COVID-19
 
 ## Risks which can benefit from this action
 
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_598.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_598.md)
 

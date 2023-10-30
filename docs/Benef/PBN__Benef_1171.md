@@ -20,5 +20,5 @@ Remote exercise monitoring using smartphone applications and wearable sensors ca
 
 ## Risks which can benefit from this action
 
-* [Remote exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1174.md)
+* [Remote exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1174.md)
 

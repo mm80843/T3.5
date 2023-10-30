@@ -20,5 +20,5 @@ Implementing mechanically ventilated offices can provide better control over the
 
 ## Risks which can benefit from this action
 
-* [Implementing mechanically ventilated offices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_249.md)
+* [Implementing mechanically ventilated offices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_249.md)
 

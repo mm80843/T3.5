@@ -20,5 +20,5 @@ Enhancing employment retraining and redeployment programs can help unemployed wo
 
 ## Risks which can benefit from this action
 
-* [Employment retraining and redeployment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_626.md)
+* [Employment retraining and redeployment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_626.md)
 

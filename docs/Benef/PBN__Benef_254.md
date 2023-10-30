@@ -20,5 +20,5 @@ Proper noise insulation enhances acoustic comfort, reduces noise pollution, and 
 
 ## Risks which can benefit from this action
 
-* [Design level adjustments on noise insulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_243.md)
+* [Design level adjustments on noise insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_243.md)
 

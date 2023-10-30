@@ -21,5 +21,5 @@ Increased testing in deprived areas helps allocate resources to areas with highe
 
 ## Risks which can benefit from this action
 
-* [Increased testing in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_683.md)
+* [Increased testing in deprived areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_683.md)
 

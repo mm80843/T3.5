@@ -20,5 +20,5 @@ Extends medical facilities to remote locations and improves access to healthcare
 
 ## Risks which can benefit from this action
 
-* [Iot in healthcare iomt](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_142.md)
+* [Iot in healthcare iomt](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_142.md)
 

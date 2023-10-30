@@ -22,5 +22,5 @@ Increased awareness and training on germicidal UV technology can lead to higher 
 
 ## Risks which can benefit from this action
 
-* [Increased awareness and training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_344.md)
+* [Increased awareness and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_344.md)
 

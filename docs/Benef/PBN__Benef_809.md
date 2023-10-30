@@ -22,5 +22,5 @@ Advanced technologies can optimize water management, reduce costs
 
 ## Risks which can benefit from this action
 
-* [Smart water systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_806.md)
+* [Smart water systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_806.md)
 

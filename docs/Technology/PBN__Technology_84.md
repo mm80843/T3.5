@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Enhanced testing capacity and advanced diagnostic technologies ensure widespread and rapid disease screening and identification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_224.md)
+* [Enhanced and expanded array of diagnostic testing tools, technologies, and methods for widespread and reliable screening.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_133.md)
 
 ## Closest similar item
 
 * [Remote inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_861.md)
-* [Regular inspection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3714.md)
+* [Regular inspection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3878.md)
 * [Maintenance and inspection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1182.md)
 * [Sensors for contactless inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_863.md)
-* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2747.md)
+* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2913.md)
 * [Compliance checks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1053.md)
 * [Rigorous safety testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2023.md)
 * [Monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_287.md)
-* [Safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2281.md)
+* [Safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
 * [Testing and analysis equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_763.md)
 
 ## This technology is mentioned by
@@ -25,9 +25,9 @@
 
 ## This Technology enables the following mitigations
 
-* [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3741.md)
-* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3745.md)
-* [Fire safety improvements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3746.md)
+* [Building regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3741.md)
+* [Regulatory measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3745.md)
+* [Fire safety improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3746.md)
 
 ## Risks linked to this technology
 

@@ -20,5 +20,5 @@ Cost-effective and portable biosensors and LOC/POC systems will expand the reach
 
 ## Risks which can benefit from this action
 
-* [Development of biosensors and loc/poc systems for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_882.md)
+* [Development of biosensors and loc/poc systems for wastewater analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_882.md)
 

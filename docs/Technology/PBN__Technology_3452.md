@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3452 
 
-# __Park with workout stations__
+# __Integrated care models__
 
 ## Category to which it belongs
 
-* [Promotion of knowledge and skill development through various digital platforms and resources.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
-* [Park design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3702.md)
-* [Fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1374.md)
-* [Parks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1738.md)
-* [Physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2278.md)
-* [Temporary parks and green spaces can be created in parking lots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1037.md)
-* [Parks and recreation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_662.md)
-* [Gyms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1739.md)
-* [Free access to gym](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3453.md)
-* [Exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1222.md)
-* [Temporary parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2067.md)
+* [Integrated healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3447.md)
+* [Care coordination tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1488.md)
+* [Flexible working models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3323.md)
+* [Point-of-care testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2024.md)
+* [Self-care resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1120.md)
+* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_472.md)
+* [Community care centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2805.md)
+* [Tailored interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
+* [Healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2774.md)
+* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1506.md)
 
 ## This Technology enables the following mitigations
 
-* [Household-level activity/sports spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_223.md)
+* [Person-centered integrated care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4681.md)
 

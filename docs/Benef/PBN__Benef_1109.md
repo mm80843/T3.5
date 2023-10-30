@@ -20,5 +20,5 @@ Aligning pseudonymization conversions with cohort studies' characteristics impro
 
 ## Risks which can benefit from this action
 
-* [Alignment to longitudinal characteristics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1123.md)
+* [Alignment to longitudinal characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1123.md)
 

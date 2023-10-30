@@ -21,5 +21,5 @@ Wearable devices and IoT devices connected to 5G networks can monitor individual
 
 ## Risks which can benefit from this action
 
-* [Self-isolation and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_30.md)
+* [Self-isolation and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_30.md)
 

@@ -23,5 +23,5 @@ Antiviral coatings can provide long-lasting protection against virus transmissio
 
 ## Risks which can benefit from this action
 
-* [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_920.md)
+* [Development of robust antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_920.md)
 

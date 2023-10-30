@@ -21,5 +21,5 @@ Implementation of far-UVC light in public places would enhance the safety and cl
 
 ## Risks which can benefit from this action
 
-* [Use of far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_897.md)
+* [Use of far-uvc light](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_897.md)
 

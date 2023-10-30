@@ -21,6 +21,6 @@ Evaluating the accuracy of content shared on social media can lead to improved a
 
 ## Risks which can benefit from this action
 
-* [Accurate content evaluation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1358.md)
-* [Improved guidelines and scientific research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1361.md)
+* [Accurate content evaluation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1358.md)
+* [Improved guidelines and scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1361.md)
 

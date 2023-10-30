@@ -20,5 +20,5 @@ Restriction on laborers affects productivity levels, work progress is delayed, a
 
 ## Risks which can benefit from this action
 
-* [Labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_580.md)
+* [Labor shortage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_580.md)
 

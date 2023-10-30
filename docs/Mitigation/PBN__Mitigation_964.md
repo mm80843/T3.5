@@ -1,21 +1,32 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_964 
 
-# __Availability of outdoor spaces in the building__
+# __Coating with cuprous oxide cu2o /polyurethane pu film__
 
 ## Category to which it belongs
 
-* [The transformation of the construction industry includes sustainable design, off-site construction, and improving building conditions for occupants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
+* [Promote self-cleaning spaces, implement touchless technologies, and use natural light to establish safer environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_80.md)
 
 ## Closest similar item
 
-* [Availability of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_922.md)
-* [Outdoor spaces within apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_965.md)
-* [Use of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_920.md)
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
-* [Incorporating outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_918.md)
-* [Outdoor design and spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_921.md)
-* [Livable outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_963.md)
-* [Increased outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_923.md)
-* [Incorporate outdoor spaces in building design and provide access to communal gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_8.md)
-* [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2494.md)
+* [Copper coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3823.md)
+* [Copper coating via cold-spray technique](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_69.md)
+* [Coating with cationic polymer films polyallylamine or poly diallyldimethylammonium chloride](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_965.md)
+* [Rigorous testing and evaluation of different coating materials and formulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1628.md)
+* [Investigate and research the inactivation mechanisms of covid-19 on copper coatings.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2014.md)
+* [Application of antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_574.md)
+* [Applying antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3152.md)
+* [Use of nanomaterials and graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_919.md)
+* [Use of coatings that have been proven safe for human health and the environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1629.md)
+* [Development of coatings that reduce the viability period of sars-cov-2 on solids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1627.md)
+
+## Benefits linked to a risk
+
+* [Rapid inactivation of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_966.md)
+* [Retention of virucidal potency after multiple exposures to the virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_967.md)
+* [Robustness of the film](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_968.md)
+* [Reduced risk of sars-cov-2 transmission on various objects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_969.md)
+
+## Risks possibly mitigated by this Mitigation
+
+* [Spread of sars-cov-2 through contact with contaminated solids](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_698.md)
 

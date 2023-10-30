@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2755 
 
-# __Traffic sensors__
+# __Geolocation data__
+
+## Link between Blueprint and General ontology
+
+* [GPS](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_10.md)
 
 ## Category to which it belongs
 
-* [A wide array of advanced technologies that detect and measure various environmental factors and human activities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_242.md)
+* [Efficiently collect, analyze, and share anonymized data using a variety of tools, platforms, and systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_126.md)
 
 ## Closest similar item
 
-* [Traffic management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1393.md)
-* [Traffic management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_961.md)
-* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
-* [Traffic camera data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2765.md)
-* [Smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2979.md)
-* [Pedestrian sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2756.md)
-* [Road network data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2889.md)
-* [Sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2372.md)
-* [Sensor technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3503.md)
-* [Motion sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1721.md)
+* [Gps location](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3128.md)
+* [Location and bluetooth data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3168.md)
+* [Gps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2398.md)
+* [Location tracking technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3087.md)
+* [Geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1212.md)
+* [Geographical information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2509.md)
+* [Gps technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2554.md)
+* [Mobility data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2924.md)
+* [Geographical information system gis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2724.md)
+* [Mobile positioning technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3789.md)
 
 ## This Technology enables the following mitigations
 
-* [Reduction in traffic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3896.md)
+* [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3643.md)
 

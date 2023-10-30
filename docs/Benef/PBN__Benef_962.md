@@ -20,5 +20,5 @@ By recognizing the importance of UGS during the pandemic and appreciating them a
 
 ## Risks which can benefit from this action
 
-* [Rethinking the city’s landscape and role of ugs in life quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_960.md)
+* [Rethinking the city’s landscape and role of ugs in life quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_960.md)
 

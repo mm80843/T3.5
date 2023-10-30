@@ -20,5 +20,5 @@ Developing and planning resilient transport infrastructure can limit the spread 
 
 ## Risks which can benefit from this action
 
-* [Infrastructure development and planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_668.md)
+* [Infrastructure development and planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_668.md)
 

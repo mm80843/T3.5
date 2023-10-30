@@ -21,5 +21,5 @@ Establishing and enforcing workplace rules and signage can promote social distan
 
 ## Risks which can benefit from this action
 
-* [Establish and enforce workplace rules and signage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_386.md)
+* [Establish and enforce workplace rules and signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_386.md)
 

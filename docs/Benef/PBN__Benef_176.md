@@ -20,5 +20,5 @@ Building resilience measures such as proper ventilation and sturdy construction 
 
 ## Risks which can benefit from this action
 
-* [Building resilience measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_156.md)
+* [Building resilience measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_156.md)
 

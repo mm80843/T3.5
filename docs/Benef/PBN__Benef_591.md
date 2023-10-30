@@ -20,5 +20,5 @@ Identification of targets for therapeutic intervention
 
 ## Risks which can benefit from this action
 
-* [Ace2 and tmprss2 inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_595.md)
+* [Ace2 and tmprss2 inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_595.md)
 

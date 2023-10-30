@@ -20,5 +20,5 @@ Designing balconies to be multifunctional and adaptable can increase their usabi
 
 ## Risks which can benefit from this action
 
-* [Balcony size and functionality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_821.md)
+* [Balcony size and functionality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_821.md)
 

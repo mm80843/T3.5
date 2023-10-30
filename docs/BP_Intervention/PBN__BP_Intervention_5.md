@@ -12,5 +12,5 @@ Natural ventilation increase
 
 ## Category to which it belongs
 
-* [Enhancement of airflow through the use of natural methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_355.md)
+* [Enhancement of air circulation without mechanical systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_155.md)
 

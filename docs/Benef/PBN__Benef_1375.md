@@ -21,5 +21,5 @@ Prioritizing patients based on severity during admissions logistics
 
 ## Risks which can benefit from this action
 
-* [Screening techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1410.md)
+* [Screening techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1410.md)
 

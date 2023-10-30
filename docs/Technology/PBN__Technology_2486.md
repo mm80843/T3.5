@@ -1,25 +1,26 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2486 
 
-# __Correct orientation__
+# __Information dissemination__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
 
 ## Closest similar item
 
-* [Face orientation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3253.md)
-* [Proper layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2217.md)
-* [Landscape design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2812.md)
-* [Landscape architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_121.md)
-* [Landscape design and integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2675.md)
-* [Layout design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3502.md)
-* [Spatial layout and design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2787.md)
-* [Landscape ground](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3447.md)
-* [Positioning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3575.md)
-* [Flexible layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1778.md)
+* [Information dissemination technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2946.md)
+* [Accurate and timely information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_876.md)
+* [Dissemination of accurate information through various channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1993.md)
+* [Information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2956.md)
+* [Communication and information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2089.md)
+* [Improved communication and information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_729.md)
+* [Real-time information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2735.md)
+* [Communication and data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2036.md)
+* [Information sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1896.md)
+* [Digital representation and information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3117.md)
 
 ## This Technology enables the following mitigations
 
-* [Re-appropriation of the basic principles and archetypes of sustainable architecture, thermal comfort and indoor air quality iaq](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_801.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_865.md)
+* [Public health education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3333.md)
 

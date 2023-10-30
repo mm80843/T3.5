@@ -20,5 +20,5 @@ Having negative emotions, such as fear and worry, about COVID-19 can prompt indi
 
 ## Risks which can benefit from this action
 
-* [Negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_380.md)
+* [Negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_380.md)
 

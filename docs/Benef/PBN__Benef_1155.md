@@ -21,5 +21,5 @@ Enables effective data collection and analysis for epidemiological studies and p
 
 ## Risks which can benefit from this action
 
-* [Mobile tracking and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1157.md)
+* [Mobile tracking and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1157.md)
 

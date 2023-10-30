@@ -1,8 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3807 
 
-# __Visualization&&&3d visualization&&&timeline-based visualization&&&data visualization technology&&&spatial layout and design&&&augmented / virtual reality&&&data visualization platforms&&&positioning technologies&&&data analytics and visualization&&&infographics__
+# __Healthmap__
 
-## Link between Blueprint and General ontology
+## Category to which it belongs
 
-* [Situated visualization](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_92.md)
+* [The intersection of public health and technology, including mobile apps, messaging systems, data analytics, and ai, to promote health and educate communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_104.md)
+
+## Closest similar item
+
+* [Health data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2711.md)
+* [Health networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2703.md)
+* [Existing health data capture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2710.md)
+* [Mobile health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1550.md)
+* [Artificial intelligence and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3223.md)
+* [Physical health technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
+* [Mobile health apps and services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2077.md)
+* [Mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1689.md)
+* [Healthy lifestyle apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2114.md)
+* [Mobile-health disease-monitoring data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2700.md)
+
+## This Technology enables the following mitigations
+
+* [Data dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5178.md)
 

@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
 * [Use firewalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1917.md)
+* [Firewalls and intrusion detection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
 * [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1879.md)
 * [Network security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_101.md)
 * [Safety barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1878.md)
 * [Secure servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1069.md)
 * [Secure server networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_345.md)
-* [Network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2063.md)
+* [Network infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2174.md)
 * [Barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_831.md)
 * [Access control protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_825.md)
-* [Server infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3428.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_5.md)
+* [Data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2191.md)
 
 ## This technology is mentioned by
 
@@ -30,7 +30,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Firewalls and intrusion detection systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_144.md)
+* [Firewalls and intrusion detection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2201.md)
 
 ## Risks linked to this technology
 

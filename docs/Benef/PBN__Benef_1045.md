@@ -20,5 +20,5 @@ Increasing concern for being bitten can significantly reduce the total number of
 
 ## Risks which can benefit from this action
 
-* [Increasing concern for being bitten](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1050.md)
+* [Increasing concern for being bitten](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1050.md)
 

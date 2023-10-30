@@ -20,5 +20,5 @@ Reduction in mortality rates due to improved air quality, leading to better heal
 
 ## Risks which can benefit from this action
 
-* [Reduction of air pollution levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_172.md)
+* [Reduction of air pollution levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_172.md)
 

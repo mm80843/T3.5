@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3469 
 
-# __Noise level difference__
+# __Conservation methods__
 
 ## Category to which it belongs
 
-* [The nexus of journalism and technology includes various methods of noise reduction, responsible reporting, media literacy, and communication tools.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_221.md)
+* [Combatting malaria and mitigating its impact through various means such as drugs, deterrents, treatments, surveillance, alternative materials, and pest control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
-* [Noise level difference compared to background](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1780.md)
-* [Noise barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_960.md)
-* [Noise control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3753.md)
-* [Absence of noise](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3536.md)
-* [Noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1237.md)
-* [Noise reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2000.md)
-* [Noise-cancelling technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_958.md)
-* [Noise-cancelling devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1831.md)
-* [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1939.md)
-* [White noise machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_191.md)
+* [Conservation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_534.md)
+* [Trapping methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3070.md)
+* [Biodiversity conservation guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_598.md)
+* [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1888.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1908.md)
+* [Energy saving and conservation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2250.md)
+* [Separation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3722.md)
+* [Nature-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3102.md)
+* [Ecosystem restoration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_535.md)
+* [Biological and chemical methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2187.md)
 
 ## This Technology enables the following mitigations
 
-* [Design level adjustments on noise insulation and acoustics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4968.md)
+* [Protection of biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4707.md)
 

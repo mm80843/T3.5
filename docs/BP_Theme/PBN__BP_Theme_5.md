@@ -8,5 +8,5 @@ theme_Mental_Health
 
 ## Category to which it belongs
 
-* [Human psychological well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_507.md)
+* [Psychological well-being and emotional state of an individual.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_275.md)
 

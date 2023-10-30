@@ -12,7 +12,7 @@ Introduce "multi-use" / modular designs
 
 ## Category to which it belongs
 
-* [Flexible and adaptable designs that serve multiple purposes or can be easily reconfigured.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_377.md)
+* [Flexible and adaptable solutions for various purposes or configurations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_177.md)
 
 ## This intervention is used in the following blueprints
 

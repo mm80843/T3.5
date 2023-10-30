@@ -20,5 +20,5 @@ Use of digital techniques and information-based management methods streamline co
 
 ## Risks which can benefit from this action
 
-* [Embrace data science and digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_292.md)
+* [Embrace data science and digital techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_292.md)
 

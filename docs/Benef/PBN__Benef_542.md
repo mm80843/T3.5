@@ -20,5 +20,5 @@ Timely provision of evidence supports urgent decision-making and informs policie
 
 ## Risks which can benefit from this action
 
-* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_556.md)
+* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_556.md)
 

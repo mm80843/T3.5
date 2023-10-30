@@ -21,5 +21,5 @@ Knowledge graphs and linked data enable data integration, information retrieval,
 
 ## Risks which can benefit from this action
 
-* [Knowledge graphs and linked data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_844.md)
+* [Knowledge graphs and linked data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_844.md)
 

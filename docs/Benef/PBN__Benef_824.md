@@ -20,5 +20,5 @@ Making improvements to balconies during the pandemic, such as adding seating arr
 
 ## Risks which can benefit from this action
 
-* [Balcony improvements during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_822.md)
+* [Balcony improvements during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_822.md)
 

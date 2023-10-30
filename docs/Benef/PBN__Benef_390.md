@@ -21,5 +21,5 @@ Maintaining negative pressure in AIIRs helps prevent the spread of infectious pa
 
 ## Risks which can benefit from this action
 
-* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_394.md)
+* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_394.md)
 

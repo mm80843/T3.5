@@ -21,5 +21,5 @@ Standardized communication protocols allow for better sharing of information and
 
 ## Risks which can benefit from this action
 
-* [Standardization of communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1339.md)
+* [Standardization of communication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1339.md)
 

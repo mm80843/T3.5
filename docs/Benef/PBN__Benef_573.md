@@ -20,5 +20,5 @@ For projects that were delayed due to lockdown, the government should grant an e
 
 ## Risks which can benefit from this action
 
-* [Contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_581.md)
+* [Contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_581.md)
 

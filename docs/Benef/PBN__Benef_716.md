@@ -20,5 +20,5 @@ Facilitates transparent and effective communication
 
 ## Risks which can benefit from this action
 
-* [Communication plan](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_716.md)
+* [Communication plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_716.md)
 

@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Detecting and mitigating weaknesses in various virus propagation methods, including new variants and systemic vulnerabilities, and inefficient voc removal by plants.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_145.md)
+* [Efficient transmission of viruses, personal comfort, and access to local services are the common themes in this list.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_42.md)
 
 ## Closest similar item
 
@@ -21,5 +21,5 @@
 
 ## Mitigations of this risk
 
-* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_215.md)
+* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
 

@@ -21,5 +21,5 @@ Improved air circulation reduces the risk of infection transmission in the build
 
 ## Risks which can benefit from this action
 
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_476.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_476.md)
 

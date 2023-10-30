@@ -20,5 +20,5 @@ Maximizes utilization of parking area, reduces need for additional expansion
 
 ## Risks which can benefit from this action
 
-* [Research and study on implementation of smart car parking systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1091.md)
+* [Research and study on implementation of smart car parking systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1091.md)
 

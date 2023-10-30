@@ -20,5 +20,5 @@ Providing comfortable indoor temperature leads to improved cognitive performance
 
 ## Risks which can benefit from this action
 
-* [Optimal thermal environments](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_150.md)
+* [Optimal thermal environments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_150.md)
 

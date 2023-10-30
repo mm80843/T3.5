@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
-* [Rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3409.md)
-* [Flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3394.md)
-* [Room to member ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3468.md)
-* [Specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
+* [Separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
+* [Rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3574.md)
+* [Flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3559.md)
+* [Room to member ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3633.md)
+* [Specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2637.md)
 * [Ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1779.md)
 * [Modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
-* [Dedicated isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2768.md)
-* [Segregation boxes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3492.md)
+* [Dedicated isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2934.md)
+* [Segregation boxes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3657.md)
 * [Additional segregation boxes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1787.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
 
 ## This technology is mentioned by
 
@@ -29,7 +29,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_180.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
 
 ## Risks linked to this technology
 

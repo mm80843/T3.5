@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2687 
 
-# __Double or triple-glazed windows conducive to airtight construction__
+# __Humidification systems__
 
 ## Category to which it belongs
 
-* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [Improved indoor air quality and temperature control through advanced hvac technologies, air purifiers, and monitoring systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_129.md)
 
 ## Closest similar item
 
-* [Double-glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2479.md)
-* [Window design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2475.md)
-* [Provide large windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1262.md)
-* [Use operable windows and shading devices for natural ventilation and temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1266.md)
-* [Building design and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3592.md)
-* [Building design strategies focused on ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1115.md)
-* [Window size](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3443.md)
-* [Incorporate operable windows and natural ventilation for passive survivability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1275.md)
-* [Glass walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
-* [Increase window size](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1729.md)
+* [Humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_923.md)
+* [Humidifier](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2581.md)
+* [Humidity control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1163.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3611.md)
+* [Hvac systems with humidity control capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2265.md)
+* [Humidity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2523.md)
+* [Air quality and filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2120.md)
+* [Moisture management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3441.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
+* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
 
 ## This Technology enables the following mitigations
 
-* [Glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3813.md)
+* [Maintaining indoor relative humidity between 40% and 60%](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3586.md)
 

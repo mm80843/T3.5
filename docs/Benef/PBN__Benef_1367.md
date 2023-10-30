@@ -21,5 +21,5 @@ Ensuring access to food, medicine, and other necessary supplies during the crisi
 
 ## Risks which can benefit from this action
 
-* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1404.md)
+* [Ensuring basic supplies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1404.md)
 

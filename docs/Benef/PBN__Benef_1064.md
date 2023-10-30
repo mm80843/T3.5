@@ -21,5 +21,5 @@ Reduced risk of infectious diseases and improved health
 
 ## Risks which can benefit from this action
 
-* [Promote wash interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1073.md)
+* [Promote wash interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1073.md)
 

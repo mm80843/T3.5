@@ -22,5 +22,5 @@ Ensuring equitable access to remote work and education reduces inequalities in e
 
 ## Risks which can benefit from this action
 
-* [Ensure equitable access to remote work and education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_17.md)
+* [Ensure equitable access to remote work and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_17.md)
 

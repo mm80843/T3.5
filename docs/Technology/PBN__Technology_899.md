@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Fact-checking tools, education initiatives, and ontology search engines are among the various resources and practices utilized to ensure the credibility and accuracy of information in different fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_240.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
 * [Surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
-* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2581.md)
+* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2749.md)
 * [Employers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_796.md)
 * [Communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2006.md)
-* [Daily press briefings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3615.md)
+* [Daily press briefings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3780.md)
 * [Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1875.md)
 * [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
-* [Podcasts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2582.md)
+* [Podcasts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2750.md)
 * [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1159.md)
-* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2035.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2044.md)
 
 ## This technology is mentioned by
 
@@ -25,7 +25,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_513.md)
+* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_513.md)
 
 ## Risks linked to this technology
 

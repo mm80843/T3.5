@@ -46,13 +46,13 @@ Future perspectives of wastewater-based epidemiology: Monitoring infectious dise
 
 ## This article points to following mitigation
 
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
-* [Sentinel surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4790.md)
-* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4791.md)
-* [Protein-based inflammation biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4792.md)
-* [Monitoring of pharmaceuticals and metabolites](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4793.md)
-* [Antimicrobial resistance gene monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4794.md)
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4795.md)
+* [Antimicrobial resistance gene monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4794.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_202.md)
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4795.md)
+* [Sentinel surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4790.md)
+* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4791.md)
+* [Protein-based inflammation biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4792.md)
+* [Monitoring of pharmaceuticals and metabolites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4793.md)
 
 ## This article mentions these technologies
 
@@ -64,6 +64,6 @@ Future perspectives of wastewater-based epidemiology: Monitoring infectious dise
 * [Mobile health applications for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1566.md)
 * [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1565.md)
 * [Enhanced screening techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1564.md)
-* [Vaccine education and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1562.md)
 * [Vaccine registries and reminder systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1563.md)
+* [Vaccine education and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1562.md)
 

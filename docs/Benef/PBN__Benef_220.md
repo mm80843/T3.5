@@ -21,5 +21,5 @@ Ensures protection of privacy and minimizes stigmatization of vulnerable populat
 
 ## Risks which can benefit from this action
 
-* [Ethical guidelines for wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_203.md)
+* [Ethical guidelines for wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_203.md)
 

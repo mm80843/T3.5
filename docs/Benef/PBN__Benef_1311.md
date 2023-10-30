@@ -20,5 +20,5 @@ Providing outdoor and indoor communal spaces that support physical distancing cr
 
 ## Risks which can benefit from this action
 
-* [Restorative common spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1334.md)
+* [Restorative common spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1334.md)
 

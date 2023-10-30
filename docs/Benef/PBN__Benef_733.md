@@ -21,5 +21,5 @@ Strengthening healthcare systems ensures that people have access to essential he
 
 ## Risks which can benefit from this action
 
-* [Strengthening healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_725.md)
+* [Strengthening healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_725.md)
 

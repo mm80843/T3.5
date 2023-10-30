@@ -23,5 +23,5 @@ Continued financial support for PCAs through domestic budgets to ensure effectiv
 
 ## Risks which can benefit from this action
 
-* [Ensuring domestic budgets support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_130.md)
+* [Ensuring domestic budgets support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_130.md)
 

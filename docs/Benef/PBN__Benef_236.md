@@ -20,5 +20,5 @@ Continuous monitoring and control of air conditions can improve air quality and 
 
 ## Risks which can benefit from this action
 
-* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_225.md)
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_225.md)
 

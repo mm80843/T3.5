@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3443 
 
-# __Window size__
+# __Non-toxic cleaning products__
 
 ## Category to which it belongs
 
-* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [Enhanced cleaning practices and hygiene protocols utilize a wide range of tools, equipment, solutions, and technologies to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_112.md)
 
 ## Closest similar item
 
-* [Increase window size](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1729.md)
-* [Window design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2475.md)
-* [Provide large windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1262.md)
-* [Large screens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_363.md)
-* [Operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3147.md)
-* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
-* [Open windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2959.md)
-* [Opening windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2289.md)
-* [Window fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2727.md)
-* [Double-glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2479.md)
+* [Cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_881.md)
+* [Sanitizing products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3597.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
+* [Enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_735.md)
+* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1288.md)
+* [Cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2942.md)
+* [Increased use of cleaning and disinfecting products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_584.md)
+* [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
+* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3482.md)
+* [Disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3118.md)
 
 ## This Technology enables the following mitigations
 
-* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_218.md)
+* [Use of non-toxic cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4671.md)
 

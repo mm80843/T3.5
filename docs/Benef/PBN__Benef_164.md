@@ -20,5 +20,5 @@ Increased availability and accessibility of healthcare services in informal sett
 
 ## Risks which can benefit from this action
 
-* [Engagement of private and informal healthcare providers in response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_147.md)
+* [Engagement of private and informal healthcare providers in response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_147.md)
 

@@ -22,5 +22,5 @@ Supporting proximity-based trade and entrepreneurship can stimulate local econom
 
 ## Risks which can benefit from this action
 
-* [Supporting proximity-based trade and entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1044.md)
+* [Supporting proximity-based trade and entrepreneurship](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1044.md)
 

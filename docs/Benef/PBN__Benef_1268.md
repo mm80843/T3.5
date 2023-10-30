@@ -21,5 +21,5 @@ Developing new projects can create employment opportunities for construction wor
 
 ## Risks which can benefit from this action
 
-* [Innovative projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1286.md)
+* [Innovative projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1286.md)
 

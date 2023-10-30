@@ -8,18 +8,18 @@
 
 ## Category to which it belongs
 
-* [All stakeholders involved in safeguarding, regulating, and controlling data access and security across vulnerable communities, surveillance systems, and communication channels.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_441.md)
+* [People from diverse backgrounds and circumstances, including marginalized individuals, with different abilities, and in various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
 
 ## Closest similar item
 
 * [Users of smart masks and shields](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_495.md)
 * [Protected areas](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1473.md)
-* [Protected area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2473.md)
-* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2722.md)
-* [Access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2723.md)
-* [Access control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2724.md)
-* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2672.md)
-* [Access control protocols](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2725.md)
-* [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2688.md)
+* [Protected area](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2589.md)
 * [Occupants of confined spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_261.md)
+* [Wearable users](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_374.md)
+* [Self-isolating individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_35.md)
+* [Especially those in enclosed spaces with limited air flow](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_642.md)
+* [Access control](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_191.md)
+* [Especially those in enclosed space with limited air flow](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2169.md)
+* [Occupants of buildings with contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1199.md)
 

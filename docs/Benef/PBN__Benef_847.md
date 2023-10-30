@@ -20,5 +20,5 @@ Enhanced cleaning and disinfection protocols can reduce the presence of viruses 
 
 ## Risks which can benefit from this action
 
-* [Enhanced cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_535.md)
+* [Enhanced cleaning and disinfection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_535.md)
 

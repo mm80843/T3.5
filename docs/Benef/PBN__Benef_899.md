@@ -21,5 +21,5 @@ Better management of healthcare needs, improved quality of care
 
 ## Risks which can benefit from this action
 
-* [Integration of person-centered care](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_900.md)
+* [Integration of person-centered care](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_900.md)
 

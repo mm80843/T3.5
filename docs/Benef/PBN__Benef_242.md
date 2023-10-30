@@ -20,5 +20,5 @@ Separate toilets for infected individuals prevent the spread of viruses within t
 
 ## Risks which can benefit from this action
 
-* [Availability of separate toilets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_231.md)
+* [Availability of separate toilets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_231.md)
 

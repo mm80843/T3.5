@@ -21,5 +21,5 @@ Bridging the digital divide through improved internet access and infrastructure 
 
 ## Risks which can benefit from this action
 
-* [Bridge the digital divide](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1037.md)
+* [Bridge the digital divide](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1037.md)
 

@@ -21,5 +21,5 @@ Accelerated production of vaccines
 
 ## Risks which can benefit from this action
 
-* [Utilization of molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_586.md)
+* [Utilization of molecular technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_586.md)
 

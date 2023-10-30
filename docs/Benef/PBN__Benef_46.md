@@ -20,5 +20,5 @@ Widening trails and walkways can encourage social activity while maintaining phy
 
 ## Risks which can benefit from this action
 
-* [Widening trails and walkways](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_38.md)
+* [Widening trails and walkways](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_38.md)
 

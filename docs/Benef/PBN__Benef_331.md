@@ -21,5 +21,5 @@ Implementing restrictions on shared facilities and uses in public places, such a
 
 ## Risks which can benefit from this action
 
-* [Restrictions on shared facilities and uses](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_327.md)
+* [Restrictions on shared facilities and uses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_327.md)
 

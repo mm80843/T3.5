@@ -20,5 +20,5 @@ Protocols for isolating and evacuating infected workers ensure the safety of oth
 
 ## Risks which can benefit from this action
 
-* [Protocols for managing confirmed covid-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_512.md)
+* [Protocols for managing confirmed covid-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_512.md)
 

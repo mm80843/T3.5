@@ -12,5 +12,5 @@ Support recovery of sectors via remote work
 
 ## Category to which it belongs
 
-* [Enable sector revival through remote assistance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
+* [Enable remote sector rehabilitation assistance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
 

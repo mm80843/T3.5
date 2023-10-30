@@ -20,5 +20,5 @@ Energy efficiency improvements in HVAC systems, including the use of germicidal 
 
 ## Risks which can benefit from this action
 
-* [Reduced greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1029.md)
+* [Reduced greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1029.md)
 

@@ -21,5 +21,5 @@ Openness and interoperability of ontologies enable data sharing and integration,
 
 ## Risks which can benefit from this action
 
-* [Adoption of obo foundry principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_55.md)
+* [Adoption of obo foundry principles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_55.md)
 

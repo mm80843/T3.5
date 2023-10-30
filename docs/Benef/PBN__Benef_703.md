@@ -20,5 +20,5 @@ Economy has smoother effects, lower economic losses
 
 ## Risks which can benefit from this action
 
-* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_698.md)
+* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_698.md)
 

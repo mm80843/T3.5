@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [Fact-checking tools, education initiatives, and ontology search engines are among the various resources and practices utilized to ensure the credibility and accuracy of information in different fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_240.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2734.md)
+* [Research facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2900.md)
 * [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
 * [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1814.md)
 * [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_762.md)
 * [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
-* [Research funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2739.md)
+* [Research funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2905.md)
 * [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_262.md)
-* [Research databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2562.md)
+* [Research databases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2730.md)
 * [Research collaborations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_466.md)
-* [Open research platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2540.md)
+* [Open research platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2708.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_15.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
 
 ## This technology is mentioned by
 
@@ -30,7 +30,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Research and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_186.md)
+* [Research and data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2275.md)
 
 ## Risks linked to this technology
 

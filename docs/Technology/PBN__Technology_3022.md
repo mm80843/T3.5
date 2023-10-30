@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3022 
 
-# __Demand forecasting__
+# __Media__
 
 ## Category to which it belongs
 
-* [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Demand forecasting and planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1131.md)
-* [Demand response technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_351.md)
-* [Forecasting software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1966.md)
-* [Forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_818.md)
-* [Predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3160.md)
-* [Simulation and forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3747.md)
-* [Predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2924.md)
-* [Fast prediction models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3538.md)
-* [Innovative demand and supply-side initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2181.md)
-* [Market competition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2392.md)
+* [Mass media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1538.md)
+* [Digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2967.md)
+* [Media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3871.md)
+* [Media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_335.md)
+* [Media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3714.md)
+* [Media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2357.md)
+* [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_6.md)
+* [Television](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3286.md)
+* [Journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2749.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
 
 ## This Technology enables the following mitigations
 
-* [Demand management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4288.md)
+* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3630.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_865.md)
+* [Information communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4389.md)
+* [Clear and timely information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4614.md)
+* [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4095.md)
 

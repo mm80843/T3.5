@@ -20,5 +20,5 @@ Increasing outdoor air decreases the concentration of virus particles in the air
 
 ## Risks which can benefit from this action
 
-* [Increase outdoor air in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_187.md)
+* [Increase outdoor air in ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_187.md)
 

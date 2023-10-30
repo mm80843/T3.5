@@ -20,5 +20,5 @@ Environmental management, such as habitat modification or manipulation, can redu
 
 ## Risks which can benefit from this action
 
-* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_333.md)
+* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_333.md)
 

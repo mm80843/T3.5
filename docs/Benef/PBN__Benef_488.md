@@ -20,5 +20,5 @@ Enhancing ventilation systems, adding HEPA filters, creating negative pressure A
 
 ## Risks which can benefit from this action
 
-* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_503.md)
+* [Engineering controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_503.md)
 

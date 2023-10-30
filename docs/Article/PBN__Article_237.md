@@ -40,13 +40,13 @@ Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scr
 
 ## This article points to following mitigation
 
-* [Java language](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4304.md)
-* [Jsoup library](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4305.md)
-* [Sqlite database](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4306.md)
-* [Web scraping](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4302.md)
-* [Expert system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4301.md)
-* [Rule-based expert system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4303.md)
-* [Geographic information system gis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4307.md)
+* [Java language](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4304.md)
+* [Jsoup library](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4305.md)
+* [Sqlite database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4306.md)
+* [Geographic information system gis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4307.md)
+* [Expert system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4301.md)
+* [Web scraping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4302.md)
+* [Rule-based expert system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4303.md)
 
 ## This article mentions these technologies
 

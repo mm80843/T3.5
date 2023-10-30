@@ -20,5 +20,5 @@ Decrease in human interference and disturbance, allowing wildlife to thrive and 
 
 ## Risks which can benefit from this action
 
-* [Reduced human interference](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_186.md)
+* [Reduced human interference](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_186.md)
 

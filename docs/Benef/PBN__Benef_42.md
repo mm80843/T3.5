@@ -21,5 +21,5 @@ Accelerating 5G deployment, encouraging L5GO networks, promoting purpose-built I
 
 ## Risks which can benefit from this action
 
-* [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_34.md)
+* [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_34.md)
 

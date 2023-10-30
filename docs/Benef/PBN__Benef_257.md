@@ -20,5 +20,5 @@ Increasing the microbial biodiversity indoors can contribute to a healthier indo
 
 ## Risks which can benefit from this action
 
-* [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_246.md)
+* [Modifying architectural design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_246.md)
 

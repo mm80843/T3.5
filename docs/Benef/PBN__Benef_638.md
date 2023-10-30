@@ -21,5 +21,5 @@ Contact tracing using CCTV footage, facial recognition technology, GPS data, and
 
 ## Risks which can benefit from this action
 
-* [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_636.md)
+* [Contact tracing tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_636.md)
 

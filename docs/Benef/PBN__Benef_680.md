@@ -21,5 +21,5 @@ Utilizes technology to minimize person-to-person transmission, remote consultati
 
 ## Risks which can benefit from this action
 
-* [Accelerated digital transformation of healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_675.md)
+* [Accelerated digital transformation of healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_675.md)
 

@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3561 
 
-# __Movable partitions__
+# __Half aisles__
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_199.md)
-* [Portable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3376.md)
-* [Partition barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1654.md)
-* [Partitioning materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2876.md)
-* [Movable walls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2223.md)
+* [Widened aisles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3560.md)
 * [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
-* [Segregation boxes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3492.md)
-* [Adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2485.md)
-* [Additional segregation boxes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1787.md)
-* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_374.md)
+* [Rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3574.md)
+* [Furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3664.md)
+* [Separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
+* [Specialized room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2637.md)
+* [Bathrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3279.md)
+* [Green corridors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_971.md)
+* [Rearrangement of furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_496.md)
+* [Modular furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1003.md)
 
 ## This Technology enables the following mitigations
 
-* [Adjustable indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5048.md)
+* [Adaptation of supermarkets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4861.md)
 

@@ -20,5 +20,5 @@ Cleaner cooking solutions reduce exposure to harmful pollutants and provide a mo
 
 ## Risks which can benefit from this action
 
-* [Development and promotion of cleaner cooking solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1345.md)
+* [Development and promotion of cleaner cooking solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1345.md)
 

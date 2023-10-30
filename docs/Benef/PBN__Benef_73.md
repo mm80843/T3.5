@@ -22,5 +22,5 @@ Establishes guidelines for the ethical and responsible use of data, ensuring dat
 
 ## Risks which can benefit from this action
 
-* [Clear data usage policies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_67.md)
+* [Clear data usage policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_67.md)
 

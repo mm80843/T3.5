@@ -21,5 +21,5 @@ Facilitates virtual medical consultations, reduces the need for physical visits,
 
 ## Risks which can benefit from this action
 
-* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1156.md)
+* [Telemedicine apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1156.md)
 

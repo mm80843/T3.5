@@ -21,5 +21,5 @@ Increased water movement and aeration can reduce mosquito breeding in urban bodi
 
 ## Risks which can benefit from this action
 
-* [Increase water movement and aeration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_79.md)
+* [Increase water movement and aeration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_79.md)
 

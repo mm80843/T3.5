@@ -21,5 +21,5 @@ Improves efficiency of medical staff and ensures timely tracking and monitoring 
 
 ## Risks which can benefit from this action
 
-* [Iot for monitoring and tracking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_140.md)
+* [Iot for monitoring and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_140.md)
 

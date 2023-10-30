@@ -20,5 +20,5 @@ Vaccine development and distribution efforts lead to immunization and prevention
 
 ## Risks which can benefit from this action
 
-* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_866.md)
+* [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_866.md)
 

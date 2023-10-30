@@ -20,5 +20,5 @@ and congestion
 
 ## Risks which can benefit from this action
 
-* [Service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_971.md)
+* [Service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_971.md)
 

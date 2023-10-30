@@ -21,5 +21,5 @@ Implementation of energy efficient designs such as external shading and evaporat
 
 ## Risks which can benefit from this action
 
-* [Adoption of climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1248.md)
+* [Adoption of climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1248.md)
 

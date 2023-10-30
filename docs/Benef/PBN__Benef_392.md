@@ -21,5 +21,5 @@ Relocating experienced healthcare personnel to AIIRs can improve patient care, a
 
 ## Risks which can benefit from this action
 
-* [Relocation of healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_396.md)
+* [Relocation of healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_396.md)
 

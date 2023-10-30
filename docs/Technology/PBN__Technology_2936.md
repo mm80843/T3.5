@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2936 
 
-# __Monetary incentives__
+# __Information and education programs__
 
 ## Category to which it belongs
 
-* [Efforts to provide financial assistance and support through various programs, incentives, grants, and investments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
+* [Enhancement of knowledge and skills through resources, initiatives, programs, and proper utilization of personnel for various purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_128.md)
 
 ## Closest similar item
 
-* [Financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
-* [Incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_163.md)
-* [Wage subsidies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3583.md)
-* [Funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_161.md)
-* [Incentives for energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_87.md)
-* [Government funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1428.md)
-* [Financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1886.md)
-* [Market competition](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2392.md)
-* [Funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_467.md)
-* [Countercyclical fiscal and monetary policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1472.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
+* [Information and education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3428.md)
+* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1154.md)
+* [Public education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1545.md)
+* [Education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2322.md)
+* [Digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
+* [Education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_871.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
+* [Information resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3454.md)
+* [Education materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3713.md)
 
 ## This Technology enables the following mitigations
 
-* [Incentives for green roof installation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4145.md)
+* [Hygiene education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3913.md)
 

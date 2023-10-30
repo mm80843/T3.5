@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3285 
 
-# __Flexible living arrangements__
+# __Cooking appliances__
 
 ## Category to which it belongs
 
-* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [Digital tools and technologies facilitating various functions and services on mobile devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_101.md)
 
 ## Closest similar item
 
-* [Flexible room design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3394.md)
-* [Flexible floor plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
-* [Flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2484.md)
-* [Flexibility policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3312.md)
-* [Flexible furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2476.md)
-* [Designated social spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2279.md)
-* [Flexible layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1778.md)
-* [Shelter facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2156.md)
-* [Ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1779.md)
-* [Use modular design systems and adjustable walls/screens in apartment layouts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1265.md)
+* [Appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3724.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
+* [Clean cooking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1480.md)
+* [Energy-efficient appliances and smart home technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_866.md)
+* [Cooking techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3434.md)
+* [Improved stove technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3425.md)
+* [Clean cookstoves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1481.md)
+* [Microwave](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3773.md)
+* [Food supply technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3347.md)
+* [Smart devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2287.md)
 
 ## This Technology enables the following mitigations
 
-* [Proximity and distancing architectures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4679.md)
+* [Increase cooking and eating at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4450.md)
 

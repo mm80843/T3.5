@@ -21,5 +21,5 @@ Ontologies enable structural representation and semantics of COVID-19 data, faci
 
 ## Risks which can benefit from this action
 
-* [Ontological reasoning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_842.md)
+* [Ontological reasoning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_842.md)
 

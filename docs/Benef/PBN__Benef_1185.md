@@ -20,5 +20,5 @@ Evaluating differences in efficacy based on symptoms allows for tailored protect
 
 ## Risks which can benefit from this action
 
-* [Evaluate efficacy differences based on symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1186.md)
+* [Evaluate efficacy differences based on symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1186.md)
 

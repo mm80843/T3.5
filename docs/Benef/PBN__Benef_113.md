@@ -20,5 +20,5 @@ Implementation of safety measures such as sanitization, social distancing, and h
 
 ## Risks which can benefit from this action
 
-* [Implementing safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_100.md)
+* [Implementing safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_100.md)
 

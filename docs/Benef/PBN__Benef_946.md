@@ -21,5 +21,5 @@ Government financial programs, such as grants and loans, provide immediate relie
 
 ## Risks which can benefit from this action
 
-* [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_943.md)
+* [Government financial programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_943.md)
 

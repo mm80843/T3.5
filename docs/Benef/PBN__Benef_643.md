@@ -20,5 +20,5 @@ Implementation of virtual training classes allows members to continue their fitn
 
 ## Risks which can benefit from this action
 
-* [Implementation of virtual training classes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_642.md)
+* [Implementation of virtual training classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_642.md)
 

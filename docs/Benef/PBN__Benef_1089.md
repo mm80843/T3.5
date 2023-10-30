@@ -21,5 +21,5 @@ Mobile apps enable contact tracing, remote monitoring of symptoms, and dissemina
 
 ## Risks which can benefit from this action
 
-* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1102.md)
+* [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1102.md)
 

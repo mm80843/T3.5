@@ -21,5 +21,5 @@ Addressing socioeconomic factors during the pandemic helps mitigate income dispa
 
 ## Risks which can benefit from this action
 
-* [Addressing socioeconomic factors](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_687.md)
+* [Addressing socioeconomic factors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_687.md)
 

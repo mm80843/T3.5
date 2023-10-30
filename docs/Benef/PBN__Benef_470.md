@@ -20,5 +20,5 @@ Utilizing water bodies in urban areas can reduce local temperatures and provide 
 
 ## Risks which can benefit from this action
 
-* [Water bodies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_487.md)
+* [Water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_487.md)
 

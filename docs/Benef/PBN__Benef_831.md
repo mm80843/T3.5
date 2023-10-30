@@ -20,5 +20,5 @@ Delivery of psychosocial services through telemedicine in primary care settings
 
 ## Risks which can benefit from this action
 
-* [Telemedicine for psychosocial services](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_830.md)
+* [Telemedicine for psychosocial services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_830.md)
 

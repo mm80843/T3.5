@@ -20,5 +20,5 @@ Travel bans restrict international travel and reduce the spread of the virus acr
 
 ## Risks which can benefit from this action
 
-* [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_862.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_862.md)
 

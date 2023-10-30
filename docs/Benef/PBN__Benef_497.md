@@ -20,5 +20,5 @@ Workers evaluate their health before boarding offshore, allowing for early detec
 
 ## Risks which can benefit from this action
 
-* [Self-health evaluation before onboard](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_511.md)
+* [Self-health evaluation before onboard](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_511.md)
 

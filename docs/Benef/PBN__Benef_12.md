@@ -20,5 +20,5 @@ Improved health outcomes and reduced risk of non-communicable diseases
 
 ## Risks which can benefit from this action
 
-* [Public health policies and regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_8.md)
+* [Public health policies and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_8.md)
 

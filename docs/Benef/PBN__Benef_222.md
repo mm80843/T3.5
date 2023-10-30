@@ -20,5 +20,5 @@ Balanced workload and reduced pressure to meet deadlines
 
 ## Risks which can benefit from this action
 
-* [Implementing flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_206.md)
+* [Implementing flexible work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_206.md)
 

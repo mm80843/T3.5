@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3077 
 
-# __Proper insulation materials and cleaning procedures__
+# __Decreased nutrient input__
 
 ## Category to which it belongs
 
-* [Enhanced cleaning practices, hygiene supplies, and proper cleaning procedures ensure optimal cleanliness and sanitation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_211.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
-* [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_80.md)
-* [Insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2257.md)
-* [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3270.md)
-* [Innovative insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_375.md)
-* [Proper cleaning procedures and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3079.md)
-* [Proper cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1725.md)
-* [Proper cleaning equipment and procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3076.md)
-* [Cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3317.md)
-* [Cleaning and sanitization equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2776.md)
-* [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
+* [Phosphate buffered saline](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2878.md)
+* [Increased resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3815.md)
+* [Water usage reduction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3629.md)
+* [Improved water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3045.md)
+* [Input sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3142.md)
+* [Energy reduction ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3631.md)
+* [Food resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3255.md)
+* [Increased outside air fractions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_500.md)
+* [Decrease number of workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2680.md)
+* [Ecosystem restoration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_535.md)
 
 ## This Technology enables the following mitigations
 
-* [Proper insulation maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4347.md)
+* [Algae control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4106.md)
 

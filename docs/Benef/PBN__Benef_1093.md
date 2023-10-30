@@ -21,5 +21,5 @@ Digital platforms and social networks enable transparent reporting of pandemic i
 
 ## Risks which can benefit from this action
 
-* [Facilitating transparent communication and preventing spread of fake news](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1106.md)
+* [Facilitating transparent communication and preventing spread of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1106.md)
 

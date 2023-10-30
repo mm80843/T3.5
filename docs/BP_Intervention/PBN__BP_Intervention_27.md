@@ -12,7 +12,7 @@ Improve physical health
 
 ## Category to which it belongs
 
-* [Enhance overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_376.md)
+* [Enhance overall well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_176.md)
 
 ## This intervention is used in the following blueprints
 

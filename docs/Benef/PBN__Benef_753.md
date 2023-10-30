@@ -20,5 +20,5 @@ Designing wards that can be converted at short notice into infectious disease an
 
 ## Risks which can benefit from this action
 
-* [Containment spaces in hospitals and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_749.md)
+* [Containment spaces in hospitals and healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_749.md)
 

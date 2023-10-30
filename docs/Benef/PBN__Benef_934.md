@@ -21,5 +21,5 @@ Disinfecting hospital wastes reduces the risk of disease spread and contaminatio
 
 ## Risks which can benefit from this action
 
-* [Implementation of proper disinfection technologies for hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_931.md)
+* [Implementation of proper disinfection technologies for hospital wastes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_931.md)
 

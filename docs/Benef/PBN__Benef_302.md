@@ -21,5 +21,5 @@ Non-centralized building systems with enhanced air distribution and purification
 
 ## Risks which can benefit from this action
 
-* [Shift towards integrated and non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_299.md)
+* [Shift towards integrated and non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_299.md)
 

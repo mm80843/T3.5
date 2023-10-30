@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+* [Digital platforms facilitate virtual collaboration, communication, information sharing, and online transactions among individuals and communities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_100.md)
 
 ## Closest similar item
 
@@ -14,7 +14,7 @@
 * [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
 * [Digital supply chain platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1519.md)
 * [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_638.md)
-* [Web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2612.md)
+* [Web platform](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2780.md)
 * [Online marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1696.md)
 * [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
 * [Digital marketplaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_908.md)

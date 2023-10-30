@@ -20,5 +20,5 @@ Installation of backup energy sources helps manage increased energy demands duri
 
 ## Risks which can benefit from this action
 
-* [Installation of backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_851.md)
+* [Installation of backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_851.md)
 

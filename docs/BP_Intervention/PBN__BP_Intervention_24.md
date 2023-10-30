@@ -12,7 +12,7 @@ Greenery
 
 ## Category to which it belongs
 
-* [Nature’s abundant foliage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_373.md)
+* [Nature’s color palette.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_173.md)
 
 ## This intervention is used in the following blueprints
 

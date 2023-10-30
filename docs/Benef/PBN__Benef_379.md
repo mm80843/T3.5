@@ -20,5 +20,5 @@ Efficient crisis management can help construction companies overcome crises with
 
 ## Risks which can benefit from this action
 
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_382.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_382.md)
 

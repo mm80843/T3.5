@@ -21,5 +21,5 @@ Using materials that are easy to clean and have anti-bacterial properties can re
 
 ## Risks which can benefit from this action
 
-* [Use of hygienic and anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1320.md)
+* [Use of hygienic and anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1320.md)
 

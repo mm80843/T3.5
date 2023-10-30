@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Individuals in congested or confined areas, particularly in public spaces, including outdoor parks and green spaces, as well as poorly ventilated and dimly lit indoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_432.md)
+* [Individuals in poorly ventilated and overcrowded indoor spaces, including workers, visitors, and occupants, particularly those in public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
 
 ## Closest similar item
 
@@ -14,10 +14,10 @@
 * [Individuals in indoor settings with poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_793.md)
 * [Occupants of crowded and poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1197.md)
 * [Building occupants in poorly ventilated buildings](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1352.md)
-* [Individual in poorly ventilated indoor environment such a office](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2058.md)
+* [Individual in poorly ventilated indoor environment such a office](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2126.md)
 * [Occupants of indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_843.md)
 * [People in spaces connected to ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1180.md)
-* [Individual in indoor setting with poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2094.md)
+* [Individual in indoor setting with poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2165.md)
 
 ## Risk affecting this stakeholder
 

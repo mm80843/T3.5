@@ -20,5 +20,5 @@ Social entrepreneurship funds demonstrated superior performance compared to othe
 
 ## Risks which can benefit from this action
 
-* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1295.md)
+* [Risk-adjusted performance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1295.md)
 

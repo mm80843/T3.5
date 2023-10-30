@@ -20,5 +20,5 @@ Conducting epidemiological research helps to understand the patterns and transmi
 
 ## Risks which can benefit from this action
 
-* [Epidemiological research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_986.md)
+* [Epidemiological research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_986.md)
 

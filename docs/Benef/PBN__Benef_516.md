@@ -20,5 +20,5 @@ Better access to information in residents' native language leads to improved com
 
 ## Risks which can benefit from this action
 
-* [Provision of language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_530.md)
+* [Provision of language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_530.md)
 

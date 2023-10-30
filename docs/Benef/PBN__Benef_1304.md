@@ -20,5 +20,5 @@ Triage patients into risk groups for appropriate care
 
 ## Risks which can benefit from this action
 
-* [Ai algorithms for screening and triage](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1326.md)
+* [Ai algorithms for screening and triage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1326.md)
 

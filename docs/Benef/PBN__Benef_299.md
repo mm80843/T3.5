@@ -21,5 +21,5 @@ Spatial planning strategies that prioritize hygiene, accessibility, and emergenc
 
 ## Risks which can benefit from this action
 
-* [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_296.md)
+* [Adoption of spatial planning strategies for pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_296.md)
 

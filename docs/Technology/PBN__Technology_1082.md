@@ -2,14 +2,9 @@
 
 # __Manufacturing companies__
 
-## Link between Blueprint and General ontology
-
-* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_221.md)
-* [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_222.md)
-
 ## Category to which it belongs
 
-* [Maximizing efficiency and minimizing costs across manufacturing, logistics, and supply chain management through integrated software, strategies, and technologies.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
+* [The seamless flow, analysis, and oversight of goods, services, and information across various industries and locations.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_106.md)
 
 ## Closest similar item
 
@@ -18,15 +13,15 @@
 * [Local manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1605.md)
 * [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_761.md)
 * [Additive manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2010.md)
-* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2818.md)
-* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2534.md)
+* [Supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2983.md)
+* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2702.md)
 * [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1083.md)
-* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3266.md)
+* [Products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3431.md)
 * [Employers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_796.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_4.md)
+* [Infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2164.md)
 
 ## This technology is mentioned by
 
@@ -34,7 +29,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Public health measures and regulations](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_92.md)
+* [Public health measures and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2140.md)
 
 ## Risks linked to this technology
 

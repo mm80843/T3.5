@@ -1,26 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2997 
 
-# __Maintenance__
+# __Reduced fossil fuel use__
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
-* [Regular maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_651.md)
-* [Maintenance needs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2933.md)
-* [Routine maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3458.md)
-* [Maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1890.md)
-* [Maintenance equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_147.md)
-* [Regular maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1323.md)
-* [Maintenance and inspection protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1182.md)
-* [Repair](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3715.md)
-* [Sensor maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_988.md)
-* [Proper maintenance and operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2293.md)
+* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1236.md)
+* [Improved biomass fuels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1482.md)
+* [Carbon reduction technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3468.md)
+* [Access to clean fuels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3427.md)
+* [Low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3552.md)
+* [Climate mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1511.md)
+* [Water usage reduction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3629.md)
+* [Energy saving and conservation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2250.md)
+* [Energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2358.md)
+* [Energy management and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2143.md)
 
 ## This Technology enables the following mitigations
 
-* [Maintenance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4253.md)
-* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5266.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1113.md)
 

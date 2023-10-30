@@ -46,11 +46,11 @@ SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence
 
 ## This article points to following mitigation
 
-* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_492.md)
-* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4097.md)
-* [Concentration method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4581.md)
-* [Taqman real-time rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4582.md)
-* [Digital rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4583.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_492.md)
+* [Concentration method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4581.md)
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4097.md)
+* [Taqman real-time rt-pcr](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4582.md)
+* [Digital rt-qpcr](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4583.md)
 
 ## This article mentions these technologies
 

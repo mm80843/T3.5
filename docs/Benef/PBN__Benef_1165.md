@@ -20,5 +20,5 @@ Photocatalytic oxidation removes airborne pathogens by creating reactive radical
 
 ## Risks which can benefit from this action
 
-* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1168.md)
+* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1168.md)
 

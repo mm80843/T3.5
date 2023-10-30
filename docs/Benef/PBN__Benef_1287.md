@@ -20,5 +20,5 @@ Measures to promote occupant well-being and mental health, such as access to nat
 
 ## Risks which can benefit from this action
 
-* [Implementation of measures to promote occupant well-being and mental health](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1310.md)
+* [Implementation of measures to promote occupant well-being and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1310.md)
 

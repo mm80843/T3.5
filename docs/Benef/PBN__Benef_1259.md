@@ -20,5 +20,5 @@ Smart PPE offers users more information and functionalities, such as language tr
 
 ## Risks which can benefit from this action
 
-* [Smart personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1278.md)
+* [Smart personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1278.md)
 

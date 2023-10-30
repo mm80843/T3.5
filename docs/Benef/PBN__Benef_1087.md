@@ -21,5 +21,5 @@
 
 ## Risks which can benefit from this action
 
-* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1100.md)
+* [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1100.md)
 

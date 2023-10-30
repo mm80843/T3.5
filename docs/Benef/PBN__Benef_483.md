@@ -21,5 +21,5 @@ Contact tracing can identify and notify individuals at risk of exposure, allowin
 
 ## Risks which can benefit from this action
 
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_498.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
 

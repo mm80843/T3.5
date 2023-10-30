@@ -8,5 +8,5 @@ theme_Space_Design
 
 ## Category to which it belongs
 
-* [Creating environments that optimize the use and aesthetic of physical and virtual spaces.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_508.md)
+* [Aesthetic arrangement of physical environments in the cosmos.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_276.md)
 

@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [A compilation of various guidelines and protocols aiming to regulate and guide different aspects of society and governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_248.md)
+* [Efforts to inform and engage the public, promote awareness, influence policies, and foster community involvement.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_124.md)
 
 ## Closest similar item
 
 * [Policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
-* [Government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3533.md)
+* [Government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3698.md)
 * [Economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_804.md)
-* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2808.md)
+* [Policy measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2974.md)
 * [Policy frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1492.md)
-* [Government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2855.md)
+* [Government programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3020.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
-* [Policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2815.md)
-* [Policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3268.md)
-* [National and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2820.md)
+* [Policy and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2980.md)
+* [Policy implementation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3433.md)
+* [National and local policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2985.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
 
 ## This technology is mentioned by
 
@@ -29,11 +29,11 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Enforcement and regulation measures](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_158.md)
+* [Enforcement and regulation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2219.md)
 
 ## This Technology enables the following mitigations
 
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4627.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4627.md)
 
 ## Risks linked to this technology
 

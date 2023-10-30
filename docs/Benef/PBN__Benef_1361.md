@@ -21,5 +21,5 @@ Allows for a more proactive and effective response to pandemic-related challenge
 
 ## Risks which can benefit from this action
 
-* [Increase in preparedness level](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1399.md)
+* [Increase in preparedness level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1399.md)
 

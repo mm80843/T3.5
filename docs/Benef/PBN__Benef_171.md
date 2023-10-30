@@ -20,5 +20,5 @@ Good lighting design enhances mood, improves visibility, and stimulates producti
 
 ## Risks which can benefit from this action
 
-* [Enhanced lighting design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_151.md)
+* [Enhanced lighting design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_151.md)
 

@@ -20,5 +20,5 @@ Biofiltration technology, such as green walls and microalgae structures, can eff
 
 ## Risks which can benefit from this action
 
-* [Biofiltration technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_995.md)
+* [Biofiltration technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_995.md)
 

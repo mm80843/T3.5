@@ -20,5 +20,5 @@ Real-time update on COVID-19 cases, disease distribution, and severity
 
 ## Risks which can benefit from this action
 
-* [Iot data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1323.md)
+* [Iot data monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1323.md)
 

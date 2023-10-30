@@ -20,5 +20,5 @@ Evaluation of vaccines and therapeutic drugs
 
 ## Risks which can benefit from this action
 
-* [Animal models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_591.md)
+* [Animal models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_591.md)
 

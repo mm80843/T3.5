@@ -20,5 +20,5 @@ WBE provides insights into the degree of infection spread in a population, helpi
 
 ## Risks which can benefit from this action
 
-* [Wastewater-based monitoring wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_0.md)
+* [Wastewater-based monitoring wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_0.md)
 

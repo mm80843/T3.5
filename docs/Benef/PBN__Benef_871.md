@@ -21,5 +21,5 @@ Emerging technologies can strengthen the government's problem-solving capacity b
 
 ## Risks which can benefit from this action
 
-* [Integration of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_873.md)
+* [Integration of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_873.md)
 

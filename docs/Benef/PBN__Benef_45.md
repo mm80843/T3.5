@@ -20,5 +20,5 @@ Implementing neighborhood-oriented development patterns can promote community de
 
 ## Risks which can benefit from this action
 
-* [Neighborhood-oriented development](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_37.md)
+* [Neighborhood-oriented development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_37.md)
 

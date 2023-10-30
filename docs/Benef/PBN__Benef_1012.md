@@ -21,5 +21,5 @@ Anticipating and forecasting disease outbreaks can help initiate swift public he
 
 ## Risks which can benefit from this action
 
-* [Monitoring changes in environmental and climatic conditions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1018.md)
+* [Monitoring changes in environmental and climatic conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1018.md)
 

@@ -12,7 +12,7 @@ Prevent fake news
 
 ## Category to which it belongs
 
-* [Combat misinformation and disinformation through proactive measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_385.md)
+* [Combat misinformation and disinformation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
 
 ## This intervention is used in the following blueprints
 

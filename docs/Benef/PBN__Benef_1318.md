@@ -21,5 +21,5 @@ Collaborative and proactive measures in controlling the spread of outbreaks mini
 
 ## Risks which can benefit from this action
 
-* [Collaborative and proactive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1342.md)
+* [Collaborative and proactive measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1342.md)
 

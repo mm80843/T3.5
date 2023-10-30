@@ -20,5 +20,5 @@ Modeling studies of viral activity to guide preparedness efforts
 
 ## Risks which can benefit from this action
 
-* [Big-data analytics modeling](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1324.md)
+* [Big-data analytics modeling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1324.md)
 

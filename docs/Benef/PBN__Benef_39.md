@@ -20,5 +20,5 @@ Privacy-by-Design and other privacy protection measures can ensure that personal
 
 ## Risks which can benefit from this action
 
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_31.md)
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_31.md)
 

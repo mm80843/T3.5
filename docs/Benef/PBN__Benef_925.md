@@ -21,5 +21,5 @@ Increasing the number of individuals who flourish in the population could potent
 
 ## Risks which can benefit from this action
 
-* [Promoting mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_927.md)
+* [Promoting mental health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_927.md)
 

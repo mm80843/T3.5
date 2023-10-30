@@ -20,5 +20,5 @@ Promoting and enforcing guidelines for safe and responsible behavior can reduce 
 
 ## Risks which can benefit from this action
 
-* [Promoting safe and responsible behavior](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_102.md)
+* [Promoting safe and responsible behavior](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_102.md)
 

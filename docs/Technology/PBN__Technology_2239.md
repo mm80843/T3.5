@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2239 
 
-# __On-site recreational amenities__
+# __Contactless fare payment systems__
 
 ## Category to which it belongs
 
-* [A comprehensive range of measures and mechanisms to ensure safety, compliance, governance, transparency, and enforcement in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_220.md)
+* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
-* [Community amenities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_170.md)
-* [Sport and recreation spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1740.md)
-* [On-site shopping facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2238.md)
-* [Parks and recreation planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_662.md)
-* [Outdoor terraces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_847.md)
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1846.md)
-* [Outdoor seating areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2221.md)
-* [Outdoor gathering spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_250.md)
-* [Designated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3555.md)
-* [Access to outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2641.md)
+* [Contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_744.md)
+* [Implement contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_299.md)
+* [Contactless transactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1015.md)
+* [Contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1554.md)
+* [Contactless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1835.md)
+* [Contactless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_487.md)
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
+* [Payment and transaction systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2246.md)
+* [Online booking systems for entrance fees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1819.md)
+* [Virtual payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_129.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Self-sufficiency in recreation facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3257.md)
+* [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Contact tracing and control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2112.md)
 

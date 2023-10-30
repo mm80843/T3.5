@@ -20,5 +20,5 @@ Diversifying suppliers reduces the risk of material shortage, ensuring a stable 
 
 ## Risks which can benefit from this action
 
-* [Supplier diversification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_782.md)
+* [Supplier diversification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_782.md)
 

@@ -20,5 +20,5 @@ Scenario planning can help supply chain professionals anticipate potential disru
 
 ## Risks which can benefit from this action
 
-* [Implementing scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_12.md)
+* [Implementing scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_12.md)
 

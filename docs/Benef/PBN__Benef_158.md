@@ -20,5 +20,5 @@ Mitigates spreading of disease during drug purchase and saves physical and human
 
 ## Risks which can benefit from this action
 
-* [Iot in drug delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_141.md)
+* [Iot in drug delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_141.md)
 

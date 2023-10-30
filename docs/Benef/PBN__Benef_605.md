@@ -21,5 +21,5 @@ Developing pandemic-resilient office building requirements can ensure the sustai
 
 ## Risks which can benefit from this action
 
-* [Develop pandemic-resilient office building requirements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_605.md)
+* [Develop pandemic-resilient office building requirements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_605.md)
 

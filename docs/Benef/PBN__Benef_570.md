@@ -20,5 +20,5 @@ Lack of material or delay in material supply during COVID-19 affects work progre
 
 ## Risks which can benefit from this action
 
-* [Material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_579.md)
+* [Material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_579.md)
 

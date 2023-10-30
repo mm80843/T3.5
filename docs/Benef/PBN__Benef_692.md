@@ -20,5 +20,5 @@ Improved access to preventive measures reduces disparities in COVID-19 risk and 
 
 ## Risks which can benefit from this action
 
-* [Improved access to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_686.md)
+* [Improved access to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_686.md)
 

@@ -21,5 +21,5 @@ Access to essential healthcare and reduced risk of undernutrition
 
 ## Risks which can benefit from this action
 
-* [Strengthen primary healthcare](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1071.md)
+* [Strengthen primary healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1071.md)
 

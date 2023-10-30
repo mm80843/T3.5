@@ -20,5 +20,5 @@ Studying the effects of droplet evaporation and chemistry on virus viability can
 
 ## Risks which can benefit from this action
 
-* [Investigating droplet physics and chemistry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_263.md)
+* [Investigating droplet physics and chemistry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_263.md)
 

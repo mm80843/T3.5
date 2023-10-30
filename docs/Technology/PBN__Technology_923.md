@@ -4,24 +4,24 @@
 
 ## Category to which it belongs
 
-* [Efforts to ensure health and safety through surveillance, regulations, sanitation, reliable sources, support services, and virtual experiences.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_238.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Humidifier](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2413.md)
-* [Humidification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2519.md)
-* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3446.md)
-* [Dehumidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2957.md)
-* [Humidity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2355.md)
+* [Humidifier](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2581.md)
+* [Humidification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2687.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3611.md)
+* [Dehumidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3122.md)
+* [Humidity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2523.md)
 * [Humidity control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1163.md)
-* [Moisture management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3276.md)
+* [Moisture management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3441.md)
 * [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [Air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2629.md)
-* [Hvac systems with humidity control capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2101.md)
+* [Air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2797.md)
+* [Hvac systems with humidity control capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2265.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_13.md)
+* [Indoor air technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2238.md)
 
 ## This technology is mentioned by
 
@@ -32,8 +32,8 @@
 
 ## This Technology enables the following mitigations
 
-* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3440.md)
-* [Humidification](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4016.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3440.md)
+* [Humidification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4016.md)
 
 ## Risks linked to this technology
 

@@ -21,5 +21,5 @@ Ensuring global coverage of vaccination helps to address the challenge of equita
 
 ## Risks which can benefit from this action
 
-* [Ensuring global coverage of vaccination](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_726.md)
+* [Ensuring global coverage of vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_726.md)
 

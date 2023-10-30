@@ -21,5 +21,5 @@ Remote testing and telemedicine reduce the workload and stress levels of healthc
 
 ## Risks which can benefit from this action
 
-* [Telemedicine and remote testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1426.md)
+* [Telemedicine and remote testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1426.md)
 

@@ -4,25 +4,25 @@
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Movable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3561.md)
-* [Partitioning materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2876.md)
-* [Portable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3376.md)
+* [Movable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3726.md)
+* [Partitioning materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3041.md)
+* [Portable partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3541.md)
 * [Partition barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1654.md)
-* [Allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2794.md)
-* [Ssd](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3340.md)
+* [Allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2960.md)
+* [Ssd](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3505.md)
 * [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
 * [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
-* [Separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
-* [Room to member ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3468.md)
+* [Separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3085.md)
+* [Room to member ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3633.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_2.md)
-* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_12.md)
+* [Wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2100.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
 
 ## This technology is mentioned by
 
@@ -30,11 +30,11 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_79.md)
+* [Indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2122.md)
 
 ## This Technology enables the following mitigations
 
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3574.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3574.md)
 
 ## Risks linked to this technology
 

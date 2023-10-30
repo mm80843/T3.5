@@ -20,5 +20,5 @@ Further research needed on efficacy of UVGI systems
 
 ## Risks which can benefit from this action
 
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_318.md)
+* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_318.md)
 

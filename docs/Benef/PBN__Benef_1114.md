@@ -21,5 +21,5 @@ VR can aid in pain management and physical therapy, leading to faster recovery a
 
 ## Risks which can benefit from this action
 
-* [Virtual reality pain management and physical therapy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1128.md)
+* [Virtual reality pain management and physical therapy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1128.md)
 

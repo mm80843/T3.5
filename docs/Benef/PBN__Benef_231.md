@@ -20,5 +20,5 @@ Touchless technologies reduce the need for physical contact with potentially inf
 
 ## Risks which can benefit from this action
 
-* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_215.md)
+* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_215.md)
 

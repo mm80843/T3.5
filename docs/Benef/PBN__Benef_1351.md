@@ -20,5 +20,5 @@ Retrofitting existing buildings with green features, such as advanced ventilatio
 
 ## Risks which can benefit from this action
 
-* [Green retrofitting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1390.md)
+* [Green retrofitting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1390.md)
 

@@ -20,5 +20,5 @@ Home-based exercise (such as yoga, dancing, exergames) has been shown to allevia
 
 ## Risks which can benefit from this action
 
-* [Home-based exercise](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1173.md)
+* [Home-based exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1173.md)
 

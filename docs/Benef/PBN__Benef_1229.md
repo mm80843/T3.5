@@ -21,5 +21,5 @@ Research can provide quantitative evidence on the effectiveness of UBPI, improvi
 
 ## Risks which can benefit from this action
 
-* [Research and evaluation of ubpi effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1237.md)
+* [Research and evaluation of ubpi effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1237.md)
 

@@ -20,5 +20,5 @@ Urban planning that considers heat impacts can improve housing quality and reduc
 
 ## Risks which can benefit from this action
 
-* [Urban geometry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_486.md)
+* [Urban geometry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_486.md)
 

@@ -21,5 +21,5 @@ Increased funding for conservation efforts would help protect endangered species
 
 ## Risks which can benefit from this action
 
-* [Conservation funding](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_980.md)
+* [Conservation funding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_980.md)
 

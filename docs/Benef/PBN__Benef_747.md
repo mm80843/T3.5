@@ -20,5 +20,5 @@ Restricting unnecessary movement and mingling of people in shops and public gath
 
 ## Risks which can benefit from this action
 
-* [Stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_744.md)
+* [Stay-at-home orders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_744.md)
 

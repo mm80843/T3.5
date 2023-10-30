@@ -20,5 +20,5 @@ Providing strategies to reduce travel anxiety can alleviate tourists' concerns a
 
 ## Risks which can benefit from this action
 
-* [Development of travel anxiety reduction strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_413.md)
+* [Development of travel anxiety reduction strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_413.md)
 

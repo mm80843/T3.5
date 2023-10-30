@@ -22,5 +22,5 @@ Sustainable and equitable economic growth, improved quality of life
 
 ## Risks which can benefit from this action
 
-* [Implementation of wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_902.md)
+* [Implementation of wellbeing economies and budgets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_902.md)
 

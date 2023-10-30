@@ -20,5 +20,5 @@ Family-based exercise programs have been shown to have positive effects on the a
 
 ## Risks which can benefit from this action
 
-* [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1175.md)
+* [Family-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1175.md)
 

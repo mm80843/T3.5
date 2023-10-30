@@ -20,5 +20,5 @@ Continuous collection and processing of large volumes of data from each person c
 
 ## Risks which can benefit from this action
 
-* [Continuous collection and processing of individualized data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1424.md)
+* [Continuous collection and processing of individualized data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1424.md)
 

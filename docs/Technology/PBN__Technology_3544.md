@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3544 
 
-# __Interior-point method__
+# __Extra light fixtures__
 
 ## Category to which it belongs
 
-* [These tools and techniques streamline processes, optimize systems, and enable data-driven decision-making in a variety of industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
+* [Lighting solutions that utilize ultraviolet technology for germicidal purposes, energy efficiency, and control of natural light.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_147.md)
 
 ## Closest similar item
 
-* [Interior design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2436.md)
-* [Interior designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_380.md)
-* [Conservation methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3304.md)
-* [Off-site construction methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_373.md)
-* [Vector control methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_974.md)
-* [Rule-based methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
-* [Separation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3557.md)
-* [Optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_986.md)
-* [Optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2896.md)
-* [Trapping methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2905.md)
+* [Lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2426.md)
+* [Efficient lighting fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_653.md)
+* [Uv light fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2751.md)
+* [Lighting solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2123.md)
+* [Lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3476.md)
+* [Lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3665.md)
+* [Fluorescent lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3458.md)
+* [Glare-reducing fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_196.md)
+* [Water-efficient fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3723.md)
+* [Low-flow fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1771.md)
 
 ## This Technology enables the following mitigations
 
-* [Circle packing algorithm](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5036.md)
+* [Additional lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4824.md)
 

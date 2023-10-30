@@ -20,5 +20,5 @@ Increases awareness and understanding of the purpose and benefits of the smart a
 
 ## Risks which can benefit from this action
 
-* [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_66.md)
+* [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_66.md)
 

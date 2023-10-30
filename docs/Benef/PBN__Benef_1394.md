@@ -22,5 +22,5 @@ Digital transformation technologies can eliminate the need for lockdowns and pre
 
 ## Risks which can benefit from this action
 
-* [Digital transformation technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1429.md)
+* [Digital transformation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1429.md)
 

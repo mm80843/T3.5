@@ -1,24 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3124 
 
-# __Moderation__
+# __Open windows__
 
 ## Category to which it belongs
 
-* [Enhancing digital connectivity through internet-based communication, networking platforms, and wireless data transmission for efficient collaboration and reliable connectivity.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_235.md)
+* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
 
 ## Closest similar item
 
-* [Social media platforms’ moderation policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3765.md)
-* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1997.md)
-* [Clear guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_803.md)
-* [Community mobilization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_77.md)
-* [Voluntary participation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3174.md)
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
-* [Fostering community](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3281.md)
-* [Public opinion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2823.md)
+* [Opening windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2457.md)
+* [Openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
+* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
+* [Access to windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2462.md)
+* [Operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3312.md)
+* [Windows with views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1009.md)
+* [Provide large windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1262.md)
+* [Open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2388.md)
+* [Smart windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3716.md)
+* [Window design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2643.md)
 
 ## This Technology enables the following mitigations
 
-* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4464.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_476.md)
 

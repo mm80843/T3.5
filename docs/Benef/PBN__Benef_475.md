@@ -21,5 +21,5 @@ Wastewater monitoring can help assess the risk of SARS-CoV-2 transmission via wa
 
 ## Risks which can benefit from this action
 
-* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_492.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_492.md)
 

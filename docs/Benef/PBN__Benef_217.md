@@ -21,5 +21,5 @@ Allows for the monitoring of antimicrobial usage at a community-wide level to id
 
 ## Risks which can benefit from this action
 
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_202.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_202.md)
 

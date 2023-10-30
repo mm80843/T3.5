@@ -20,5 +20,5 @@ Effective management of waste, leading to reduced environmental pollution and he
 
 ## Risks which can benefit from this action
 
-* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1146.md)
+* [Waste management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1146.md)
 

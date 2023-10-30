@@ -12,7 +12,7 @@ Monitor and control indoor air quality
 
 ## Category to which it belongs
 
-* [Ensuring optimal indoor air conditions through supervision and regulation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_353.md)
+* [Ensure and manage the cleanliness and purity of indoor air.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_153.md)
 
 ## This intervention is used in the following blueprints
 

@@ -20,5 +20,5 @@ Clear communication from health authorities reduces panic and rumors
 
 ## Risks which can benefit from this action
 
-* [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_562.md)
+* [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_562.md)
 

@@ -21,5 +21,5 @@ IoMT applications can enable remote monitoring and diagnosis of COVID-19, reduci
 
 ## Risks which can benefit from this action
 
-* [Development of iomt applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_464.md)
+* [Development of iomt applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_464.md)
 

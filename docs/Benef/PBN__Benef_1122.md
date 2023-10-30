@@ -20,5 +20,5 @@ Monitoring the IEQ parameters allows for ensuring adequate temperature and humid
 
 ## Risks which can benefit from this action
 
-* [Ieq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1132.md)
+* [Ieq monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1132.md)
 

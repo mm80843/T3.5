@@ -21,5 +21,5 @@ Effective communication between stakeholders during crises enhances coordination
 
 ## Risks which can benefit from this action
 
-* [Establishing effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_647.md)
+* [Establishing effective communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_647.md)
 

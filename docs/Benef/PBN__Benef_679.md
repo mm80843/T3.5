@@ -23,6 +23,6 @@ Ensures timely testing and identification of infected healthcare workers, preven
 
 ## Risks which can benefit from this action
 
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1131.md)
-* [Early deployment of viral testing for asymptomatic and frontline healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_674.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
+* [Early deployment of viral testing for asymptomatic and frontline healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_674.md)
 

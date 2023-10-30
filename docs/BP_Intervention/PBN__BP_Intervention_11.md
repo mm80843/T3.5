@@ -12,7 +12,7 @@ Greywater management
 
 ## Category to which it belongs
 
-* [Efficient reuse and recycling of domestic wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_360.md)
+* [Efficiently handling and reusing wastewater for conservation and environmental sustainability.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_160.md)
 
 ## This intervention is used in the following blueprints
 

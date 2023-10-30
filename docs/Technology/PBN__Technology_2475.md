@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2475 
 
-# __Window design__
+# __Social and mental health experts__
 
 ## Category to which it belongs
 
-* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [A comprehensive array of digital platforms, resources, and professionals offering support, counseling, therapy, and interventions for mental health.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_103.md)
 
 ## Closest similar item
 
-* [Window size](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3443.md)
-* [Double-glazed windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2479.md)
-* [Provide large windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1262.md)
-* [Operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3147.md)
-* [Window views of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1613.md)
-* [Drive-through window systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3308.md)
-* [Increase window size](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1729.md)
-* [Openable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1746.md)
-* [Double or triple-glazed windows conducive to airtight construction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2687.md)
-* [Building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3264.md)
+* [Mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3407.md)
+* [Social and mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3316.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2106.md)
+* [Mental health resources and support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2111.md)
+* [Mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_937.md)
+* [Mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1078.md)
+* [Mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_597.md)
+* [Mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_874.md)
+* [Mental health care support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1280.md)
+* [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1119.md)
 
 ## This Technology enables the following mitigations
 
-* [Enhancing natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3533.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3324.md)
 

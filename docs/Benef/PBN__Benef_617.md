@@ -21,5 +21,5 @@ Design flexibility allows healthcare infrastructure to adapt to changing demands
 
 ## Risks which can benefit from this action
 
-* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_612.md)
+* [Design flexibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_612.md)
 

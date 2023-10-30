@@ -21,5 +21,5 @@ Increased availability of affordable housing due to policy reforms and increased
 
 ## Risks which can benefit from this action
 
-* [Policy reforms and increased investment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_533.md)
+* [Policy reforms and increased investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_533.md)
 

@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3405 
 
-# __Online questionnaire/app__
+# __Official health organizations__
 
 ## Category to which it belongs
 
-* [Digital platforms provide virtual collaboration, information sharing, online learning, social networking, customer feedback, and fundraising opportunities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_200.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
-* [Online survey technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2939.md)
-* [Questionnaire design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2557.md)
-* [Online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3522.md)
-* [Web surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2409.md)
-* [Online applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1679.md)
-* [Electronic surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1824.md)
-* [Mobile app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2962.md)
-* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
-* [Online forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3236.md)
-* [Surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
+* [Public health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_311.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_339.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_334.md)
+* [Local government and health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2146.md)
+* [Healthcare authorities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1063.md)
+* [Public health initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2306.md)
+* [Public health measures and regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2140.md)
+* [Healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1070.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
 
 ## This Technology enables the following mitigations
 
-* [Self-health evaluation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4882.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4616.md)
 

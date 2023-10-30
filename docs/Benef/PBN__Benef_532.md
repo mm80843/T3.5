@@ -20,5 +20,5 @@ Customized indoor controls based on CFD analyses create cleaner and healthier en
 
 ## Risks which can benefit from this action
 
-* [Designing personalized indoor controls at room and patient levels](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_546.md)
+* [Designing personalized indoor controls at room and patient levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_546.md)
 

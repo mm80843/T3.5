@@ -20,5 +20,5 @@ Building social capital through participatory governance enhances community resi
 
 ## Risks which can benefit from this action
 
-* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_693.md)
+* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_693.md)
 

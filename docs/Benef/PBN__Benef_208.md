@@ -20,5 +20,5 @@ Improved thermal comfort, reducing stress and promoting well-being.
 
 ## Risks which can benefit from this action
 
-* [Temperature and humidity control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_194.md)
+* [Temperature and humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_194.md)
 

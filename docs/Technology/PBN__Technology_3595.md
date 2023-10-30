@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3595 
 
-# __Measuring rh__
+# __Cineca__
 
 ## Category to which it belongs
 
-* [These tools and techniques streamline processes, optimize systems, and enable data-driven decision-making in a variety of industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1060.md)
-* [Can be used to regulate ah and rh levels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1058.md)
-* [Measurement devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2618.md)
-* [Multiplexed measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2252.md)
-* [Physical distancing tools and measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3761.md)
-* [Infrared thermometer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2694.md)
-* [Biomarker measurements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2305.md)
-* [Physical distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1988.md)
-* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1881.md)
-* [Laboratory standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1318.md)
+* [Sio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3358.md)
+* [Cu2o](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2493.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1982.md)
+* [Green areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3411.md)
+* [Skilled team](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2738.md)
+* [Network of partners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2975.md)
+* [Mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
+* [Cnn](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3366.md)
+* [Urban designers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_381.md)
+* [Emanators](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3834.md)
 
 ## This Technology enables the following mitigations
 
-* [Rh effect on uv inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5106.md)
+* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4922.md)
 

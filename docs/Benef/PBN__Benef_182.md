@@ -20,5 +20,5 @@ Provides better access to specialized treatment and expertise
 
 ## Risks which can benefit from this action
 
-* [Referral system improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_162.md)
+* [Referral system improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_162.md)
 

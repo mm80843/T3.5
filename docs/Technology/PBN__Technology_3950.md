@@ -1,8 +1,0 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3950 
-
-# __New delivery systems&&&online delivery platforms&&&logistics providers&&&transportation services&&&digital services&&&logistics&&&coordinated services&&&food delivery apps&&&logistics systems&&&support services__
-
-## Link between Blueprint and General ontology
-
-* [Delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_235.md)
-

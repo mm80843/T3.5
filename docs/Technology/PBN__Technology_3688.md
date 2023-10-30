@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3688 
 
-# __Commissioning__
+# __Geographic information systems gis software__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Efficiently manage finances, construction projects, schedules, contracts, communication, and data analysis with advanced software and technology.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_141.md)
 
 ## Closest similar item
 
-* [Inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_84.md)
-* [Procurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2792.md)
-* [Procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2350.md)
-* [Strategic master plan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1782.md)
-* [Legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2642.md)
-* [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2470.md)
-* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2997.md)
-* [Remote inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_861.md)
-* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1631.md)
-* [Proper equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2261.md)
+* [Geographic information systems gis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_539.md)
+* [Geographic information systems gis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1680.md)
+* [Geographical information system gis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2724.md)
+* [Geographic information system gis mapping technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2175.md)
+* [Geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1212.md)
+* [Gis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3202.md)
+* [Geographical information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2509.md)
+* [Geographic information systems gis can be used to analyze community needs and optimize facility placement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1911.md)
+* [Gis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3138.md)
+* [Geographic information systems gis can help identify areas with low ugs access and guide planning efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1032.md)
 
 ## This Technology enables the following mitigations
 
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1389.md)
+* [Land use data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5020.md)
 

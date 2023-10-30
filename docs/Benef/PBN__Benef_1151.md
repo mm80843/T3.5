@@ -21,5 +21,5 @@ Enables efficient monitoring of infected individuals and their movements for con
 
 ## Risks which can benefit from this action
 
-* [Gps tracking and prediction](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1153.md)
+* [Gps tracking and prediction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1153.md)
 

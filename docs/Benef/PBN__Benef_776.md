@@ -21,5 +21,5 @@ Greater coordination and timely response to cross-border health threats, improve
 
 ## Risks which can benefit from this action
 
-* [Strengthen eu-level institutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_775.md)
+* [Strengthen eu-level institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_775.md)
 

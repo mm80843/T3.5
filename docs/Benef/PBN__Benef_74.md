@@ -21,5 +21,5 @@ Establishes uniform standards and protocols for data collection and management, 
 
 ## Risks which can benefit from this action
 
-* [Standardized protocols and governance structures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_68.md)
+* [Standardized protocols and governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_68.md)
 

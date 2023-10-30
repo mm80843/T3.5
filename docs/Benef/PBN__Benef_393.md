@@ -20,5 +20,5 @@ Digital transformation enables efficient remote work and virtual collaboration, 
 
 ## Risks which can benefit from this action
 
-* [Fast-moving digital-oriented continuity plans](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_397.md)
+* [Fast-moving digital-oriented continuity plans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_397.md)
 

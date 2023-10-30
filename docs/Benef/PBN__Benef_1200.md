@@ -20,5 +20,5 @@ Provide a central platform for coordination and information sharing among differ
 
 ## Risks which can benefit from this action
 
-* [Integrated command and control centers icccs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1202.md)
+* [Integrated command and control centers icccs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1202.md)
 

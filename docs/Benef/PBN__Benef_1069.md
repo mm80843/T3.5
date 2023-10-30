@@ -20,5 +20,5 @@ Attracting businesses looking for adaptable spaces during uncertain times
 
 ## Risks which can benefit from this action
 
-* [Adaptation of car parking building](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1080.md)
+* [Adaptation of car parking building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1080.md)
 

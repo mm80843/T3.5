@@ -21,5 +21,5 @@ QR code systems, tracking devices, and electronic monitoring enable targeted qua
 
 ## Risks which can benefit from this action
 
-* [Quarantine and self-isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_637.md)
+* [Quarantine and self-isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_637.md)
 

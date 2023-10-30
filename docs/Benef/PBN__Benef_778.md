@@ -22,5 +22,5 @@ Greater financial resources for countries in economic crisis, reduced economic d
 
 ## Risks which can benefit from this action
 
-* [Mutualized debt through corona bonds](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_777.md)
+* [Mutualized debt through corona bonds](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_777.md)
 

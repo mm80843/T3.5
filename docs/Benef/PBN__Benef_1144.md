@@ -20,5 +20,5 @@ Increased recycling rates, leading to reduced environmental pollution and conser
 
 ## Risks which can benefit from this action
 
-* [Recycling programs reinstatement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1147.md)
+* [Recycling programs reinstatement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1147.md)
 

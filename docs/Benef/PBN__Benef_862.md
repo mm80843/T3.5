@@ -20,5 +20,5 @@ Lockdown measures limit population movements and reduce transmission within urba
 
 ## Risks which can benefit from this action
 
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_863.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
 

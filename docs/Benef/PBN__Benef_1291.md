@@ -20,5 +20,5 @@ Increased sense of ownership, pride, and responsibility towards green areas, lea
 
 ## Risks which can benefit from this action
 
-* [Facilitate citizen participation in green area management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1314.md)
+* [Facilitate citizen participation in green area management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1314.md)
 

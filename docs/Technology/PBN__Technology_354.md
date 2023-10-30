@@ -4,19 +4,19 @@
 
 ## Category to which it belongs
 
-* [Efficient, sustainable energy technologies and systems that reduce carbon emissions and promote clean, renewable sources, while optimizing energy management and conservation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_230.md)
+* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
 * [Develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_306.md)
 * [Implement electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_305.md)
-* [Ground vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3695.md)
-* [Electrical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2942.md)
-* [E-scooters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2370.md)
-* [Self-driving cars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3001.md)
-* [Driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3208.md)
-* [Robots, drones & automated vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3735.md)
-* [Appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3559.md)
+* [Ground vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3859.md)
+* [Electrical](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3107.md)
+* [E-scooters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2538.md)
+* [Self-driving cars](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3166.md)
+* [Driverless vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3373.md)
+* [Robots, drones & automated vehicules](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3899.md)
+* [Appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3724.md)
 * [Microgrids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_929.md)
 
 ## This technology is mentioned by
@@ -25,7 +25,7 @@
 
 ## This Technology enables the following mitigations
 
-* [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4063.md)
+* [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4063.md)
 
 ## Risks linked to this technology
 

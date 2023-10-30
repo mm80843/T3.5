@@ -20,5 +20,5 @@ Improved disease surveillance and evidence for public-health decisions through b
 
 ## Risks which can benefit from this action
 
-* [Improved data collection](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1005.md)
+* [Improved data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1005.md)
 

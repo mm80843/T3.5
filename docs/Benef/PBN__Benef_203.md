@@ -20,5 +20,5 @@ Upgrading filters to a higher grade, such as MERV-13, increases their efficiency
 
 ## Risks which can benefit from this action
 
-* [Improve central air filters](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_188.md)
+* [Improve central air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_188.md)
 

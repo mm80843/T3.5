@@ -20,5 +20,5 @@ Communicating the uncertainty inherent in risk messages would result in a better
 
 ## Risks which can benefit from this action
 
-* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_925.md)
+* [Account for the uncertainty inherent in risk](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_925.md)
 

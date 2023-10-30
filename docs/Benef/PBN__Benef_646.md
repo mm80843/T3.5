@@ -20,5 +20,5 @@ Identifying and understanding the dependencies and interdependencies among criti
 
 ## Risks which can benefit from this action
 
-* [Identifying dependencies and interdependencies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_645.md)
+* [Identifying dependencies and interdependencies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_645.md)
 

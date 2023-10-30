@@ -21,5 +21,5 @@ Ontologies support data integration, sharing, and reproducibility, facilitating 
 
 ## Risks which can benefit from this action
 
-* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_53.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_53.md)
 

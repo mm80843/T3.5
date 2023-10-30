@@ -20,5 +20,5 @@ Investing in sustainable transport modes like electric bikes and scooters provid
 
 ## Risks which can benefit from this action
 
-* [Development of sustainable transport modes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_742.md)
+* [Development of sustainable transport modes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_742.md)
 

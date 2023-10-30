@@ -21,5 +21,5 @@ Using surveillance data to identify and discourage activities such as hoarding
 
 ## Risks which can benefit from this action
 
-* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1407.md)
+* [Surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1407.md)
 

@@ -20,5 +20,5 @@ Federated data analysis enables analysis of sensitive data without directly shar
 
 ## Risks which can benefit from this action
 
-* [Federated data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1115.md)
+* [Federated data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
 

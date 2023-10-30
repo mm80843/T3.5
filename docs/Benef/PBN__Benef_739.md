@@ -21,5 +21,5 @@ Increased capacity to handle emergency cases and provide medical services
 
 ## Risks which can benefit from this action
 
-* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_734.md)
+* [Construction of new medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_734.md)
 

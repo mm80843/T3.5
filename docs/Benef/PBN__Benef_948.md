@@ -21,5 +21,5 @@ Wearables provide continuous data on vital signs, helping identify changes in re
 
 ## Risks which can benefit from this action
 
-* [Collecting data on resting heart rate and sleep duration from wearables](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_944.md)
+* [Collecting data on resting heart rate and sleep duration from wearables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_944.md)
 

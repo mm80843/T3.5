@@ -22,5 +22,5 @@ Increased financial support for PCAs through international funding
 
 ## Risks which can benefit from this action
 
-* [Increasing international support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_131.md)
+* [Increasing international support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_131.md)
 

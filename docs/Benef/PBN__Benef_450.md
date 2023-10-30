@@ -21,5 +21,5 @@ The exchange process allows hospitals to better distribute their nursing staff, 
 
 ## Risks which can benefit from this action
 
-* [Exchange process between hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_468.md)
+* [Exchange process between hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_468.md)
 

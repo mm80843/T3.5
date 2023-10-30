@@ -20,5 +20,5 @@ Running HVAC systems for longer hours or continuously increases the amount of fr
 
 ## Risks which can benefit from this action
 
-* [Operate hvac systems for longer hours or 24/7](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_189.md)
+* [Operate hvac systems for longer hours or 24/7](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_189.md)
 

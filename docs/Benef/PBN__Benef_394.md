@@ -21,5 +21,5 @@ Preventing misinformation and miscommunication of medical data builds trust in t
 
 ## Risks which can benefit from this action
 
-* [Accurate and reliable medical data communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_398.md)
+* [Accurate and reliable medical data communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_398.md)
 

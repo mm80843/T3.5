@@ -21,5 +21,5 @@ Integrating latrine sampling into WBE would extend the reach of population-wide 
 
 ## Risks which can benefit from this action
 
-* [Integration of latrine sampling in wbe](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1207.md)
+* [Integration of latrine sampling in wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1207.md)
 

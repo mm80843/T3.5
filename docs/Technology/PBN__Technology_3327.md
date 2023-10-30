@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3327 
 
-# __Telephones__
+# __Cold storage facilities__
 
 ## Category to which it belongs
 
-* [Remote healthcare services through virtual platforms and technologies, including telemedicine, teletherapy, teleconferencing, and teleworking, using tele-devices for mental health support and counseling.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_202.md)
+* [Detection and regulation of heat, from thermal cameras and sensors to smart thermostats and temperature control devices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_144.md)
 
 ## Closest similar item
 
-* [Telephone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2285.md)
-* [Telephone network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2586.md)
-* [Phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1092.md)
-* [Smartphones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2231.md)
-* [Telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2155.md)
-* [Mobile phones](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3637.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3329.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [Telecommunication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3292.md)
-* [Government communications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3094.md)
+* [Water storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2359.md)
+* [Ultra-cold freezers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1297.md)
+* [Energy storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1759.md)
+* [Shelter facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2324.md)
+* [Energy storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1763.md)
+* [Rainwater storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3627.md)
+* [Cold chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1296.md)
+* [Smart storage solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1004.md)
+* [Cloud storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2366.md)
+* [Food storage and preservation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1223.md)
 
 ## This Technology enables the following mitigations
 
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3389.md)
+* [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4526.md)
 

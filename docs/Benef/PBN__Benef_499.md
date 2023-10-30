@@ -20,5 +20,5 @@ Tracing close contacts of confirmed cases allows for early identification and is
 
 ## Risks which can benefit from this action
 
-* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_513.md)
+* [Close contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_513.md)
 

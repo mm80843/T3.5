@@ -20,5 +20,5 @@ Robots can perform medical procedures, monitor patients, deliver supplies, and d
 
 ## Risks which can benefit from this action
 
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_404.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
 

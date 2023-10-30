@@ -12,7 +12,7 @@ Social distancing
 
 ## Category to which it belongs
 
-* [Physical separation for safety purposes.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_369.md)
+* [Maintaining physical distance to prevent the spread of disease.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_169.md)
 
 ## This intervention is used in the following blueprints
 

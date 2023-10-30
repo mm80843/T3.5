@@ -21,5 +21,5 @@ Decrease in CO2 emissions, contributing to climate recovery and reducing the eff
 
 ## Risks which can benefit from this action
 
-* [Reduction in co2 emissions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_184.md)
+* [Reduction in co2 emissions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_184.md)
 

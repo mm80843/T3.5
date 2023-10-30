@@ -20,5 +20,5 @@ Media portrayal that challenges negative stereotypes improves public perception 
 
 ## Risks which can benefit from this action
 
-* [Positive media representation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_532.md)
+* [Positive media representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_532.md)
 

@@ -21,5 +21,5 @@ Distribution of green spaces should consider the needs and demands of different 
 
 ## Risks which can benefit from this action
 
-* [Redistribution of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_422.md)
+* [Redistribution of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_422.md)
 

@@ -20,5 +20,5 @@ Increasing reliance on digital technology for education, commerce, and entertain
 
 ## Risks which can benefit from this action
 
-* [Adoption of digital technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_751.md)
+* [Adoption of digital technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_751.md)
 

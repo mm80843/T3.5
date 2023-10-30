@@ -12,7 +12,7 @@ Managing drinking water safety measures
 
 ## Category to which it belongs
 
-* [Ensuring the safety of water supply through effective management practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_357.md)
+* [Implementing safeguards for the security and integrity of potable water systems.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_157.md)
 
 ## This intervention is used in the following blueprints
 

@@ -21,5 +21,5 @@ Effective rodent control methods can decrease rat populations, reducing the spre
 
 ## Risks which can benefit from this action
 
-* [Implement rodent management program](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_78.md)
+* [Implement rodent management program](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_78.md)
 

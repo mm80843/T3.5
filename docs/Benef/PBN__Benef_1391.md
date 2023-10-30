@@ -20,5 +20,5 @@ Analysis of sensor data can yield previously unknown correlations, leading to mo
 
 ## Risks which can benefit from this action
 
-* [Analysis of complex links between sensor data and physiological status](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1425.md)
+* [Analysis of complex links between sensor data and physiological status](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1425.md)
 

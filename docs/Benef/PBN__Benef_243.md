@@ -20,5 +20,5 @@ Proper waste management practices reduce the negative impact of increased waste 
 
 ## Risks which can benefit from this action
 
-* [Management of increased waste](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_232.md)
+* [Management of increased waste](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_232.md)
 

@@ -20,5 +20,5 @@ Clear and accurate information shared on social media would decrease panic and a
 
 ## Risks which can benefit from this action
 
-* [Best practices for information sharing on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_909.md)
+* [Best practices for information sharing on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_909.md)
 

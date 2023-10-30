@@ -20,5 +20,5 @@ Providing transparent and credible information reduces tourists' perception of r
 
 ## Risks which can benefit from this action
 
-* [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_410.md)
+* [Communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_410.md)
 

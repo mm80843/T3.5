@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3703 
 
-# __Housing policies__
+# __Fast prediction models__
 
 ## Category to which it belongs
 
-* [A compilation of various guidelines and protocols aiming to regulate and guide different aspects of society and governance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_248.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
-* [Housing quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2882.md)
-* [Housing and building design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3760.md)
-* [Policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_480.md)
-* [Housing design and construction standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_454.md)
-* [Housing developers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1394.md)
-* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
-* [Affordable and sustainable housing solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_90.md)
-* [Welfare policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2646.md)
-* [Community policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
-* [Government policies and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3533.md)
+* [Predictive modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3325.md)
+* [Statistical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
+* [Machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2555.md)
+* [Computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3335.md)
+* [Deep learning models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3137.md)
+* [Statistical modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3103.md)
+* [Predictive analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3089.md)
+* [Forecasting software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1966.md)
+* [Mathematical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2327.md)
 
 ## This Technology enables the following mitigations
 
-* [Affordable housing with resilient building typologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5229.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_500.md)
 

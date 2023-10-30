@@ -32,19 +32,19 @@ Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a
 
 ## List of risks in an article
 
-* [Confidentiality breach in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2216.md)
 * [Limited availability of non-verbal cues in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2217.md)
+* [Confidentiality breach in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2216.md)
 * [Limited human resources for occupational mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2219.md)
 * [Lack of quantitative evidence for the effectiveness of ubpi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2218.md)
 * [Restriction in delivery capability for pfa interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2220.md)
 
 ## This article points to following mitigation
 
-* [Ultrabrief psychological intervention ubpi](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5013.md)
-* [Psychological first aid pfa](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5014.md)
-* [Training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5016.md)
-* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5012.md)
-* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5015.md)
+* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5016.md)
+* [Ultrabrief psychological intervention ubpi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5013.md)
+* [Psychological first aid pfa](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5014.md)
+* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5012.md)
+* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5015.md)
 
 ## This article mentions these technologies
 

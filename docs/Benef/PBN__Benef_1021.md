@@ -20,5 +20,5 @@ Proper maintenance and cleaning of germicidal irradiation systems leads to incre
 
 ## Risks which can benefit from this action
 
-* [Extended service life of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1027.md)
+* [Extended service life of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1027.md)
 

@@ -21,6 +21,6 @@ Collaborating with WHO and government organizations to provide accurate informat
 
 ## Risks which can benefit from this action
 
-* [Collaboration with who and government organizations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1359.md)
-* [Peer-reviewed journals and official institutions websites](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1360.md)
+* [Collaboration with who and government organizations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1359.md)
+* [Peer-reviewed journals and official institutions websites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1360.md)
 

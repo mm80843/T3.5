@@ -20,5 +20,5 @@ Improved understanding of COVID-19-associated coagulopathy
 
 ## Risks which can benefit from this action
 
-* [Thrombotomodulin](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_596.md)
+* [Thrombotomodulin](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_596.md)
 

@@ -20,5 +20,5 @@ Increased access to reliable and accurate information from trusted sources
 
 ## Risks which can benefit from this action
 
-* [Following official organizations on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_912.md)
+* [Following official organizations on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_912.md)
 

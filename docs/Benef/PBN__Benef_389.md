@@ -21,5 +21,5 @@ Increased availability of AIIRs for severely affected COVID-19 patients.
 
 ## Risks which can benefit from this action
 
-* [Rapid expansion of aiir capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_392.md)
+* [Rapid expansion of aiir capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_392.md)
 

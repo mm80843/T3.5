@@ -20,5 +20,5 @@ Improved indoor air quality reduces the risk of disease transmission and improve
 
 ## Risks which can benefit from this action
 
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_84.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
 

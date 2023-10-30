@@ -21,5 +21,5 @@ A holistic and interdisciplinary approach to research can lead to a better under
 
 ## Risks which can benefit from this action
 
-* [Holistic and interdisciplinary approach to building research](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_159.md)
+* [Holistic and interdisciplinary approach to building research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_159.md)
 

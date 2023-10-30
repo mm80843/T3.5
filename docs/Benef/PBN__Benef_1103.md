@@ -20,5 +20,5 @@ Meta-harmonization of common data and metadata standards enables rapid integrati
 
 ## Risks which can benefit from this action
 
-* [Meta-harmonization of data standards](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1117.md)
+* [Meta-harmonization of data standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1117.md)
 

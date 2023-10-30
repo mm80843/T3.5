@@ -20,5 +20,5 @@ Simulation activities help residents maintain technical skills through deliberat
 
 ## Risks which can benefit from this action
 
-* [Augmentation of resident learning with simulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_44.md)
+* [Augmentation of resident learning with simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_44.md)
 

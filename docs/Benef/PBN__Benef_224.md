@@ -20,5 +20,5 @@ Increased awareness of stress symptoms and access to mental health resources
 
 ## Risks which can benefit from this action
 
-* [Recognizing stress symptoms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_208.md)
+* [Recognizing stress symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_208.md)
 

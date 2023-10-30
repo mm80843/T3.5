@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Enhanced travel experiences, seamless transportation, and real-time updates for optimal accessibility and convenience.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_223.md)
+* [Enhancing travel experience through real-time updates, virtual tours, local services, reservation systems, alternative transportation, and accessibility improvements.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_132.md)
 
 ## Closest similar item
 
-* [Digital reservation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2700.md)
+* [Digital reservation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2866.md)
 * [Appointment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1293.md)
 * [Capacity management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1327.md)
 * [Pre-booking of seats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_303.md)
 * [Online booking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_991.md)
 * [Online booking systems for entrance fees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1819.md)
-* [Allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2794.md)
+* [Allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2960.md)
 * [Crowd management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1259.md)
-* [Efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2737.md)
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
+* [Efficient allocation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2903.md)
+* [Payment and transaction systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2246.md)
 
 ## This technology is mentioned by
 

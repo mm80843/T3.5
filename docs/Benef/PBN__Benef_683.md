@@ -21,5 +21,5 @@ Allows for continued house viewings while adhering to social distancing guidelin
 
 ## Risks which can benefit from this action
 
-* [Implementation of virtual house tours](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_678.md)
+* [Implementation of virtual house tours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_678.md)
 

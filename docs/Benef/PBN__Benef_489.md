@@ -20,5 +20,5 @@ Implementing surge capacity strategies, such as expanding space, identifying and
 
 ## Risks which can benefit from this action
 
-* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_504.md)
+* [Administrative controls in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_504.md)
 

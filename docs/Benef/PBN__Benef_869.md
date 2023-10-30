@@ -21,5 +21,5 @@ Addressing regional disparities in knowledge, attitudes, and practices related t
 
 ## Risks which can benefit from this action
 
-* [Targeted regional interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_871.md)
+* [Targeted regional interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_871.md)
 

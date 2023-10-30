@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2949 
 
-# __Steam or specialized commercial steam bags__
+# __User behavior__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Innovative technologies and systems that enable efficient and secure control, management, and interaction in various domains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_109.md)
 
 ## Closest similar item
 
-* [High temperature steam](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3609.md)
-* [Steam sterilization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1049.md)
-* [Portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2102.md)
-* [Sealing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3556.md)
-* [Commercial vendors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2534.md)
-* [Air cleaner](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2629.md)
-* [Portable air cleaners pac](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3709.md)
-* [Use of portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_677.md)
-* [Air extractors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3479.md)
-* [Personalized air supply devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2339.md)
+* [Behavior change programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_656.md)
+* [Behavior change analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2933.md)
+* [User awareness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2948.md)
+* [Social behavior analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2930.md)
+* [Personal interaction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3105.md)
+* [User education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_649.md)
+* [User-friendly applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3531.md)
+* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1150.md)
+* [Simplified user interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1383.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1587.md)
 
 ## This Technology enables the following mitigations
 
-* [Decontamination and sterilization](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4174.md)
+* [Decreased show-off behavior on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3945.md)
 

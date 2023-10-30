@@ -20,5 +20,5 @@ Acknowledging the need for permanent transformations leads to proactive measures
 
 ## Risks which can benefit from this action
 
-* [Permanent transformations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1234.md)
+* [Permanent transformations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1234.md)
 

@@ -1,25 +1,29 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2277 
 
-# __Active workstations__
+# __Mosquito-resistant alternative building materials__
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Combatting malaria and mitigating its impact through various means such as drugs, deterrents, treatments, surveillance, alternative materials, and pest control.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_149.md)
 
 ## Closest similar item
 
-* [Provide active workstations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1373.md)
-* [Designated workspaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_741.md)
-* [Computers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3299.md)
-* [Smart windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3551.md)
-* [Remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_284.md)
-* [Remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
-* [Remote working technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_548.md)
-* [Remote working technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_218.md)
-* [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
-* [Remote work options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1496.md)
+* [Investigate material science to develop mosquito-resistant alternative building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1193.md)
+* [Building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2255.md)
+* [Building insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3435.md)
+* [Advanced building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2261.md)
+* [Architectural & construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2260.md)
+* [Green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3232.md)
+* [Mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_977.md)
+* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2361.md)
+* [Building material technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1107.md)
+* [Mosquito control operations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3422.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechGroup
 
-* [Active design strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3278.md)
+* [Biology techs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2274.md)
+
+## This Technology belongs to this TechSubgroup
+
+* [Infectious agents management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2276.md)
 

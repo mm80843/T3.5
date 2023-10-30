@@ -40,11 +40,11 @@ The health benefits of the great outdoors: A systematic review and meta-analysis
 
 ## This article points to following mitigation
 
-* [Increase greenspace access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5007.md)
-* [Improve park quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5008.md)
-* [Increase street greenery](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5009.md)
-* [Enhance accessibility](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5010.md)
-* [Educate about benefits](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_5011.md)
+* [Improve park quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5008.md)
+* [Increase greenspace access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5007.md)
+* [Increase street greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5009.md)
+* [Enhance accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5010.md)
+* [Educate about benefits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5011.md)
 
 ## This article mentions these technologies
 

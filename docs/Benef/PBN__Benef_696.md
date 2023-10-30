@@ -20,5 +20,5 @@ Improving access to water, sanitation, and shelter reduces the number of suscept
 
 ## Risks which can benefit from this action
 
-* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_690.md)
+* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_690.md)
 

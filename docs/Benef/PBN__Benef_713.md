@@ -20,5 +20,5 @@ Fosters the development of relevant skills for future needs
 
 ## Risks which can benefit from this action
 
-* [Collaboration with universities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_713.md)
+* [Collaboration with universities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_713.md)
 

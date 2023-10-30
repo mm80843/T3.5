@@ -22,5 +22,5 @@ Wastewater surveillance can provide valuable data on the presence and circulatio
 
 ## Risks which can benefit from this action
 
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_149.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
 

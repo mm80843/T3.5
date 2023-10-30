@@ -20,5 +20,5 @@ Improving environmental quality reduces the risk of disease transmission from po
 
 ## Risks which can benefit from this action
 
-* [Centralize environmental quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_691.md)
+* [Centralize environmental quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_691.md)
 

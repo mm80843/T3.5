@@ -21,5 +21,5 @@ Reduced contact and proximity among individuals, minimizing the risk of disease 
 
 ## Risks which can benefit from this action
 
-* [Physical barriers , partitions, dividers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_195.md)
+* [Physical barriers , partitions, dividers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_195.md)
 

@@ -22,5 +22,5 @@ The IEQAnalytics web service provides users with real-time data and performance 
 
 ## Risks which can benefit from this action
 
-* [Ieqanalytics web service](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_798.md)
+* [Ieqanalytics web service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_798.md)
 

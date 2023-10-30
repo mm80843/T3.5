@@ -20,5 +20,5 @@ Reduced conflicts, improved governance, and stronger institutions
 
 ## Risks which can benefit from this action
 
-* [Investment in peace and justice](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_542.md)
+* [Investment in peace and justice](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_542.md)
 

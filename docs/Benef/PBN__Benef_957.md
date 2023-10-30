@@ -20,5 +20,5 @@ Proper sanitation practices reduce the risk of transmission through the faecal-o
 
 ## Risks which can benefit from this action
 
-* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_954.md)
+* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_954.md)
 

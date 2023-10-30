@@ -20,5 +20,5 @@ Access to outdoor spaces allows residents to engage in outdoor activities, conne
 
 ## Risks which can benefit from this action
 
-* [Provide or improve outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_455.md)
+* [Provide or improve outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_455.md)
 

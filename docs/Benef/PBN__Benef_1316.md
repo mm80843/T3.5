@@ -21,5 +21,5 @@ Universal standards for data sharing enable larger datasets and enhanced process
 
 ## Risks which can benefit from this action
 
-* [Adoption of universal standards for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1340.md)
+* [Adoption of universal standards for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1340.md)
 

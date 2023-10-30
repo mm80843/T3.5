@@ -21,5 +21,5 @@ Enhancing local production capacity reduces dependence on imports, improves self
 
 ## Risks which can benefit from this action
 
-* [Enhance local production capacity](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1039.md)
+* [Enhance local production capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1039.md)
 

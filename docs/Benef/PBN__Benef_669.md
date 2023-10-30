@@ -20,5 +20,5 @@ Investments in essential infrastructure reduce disease risks and improve the wel
 
 ## Risks which can benefit from this action
 
-* [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_665.md)
+* [Infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_665.md)
 

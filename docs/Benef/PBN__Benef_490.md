@@ -20,5 +20,5 @@ Enhanced infection control measures during various activities with suspected or 
 
 ## Risks which can benefit from this action
 
-* [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_505.md)
+* [Safe work practices in healthcare settings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_505.md)
 

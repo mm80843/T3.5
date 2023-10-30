@@ -21,5 +21,5 @@ Provides an estimate of the number of infected individuals in a catchment area u
 
 ## Risks which can benefit from this action
 
-* [Quantification of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_989.md)
+* [Quantification of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_989.md)
 

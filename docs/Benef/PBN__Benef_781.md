@@ -20,5 +20,5 @@ Financial support helps improve the liquidity of construction companies, allowin
 
 ## Risks which can benefit from this action
 
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_780.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_780.md)
 

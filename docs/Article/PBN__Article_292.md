@@ -42,11 +42,11 @@ COVID-19 and regional solutions for mitigating the risk of SME finance in select
 
 ## This article points to following mitigation
 
-* [Establishing credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4923.md)
-* [Categorizing banks based on soundness](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4924.md)
-* [Increasing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4925.md)
-* [Gradually reducing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4926.md)
-* [Establishing a regional credit guarantee](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4927.md)
+* [Establishing credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4923.md)
+* [Categorizing banks based on soundness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4924.md)
+* [Increasing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4925.md)
+* [Gradually reducing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4926.md)
+* [Establishing a regional credit guarantee](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4927.md)
 
 ## This article mentions these technologies
 

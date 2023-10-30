@@ -21,5 +21,5 @@ Local investment and leadership increase community involvement and sense of owne
 
 ## Risks which can benefit from this action
 
-* [Local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1065.md)
+* [Local investment and leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1065.md)
 

@@ -21,5 +21,5 @@ Development of efficient bioinformatics tools enables the integration and analys
 
 ## Risks which can benefit from this action
 
-* [Development of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_54.md)
+* [Development of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_54.md)
 

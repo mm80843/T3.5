@@ -20,5 +20,5 @@ Integrating artificial intelligence and touchless technologies can provide conta
 
 ## Risks which can benefit from this action
 
-* [Artificial intelligence and touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1438.md)
+* [Artificial intelligence and touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1438.md)
 

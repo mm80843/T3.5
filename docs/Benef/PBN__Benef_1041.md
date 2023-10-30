@@ -20,5 +20,5 @@ Personal protection measures can significantly reduce the total number of infect
 
 ## Risks which can benefit from this action
 
-* [Use of personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1047.md)
+* [Use of personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1047.md)
 

@@ -21,5 +21,5 @@ Improving ventilation systems can minimize the airborne transmission of COVID-19
 
 ## Risks which can benefit from this action
 
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_606.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_606.md)
 

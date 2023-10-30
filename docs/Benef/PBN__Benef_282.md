@@ -20,5 +20,5 @@ Compartmentalization creates separate spaces for social gatherings, reducing the
 
 ## Risks which can benefit from this action
 
-* [Compartmentalization of internal spaces to separate sleeping and communal areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_272.md)
+* [Compartmentalization of internal spaces to separate sleeping and communal areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_272.md)
 

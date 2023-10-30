@@ -20,5 +20,5 @@ Contact tracing and testing can help identify and isolate asymptomatic individua
 
 ## Risks which can benefit from this action
 
-* [Implementation of contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_462.md)
+* [Implementation of contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_462.md)
 

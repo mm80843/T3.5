@@ -20,5 +20,5 @@ Lower risk of surface transmission, improved occupant safety and well-being
 
 ## Risks which can benefit from this action
 
-* [Regular cleaning and disinfection of high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_890.md)
+* [Regular cleaning and disinfection of high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_890.md)
 

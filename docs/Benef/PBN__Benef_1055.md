@@ -21,5 +21,5 @@ Providing sufficient PPE reduces the risk of infection among workers, ensuring t
 
 ## Risks which can benefit from this action
 
-* [Providing additional personal protective equipment ppe to workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1060.md)
+* [Providing additional personal protective equipment ppe to workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1060.md)
 

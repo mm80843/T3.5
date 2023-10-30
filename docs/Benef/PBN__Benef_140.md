@@ -20,5 +20,5 @@ NPI measures such as physical distancing and restrictions on movement can reduce
 
 ## Risks which can benefit from this action
 
-* [Implementation of npis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_119.md)
+* [Implementation of npis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_119.md)
 

@@ -21,5 +21,5 @@ Open government projects ensure the equity of access to information and improve 
 
 ## Risks which can benefit from this action
 
-* [Implementation of open government projects](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_872.md)
+* [Implementation of open government projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_872.md)
 

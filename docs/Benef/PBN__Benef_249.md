@@ -20,5 +20,5 @@ Availability of alternative water sources ensures a constant water supply during
 
 ## Risks which can benefit from this action
 
-* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_238.md)
+* [Access to alternative water sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_238.md)
 

@@ -21,5 +21,5 @@ Streamlined border processes and logistics
 
 ## Risks which can benefit from this action
 
-* [Review transport, logistics, and border process regulations](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_306.md)
+* [Review transport, logistics, and border process regulations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_306.md)
 

@@ -21,5 +21,5 @@ Improves the efficiency of concentrating and recovering SARS-CoV-2 from wastewat
 
 ## Risks which can benefit from this action
 
-* [Developing effective virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_992.md)
+* [Developing effective virus concentration methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_992.md)
 

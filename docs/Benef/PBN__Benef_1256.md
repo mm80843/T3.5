@@ -21,5 +21,5 @@ Improved compliance with hygiene protocols and best practices
 
 ## Risks which can benefit from this action
 
-* [Education and training on infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1275.md)
+* [Education and training on infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1275.md)
 

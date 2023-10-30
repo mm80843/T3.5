@@ -20,5 +20,5 @@ Adjustability of indoor space allows residents to customize their living environ
 
 ## Risks which can benefit from this action
 
-* [Levels of indoor space adjustability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_241.md)
+* [Levels of indoor space adjustability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_241.md)
 

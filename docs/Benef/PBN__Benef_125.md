@@ -20,5 +20,5 @@ Proper maintenance of temperature, humidity, lighting, and ventilation ensures a
 
 ## Risks which can benefit from this action
 
-* [Measures in operation and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_108.md)
+* [Measures in operation and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_108.md)
 

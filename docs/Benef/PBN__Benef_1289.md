@@ -20,5 +20,5 @@ Increased affordability and access to green areas for low-income citizens
 
 ## Risks which can benefit from this action
 
-* [Reduce entrance/membership fees for green areas](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1312.md)
+* [Reduce entrance/membership fees for green areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1312.md)
 

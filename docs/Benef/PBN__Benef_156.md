@@ -20,5 +20,5 @@ Integrating natural elements, such as plots of soil for small house gardening, c
 
 ## Risks which can benefit from this action
 
-* [Integration of natural elements](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_138.md)
+* [Integration of natural elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_138.md)
 

@@ -12,7 +12,7 @@ Social activities / facilitatie social interactions
 
 ## Category to which it belongs
 
-* [Promote interpersonal engagement through organized events and supportive environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_375.md)
+* [Promote socialization through organized events and provide platforms for interpersonal connections.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_175.md)
 
 ## This intervention is used in the following blueprints
 

@@ -8,5 +8,5 @@ theme_User_behavior
 
 ## Category to which it belongs
 
-* [Human actions and interactions within a system or platform.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_506.md)
+* [Actions and patterns of individuals online.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_274.md)
 

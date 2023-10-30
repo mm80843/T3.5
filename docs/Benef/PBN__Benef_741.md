@@ -21,5 +21,5 @@ Resilience strategies can help stabilize the economy during and after a pandemic
 
 ## Risks which can benefit from this action
 
-* [Development of resilience strategies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_736.md)
+* [Development of resilience strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_736.md)
 

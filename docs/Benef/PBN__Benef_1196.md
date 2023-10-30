@@ -21,5 +21,5 @@ Enable rights claims in the context of social or environmental injustice and pub
 
 ## Risks which can benefit from this action
 
-* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1198.md)
+* [Data activism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1198.md)
 

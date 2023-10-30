@@ -20,5 +20,5 @@ Implementing sanitization protocols, including regular cleaning and disinfection
 
 ## Risks which can benefit from this action
 
-* [Sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_417.md)
+* [Sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_417.md)
 

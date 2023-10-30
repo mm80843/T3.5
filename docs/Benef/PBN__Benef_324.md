@@ -20,5 +20,5 @@ IBEM integrates multiple sensors for air temperature, relative humidity, CO2, PM
 
 ## Risks which can benefit from this action
 
-* [Ibem](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_320.md)
+* [Ibem](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_320.md)
 

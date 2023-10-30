@@ -21,5 +21,5 @@ Entity alignment and interlinking connect different COVID-19 KGs, creating an en
 
 ## Risks which can benefit from this action
 
-* [Entity alignment and interlinking](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_112.md)
+* [Entity alignment and interlinking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_112.md)
 

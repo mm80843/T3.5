@@ -21,5 +21,5 @@ Offers a lasting legacy and deeper understanding of urban science developments b
 
 ## Risks which can benefit from this action
 
-* [Analysis of root causes of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_816.md)
+* [Analysis of root causes of behavior change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_816.md)
 

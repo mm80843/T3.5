@@ -21,5 +21,5 @@ VR educates patients and enhances patient satisfaction, leading to better patien
 
 ## Risks which can benefit from this action
 
-* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1126.md)
+* [Virtual reality patient education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1126.md)
 

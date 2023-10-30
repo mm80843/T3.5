@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2482 
 
-# __Finance sector engagement__
+# __Physical space__
 
 ## Category to which it belongs
 
-* [Efforts to provide financial assistance and support through various programs, incentives, grants, and investments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Financial systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2182.md)
-* [Financial management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2751.md)
-* [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
-* [Stakeholder engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_452.md)
-* [Investment in emerging sectors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1798.md)
-* [Financial management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1329.md)
-* [Financial practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2816.md)
-* [Financial measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3754.md)
-* [Policy engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_160.md)
-* [Impact investment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1695.md)
+* [Designated space](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2387.md)
+* [Adaptable spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2653.md)
+* [Open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2388.md)
+* [Physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2446.md)
+* [Green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_146.md)
+* [Physical distance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2770.md)
+* [Containment spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3563.md)
+* [Public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2966.md)
+* [Intermediate spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3615.md)
+* [Space planning and layout](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2952.md)
 
 ## This Technology enables the following mitigations
 
-* [Engaging the finance sector and attracting private capital](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3546.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
 

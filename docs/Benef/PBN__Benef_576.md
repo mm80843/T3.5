@@ -21,5 +21,5 @@ Improved ability to track and control the spread of the virus
 
 ## Risks which can benefit from this action
 
-* [Deploying latest technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_584.md)
+* [Deploying latest technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_584.md)
 

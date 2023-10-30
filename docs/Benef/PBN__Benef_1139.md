@@ -20,5 +20,5 @@ Users can trust the results of the expert system for early detection, reducing t
 
 ## Risks which can benefit from this action
 
-* [Testing and validation of the expert system’s performance and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1145.md)
+* [Testing and validation of the expert system’s performance and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1145.md)
 

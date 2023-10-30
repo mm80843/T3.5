@@ -20,5 +20,5 @@ AI-based analysis of social media can identify and combat misinformation and myt
 
 ## Risks which can benefit from this action
 
-* [Ai-based social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1433.md)
+* [Ai-based social media analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1433.md)
 

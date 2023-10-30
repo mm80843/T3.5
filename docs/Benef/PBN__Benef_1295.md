@@ -20,5 +20,5 @@ Parks have been recognized as a critical health promoting resource during the pa
 
 ## Risks which can benefit from this action
 
-* [Increase park access](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1317.md)
+* [Increase park access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1317.md)
 

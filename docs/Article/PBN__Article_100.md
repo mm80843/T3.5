@@ -45,12 +45,12 @@ COVID-19: Risk assessment and mitigation measures in healthcare and non-healthca
 
 ## This article points to following mitigation
 
-* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3648.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3575.md)
-* [Transmission chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3647.md)
-* [Negative pressure aiirs](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3649.md)
-* [Surge capacity planning](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3650.md)
-* [Safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3651.md)
+* [Enhanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3648.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3575.md)
+* [Transmission chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3647.md)
+* [Negative pressure aiirs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3649.md)
+* [Safe work practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3651.md)
+* [Surge capacity planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3650.md)
 
 ## This article mentions these technologies
 
@@ -63,10 +63,10 @@ COVID-19: Risk assessment and mitigation measures in healthcare and non-healthca
 * [Increased use of cleaning and disinfecting products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_584.md)
 * [Widespread use of masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_582.md)
 * [Mask-wearing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_589.md)
-* [Promotion of alternative greetings and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_587.md)
 * [Increased testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_590.md)
 * [Respiratory hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_583.md)
 * [Increased awareness and education about transmission risks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_586.md)
+* [Promotion of alternative greetings and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_587.md)
 * [Vaccine distribution to vulnerable populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_591.md)
 * [Targeted healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_592.md)
 

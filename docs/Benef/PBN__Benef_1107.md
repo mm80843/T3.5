@@ -20,5 +20,5 @@ Strengthening local support enables the development and implementation of federa
 
 ## Risks which can benefit from this action
 
-* [Strengthening local support](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1121.md)
+* [Strengthening local support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1121.md)
 

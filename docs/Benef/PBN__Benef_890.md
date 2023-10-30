@@ -20,5 +20,5 @@ Increased awareness and compliance with hygiene measures, reducing disease trans
 
 ## Risks which can benefit from this action
 
-* [Educating building occupants](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_892.md)
+* [Educating building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_892.md)
 

@@ -20,5 +20,5 @@ Lower population densities reduce the spread of contagious diseases and enhance 
 
 ## Risks which can benefit from this action
 
-* [Rethinking of density in cities and urban layouts](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_295.md)
+* [Rethinking of density in cities and urban layouts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_295.md)
 

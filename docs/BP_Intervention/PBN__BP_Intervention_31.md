@@ -12,7 +12,7 @@ Early detection
 
 ## Category to which it belongs
 
-* [Identification at an initial stage.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_380.md)
+* [Identifying an issue at its inception.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_180.md)
 
 ## This intervention is used in the following blueprints
 

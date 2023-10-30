@@ -20,5 +20,5 @@ Access to clean water reduces the risk of waterborne diseases and improves healt
 
 ## Risks which can benefit from this action
 
-* [Provision of water infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_660.md)
+* [Provision of water infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_660.md)
 

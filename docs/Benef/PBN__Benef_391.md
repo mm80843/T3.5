@@ -20,5 +20,5 @@ Patient monitoring systems and door-lock devices facilitate access to patients i
 
 ## Risks which can benefit from this action
 
-* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_395.md)
+* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_395.md)
 

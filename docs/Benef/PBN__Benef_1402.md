@@ -20,5 +20,5 @@ Using hygienic and antibacterial materials in construction can improve sanitatio
 
 ## Risks which can benefit from this action
 
-* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1437.md)
+* [Hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1437.md)
 

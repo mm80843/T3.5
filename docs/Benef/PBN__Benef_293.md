@@ -20,5 +20,5 @@ Steps to reduce inequality promote a more equitable and inclusive society, reduc
 
 ## Risks which can benefit from this action
 
-* [Taking steps to reduce inequality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_289.md)
+* [Taking steps to reduce inequality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_289.md)
 

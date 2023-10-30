@@ -21,5 +21,5 @@ Ensuring long-term adherence to control measures and public support
 
 ## Risks which can benefit from this action
 
-* [Continuation of effective measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_97.md)
+* [Continuation of effective measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_97.md)
 

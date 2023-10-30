@@ -20,5 +20,5 @@ Increasing testing frequency ensures enhanced surveillance and detection, allowi
 
 ## Risks which can benefit from this action
 
-* [Increase testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1187.md)
+* [Increase testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1187.md)
 

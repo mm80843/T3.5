@@ -1,25 +1,32 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2170 
 
-# __Biomedical knowledge graph__
+# __Water management__
 
 ## Category to which it belongs
 
-* [Fact-checking tools, education initiatives, and ontology search engines are among the various resources and practices utilized to ensure the credibility and accuracy of information in different fields.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_240.md)
+* [Effective water management encompasses wastewater testing, waste management, rainwater storage, wastewater treatment technology, smart water consumption, and improved infrastructure.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_131.md)
 
 ## Closest similar item
 
-* [Knowledge graphs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2166.md)
-* [Open biological and biomedical ontology obo foundry](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3191.md)
-* [Knowledge base](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2157.md)
-* [Biomedical literature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2163.md)
-* [Health networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2535.md)
-* [Knowledge-base system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2398.md)
-* [Artificial intelligence and clinical data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3047.md)
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
-* [Artificial intelligence and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3058.md)
-* [Knowledge extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1344.md)
+* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
+* [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_980.md)
+* [Water and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2190.md)
+* [Water treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3736.md)
+* [Water usage reduction](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3629.md)
+* [Wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2051.md)
+* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
+* [Water supply infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3284.md)
+* [Water-saving technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3649.md)
+* [Water storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2359.md)
 
-## This Technology enables the following mitigations
+## This Technology belongs to this TechnologySubgroup
 
-* [Integration and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_3170.md)
+* [Water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1943.md)
+* [Water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
+* [Low-flow fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1771.md)
+* [Hot water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1048.md)
+* [Greywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1770.md)
+* [Graywater reuse](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1773.md)
+* [Rainwater harvesting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1769.md)
+* [Rainwater capture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1772.md)
 

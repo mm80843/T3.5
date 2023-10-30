@@ -21,5 +21,5 @@ Layout changes to adjust spacing reduce the risk of virus transmission and enhan
 
 ## Risks which can benefit from this action
 
-* [Adjustments to spacing and circulation](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_478.md)
+* [Adjustments to spacing and circulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_478.md)
 

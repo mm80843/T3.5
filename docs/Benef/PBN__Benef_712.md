@@ -20,5 +20,5 @@ Ensures the safety of workforce and minimizes project risks
 
 ## Risks which can benefit from this action
 
-* [Adoption of safety measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_711.md)
+* [Adoption of safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_711.md)
 

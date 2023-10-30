@@ -20,5 +20,5 @@ Provides access to support services, helplines, and information for victims of d
 
 ## Risks which can benefit from this action
 
-* [Increased support services for domestic abuse victims](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_680.md)
+* [Increased support services for domestic abuse victims](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_680.md)
 

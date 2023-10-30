@@ -21,5 +21,5 @@ Implementing administrative controls, such as limiting the total number of worke
 
 ## Risks which can benefit from this action
 
-* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_375.md)
+* [Administrative controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_375.md)
 

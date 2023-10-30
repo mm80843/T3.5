@@ -21,5 +21,5 @@ Designing spaces with privacy in mind and flexible room layouts accommodate the 
 
 ## Risks which can benefit from this action
 
-* [Privacy considerations and flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_482.md)
+* [Privacy considerations and flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
 

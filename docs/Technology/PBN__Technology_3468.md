@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3468 
 
-# __Room to member ratio__
+# __Carbon reduction technologies__
 
 ## Category to which it belongs
 
-* [Environments designed for flexibility, with spacious screens, segregated areas, automated windows, and ergonomic furniture.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_237.md)
+* [Promoting sustainability through clean energy infrastructure, smart technologies, and efficient energy management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_123.md)
 
 ## Closest similar item
 
-* [Ratio of rooms to family members](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1779.md)
-* [Room dividers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1002.md)
-* [Adjustable area ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1777.md)
-* [Rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3409.md)
-* [Separate room](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2920.md)
-* [Allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2794.md)
-* [Modular spacing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2222.md)
-* [Capacity building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_449.md)
-* [Energy reduction ratio](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3466.md)
-* [Number of people in the building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3255.md)
+* [Low-carbon technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3552.md)
+* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1236.md)
+* [Carbon accounting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2720.md)
+* [Carbon allowances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2962.md)
+* [Activated carbon](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1889.md)
+* [Activated carbon filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2855.md)
+* [Energy-efficient technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2172.md)
+* [Energy-efficient technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2358.md)
+* [Greenhouse technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3386.md)
+* [Reduced fossil fuel use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2997.md)
 
 ## This Technology enables the following mitigations
 
-* [Personal space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_242.md)
+* [Climate change mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4706.md)
 

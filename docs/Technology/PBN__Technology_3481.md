@@ -1,26 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3481 
 
-# __Sealed bathroom catchments__
+# __Accessibility measures__
 
 ## Category to which it belongs
 
-* [Improvements in sanitation, waste management, and water treatment to ensure efficient and sustainable infrastructure and practices.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_243.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3110.md)
-* [Drainage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3653.md)
-* [Bathrooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3114.md)
-* [Proper sealing of pipes and sinks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1752.md)
-* [Fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2909.md)
-* [Stratified sewer collection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3392.md)
-* [Water filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1843.md)
-* [Proper sewage and treatment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3480.md)
-* [Bathroom](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2669.md)
-* [Ultrafiltration units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3634.md)
+* [Accessibility features](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3397.md)
+* [Access control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_327.md)
+* [Facilities in ugs can improve accessibility for people with disabilities. public transportation options can improve access for those without personal vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1036.md)
+* [Restrictive measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2971.md)
+* [Accessible transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3691.md)
+* [Compliance measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1644.md)
+* [Physical barriers and signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2189.md)
+* [Transparency measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_103.md)
+* [Safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2449.md)
+* [Easily accessible safety resources and contacts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1669.md)
 
 ## This Technology enables the following mitigations
 
-* [Sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4971.md)
-* [Proper plumbing work](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4980.md)
+* [Special access and spaces for vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4730.md)
 

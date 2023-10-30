@@ -22,5 +22,5 @@ Normal economic conditions, no infection
 
 ## Risks which can benefit from this action
 
-* [Baseline scenario](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_700.md)
+* [Baseline scenario](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_700.md)
 

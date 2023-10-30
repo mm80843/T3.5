@@ -21,5 +21,5 @@ Improved ventilation and air quality create a healthier and more comfortable ind
 
 ## Risks which can benefit from this action
 
-* [Improved ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_643.md)
+* [Improved ventilation and air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_643.md)
 

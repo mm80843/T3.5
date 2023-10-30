@@ -20,5 +20,5 @@ Decrease in NO2 and PM2.5 concentrations, leading to improved air quality and re
 
 ## Risks which can benefit from this action
 
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_416.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
 

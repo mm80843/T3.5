@@ -22,5 +22,5 @@ Removal of virus particles from the air
 
 ## Risks which can benefit from this action
 
-* [Improved ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1305.md)
+* [Improved ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1305.md)
 

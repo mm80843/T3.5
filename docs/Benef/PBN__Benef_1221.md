@@ -20,5 +20,5 @@ Recreational use intensified within residential areas and city parks nearly as m
 
 ## Risks which can benefit from this action
 
-* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1229.md)
+* [Inner-city green spaces during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1229.md)
 

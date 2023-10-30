@@ -21,5 +21,5 @@ OpenKG-COVID19 provides a comprehensive and continuously updated knowledge base 
 
 ## Risks which can benefit from this action
 
-* [Construction of openkg-covid19](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_110.md)
+* [Construction of openkg-covid19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_110.md)
 

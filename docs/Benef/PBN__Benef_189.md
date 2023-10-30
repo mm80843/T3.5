@@ -20,5 +20,5 @@ Quality, rather than quantity, of green space is crucial for delivering the posi
 
 ## Risks which can benefit from this action
 
-* [Improvement of the quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_170.md)
+* [Improvement of the quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_170.md)
 

@@ -20,5 +20,5 @@ Understanding of host-virus interaction at molecular level
 
 ## Risks which can benefit from this action
 
-* [Fatty acids](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_594.md)
+* [Fatty acids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_594.md)
 

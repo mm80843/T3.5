@@ -21,5 +21,5 @@ Appropriate balance between benefits and costs of stockpiling essential goods
 
 ## Risks which can benefit from this action
 
-* [Calibrated stockpiles of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_304.md)
+* [Calibrated stockpiles of essential goods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_304.md)
 

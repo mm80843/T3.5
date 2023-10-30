@@ -21,5 +21,5 @@ Filtering reliable evidence and combining results of multiple studies provides d
 
 ## Risks which can benefit from this action
 
-* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_551.md)
+* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_551.md)
 

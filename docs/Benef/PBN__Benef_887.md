@@ -20,5 +20,5 @@ Separating wet and living spaces can improve hygiene and cleanliness, reducing t
 
 ## Risks which can benefit from this action
 
-* [Separation of wet and living spaces](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_887.md)
+* [Separation of wet and living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_887.md)
 

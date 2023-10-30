@@ -20,5 +20,5 @@ Providing accurate and timely information about safety protocols, travel restric
 
 ## Risks which can benefit from this action
 
-* [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_101.md)
+* [Providing clear and transparent information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_101.md)
 

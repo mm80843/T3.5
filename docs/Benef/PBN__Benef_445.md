@@ -21,5 +21,5 @@ AI technologies can analyze large amounts of data to track and predict the sprea
 
 ## Risks which can benefit from this action
 
-* [Implementation of ai technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_463.md)
+* [Implementation of ai technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_463.md)
 

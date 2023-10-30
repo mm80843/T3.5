@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [Efforts to provide financial assistance and support through various programs, incentives, grants, and investments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_228.md)
+* [Various forms of financial support and assistance, including government programs, funding initiatives, microfinance, cash transfer, and community outreach.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_142.md)
 
 ## Closest similar item
 
@@ -12,12 +12,12 @@
 * [Financial grants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1805.md)
 * [Government financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_457.md)
 * [Financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
-* [Financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3185.md)
+* [Financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3350.md)
 * [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
 * [Funding programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_467.md)
 * [Business assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1887.md)
 * [Assistance programs for healthcare providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1281.md)
-* [Grant applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_447.md)
+* [Financial support and funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2078.md)
 
 ## This technology is mentioned by
 

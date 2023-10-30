@@ -20,5 +20,5 @@ Allows employees to work remotely during lockdown
 
 ## Risks which can benefit from this action
 
-* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_706.md)
+* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_706.md)
 

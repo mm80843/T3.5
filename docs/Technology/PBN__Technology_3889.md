@@ -1,8 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3889 
 
-# __Cameras&&&surveillance camera technology&&&video surveillance&&&surveillance systems&&&surveillance technologies&&&surveillance&&&surveillance technology&&&ip surveillance cameras&&&surveillance system&&&cctv cameras__
+# __Natural patterns and processes__
 
-## Link between Blueprint and General ontology
+## Category to which it belongs
 
-* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_181.md)
+* [Accurate and reliable knowledge dissemination and fact-checking through interdisciplinary collaboration and intelligent information feedback.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_122.md)
+
+## Closest similar item
+
+* [Nature-based features and systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3890.md)
+* [Chemical compositions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2330.md)
+* [Natural](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2497.md)
+* [Natural views](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2443.md)
+* [Nature-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3102.md)
+* [Natural light](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2427.md)
+* [Natural materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3390.md)
+* [Behavior change analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2933.md)
+* [Nature-based design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3891.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2655.md)
+
+## This Technology enables the following mitigations
+
+* [Pattern incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5275.md)
 

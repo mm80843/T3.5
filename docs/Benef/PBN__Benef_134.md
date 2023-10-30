@@ -20,5 +20,5 @@ Solves parameter identification issue using historical data
 
 ## Risks which can benefit from this action
 
-* [Optimization based people flow estimation method](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_115.md)
+* [Optimization based people flow estimation method](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_115.md)
 

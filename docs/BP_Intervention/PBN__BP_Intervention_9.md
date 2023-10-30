@@ -12,7 +12,7 @@ Maintenance / decontamination of building water sytems
 
 ## Category to which it belongs
 
-* [Building water system upkeep and purification.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_358.md)
+* [Building water system upkeep and purification to ensure cleanliness and safety.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_158.md)
 
 ## This intervention is used in the following blueprints
 

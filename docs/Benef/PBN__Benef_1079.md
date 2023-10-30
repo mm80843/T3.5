@@ -21,5 +21,5 @@ Enables future adaptability and responsiveness to changing needs and circumstanc
 
 ## Risks which can benefit from this action
 
-* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1090.md)
+* [Implementation of flexible design principles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1090.md)
 

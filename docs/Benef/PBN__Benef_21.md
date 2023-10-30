@@ -20,5 +20,5 @@ Awareness and knowledge sharing can improve the resilience and preparedness of s
 
 ## Risks which can benefit from this action
 
-* [Promoting awareness and knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_13.md)
+* [Promoting awareness and knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_13.md)
 

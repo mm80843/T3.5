@@ -20,5 +20,5 @@ Streamlining travel processes, such as online booking and contactless services, 
 
 ## Risks which can benefit from this action
 
-* [Streamlining travel processes and minimizing delays](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_105.md)
+* [Streamlining travel processes and minimizing delays](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_105.md)
 

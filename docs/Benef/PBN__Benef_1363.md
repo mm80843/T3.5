@@ -20,5 +20,5 @@ Provides work-life balance and greater job satisfaction
 
 ## Risks which can benefit from this action
 
-* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1401.md)
+* [Improved remote work capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1401.md)
 

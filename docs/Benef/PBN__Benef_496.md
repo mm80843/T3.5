@@ -24,6 +24,6 @@ Allocating resources based on evidence and priorities can optimize the use of li
 
 ## Risks which can benefit from this action
 
-* [Collaborative approach](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_524.md)
-* [Rational allocation of resources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_509.md)
+* [Rational allocation of resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_509.md)
+* [Collaborative approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_524.md)
 

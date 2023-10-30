@@ -21,5 +21,5 @@ Promoting decent work and economic growth leads to job creation and increased in
 
 ## Risks which can benefit from this action
 
-* [Promoting decent work and economic growth](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_288.md)
+* [Promoting decent work and economic growth](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_288.md)
 

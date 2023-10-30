@@ -12,7 +12,7 @@ Minimize supply chain disruptions
 
 ## Category to which it belongs
 
-* [Ensure uninterrupted flow of goods and services through effective supply chain management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_381.md)
+* [Ensure seamless flow of goods and services in the supply chain by minimizing disruptions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_181.md)
 
 ## This intervention is used in the following blueprints
 

@@ -4,14 +4,14 @@
 
 ## Category to which it belongs
 
-* [Groups and individuals who are at a disadvantage and in need of support in various community settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_415.md)
+* [Different demographic groups, ranging from children to older adults, including migrants and minorities, with a focus on vulnerable families and children.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_218.md)
 
 ## Closest similar item
 
 * [Large families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_449.md)
 * [Parents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_104.md)
 * [Vulnerable families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_580.md)
-* [Vulnerable family](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2213.md)
+* [Vulnerable family](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2298.md)
 * [Families in poor housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1174.md)
 * [Households](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_762.md)
 * [Low-income individuals and families](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_409.md)

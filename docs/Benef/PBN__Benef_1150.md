@@ -21,5 +21,5 @@ Helps identify individuals who came in contact with infected persons for testing
 
 ## Risks which can benefit from this action
 
-* [Wi-fi-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1152.md)
+* [Wi-fi-based apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1152.md)
 

@@ -20,5 +20,5 @@ Ability to work from home, reducing risk of job loss due to lockdowns or shutdow
 
 ## Risks which can benefit from this action
 
-* [Promoting remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_205.md)
+* [Promoting remote work for office workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_205.md)
 

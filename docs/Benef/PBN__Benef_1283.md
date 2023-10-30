@@ -20,5 +20,5 @@ Enhanced mood, happiness, and overall well-being
 
 ## Risks which can benefit from this action
 
-* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1303.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1303.md)
 

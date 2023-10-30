@@ -20,5 +20,5 @@ Reduced risk of transmission through local strategies for home isolation, reduce
 
 ## Risks which can benefit from this action
 
-* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_145.md)
+* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
 

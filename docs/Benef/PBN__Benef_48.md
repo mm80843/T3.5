@@ -20,5 +20,5 @@ The flipped classroom strategy improves knowledge acquisition by providing train
 
 ## Risks which can benefit from this action
 
-* [Flipped classroom strategy](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_40.md)
+* [Flipped classroom strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_40.md)
 

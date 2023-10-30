@@ -22,5 +22,5 @@ By embracing transparency and reproducibility practices, such as reporting guide
 
 ## Risks which can benefit from this action
 
-* [Embrace transparency and reproducibility practices](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1388.md)
+* [Embrace transparency and reproducibility practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1388.md)
 

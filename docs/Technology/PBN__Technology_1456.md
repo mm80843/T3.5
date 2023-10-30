@@ -4,7 +4,7 @@
 
 ## Category to which it belongs
 
-* [These tools and techniques streamline processes, optimize systems, and enable data-driven decision-making in a variety of industries.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_207.md)
+* [Advanced analytics and simulation techniques can be used to study complex systems and make predictions using artificial intelligence and machine learning, as well as optimize processes and analyze data efficiently.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_107.md)
 
 ## Closest similar item
 
@@ -13,15 +13,15 @@
 * [Simulation activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_394.md)
 * [Modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1977.md)
 * [Simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_756.md)
-* [Computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3170.md)
+* [Computational models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3335.md)
 * [Advanced analytics and simulation models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1128.md)
-* [Simulation and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3519.md)
+* [Simulation and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3684.md)
 * [Monte carlo simulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_60.md)
-* [Simulation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2447.md)
+* [Simulation equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2615.md)
 
 ## This Technology belongs to this TechGroup
 
-* [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_0.md)
+* [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1316.md)
 
 ## This technology is mentioned by
 
@@ -29,7 +29,7 @@
 
 ## This Technology belongs to this TechSubgroup
 
-* [Simulation and forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_0.md)
+* [Simulation and forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2033.md)
 
 ## Risks linked to this technology
 

@@ -1,8 +1,38 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4188 
 
-# __Promoting awareness and education&&&public awareness initiatives&&&public awareness campaigns&&&raise awareness, promote inclusivity and diversity&&&public awareness and education&&&public awareness programs&&&communication and awareness&&&occupant awareness campaigns&&&public awareness and education campaigns&&&training and awareness__
+# __Geospatial analysis of covid-19__
 
-## Link between Blueprint and General ontology
+## Category to which it belongs
 
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_38.md)
+* [Implementing comprehensive measures to control virus spread, monitor viral concentration, and develop effective antiviral coatings and treatments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_51.md)
+
+## Closest similar item
+
+* [Spatial mapping of covid-19 hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3357.md)
+* [Construction of openkg-covid19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_110.md)
+* [Isolation of suspected covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3732.md)
+* [Rapid covid-19 screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4802.md)
+* [Developing a covid-19 dashboard](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_813.md)
+* [Data mining methods for understanding the covid-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4331.md)
+* [Continued research and development of drugs for the treatment of covid-19.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3063.md)
+* [Protocols for managing confirmed covid-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_512.md)
+* [Train ai algorithms to accurately and quickly identify covid-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2372.md)
+* [Develop algorithms and models that can accurately differentiate covid-19 from other viral infections based on physiological data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1555.md)
+
+## Property: has_MitigationPrinciple
+
+Use geospatial analysis to map and analyze COVID-19 cases, inform decision-making, and monitor the effectiveness of interventions.
+
+## Risks possibly mitigated by this Mitigation
+
+* [Limited understanding of the spread and impact of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2941.md)
+
+## Property: has_MitigationSource
+
+* [Water and wastewater digital surveillance for monitoring and early detection of the COVID-19 hotspot: industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_162.md)
+
+## This Mitigation is enabled by the following technologies
+
+* [Gis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3138.md)
+* [Spatial-temporal analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3139.md)
 

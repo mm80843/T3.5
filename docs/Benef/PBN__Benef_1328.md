@@ -20,5 +20,5 @@ Air filtration systems remove pollutants from the air
 
 ## Risks which can benefit from this action
 
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1353.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1353.md)
 

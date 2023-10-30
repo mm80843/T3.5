@@ -21,5 +21,5 @@ Incorporating occupant presence data in risk estimation improves accuracy
 
 ## Risks which can benefit from this action
 
-* [Modeling occupant presence](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_838.md)
+* [Modeling occupant presence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_838.md)
 

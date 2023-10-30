@@ -20,5 +20,5 @@ Availability of backup energy sources ensures a stable energy supply during emer
 
 ## Risks which can benefit from this action
 
-* [Access to backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_233.md)
+* [Access to backup energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_233.md)
 

@@ -21,5 +21,5 @@ Blockchain technology assures the security of collected data and helps maintain 
 
 ## Risks which can benefit from this action
 
-* [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1052.md)
+* [Use of blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1052.md)
 

@@ -20,5 +20,5 @@ VR allows for practice with complex cases and creates an analogous environment f
 
 ## Risks which can benefit from this action
 
-* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1125.md)
+* [Virtual reality medical training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1125.md)
 

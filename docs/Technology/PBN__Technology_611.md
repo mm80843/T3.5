@@ -4,20 +4,20 @@
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Advancements in remote healthcare, antibiotic stewardship programs, medical robots, and international organizations contribute to improved healthcare infrastructure and access to healthcare services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_135.md)
 
 ## Closest similar item
 
 * [International coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_918.md)
-* [International partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3531.md)
-* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2819.md)
-* [International collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2603.md)
-* [International cooperation and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3585.md)
+* [International partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3696.md)
+* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2984.md)
+* [International collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2771.md)
+* [International cooperation and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3750.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_339.md)
 * [Community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1071.md)
-* [International policy framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2551.md)
+* [International policy framework](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2719.md)
 * [Media organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_335.md)
-* [Official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3240.md)
+* [Official health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3405.md)
 
 ## This technology is mentioned by
 
@@ -26,7 +26,7 @@
 
 ## This Technology enables the following mitigations
 
-* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_987.md)
+* [International collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_987.md)
 
 ## Risks linked to this technology
 

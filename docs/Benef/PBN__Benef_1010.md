@@ -21,5 +21,5 @@ Developing industry-specific working procedures can help mitigate contractual pr
 
 ## Risks which can benefit from this action
 
-* [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1014.md)
+* [Industry-specific working procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1014.md)
 

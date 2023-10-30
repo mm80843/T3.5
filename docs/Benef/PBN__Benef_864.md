@@ -20,5 +20,5 @@ Public health campaigns educate the public on preventive measures such as hand h
 
 ## Risks which can benefit from this action
 
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_865.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_865.md)
 

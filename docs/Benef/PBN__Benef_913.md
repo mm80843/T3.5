@@ -21,5 +21,5 @@ Provides an automated and efficient method to design physical spaces with social
 
 ## Risks which can benefit from this action
 
-* [Computer-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_916.md)
+* [Computer-based solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_916.md)
 

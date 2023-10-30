@@ -21,5 +21,5 @@ Integration of information and technology solutions in makeshift hospitals impro
 
 ## Risks which can benefit from this action
 
-* [Integration of information and technology solutions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_615.md)
+* [Integration of information and technology solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_615.md)
 

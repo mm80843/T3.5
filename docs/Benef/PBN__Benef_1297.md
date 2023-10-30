@@ -21,5 +21,5 @@ Having a designated isolation room can prevent the transmission of infectious di
 
 ## Risks which can benefit from this action
 
-* [Creating isolation room](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1319.md)
+* [Creating isolation room](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1319.md)
 

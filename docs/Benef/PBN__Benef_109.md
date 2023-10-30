@@ -21,5 +21,5 @@ Rapid identification of contacts, monitoring, and quarantine measures
 
 ## Risks which can benefit from this action
 
-* [Effective response to cruise ship case](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_96.md)
+* [Effective response to cruise ship case](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_96.md)
 

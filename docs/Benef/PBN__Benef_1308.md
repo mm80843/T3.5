@@ -20,5 +20,5 @@ Unobstructed views of nature and the sky improve mood, focus, and satisfaction, 
 
 ## Risks which can benefit from this action
 
-* [Window design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1330.md)
+* [Window design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1330.md)
 

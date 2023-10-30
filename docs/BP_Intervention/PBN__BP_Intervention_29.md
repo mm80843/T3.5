@@ -12,7 +12,7 @@ Infection tracking / monitoring
 
 ## Category to which it belongs
 
-* [Disease surveillance for identifying and observing the spread of infections.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_378.md)
+* [Capturing the spread of infectious diseases.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_178.md)
 
 ## This intervention is used in the following blueprints
 

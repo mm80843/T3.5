@@ -20,5 +20,5 @@ Strategic alignment processes promote compatibility and shared priorities among 
 
 ## Risks which can benefit from this action
 
-* [Strategic alignment processes](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_875.md)
+* [Strategic alignment processes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_875.md)
 

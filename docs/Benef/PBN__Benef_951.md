@@ -21,5 +21,5 @@ Wearables can track the time it takes for heart rate to return to baseline after
 
 ## Risks which can benefit from this action
 
-* [Monitoring heart rate recovery after contracting sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_947.md)
+* [Monitoring heart rate recovery after contracting sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_947.md)
 

@@ -20,5 +20,5 @@ Establishing alternative sourcing options and creating inventory buffers can mit
 
 ## Risks which can benefit from this action
 
-* [Establishing alternative sourcing and inventory buffers](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_646.md)
+* [Establishing alternative sourcing and inventory buffers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_646.md)
 

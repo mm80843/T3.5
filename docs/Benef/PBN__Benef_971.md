@@ -20,5 +20,5 @@ Strengthening public health systems and crisis management can enhance the respon
 
 ## Risks which can benefit from this action
 
-* [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_966.md)
+* [Strengthening public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_966.md)
 

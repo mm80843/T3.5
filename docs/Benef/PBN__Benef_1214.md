@@ -21,5 +21,5 @@ Positive environmental surface testing can inform the need for employee testing
 
 ## Risks which can benefit from this action
 
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1221.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1221.md)
 

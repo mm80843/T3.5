@@ -20,5 +20,5 @@ Accurate information can alleviate fears and reduce anxiety
 
 ## Risks which can benefit from this action
 
-* [Enhance health education using online platforms](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_48.md)
+* [Enhance health education using online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_48.md)
 

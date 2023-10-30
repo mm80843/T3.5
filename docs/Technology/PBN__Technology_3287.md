@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3287 
 
-# __Integrated care models__
+# __Credible sources__
 
 ## Category to which it belongs
 
-* [Advancements in healthcare technology, remote care services, public health campaigns, and improved healthcare facilities contribute to a comprehensive and efficient healthcare system.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_204.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Integrated healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3282.md)
-* [Care coordination tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1488.md)
-* [Flexible working models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3158.md)
-* [Point-of-care testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2024.md)
-* [Self-care resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1120.md)
-* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_472.md)
-* [Community care centers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2637.md)
-* [Tailored interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1339.md)
-* [Healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2606.md)
-* [Ai in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1506.md)
+* [Reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1860.md)
+* [Reliable news sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1125.md)
+* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_580.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1994.md)
+* [Reliable research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2910.md)
+* [Public education on reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1923.md)
+* [Media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3871.md)
+* [News and information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3385.md)
+* [Trusted sources certification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_936.md)
+* [Fact-checking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_806.md)
 
 ## This Technology enables the following mitigations
 
-* [Person-centered integrated care](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4681.md)
+* [Use reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4463.md)
 

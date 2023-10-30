@@ -21,5 +21,5 @@ Incorporating neighborhood-level processes in large-scale models can improve the
 
 ## Risks which can benefit from this action
 
-* [Introducing neighborhood-level processes in large-scale models](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_363.md)
+* [Introducing neighborhood-level processes in large-scale models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_363.md)
 

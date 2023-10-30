@@ -21,5 +21,5 @@ Proper treatment of wastewater and disinfection of water can prevent transmissio
 
 ## Risks which can benefit from this action
 
-* [Improved water treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_804.md)
+* [Improved water treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_804.md)
 

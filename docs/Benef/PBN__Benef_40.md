@@ -21,5 +21,5 @@ Lightweight and scalable security mechanisms, encryption, blockchain, and distri
 
 ## Risks which can benefit from this action
 
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_32.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
 

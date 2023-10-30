@@ -20,5 +20,5 @@ Increased trust in information shared on social media, decreased panic and anxie
 
 ## Risks which can benefit from this action
 
-* [Increased government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_908.md)
+* [Increased government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_908.md)
 

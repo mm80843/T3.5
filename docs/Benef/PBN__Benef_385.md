@@ -21,5 +21,5 @@ Guide design of elimination strategies
 
 ## Risks which can benefit from this action
 
-* [Cdr data analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_388.md)
+* [Cdr data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_388.md)
 

@@ -20,5 +20,5 @@ Near real-time sentiments reflect community feelings, allowing policymakers to d
 
 ## Risks which can benefit from this action
 
-* [Use of social media data](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_928.md)
+* [Use of social media data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_928.md)
 

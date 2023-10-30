@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_2907 
 
-# __Pond pumps__
+# __Unbiased sampling__
 
 ## Category to which it belongs
 
-* [Promotion and implementation of sustainable and eco-friendly techniques, technologies, and initiatives for environmental conservation and management.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_234.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
-* [Skc universal pumps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3116.md)
-* [Water supply infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3119.md)
-* [Improved water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2880.md)
-* [Fountains](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2909.md)
-* [Water storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2191.md)
-* [Backflow valves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3491.md)
-* [Water movement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2913.md)
-* [Water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_664.md)
-* [Hot water supply](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1048.md)
-* [Rainwater harvesting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1769.md)
+* [Wbe sampling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2278.md)
+* [Wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2821.md)
+* [Control samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1103.md)
+* [Quality control in wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_709.md)
+* [Observational datasets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2695.md)
+* [Statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_357.md)
+* [Surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_898.md)
+* [Improved sample collection and handling protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2028.md)
+* [Crowdsourcing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2572.md)
+* [Extensive sample clean-up processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_240.md)
 
 ## This Technology enables the following mitigations
 
-* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4105.md)
+* [Unbiased data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3879.md)
 

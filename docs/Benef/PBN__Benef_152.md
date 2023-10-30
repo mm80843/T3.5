@@ -21,5 +21,5 @@ Increasing public awareness and support for nature conservation and PCAs
 
 ## Risks which can benefit from this action
 
-* [Increasing public interest](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_134.md)
+* [Increasing public interest](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_134.md)
 

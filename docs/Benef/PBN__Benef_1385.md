@@ -21,5 +21,5 @@ Smartphone apps enable effective contact tracing and identification of clusters,
 
 ## Risks which can benefit from this action
 
-* [Implementation of smartphone-based apps](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1419.md)
+* [Implementation of smartphone-based apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1419.md)
 

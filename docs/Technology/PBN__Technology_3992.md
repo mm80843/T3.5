@@ -1,8 +1,0 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3992 
-
-# __Antimicrobial surface materials&&&antimicrobial coatings for surfaces&&&antimicrobial materials&&&antimicrobial coating&&&covering high-touch surfaces with antimicrobial material&&&antimicrobial coatings&&&anti-microbial materials&&&antimicrobial paint&&&anti-bacterial materials&&&selection of anti-microbial materials__
-
-## Link between Blueprint and General ontology
-
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_251.md)
-

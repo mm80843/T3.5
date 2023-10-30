@@ -20,5 +20,5 @@ Wastewater monitoring can provide data on the status and trend of COVID-19 infec
 
 ## Risks which can benefit from this action
 
-* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_492.md)
+* [Wastewater monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_492.md)
 

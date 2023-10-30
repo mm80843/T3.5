@@ -21,5 +21,5 @@ Ensuring the supply and availability of food is crucial for food and nutrition s
 
 ## Risks which can benefit from this action
 
-* [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_285.md)
+* [Ensuring supply and availability of food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_285.md)
 

@@ -21,5 +21,5 @@ Prevents overwhelming healthcare system by reducing infection rate, allowing bet
 
 ## Risks which can benefit from this action
 
-* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_182.md)
+* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_182.md)
 

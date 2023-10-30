@@ -12,7 +12,7 @@ Facilitate transparent communication
 
 ## Category to which it belongs
 
-* [Enable open and clear interaction.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_386.md)
+* [Enable open and clear exchange of information.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_186.md)
 
 ## This intervention is used in the following blueprints
 

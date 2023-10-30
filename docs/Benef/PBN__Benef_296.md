@@ -20,5 +20,5 @@ Off-site construction requires less time on construction sites, leading to faste
 
 ## Risks which can benefit from this action
 
-* [Use of off-site construction methods](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_293.md)
+* [Use of off-site construction methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_293.md)
 

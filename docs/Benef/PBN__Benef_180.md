@@ -20,5 +20,5 @@ Helps target preventive and control measures in areas with high HIV prevalence
 
 ## Risks which can benefit from this action
 
-* [Spatial analysis](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_160.md)
+* [Spatial analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_160.md)
 

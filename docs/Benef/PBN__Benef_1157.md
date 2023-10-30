@@ -21,5 +21,5 @@ Facilitates remote learning and educational activities during lockdowns and soci
 
 ## Risks which can benefit from this action
 
-* [Mobile technology in education](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1159.md)
+* [Mobile technology in education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1159.md)
 

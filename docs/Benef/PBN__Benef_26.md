@@ -20,5 +20,5 @@ Promoting diversification and self-sufficiency in production and trade reduces t
 
 ## Risks which can benefit from this action
 
-* [Promote diversification and self-sufficiency](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_18.md)
+* [Promote diversification and self-sufficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_18.md)
 

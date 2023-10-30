@@ -21,5 +21,5 @@ Improving access to safe drinking water ensures better overall health and well-b
 
 ## Risks which can benefit from this action
 
-* [Improving access to safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_287.md)
+* [Improving access to safe drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_287.md)
 

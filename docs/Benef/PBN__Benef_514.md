@@ -21,5 +21,5 @@ Big data analytics focus on improving data quality, ensuring accurate predictive
 
 ## Risks which can benefit from this action
 
-* [Data quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_527.md)
+* [Data quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_527.md)
 

@@ -20,5 +20,5 @@ Managing occupancy density and enforcing social distancing measures can reduce c
 
 ## Risks which can benefit from this action
 
-* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_847.md)
+* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_847.md)
 

@@ -21,5 +21,5 @@ AI-powered diagnosis applications can combine symptoms, wearable data, and trave
 
 ## Risks which can benefit from this action
 
-* [Ai-powered diagnosis applications](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1428.md)
+* [Ai-powered diagnosis applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1428.md)
 

@@ -12,7 +12,7 @@ Optimize users flows to prevent contamination
 
 ## Category to which it belongs
 
-* [Streamline user pathways for the purpose of avoiding cross-contamination.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_366.md)
+* [Streamline user journeys for better cleanliness and hygiene.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_166.md)
 
 ## This intervention is used in the following blueprints
 

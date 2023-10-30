@@ -1,8 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3852 
 
-# __Ai/ml&&&artificial intelligence and ml&&&medium&&&machine learning&&&products&&&kgx&&&deep learning&&&mmtc&&&advertising&&&ai__
+# __Commissioning__
 
-## Link between Blueprint and General ontology
+## Category to which it belongs
 
-* [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Enabler/PBN__Enabler_168.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
+
+## Closest similar item
+
+* [Inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_84.md)
+* [Procurement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2958.md)
+* [Procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2518.md)
+* [Strategic master plan](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1782.md)
+* [Legislation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2810.md)
+* [Equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2638.md)
+* [Maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3162.md)
+* [Remote inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_861.md)
+* [Automation in production and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1631.md)
+* [Proper equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2429.md)
+
+## This Technology enables the following mitigations
+
+* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1389.md)
 

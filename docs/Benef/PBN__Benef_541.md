@@ -21,5 +21,5 @@ Evaluation of prevention and mitigation measures guides response effort, assesse
 
 ## Risks which can benefit from this action
 
-* [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_555.md)
+* [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
 

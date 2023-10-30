@@ -20,5 +20,5 @@ Users can conduct analysis/diagnosis like an expert with the help of the expert 
 
 ## Risks which can benefit from this action
 
-* [Implementation of an expert system in the mobile application](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1143.md)
+* [Implementation of an expert system in the mobile application](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1143.md)
 

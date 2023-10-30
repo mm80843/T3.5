@@ -20,5 +20,5 @@ Smart building technologies improve comfort and convenience, allowing for person
 
 ## Risks which can benefit from this action
 
-* [Integration of smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_158.md)
+* [Integration of smart building technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_158.md)
 

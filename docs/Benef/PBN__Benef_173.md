@@ -20,5 +20,5 @@ Good design and management of water systems reduce the risk of disease outbreaks
 
 ## Risks which can benefit from this action
 
-* [Improved water systems](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_153.md)
+* [Improved water systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_153.md)
 

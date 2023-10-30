@@ -24,6 +24,6 @@ Addressing the over-exposure of women in healthcare and social services promotes
 
 ## Risks which can benefit from this action
 
-* [Addressing over-exposure of women](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_286.md)
-* [Gender-specific interventions](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_870.md)
+* [Addressing over-exposure of women](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_286.md)
+* [Gender-specific interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_870.md)
 

@@ -20,5 +20,5 @@ Reduction in air pollutants, leading to improved air quality and reduced risk of
 
 ## Risks which can benefit from this action
 
-* [Adoption of cleaner and renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_175.md)
+* [Adoption of cleaner and renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_175.md)
 

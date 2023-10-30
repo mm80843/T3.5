@@ -12,7 +12,7 @@ Promote verified information
 
 ## Category to which it belongs
 
-* [Spread reliable content.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_388.md)
+* [Spread accurate facts.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_188.md)
 
 ## This intervention is used in the following blueprints
 

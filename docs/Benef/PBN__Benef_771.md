@@ -20,5 +20,5 @@ Higher compliance with mitigation measures leads to better control of the epidem
 
 ## Risks which can benefit from this action
 
-* [Compliance indicator](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_770.md)
+* [Compliance indicator](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_770.md)
 

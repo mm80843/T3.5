@@ -4,18 +4,18 @@
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Innovative technology and community engagement initiatives are being utilized to enhance well-being, safety, communication, and efficiency in various settings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_116.md)
 
 ## Closest similar item
 
-* [Web surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2409.md)
+* [Web surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2577.md)
 * [Electronic surveys](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1824.md)
-* [Online survey technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2939.md)
-* [Online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3522.md)
+* [Online survey technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3104.md)
+* [Online survey platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3687.md)
 * [Interviews](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_899.md)
 * [Marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1702.md)
 * [Incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_163.md)
-* [Online questionnaire/app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3405.md)
+* [Online questionnaire/app](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3570.md)
 * [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
 * [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
 
@@ -25,9 +25,9 @@
 
 ## This Technology enables the following mitigations
 
-* [Determining citizens’ preferences](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4144.md)
-* [Assessing citizens’ willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4147.md)
-* [Face-to-face surveys](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4154.md)
+* [Determining citizens’ preferences](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4144.md)
+* [Assessing citizens’ willingness to pay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4147.md)
+* [Face-to-face surveys](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4154.md)
 
 ## Risks linked to this technology
 

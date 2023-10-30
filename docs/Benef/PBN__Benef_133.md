@@ -21,5 +21,5 @@ The SPARQL endpoint allows users to submit structured queries to OpenKG-COVID19 
 
 ## Risks which can benefit from this action
 
-* [Sparql endpoint](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_114.md)
+* [Sparql endpoint](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_114.md)
 

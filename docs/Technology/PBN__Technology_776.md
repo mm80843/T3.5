@@ -4,16 +4,16 @@
 
 ## Category to which it belongs
 
-* [Synonymous with the list: various strategies and measures to ensure safety, efficiency, and coordination in a given environment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_215.md)
+* [Creating a resilient and adaptable environment through technology, cooperation, contact tracing, natural elements, and proper measures.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_119.md)
 
 ## Closest similar item
 
 * [Public announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_370.md)
-* [Public service announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3616.md)
+* [Public service announcements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3781.md)
 * [Press releases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1174.md)
-* [Information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2318.md)
-* [News and information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3220.md)
-* [Advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2858.md)
+* [Information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2486.md)
+* [News and information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3385.md)
+* [Advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3023.md)
 * [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
 * [Public communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2004.md)
 * [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)

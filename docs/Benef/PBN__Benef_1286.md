@@ -20,5 +20,5 @@ Designing spaces to allow for physical distancing helps to reduce close contact 
 
 ## Risks which can benefit from this action
 
-* [Designing spaces to enable physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1309.md)
+* [Designing spaces to enable physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1309.md)
 

@@ -21,5 +21,5 @@ Allows for flexible use of building spaces according to changing circumstances a
 
 ## Risks which can benefit from this action
 
-* [Transformation design](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1079.md)
+* [Transformation design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1079.md)
 

@@ -21,5 +21,5 @@ Reliable electrical infrastructure in makeshift hospitals ensures the uninterrup
 
 ## Risks which can benefit from this action
 
-* [Reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_614.md)
+* [Reliable electrical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_614.md)
 

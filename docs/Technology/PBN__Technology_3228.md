@@ -1,25 +1,25 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_3228 
 
-# __Whatsapp__
+# __Silver nanocoating__
 
 ## Category to which it belongs
 
-* [A compilation of various mobile apps and technologies used for reporting, contact tracing, banking, scheduling, and other functions.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
+* [Innovations and applications in chemistry, materials, and technology for purification, disinfection, and environmental protection.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_146.md)
 
 ## Closest similar item
 
-* [Messaging apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3235.md)
-* [Skype](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2445.md)
-* [Text and video messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2284.md)
-* [Phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1092.md)
-* [Sms messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3610.md)
-* [Messaging tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1425.md)
-* [Smartphone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3353.md)
-* [Facebook](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3435.md)
-* [Chat rooms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2344.md)
-* [Public health messaging systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_703.md)
+* [Silver nanoparticles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3157.md)
+* [Atomized silver nanoparticles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2505.md)
+* [Surface coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_791.md)
+* [Titanium-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3229.md)
+* [Copper alloy coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3227.md)
+* [Safe coating materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_266.md)
+* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
+* [Scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_216.md)
+* [Carbon-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3230.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2870.md)
 
 ## This Technology enables the following mitigations
 
-* [Whatsapp chatbot](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_4597.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1350.md)
 

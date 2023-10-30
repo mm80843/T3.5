@@ -21,5 +21,5 @@ VR can help patients with psychosomatic disturbances by providing a powerful too
 
 ## Risks which can benefit from this action
 
-* [Virtual reality psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_1127.md)
+* [Virtual reality psychological treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1127.md)
 

@@ -20,5 +20,5 @@ Decreased traffic congestion, improved air quality
 
 ## Risks which can benefit from this action
 
-* [Promote reduction of non-essential travel](https://github.com/mm80843/T3.5/blob/main/docs/RiskMitigation/PBN__RiskMitigation_570.md)
+* [Promote reduction of non-essential travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_570.md)
 
