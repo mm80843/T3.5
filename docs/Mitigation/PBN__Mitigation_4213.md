@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4213 
 
-<<<<<<< HEAD
 # __Combining medical history with diagnosis__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Combining the medical history of patients with their current diagnostic informat
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __media platforms__
->>>>>>> refs/remotes/origin/main
 

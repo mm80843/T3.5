@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1157 
 
-<<<<<<< HEAD
 # __Residents of inadequately designed housing__
 
 ## Category to which it belongs
@@ -31,28 +30,4 @@
 ## Risk affecting this stakeholder
 
 * [Inadequate housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1722.md)
-=======
-# __immunocompromised individuals__
-
-## Category to which it belongs
-
-* [All people, especially those at risk or facing various circumstances, including age, health conditions, or unemployment.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_373.md)
-
-## Closest similar item
-
-* [immunocompromised individuals, including children](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2288.md)
-* [immunocompromised individuals, including child](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2142.md)
-* [vaccinated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1293.md)
-* [people with compromised immune function](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_337.md)
-* [unvaccinated individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_463.md)
-* [individuals with immunosuppression and chronic low-grade inflammation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_459.md)
-* [infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_161.md)
-* [vaccinated patients](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_462.md)
-* [individual in the vicinity of infected individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2146.md)
-* [previously infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_465.md)
-
-## Risk affecting this stakeholder
-
-* [Host immunity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1731.md)
->>>>>>> refs/remotes/origin/main
 

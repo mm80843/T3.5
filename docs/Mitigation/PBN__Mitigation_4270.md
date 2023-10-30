@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4270 
 
-<<<<<<< HEAD
 # __Isolation of suspected or confirmed cases__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ To separate individuals who are suspected or confirmed to have the disease from 
 ## This Mitigation is enabled by the following technologies
 
 * [Isolation rooms or designated isolation areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3176.md)
-=======
-# __Engage diverse clinical research groups, improve data accessibility in low-income countries, address racial biases in data collection and reporting.__
->>>>>>> refs/remotes/origin/main
 

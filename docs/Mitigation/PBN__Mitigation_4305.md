@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4305 
 
-<<<<<<< HEAD
 # __Jsoup library__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Supports the web scraping process by providing tools for HTML parsing and data e
 ## This Mitigation is enabled by the following technologies
 
 * [Jsoup library](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3200.md)
-=======
-# __Maintenance / decontamination of building water sytems__
->>>>>>> refs/remotes/origin/main
 

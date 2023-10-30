@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4362 
 
-<<<<<<< HEAD
 # __Monitoring wastewater__
 
 ## Category to which it belongs
@@ -38,7 +37,4 @@ Using wastewater monitoring to obtain information on SARS-CoV-2 incidence within
 ## This Mitigation is enabled by the following technologies
 
 * [Analytical genomic approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3251.md)
-=======
-# __Implement strategies to control transmission, such as social distancing and isolation measures.__
->>>>>>> refs/remotes/origin/main
 

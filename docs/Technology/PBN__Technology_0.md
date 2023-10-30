@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_0 
 
-<<<<<<< HEAD
 # __Surveillance systems__
 
 ## Category to which it belongs
@@ -156,59 +155,4 @@
 * [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
 * [Crowded railway stations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1637.md)
 * [Reintroduction of parasites through human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2141.md)
-=======
-# __surveillance systems__
-
-## Category to which it belongs
-
-* [Enhanced monitoring and surveillance technologies enable real-time tracking, video conferencing, and improved detection methods.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_214.md)
-
-## Risks linked to this technology
-
-* [Disrupted supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2336.md)
-* [Contagious Spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1878.md)
-* [Underreporting of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1506.md)
-* [Intercity travel frequency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1649.md)
-* [Virus propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1032.md)
-* [Restricted movement in and out of cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2335.md)
-* [Insufficient healthcare infrastructure and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
-* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
-* [Crowded railway stations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1650.md)
-* [Reintroduction of parasites through human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2165.md)
-
-## Closest similar item
-
-* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
-* [surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3926.md)
-* [digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1560.md)
-* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
-* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
-* [surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3635.md)
-* [improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1686.md)
-* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2483.md)
-* [video surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4336.md)
-* [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
-
-## This Technology is identified by the following QID
-
-* [Q334401](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q334401.md)
-
-## This Technology belongs to this TechSubgroup
-
-* [Surveillance and Monitoring Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_147.md)
-
-## This Technology belongs to this TechGroup
-
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_6.md)
-
-## This Technology enables the following mitigations
-
-* [Cancer surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_592.md)
-* [Early alert systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1799.md)
-* [Enhanced Surveillance and Reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1863.md)
-* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4.md)
-* [Emergency Plan Development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1616.md)
-* [Enhanced surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1068.md)
-* [Workplace Safety Measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1614.md)
->>>>>>> refs/remotes/origin/main
 

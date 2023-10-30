@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4329 
 
-<<<<<<< HEAD
 # __Ai algorithms for identification of covid-19 on ct chest__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ AI algorithms can accurately identify COVID-19 on CT chest scans
 ## This Mitigation is enabled by the following technologies
 
 * [Artificial intelligence and ct imaging data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3215.md)
-=======
-# __Dissemination of infectious aerosols in buildings__
->>>>>>> refs/remotes/origin/main
 

@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4199 
 
-<<<<<<< HEAD
 # __5g cellular technology__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Enable high-speed communication and data transfer for real-time monitoring and r
 ## This Mitigation is enabled by the following technologies
 
 * [5g technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3145.md)
-=======
-# __Varying legal frameworks, sociopolitical barriers__
->>>>>>> refs/remotes/origin/main
 

@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4198 
 
-<<<<<<< HEAD
 # __Iomt applications__
 
 ## Category to which it belongs
@@ -36,7 +35,4 @@ Utilize interconnected medical devices and applications for remote monitoring an
 
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [Smart sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3144.md)
-=======
-# __Legal Issues__
->>>>>>> refs/remotes/origin/main
 

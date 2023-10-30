@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4293 
 
-<<<<<<< HEAD
 # __Inventory optimization__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Optimizing inventory levels to mitigate the impact of supply disruptions and ens
 ## This Mitigation is enabled by the following technologies
 
 * [Inventory management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3190.md)
-=======
-# __Home Energy Management Systems (HEMS)__
->>>>>>> refs/remotes/origin/main
 

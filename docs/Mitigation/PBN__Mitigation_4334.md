@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4334 
 
-<<<<<<< HEAD
 # __Ai-based prediction models for pandemic forecasting__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ AI can predict the peak of the pandemic and support timely control and preventio
 ## This Mitigation is enabled by the following technologies
 
 * [Artificial intelligence and epidemiological data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3221.md)
-=======
-# __Strengthen and adequately fund public health systems, build stockpiles for critical medical supplies.__
->>>>>>> refs/remotes/origin/main
 

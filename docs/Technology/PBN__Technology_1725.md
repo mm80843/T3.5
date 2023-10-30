@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1725 
 
-<<<<<<< HEAD
 # __Proper cleaning procedures__
 
 ## Category to which it belongs
@@ -23,30 +22,6 @@
 ## This Technology belongs to this TechGroup
 
 * [Hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2226.md)
-=======
-# __pressure sensors__
-
-## Category to which it belongs
-
-* [Advanced monitoring systems and sensor integration for IoT devices and biosensor technology facilitate environmental monitoring and facility usage tracking.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_222.md)
-
-## Closest similar item
-
-* [sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
-* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2469.md)
-* [input sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3764.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4533.md)
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4532.md)
-* [sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3875.md)
-* [temperature sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3044.md)
-* [sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3150.md)
-* [Motion sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2513.md)
-* [motion sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1723.md)
-
-## This Technology belongs to this TechGroup
-
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_7.md)
->>>>>>> refs/remotes/origin/main
 
 ## This technology is mentioned by
 
@@ -54,7 +29,6 @@
 
 ## This Technology belongs to this TechSubgroup
 
-<<<<<<< HEAD
 * [Hygiene and sanitation practices and protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2103.md)
 
 ## This Technology enables the following mitigations
@@ -64,15 +38,4 @@
 ## Risks linked to this technology
 
 * [Pvp3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2168.md)
-=======
-* [Surveillance and Tracking Systems](https://github.com/mm80843/T3.5/blob/main/docs/TechSubgroup/PBN__TechSubgroup_21.md)
-
-## This Technology enables the following mitigations
-
-* [Use of touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2120.md)
-
-## Risks linked to this technology
-
-* [PVP2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2191.md)
->>>>>>> refs/remotes/origin/main
 

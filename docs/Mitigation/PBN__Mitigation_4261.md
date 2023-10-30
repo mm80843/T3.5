@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4261 
 
-<<<<<<< HEAD
 # __Real-time data analytics__
 
 ## Category to which it belongs
@@ -36,7 +35,4 @@ Enables the analysis of real-time data streams to monitor the spread of the viru
 
 * [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2336.md)
 * [Real-time data streams](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3172.md)
-=======
-# __Emphasis on ICT infrastructure access__
->>>>>>> refs/remotes/origin/main
 

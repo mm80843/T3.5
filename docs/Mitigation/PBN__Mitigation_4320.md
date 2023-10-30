@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4320 
 
-<<<<<<< HEAD
 # __Dilution and removal of infectious particles in room air through ventilation__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Ventilation helps to reduce the concentration of infectious particles in the air
 ## This Mitigation is enabled by the following technologies
 
 * [Natural or mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3208.md)
-=======
-# __Effect of RH on UV susceptibility of pathogenic viral aerosols__
->>>>>>> refs/remotes/origin/main
 

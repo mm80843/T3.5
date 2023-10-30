@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4333 
 
-<<<<<<< HEAD
 # __Cross-population train/test-based ai models for virus detection__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ AI models trained in one country can detect viruses in another country for autom
 ## This Mitigation is enabled by the following technologies
 
 * [Cross-population ai models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3220.md)
-=======
-# __Increase production and distribution of personal protective equipment, stockpile reserves for emergencies__
->>>>>>> refs/remotes/origin/main
 

@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4223 
 
-<<<<<<< HEAD
 # __Improved ventilation in indoor spaces__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Enhancing ventilation in indoor spaces through the use of ventilation systems to
 ## This Mitigation is enabled by the following technologies
 
 * [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-=======
-# __vr devices__
->>>>>>> refs/remotes/origin/main
 

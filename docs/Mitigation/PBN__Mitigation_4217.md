@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4217 
 
-<<<<<<< HEAD
 # __Migration control programs__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Implementing programs to control population migration and prevent uncontrolled s
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __digital infrastructure__
->>>>>>> refs/remotes/origin/main
 

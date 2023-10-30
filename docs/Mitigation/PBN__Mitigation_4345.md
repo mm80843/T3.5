@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4345 
 
-<<<<<<< HEAD
 # __Ultraviolet germicidal irradiation__
 
 ## Category to which it belongs
@@ -37,7 +36,4 @@ UVGI systems can be used to disinfect air and surfaces, reducing the risk of tra
 
 * [Uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2232.md)
 * [Uv-c emitters or lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3758.md)
-=======
-# __Virtual platforms__
->>>>>>> refs/remotes/origin/main
 

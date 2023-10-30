@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4368 
 
-<<<<<<< HEAD
 # __Tele-response bots__
 
 ## Category to which it belongs
@@ -36,7 +35,4 @@ Use tele-response bots to remotely communicate with and monitor patients
 
 * [Ai technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2042.md)
 * [Fifth-generation wireless networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3253.md)
-=======
-# __analytical genomic approaches__
->>>>>>> refs/remotes/origin/main
 

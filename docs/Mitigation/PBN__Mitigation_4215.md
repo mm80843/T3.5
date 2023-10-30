@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4215 
 
-<<<<<<< HEAD
 # __Improved travel limitations__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Implementing effective travel limitations to reduce the movement of individuals 
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __Digital learning platforms__
->>>>>>> refs/remotes/origin/main
 

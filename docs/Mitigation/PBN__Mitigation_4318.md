@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4318 
 
-<<<<<<< HEAD
 # __Improved hand hygiene__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Promotes regular hand hygiene practices, reducing the likelihood of transmission
 
 * [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
 * [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_828.md)
-=======
-# __Use of robot-controlled noncontact UV surface disinfection for fast and effective disinfection.__
->>>>>>> refs/remotes/origin/main
 

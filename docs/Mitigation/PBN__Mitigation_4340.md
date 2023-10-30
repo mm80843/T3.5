@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4340 
 
-<<<<<<< HEAD
 # __Mechanical filtration__
 
 ## Category to which it belongs
@@ -39,7 +38,4 @@ Enhance filtration of indoor air to remove particles and pollutants
 * [Photocatalytic oxidation filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3236.md)
 * [Pm2.5 filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3235.md)
 * [Epm1 95% filter](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3234.md)
-=======
-# __water__
->>>>>>> refs/remotes/origin/main
 

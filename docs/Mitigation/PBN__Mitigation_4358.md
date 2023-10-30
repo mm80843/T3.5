@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4358 
 
-<<<<<<< HEAD
 # __Strict infection control and hygiene__
 
 ## Category to which it belongs
@@ -33,7 +32,4 @@ Implementing strict infection control and hygiene measures when collecting waste
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __Surveillance and privacy concerns__
->>>>>>> refs/remotes/origin/main
 

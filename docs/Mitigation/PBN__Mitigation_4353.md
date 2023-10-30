@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4353 
 
-<<<<<<< HEAD
 # __Regular inspection and maintenance__
 
 ## Category to which it belongs
@@ -36,7 +35,4 @@ Regular inspection and maintenance of HVAC systems ensures proper functioning an
 
 * [Industry standards and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3246.md)
 * [Qualified hvac professionals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3245.md)
-=======
-# __Privacy and security concerns__
->>>>>>> refs/remotes/origin/main
 

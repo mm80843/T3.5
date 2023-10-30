@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4258 
 
-<<<<<<< HEAD
 # __Ai-based diagnosis and monitoring__
 
 ## Category to which it belongs
@@ -36,7 +35,4 @@ Analyzes medical images to aid in rapid and accurate diagnosis of COVID-19 and m
 
 * [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
 * [Medical imaging techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3169.md)
-=======
-# __Implementing strict protocols for personal cleanliness, sanitization, and ventilation on construction sites.__
->>>>>>> refs/remotes/origin/main
 

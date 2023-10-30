@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4262 
 
-<<<<<<< HEAD
 # __Differential pressurization__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Creates directional airflow between spaces, ensuring that airborne contaminants 
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __Promptly repair and maintain infrastructure__
->>>>>>> refs/remotes/origin/main
 

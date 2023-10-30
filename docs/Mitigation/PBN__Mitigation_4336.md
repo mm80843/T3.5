@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4336 
 
-<<<<<<< HEAD
 # __Ai-based tools for biomedical research and remote patient monitoring__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ AI can assist in biomedical research and remote monitoring to improve healthcare
 ## This Mitigation is enabled by the following technologies
 
 * [Artificial intelligence and health data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3223.md)
-=======
-# __ozonation technology__
->>>>>>> refs/remotes/origin/main
 

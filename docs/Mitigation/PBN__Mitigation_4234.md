@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4234 
 
-<<<<<<< HEAD
 # __Building and housing reform__
 
 ## Category to which it belongs
@@ -33,7 +32,4 @@ Design buildings with wipe-clean aesthetics and features that promote cleanlines
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __Blockchain and cryptography__
->>>>>>> refs/remotes/origin/main
 

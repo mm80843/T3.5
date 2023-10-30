@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4304 
 
-<<<<<<< HEAD
 # __Java language__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Supports the web scraping process and data retrieval from websites.
 ## This Mitigation is enabled by the following technologies
 
 * [Java programming language](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3199.md)
-=======
-# __Supporting local communities__
->>>>>>> refs/remotes/origin/main
 

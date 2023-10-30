@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4377 
 
-<<<<<<< HEAD
 # __Food parcels and free meals__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Provide free meals and food assistance to vulnerable populations
 ## This Mitigation is enabled by the following technologies
 
 * [Food resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3255.md)
-=======
-# __health education__
->>>>>>> refs/remotes/origin/main
 

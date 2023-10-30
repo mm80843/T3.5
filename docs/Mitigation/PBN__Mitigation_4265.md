@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4265 
 
-<<<<<<< HEAD
 # __Frequent handwashing__
 
 ## Link between Blueprint and General ontology
@@ -39,7 +38,4 @@ To remove viruses and bacteria from the hands to prevent transmission
 ## This Mitigation is enabled by the following technologies
 
 * [Soap and water or hand sanitizer](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3174.md)
-=======
-# __Improve accessibility to UGS by creating inclusive infrastructure and providing transportation options.__
->>>>>>> refs/remotes/origin/main
 

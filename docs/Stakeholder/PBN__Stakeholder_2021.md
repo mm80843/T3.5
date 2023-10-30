@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2021 
 
-<<<<<<< HEAD
 # __Smart city professional__
 
 ## Category to which it belongs
@@ -29,36 +28,4 @@
 
 * [Public and municipal services](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1616.md)
 * [Technology and innovation](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1873.md)
-=======
-# __funding agency__
-
-## Category to which it belongs
-
-* [Government and non-governmental organizations responsible for a wide range of services, including health, development, regulation, and emergency response.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_382.md)
-
-## Closest similar item
-
-* [funding agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_996.md)
-* [funding organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2016.md)
-* [funding organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1196.md)
-* [government agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2414.md)
-* [funding bodies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_851.md)
-* [funding body](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1887.md)
-* [government agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_55.md)
-* [finance department](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_990.md)
-* [regulatory agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1629.md)
-* [healthcare agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1881.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Business and Financial Services](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_58.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q336473](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q336473.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
->>>>>>> refs/remotes/origin/main
 

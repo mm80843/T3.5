@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4256 
 
-<<<<<<< HEAD
 # __Big data__
 
 ## Category to which it belongs
@@ -37,7 +36,4 @@ Big data and facial recognition can be used for monitoring and tracking individu
 
 * [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
 * [Facial recognition software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3165.md)
-=======
-# __Use of hygienic and antibacterial materials that are easily sanitized__
->>>>>>> refs/remotes/origin/main
 

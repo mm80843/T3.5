@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4390 
 
-<<<<<<< HEAD
 # __Trust in official governmental media__
 
 ## Category to which it belongs
@@ -33,7 +32,4 @@ Placing trust and confidence in official governmental media sources to ensure th
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __air purifier with hepa filters__
->>>>>>> refs/remotes/origin/main
 

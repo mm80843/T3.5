@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_834 
 
-<<<<<<< HEAD
 # __Quarantine protocols__
 
 ## Category to which it belongs
@@ -37,32 +36,4 @@
 
 * [Contagion from animals to humans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1527.md)
 * [Migration flow](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1715.md)
-=======
-# __animal surveillance__
-
-## Category to which it belongs
-
-* [Measures include helplines and hotlines, masks and sanitizers, signage and designated zones, targeted messaging, and automation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_203.md)
-
-## Risks linked to this technology
-
-* [Contagion from animals to humans](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1539.md)
-
-## Closest similar item
-
-* [Animal surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2868.md)
-* [surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
-* [environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3632.md)
-* [surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1263.md)
-* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2431.md)
-* [surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3635.md)
-* [surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2434.md)
-* [video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3661.md)
-* [surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3926.md)
-
-## This Technology is identified by the following QID
-
-* [Q2699839](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q2699839.md)
->>>>>>> refs/remotes/origin/main
 

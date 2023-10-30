@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4347 
 
-<<<<<<< HEAD
 # __Proper insulation maintenance__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Insulation should be kept clean and dry to prevent contamination and microbial g
 ## This Mitigation is enabled by the following technologies
 
 * [Proper insulation materials and cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3242.md)
-=======
-# __Use virtual reality to educate patients__
->>>>>>> refs/remotes/origin/main
 

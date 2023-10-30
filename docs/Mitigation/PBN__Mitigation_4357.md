@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4357 
 
-<<<<<<< HEAD
 # __Indoor air quality monitoring__
 
 ## Link between Blueprint and General ontology
@@ -48,7 +47,4 @@ Monitoring indoor air quality can help identify areas of concern and ensure that
 * [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
 * [Sensor devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3249.md)
 * [Sensor networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3426.md)
-=======
-# __Privacy, ethics, and legal concerns__
->>>>>>> refs/remotes/origin/main
 

@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4238 
 
-<<<<<<< HEAD
 # __Walking, cycling, and public transportation__
 
 ## Category to which it belongs
@@ -33,7 +32,4 @@ Promote walking, cycling, and other forms of active transportation to reduce rel
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __financial technology__
->>>>>>> refs/remotes/origin/main
 

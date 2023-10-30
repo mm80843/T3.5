@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4289 
 
-<<<<<<< HEAD
 # __Scenario planning__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Using scenario planning to anticipate and respond to multiple potential disrupti
 ## This Mitigation is enabled by the following technologies
 
 * [Scenario planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3188.md)
-=======
-# __Installation of backup energy sources__
->>>>>>> refs/remotes/origin/main
 

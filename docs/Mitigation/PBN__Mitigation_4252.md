@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4252 
 
-<<<<<<< HEAD
 # __Performance-based modeling__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Using advanced modeling and simulation tools, such as CAD and CFD models, to stu
 
 * [Cfd models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3160.md)
 * [Computer-aided design cad tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3159.md)
-=======
-# __WWM3: Waste management__
->>>>>>> refs/remotes/origin/main
 

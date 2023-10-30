@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4241 
 
-<<<<<<< HEAD
 # __Flexibility and transformation__
 
 ## Category to which it belongs
@@ -33,7 +32,4 @@ Design buildings with adaptable and flexible spaces that can easily be transform
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __Implement self-cleaning spaces__
->>>>>>> refs/remotes/origin/main
 

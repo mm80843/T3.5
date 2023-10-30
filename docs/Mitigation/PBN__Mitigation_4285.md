@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4285 
 
-<<<<<<< HEAD
 # __Mandatory sanitation__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Implementing mandatory sanitation measures to prevent the spread of contagious d
 ## This Mitigation is enabled by the following technologies
 
 * [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
-=======
-# __Additional data sources and smart meter integration for water management.__
->>>>>>> refs/remotes/origin/main
 

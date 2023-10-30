@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4382 
 
-<<<<<<< HEAD
 # __Virtual gaming__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Provide entertainment and social interaction through online gaming platforms
 ## This Mitigation is enabled by the following technologies
 
 * [Online gaming platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3258.md)
-=======
-# __educational programs__
->>>>>>> refs/remotes/origin/main
 

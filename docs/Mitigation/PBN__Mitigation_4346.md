@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4346 
 
-<<<<<<< HEAD
 # __Regular maintenance and cleaning__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Regular maintenance and cleaning of HVAC systems and ductwork can prevent the bu
 ## This Mitigation is enabled by the following technologies
 
 * [Proper cleaning equipment and procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3241.md)
-=======
-# __Establish virtual clinics for remote consultations and utilize telemedicine and e-learning platforms.__
->>>>>>> refs/remotes/origin/main
 

@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4323 
 
-<<<<<<< HEAD
 # __Real-time data sharing through dashboards__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Sharing data on the spread of the virus helps authorities take timely measures t
 ## This Mitigation is enabled by the following technologies
 
 * [Data sharing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3211.md)
-=======
-# __Airborne transmission of respiratory animal viral aerosols__
->>>>>>> refs/remotes/origin/main
 

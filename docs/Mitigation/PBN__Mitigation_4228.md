@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4228 
 
-<<<<<<< HEAD
 # __Teleworking and remote learning__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Implementing teleworking and remote learning policies to reduce the need for ind
 ## This Mitigation is enabled by the following technologies
 
 * [Technology devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2965.md)
-=======
-# __virtual exhibitions__
->>>>>>> refs/remotes/origin/main
 

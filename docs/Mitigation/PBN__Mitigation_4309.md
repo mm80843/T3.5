@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4309 
 
-<<<<<<< HEAD
 # __Restrictions on gatherings__
 
 ## Category to which it belongs
@@ -33,7 +32,4 @@ Limit the number of people gathering in a confined space to minimize the risk of
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __access to outdoor spaces__
->>>>>>> refs/remotes/origin/main
 

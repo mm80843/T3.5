@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4378 
 
-<<<<<<< HEAD
 # __Flexible delivery hours__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Allow retailers to restock shelves with basic food products
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __health education platforms__
->>>>>>> refs/remotes/origin/main
 

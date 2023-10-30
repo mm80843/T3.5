@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4257 
 
-<<<<<<< HEAD
 # __Contact tracing applications__
 
 ## Category to which it belongs
@@ -36,7 +35,4 @@ Utilizes location and proximity data to identify potential exposure to the virus
 
 * [Mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2856.md)
 * [Location and bluetooth data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3168.md)
-=======
-# __Improve construction techniques and standards, ensure the use of high-quality building materials.__
->>>>>>> refs/remotes/origin/main
 

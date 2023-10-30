@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_337 
 
-<<<<<<< HEAD
 # __Route optimization algorithms__
 
 ## Category to which it belongs
@@ -23,30 +22,6 @@
 ## This Technology belongs to this TechGroup
 
 * [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1316.md)
-=======
-# __media organizations__
-
-## Category to which it belongs
-
-* [Measures promoting accountability, media control, real-time updates, and virtual experiences for physical distancing and education.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_201.md)
-
-## Closest similar item
-
-* [media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3640.md)
-* [mass media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1540.md)
-* [media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4345.md)
-* [media advertising](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2959.md)
-* [media sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4507.md)
-* [media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_6.md)
-* [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2151.md)
-* [digital media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3581.md)
-* [community organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1073.md)
-* [journalism](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3359.md)
-
-## This Technology belongs to this TechGroup
-
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/TechGroup/PBN__TechGroup_1.md)
->>>>>>> refs/remotes/origin/main
 
 ## This technology is mentioned by
 
@@ -54,16 +29,9 @@
 
 ## This Technology belongs to this TechSubgroup
 
-<<<<<<< HEAD
 * [Resource and project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2037.md)
 
 ## Risks linked to this technology
 
 * [Inefficient navigation routes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1231.md)
-=======
-
-## Risks linked to this technology
-
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
->>>>>>> refs/remotes/origin/main
 

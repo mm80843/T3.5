@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4283 
 
-<<<<<<< HEAD
 # __Maximizing ventilation rate__
 
 ## Category to which it belongs
@@ -33,7 +32,4 @@ Increase air exchange rate to remove virus particles from the air, reducing the 
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __Proper disposal methods for pharmaceutical wastes, including incineration and hazardous waste treatment.__
->>>>>>> refs/remotes/origin/main
 

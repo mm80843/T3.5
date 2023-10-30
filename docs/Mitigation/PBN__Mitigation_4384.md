@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4384 
 
-<<<<<<< HEAD
 # __Medical consultation__
 
 ## Category to which it belongs
@@ -33,7 +32,4 @@ Seeking medical advice and consultation when experiencing symptoms of a contagio
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __Education and training programs__
->>>>>>> refs/remotes/origin/main
 

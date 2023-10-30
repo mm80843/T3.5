@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4210 
 
-<<<<<<< HEAD
 # __Public health interventions__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Implementing measures such as travel limitations, social isolation campaigns, wi
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __Rigorous data scrutiny and review__
->>>>>>> refs/remotes/origin/main
 

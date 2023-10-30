@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4194 
 
-<<<<<<< HEAD
 # __Ai algorithms for pattern discovery__
 
 ## Category to which it belongs
@@ -37,7 +36,4 @@ Discover patterns in COVID-19 datasets to improve understanding and response
 * [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
 * [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2041.md)
 * [Computer vision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3140.md)
-=======
-# __Psychological impacts and social tensions__
->>>>>>> refs/remotes/origin/main
 

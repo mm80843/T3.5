@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4291 
 
-<<<<<<< HEAD
 # __Knowledge sharing__
 
 ## Category to which it belongs
@@ -38,7 +37,4 @@ Promoting knowledge sharing among supply chain stakeholders to enhance awareness
 * [Collaborative platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1130.md)
 * [Information sharing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3449.md)
 * [Knowledge sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2845.md)
-=======
-# __Promotion of sustainable energy sources__
->>>>>>> refs/remotes/origin/main
 

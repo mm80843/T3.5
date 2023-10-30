@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1046 
 
-<<<<<<< HEAD
 # __Wastewater treatment plant operators__
 
 ## Category to which it belongs
@@ -34,28 +33,4 @@
 ## This Stakeholder belongs to this StakeholderSubgroup
 
 * [Waste and wastewater management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2584.md)
-=======
-# __park managers__
-
-## Category to which it belongs
-
-* [Managers responsible for overseeing various aspects of a building, including supply chain, facilities, construction projects, and more.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_363.md)
-
-## Closest similar item
-
-* [Park managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2699.md)
-* [Park manager](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2698.md)
-* [park management authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1512.md)
-* [Park management authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2676.md)
-* [Park management authority](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2697.md)
-* [park management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1119.md)
-* [Park management agencies](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2685.md)
-* [Park management agency](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2687.md)
-* [park maintenance organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1499.md)
-* [park authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1102.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Decline in urban park visitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1616.md)
->>>>>>> refs/remotes/origin/main
 

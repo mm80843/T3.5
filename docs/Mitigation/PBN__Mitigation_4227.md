@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4227 
 
-<<<<<<< HEAD
 # __Enhanced cleaning and sanitation__
 
 ## Category to which it belongs
@@ -38,7 +37,4 @@ Increasing the frequency and thoroughness of cleaning and sanitation measures in
 
 * [Cleaning supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_148.md)
 * [Cleaning and sanitation technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3348.md)
-=======
-# __computer vision__
->>>>>>> refs/remotes/origin/main
 

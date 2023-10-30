@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4201 
 
-<<<<<<< HEAD
 # __Telemedicine and remote consultation__
 
 ## Category to which it belongs
@@ -36,7 +35,4 @@ Enable remote healthcare services, consultations, and monitoring to reduce expos
 
 * [Video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
 * [Telecommunication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2323.md)
-=======
-# __Legal and contractual disputes__
->>>>>>> refs/remotes/origin/main
 

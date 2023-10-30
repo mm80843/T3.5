@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4339 
 
-<<<<<<< HEAD
 # __Smart building materials__
 
 ## Link between Blueprint and General ontology
@@ -39,7 +38,4 @@ Use materials certified as low-pollutant-emitting to improve indoor air quality 
 
 * [Green building materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3232.md)
 * [Low-pollutant-emitting products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3233.md)
-=======
-# __acetone__
->>>>>>> refs/remotes/origin/main
 

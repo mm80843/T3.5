@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1133 
 
-<<<<<<< HEAD
 # __Internet of things iot devices__
 
 ## Link between Blueprint and General ontology
@@ -39,32 +38,4 @@
 ## Risks linked to this technology
 
 * [Lack of supply chain visibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1755.md)
-=======
-# __demand forecasting and planning software__
-
-## Category to which it belongs
-
-* [A list of diverse software tools, including financial management, construction technology, project management, communication, and monitoring software.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_219.md)
-
-## Risks linked to this technology
-
-* [Changes in demand patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1772.md)
-
-## Closest similar item
-
-* [Demand forecasting and planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2082.md)
-* [demand forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3813.md)
-* [forecasting software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1968.md)
-* [Forecasting software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2125.md)
-* [forecasting tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_820.md)
-* [economic planning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1493.md)
-* [cost management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_690.md)
-* [demand response technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_353.md)
-* [Space planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2327.md)
-* [space planning software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1835.md)
-
-## This Technology is identified by the following QID
-
-* [Q3409300](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q3409300.md)
->>>>>>> refs/remotes/origin/main
 

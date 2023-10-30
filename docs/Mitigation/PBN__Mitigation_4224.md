@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4224 
 
-<<<<<<< HEAD
 # __Regular disinfection of surfaces__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Regularly cleaning and disinfecting surfaces and objects with appropriate disinf
 ## This Mitigation is enabled by the following technologies
 
 * [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
-=======
-# __augmented reality technology__
->>>>>>> refs/remotes/origin/main
 

@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4393 
 
-<<<<<<< HEAD
 # __Medication prevention__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Accurate information on medications for prevention of coronavirus transmission
 ## This Mitigation is enabled by the following technologies
 
 * [Medications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3260.md)
-=======
-# __high-efficiency particulate air (hepa) filters__
->>>>>>> refs/remotes/origin/main
 

@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4216 
 
-<<<<<<< HEAD
 # __Identification and isolation of cases__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Isolating all suspected cases to prevent further transmission of the virus
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __digital platforms for resource allocation and distribution__
->>>>>>> refs/remotes/origin/main
 

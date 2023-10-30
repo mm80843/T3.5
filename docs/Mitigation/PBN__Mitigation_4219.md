@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4219 
 
-<<<<<<< HEAD
 # __Increased personal hygiene__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Encouraging and promoting good personal hygiene practices, such as regular handw
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __digital technologies__
->>>>>>> refs/remotes/origin/main
 

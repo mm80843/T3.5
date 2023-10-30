@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4251 
 
-<<<<<<< HEAD
 # __Monitoring and sensing__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Installing sensors to continuously monitor IAQ and other indicators of indoor en
 
 * [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
 * [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
-=======
-# __WWM2: Waste management__
->>>>>>> refs/remotes/origin/main
 

@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2098 
 
-<<<<<<< HEAD
 # __Individuals in specific settings__
 
 ## Category to which it belongs
@@ -33,37 +32,4 @@
 * [Individuals in environments where uv light disinfection is employed](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_741.md)
 * [All individual living in poorly ventilated and dimly lit space](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2096.md)
 * [Individuals in spaces with poor air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1204.md)
-=======
-# __building occupant and researcher__
-
-## Category to which it belongs
-
-* [Individuals involved in the design, construction, management, and occupation of various types of buildings.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_367.md)
-
-## Closest similar item
-
-* [building occupant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1885.md)
-* [Building occupant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2581.md)
-* [building occupant and worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1937.md)
-* [Occupant of building](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2582.md)
-* [environmental researcher](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2673.md)
-* [researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [scientists/researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_137.md)
-* [Occupant of building and organization](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2601.md)
-* [environmental researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2669.md)
-* [research organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_852.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-* [Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderSubgroup/PBN__StakeholderSubgroup_55.md)
-
-## This Stakeholder is identified by the following QID
-
-* [Q1650915](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q1650915.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Private Sector](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_5.md)
-* [Building Occupants](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_11.md)
->>>>>>> refs/remotes/origin/main
 

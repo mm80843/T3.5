@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4303 
 
-<<<<<<< HEAD
 # __Rule-based expert system__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Evaluates a series of questions and assigns points to assess the level of risk f
 ## This Mitigation is enabled by the following technologies
 
 * [Rule-based algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3197.md)
-=======
-# __Invest in agricultural technology, promote sustainable farming practices.__
->>>>>>> refs/remotes/origin/main
 

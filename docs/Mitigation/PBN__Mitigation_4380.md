@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4380 
 
-<<<<<<< HEAD
 # __Online grocery delivery__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Facilitate online grocery delivery services to meet increased demand
 ## This Mitigation is enabled by the following technologies
 
 * [Online delivery platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3256.md)
-=======
-# __mental health education programs__
->>>>>>> refs/remotes/origin/main
 

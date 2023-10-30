@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1202 
 
-<<<<<<< HEAD
 # __Improved healthcare infrastructure__
 
 ## Category to which it belongs
@@ -39,32 +38,4 @@
 ## Risks linked to this technology
 
 * [Higher covid-19 hospitalizations and mortality among immigrants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1825.md)
-=======
-# __supply chain management systems and technologies enabling quick supplier switching__
-
-## Category to which it belongs
-
-* [Efficiently manage and optimize the flow of goods, data, and suppliers for resilient local supply chains.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_191.md)
-
-## Risks linked to this technology
-
-* [Limited flexibility in adjusting to shocks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1840.md)
-
-## Closest similar item
-
-* [supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_110.md)
-* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2345.md)
-* [supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_9.md)
-* [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2388.md)
-* [advanced supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_929.md)
-* [supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1792.md)
-* [supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
-* [improving supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1629.md)
-* [supplier diversification technologies and supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1199.md)
-* [supply chain management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_132.md)
-
-## This Technology is identified by the following QID
-
-* [Q492886](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q492886.md)
->>>>>>> refs/remotes/origin/main
 

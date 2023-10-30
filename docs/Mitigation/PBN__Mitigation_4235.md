@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4235 
 
-<<<<<<< HEAD
 # __Digital transformation and telecommuting__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Encourage remote work and digital communication to reduce physical contact and l
 ## This Mitigation is enabled by the following technologies
 
 * [Telecommunication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2456.md)
-=======
-# __blockchain technology for supply chain transparency__
->>>>>>> refs/remotes/origin/main
 

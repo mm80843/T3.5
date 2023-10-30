@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Technology](https://github.com/mm80843/T3.5/tree/main/docs/Technology/index.md) >> Individual ID:PBN__Technology_1354 
 
-<<<<<<< HEAD
 # __Disinfection equipment__
 
 ## Category to which it belongs
@@ -41,32 +40,4 @@
 
 * [Lack of proper cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1923.md)
 * [Transportation protocols and precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2114.md)
-=======
-# __automated windows__
-
-## Category to which it belongs
-
-* [These resources aim to enhance security, convenience, and efficiency in managing access, spaces, and systems within various environments.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_206.md)
-
-## Risks linked to this technology
-
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
-
-## Closest similar item
-
-* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2759.md)
-* [automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1451.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4541.md)
-* [smart windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4347.md)
-* [automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2986.md)
-* [automated devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3944.md)
-* [automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1471.md)
-* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2863.md)
-* [testing automation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_783.md)
-* [operable windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3938.md)
-
-## This Technology is identified by the following QID
-
-* [Q787116](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q787116.md)
->>>>>>> refs/remotes/origin/main
 

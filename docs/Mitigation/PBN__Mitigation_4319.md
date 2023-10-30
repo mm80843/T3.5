@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4319 
 
-<<<<<<< HEAD
 # __Germicidal uv air disinfection__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Germicidal UV works by causing damage to nucleic acids in pathogenic microbes, r
 ## This Mitigation is enabled by the following technologies
 
 * [Germicidal uv lamps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3207.md)
-=======
-# __Upper room GUV air disinfection__
->>>>>>> refs/remotes/origin/main
 

@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4212 
 
-<<<<<<< HEAD
 # __Wearing face masks__
 
 ## Category to which it belongs
@@ -41,7 +40,4 @@ Requiring all citizens to wear face masks when going out to reduce the risk of a
 ## This Mitigation is enabled by the following technologies
 
 * [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
-=======
-# __digital communication platforms__
->>>>>>> refs/remotes/origin/main
 

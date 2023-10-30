@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4355 
 
-<<<<<<< HEAD
 # __Removal of wet or contaminated insulation__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ Removal of wet or contaminated insulation reduces the risk of contamination and 
 ## This Mitigation is enabled by the following technologies
 
 * [Proper cleaning procedures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1725.md)
-=======
-# __Security and privacy concerns__
->>>>>>> refs/remotes/origin/main
 

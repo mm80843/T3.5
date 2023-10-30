@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4325 
 
-<<<<<<< HEAD
 # __Ai-driven tools for running clinical trials__
 
 ## Category to which it belongs
@@ -35,7 +34,4 @@ AI helps in running clinical trials for testing the effectiveness of treatments 
 ## This Mitigation is enabled by the following technologies
 
 * [Artificial intelligence and clinical data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3212.md)
-=======
-# __Airborne transmission of the virus__
->>>>>>> refs/remotes/origin/main
 

@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4278 
 
-<<<<<<< HEAD
 # __Controlling probability of contact__
 
 ## Category to which it belongs
@@ -33,7 +32,4 @@ Reduce virus transmission by minimizing direct contact between individuals and c
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __Installation of air filtration systems__
->>>>>>> refs/remotes/origin/main
 

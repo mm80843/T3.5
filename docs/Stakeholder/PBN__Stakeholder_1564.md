@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1564 
 
-<<<<<<< HEAD
 # __Individuals with pre-existing health conditions__
 
 ## Category to which it belongs
@@ -32,28 +31,4 @@
 ## Risk affecting this stakeholder
 
 * [Epidemiological vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
-=======
-# __individuals with mental illness__
-
-## Category to which it belongs
-
-* [Individuals in need of mental health support, including those with pre-existing conditions and from marginalized communities with limited access to services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_359.md)
-
-## Closest similar item
-
-* [individuals with mental health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1417.md)
-* [individuals with mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_8.md)
-* [individuals with psychiatric disorders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_448.md)
-* [people with psychiatric disorders](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1177.md)
-* [individual with mental health condition](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2166.md)
-* [individuals with mental health needs](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1373.md)
-* [individuals with previous mental health or psychiatric illnesses](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_266.md)
-* [individuals with previous mental health issues](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1339.md)
-* [individual with mental health need](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2323.md)
-* [mental health professionals](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_368.md)
-
-## Risk affecting this stakeholder
-
-* [Privacy invasion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2343.md)
->>>>>>> refs/remotes/origin/main
 

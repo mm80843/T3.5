@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4266 
 
-<<<<<<< HEAD
 # __Spatial distancing__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ To maintain a physical distance from others to minimize the risk of virus transm
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __Raise awareness, promote inclusivity and diversity__
->>>>>>> refs/remotes/origin/main
 

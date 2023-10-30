@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_1158 
 
-<<<<<<< HEAD
 # __Particularly those in crowded and poorly ventilated environments__
 
 ## Category to which it belongs
@@ -30,28 +29,4 @@
 ## Risk affecting this stakeholder
 
 * [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-=======
-# __water treatment plants__
-
-## Category to which it belongs
-
-* [Individuals and organizations involved in the management and treatment of water, waste, and wastewater.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_397.md)
-
-## Closest similar item
-
-* [water treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1087.md)
-* [wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_575.md)
-* [wastewater treatment plant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2667.md)
-* [wastewater treatment plant operators](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1050.md)
-* [wastewater treatment plant workers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1049.md)
-* [wastewater treatment plant operator](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2705.md)
-* [wastewater treatment plant worker](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2686.md)
-* [wastewater treatment facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_689.md)
-* [wastewater treatment facility](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2704.md)
-* [communities near wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1139.md)
-
-## Risks that can be mitigated by this stakeholder
-
-* [Transmission via water droplets from feces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1734.md)
->>>>>>> refs/remotes/origin/main
 

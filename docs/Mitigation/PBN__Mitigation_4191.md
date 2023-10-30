@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4191 
 
-<<<<<<< HEAD
 # __Hand sanitization__
 
 ## Category to which it belongs
@@ -33,7 +32,4 @@ Regularly clean hands to remove potential virus and prevent transmission
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __Social disparities__
->>>>>>> refs/remotes/origin/main
 

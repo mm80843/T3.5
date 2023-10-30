@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4279 
 
-<<<<<<< HEAD
 # __Increasing fresh air supply in hvac systems__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Dilute virus particles in the air by increasing fresh air supply, reducing the r
 ## This Mitigation is enabled by the following technologies
 
 * [Hvac systems with increased fresh air flowrate](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3185.md)
-=======
-# __Air ventilation and filtration systems__
->>>>>>> refs/remotes/origin/main
 

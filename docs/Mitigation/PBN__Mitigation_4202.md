@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4202 
 
-<<<<<<< HEAD
 # __Self-quarantine and self-screening__
 
 ## Category to which it belongs
@@ -34,7 +33,4 @@ Encourage individuals to isolate and monitor themselves for symptoms to prevent 
 
 ## This Mitigation is enabled by the following technologies
 
-=======
-# __Difficulty in adapting to new rules and regulations__
->>>>>>> refs/remotes/origin/main
 

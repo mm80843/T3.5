@@ -1,6 +1,5 @@
 [Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Stakeholder](https://github.com/mm80843/T3.5/tree/main/docs/Stakeholder/index.md) >> Individual ID:PBN__Stakeholder_2243 
 
-<<<<<<< HEAD
 # __Economic and social status__
 
 ## Category to which it belongs
@@ -40,35 +39,4 @@
 * [Individual with limited social connection](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2271.md)
 * [Individual from lower socio-economic background](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2303.md)
 * [Individual and household facing job lo or economic instability; small busine and self-employed individual](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2247.md)
-=======
-# __refugee habitation__
-
-## Category to which it belongs
-
-* [Individuals of different ages, including children, parents, migrants, and vulnerable groups, such as women and racial minorities.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_389.md)
-
-## Closest similar item
-
-* [refugee habitations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_693.md)
-* [refugees](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_951.md)
-* [temporary migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1516.md)
-* [migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_446.md)
-* [Migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2346.md)
-* [temporary migrants)](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_258.md)
-* [Migrant](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2383.md)
-* [migrant populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1386.md)
-* [global migrants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_950.md)
-* [homeless populations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_711.md)
-
-## This Stakeholder belongs to this StakeholderSubgroup
-
-
-## This Stakeholder is identified by the following QID
-
-* [Q283509](https://github.com/mm80843/T3.5/blob/main/docs//Qid/Q283509.md)
-
-## This Stakeholder belongs to this StakeholderGroup
-
-* [Vulnerable Population](https://github.com/mm80843/T3.5/blob/main/docs/StakeholderGroup/PBN__StakeholderGroup_6.md)
->>>>>>> refs/remotes/origin/main
 
