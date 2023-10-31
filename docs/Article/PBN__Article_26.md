@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_26 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_26 
 
 # __Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19__
 
@@ -24,40 +24,40 @@ Designing a Multi-Agent Occupant Simulation System to Support Facility Planning 
 
 ## Benefits listed in this article
 
-* [Flexible customization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_119.md)
-* [Visualizing virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_120.md)
-* [Configurable simulation parameters](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_121.md)
-* [Analysis of large-scale and longitudinal aspects](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_122.md)
-* [Evaluation of design decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_123.md)
+* [Flexible customization](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_119.md)
+* [Visualizing virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_120.md)
+* [Configurable simulation parameters](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_121.md)
+* [Analysis of large-scale and longitudinal aspects](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_122.md)
+* [Evaluation of design decisions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_123.md)
 
 ## List of risks in an article
 
-* [Crowding and congestion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1625.md)
-* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1158.md)
-* [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1623.md)
-* [Inadequate hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1626.md)
-* [Virus transmission via air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1624.md)
+* [Crowding and congestion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1625.md)
+* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1158.md)
+* [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1623.md)
+* [Inadequate hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1626.md)
+* [Virus transmission via air circulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1624.md)
 
 ## This article points to following mitigation
 
-* [Analysis visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4069.md)
-* [Virus transmission simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4070.md)
-* [Large-scale & longitudinal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4068.md)
-* [Autonomous human behaviour](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4071.md)
-* [Configurable simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4067.md)
-* [Context-responsive behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4066.md)
+* [Analysis visualization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4069.md)
+* [Virus transmission simulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4070.md)
+* [Large-scale & longitudinal](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4068.md)
+* [Autonomous human behaviour](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4071.md)
+* [Configurable simulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4067.md)
+* [Context-responsive behaviours](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4066.md)
 
 ## This article mentions these technologies
 
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
-* [Crowd management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_432.md)
-* [Communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_566.md)
-* [Cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_881.md)
-* [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)
-* [Occupancy limits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_965.md)
-* [Information pamphlets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_967.md)
-* [Physical distancing markers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_966.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Crowd management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_432.md)
+* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
+* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_881.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_665.md)
+* [Occupancy limits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_965.md)
+* [Information pamphlets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_967.md)
+* [Physical distancing markers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_966.md)
 

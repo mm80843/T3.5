@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_15 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_15 
 
 # __Reducing contact points__
 
@@ -25,38 +25,38 @@ This blueprint aims to reduce the number of physical contact points in the build
 
 ## Enablers of the blueprint
 
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_19.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_5.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_16.md)
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_13.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_11.md)
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_0.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_11.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
 
 ## Interventions of the blueprint
 
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_13.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_15.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_13.md)
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_15.md)
 
 ## Possible mitigations of the BP
 
-* [Implement touchless technologies, promote natural light, and establish self-cleaning spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2935.md)
-* [Implement touchless technologies, promote regular sanitization and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2891.md)
-* [Regular cleaning and disinfection, minimizing contact with high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2787.md)
-* [Regular and thorough cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2654.md)
-* [Regular cleaning and disinfection of frequently touched surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2956.md)
-* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4774.md)
-* [Implementing physical distancing measures, providing access to hand hygiene facilities, promoting mask-wearing, regular cleaning and disinfection of surfaces, and limiting the capacity of public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2229.md)
-* [Improve ventilation, sanitize frequently touched surfaces, promote social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1536.md)
-* [Provide an adequate number of hand washing stations and sanitizers at multiple locations on construction sites, and require regular hand hygiene practices.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1653.md)
-* [Implement a regular cleaning and disinfection schedule for commonly touched surfaces, tools, and equipment on construction sites.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1654.md)
+* [Implement touchless technologies, promote natural light, and establish self-cleaning spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2935.md)
+* [Implement touchless technologies, promote regular sanitization and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2891.md)
+* [Regular cleaning and disinfection, minimizing contact with high-touch surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2787.md)
+* [Regular and thorough cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2654.md)
+* [Regular cleaning and disinfection of frequently touched surfaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2956.md)
+* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4774.md)
+* [Implementing physical distancing measures, providing access to hand hygiene facilities, promoting mask-wearing, regular cleaning and disinfection of surfaces, and limiting the capacity of public spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2229.md)
+* [Improve ventilation, sanitize frequently touched surfaces, promote social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1536.md)
+* [Provide an adequate number of hand washing stations and sanitizers at multiple locations on construction sites, and require regular hand hygiene practices.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1653.md)
+* [Implement a regular cleaning and disinfection schedule for commonly touched surfaces, tools, and equipment on construction sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1654.md)
 
 ## Type of deployment of the blueprint
 
-* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -73,20 +73,20 @@ In addition, stakeholders who physically work in the building cannot exclude phy
 
 ## Possible risks of the BP
 
-* [Contamination of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1413.md)
-* [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1408.md)
-* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1667.md)
-* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
-* [Limited access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_227.md)
-* [Inadequate hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
-* [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_605.md)
-* [Manual contact with surfaces during door opening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2691.md)
-* [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1724.md)
-* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2301.md)
+* [Contamination of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1413.md)
+* [Inadequate sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1408.md)
+* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1667.md)
+* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1120.md)
+* [Limited access to hand hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_227.md)
+* [Inadequate hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1197.md)
+* [Increased physical contact between occupants increases virus transmission risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_605.md)
+* [Manual contact with surfaces during door opening](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2691.md)
+* [Lack of hygienic building materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1724.md)
+* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2301.md)
 
 ## Scale of the of the blueprint
 
-* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
+* [Building](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -94,11 +94,11 @@ PBN:BP_16
 
 ## Mode of transmission covered by the blueprint
 
-* [Fomites](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_5.md)
+* [Fomites](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_5.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

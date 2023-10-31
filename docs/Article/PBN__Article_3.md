@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_3 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_3 
 
 # __EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic__
 
@@ -24,36 +24,36 @@ EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models
 
 ## Benefits listed in this article
 
-* [Quantitative assessment of occupant exposure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_13.md)
-* [Flexible modeling assumptions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_14.md)
-* [Microscopic representation of individual movement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_15.md)
-* [Estimation of exposure metrics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_16.md)
-* [Retrofitting of existing crowd models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_17.md)
+* [Quantitative assessment of occupant exposure](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_13.md)
+* [Flexible modeling assumptions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_14.md)
+* [Microscopic representation of individual movement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_15.md)
+* [Estimation of exposure metrics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_16.md)
+* [Retrofitting of existing crowd models](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_17.md)
 
 ## List of risks in an article
 
-* [Lack of occupant exposure model](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1981.md)
-* [Lack of data support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1978.md)
-* [Inconsistent measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1977.md)
-* [Incomplete macroscopic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1979.md)
-* [Lack of microscale representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1980.md)
+* [Lack of occupant exposure model](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1981.md)
+* [Lack of data support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1978.md)
+* [Inconsistent measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1977.md)
+* [Incomplete macroscopic models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1979.md)
+* [Lack of microscale representation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1980.md)
 
 ## This article points to following mitigation
 
-* [Same room exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4634.md)
-* [Same building exposure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4635.md)
-* [Physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4631.md)
-* [Social distance radius](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4632.md)
-* [Face-to-face contact within social distance radius](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4633.md)
+* [Same room exposure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4634.md)
+* [Same building exposure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4635.md)
+* [Physical contact](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4631.md)
+* [Social distance radius](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4632.md)
+* [Face-to-face contact within social distance radius](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4633.md)
 
 ## This article mentions these technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_717.md)
-* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
-* [Data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1001.md)
-* [Simulation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_756.md)
-* [Trajectory analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1464.md)
-* [Microscopic crowd models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1463.md)
-* [Agent-based modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1462.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Data collection tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1001.md)
+* [Simulation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_756.md)
+* [Trajectory analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1464.md)
+* [Microscopic crowd models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1463.md)
+* [Agent-based modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1462.md)
 

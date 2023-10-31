@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_20 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_20 
 
 # __Making green infrastructure healthier infrastructure__
 
@@ -24,34 +24,34 @@ Making green infrastructure healthier infrastructure
 
 ## Benefits listed in this article
 
-* [Dilution effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_89.md)
-* [Reduction in tick populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_90.md)
-* [Reduced rat populations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_91.md)
-* [Reduction in mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_92.md)
-* [Decreased pollen allergen exposure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_93.md)
+* [Dilution effect](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_89.md)
+* [Reduction in tick populations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_90.md)
+* [Reduced rat populations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_91.md)
+* [Reduction in mosquito breeding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_92.md)
+* [Decreased pollen allergen exposure](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_93.md)
 
 ## List of risks in an article
 
-* [Increased occurrence of ticks and tick-borne diseases in urban locations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1653.md)
-* [Increased risk of mosquito-borne diseases from bodies of water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1656.md)
-* [Increased growth of algae and cyanobacteria in urban ponds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1657.md)
-* [Increased exposure to pollen from urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1658.md)
-* [Increased risk of zoonotic diseases from urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1655.md)
-* [Increased air pollution from emissions of volatile organic compounds by urban trees](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1651.md)
-* [Increased prevalence of human schistosomiasis resulting from dam constructions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1649.md)
-* [Arsenic exposure in bangladesh resulting from the construction of tube wells](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1650.md)
-* [Air circulation-limiting potential of tall, planted roadside vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1652.md)
-* [Increased population of urban rats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1654.md)
+* [Increased occurrence of ticks and tick-borne diseases in urban locations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1653.md)
+* [Increased risk of mosquito-borne diseases from bodies of water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1656.md)
+* [Increased growth of algae and cyanobacteria in urban ponds](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1657.md)
+* [Increased exposure to pollen from urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1658.md)
+* [Increased risk of zoonotic diseases from urban rats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1655.md)
+* [Increased air pollution from emissions of volatile organic compounds by urban trees](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1651.md)
+* [Increased prevalence of human schistosomiasis resulting from dam constructions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1649.md)
+* [Arsenic exposure in bangladesh resulting from the construction of tube wells](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1650.md)
+* [Air circulation-limiting potential of tall, planted roadside vegetation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1652.md)
+* [Increased population of urban rats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1654.md)
 
 ## This article points to following mitigation
 
-* [Increased urban biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4102.md)
-* [Rat management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4104.md)
-* [Mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4105.md)
-* [Green and blue infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4101.md)
-* [Tick control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4103.md)
-* [Algae control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4106.md)
-* [Pollen allergy prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4107.md)
+* [Increased urban biodiversity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4102.md)
+* [Rat management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4104.md)
+* [Mosquito control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4105.md)
+* [Green and blue infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4101.md)
+* [Tick control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4103.md)
+* [Algae control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4106.md)
+* [Pollen allergy prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4107.md)
 
 ## This article mentions these technologies
 

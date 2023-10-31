@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_155 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_155 
 
 # __Real-world data show that filters clean COVID-causing virus from air__
 
@@ -16,7 +16,7 @@ A study at a hospital found that air filters can help remove the virus that caus
 
 ## Referenced by other articles
 
-* [The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_232.md)
+* [The removal of airborne SARS-CoV-2 and other microbial bioaerosols by air filtration on COVID-19 surge units](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_232.md)
 
 ## Title of the article
 
@@ -28,24 +28,24 @@ Real-world data show that filters clean COVID-causing virus from air
 
 ## Benefits listed in this article
 
-* [Reduces risk of contracting sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_773.md)
-* [Reduces risk of spreading other infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_774.md)
-* [Provides alternative solution when isolation facilities are full](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_775.md)
+* [Reduces risk of contracting sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_773.md)
+* [Reduces risk of spreading other infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_774.md)
+* [Provides alternative solution when isolation facilities are full](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_775.md)
 
 ## List of risks in an article
 
-* [Spread of sars-cov-2 through the air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2144.md)
-* [Ineffective use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2146.md)
-* [Inadequate filtration of other pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2145.md)
-* [False sense of security from portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
+* [Spread of sars-cov-2 through the air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2144.md)
+* [Ineffective use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2146.md)
+* [Inadequate filtration of other pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2145.md)
+* [False sense of security from portable air filters](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2147.md)
 
 ## This article points to following mitigation
 
-* [Portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4933.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3575.md)
-* [Isolation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4934.md)
+* [Portable air filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4933.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Isolation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4934.md)
 
 ## This article mentions these technologies
 
-* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1690.md)
+* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1690.md)
 

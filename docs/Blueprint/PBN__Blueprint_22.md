@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_22 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_22 
 
 # __Drinking water safety - restoring water quality in buildings after forced closure__
 
@@ -31,35 +31,35 @@ This BP describes a general procedure for the quality of drinking water in build
 
 ## Enablers of the blueprint
 
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_2.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_5.md)
-* [Water sensors](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_7.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
+* [Water sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_7.md)
 
 ## Interventions of the blueprint
 
-* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_8.md)
-* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_9.md)
+* [Managing drinking water safety measures](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_8.md)
+* [Maintenance / decontamination of building water sytems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_9.md)
 
 ## Possible mitigations of the BP
 
-* [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2210.md)
-* [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_364.md)
-* [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_228.md)
-* [Maintenance and/or decontamination of water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4963.md)
-* [Safety measures for drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_850.md)
-* [Water and sanitary system safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4520.md)
-* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3190.md)
-* [Establish measures to control water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2936.md)
-* [Regular maintenance and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2873.md)
-* [Proper treatment and disinfection of water and wastewater systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2297.md)
+* [Enhance water treatment processes, implement effective sanitation measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2210.md)
+* [Provision of safe water, sanitation, and hygienic conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_364.md)
+* [Safety measures of drinking water](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_228.md)
+* [Maintenance and/or decontamination of water](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4963.md)
+* [Safety measures for drinking water](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_850.md)
+* [Water and sanitary system safety](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4520.md)
+* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3190.md)
+* [Establish measures to control water quality and availability](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2936.md)
+* [Regular maintenance and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2873.md)
+* [Proper treatment and disinfection of water and wastewater systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2297.md)
 
 ## Type of deployment of the blueprint
 
-* [Temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_0.md)
+* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_0.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -77,20 +77,20 @@ If thorough quality control and disinfection of the drinking water network is re
 
 ## Possible risks of the BP
 
-* [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
-* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1297.md)
-* [Water contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_129.md)
-* [Water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2013.md)
-* [Water safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3335.md)
-* [Water quality and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_612.md)
-* [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_365.md)
-* [Contaminated drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
-* [Drinking water treatment and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
-* [Pools of stagnant water in construction areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3045.md)
+* [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_90.md)
+* [Inadequate water and sanitation facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1297.md)
+* [Water contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_129.md)
+* [Water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2013.md)
+* [Water safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3335.md)
+* [Water quality and availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_612.md)
+* [Risk of inadequate wastewater management during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_365.md)
+* [Contaminated drainage systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2365.md)
+* [Drinking water treatment and distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1892.md)
+* [Pools of stagnant water in construction areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3045.md)
 
 ## Scale of the of the blueprint
 
-* [Both](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_1.md)
+* [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -98,14 +98,14 @@ PBN:BP_23
 
 ## Mode of transmission covered by the blueprint
 
-* [Water outlets taps](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_8.md)
-* [Showers](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_9.md)
-* [Toilets](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_10.md)
-* [Fountains...](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_11.md)
+* [Water outlets taps](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_8.md)
+* [Showers](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_9.md)
+* [Toilets](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_10.md)
+* [Fountains...](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_11.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

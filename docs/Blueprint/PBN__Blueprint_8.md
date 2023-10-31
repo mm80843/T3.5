@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_8 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_8 
 
 # __Public places as information points__
 
@@ -22,38 +22,38 @@ The idea is to turn high-traffic points into hubs of a networked system for comm
 
 ## Enablers of the blueprint
 
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_19.md)
-* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_31.md)
-* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_1.md)
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_0.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_31.md)
+* [DigitalPlatform](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_1.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
 
 ## Interventions of the blueprint
 
-* [Raising awareness](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_38.md)
-* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_37.md)
-* [Prevent fake news](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_36.md)
-* [Promote verified information](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_39.md)
+* [Raising awareness](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_38.md)
+* [Facilitate transparent communication](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_37.md)
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_36.md)
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_39.md)
 
 ## Possible mitigations of the BP
 
-* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3718.md)
-* [Emphasis on ict infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_240.md)
-* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5047.md)
-* [Proper management of ict infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4967.md)
-* [Targeted communication strategies, improving housing conditions, and enhancing public transport safety measures.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2425.md)
-* [Monitoring mobility metrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3900.md)
-* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_325.md)
-* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3756.md)
-* [Develop pandemic-resilient office building requirements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_605.md)
-* [Provide clear and concise information about preventive measures, communicate regularly with occupants and visitors.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2181.md)
+* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3718.md)
+* [Emphasis on ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_240.md)
+* [Ict infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5047.md)
+* [Proper management of ict infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4967.md)
+* [Targeted communication strategies, improving housing conditions, and enhancing public transport safety measures.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2425.md)
+* [Monitoring mobility metrics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3900.md)
+* [Information dissemination through public places](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_325.md)
+* [Bim building information modelling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3756.md)
+* [Develop pandemic-resilient office building requirements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_605.md)
+* [Provide clear and concise information about preventive measures, communicate regularly with occupants and visitors.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2181.md)
 
 ## Type of deployment of the blueprint
 
-* [Temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_0.md)
+* [Temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_0.md)
 
 ## GBN Phase of the blueprint
 
-* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
 
 ## Problem of the blueprint
 
@@ -72,20 +72,20 @@ Development of potential bottlenecks at the information points
 
 ## Possible risks of the BP
 
-* [Monitoring mobility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2520.md)
-* [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_267.md)
-* [Lack of access to urban green space during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_346.md)
-* [Changing behaviors and perceptions towards urban green space during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_349.md)
-* [Transmission of covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_579.md)
-* [Risk of covid-19 transmission in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_364.md)
-* [Vulnerabilities of office buildings to pandemic spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_437.md)
-* [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_272.md)
-* [Public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_718.md)
-* [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2128.md)
+* [Monitoring mobility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2520.md)
+* [Public places as informative nodes in the city](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_267.md)
+* [Lack of access to urban green space during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_346.md)
+* [Changing behaviors and perceptions towards urban green space during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_349.md)
+* [Transmission of covid-19 in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_579.md)
+* [Risk of covid-19 transmission in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_364.md)
+* [Vulnerabilities of office buildings to pandemic spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_437.md)
+* [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_272.md)
+* [Public health monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_718.md)
+* [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2128.md)
 
 ## Scale of the of the blueprint
 
-* [Gbn](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_2.md)
+* [Gbn](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_2.md)
 
 ## Title of the blueprint
 
@@ -93,12 +93,12 @@ PBN:BP_9
 
 ## Mode of transmission covered by the blueprint
 
-* [All](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_4.md)
+* [All](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_4.md)
 
 ## Type of the blueprint
 
-* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
-* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
+* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

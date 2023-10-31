@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_21 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_21 
 
 # __Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1__
 
@@ -24,28 +24,28 @@ Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1
 
 ## Benefits listed in this article
 
-* [Reduction in virus viability on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_94.md)
-* [Reduction in virus viability in indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_95.md)
+* [Reduction in virus viability on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_94.md)
+* [Reduction in virus viability in indoor air](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_95.md)
 
 ## List of risks in an article
 
-* [Aerosol transmission of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_922.md)
-* [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2248.md)
-* [Surface stability of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2247.md)
-* [Decay rate of sars-cov-2 in the environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2249.md)
-* [Similar stability to sars-cov-1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2250.md)
+* [Aerosol transmission of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_922.md)
+* [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2248.md)
+* [Surface stability of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2247.md)
+* [Decay rate of sars-cov-2 in the environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2249.md)
+* [Similar stability to sars-cov-1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2250.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
-* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3579.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_627.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4051.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Regular cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3579.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
 
 ## This article mentions these technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_904.md)
-* [Isolation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1853.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_904.md)
+* [Isolation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1853.md)
 

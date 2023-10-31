@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_12 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_12 
 
 # __The psychological impact of COVID-19 on the mental health in the general population__
 
@@ -24,45 +24,45 @@ The psychological impact of COVID-19 on the mental health in the general populat
 
 ## Benefits listed in this article
 
-* [Reduction of anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_54.md)
-* [Increased social support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_55.md)
-* [Reduction of fear](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_56.md)
-* [Increased accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_57.md)
-* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_58.md)
-* [Facilitated re-adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_59.md)
+* [Reduction of anxiety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_54.md)
+* [Increased social support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_55.md)
+* [Reduction of fear](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_56.md)
+* [Increased accessibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_57.md)
+* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_58.md)
+* [Facilitated re-adaptation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_59.md)
 
 ## List of risks in an article
 
-* [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_33.md)
-* [Pervasive anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2031.md)
-* [Inadequate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2035.md)
-* [Inadequate supplies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2034.md)
-* [Disabling loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2033.md)
-* [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2030.md)
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2037.md)
-* [Social support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2038.md)
-* [Alexithymia](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2036.md)
-* [Frustration and boredom](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2032.md)
+* [Psychological impact of quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_33.md)
+* [Pervasive anxiety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2031.md)
+* [Inadequate information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2035.md)
+* [Inadequate supplies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2034.md)
+* [Disabling loneliness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2033.md)
+* [Aspecific and uncontrolled fears related to infection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2030.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2037.md)
+* [Social support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2038.md)
+* [Alexithymia](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2036.md)
+* [Frustration and boredom](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2032.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3123.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3247.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3389.md)
-* [Protective facilities for healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4742.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Protective facilities for healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4742.md)
 
 ## This article mentions these technologies
 
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1447.md)
-* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
-* [Social networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1535.md)
-* [Helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1188.md)
-* [Forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1536.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
-* [Mass media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1538.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
-* [Logistics systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1537.md)
-* [Communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_566.md)
-* [Psychological interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1539.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
+* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
+* [Social networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1535.md)
+* [Helplines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1188.md)
+* [Forums](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1536.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
+* [Mass media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1538.md)
+* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
+* [Logistics systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1537.md)
+* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
+* [Psychological interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1539.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_38 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_38 
 
 # __Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic__
 
@@ -16,9 +16,9 @@ Buildings can have a big impact on our health. They can affect our physical, men
 
 ## Referenced by other articles
 
-* [Assessing the health and hygiene performance of apartment buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_180.md)
-* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
-* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
+* [Assessing the health and hygiene performance of apartment buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_180.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_21.md)
+* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_288.md)
 
 ## Title of the article
 
@@ -30,54 +30,54 @@ Ten questions concerning occupant health in buildings during normal operations a
 
 ## Benefits listed in this article
 
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
-* [Improved occupant productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_170.md)
-* [Improved mood and productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_171.md)
-* [Reduced stress and satisfaction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_172.md)
-* [Reduced risk of disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_173.md)
-* [Improved physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_174.md)
-* [Improved social well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_175.md)
-* [Enhanced occupant safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_176.md)
-* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
-* [Enhanced occupant experience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_178.md)
-* [Improved understanding and evaluation of health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_179.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Improved occupant productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_170.md)
+* [Improved mood and productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_171.md)
+* [Reduced stress and satisfaction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_172.md)
+* [Reduced risk of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_173.md)
+* [Improved physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_174.md)
+* [Improved social well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_175.md)
+* [Enhanced occupant safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_176.md)
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_177.md)
+* [Enhanced occupant experience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_178.md)
+* [Improved understanding and evaluation of health impacts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_179.md)
 
 ## List of risks in an article
 
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_342.md)
-* [Poor lighting and glare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1117.md)
-* [Inadequate acoustics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1118.md)
-* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
+* [Inadequate thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_342.md)
+* [Poor lighting and glare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1117.md)
+* [Inadequate acoustics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1118.md)
+* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_965.md)
 
 ## This article points to following mitigation
 
-* [Emergency preparedness planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3282.md)
-* [Active design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3278.md)
-* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
-* [Integration of iot and ai technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3280.md)
-* [Thermal comfort optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3274.md)
-* [Acoustic design planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3276.md)
-* [Water quality management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3277.md)
-* [Building layout and design for social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3279.md)
-* [Natural daylight access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3275.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1028.md)
-* [Green and sustainable design practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3281.md)
+* [Emergency preparedness planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3282.md)
+* [Active design strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3278.md)
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1017.md)
+* [Integration of iot and ai technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3280.md)
+* [Thermal comfort optimization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3274.md)
+* [Acoustic design planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3276.md)
+* [Water quality management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3277.md)
+* [Building layout and design for social interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3279.md)
+* [Natural daylight access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3275.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1028.md)
+* [Green and sustainable design practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3281.md)
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [Acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)
-* [Sound-absorbing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_198.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
-* [Filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_192.md)
-* [Sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_200.md)
-* [Regular maintenance of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_193.md)
-* [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_194.md)
-* [Individual controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_195.md)
-* [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_80.md)
-* [Building automation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_202.md)
-* [Glare-reducing fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_196.md)
-* [Adjustable lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_197.md)
-* [Partitions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_199.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Acoustic panels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_190.md)
+* [Sound-absorbing materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_198.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
+* [Filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_192.md)
+* [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_200.md)
+* [Regular maintenance of ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_193.md)
+* [Adaptive hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_194.md)
+* [Individual controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_195.md)
+* [Insulation materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_80.md)
+* [Building automation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_202.md)
+* [Glare-reducing fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_196.md)
+* [Adjustable lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_197.md)
+* [Partitions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_199.md)
 

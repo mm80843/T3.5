@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_91 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_91 
 
 # __A critical review of emerging technologies for tackling COVID ‐19 pandemic__
 
@@ -24,54 +24,54 @@ A critical review of emerging technologies for tackling COVID ‐19 pandemic
 
 ## Benefits listed in this article
 
-* [Improved identification of asymptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_444.md)
-* [Enhanced tracking and prediction of covid-19 cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_445.md)
-* [Improved remote monitoring and diagnosis of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_446.md)
-* [Enhanced surveillance and control of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_447.md)
-* [Improved training and education of healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_448.md)
+* [Improved identification of asymptomatic cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_444.md)
+* [Enhanced tracking and prediction of covid-19 cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_445.md)
+* [Improved remote monitoring and diagnosis of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_446.md)
+* [Enhanced surveillance and control of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_447.md)
+* [Improved training and education of healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_448.md)
 
 ## List of risks in an article
 
-* [Poor contact tracing process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1708.md)
-* [Confusion on covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1704.md)
-* [Weak health-care systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1707.md)
-* [Limited access to covid-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1705.md)
-* [Shortage of covid-19 testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_353.md)
-* [Lack of reliable ai forecasting models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1706.md)
+* [Poor contact tracing process](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1708.md)
+* [Confusion on covid-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1704.md)
+* [Weak health-care systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1707.md)
+* [Limited access to covid-19 data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1705.md)
+* [Shortage of covid-19 testing kits](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_353.md)
+* [Lack of reliable ai forecasting models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1706.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3332.md)
-* [5g cellular technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4199.md)
-* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4204.md)
-* [Wearing of masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4193.md)
-* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_86.md)
-* [Temperature testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4192.md)
-* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3771.md)
-* [Gis tools for mapping and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4196.md)
-* [Iomt applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4198.md)
-* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4195.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3284.md)
-* [Rapid diagnosis techniques](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4203.md)
-* [Hand sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4191.md)
-* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4200.md)
-* [Self-quarantine and self-screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4202.md)
-* [Real-time updates and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4205.md)
-* [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4201.md)
-* [Blockchain for data security](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4197.md)
-* [Ai algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4194.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [5g cellular technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4199.md)
+* [Vaccine development and drug discovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4204.md)
+* [Wearing of masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4193.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_86.md)
+* [Temperature testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4192.md)
+* [Big data analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3771.md)
+* [Gis tools for mapping and tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4196.md)
+* [Iomt applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4198.md)
+* [Virtual reality technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4195.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Rapid diagnosis techniques](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4203.md)
+* [Hand sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4191.md)
+* [Immersive virtual reality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4200.md)
+* [Self-quarantine and self-screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4202.md)
+* [Real-time updates and communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4205.md)
+* [Telemedicine and remote consultation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4201.md)
+* [Blockchain for data security](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4197.md)
+* [Ai algorithms for pattern discovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4194.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1082.md)
-* [Logistics providers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1083.md)
-* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
-* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1086.md)
-* [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1085.md)
-* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_182.md)
-* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
-* [Data standardization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1084.md)
-* [Collaborative networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1081.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Manufacturing companies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1082.md)
+* [Logistics providers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1083.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1086.md)
+* [Data quality assessment tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1085.md)
+* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_182.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Data standardization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1084.md)
+* [Collaborative networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1081.md)
 

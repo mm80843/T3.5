@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_120 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_120 
 
 # __COVID-19 Experience Transforming the Protective Environment of Office Buildings and Spaces__
 
@@ -16,13 +16,13 @@ During the COVID-19 pandemic, many people got sick and many people died. It was 
 
 ## Referenced by other articles
 
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
-* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
-* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
-* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
-* [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_284.md)
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_298.md)
+* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_288.md)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_67.md)
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_38.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_21.md)
+* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_263.md)
+* [COVID-19 Pandemic: Prevention and Protection Measures to Be Adopted at the Workplace](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_284.md)
 
 ## Title of the article
 
@@ -34,44 +34,44 @@ COVID-19 Experience Transforming the Protective Environment of Office Buildings 
 
 ## Benefits listed in this article
 
-* [Prevent community transmission and protect national economies by maintaining open and safe workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_602.md)
-* [Minimize infection spreading propensity and create a safe working environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_603.md)
-* [Reduce the risk of infection and transmission in office spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_604.md)
-* [Ensure the sustainability of workplaces during the pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_605.md)
-* [Minimize airborne transmission of covid-19 in workplaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_606.md)
+* [Prevent community transmission and protect national economies by maintaining open and safe workplaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_602.md)
+* [Minimize infection spreading propensity and create a safe working environment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_603.md)
+* [Reduce the risk of infection and transmission in office spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_604.md)
+* [Ensure the sustainability of workplaces during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_605.md)
+* [Minimize airborne transmission of covid-19 in workplaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_606.md)
 
 ## List of risks in an article
 
-* [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1883.md)
-* [Surface transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1882.md)
-* [Close contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1881.md)
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
+* [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1883.md)
+* [Surface transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1882.md)
+* [Close contact transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1881.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
 
 ## This article points to following mitigation
 
-* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3919.md)
-* [Workplace safety measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4521.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_627.md)
-* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4519.md)
-* [Water and sanitary system safety](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4520.md)
-* [Business continuity guideline](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4523.md)
-* [Education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4524.md)
-* [Distancing and building layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4518.md)
-* [Emergency plan development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4522.md)
+* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3919.md)
+* [Workplace safety measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4521.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4519.md)
+* [Water and sanitary system safety](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4520.md)
+* [Business continuity guideline](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4523.md)
+* [Education and communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4524.md)
+* [Distancing and building layout](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4518.md)
+* [Emergency plan development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4522.md)
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
-* [Remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
-* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_660.md)
-* [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
-* [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_773.md)
-* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1290.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
-* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1150.md)
-* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1289.md)
-* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1288.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
+* [Improved hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_660.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Occupancy tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_773.md)
+* [Air quality monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1290.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1150.md)
+* [Touch-free technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1289.md)
+* [Regular cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1288.md)
 

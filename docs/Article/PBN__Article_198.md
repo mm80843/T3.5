@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_198 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_198 
 
 # __Green in times of COVID-19: urban green space relevance during the COVID-19 pandemic in Buenos Aires City__
 
@@ -16,8 +16,8 @@ During the COVID-19 pandemic, people in Buenos Aires City were told to stay at h
 
 ## Referenced by other articles
 
-* [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
-* [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_90.md)
+* [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_12.md)
+* [Effects of the COVID-19 pandemic on the use and perceptions of urban green space: An international exploratory study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_90.md)
 
 ## Title of the article
 
@@ -29,40 +29,40 @@ Green in times of COVID-19: urban green space relevance during the COVID-19 pand
 
 ## Benefits listed in this article
 
-* [Improved accessibility to ugs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_961.md)
-* [Transforming the perception of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_962.md)
-* [Enhanced access to integrated ugs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_963.md)
-* [Improved integration of ugs in urban design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_964.md)
-* [Increased recognition of ugs importance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_965.md)
+* [Improved accessibility to ugs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_961.md)
+* [Transforming the perception of ugs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_962.md)
+* [Enhanced access to integrated ugs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_963.md)
+* [Improved integration of ugs in urban design](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_964.md)
+* [Increased recognition of ugs importance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_965.md)
 
 ## List of risks in an article
 
-* [Lack of ugs density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1676.md)
-* [Limited accessibility to ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1677.md)
-* [Uneven distribution of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1675.md)
-* [Inadequate maintenance of ugs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1679.md)
-* [Lack of ugs during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1678.md)
+* [Lack of ugs density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1676.md)
+* [Limited accessibility to ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1677.md)
+* [Uneven distribution of ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1675.md)
+* [Inadequate maintenance of ugs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1679.md)
+* [Lack of ugs during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1678.md)
 
 ## This article points to following mitigation
 
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4157.md)
-* [Conservation and promotion of urban green spaces as part of public policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4164.md)
-* [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4158.md)
-* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4161.md)
-* [Conservation of existing tree specimens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4159.md)
-* [Participative design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4160.md)
-* [Homogeneous distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4162.md)
-* [Integration of social interaction and secluded relaxation in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4163.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4157.md)
+* [Conservation and promotion of urban green spaces as part of public policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4164.md)
+* [Incorporation of green areas in available spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4158.md)
+* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4161.md)
+* [Conservation of existing tree specimens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4159.md)
+* [Participative design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4160.md)
+* [Homogeneous distribution of urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4162.md)
+* [Integration of social interaction and secluded relaxation in urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4163.md)
 
 ## This article mentions these technologies
 
-* [Closed streets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1038.md)
-* [Geographic information systems gis can help identify areas with low ugs access and guide planning efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1032.md)
-* [Urban greening technologies such as vertical gardens and rooftop gardens can increase ugs density in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1033.md)
-* [Accessible paths](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1034.md)
-* [Ramps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1035.md)
-* [Facilities in ugs can improve accessibility for people with disabilities. public transportation options can improve access for those without personal vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1036.md)
-* [Temporary parks and green spaces can be created in parking lots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1037.md)
-* [Or vacant lots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1039.md)
-* [Use digital management systems to track maintenance tasks and ensure timely completion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1040.md)
+* [Closed streets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1038.md)
+* [Geographic information systems gis can help identify areas with low ugs access and guide planning efforts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1032.md)
+* [Urban greening technologies such as vertical gardens and rooftop gardens can increase ugs density in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1033.md)
+* [Accessible paths](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1034.md)
+* [Ramps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1035.md)
+* [Facilities in ugs can improve accessibility for people with disabilities. public transportation options can improve access for those without personal vehicles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1036.md)
+* [Temporary parks and green spaces can be created in parking lots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1037.md)
+* [Or vacant lots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1039.md)
+* [Use digital management systems to track maintenance tasks and ensure timely completion](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1040.md)
 

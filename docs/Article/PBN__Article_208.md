@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_208 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_208 
 
 # __Data capture and sharing in the COVID-19 pandemic: a cause for concern__
 
@@ -24,52 +24,52 @@ Data capture and sharing in the COVID-19 pandemic: a cause for concern
 
 ## Benefits listed in this article
 
-* [Increased collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1006.md)
-* [Enhanced data quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1004.md)
-* [Enhanced research effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1005.md)
-* [Enhanced data comparability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1007.md)
+* [Increased collaboration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1006.md)
+* [Enhanced data quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1004.md)
+* [Enhanced research effect](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1005.md)
+* [Enhanced data comparability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1007.md)
 
 ## List of risks in an article
 
-* [Limited data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1330.md)
-* [Data capture challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1328.md)
-* [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1331.md)
-* [Incomplete data capture](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1329.md)
-* [Lack of standards for publication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1332.md)
+* [Limited data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1330.md)
+* [Data capture challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1328.md)
+* [Health inequities in data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1331.md)
+* [Incomplete data capture](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1329.md)
+* [Lack of standards for publication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1332.md)
 
 ## This article points to following mitigation
 
-* [Timely data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3603.md)
-* [Enforcing data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3609.md)
-* [Centralised primary data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3604.md)
-* [Common data infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3601.md)
-* [Sustainable and equitable tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3611.md)
-* [Real-world evidence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3597.md)
-* [Open research publishing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3605.md)
-* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3598.md)
-* [Incremental gains in data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3608.md)
-* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3595.md)
-* [Real-world evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3596.md)
-* [Pragmatic clinical trials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3606.md)
-* [Shareable data formats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3610.md)
-* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3602.md)
-* [Open and trustworthy international research partnership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3599.md)
-* [Commercial real-world data services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3600.md)
-* [Address health inequities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3607.md)
+* [Timely data transfer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3603.md)
+* [Enforcing data sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3609.md)
+* [Centralised primary data sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3604.md)
+* [Common data infrastructures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3601.md)
+* [Sustainable and equitable tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3611.md)
+* [Real-world evidence research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3597.md)
+* [Open research publishing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3605.md)
+* [Data sharing for secondary use](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3598.md)
+* [Incremental gains in data sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3608.md)
+* [Timely and high-quality evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3595.md)
+* [Real-world evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3596.md)
+* [Pragmatic clinical trials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3606.md)
+* [Shareable data formats](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3610.md)
+* [Reproducible analytics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3602.md)
+* [Open and trustworthy international research partnership](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3599.md)
+* [Commercial real-world data services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3600.md)
+* [Address health inequities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3607.md)
 
 ## This article mentions these technologies
 
-* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
-* [Data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
-* [Guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_521.md)
-* [Data governance agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_515.md)
-* [Reporting standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_519.md)
-* [Audit and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_516.md)
-* [Standardized data recording structures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_518.md)
-* [Electronic health record systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_513.md)
-* [Interoperability solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_511.md)
-* [International classification of diseases icd codes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_514.md)
-* [Inclusive data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_517.md)
-* [Checklists](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_520.md)
-* [Frameworks for evaluation of real-world evidence research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_522.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Data management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_512.md)
+* [Guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_521.md)
+* [Data governance agreements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_515.md)
+* [Reporting standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_519.md)
+* [Audit and enforcement mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_516.md)
+* [Standardized data recording structures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_518.md)
+* [Electronic health record systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_513.md)
+* [Interoperability solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_511.md)
+* [International classification of diseases icd codes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_514.md)
+* [Inclusive data sharing initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_517.md)
+* [Checklists](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_520.md)
+* [Frameworks for evaluation of real-world evidence research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_522.md)
 

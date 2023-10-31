@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_245 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_245 
 
 # __Contributions to the mitigation of the COVID-19 pandemic__
 
@@ -24,34 +24,34 @@ Contributions to the mitigation of the COVID-19 pandemic
 
 ## Benefits listed in this article
 
-* [Early detection of waning efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1183.md)
-* [Reduced risk of reinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1184.md)
-* [Tailored protection for symptomatic and asymptomatic patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1185.md)
-* [Enhanced surveillance and detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1186.md)
+* [Early detection of waning efficacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1183.md)
+* [Reduced risk of reinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1184.md)
+* [Tailored protection for symptomatic and asymptomatic patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1185.md)
+* [Enhanced surveillance and detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1186.md)
 
 ## List of risks in an article
 
-* [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1888.md)
-* [Variation in protection against re-infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1891.md)
-* [Underreporting of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_586.md)
-* [Disease severity in re-infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1890.md)
-* [Missing vaccination data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1889.md)
+* [Inadequate vaccine efficacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1888.md)
+* [Variation in protection against re-infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1891.md)
+* [Underreporting of infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_586.md)
+* [Disease severity in re-infected patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1890.md)
+* [Missing vaccination data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1889.md)
 
 ## This article points to following mitigation
 
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3329.md)
-* [Evaluation of symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4532.md)
-* [Preventive and therapeutic measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4533.md)
-* [Lower testing frequency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4531.md)
-* [Seroprevalence surveys](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4530.md)
-* [Data completion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4529.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Evaluation of symptoms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4532.md)
+* [Preventive and therapeutic measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4533.md)
+* [Lower testing frequency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4531.md)
+* [Seroprevalence surveys](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4530.md)
+* [Data completion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4529.md)
 
 ## This article mentions these technologies
 
-* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1307.md)
-* [Serological testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1308.md)
-* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1305.md)
-* [Research and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1310.md)
-* [Comparative studies and data analysis technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1309.md)
-* [Data completion and vaccination tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1306.md)
+* [Diagnostic testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1307.md)
+* [Serological testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1308.md)
+* [Vaccine development and improvement technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1305.md)
+* [Research and data analysis technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1310.md)
+* [Comparative studies and data analysis technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1309.md)
+* [Data completion and vaccination tracking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1306.md)
 

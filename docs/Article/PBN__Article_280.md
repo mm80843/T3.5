@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_280 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_280 
 
 # __On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management__
 
@@ -16,7 +16,7 @@ The Coronavirus outbreak, also known as COVID-19, started in China and has cause
 
 ## Referenced by other articles
 
-* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_15.md)
+* [The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_15.md)
 
 ## Title of the article
 
@@ -28,32 +28,32 @@ On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Dat
 
 ## Benefits listed in this article
 
-* [Improved early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1314.md)
-* [Enhanced urban management decisions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1315.md)
-* [Increased processing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1316.md)
-* [Improved cross-disciplinary protocols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1317.md)
-* [Enhanced economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1318.md)
+* [Improved early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1314.md)
+* [Enhanced urban management decisions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1315.md)
+* [Increased processing capabilities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1316.md)
+* [Improved cross-disciplinary protocols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1317.md)
+* [Enhanced economic stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1318.md)
 
 ## List of risks in an article
 
-* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_25.md)
-* [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
-* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
-* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_810.md)
-* [Fragmented information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1068.md)
+* [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_25.md)
+* [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_723.md)
+* [Lack of data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_810.md)
+* [Fragmented information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1068.md)
 
 ## This article points to following mitigation
 
-* [Anonymization of data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3205.md)
-* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3206.md)
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3203.md)
-* [Regulatory practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3208.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3204.md)
-* [Trust and transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3207.md)
+* [Anonymization of data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3205.md)
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3206.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3203.md)
+* [Regulatory practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3208.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3204.md)
+* [Trust and transparency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3207.md)
 
 ## This article mentions these technologies
 
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
-* [Quantum cryptography](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_95.md)
-* [Iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_96.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
+* [Quantum cryptography](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_95.md)
+* [Iot devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_96.md)
 

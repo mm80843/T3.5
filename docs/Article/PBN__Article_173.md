@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_173 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_173 
 
 # __Rise of the preprint: how rapid data sharing during COVID-19 has changed science forever__
 
@@ -24,36 +24,36 @@ Rise of the preprint: how rapid data sharing during COVID-19 has changed science
 
 ## Benefits listed in this article
 
-* [Enhanced scientific integrity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_855.md)
-* [Accurate and reliable information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_856.md)
-* [Prevention of misleading treatment strategies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_857.md)
-* [Improved accuracy of meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_858.md)
-* [Enhanced quality control of scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_859.md)
+* [Enhanced scientific integrity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_855.md)
+* [Accurate and reliable information dissemination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_856.md)
+* [Prevention of misleading treatment strategies](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_857.md)
+* [Improved accuracy of meta-analyses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_858.md)
+* [Enhanced quality control of scientific research](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_859.md)
 
 ## List of risks in an article
 
-* [Peer-review failures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2306.md)
-* [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_615.md)
-* [Amplification of flawed data through meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2307.md)
-* [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2304.md)
-* [Misuse of preprints by media and bad-faith actors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2305.md)
+* [Peer-review failures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2306.md)
+* [Spread of fraudulent studies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_615.md)
+* [Amplification of flawed data through meta-analyses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2307.md)
+* [Influence of preprints on public health decisions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2304.md)
+* [Misuse of preprints by media and bad-faith actors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2305.md)
 
 ## This article points to following mitigation
 
-* [Full data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5145.md)
-* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5144.md)
-* [Making modeling public](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5147.md)
-* [Improved peer-review process](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5148.md)
-* [Publishing registered reports](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5146.md)
+* [Full data sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5145.md)
+* [Preprint screening measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5144.md)
+* [Making modeling public](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5147.md)
+* [Improved peer-review process](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5148.md)
+* [Publishing registered reports](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5146.md)
 
 ## This article mentions these technologies
 
-* [Transparency](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1925.md)
-* [Improved screening measures on preprint servers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1920.md)
-* [Responsible reporting by media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1922.md)
-* [Scientific integrity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1926.md)
-* [Public education on reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1923.md)
-* [Improved peer-review processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1924.md)
-* [Improved evaluation and synthesis of preprint data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1921.md)
-* [Improved evaluation and selection criteria for meta-analyses](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1927.md)
+* [Transparency](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1925.md)
+* [Improved screening measures on preprint servers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1920.md)
+* [Responsible reporting by media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1922.md)
+* [Scientific integrity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1926.md)
+* [Public education on reliable sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1923.md)
+* [Improved peer-review processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1924.md)
+* [Improved evaluation and synthesis of preprint data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1921.md)
+* [Improved evaluation and selection criteria for meta-analyses](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1927.md)
 

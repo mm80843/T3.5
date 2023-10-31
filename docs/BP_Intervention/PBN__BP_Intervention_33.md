@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) >> Individual ID:PBN__BP_Intervention_33 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) >> Individual ID:PBN__BP_Intervention_33 
 
 # __Support recovery of sectors via remote work__
 
@@ -12,5 +12,5 @@ Support recovery of sectors via remote work
 
 ## Category to which it belongs
 
-* [Enable remote sector rehabilitation assistance.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_182.md)
+* [Enable remote sector rehabilitation assistance.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_182.md)
 

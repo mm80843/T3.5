@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_140 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_140 
 
 # __The Role of Architecture and Urbanism in Preventing Pandemics__
 
@@ -22,9 +22,9 @@ Overall, by incorporating these measures into architecture and urban planning, w
 
 ## Referenced by other articles
 
-* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
-* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_261.md)
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_21.md)
+* [The Impact of COVID-19 on Public Space: A Review of the Emerging Questions](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_261.md)
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_298.md)
 
 ## Title of the article
 
@@ -36,51 +36,51 @@ The Role of Architecture and Urbanism in Preventing Pandemics
 
 ## Benefits listed in this article
 
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
-* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
-* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_436.md)
-* [Increased accessibility and reduced transportation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_706.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_207.md)
+* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
+* [Increased accessibility and reduced transportation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_706.md)
 
 ## List of risks in an article
 
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-* [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
-* [Inadequate public space design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1593.md)
-* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1591.md)
-* [High population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_620.md)
-* [Lack of access to green areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1592.md)
-* [Lack of effective pharmaceutical response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1589.md)
-* [Insufficient non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1590.md)
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
+* [Air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_148.md)
+* [Inadequate public space design](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1593.md)
+* [Lack of international strategy including built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1591.md)
+* [High population density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_620.md)
+* [Lack of access to green areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1592.md)
+* [Lack of effective pharmaceutical response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1589.md)
+* [Insufficient non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1590.md)
 
 ## This article points to following mitigation
 
-* [Active transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4021.md)
-* [Proximity shopping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4020.md)
-* [Mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4022.md)
-* [Teleworking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3531.md)
-* [Public space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4018.md)
-* [Green space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4019.md)
-* [Ventilation control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4015.md)
-* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4023.md)
-* [Middle density housing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4017.md)
-* [Humidification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4016.md)
+* [Active transportation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4021.md)
+* [Proximity shopping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4020.md)
+* [Mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4022.md)
+* [Teleworking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3531.md)
+* [Public space design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4018.md)
+* [Green space design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4019.md)
+* [Ventilation control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4015.md)
+* [Uv disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4023.md)
+* [Middle density housing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4017.md)
+* [Humidification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4016.md)
 
 ## This article mentions these technologies
 
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_353.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_672.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [Humidifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_923.md)
-* [Zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_658.md)
-* [Government regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_917.md)
-* [Urban design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_922.md)
-* [Landscape architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_121.md)
-* [Landscaping techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_921.md)
-* [Collaboration among experts from various fields](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_919.md)
-* [Vaccine development technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_915.md)
-* [International coordination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_918.md)
-* [Drug resistance surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_916.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Renewable energy technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_353.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Humidifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_923.md)
+* [Zoning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_658.md)
+* [Government regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_917.md)
+* [Urban design principles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_922.md)
+* [Landscape architecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_121.md)
+* [Landscaping techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_921.md)
+* [Collaboration among experts from various fields](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_919.md)
+* [Vaccine development technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_915.md)
+* [International coordination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_918.md)
+* [Drug resistance surveillance technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_916.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_289 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_289 
 
 # __Validity of energy social research during and after COVID-19: challenges, considerations, and responses__
 
@@ -24,32 +24,32 @@ Validity of energy social research during and after COVID-19: challenges, consid
 
 ## Benefits listed in this article
 
-* [Enhanced validity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1346.md)
-* [Improved research design](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1347.md)
-* [Longitudinal insights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1348.md)
-* [Enhanced data collection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1349.md)
-* [Enhanced research practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1350.md)
+* [Enhanced validity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1346.md)
+* [Improved research design](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1347.md)
+* [Longitudinal insights](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1348.md)
+* [Enhanced data collection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1349.md)
+* [Enhanced research practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1350.md)
 
 ## List of risks in an article
 
-* [Data collection limitations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1377.md)
-* [Confounding variables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1376.md)
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
-* [Loss of validity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1375.md)
-* [Contextual factors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1378.md)
+* [Data collection limitations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1377.md)
+* [Confounding variables](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1376.md)
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_163.md)
+* [Loss of validity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1375.md)
+* [Contextual factors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1378.md)
 
 ## This article points to following mitigation
 
-* [Using multiple data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3680.md)
-* [Longitudinal elements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3678.md)
-* [Adjusting research design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3675.md)
-* [Replicating previous research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3679.md)
-* [Capturing extra relevant data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3674.md)
-* [Reporting study conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3676.md)
-* [Considering additional variables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3677.md)
-* [Considering context in interpretation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3681.md)
-* [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3682.md)
-* [Address biases in knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3683.md)
+* [Using multiple data collection methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3680.md)
+* [Longitudinal elements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3678.md)
+* [Adjusting research design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3675.md)
+* [Replicating previous research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3679.md)
+* [Capturing extra relevant data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3674.md)
+* [Reporting study conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3676.md)
+* [Considering additional variables](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3677.md)
+* [Considering context in interpretation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3681.md)
+* [Collaboration and convergence research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3682.md)
+* [Address biases in knowledge representation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3683.md)
 
 ## This article mentions these technologies
 

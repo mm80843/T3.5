@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_192 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_192 
 
 # __Wearable technology for early detection of COVID-19: A systematic scoping review__
 
@@ -16,7 +16,7 @@ Scientists are studying wearable technology to see if it can help detect COVID-1
 
 ## Referenced by other articles
 
-* [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_99.md)
+* [The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_99.md)
 
 ## Title of the article
 
@@ -28,30 +28,30 @@ Wearable technology for early detection of COVID-19: A systematic scoping review
 
 ## Benefits listed in this article
 
-* [Early detection of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_937.md)
-* [Monitoring vaccine efficacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_938.md)
-* [Early detection of reinfections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_939.md)
-* [Quick, non-invasive testing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_940.md)
-* [Objective symptom monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_941.md)
+* [Early detection of infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_937.md)
+* [Monitoring vaccine efficacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_938.md)
+* [Early detection of reinfections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_939.md)
+* [Quick, non-invasive testing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_940.md)
+* [Objective symptom monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_941.md)
 
 ## List of risks in an article
 
-* [Inconsistencies in accuracy measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1253.md)
-* [Underrepresentation of geographic regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1254.md)
-* [Inaccurate reference tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1250.md)
-* [Overfitting of anomaly detection models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1251.md)
-* [Limited generalizability of adms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1252.md)
+* [Inconsistencies in accuracy measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1253.md)
+* [Underrepresentation of geographic regions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1254.md)
+* [Inaccurate reference tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1250.md)
+* [Overfitting of anomaly detection models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1251.md)
+* [Limited generalizability of adms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1252.md)
 
 ## This article points to following mitigation
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3332.md)
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
-* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3438.md)
-* [Routine testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3466.md)
-* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3467.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_498.md)
+* [Symptom screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3438.md)
+* [Routine testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3466.md)
+* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3467.md)
 
 ## This article mentions these technologies
 
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
-* [Statistical analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_357.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Statistical analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_357.md)
 

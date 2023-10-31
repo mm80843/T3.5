@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_244 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_244 
 
 # __Home garden use during COVID-19: Associations with physical and mental wellbeing in older adults__
 
@@ -16,9 +16,9 @@ During the COVID-19 pandemic, many people had to stay at home and couldn't go to
 
 ## Referenced by other articles
 
-* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_167.md)
-* [Gardening is beneficial for health: A meta-analysis](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_338.md)
-* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
+* [Mental Health and the Covid-19 Pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_167.md)
+* [Gardening is beneficial for health: A meta-analysis](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_338.md)
+* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_50.md)
 
 ## Title of the article
 
@@ -30,51 +30,51 @@ Home garden use during COVID-19: Associations with physical and mental wellbeing
 
 ## Benefits listed in this article
 
-* [Improved physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_174.md)
-* [Improved emotional and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1179.md)
-* [Improved sleep quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1180.md)
-* [Improved overall wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1181.md)
-* [Better social ties and community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1182.md)
+* [Improved physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_174.md)
+* [Improved emotional and mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1179.md)
+* [Improved sleep quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1180.md)
+* [Improved overall wellbeing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1181.md)
+* [Better social ties and community engagement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1182.md)
 
 ## List of risks in an article
 
-* [Lack of gardening/activity in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1283.md)
-* [Isolation and loneliness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1284.md)
-* [Limited access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1282.md)
-* [Lack of community connections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1286.md)
-* [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1287.md)
-* [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1285.md)
+* [Lack of gardening/activity in green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1283.md)
+* [Isolation and loneliness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1284.md)
+* [Limited access to green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1282.md)
+* [Lack of community connections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1286.md)
+* [Financial constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1287.md)
+* [Lack of sunlight and fresh air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1285.md)
 
 ## This article points to following mitigation
 
-* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3529.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
-* [Public green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3526.md)
-* [Physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3528.md)
-* [Interaction with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3527.md)
-* [Access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3161.md)
-* [Domestic gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3525.md)
-* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3494.md)
-* [Social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3530.md)
+* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3529.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_863.md)
+* [Public green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3526.md)
+* [Physical exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3528.md)
+* [Interaction with nature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3527.md)
+* [Access to green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3161.md)
+* [Domestic gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3525.md)
+* [Self-isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3494.md)
+* [Social interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3530.md)
 
 ## This article mentions these technologies
 
-* [Video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_426.md)
-* [Helplines and hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_421.md)
-* [Social networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_424.md)
-* [Virtual classes and workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_417.md)
-* [Natural lighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_422.md)
-* [Video conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_419.md)
-* [Air purifiers and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_423.md)
-* [Financial aid apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_427.md)
-* [Online tutorials and guides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_416.md)
-* [Signs and information boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_415.md)
-* [Mobile apps to book time slots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_413.md)
-* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_414.md)
-* [Online plant stores](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_418.md)
-* [Social media groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_420.md)
-* [Online community forums](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_425.md)
-* [Job search platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_428.md)
-* [Online financial education resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_429.md)
+* [Video conferencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
+* [Helplines and hotlines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_421.md)
+* [Social networking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_424.md)
+* [Virtual classes and workshops](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_417.md)
+* [Natural lighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_422.md)
+* [Video conferencing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_419.md)
+* [Air purifiers and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_423.md)
+* [Financial aid apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_427.md)
+* [Online tutorials and guides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_416.md)
+* [Signs and information boards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_415.md)
+* [Mobile apps to book time slots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_413.md)
+* [Drones for monitoring overcrowding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_414.md)
+* [Online plant stores](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_418.md)
+* [Social media groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_420.md)
+* [Online community forums](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_425.md)
+* [Job search platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_428.md)
+* [Online financial education resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_429.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_85 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_85 
 
 # __COVID-19: Lessons for an Urban(izing) World__
 
@@ -24,52 +24,52 @@ COVID-19: Lessons for an Urban(izing) World
 
 ## Benefits listed in this article
 
-* [Improved crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_420.md)
-* [Greater community building](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_421.md)
-* [Improved urban equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_422.md)
-* [Reduced transport-related emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_423.md)
-* [Enhanced digital change](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_424.md)
+* [Improved crisis-information repositories](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_420.md)
+* [Greater community building](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_421.md)
+* [Improved urban equality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_422.md)
+* [Reduced transport-related emissions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_423.md)
+* [Enhanced digital change](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_424.md)
 
 ## List of risks in an article
 
-* [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1022.md)
-* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1024.md)
-* [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1025.md)
-* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
-* [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1023.md)
+* [Overcrowding in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1022.md)
+* [Lack of urban governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1024.md)
+* [Insufficient healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1025.md)
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1021.md)
+* [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1023.md)
 
 ## This article points to following mitigation
 
-* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3134.md)
-* [Mobility limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3145.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
-* [Quarantines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3132.md)
-* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3139.md)
-* [Informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3138.md)
-* [Testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3135.md)
-* [Housing evictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3140.md)
-* [Crisis-information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3141.md)
-* [Digital change](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3146.md)
-* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3142.md)
-* [High-rise density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3136.md)
-* [Rethinking, replanning, redesigning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3148.md)
-* [Retrofitting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3147.md)
-* [App-based trackers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3133.md)
-* [Temporary emergency measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3144.md)
-* [Edge expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3137.md)
-* [Mutual aid groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3143.md)
+* [Temporary social-distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3134.md)
+* [Mobility limitations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3145.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Quarantines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3132.md)
+* [Access to adequate sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3139.md)
+* [Informal settlements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3138.md)
+* [Testing facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3135.md)
+* [Housing evictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3140.md)
+* [Crisis-information repositories](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3141.md)
+* [Digital change](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3146.md)
+* [Health and prevention measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3142.md)
+* [High-rise density](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3136.md)
+* [Rethinking, replanning, redesigning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3148.md)
+* [Retrofitting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3147.md)
+* [App-based trackers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3133.md)
+* [Temporary emergency measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3144.md)
+* [Edge expansion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3137.md)
+* [Mutual aid groups](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3143.md)
 
 ## This article mentions these technologies
 
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_12.md)
-* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_21.md)
-* [Smart city technologies for urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_13.md)
-* [Remote monitoring and management of resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_14.md)
-* [Digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_15.md)
-* [Data-driven decision making](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_16.md)
-* [Digital platforms for urban governance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_17.md)
-* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_18.md)
-* [Mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_20.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Remote healthcare services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12.md)
+* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_21.md)
+* [Smart city technologies for urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_13.md)
+* [Remote monitoring and management of resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_14.md)
+* [Digital platforms for resource allocation and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_15.md)
+* [Data-driven decision making](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_16.md)
+* [Digital platforms for urban governance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_17.md)
+* [Data analytics and visualization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_18.md)
+* [Mobile clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20.md)
 

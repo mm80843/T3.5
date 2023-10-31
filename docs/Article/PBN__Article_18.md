@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_18 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_18 
 
 # __The impact of physical activity on psychological health during Covid-19 pandemic in Italy__
 
@@ -24,38 +24,38 @@ The impact of physical activity on psychological health during Covid-19 pandemic
 
 ## Benefits listed in this article
 
-* [Improved psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_84.md)
+* [Improved psychological well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_84.md)
 
 ## List of risks in an article
 
-* [Increased risk of covid-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1701.md)
-* [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
-* [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1702.md)
-* [Negative impact of prolonged self-isolation on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1700.md)
-* [Loss of family or friends and economic well-being due to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1703.md)
+* [Increased risk of covid-19 transmission in crowded public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1701.md)
+* [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1699.md)
+* [Lack of access to regular sporting or exercise routines](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1702.md)
+* [Negative impact of prolonged self-isolation on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1700.md)
+* [Loss of family or friends and economic well-being due to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1703.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_427.md)
-* [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_73.md)
-* [Regular exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4190.md)
-* [Home isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4189.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Regular physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_73.md)
+* [Regular exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4190.md)
+* [Home isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4189.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
-* [Home workout apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1076.md)
-* [Online exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1073.md)
-* [Online exercise videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1077.md)
-* [Mobile fitness applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1072.md)
-* [Virtual personal trainers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1074.md)
-* [Virtual support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_223.md)
-* [Mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1078.md)
-* [Teletherapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_607.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1080.md)
-* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_248.md)
-* [Crowd monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1075.md)
-* [Unemployment benefits systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1079.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
+* [Home workout apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1076.md)
+* [Online exercise classes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1073.md)
+* [Online exercise videos](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1077.md)
+* [Mobile fitness applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1072.md)
+* [Virtual personal trainers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1074.md)
+* [Virtual support groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_223.md)
+* [Mental health services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1078.md)
+* [Teletherapy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_607.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1080.md)
+* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_248.md)
+* [Crowd monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1075.md)
+* [Unemployment benefits systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1079.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_13 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_13 
 
 # __Building adaptation for flexible use__
 
@@ -20,41 +20,41 @@ COVID-19 pandemic has shown the importance of converting certain spaces into hea
 
 ## Enablers of the blueprint
 
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_5.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_16.md)
-* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_9.md)
-* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_27.md)
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_21.md)
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_0.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_27.md)
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_21.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
 
 ## Interventions of the blueprint
 
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_15.md)
-* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_28.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_20.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_32.md)
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_15.md)
+* [Introduce "multi-use" / modular designs](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_28.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_20.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_32.md)
 
 ## Possible mitigations of the BP
 
-* [Sustainable building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4668.md)
-* [Improved building environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_276.md)
-* [Healthy building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3240.md)
-* [Common building spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5042.md)
-* [Multi-functional buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3727.md)
-* [Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_800.md)
-* [Incorporate proper building design strategies for ventilation, airflow, and social distancing. design buildings with adequate space for ventilation and airflow.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2309.md)
-* [Retrofitting existing buildings with containment space, additional wet cells, and compartmentalization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_274.md)
-* [Develop pandemic-resilient office building requirements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_605.md)
-* [Involvement of architectural and urban institutions in addressing pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3221.md)
+* [Sustainable building design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4668.md)
+* [Improved building environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_276.md)
+* [Healthy building design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3240.md)
+* [Common building spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5042.md)
+* [Multi-functional buildings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3727.md)
+* [Flexibility, adaptability, sharing, and crowding of living spaces, and compliant functions located within the buildings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_800.md)
+* [Incorporate proper building design strategies for ventilation, airflow, and social distancing. design buildings with adequate space for ventilation and airflow.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2309.md)
+* [Retrofitting existing buildings with containment space, additional wet cells, and compartmentalization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_274.md)
+* [Develop pandemic-resilient office building requirements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_605.md)
+* [Involvement of architectural and urban institutions in addressing pandemics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3221.md)
 
 ## Type of deployment of the blueprint
 
-* [Only to used when needed](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_3.md)
+* [Only to used when needed](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_3.md)
 
 ## GBN Phase of the blueprint
 
-* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
-* [Dismantling](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_3.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
+* [Dismantling](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_3.md)
 
 ## Problem of the blueprint
 
@@ -70,20 +70,20 @@ The limitations and restrictions of this solution also stem from its innovative 
 
 ## Possible risks of the BP
 
-* [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
-* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1672.md)
-* [Deficiencies in office buildings and layouts in regards to infection spreading propensity during the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_435.md)
-* [Vulnerabilities of office buildings to pandemic spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_437.md)
-* [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1550.md)
-* [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2535.md)
-* [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_797.md)
-* [Environmental factors in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_873.md)
-* [Challenges in adaptation of building envelope](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_790.md)
-* [Inadequate building design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1729.md)
+* [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_90.md)
+* [Lack of green spaces in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1672.md)
+* [Deficiencies in office buildings and layouts in regards to infection spreading propensity during the covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_435.md)
+* [Vulnerabilities of office buildings to pandemic spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_437.md)
+* [Environmental impacts of construction during pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1550.md)
+* [Resistance to new building systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2535.md)
+* [Lack of focus on flexible design solutions for new buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_797.md)
+* [Environmental factors in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_873.md)
+* [Challenges in adaptation of building envelope](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_790.md)
+* [Inadequate building design](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1729.md)
 
 ## Scale of the of the blueprint
 
-* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
+* [Building](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -91,11 +91,11 @@ PBN:BP_14
 
 ## Mode of transmission covered by the blueprint
 
-* [All](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_4.md)
+* [All](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_4.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

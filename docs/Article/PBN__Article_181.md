@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_181 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_181 
 
 # __Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature__
 
@@ -24,55 +24,55 @@ Staying Physically Active During the Quarantine and Self-Isolation Period for Co
 
 ## Benefits listed in this article
 
-* [Reduction in transmission rate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_33.md)
-* [Reduction in anxiety, stress, and depression](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_891.md)
-* [Maintenance of physical fitness and health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_892.md)
-* [Reduction in sedentary behavior](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_893.md)
+* [Reduction in transmission rate](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_33.md)
+* [Reduction in anxiety, stress, and depression](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_891.md)
+* [Maintenance of physical fitness and health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_892.md)
+* [Reduction in sedentary behavior](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_893.md)
 
 ## List of risks in an article
 
-* [Spread of sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_642.md)
-* [Negative psychological effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_643.md)
-* [Increased prevalence of mental health symptoms during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1271.md)
-* [Decreased physical activity during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
-* [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
+* [Spread of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_642.md)
+* [Negative psychological effects of quarantine and social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_643.md)
+* [Increased prevalence of mental health symptoms during quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1271.md)
+* [Decreased physical activity during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1270.md)
+* [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1272.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3123.md)
-* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3494.md)
-* [Climbing stairs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3495.md)
-* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1176.md)
-* [Increased household chores](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3496.md)
-* [Online physical activity classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3497.md)
-* [Muscle strengthening exercises](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3498.md)
-* [Active play](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3499.md)
-* [Dancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3500.md)
-* [Yoga](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3501.md)
-* [Exercising at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3502.md)
-* [Indoor challenging games](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3503.md)
-* [Learning new physical skills](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3504.md)
-* [Multicomponent exercise program](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3505.md)
-* [Virtual exercise classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3506.md)
-* [Active short breaks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3507.md)
-* [Including walking and standing up](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3508.md)
-* [Exercising on treadmills and stationary bikes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3509.md)
-* [Rowing ergometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3510.md)
-* [Stretching exercises](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3511.md)
-* [Adaptation of exercise intensity and volume](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3512.md)
-* [Avoiding physical activity during viral infection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3513.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Self-isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3494.md)
+* [Climbing stairs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3495.md)
+* [Exergames](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1176.md)
+* [Increased household chores](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3496.md)
+* [Online physical activity classes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3497.md)
+* [Muscle strengthening exercises](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3498.md)
+* [Active play](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3499.md)
+* [Dancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3500.md)
+* [Yoga](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3501.md)
+* [Exercising at home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3502.md)
+* [Indoor challenging games](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3503.md)
+* [Learning new physical skills](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3504.md)
+* [Multicomponent exercise program](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3505.md)
+* [Virtual exercise classes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3506.md)
+* [Active short breaks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3507.md)
+* [Including walking and standing up](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3508.md)
+* [Exercising on treadmills and stationary bikes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3509.md)
+* [Rowing ergometers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3510.md)
+* [Stretching exercises](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3511.md)
+* [Adaptation of exercise intensity and volume](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3512.md)
+* [Avoiding physical activity during viral infection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3513.md)
 
 ## This article mentions these technologies
 
-* [Mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_401.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_402.md)
-* [Video conferencing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_404.md)
-* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_403.md)
-* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_219.md)
-* [Online fitness platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_406.md)
-* [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_405.md)
-* [Fitness tracking devices for children](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_408.md)
-* [Parental supervision](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_407.md)
+* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_401.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_404.md)
+* [Remote monitoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_403.md)
+* [Telehealth platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_219.md)
+* [Online fitness platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_406.md)
+* [Fitness tracking devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_405.md)
+* [Fitness tracking devices for children](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_408.md)
+* [Parental supervision](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_407.md)
 

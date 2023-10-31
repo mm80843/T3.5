@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_129 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_129 
 
 # __Preparing critical infrastructure for the future: Lessons learnt from the Covid-19 pandemic__
 
@@ -24,44 +24,44 @@ Preparing critical infrastructure for the future: Lessons learnt from the Covid-
 
 ## Benefits listed in this article
 
-* [Improved continuity of essential services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_645.md)
-* [Improved risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_646.md)
-* [Increased supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_647.md)
-* [Improved crisis response and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_648.md)
-* [Enhanced system resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_649.md)
+* [Improved continuity of essential services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_645.md)
+* [Improved risk management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_646.md)
+* [Increased supply chain resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_647.md)
+* [Improved crisis response and coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_648.md)
+* [Enhanced system resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_649.md)
 
 ## List of risks in an article
 
-* [Lack of business continuity planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2202.md)
-* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_455.md)
-* [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2203.md)
-* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2205.md)
-* [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2204.md)
+* [Lack of business continuity planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2202.md)
+* [Cascading disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_455.md)
+* [Dependence on global suppliers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2203.md)
+* [Vulnerability to natural hazards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2205.md)
+* [Cyber-attacks and disinformation campaigns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2204.md)
 
 ## This article points to following mitigation
 
-* [Resilient approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_644.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3389.md)
-* [Government coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4999.md)
-* [Engagement of society](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5001.md)
-* [Redundancy of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4993.md)
-* [Prevention of disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4998.md)
-* [Stakeholder cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5000.md)
-* [Resourcefulness of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4994.md)
-* [Rapidity of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4995.md)
-* [Robustness of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4992.md)
-* [Intelligence services integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5003.md)
-* [Interdependencies mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4997.md)
-* [Vulnerability identification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4996.md)
-* [Exercises and trainings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5002.md)
+* [Resilient approach](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_644.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Government coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4999.md)
+* [Engagement of society](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5001.md)
+* [Redundancy of critical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4993.md)
+* [Prevention of disruptions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4998.md)
+* [Stakeholder cooperation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5000.md)
+* [Resourcefulness of critical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4994.md)
+* [Rapidity of critical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4995.md)
+* [Robustness of critical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4992.md)
+* [Intelligence services integration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5003.md)
+* [Interdependencies mapping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4997.md)
+* [Vulnerability identification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4996.md)
+* [Exercises and trainings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5002.md)
 
 ## This article mentions these technologies
 
-* [Interconnected system management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1791.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
-* [Supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1790.md)
-* [Cybersecurity tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1792.md)
-* [Risk assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1455.md)
-* [Hazard mapping tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1793.md)
-* [Business continuity management systems and tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1789.md)
+* [Interconnected system management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1791.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
+* [Supply chain management systems and tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1790.md)
+* [Cybersecurity tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1792.md)
+* [Risk assessment tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1455.md)
+* [Hazard mapping tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1793.md)
+* [Business continuity management systems and tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1789.md)
 

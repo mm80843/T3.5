@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_291 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_291 
 
 # __Urban Community Sustainable Development Patterns under the Influence of COVID-19: A Case Study Based on the Non-Contact Interaction Perspective of Hangzhou City__
 
@@ -24,37 +24,37 @@ Urban Community Sustainable Development Patterns under the Influence of COVID-19
 
 ## Benefits listed in this article
 
-* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_58.md)
-* [Increased convenience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1354.md)
-* [Increased safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1356.md)
-* [Increased efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1357.md)
-* [Improved service efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1355.md)
+* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_58.md)
+* [Increased convenience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1354.md)
+* [Increased safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1356.md)
+* [Increased efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1357.md)
+* [Improved service efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1355.md)
 
 ## List of risks in an article
 
-* [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2299.md)
-* [Lack of digital literacy and skills](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2302.md)
-* [Cybersecurity risks and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2303.md)
-* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2301.md)
-* [Inequitable access to virtual community spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2300.md)
+* [Inadequate allocation of community service facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2299.md)
+* [Lack of digital literacy and skills](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2302.md)
+* [Cybersecurity risks and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2303.md)
+* [Dependence on non-contact interaction activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2301.md)
+* [Inequitable access to virtual community spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2300.md)
 
 ## This article points to following mitigation
 
-* [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5142.md)
-* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1393.md)
-* [Virtualization of public services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5140.md)
-* [Composite space service facilities planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5141.md)
-* [Integration of physical and virtual space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5143.md)
+* [Configuration of community service facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5142.md)
+* [Non-contact interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1393.md)
+* [Virtualization of public services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5140.md)
+* [Composite space service facilities planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5141.md)
+* [Integration of physical and virtual space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5143.md)
 
 ## This article mentions these technologies
 
-* [Antivirus software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1918.md)
-* [Classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1915.md)
-* [Offer workshops](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1914.md)
-* [Geographic information systems gis can be used to analyze community needs and optimize facility placement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1911.md)
-* [Improve broadband availability and invest in digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1912.md)
-* [Use firewalls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1917.md)
-* [Provide guidelines and resources for residents to engage in both virtual and physical community activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1913.md)
-* [Online learning resources to enhance residents’ digital literacy and skills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1916.md)
-* [Encryption protocols to safeguard digital platforms and protect residents’ data and privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1919.md)
+* [Antivirus software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1918.md)
+* [Classes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1915.md)
+* [Offer workshops](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1914.md)
+* [Geographic information systems gis can be used to analyze community needs and optimize facility placement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1911.md)
+* [Improve broadband availability and invest in digital literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1912.md)
+* [Use firewalls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1917.md)
+* [Provide guidelines and resources for residents to engage in both virtual and physical community activities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1913.md)
+* [Online learning resources to enhance residents’ digital literacy and skills](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1916.md)
+* [Encryption protocols to safeguard digital platforms and protect residents’ data and privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1919.md)
 

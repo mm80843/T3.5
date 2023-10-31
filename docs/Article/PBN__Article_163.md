@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_163 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_163 
 
 # __Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study__
 
@@ -16,12 +16,12 @@ Researchers have been studying the use of ultraviolet (UV) light to disinfect ai
 
 ## Referenced by other articles
 
-* [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_269.md)
-* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
-* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
-* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_263.md)
-* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
-* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
+* [Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_269.md)
+* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_182.md)
+* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_105.md)
+* [Aerosol and Surface Distribution of Severe Acute Respiratory Syndrome Coronavirus 2 in Hospital Wards, Wuhan, China, 2020](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_263.md)
+* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_121.md)
+* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_88.md)
 
 ## Title of the article
 
@@ -33,29 +33,29 @@ Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmissi
 
 ## Benefits listed in this article
 
-* [Disinfection of aerosolized viral particles](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_815.md)
+* [Disinfection of aerosolized viral particles](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_815.md)
 
 ## List of risks in an article
 
-* [Limited effectiveness of upper-room uvgi if room air is not well mixed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1167.md)
-* [Harmful effects of uv-c light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1166.md)
-* [Decoupling of larger aerosol particles from air stream in upper-room uvgi system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1168.md)
-* [Insensitive to variations in viral species](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1169.md)
-* [Insufficient evidence of uv-c effectiveness against sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1165.md)
+* [Limited effectiveness of upper-room uvgi if room air is not well mixed](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1167.md)
+* [Harmful effects of uv-c light on humans if not properly shielded](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1166.md)
+* [Decoupling of larger aerosol particles from air stream in upper-room uvgi system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1168.md)
+* [Insensitive to variations in viral species](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1169.md)
+* [Insufficient evidence of uv-c effectiveness against sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1165.md)
 
 ## This article points to following mitigation
 
-* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_310.md)
-* [Supplementing with ceiling mounted fans](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3344.md)
-* [Good room air mixing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3343.md)
+* [Upper-room uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_310.md)
+* [Supplementing with ceiling mounted fans](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3344.md)
+* [Good room air mixing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3343.md)
 
 ## This article mentions these technologies
 
-* [Air circulation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_259.md)
-* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_256.md)
-* [Scientific studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_262.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
-* [Design and engineering solutions for upper-room uvgi systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_257.md)
-* [Ceiling mounted fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_258.md)
-* [Computational fluid dynamics cfd modeling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_260.md)
+* [Air circulation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_259.md)
+* [Research and scientific studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_256.md)
+* [Scientific studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_262.md)
+* [Research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
+* [Design and engineering solutions for upper-room uvgi systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_257.md)
+* [Ceiling mounted fans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_258.md)
+* [Computational fluid dynamics cfd modeling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_260.md)
 

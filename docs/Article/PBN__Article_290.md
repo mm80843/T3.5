@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_290 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_290 
 
 # __Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading the Virus__
 
@@ -24,36 +24,36 @@ Green Buildings: A Post COVID-19 Analysis of Preventive Measures of Spreading th
 
 ## Benefits listed in this article
 
-* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_58.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
-* [Slowing the spread of the virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1352.md)
-* [Improved safety and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1351.md)
-* [Improved well-being and productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1353.md)
+* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_58.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Slowing the spread of the virus](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1352.md)
+* [Improved safety and sustainability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1351.md)
+* [Improved well-being and productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1353.md)
 
 ## List of risks in an article
 
-* [Lack of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2347.md)
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
-* [Person-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2346.md)
-* [Surface-to-person transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2345.md)
+* [Lack of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2347.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
+* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_965.md)
+* [Person-to-person transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2346.md)
+* [Surface-to-person transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2345.md)
 
 ## This article points to following mitigation
 
-* [Green retrofitting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1390.md)
-* [Non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_666.md)
-* [Green building design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1389.md)
-* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1391.md)
-* [State-of-the-art ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5216.md)
+* [Green retrofitting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1390.md)
+* [Non-pharmaceutical interventions npis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_666.md)
+* [Green building design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1389.md)
+* [Adequate daylighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1391.md)
+* [State-of-the-art ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5216.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Smart hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1979.md)
-* [Air quality monitors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1980.md)
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1982.md)
-* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1784.md)
-* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1981.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Temperature screening](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_25.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Smart hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1979.md)
+* [Air quality monitors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1980.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1982.md)
+* [Rooftop gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1784.md)
+* [Indoor biophilic design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1981.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_25 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_25 
 
 # __Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavioral patterns__
 
@@ -24,46 +24,46 @@ Seeing the invisible hand: Underlying effects of COVID-19 on tourists’ behavio
 
 ## Benefits listed in this article
 
-* [Reduction in health risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_113.md)
-* [Reduction in psychological risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_114.md)
-* [Reduction in social risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_115.md)
-* [Reduction in performance risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_116.md)
-* [Enhancement of destination image](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_117.md)
-* [Reduction in time-related risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_118.md)
+* [Reduction in health risks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_113.md)
+* [Reduction in psychological risks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_114.md)
+* [Reduction in social risks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_115.md)
+* [Reduction in performance risks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_116.md)
+* [Enhancement of destination image](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_117.md)
+* [Reduction in time-related risks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_118.md)
 
 ## List of risks in an article
 
-* [Health risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_83.md)
-* [Psychological risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_84.md)
-* [Social risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_85.md)
-* [Performance risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_86.md)
-* [Time risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_88.md)
-* [Image risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_87.md)
+* [Health risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_83.md)
+* [Psychological risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_84.md)
+* [Social risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_85.md)
+* [Performance risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_86.md)
+* [Time risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_88.md)
+* [Image risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_87.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3332.md)
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3329.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3515.md)
-* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
-* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1381.md)
-* [Remote work and online meetings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4093.md)
-* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4094.md)
-* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3722.md)
-* [Public education and communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4095.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3515.md)
+* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_376.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1381.md)
+* [Remote work and online meetings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4093.md)
+* [Healthcare capacity expansion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4094.md)
+* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3722.md)
+* [Public education and communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4095.md)
 
 ## This article mentions these technologies
 
-* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_220.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Increased use of sanitization and sterilization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_990.md)
-* [Mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
-* [Online booking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_991.md)
-* [Customer feedback systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_992.md)
-* [Destination marketing campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_993.md)
-* [Online travel platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_994.md)
-* [Real-time travel updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_995.md)
+* [Online counseling platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_220.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Increased use of sanitization and sterilization technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_990.md)
+* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Online booking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_991.md)
+* [Customer feedback systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_992.md)
+* [Destination marketing campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_993.md)
+* [Online travel platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_994.md)
+* [Real-time travel updates](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_995.md)
 

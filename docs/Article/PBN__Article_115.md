@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_115 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_115 
 
 # __Mechanisms for addressing the impact of COVID-19 on infrastructure projects__
 
@@ -16,7 +16,7 @@ The construction industry in Malaysia is having a tough time because of the COVI
 
 ## Referenced by other articles
 
-* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
+* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_168.md)
 
 ## Title of the article
 
@@ -28,41 +28,41 @@ Mechanisms for addressing the impact of COVID-19 on infrastructure projects
 
 ## Benefits listed in this article
 
-* [Financial stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_565.md)
-* [Income opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_566.md)
-* [Government intervention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_567.md)
-* [Well-planned sop](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_568.md)
-* [Government assistance for sop management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_569.md)
-* [Resuming material supply](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_570.md)
-* [Ensuring sufficient site labor](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_571.md)
-* [Revision of contract](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_572.md)
-* [Extension of time eot entitlements](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_573.md)
+* [Financial stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_565.md)
+* [Income opportunities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_566.md)
+* [Government intervention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_567.md)
+* [Well-planned sop](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_568.md)
+* [Government assistance for sop management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_569.md)
+* [Resuming material supply](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_570.md)
+* [Ensuring sufficient site labor](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_571.md)
+* [Revision of contract](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_572.md)
+* [Extension of time eot entitlements](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_573.md)
 
 ## List of risks in an article
 
-* [Legal issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1568.md)
-* [Productivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1567.md)
-* [Management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1569.md)
-* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1570.md)
-* [Financial loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1566.md)
+* [Legal issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1568.md)
+* [Productivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1567.md)
+* [Management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1569.md)
+* [Environmental](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1570.md)
+* [Financial loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1566.md)
 
 ## This article points to following mitigation
 
-* [Control and stop virus outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3969.md)
-* [Provide financial aids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3967.md)
-* [Promote economic stability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3970.md)
-* [Increase spending on development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3963.md)
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_780.md)
-* [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3966.md)
-* [Ensure labor supply](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3964.md)
-* [Resume material supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3965.md)
-* [Efficient workforce management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3968.md)
-* [Clear sop guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3962.md)
-* [Sop compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3960.md)
-* [Extension of time eot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3961.md)
+* [Control and stop virus outbreak](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3969.md)
+* [Provide financial aids](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3967.md)
+* [Promote economic stability](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3970.md)
+* [Increase spending on development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3963.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_780.md)
+* [Clear contractual arrangements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3966.md)
+* [Ensure labor supply](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3964.md)
+* [Resume material supply chain](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3965.md)
+* [Efficient workforce management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3968.md)
+* [Clear sop guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3962.md)
+* [Sop compliance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3960.md)
+* [Extension of time eot](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3961.md)
 
 ## This article mentions these technologies
 
-* [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
-* [Officer assistance at project sites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_883.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_164.md)
+* [Officer assistance at project sites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_883.md)
 

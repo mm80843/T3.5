@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_107 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_107 
 
 # __Reduced importation risk__
 
@@ -8,18 +8,18 @@ Decreased number of imported cases and potential for community transmission
 
 ## Description of actual returns pertaining to this benefit
 
-* [Investing in border control measures can prevent imported cases, protect public health, and reduce the burden on healthcare systems.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_106.md)
+* [Investing in border control measures can prevent imported cases, protect public health, and reduce the burden on healthcare systems.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_106.md)
 
 ## Articles mentionning this Benefit
 
-* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_24.md)
 
 ## Stakeholders benefitting from this Benefit
 
-* [General population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [Healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_70.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [Healthcare system](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_70.md)
 
 ## Risks which can benefit from this action
 
-* [Border control and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_94.md)
+* [Border control and travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_94.md)
 

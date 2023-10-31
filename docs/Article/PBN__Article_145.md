@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_145 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_145 
 
 # __Climate and the spread of COVID-19__
 
@@ -16,8 +16,8 @@ Scientists have been studying the relationship between temperature and the sprea
 
 ## Referenced by other articles
 
-* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
-* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_182.md)
+* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_24.md)
 
 ## Title of the article
 
@@ -29,27 +29,27 @@ Climate and the spread of COVID-19
 
 ## Benefits listed in this article
 
-* [Reduction in covid-19 spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_736.md)
-* [Reduction in epidemic resurgence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_737.md)
+* [Reduction in covid-19 spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_736.md)
+* [Reduction in epidemic resurgence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_737.md)
 
 ## List of risks in an article
 
-* [Lack of control of environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1243.md)
-* [Temperature and covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1240.md)
-* [Humidity and covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1241.md)
-* [Survival of the virus outside the host](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1242.md)
-* [Confounding factors in transmission analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1244.md)
+* [Lack of control of environmental conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1243.md)
+* [Temperature and covid-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1240.md)
+* [Humidity and covid-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1241.md)
+* [Survival of the virus outside the host](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1242.md)
+* [Confounding factors in transmission analysis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1244.md)
 
 ## This article points to following mitigation
 
-* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3439.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_627.md)
-* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3440.md)
-* [Uv radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1351.md)
-* [Heat treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3441.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3439.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3440.md)
+* [Uv radiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1351.md)
+* [Heat treatment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3441.md)
 
 ## This article mentions these technologies
 
-* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
-* [Air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
+* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
 

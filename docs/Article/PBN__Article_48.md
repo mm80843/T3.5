@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_48 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_48 
 
 # __Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level__
 
@@ -30,40 +30,40 @@ Future perspectives of wastewater-based epidemiology: Monitoring infectious dise
 
 ## Benefits listed in this article
 
-* [Real-time disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_216.md)
-* [Tracking antimicrobial usage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_217.md)
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
-* [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_219.md)
-* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_220.md)
+* [Real-time disease monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_216.md)
+* [Tracking antimicrobial usage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_217.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
+* [Comprehensive and objective data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_219.md)
+* [Protection of privacy and vulnerable groups](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_220.md)
 
 ## List of risks in an article
 
-* [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2058.md)
-* [Globalization and travel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2057.md)
-* [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_159.md)
-* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_160.md)
-* [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2056.md)
+* [Lack of resources in disease surveillance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2058.md)
+* [Globalization and travel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2057.md)
+* [Emerging infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_159.md)
+* [Antimicrobial resistance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_160.md)
+* [Hesitation to vaccinate](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2056.md)
 
 ## This article points to following mitigation
 
-* [Antimicrobial resistance gene monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4794.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_202.md)
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4795.md)
-* [Sentinel surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4790.md)
-* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4791.md)
-* [Protein-based inflammation biomarkers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4792.md)
-* [Monitoring of pharmaceuticals and metabolites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4793.md)
+* [Antimicrobial resistance gene monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4794.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_202.md)
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4795.md)
+* [Sentinel surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4790.md)
+* [Pathogenic dna/rna residues detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4791.md)
+* [Protein-based inflammation biomarkers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4792.md)
+* [Monitoring of pharmaceuticals and metabolites](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4793.md)
 
 ## This article mentions these technologies
 
-* [Advanced molecular biology techniques for pathogen detection and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1559.md)
-* [Antibiotic stewardship programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1560.md)
-* [Rapid diagnostics for targeted antimicrobial therapy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1561.md)
-* [Capacity-building programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1567.md)
-* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_952.md)
-* [Mobile health applications for remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1566.md)
-* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1565.md)
-* [Enhanced screening techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1564.md)
-* [Vaccine registries and reminder systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1563.md)
-* [Vaccine education and communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1562.md)
+* [Advanced molecular biology techniques for pathogen detection and monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1559.md)
+* [Antibiotic stewardship programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1560.md)
+* [Rapid diagnostics for targeted antimicrobial therapy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1561.md)
+* [Capacity-building programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1567.md)
+* [Telemedicine technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_952.md)
+* [Mobile health applications for remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1566.md)
+* [Travel advisories and restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1565.md)
+* [Enhanced screening techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1564.md)
+* [Vaccine registries and reminder systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1563.md)
+* [Vaccine education and communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1562.md)
 

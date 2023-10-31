@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_276 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_276 
 
 # __Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities Disproportionately Impacted?__
 
@@ -16,11 +16,11 @@ During the COVID-19 pandemic, people had to stay home and couldn't go to many pl
 
 ## Referenced by other articles
 
-* [Urban forms and green infrastructure – the implications for public health during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_346.md)
-* [The role of perceived public and private green space in subjective health and wellbeing during and after the first peak of the COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_352.md)
-* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_50.md)
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
-* [Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_256.md)
+* [Urban forms and green infrastructure – the implications for public health during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_346.md)
+* [The role of perceived public and private green space in subjective health and wellbeing during and after the first peak of the COVID-19 outbreak](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_352.md)
+* [The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_50.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_275.md)
+* [Urban nature in a time of crisis: recreational use of green space increases during the COVID-19 outbreak in Oslo, Norway](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_256.md)
 
 ## Title of the article
 
@@ -32,32 +32,32 @@ Urban Park Use During the COVID-19 Pandemic: Are Socially Vulnerable Communities
 
 ## Benefits listed in this article
 
-* [Improved physical health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_174.md)
-* [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_441.md)
-* [Increased social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1294.md)
-* [Improved community resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1295.md)
-* [Positive environmental externalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1296.md)
+* [Improved physical health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_174.md)
+* [Improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_441.md)
+* [Increased social cohesion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1294.md)
+* [Improved community resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1295.md)
+* [Positive environmental externalities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1296.md)
 
 ## List of risks in an article
 
-* [Homogeneity in urban park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1604.md)
-* [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1606.md)
-* [Social vulnerability and park use](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1605.md)
-* [Decline in urban park visitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1603.md)
-* [Misinterpretation of park use data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1607.md)
+* [Homogeneity in urban park use](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1604.md)
+* [Lack of park access in marginalized communities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1606.md)
+* [Social vulnerability and park use](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1605.md)
+* [Decline in urban park visitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1603.md)
+* [Misinterpretation of park use data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1607.md)
 
 ## This article points to following mitigation
 
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3820.md)
-* [Communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4032.md)
-* [Nature-based activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4033.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3284.md)
-* [Face coverings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4029.md)
-* [Park quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4035.md)
-* [Outdoor recreation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4030.md)
-* [Equitable park access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4031.md)
-* [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4034.md)
-* [Equitable park investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4036.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3820.md)
+* [Communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4032.md)
+* [Nature-based activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4033.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Face coverings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4029.md)
+* [Park quality improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4035.md)
+* [Outdoor recreation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4030.md)
+* [Equitable park access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4031.md)
+* [Public health messaging](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4034.md)
+* [Equitable park investment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4036.md)
 
 ## This article mentions these technologies
 

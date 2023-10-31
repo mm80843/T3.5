@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_277 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_277 
 
 # __Houses amid COVID-19: Environmental challenges and design adaptation__
 
@@ -24,53 +24,53 @@ Houses amid COVID-19: Environmental challenges and design adaptation
 
 ## Benefits listed in this article
 
-* [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_321.md)
-* [Segregation of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1297.md)
-* [Enhanced cleanliness and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1298.md)
-* [Improved access to outdoor environments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1299.md)
-* [Future-proofing and versatility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1300.md)
+* [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_321.md)
+* [Segregation of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1297.md)
+* [Enhanced cleanliness and hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1298.md)
+* [Improved access to outdoor environments](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1299.md)
+* [Future-proofing and versatility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1300.md)
 
 ## List of risks in an article
 
-* [Inadequate natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1445.md)
-* [Insufficient sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1444.md)
-* [Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_974.md)
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
+* [Inadequate natural lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1445.md)
+* [Insufficient sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1444.md)
+* [Transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_974.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_571.md)
 
 ## This article points to following mitigation
 
-* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3529.md)
-* [Value-driven design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3789.md)
-* [Use of hygienic materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3777.md)
-* [Use of local and sustainable materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3788.md)
-* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3784.md)
-* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3787.md)
-* [Spacing between buildings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3775.md)
-* [Good air flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3776.md)
-* [Enhanced sanitation room](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3781.md)
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1028.md)
-* [Wider doorways and corridors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3783.md)
-* [Quarantine facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3773.md)
-* [Use of anti-bacterial materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3779.md)
-* [Outdoor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3780.md)
-* [Hands-free door opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3778.md)
-* [Implementation of home treatments](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3786.md)
-* [Improved waste disposal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3774.md)
-* [Use of health and hygiene focus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3785.md)
-* [Sliding panels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3782.md)
+* [Exposure to sunlight](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3529.md)
+* [Value-driven design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3789.md)
+* [Use of hygienic materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3777.md)
+* [Use of local and sustainable materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3788.md)
+* [Adaptable and flexible design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3784.md)
+* [Incorporation of gardens and outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3787.md)
+* [Spacing between buildings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3775.md)
+* [Good air flow](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3776.md)
+* [Enhanced sanitation room](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3781.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1028.md)
+* [Wider doorways and corridors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3783.md)
+* [Quarantine facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3773.md)
+* [Use of anti-bacterial materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3779.md)
+* [Outdoor access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3780.md)
+* [Hands-free door opening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3778.md)
+* [Implementation of home treatments](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3786.md)
+* [Improved waste disposal](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3774.md)
+* [Use of health and hygiene focus](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3785.md)
+* [Sliding panels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3782.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [Remote working](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_716.md)
-* [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_717.md)
-* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
-* [Sanitization devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_718.md)
-* [Smart lighting controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_720.md)
-* [Touchless fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
-* [Light sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_721.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Remote working](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_716.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
+* [Uv disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_204.md)
+* [Sanitization devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_718.md)
+* [Smart lighting controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_720.md)
+* [Touchless fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_719.md)
+* [Light sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_721.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_270 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_270 
 
 # __An environmental and health perspective for COVID-19 outbreak: Meteorology and air quality influence, sewage epidemiology indicator, hospitals disinfection, drug therapies and recommendations__
 
@@ -16,8 +16,8 @@ In December 2019, a new type of pneumonia started in China called COVID-19. It s
 
 ## Referenced by other articles
 
-* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
-* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_205.md)
+* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_252.md)
 
 ## Title of the article
 
@@ -29,36 +29,36 @@ An environmental and health perspective for COVID-19 outbreak: Meteorology and a
 
 ## Benefits listed in this article
 
-* [Reduction in covid-19 infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1216.md)
-* [Early detection of outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1272.md)
-* [Enhanced disinfection in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1273.md)
-* [Treatment options for covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1274.md)
+* [Reduction in covid-19 infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1216.md)
+* [Early detection of outbreak](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1272.md)
+* [Enhanced disinfection in hospitals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1273.md)
+* [Treatment options for covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1274.md)
 
 ## List of risks in an article
 
-* [Covid-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1137.md)
-* [High air pollution levels](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1138.md)
-* [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_934.md)
-* [Lack of drug therapy options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1139.md)
-* [Presence of covid-19 in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1140.md)
+* [Covid-19 spread via aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1137.md)
+* [High air pollution levels](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1138.md)
+* [Inadequate disinfection technologies in hospitals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_934.md)
+* [Lack of drug therapy options](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1139.md)
+* [Presence of covid-19 in sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1140.md)
 
 ## This article points to following mitigation
 
-* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1001.md)
-* [Air quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3311.md)
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3312.md)
-* [Chlorine disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3313.md)
-* [Drug therapies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3314.md)
+* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1001.md)
+* [Air quality improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3311.md)
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3312.md)
+* [Chlorine disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3313.md)
+* [Drug therapies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3314.md)
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Vaporized hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_234.md)
-* [Uv irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_235.md)
-* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_236.md)
-* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_232.md)
-* [Air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_233.md)
-* [Anti-malaria drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_237.md)
-* [Anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_238.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Vaporized hydrogen peroxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_234.md)
+* [Uv irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_235.md)
+* [Antiviral drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_236.md)
+* [Ultraviolet germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_232.md)
+* [Air pollution monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_233.md)
+* [Anti-malaria drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_237.md)
+* [Anti-inflammatory drugs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_238.md)
 

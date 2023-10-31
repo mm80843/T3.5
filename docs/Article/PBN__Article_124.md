@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_124 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_124 
 
 # __The COVID-19 pandemic: Lessons on building more equal and sustainable societies__
 
@@ -24,46 +24,46 @@ The COVID-19 pandemic: Lessons on building more equal and sustainable societies
 
 ## Benefits listed in this article
 
-* [Enhanced public health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_625.md)
-* [Resilient and sustainable supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_626.md)
-* [Reduced poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_627.md)
-* [Greater gender equity in employment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_628.md)
-* [Mitigated poverty and inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_629.md)
-* [Improved labour market outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_630.md)
+* [Enhanced public health infrastructure](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_625.md)
+* [Resilient and sustainable supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_626.md)
+* [Reduced poverty and inequality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_627.md)
+* [Greater gender equity in employment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_628.md)
+* [Mitigated poverty and inequality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_629.md)
+* [Improved labour market outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_630.md)
 
 ## List of risks in an article
 
-* [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2241.md)
-* [Decline of employment and investment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2244.md)
-* [Cutting public social expenditures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2239.md)
-* [Impact on developing countries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_450.md)
-* [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2240.md)
-* [Effects on gender equality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2243.md)
-* [Fragmentation of employment services and training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2246.md)
-* [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2242.md)
-* [Neoliberalism](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2238.md)
-* [Constraints on civil liberties](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2245.md)
+* [Disruption of global supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2241.md)
+* [Decline of employment and investment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2244.md)
+* [Cutting public social expenditures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2239.md)
+* [Impact on developing countries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_450.md)
+* [Inadequate public health systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2240.md)
+* [Effects on gender equality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2243.md)
+* [Fragmentation of employment services and training](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2246.md)
+* [Exclusion and vulnerability of migrants and gig workers](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2242.md)
+* [Neoliberalism](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2238.md)
+* [Constraints on civil liberties](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2245.md)
 
 ## This article points to following mitigation
 
-* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5070.md)
-* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5072.md)
-* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5073.md)
-* [Publicly funded and managed healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5064.md)
-* [Reducing inequality and poverty](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5069.md)
-* [Strengthening of un and who leadership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5065.md)
-* [Strategic sectors development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5066.md)
-* [National and international conversations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5067.md)
-* [Enhanced commitment towards multilateralism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5068.md)
-* [Strengthening enforcement of labour standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5071.md)
-* [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5075.md)
-* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5074.md)
-* [Enhanced regulation of global corporations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5076.md)
-* [Promoting community voice and ownership](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5077.md)
-* [Green new deal](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5078.md)
+* [Rethinking global trade and supply chains](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5070.md)
+* [Investing in public healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5072.md)
+* [Providing income and support to impacted workers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5073.md)
+* [Publicly funded and managed healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5064.md)
+* [Reducing inequality and poverty](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5069.md)
+* [Strengthening of un and who leadership](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5065.md)
+* [Strategic sectors development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5066.md)
+* [National and international conversations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5067.md)
+* [Enhanced commitment towards multilateralism](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5068.md)
+* [Strengthening enforcement of labour standards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5071.md)
+* [Coordinated response and global cooperation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5075.md)
+* [Protecting vulnerable workers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5074.md)
+* [Enhanced regulation of global corporations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5076.md)
+* [Promoting community voice and ownership](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5077.md)
+* [Green new deal](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5078.md)
 
 ## This article mentions these technologies
 
-* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1261.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
 

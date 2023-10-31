@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_9 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_9 
 
 # __The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities and challenges__
 
@@ -16,7 +16,7 @@ The Coronavirus Disease (COVID-19) has caused a lot of changes in our lives. One
 
 ## Referenced by other articles
 
-* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_241.md)
+* [How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_241.md)
 
 ## Title of the article
 
@@ -28,54 +28,54 @@ The role of 5G for digital healthcare against COVID-19 pandemic: Opportunities a
 
 ## Benefits listed in this article
 
-* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_35.md)
-* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_36.md)
-* [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_37.md)
-* [Improved monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_38.md)
-* [Enhanced privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_39.md)
-* [Improved cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_40.md)
-* [Improved network scalability and quality of service](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_41.md)
-* [Expanded 5g coverage and connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_42.md)
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
+* [Enhanced healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_36.md)
+* [Improved supply chain efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_37.md)
+* [Improved monitoring and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_38.md)
+* [Enhanced privacy protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_39.md)
+* [Improved cybersecurity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_40.md)
+* [Improved network scalability and quality of service](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_41.md)
+* [Expanded 5g coverage and connectivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_42.md)
 
 ## List of risks in an article
 
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2069.md)
-* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2072.md)
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2070.md)
-* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2073.md)
-* [Scalability and qos provisioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2071.md)
-* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2074.md)
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2069.md)
+* [Limited connectivity challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2072.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2070.md)
+* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2073.md)
+* [Scalability and qos provisioning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2071.md)
+* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2074.md)
 
 ## This article points to following mitigation
 
-* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_27.md)
-* [Rapid deployment of new healthcare applications and services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_28.md)
-* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_29.md)
-* [Self-isolation and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_30.md)
-* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_31.md)
-* [Security challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_32.md)
-* [Scalability and qos provisioning in massive connectivity regime](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_33.md)
-* [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_34.md)
-* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4814.md)
-* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4815.md)
+* [Telehealth for patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_27.md)
+* [Rapid deployment of new healthcare applications and services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_28.md)
+* [Supply chain management for healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_29.md)
+* [Self-isolation and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_30.md)
+* [Privacy protection issues](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_31.md)
+* [Security challenges](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_32.md)
+* [Scalability and qos provisioning in massive connectivity regime](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_33.md)
+* [5g deployment and limited connectivity challenges](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_34.md)
+* [Societal issues and the human factor](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4814.md)
+* [Legal and regulatory dimension](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4815.md)
 
 ## This article mentions these technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
-* [Mec](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1582.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
-* [Privacy-by-design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1577.md)
-* [Network slicing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1580.md)
-* [L5go networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1584.md)
-* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Ml](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1579.md)
-* [Purpose-built iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1585.md)
-* [Privacy policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1587.md)
-* [Access control](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1576.md)
-* [Standardization and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1588.md)
-* [User-friendly interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1586.md)
-* [Software-defined privacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1578.md)
-* [Virtual nfs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1581.md)
-* [Full beamforming](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1583.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Mec](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1582.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
+* [Privacy-by-design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1577.md)
+* [Network slicing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1580.md)
+* [L5go networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1584.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Ml](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1579.md)
+* [Purpose-built iot devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1585.md)
+* [Privacy policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1587.md)
+* [Access control](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1576.md)
+* [Standardization and regulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1588.md)
+* [User-friendly interfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1586.md)
+* [Software-defined privacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1578.md)
+* [Virtual nfs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1581.md)
+* [Full beamforming](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1583.md)
 

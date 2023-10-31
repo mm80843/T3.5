@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_23 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_23 
 
 # __Combating COVID-19—The role of robotics in managing public health and infectious diseases__
 
@@ -24,36 +24,36 @@ Combating COVID-19—The role of robotics in managing public health and infectio
 
 ## Benefits listed in this article
 
-* [Effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_101.md)
-* [Efficient screening](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_102.md)
-* [Speed up testing process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_103.md)
-* [Continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_104.md)
-* [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_105.md)
+* [Effective disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_101.md)
+* [Efficient screening](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_102.md)
+* [Speed up testing process](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_103.md)
+* [Continued social interactions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_104.md)
+* [Remote healthcare and work](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_105.md)
 
 ## List of risks in an article
 
-* [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1324.md)
-* [Lack of qualified staff for testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2348.md)
-* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2350.md)
-* [Privacy concerns in data collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2351.md)
-* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2349.md)
+* [Contamination of surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1324.md)
+* [Lack of qualified staff for testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2348.md)
+* [Remote operation and telecommuting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2350.md)
+* [Privacy concerns in data collection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2351.md)
+* [Limited social interactions and mental health impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2349.md)
 
 ## This article points to following mitigation
 
-* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5217.md)
-* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5218.md)
-* [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5222.md)
-* [Teleoperation for telemedicine and telecommuting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5223.md)
-* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5224.md)
-* [Blood test automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5220.md)
-* [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5221.md)
-* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5219.md)
+* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5217.md)
+* [Mobile robots for temperature measurement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5218.md)
+* [Social robots for continued social interactions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5222.md)
+* [Teleoperation for telemedicine and telecommuting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5223.md)
+* [Robotics in industrial applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5224.md)
+* [Blood test automation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5220.md)
+* [Autonomous drones/ground vehicles for sample transfer](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5221.md)
+* [Robot-assisted nasopharyngeal and oropharyngeal swabs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5219.md)
 
 ## This article mentions these technologies
 
-* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
-* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1983.md)
-* [Teleoperation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1986.md)
-* [Social robots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1985.md)
-* [Robot-assisted swabbing and blood testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1984.md)
+* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
+* [Robot-controlled noncontact uv surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1983.md)
+* [Teleoperation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1986.md)
+* [Social robots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1985.md)
+* [Robot-assisted swabbing and blood testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1984.md)
 

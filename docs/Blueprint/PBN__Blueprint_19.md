@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_19 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_19 
 
 # __Tracking and enforcing use of personal protective equipment__
 
@@ -26,37 +26,37 @@ The general idea described above is to use technology to monitor whether people 
 
 ## Enablers of the blueprint
 
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_2.md)
-* [3D printing](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_18.md)
-* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_12.md)
-* [Wearables](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_11.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [3D printing](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_18.md)
+* [Image acquisition & CCTV](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_12.md)
+* [Wearables](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_11.md)
 
 ## Interventions of the blueprint
 
-* [Quarantine support](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_30.md)
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_31.md)
-* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_23.md)
+* [Quarantine support](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_30.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_31.md)
+* [Ensure use of personal protection equipment](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_23.md)
 
 ## Possible mitigations of the BP
 
-* [Surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1221.md)
-* [Surveillance system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_983.md)
-* [Public health measures such as quarantine, social distancing, and wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2606.md)
-* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_376.md)
-* [Implementation of thermal imaging cameras and temperature screening protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2655.md)
-* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3420.md)
-* [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1165.md)
-* [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1199.md)
-* [Implementation of safety protocols, including personal protective equipment ppe , proper handling and disposal of samples, and adherence to biosafety guidelines, can minimize the risk of exposure and spread of the virus in the laboratory.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2166.md)
-* [Provide appropriate ppe such as masks, gloves, and face shields to individuals at risk](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2259.md)
+* [Surveillance measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1221.md)
+* [Surveillance system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_983.md)
+* [Public health measures such as quarantine, social distancing, and wearing masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2606.md)
+* [Use of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_376.md)
+* [Implementation of thermal imaging cameras and temperature screening protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2655.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3420.md)
+* [Mobile technology for surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1165.md)
+* [Regulation of surveillance technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1199.md)
+* [Implementation of safety protocols, including personal protective equipment ppe , proper handling and disposal of samples, and adherence to biosafety guidelines, can minimize the risk of exposure and spread of the virus in the laboratory.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2166.md)
+* [Provide appropriate ppe such as masks, gloves, and face shields to individuals at risk](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2259.md)
 
 ## Type of deployment of the blueprint
 
-* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_2.md)
+* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_2.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -73,20 +73,20 @@ Moreover, it is important to note that the use of technology to monitor PPE usag
 
 ## Possible risks of the BP
 
-* [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_90.md)
-* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_877.md)
-* [Transmission of covid-19 in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_579.md)
-* [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_990.md)
-* [Public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_718.md)
-* [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1490.md)
-* [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3366.md)
-* [Surveillance and personal data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2308.md)
-* [Personal protective equipment ppe usage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2120.md)
-* [Limited access to personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2100.md)
+* [Exposure to covid-19 in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_90.md)
+* [Surveillance and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_877.md)
+* [Transmission of covid-19 in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_579.md)
+* [Surveillance and monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_990.md)
+* [Public health monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_718.md)
+* [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
+* [Health surveillance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3366.md)
+* [Surveillance and personal data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2308.md)
+* [Personal protective equipment ppe usage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2120.md)
+* [Limited access to personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2100.md)
 
 ## Scale of the of the blueprint
 
-* [Both](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_1.md)
+* [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -94,11 +94,11 @@ PBN:BP_20
 
 ## Mode of transmission covered by the blueprint
 
-* [All](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_4.md)
+* [All](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_4.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

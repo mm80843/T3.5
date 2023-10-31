@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_107 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_107 
 
 # __Public housing and COVID-19: contestation, challenge and change__
 
@@ -24,39 +24,39 @@ Public housing and COVID-19: contestation, challenge and change
 
 ## Benefits listed in this article
 
-* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
-* [Increased understanding and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_516.md)
-* [Empowerment and collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_517.md)
-* [Perception change](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_518.md)
-* [Improved supply and affordability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_519.md)
+* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_43.md)
+* [Increased understanding and compliance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_516.md)
+* [Empowerment and collaboration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_517.md)
+* [Perception change](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_518.md)
+* [Improved supply and affordability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_519.md)
 
 ## List of risks in an article
 
-* [Inadequate communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1905.md)
-* [Lack of government support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1906.md)
-* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1391.md)
-* [Stigmatisation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1903.md)
-* [Limited access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1902.md)
-* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1904.md)
+* [Inadequate communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1905.md)
+* [Lack of government support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1906.md)
+* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1391.md)
+* [Stigmatisation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1903.md)
+* [Limited access to resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1902.md)
+* [Infrastructure challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1904.md)
 
 ## This article points to following mitigation
 
-* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4548.md)
-* [Rapid hard-lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4546.md)
-* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4227.md)
-* [Language-appropriate resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4549.md)
-* [Improved lift maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4547.md)
+* [Adequate provision of culturally appropriate food](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4548.md)
+* [Rapid hard-lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4546.md)
+* [Enhanced cleaning and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4227.md)
+* [Language-appropriate resources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4549.md)
+* [Improved lift maintenance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4547.md)
 
 ## This article mentions these technologies
 
-* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
-* [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_717.md)
-* [Lobbying and advocacy efforts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1325.md)
-* [Automated cleaning tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1319.md)
-* [Notifications systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1324.md)
-* [Translation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1320.md)
-* [Touchless fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_719.md)
-* [Regular maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1323.md)
-* [Multilingual resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1321.md)
-* [Lift monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1322.md)
+* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_746.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
+* [Lobbying and advocacy efforts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1325.md)
+* [Automated cleaning tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1319.md)
+* [Notifications systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1324.md)
+* [Translation software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1320.md)
+* [Touchless fixtures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_719.md)
+* [Regular maintenance protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1323.md)
+* [Multilingual resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1321.md)
+* [Lift monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1322.md)
 

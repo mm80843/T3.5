@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_255 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_255 
 
 # __COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review and Meta-Analysis__
 
@@ -24,42 +24,42 @@ COVID-19 Prevention and Control Measures in Workplace Settings: A Rapid Review a
 
 ## Benefits listed in this article
 
-* [Low employee positivity rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1213.md)
-* [Identification of coronavirus-positive environmental surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1214.md)
-* [Swift contact tracing and case isolation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1215.md)
-* [Reduction in covid-19 infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1216.md)
-* [Lower positivity rates following combined measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1217.md)
+* [Low employee positivity rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1213.md)
+* [Identification of coronavirus-positive environmental surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1214.md)
+* [Swift contact tracing and case isolation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1215.md)
+* [Reduction in covid-19 infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1216.md)
+* [Lower positivity rates following combined measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1217.md)
 
 ## List of risks in an article
 
-* [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1502.md)
-* [Lack of education initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1505.md)
-* [Inadequate surveillance measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1501.md)
-* [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1504.md)
-* [Lack of proper ppe usage and availability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1503.md)
+* [Insufficient outbreak investigation and response](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1502.md)
+* [Lack of education initiatives](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1505.md)
+* [Inadequate surveillance measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1501.md)
+* [Inadequate implementation of environmental adjustments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1504.md)
+* [Lack of proper ppe usage and availability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1503.md)
 
 ## This article points to following mitigation
 
-* [Combined measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1224.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3574.md)
-* [Staff compartmentalization within zones/cohorts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3861.md)
-* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_607.md)
-* [Universal asymptomatic testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3858.md)
-* [Outbreak investigation and response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3859.md)
-* [Universal masking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3860.md)
-* [Syndromic surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3862.md)
-* [Worker education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3863.md)
-* [Contact tracing and testing of close contacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3864.md)
+* [Combined measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1224.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3574.md)
+* [Staff compartmentalization within zones/cohorts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3861.md)
+* [Enhanced ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_607.md)
+* [Universal asymptomatic testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3858.md)
+* [Outbreak investigation and response](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3859.md)
+* [Universal masking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3860.md)
+* [Syndromic surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3862.md)
+* [Worker education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3863.md)
+* [Contact tracing and testing of close contacts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3864.md)
 
 ## This article mentions these technologies
 
-* [Communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
-* [Rapid testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_794.md)
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_793.md)
-* [Manufacturing and supply chain of ppe](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_795.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
-* [Physical barrier installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_798.md)
-* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_797.md)
-* [Rapid and reliable covid-19 testing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_792.md)
-* [Employers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_796.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Rapid testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_794.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_793.md)
+* [Manufacturing and supply chain of ppe](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_795.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Physical barrier installations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_798.md)
+* [Improved ventilation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_797.md)
+* [Rapid and reliable covid-19 testing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_792.md)
+* [Employers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_796.md)
 

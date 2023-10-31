@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_75 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_75 
 
 # __The Effects of Pandemic on Construction Industry in the UK__
 
@@ -24,43 +24,43 @@ The Effects of Pandemic on Construction Industry in the UK
 
 ## Benefits listed in this article
 
-* [Minimize damage from crises](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_379.md)
-* [Improved protection against potential issues](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_380.md)
-* [Enhanced supply chain resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_381.md)
-* [Increased project efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_382.md)
-* [Enhanced worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_383.md)
+* [Minimize damage from crises](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_379.md)
+* [Improved protection against potential issues](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_380.md)
+* [Enhanced supply chain resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_381.md)
+* [Increased project efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_382.md)
+* [Enhanced worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_383.md)
 
 ## List of risks in an article
 
-* [Social distancing challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_307.md)
-* [Financial crisis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2043.md)
-* [Delay in completion of construction projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_306.md)
-* [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2044.md)
-* [Financial constraints](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1287.md)
+* [Social distancing challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_307.md)
+* [Financial crisis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2043.md)
+* [Delay in completion of construction projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_306.md)
+* [Delay in delivery of construction materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2044.md)
+* [Financial constraints](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1287.md)
 
 ## This article points to following mitigation
 
-* [Maintaining physical distance between workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_204.md)
-* [Equipping personnel with protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4773.md)
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_382.md)
-* [Determining ideal projects](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4778.md)
-* [Reviewing contracts and service agreements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4777.md)
-* [Adjusting schedules to avoid slowdown bottleneck](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4779.md)
-* [Health and safety rule signage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4772.md)
-* [Timely warning system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4771.md)
-* [Restricting number of workers in freight elevators](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4775.md)
-* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4774.md)
-* [Installing extra hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4776.md)
-* [Improving office productivity and lowering overhead costs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4780.md)
+* [Maintaining physical distance between workers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_204.md)
+* [Equipping personnel with protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4773.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_382.md)
+* [Determining ideal projects](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4778.md)
+* [Reviewing contracts and service agreements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4777.md)
+* [Adjusting schedules to avoid slowdown bottleneck](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4779.md)
+* [Health and safety rule signage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4772.md)
+* [Timely warning system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4771.md)
+* [Restricting number of workers in freight elevators](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4775.md)
+* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4774.md)
+* [Installing extra hand washing stations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4776.md)
+* [Improving office productivity and lowering overhead costs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4780.md)
 
 ## This article mentions these technologies
 
-* [Financial management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_128.md)
-* [Project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
-* [Mobile apps for scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1542.md)
-* [Iot devices for distance monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1543.md)
-* [Crowdfunding platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_909.md)
-* [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_637.md)
-* [Tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1541.md)
+* [Financial management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_128.md)
+* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Mobile apps for scheduling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1542.md)
+* [Iot devices for distance monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1543.md)
+* [Crowdfunding platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_909.md)
+* [Supply chain management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_637.md)
+* [Tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1541.md)
 

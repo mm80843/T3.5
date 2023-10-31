@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_70 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_70 
 
 # __SARS-CoV-2 in wastewater: potential health risk, but also data source__
 
@@ -24,36 +24,36 @@ SARS-CoV-2 in wastewater: potential health risk, but also data source
 
 ## Benefits listed in this article
 
-* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_358.md)
-* [Indication of virus circulation in the human population](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_360.md)
-* [Informative data in areas with scarce data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_362.md)
-* [Protection from infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_359.md)
-* [Improved management of liver transplant recipients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_361.md)
+* [Early detection of virus circulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_358.md)
+* [Indication of virus circulation in the human population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_360.md)
+* [Informative data in areas with scarce data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_362.md)
+* [Protection from infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_359.md)
+* [Improved management of liver transplant recipients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_361.md)
 
 ## List of risks in an article
 
-* [Sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1646.md)
-* [Limited data and sample size](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1648.md)
-* [Enteric involvement in covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_292.md)
-* [Faecal-oral transmission of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1647.md)
+* [Sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1646.md)
+* [Limited data and sample size](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1648.md)
+* [Enteric involvement in covid-19 patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_292.md)
+* [Faecal-oral transmission of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1647.md)
 
 ## This article points to following mitigation
 
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_149.md)
-* [Improved sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4098.md)
-* [Safe water, sanitation, and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4096.md)
-* [Maintaining immunosuppression in liver transplant recipients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4099.md)
-* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4097.md)
-* [Enteric involvement studies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4100.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_149.md)
+* [Improved sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4098.md)
+* [Safe water, sanitation, and hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4096.md)
+* [Maintaining immunosuppression in liver transplant recipients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4099.md)
+* [Environmental surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4097.md)
+* [Enteric involvement studies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4100.md)
 
 ## This article mentions these technologies
 
-* [Gastrointestinal monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_999.md)
-* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1000.md)
-* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_998.md)
-* [Data collection tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1001.md)
-* [Diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
-* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_996.md)
-* [Research methodologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_897.md)
-* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_997.md)
+* [Gastrointestinal monitoring tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_999.md)
+* [Diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1000.md)
+* [Improved sanitation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_998.md)
+* [Data collection tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1001.md)
+* [Diagnostic tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_609.md)
+* [Improved water treatment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_996.md)
+* [Research methodologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_897.md)
+* [Wastewater surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_997.md)
 

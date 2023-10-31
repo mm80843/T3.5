@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_74 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_74 
 
 # __The impacts of knowledge, risk perception, emotion and information on citizensâ€™ protective behaviors during the outbreak of COVID-19: a cross-sectional study in China__
 
@@ -16,7 +16,7 @@ This text is about how people in China are responding to the COVID-19 pandemic. 
 
 ## Referenced by other articles
 
-* [Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_80.md)
+* [Report 9: Impact of non-pharmaceutical interventions (NPIs) to reduce COVID19 mortality and healthcare demand](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_80.md)
 
 ## Title of the article
 
@@ -28,45 +28,45 @@ The impacts of knowledge, risk perception, emotion and information on citizensâ€
 
 ## Benefits listed in this article
 
-* [Higher levels of protective behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_375.md)
-* [Improved adoption of protective behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_376.md)
-* [Increased awareness of severity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_377.md)
-* [Greater compliance with protective behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_378.md)
+* [Higher levels of protective behaviors](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_375.md)
+* [Improved adoption of protective behaviors](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_376.md)
+* [Increased awareness of severity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_377.md)
+* [Greater compliance with protective behaviors](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_378.md)
 
 ## List of risks in an article
 
-* [Fear and negative emotion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1801.md)
-* [Low adoption of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1803.md)
-* [Lack of understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1525.md)
-* [Biased risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1800.md)
-* [Lack of official communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1802.md)
+* [Fear and negative emotion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1801.md)
+* [Low adoption of preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1803.md)
+* [Lack of understanding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1525.md)
+* [Biased risk perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1800.md)
+* [Lack of official communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1802.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
-* [Building lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4388.md)
-* [Information communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4389.md)
-* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4385.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3873.md)
-* [Good indoor airflow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4387.md)
-* [Home isolation and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4383.md)
-* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4212.md)
-* [Medical consultation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4384.md)
-* [Avoidance of crowds](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4386.md)
-* [Trust in official governmental media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4390.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Building lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4388.md)
+* [Information communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4389.md)
+* [Infection control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4385.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
+* [Good indoor airflow](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4387.md)
+* [Home isolation and quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4383.md)
+* [Wearing face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4212.md)
+* [Medical consultation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4384.md)
+* [Avoidance of crowds](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4386.md)
+* [Trust in official governmental media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4390.md)
 
 ## This article mentions these technologies
 
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
-* [Regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1175.md)
-* [Counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_113.md)
-* [Mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_874.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
-* [Educational programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_837.md)
-* [Risk communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1172.md)
-* [Press releases](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1174.md)
-* [Official websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1173.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
+* [Regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1175.md)
+* [Counseling services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_113.md)
+* [Mental health resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_874.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_167.md)
+* [Educational programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
+* [Risk communication strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1172.md)
+* [Press releases](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1174.md)
+* [Official websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1173.md)
 

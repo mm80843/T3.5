@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_40 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_40 
 
 # __The socio-economic determinants of COVID-19: A spatial analysis of German county level data__
 
@@ -24,39 +24,39 @@ The socio-economic determinants of COVID-19: A spatial analysis of German county
 
 ## Benefits listed in this article
 
-* [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_184.md)
-* [Containment of infection spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_185.md)
+* [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_184.md)
+* [Containment of infection spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_185.md)
 
 ## List of risks in an article
 
-* [Spread of covid-19 through institutions for care of the elderly](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1347.md)
-* [Socio-economic factors and regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1349.md)
-* [Spillover effects between neighboring regions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1348.md)
-* [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1346.md)
+* [Spread of covid-19 through institutions for care of the elderly](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1347.md)
+* [Socio-economic factors and regional characteristics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1349.md)
+* [Spillover effects between neighboring regions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1348.md)
+* [Schoolchildren and children in day care](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1346.md)
 
 ## This article points to following mitigation
 
-* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3347.md)
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
-* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3630.md)
-* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3629.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3284.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
-* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3578.md)
-* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3580.md)
+* [Testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3347.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_863.md)
+* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3630.md)
+* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3629.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3578.md)
+* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3580.md)
 
 ## This article mentions these technologies
 
-* [Use of contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_555.md)
-* [Use of telemedicine for remote care](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_558.md)
-* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_560.md)
-* [Use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_556.md)
-* [Use of personal protective equipment in schools and day care facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_553.md)
-* [Implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_554.md)
-* [Implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_557.md)
-* [Use of digital communication tools for cross-regional collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_559.md)
-* [Use of data analytics to identify high-risk areas and populations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_561.md)
-* [Implementation of targeted public health interventions based on regional characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_562.md)
+* [Use of contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_555.md)
+* [Use of telemedicine for remote care](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_558.md)
+* [Implementation of border controls and travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_560.md)
+* [Use of personal protective equipment in care facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_556.md)
+* [Use of personal protective equipment in schools and day care facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_553.md)
+* [Implementation of ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_554.md)
+* [Implementation of enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_557.md)
+* [Use of digital communication tools for cross-regional collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_559.md)
+* [Use of data analytics to identify high-risk areas and populations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_561.md)
+* [Implementation of targeted public health interventions based on regional characteristics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_562.md)
 

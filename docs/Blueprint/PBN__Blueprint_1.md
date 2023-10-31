@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_1 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_1 
 
 # __Smart locker system__
 
@@ -20,40 +20,40 @@ Following the outbreak of COVID-19 pandemic, e-commerce companies have invested 
 
 ## Enablers of the blueprint
 
-* [SmartPhones](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_19.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_4.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_5.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_16.md)
-* [New delivery systems](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_21.md)
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_0.md)
+* [SmartPhones](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_19.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_4.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
+* [New delivery systems](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_21.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
 
 ## Interventions of the blueprint
 
-* [Touchless technologies](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_13.md)
-* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_34.md)
-* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_32.md)
-* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_35.md)
+* [Touchless technologies](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_13.md)
+* [Absorb resource shortages](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_34.md)
+* [Minimize supply chain disruptions](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_32.md)
+* [Absorb surge in service demande](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_35.md)
 
 ## Possible mitigations of the BP
 
-* [Proximity shopping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4020.md)
-* [Privacy considerations and flexible room layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_482.md)
-* [Restrictions on shared facilities, devices, and services.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1725.md)
-* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4764.md)
-* [Smart personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1278.md)
-* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3467.md)
-* [Safety wearables and carry-ons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3376.md)
-* [Establish temporary isolation and quarantine rooms with necessary equipment and supplies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2795.md)
-* [Investing in hygiene and cleaning protocols for shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1259.md)
-* [Use individual or limited capacity transportation with partitions/barriers, enforce mask-wearing and no talking, disinfect vehicles after each use](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2794.md)
+* [Proximity shopping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4020.md)
+* [Privacy considerations and flexible room layout](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_482.md)
+* [Restrictions on shared facilities, devices, and services.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1725.md)
+* [Automated surveillance and contactless delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4764.md)
+* [Smart personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1278.md)
+* [Wearable technology placement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3467.md)
+* [Safety wearables and carry-ons](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3376.md)
+* [Establish temporary isolation and quarantine rooms with necessary equipment and supplies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2795.md)
+* [Investing in hygiene and cleaning protocols for shared mobility services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1259.md)
+* [Use individual or limited capacity transportation with partitions/barriers, enforce mask-wearing and no talking, disinfect vehicles after each use](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2794.md)
 
 ## Type of deployment of the blueprint
 
-* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
 
 ## Problem of the blueprint
 
@@ -80,20 +80,20 @@ A number of limitations have been identified for this specific measure:
 
 ## Possible risks of the BP
 
-* [Quarantine, self-isolation, and lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_852.md)
-* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1660.md)
-* [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_272.md)
-* [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_328.md)
-* [Security and ownership of wearable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_686.md)
-* [Reducing inequalities in access to wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_687.md)
-* [Limited accessibility, security and privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3173.md)
-* [Underutilized smart solutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_808.md)
-* [Transportation protocols and precautions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2114.md)
-* [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1663.md)
+* [Quarantine, self-isolation, and lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_852.md)
+* [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1660.md)
+* [Temporary regulations to monitor and restrict certain activities in public places](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_272.md)
+* [Limited accessibility to green spaces during lockdowns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_328.md)
+* [Security and ownership of wearable data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_686.md)
+* [Reducing inequalities in access to wearables](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_687.md)
+* [Limited accessibility, security and privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3173.md)
+* [Underutilized smart solutions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_808.md)
+* [Transportation protocols and precautions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2114.md)
+* [Lack of privacy in apartments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1663.md)
 
 ## Scale of the of the blueprint
 
-* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
+* [Building](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -101,12 +101,12 @@ PBN:BP_2
 
 ## Mode of transmission covered by the blueprint
 
-* [Direct contact](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_2.md)
-* [Fomite](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_3.md)
+* [Direct contact](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_2.md)
+* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_3.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

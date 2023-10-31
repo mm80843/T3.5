@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_171 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_171 
 
 # __A review of facilities management interventions to mitigate respiratory infections in existing buildings__
 
@@ -16,19 +16,19 @@ This article is about how facilities management (FM) can help prevent the spread
 
 ## Referenced by other articles
 
-* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
-* [Enhancing the role of facilities management in the fight against the COVID-19 (SARS-CoV-2) pandemic in developing countries’ public hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_315.md)
-* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
-* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_61.md)
-* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
-* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_282.md)
-* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
-* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
-* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_88.md)
-* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_55.md)
-* [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_169.md)
-* [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_3.md)
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_121.md)
+* [Enhancing the role of facilities management in the fight against the COVID-19 (SARS-CoV-2) pandemic in developing countries’ public hospitals](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_315.md)
+* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_223.md)
+* [Applications of ultraviolet germicidal irradiation disinfection in health care facilities: Effective adjunct, but not stand-alone technology](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_61.md)
+* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_45.md)
+* [Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_282.md)
+* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_125.md)
+* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_105.md)
+* [Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_88.md)
+* [SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_55.md)
+* [The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_169.md)
+* [EXPOSED: An occupant exposure model for confined spaces to retrofit crowd models during a pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_3.md)
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_38.md)
 
 ## Title of the article
 
@@ -40,39 +40,39 @@ A review of facilities management interventions to mitigate respiratory infectio
 
 ## Benefits listed in this article
 
-* [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_184.md)
-* [Reduction in fomite transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_847.md)
-* [Reduction in droplet transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_848.md)
+* [Reduction in infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_184.md)
+* [Reduction in fomite transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_847.md)
+* [Reduction in droplet transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_848.md)
 
 ## List of risks in an article
 
-* [Inadequate hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1626.md)
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
-* [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2366.md)
-* [Contaminated drainage systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2365.md)
-* [High occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2367.md)
+* [Inadequate hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1626.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
+* [Ineffective cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2366.md)
+* [Contaminated drainage systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2365.md)
+* [High occupant density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2367.md)
 
 ## This article points to following mitigation
 
-* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_583.md)
-* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5265.md)
-* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5263.md)
-* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5267.md)
-* [Air pressure controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5264.md)
-* [Increased outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5261.md)
-* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5266.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5262.md)
+* [Adoption of emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_583.md)
+* [Space and occupancy management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5265.md)
+* [Uvgi disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5263.md)
+* [Enhanced cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5267.md)
+* [Air pressure controls](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5264.md)
+* [Increased outdoor air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5261.md)
+* [Proper maintenance of drainage system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5266.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5262.md)
 
 ## This article mentions these technologies
 
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1100.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
-* [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2007.md)
-* [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)
-* [Real-time occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2008.md)
-* [Space management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2009.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1100.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
+* [Cleaning products and equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2007.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_665.md)
+* [Real-time occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2008.md)
+* [Space management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2009.md)
 

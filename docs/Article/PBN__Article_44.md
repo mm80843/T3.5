@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_44 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_44 
 
 # __Nurture to nature via COVID-19, a self-regenerating environmental strategy of environment in global context__
 
@@ -24,35 +24,35 @@ Nurture to nature via COVID-19, a self-regenerating environmental strategy of en
 
 ## Benefits listed in this article
 
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
-* [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
-* [Preventing healthcare overload](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_199.md)
-* [Climate recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_200.md)
-* [Protection of wildlife](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_201.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Improved well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_153.md)
+* [Preventing healthcare overload](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_199.md)
+* [Climate recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_200.md)
+* [Protection of wildlife](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_201.md)
 
 ## List of risks in an article
 
-* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1848.md)
-* [Environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_581.md)
-* [Lack of effective treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1849.md)
-* [Noise pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_150.md)
-* [Revenge pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1850.md)
+* [Contagious disease propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1848.md)
+* [Environmental pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_581.md)
+* [Lack of effective treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1849.md)
+* [Noise pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_150.md)
+* [Revenge pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1850.md)
 
 ## This article points to following mitigation
 
-* [Social lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_182.md)
-* [Use of specific medicines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4470.md)
-* [Development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4471.md)
-* [High throughput in silico screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4472.md)
-* [Restriction of inter-individual physical interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4469.md)
+* [Social lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_182.md)
+* [Use of specific medicines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4470.md)
+* [Development of vaccines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4471.md)
+* [High throughput in silico screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4472.md)
+* [Restriction of inter-individual physical interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4469.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_402.md)
-* [Noise reduction measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1237.md)
-* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1236.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_904.md)
-* [Renewable energy sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_864.md)
-* [Sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
-* [Research and development of vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1235.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Noise reduction measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1237.md)
+* [Reduction of carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1236.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_904.md)
+* [Renewable energy sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_864.md)
+* [Sustainable practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1152.md)
+* [Research and development of vaccines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1235.md)
 

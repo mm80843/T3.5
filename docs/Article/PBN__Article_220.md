@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_220 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_220 
 
 # __Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic on Construction Organizations: Preliminary Findings__
 
@@ -24,39 +24,39 @@ Identifying Actions to Control and Mitigate the Effects of the COVID-19 Pandemic
 
 ## Benefits listed in this article
 
-* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
-* [Minimized transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_279.md)
-* [Enhanced worker protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1055.md)
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_207.md)
+* [Minimized transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_279.md)
+* [Enhanced worker protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1055.md)
 
 ## List of risks in an article
 
-* [Communication challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1933.md)
-* [Workforce distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1930.md)
-* [Uncertainty in construction market](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1932.md)
-* [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1490.md)
-* [Inadequate site facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1931.md)
+* [Communication challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1933.md)
+* [Workforce distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1930.md)
+* [Uncertainty in construction market](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1932.md)
+* [Lack of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1490.md)
+* [Inadequate site facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1931.md)
 
 ## This article points to following mitigation
 
-* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4587.md)
-* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1062.md)
-* [Implementing remote working](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1063.md)
-* [Assessing the possibility of late or halted deliveries of materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4588.md)
-* [Providing additional personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4584.md)
-* [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4589.md)
-* [Health screening of workers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1059.md)
-* [Regular communication and coordination among project teams](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4586.md)
-* [Disinfecting shared tools and equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1061.md)
-* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4585.md)
+* [Using smart technologies for site access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4587.md)
+* [Implementing physical distancing procedures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1062.md)
+* [Implementing remote working](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1063.md)
+* [Assessing the possibility of late or halted deliveries of materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4588.md)
+* [Providing additional personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4584.md)
+* [Regular monitoring of public health and government announcements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4589.md)
+* [Health screening of workers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1059.md)
+* [Regular communication and coordination among project teams](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4586.md)
+* [Disinfecting shared tools and equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1061.md)
+* [Upgrading site facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4585.md)
 
 ## This article mentions these technologies
 
-* [Project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
-* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_110.md)
-* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1364.md)
-* [Videoconferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1365.md)
-* [Online ordering platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1366.md)
-* [Sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1367.md)
-* [Market analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1368.md)
-* [Smart technologies for site communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1369.md)
+* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
+* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_110.md)
+* [Remote monitoring and tracking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1364.md)
+* [Videoconferencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1365.md)
+* [Online ordering platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1366.md)
+* [Sensor-based systems for monitoring facility usage and cleanliness](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1367.md)
+* [Market analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1368.md)
+* [Smart technologies for site communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1369.md)
 

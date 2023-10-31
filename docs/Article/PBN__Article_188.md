@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_188 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_188 
 
 # __Effective Risk Communication for Public Health Emergency: Reflection on the COVID-19 (2019-nCoV) Outbreak in Wuhan, China__
 
@@ -24,36 +24,36 @@ Effective Risk Communication for Public Health Emergency: Reflection on the COVI
 
 ## Benefits listed in this article
 
-* [Improved information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_918.md)
-* [Timely decision making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_919.md)
-* [Increased credibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_920.md)
-* [Enhanced public perception](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_921.md)
-* [Improved risk perception](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_922.md)
+* [Improved information transparency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_918.md)
+* [Timely decision making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_919.md)
+* [Increased credibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_920.md)
+* [Enhanced public perception](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_921.md)
+* [Improved risk perception](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_922.md)
 
 ## List of risks in an article
 
-* [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2364.md)
-* [Concealment of information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2362.md)
-* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_658.md)
-* [Delayed decision making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_659.md)
-* [Unclear risk messages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2363.md)
+* [Lack of cultural sensitivity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2364.md)
+* [Concealment of information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2362.md)
+* [Lack of information transparency](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_658.md)
+* [Delayed decision making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_659.md)
+* [Unclear risk messages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2363.md)
 
 ## This article points to following mitigation
 
-* [Open, accurate, and consistent messages](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5260.md)
-* [Information transparency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5256.md)
-* [Evidence-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5258.md)
-* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5257.md)
-* [Cultural sensitivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5259.md)
+* [Open, accurate, and consistent messages](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5260.md)
+* [Information transparency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5256.md)
+* [Evidence-based communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5258.md)
+* [Timely disclosure of information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5257.md)
+* [Cultural sensitivity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5259.md)
 
 ## This article mentions these technologies
 
-* [Communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
-* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
-* [Open communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2002.md)
-* [Decision support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1315.md)
-* [Real-time data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2003.md)
-* [Public communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2004.md)
-* [Communication experts](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2006.md)
-* [Cultural and linguistic adaptation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2005.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Open communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2002.md)
+* [Decision support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1315.md)
+* [Real-time data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2003.md)
+* [Public communication campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2004.md)
+* [Communication experts](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2006.md)
+* [Cultural and linguistic adaptation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2005.md)
 

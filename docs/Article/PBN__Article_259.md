@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_259 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_259 
 
 # __The COVID-19 epidemiology and monitoring ontology__
 
@@ -24,38 +24,38 @@ The COVID-19 epidemiology and monitoring ontology
 
 ## Benefits listed in this article
 
-* [Improved ontology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1230.md)
-* [Interoperable ontology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1231.md)
-* [Consistent modeling](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1232.md)
-* [Enriched ontology](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1233.md)
-* [Improved logical](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1234.md)
-* [Reasoning](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1235.md)
+* [Improved ontology](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1230.md)
+* [Interoperable ontology](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1231.md)
+* [Consistent modeling](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1232.md)
+* [Enriched ontology](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1233.md)
+* [Improved logical](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1234.md)
+* [Reasoning](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1235.md)
 
 ## List of risks in an article
 
-* [Lack of interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_901.md)
-* [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_900.md)
-* [Lack of data standardization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1919.md)
-* [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1917.md)
-* [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1918.md)
+* [Lack of interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_901.md)
+* [Poor ontological coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_900.md)
+* [Lack of data standardization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1919.md)
+* [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1917.md)
+* [Lack of axioms and definition patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1918.md)
 
 ## This article points to following mitigation
 
-* [Ontological representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4563.md)
-* [Knowledge-engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4558.md)
-* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4557.md)
-* [Fair resource for health data and research](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4559.md)
-* [Reuse of ontological terms and models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4560.md)
-* [Fair-based projects like trusted world of corona twoc](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4561.md)
-* [Ontology-guided machine learning algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4562.md)
+* [Ontological representation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4563.md)
+* [Knowledge-engineering best practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4558.md)
+* [Interoperable biomedical ontology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4557.md)
+* [Fair resource for health data and research](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4559.md)
+* [Reuse of ontological terms and models](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4560.md)
+* [Fair-based projects like trusted world of corona twoc](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4561.md)
+* [Ontology-guided machine learning algorithms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4562.md)
 
 ## This article mentions these technologies
 
-* [Ontology search engines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1343.md)
-* [Knowledge extraction techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1344.md)
-* [Semantic web technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1341.md)
-* [Ontology engineering best practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1342.md)
-* [Data modeling standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1346.md)
-* [Interoperability guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1347.md)
-* [Established ontological models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1345.md)
+* [Ontology search engines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1343.md)
+* [Knowledge extraction techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1344.md)
+* [Semantic web technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1341.md)
+* [Ontology engineering best practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1342.md)
+* [Data modeling standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1346.md)
+* [Interoperability guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1347.md)
+* [Established ontological models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1345.md)
 

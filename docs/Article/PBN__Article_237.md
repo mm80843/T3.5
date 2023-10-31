@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_237 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_237 
 
 # __Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scraping__
 
@@ -24,43 +24,43 @@ Risk Diagnosis and Mitigation System of COVID-19 Using Expert System and Web Scr
 
 ## Benefits listed in this article
 
-* [Increased awareness of covid-19 risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1135.md)
-* [Access to updated and comprehensive mitigation information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1136.md)
-* [Access to expert knowledge without the need for direct consultation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1137.md)
-* [Access to accurate and up-to-date covid-19 data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1138.md)
-* [Reliable and accurate early detection of covid-19 risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1139.md)
+* [Increased awareness of covid-19 risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1135.md)
+* [Access to updated and comprehensive mitigation information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1136.md)
+* [Access to expert knowledge without the need for direct consultation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1137.md)
+* [Access to accurate and up-to-date covid-19 data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1138.md)
+* [Reliable and accurate early detection of covid-19 risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1139.md)
 
 ## List of risks in an article
 
-* [Lack of public understanding of covid-19 mitigation and early detection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_835.md)
-* [Limited access to covid-19 mitigation information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1766.md)
-* [Inaccurate or unreliable covid-19 information disseminated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1765.md)
-* [Inefficient early detection of covid-19 infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1764.md)
-* [Risk of data privacy and security in mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1767.md)
+* [Lack of public understanding of covid-19 mitigation and early detection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_835.md)
+* [Limited access to covid-19 mitigation information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1766.md)
+* [Inaccurate or unreliable covid-19 information disseminated](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1765.md)
+* [Inefficient early detection of covid-19 infection risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1764.md)
+* [Risk of data privacy and security in mobile applications](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1767.md)
 
 ## This article points to following mitigation
 
-* [Java language](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4304.md)
-* [Jsoup library](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4305.md)
-* [Sqlite database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4306.md)
-* [Geographic information system gis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4307.md)
-* [Expert system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4301.md)
-* [Web scraping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4302.md)
-* [Rule-based expert system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4303.md)
+* [Java language](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4304.md)
+* [Jsoup library](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4305.md)
+* [Sqlite database](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4306.md)
+* [Geographic information system gis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4307.md)
+* [Expert system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4301.md)
+* [Web scraping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4302.md)
+* [Rule-based expert system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4303.md)
 
 ## This article mentions these technologies
 
-* [Encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_315.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
-* [Mobile applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1144.md)
-* [Educational websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1143.md)
-* [Authentication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_398.md)
-* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1147.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
-* [Reliable news sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1125.md)
-* [Websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1087.md)
-* [Secure data storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_574.md)
-* [Expert systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1145.md)
-* [Rule-based methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1146.md)
+* [Encryption algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_315.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
+* [Mobile applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1144.md)
+* [Educational websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1143.md)
+* [Authentication protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_398.md)
+* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1147.md)
+* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
+* [Reliable news sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1125.md)
+* [Websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1087.md)
+* [Secure data storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_574.md)
+* [Expert systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1145.md)
+* [Rule-based methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1146.md)
 

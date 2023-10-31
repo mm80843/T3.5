@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_99 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_99 
 
 # __The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review__
 
@@ -24,44 +24,44 @@ The Rise of Wearable Devices during the COVID-19 Pandemic: A Systematic Review
 
 ## Benefits listed in this article
 
-* [Real-time disease detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_482.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_483.md)
-* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_484.md)
-* [Risk prediction and forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_485.md)
-* [Data storage and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_486.md)
+* [Real-time disease detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_482.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_483.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_484.md)
+* [Risk prediction and forecasting](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_485.md)
+* [Data storage and analysis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_486.md)
 
 ## List of risks in an article
 
-* [Spread of sars-cov-2 through droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1235.md)
-* [Privacy and security risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1238.md)
-* [Indirect transmission via contaminated surfaces fomites](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1236.md)
-* [Asymptomatic transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1237.md)
-* [Technical limitations of wearables](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1239.md)
+* [Spread of sars-cov-2 through droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1235.md)
+* [Privacy and security risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1238.md)
+* [Indirect transmission via contaminated surfaces fomites](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1236.md)
+* [Asymptomatic transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1237.md)
+* [Technical limitations of wearables](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1239.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3248.md)
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
-* [Stress management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3436.md)
-* [Symptom screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3438.md)
-* [Smart learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3437.md)
-* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3401.md)
-* [Paper-based sensor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3434.md)
-* [Cloud-based solution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3435.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1003.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3248.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_498.md)
+* [Stress management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3436.md)
+* [Symptom screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3438.md)
+* [Smart learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3437.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3401.md)
+* [Paper-based sensor](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3434.md)
+* [Cloud-based solution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3435.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1003.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_343.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
-* [Data encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_344.md)
-* [Secure server networks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_345.md)
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_228.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_342.md)
-* [Sensor calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_346.md)
-* [Battery optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_347.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Diagnostic testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_343.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
+* [Secure server networks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_345.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_228.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_342.md)
+* [Sensor calibration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_346.md)
+* [Battery optimization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_347.md)
 

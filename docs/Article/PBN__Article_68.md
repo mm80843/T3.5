@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_68 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_68 
 
 # __Implications of COVID-19 control measures for diet and physical activity, and lessons for addressing other pandemics facing rapidly urbanising countries__
 
@@ -24,53 +24,53 @@ Implications of COVID-19 control measures for diet and physical activity, and le
 
 ## Benefits listed in this article
 
-* [Increased physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_352.md)
-* [Improved access to healthy diets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_353.md)
-* [Improved food accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_354.md)
-* [Protection of individual rights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_355.md)
+* [Increased physical activity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_352.md)
+* [Improved access to healthy diets](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_353.md)
+* [Improved food accessibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_354.md)
+* [Protection of individual rights](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_355.md)
 
 ## List of risks in an article
 
-* [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1840.md)
-* [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
-* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1839.md)
-* [Limited access to healthy food](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1837.md)
-* [Inequities in disease vulnerability and access to care](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1841.md)
+* [Job and livelihood loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1840.md)
+* [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1838.md)
+* [Food supply disruptions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1839.md)
+* [Limited access to healthy food](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1837.md)
+* [Inequities in disease vulnerability and access to care](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1841.md)
 
 ## This article points to following mitigation
 
-* [Governance of urban space to improve access to neighborhood resources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4457.md)
-* [Use of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4455.md)
-* [Reduced traveling and walking opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4453.md)
-* [Provision of water in informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4448.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3284.md)
-* [Multisectoral action to reduce inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4456.md)
-* [Creation of space for walking and cycling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4454.md)
-* [Closing of schools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4446.md)
-* [Interruption of access to food for children from households dependent on school-feeding programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4451.md)
-* [Rights-based approach to public health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_359.md)
-* [Closing of borders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4445.md)
-* [Restricted movement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4447.md)
-* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_706.md)
-* [Banning of large gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4449.md)
-* [Retaining health as a priority in economic, political, food, and built environment sectors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4458.md)
-* [Increase cooking and eating at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4450.md)
-* [Loss of jobs and livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4452.md)
+* [Governance of urban space to improve access to neighborhood resources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4457.md)
+* [Use of television and social media-based exercise programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4455.md)
+* [Reduced traveling and walking opportunities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4453.md)
+* [Provision of water in informal settlements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4448.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Multisectoral action to reduce inequalities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4456.md)
+* [Creation of space for walking and cycling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4454.md)
+* [Closing of schools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4446.md)
+* [Interruption of access to food for children from households dependent on school-feeding programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4451.md)
+* [Rights-based approach to public health](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_359.md)
+* [Closing of borders](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4445.md)
+* [Restricted movement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4447.md)
+* [Working from home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_706.md)
+* [Banning of large gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4449.md)
+* [Retaining health as a priority in economic, political, food, and built environment sectors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4458.md)
+* [Increase cooking and eating at home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4450.md)
+* [Loss of jobs and livelihoods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4452.md)
 
 ## This article mentions these technologies
 
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
-* [Job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_630.md)
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
-* [Data-driven food supply management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1224.md)
-* [Mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_475.md)
-* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_892.md)
-* [Employment opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1225.md)
-* [Exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1222.md)
-* [Urban farming technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1219.md)
-* [Food delivery apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1217.md)
-* [Online food platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1218.md)
-* [Public parks and green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1220.md)
-* [Walking and cycling infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1221.md)
-* [Food storage and preservation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1223.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
+* [Job training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_630.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Data-driven food supply management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1224.md)
+* [Mobile health clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_475.md)
+* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_892.md)
+* [Employment opportunities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1225.md)
+* [Exercise programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1222.md)
+* [Urban farming technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1219.md)
+* [Food delivery apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1217.md)
+* [Online food platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1218.md)
+* [Public parks and green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1220.md)
+* [Walking and cycling infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1221.md)
+* [Food storage and preservation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1223.md)
 

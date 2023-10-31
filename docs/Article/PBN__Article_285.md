@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_285 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_285 
 
 # __Design and Implementation of Entry-level COVID-19 Digital Signage Player supporting Fever Detection, Face Mask Wearing Detection and KI-pass QR Code Checking__
 
@@ -24,36 +24,36 @@ Design and Implementation of Entry-level COVID-19 Digital Signage Player support
 
 ## Benefits listed in this article
 
-* [Enhanced air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1338.md)
+* [Enhanced air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1338.md)
 
 ## List of risks in an article
 
-* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1487.md)
-* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_153.md)
-* [Inefficient contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1488.md)
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
-* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1486.md)
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1487.md)
+* [Contagious diseases propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_153.md)
+* [Inefficient contact tracing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1488.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
+* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1486.md)
 
 ## This article points to following mitigation
 
-* [Temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3825.md)
-* [Face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3828.md)
-* [Face mask detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1276.md)
-* [Digital signage player](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3827.md)
-* [Qr code check-in](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3826.md)
+* [Temperature measurement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3825.md)
+* [Face recognition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3828.md)
+* [Face mask detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1276.md)
+* [Digital signage player](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3827.md)
+* [Qr code check-in](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3826.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [Hygiene supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_766.md)
-* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_767.md)
-* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_29.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_430.md)
-* [Sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_768.md)
-* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_769.md)
-* [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)
-* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_248.md)
-* [Crowd monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_743.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Hygiene supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_766.md)
+* [Air filtration and purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_767.md)
+* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_29.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_430.md)
+* [Sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_768.md)
+* [Data analytics platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_769.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_665.md)
+* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_248.md)
+* [Crowd monitoring technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_743.md)
 

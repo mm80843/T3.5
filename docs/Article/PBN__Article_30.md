@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_30 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_30 
 
 # __Effects of non-pharmaceutical interventions against COVID-19 on the incidence of other diseases__
 
@@ -28,41 +28,41 @@ Effects of non-pharmaceutical interventions against COVID-19 on the incidence of
 
 ## Benefits listed in this article
 
-* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_35.md)
-* [Reduced burden on healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_140.md)
-* [Improved mental health and reduced domestic violence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_141.md)
-* [Stability and economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_142.md)
-* [Improved overall health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_143.md)
+* [Improved access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_35.md)
+* [Reduced burden on healthcare system](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_140.md)
+* [Improved mental health and reduced domestic violence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_141.md)
+* [Stability and economic recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_142.md)
+* [Improved overall health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_143.md)
 
 ## List of risks in an article
 
-* [Interrupted access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1771.md)
-* [Negative effects on the economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1773.md)
-* [Reduction in infectious disease incidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1775.md)
-* [Psycho-social effects of npis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1772.md)
-* [Positive health effects of npis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1774.md)
+* [Interrupted access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1771.md)
+* [Negative effects on the economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1773.md)
+* [Reduction in infectious disease incidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1775.md)
+* [Psycho-social effects of npis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1772.md)
+* [Positive health effects of npis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1774.md)
 
 ## This article points to following mitigation
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3332.md)
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3820.md)
-* [Face masking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4313.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3284.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3873.md)
-* [Reduced environmental pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4317.md)
-* [Restrictions of movement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4314.md)
-* [Social gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4315.md)
-* [Isolation/quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4316.md)
-* [Improved hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4318.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3820.md)
+* [Face masking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4313.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
+* [Reduced environmental pollution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4317.md)
+* [Restrictions of movement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4314.md)
+* [Social gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4315.md)
+* [Isolation/quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4316.md)
+* [Improved hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4318.md)
 
 ## This article mentions these technologies
 
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [Mobile clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_20.md)
-* [Hotlines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_222.md)
-* [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1119.md)
-* [Financial support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_44.md)
-* [Sustainable practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1152.md)
-* [Social safety nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_527.md)
-* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1153.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Mobile clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_20.md)
+* [Hotlines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_222.md)
+* [Mental health support services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1119.md)
+* [Financial support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_44.md)
+* [Sustainable practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1152.md)
+* [Social safety nets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_527.md)
+* [Active transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1153.md)
 

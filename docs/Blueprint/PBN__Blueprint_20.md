@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_20 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_20 
 
 # __Infection tracking__
 
@@ -20,40 +20,40 @@ Tracking and surveillance of infections allows better assessment of the spread o
 
 ## Enablers of the blueprint
 
-* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_32.md)
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_2.md)
-* [Telemedecine](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_17.md)
-* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_9.md)
-* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_13.md)
+* [Disease Diagnostic Test Kits](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_32.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [Telemedecine](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_17.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
+* [Robots, Drones & Automated Vehicules](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_13.md)
 
 ## Interventions of the blueprint
 
-* [Prevent fake news](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_36.md)
-* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_29.md)
-* [Promote verified information](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_39.md)
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_31.md)
+* [Prevent fake news](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_36.md)
+* [Infection tracking / monitoring](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_29.md)
+* [Promote verified information](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_39.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_31.md)
 
 ## Possible mitigations of the BP
 
-* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5057.md)
-* [Smart tracking of infected persons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4130.md)
-* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4134.md)
-* [Tracing and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4747.md)
-* [Outbreak tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4752.md)
-* [Implement wastewater-based surveillance systems to detect and monitor viral presence in communities, identify local hot spots, and deploy targeted interventions.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3072.md)
-* [Remote monitoring of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4799.md)
-* [Strengthening of surveillance systems, increased monitoring of vector populations and disease incidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3054.md)
-* [Early detection, isolation and treatment of infected cases, contact tracing, social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2648.md)
-* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3121.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5057.md)
+* [Smart tracking of infected persons](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4130.md)
+* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4134.md)
+* [Tracing and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4747.md)
+* [Outbreak tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4752.md)
+* [Implement wastewater-based surveillance systems to detect and monitor viral presence in communities, identify local hot spots, and deploy targeted interventions.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3072.md)
+* [Remote monitoring of infected patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4799.md)
+* [Strengthening of surveillance systems, increased monitoring of vector populations and disease incidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3054.md)
+* [Early detection, isolation and treatment of infected cases, contact tracing, social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2648.md)
+* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3121.md)
 
 ## Type of deployment of the blueprint
 
-* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_2.md)
+* [Permanent & temporary](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_2.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
-* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
 
 ## Problem of the blueprint
 
@@ -73,20 +73,20 @@ The restrictions and limitations of this proposal primarily concern data collect
 
 ## Possible risks of the BP
 
-* [Population-based data and modeling unable to accurately predict infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1005.md)
-* [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1305.md)
-* [Tracking and containing outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2728.md)
-* [Early detection and mitigation of outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_882.md)
-* [Inaccurate identification and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
-* [Delay in reporting infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_846.md)
-* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
-* [Enhancement of global efforts in epidemic monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_425.md)
-* [Epidemic control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_585.md)
-* [Health surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3366.md)
+* [Population-based data and modeling unable to accurately predict infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1005.md)
+* [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1305.md)
+* [Tracking and containing outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2728.md)
+* [Early detection and mitigation of outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_882.md)
+* [Inaccurate identification and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2011.md)
+* [Delay in reporting infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_846.md)
+* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1233.md)
+* [Enhancement of global efforts in epidemic monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_425.md)
+* [Epidemic control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_585.md)
+* [Health surveillance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3366.md)
 
 ## Scale of the of the blueprint
 
-* [Both](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_1.md)
+* [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -94,12 +94,12 @@ PBN:BP_21
 
 ## Mode of transmission covered by the blueprint
 
-* [All](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_4.md)
+* [All](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_4.md)
 
 ## Type of the blueprint
 
-* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
-* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
+* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

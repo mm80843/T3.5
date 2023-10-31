@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_297 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_297 
 
 # __Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a Privacy-First Holistic Framework__
 
@@ -16,8 +16,8 @@ The COVID-19 pandemic is a disease caused by a virus that attacks people's respi
 
 ## Referenced by other articles
 
-* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_23.md)
-* [A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_313.md)
+* [Combating COVID-19—The role of robotics in managing public health and infectious diseases](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_23.md)
+* [A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_313.md)
 
 ## Title of the article
 
@@ -29,61 +29,61 @@ Leveraging Digital Transformation Technologies to Tackle COVID-19: Proposing a P
 
 ## Benefits listed in this article
 
-* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
-* [Decreased workload for healthcare staff](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1392.md)
-* [Early detection of carriers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1393.md)
-* [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1394.md)
-* [Improved strategic management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1395.md)
-* [Reduced stress levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1396.md)
-* [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1397.md)
-* [Prevention of misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1398.md)
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_177.md)
+* [Decreased workload for healthcare staff](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1392.md)
+* [Early detection of carriers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1393.md)
+* [Prevention of economic shrinkage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1394.md)
+* [Improved strategic management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1395.md)
+* [Reduced stress levels](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1396.md)
+* [Early detection and personalized treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1397.md)
+* [Prevention of misinformation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1398.md)
 
 ## List of risks in an article
 
-* [Lack of infrastructure for 5g network](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1102.md)
-* [Data acquisition and integration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1095.md)
-* [Governance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1098.md)
-* [Privacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1096.md)
-* [Lack of legislation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1101.md)
-* [Lack of historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1097.md)
-* [Cost of setup and operation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1103.md)
-* [Expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1099.md)
-* [Scalability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1100.md)
-* [Adoption and trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1104.md)
+* [Lack of infrastructure for 5g network](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1102.md)
+* [Data acquisition and integration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1095.md)
+* [Governance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1098.md)
+* [Privacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1096.md)
+* [Lack of legislation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1101.md)
+* [Lack of historical data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1097.md)
+* [Cost of setup and operation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1103.md)
+* [Expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1099.md)
+* [Scalability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1100.md)
+* [Adoption and trust](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1104.md)
 
 ## This article points to following mitigation
 
-* [Data-driven solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3249.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3247.md)
-* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3248.md)
-* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3252.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
-* [Virtual clinics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3250.md)
-* [Prevention applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3253.md)
-* [Ai-powered diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3251.md)
-* [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3254.md)
-* [Lockdown and quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3246.md)
+* [Data-driven solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3249.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Digital contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3248.md)
+* [Blockchain for data privacy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3252.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)
+* [Virtual clinics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3250.md)
+* [Prevention applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3253.md)
+* [Ai-powered diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3251.md)
+* [Integrated healthcare environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3254.md)
+* [Lockdown and quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3246.md)
 
 ## This article mentions these technologies
 
-* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
-* [Transparency measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_103.md)
-* [Cost optimization strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_162.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
-* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
-* [Protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_154.md)
-* [Incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_163.md)
-* [Funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_161.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
-* [Data management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_158.md)
-* [Data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
-* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
-* [Collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_151.md)
-* [Standards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_153.md)
-* [Interdisciplinary teams](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_156.md)
-* [Scalable infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_157.md)
-* [Legal advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_159.md)
-* [Policy engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_160.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
+* [Transparency measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_103.md)
+* [Cost optimization strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_162.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
+* [Protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_154.md)
+* [Incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_163.md)
+* [Funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_161.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Data management techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_158.md)
+* [Data integration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_114.md)
+* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_150.md)
+* [Collaboration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_151.md)
+* [Standards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_153.md)
+* [Interdisciplinary teams](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_156.md)
+* [Scalable infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_157.md)
+* [Legal advocacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_159.md)
+* [Policy engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_160.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_147 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_147 
 
 # __Pandemic stricken cities on lockdown. Where are our planning and design professionals [now, then and into the future]?__
 
@@ -16,7 +16,7 @@ The coronavirus (COVID-19) has spread all over the world and has caused a lot of
 
 ## Referenced by other articles
 
-* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_280.md)
+* [On the Coronavirus (COVID-19) Outbreak and the Smart City Network: Universal Data Sharing Standards Coupled with Artificial Intelligence (AI) to Benefit Urban Health Monitoring and Management](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_280.md)
 
 ## Title of the article
 
@@ -28,43 +28,43 @@ Pandemic stricken cities on lockdown. Where are our planning and design professi
 
 ## Benefits listed in this article
 
-* [Increased medical capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_739.md)
-* [Enhanced coordination and communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_740.md)
-* [Economic stability and recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_741.md)
-* [Enhanced surveillance and social monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_742.md)
-* [Improved disaster response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_743.md)
+* [Increased medical capacity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_739.md)
+* [Enhanced coordination and communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_740.md)
+* [Economic stability and recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_741.md)
+* [Enhanced surveillance and social monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_742.md)
+* [Improved disaster response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_743.md)
 
 ## List of risks in an article
 
-* [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_500.md)
-* [Overwhelmed health sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1072.md)
-* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1075.md)
-* [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1074.md)
-* [Hoarding of essential commodities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1073.md)
+* [Disruption in supply chain](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_500.md)
+* [Overwhelmed health sector](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1072.md)
+* [Lack of data sharing and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1075.md)
+* [Psychological impacts and social tensions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1074.md)
+* [Hoarding of essential commodities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1073.md)
 
 ## This article points to following mitigation
 
-* [Lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_863.md)
-* [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3217.md)
-* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3214.md)
-* [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3213.md)
-* [Standardizing protocols and networks for data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3215.md)
-* [Standardization of protocols for seamless communication and privacy protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3219.md)
-* [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3216.md)
-* [Expansion of sdg 11 to include pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3220.md)
-* [Bio-risk management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3218.md)
-* [Involvement of architectural and urban institutions in addressing pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3221.md)
+* [Lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_863.md)
+* [Inclusion of pandemic preparedness in disaster management protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3217.md)
+* [Conversion of existing spaces into medical facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3214.md)
+* [Construction of specialized hospitals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3213.md)
+* [Standardizing protocols and networks for data sharing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3215.md)
+* [Standardization of protocols for seamless communication and privacy protection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3219.md)
+* [Urban restructuring for emergency preparedness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3216.md)
+* [Expansion of sdg 11 to include pandemic preparedness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3220.md)
+* [Bio-risk management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3218.md)
+* [Involvement of architectural and urban institutions in addressing pandemics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3221.md)
 
 ## This article mentions these technologies
 
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_110.md)
-* [Alternative transportation methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_111.md)
-* [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
-* [Standardized protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_115.md)
-* [Counseling services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_113.md)
-* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
-* [Increased healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_109.md)
-* [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_112.md)
-* [Data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_110.md)
+* [Alternative transportation methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_111.md)
+* [Public education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_24.md)
+* [Standardized protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_115.md)
+* [Counseling services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_113.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Increased healthcare funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_109.md)
+* [Enforcement of regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_112.md)
+* [Data integration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_114.md)
 

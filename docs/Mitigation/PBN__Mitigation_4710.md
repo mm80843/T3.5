@@ -1,27 +1,27 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4710 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_4710 
 
 # __Promote physical activity and exercise__
 
 ## Category to which it belongs
 
-* [Promote physical activity through various methods, including incorporating exercise opportunities into design, online classes, and virtual reality training, to enhance health and well-being.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_90.md)
+* [Promote physical activity through various methods, including incorporating exercise opportunities into design, online classes, and virtual reality training, to enhance health and well-being.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_90.md)
 
 ## Closest similar item
 
-* [Physical activity promotion strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3180.md)
-* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3915.md)
-* [Physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3528.md)
-* [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_73.md)
-* [Moderate physical exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1177.md)
-* [Promote home-based exercise programs, provide online resources for exercise routines, and encourage individuals to find alternative ways to stay active](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2277.md)
-* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_212.md)
-* [Intensity of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3183.md)
-* [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2274.md)
-* [Encourage physical exercise at home, balance and flexibility training, muscle strength exercise, and endurance training.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1486.md)
+* [Physical activity promotion strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3180.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3915.md)
+* [Physical exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3528.md)
+* [Regular physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_73.md)
+* [Moderate physical exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1177.md)
+* [Promote home-based exercise programs, provide online resources for exercise routines, and encourage individuals to find alternative ways to stay active](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2277.md)
+* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_212.md)
+* [Intensity of physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3183.md)
+* [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2274.md)
+* [Encourage physical exercise at home, balance and flexibility training, muscle strength exercise, and endurance training.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1486.md)
 
 ## Blueprints with this mitigation
 
-* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_23.md)
+* [Enhancing physical activity](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_23.md)
 
 ## Property: has_MitigationPrinciple
 
@@ -32,7 +32,7 @@ Encourage individuals to engage in regular physical activity and exercise to imp
 
 ## Property: has_MitigationSource
 
-* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_189.md)
+* [Mental health economics: A prospective study on psychological flourishing and associations with healthcare costs and sickness benefit transfers in Denmark](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_189.md)
 
 ## This Mitigation is enabled by the following technologies
 

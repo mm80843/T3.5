@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_39 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_39 
 
 # __Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide__
 
@@ -26,38 +26,38 @@ Multilevel Analysis of Personal, Non-Medical COVID-19-Related Impact Worldwide
 
 ## Benefits listed in this article
 
-* [Identification of high prevalence areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_180.md)
-* [Early detection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_181.md)
-* [Increased access to specialist care](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_182.md)
-* [Timely treatment and intervention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_183.md)
+* [Identification of high prevalence areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_180.md)
+* [Early detection and treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_181.md)
+* [Increased access to specialist care](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_182.md)
+* [Timely treatment and intervention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_183.md)
 
 ## List of risks in an article
 
-* [High hiv prevalence in women](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1337.md)
-* [High hiv prevalence in men](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1338.md)
-* [Spatial variation in hiv prevalence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1339.md)
-* [Rural-urban disparities in access to gynecologic oncologist treatment for ovarian cancer](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1340.md)
+* [High hiv prevalence in women](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1337.md)
+* [High hiv prevalence in men](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1338.md)
+* [Spatial variation in hiv prevalence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1339.md)
+* [Rural-urban disparities in access to gynecologic oncologist treatment for ovarian cancer](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1340.md)
 
 ## This article points to following mitigation
 
-* [Spatial analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_160.md)
-* [Voluntary hiv testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3618.md)
-* [Cytoreduction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3626.md)
-* [Multilevel logistic regression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3619.md)
-* [Standardized questionnaires](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3620.md)
-* [Descriptive statistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3621.md)
-* [Local moran’s i statistic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3622.md)
-* [Guideline recommendations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3623.md)
-* [Multivariable adjusted logistic regression](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3624.md)
-* [Cancer surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3625.md)
+* [Spatial analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_160.md)
+* [Voluntary hiv testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3618.md)
+* [Cytoreduction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3626.md)
+* [Multilevel logistic regression](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3619.md)
+* [Standardized questionnaires](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3620.md)
+* [Descriptive statistics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3621.md)
+* [Local moran’s i statistic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3622.md)
+* [Guideline recommendations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3623.md)
+* [Multivariable adjusted logistic regression](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3624.md)
+* [Cancer surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3625.md)
 
 ## This article mentions these technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [Mobile healthcare clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_541.md)
-* [Transportation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_542.md)
-* [Remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
-* [Geographic information systems gis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_539.md)
-* [Spatial analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_540.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Mobile healthcare clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_541.md)
+* [Transportation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_542.md)
+* [Remote sensing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_279.md)
+* [Geographic information systems gis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_539.md)
+* [Spatial analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_540.md)
 

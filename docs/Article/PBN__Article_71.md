@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_71 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_71 
 
 # __Characterization and performance evaluation of a full-scale activated carbon-based dynamic botanical air filtration system for improving indoor air quality__
 
@@ -24,33 +24,33 @@ Characterization and performance evaluation of a full-scale activated carbon-bas
 
 ## Benefits listed in this article
 
-* [Energy saving](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_363.md)
-* [Reduced emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_364.md)
-* [Improved aesthetics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_365.md)
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
+* [Energy saving](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_363.md)
+* [Reduced emissions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_364.md)
+* [Improved aesthetics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_365.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
 
 ## List of risks in an article
 
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
-* [Microbial pollution from botanical filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2281.md)
-* [Inefficient voc removal by plants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2280.md)
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_745.md)
+* [Microbial pollution from botanical filters](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2281.md)
+* [Inefficient voc removal by plants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2280.md)
 
 ## This article points to following mitigation
 
-* [Cleaning air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5113.md)
-* [Designing ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5112.md)
-* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5115.md)
-* [Controlling source](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5111.md)
-* [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5114.md)
+* [Cleaning air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5113.md)
+* [Designing ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5112.md)
+* [Dynamic botanical air filtration system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5115.md)
+* [Controlling source](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5111.md)
+* [Biological methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5114.md)
 
 ## This article mentions these technologies
 
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
-* [Energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1891.md)
-* [Maintenance protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1890.md)
-* [Activated carbon](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1889.md)
-* [Biological methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1888.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Energy-efficient systems and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1891.md)
+* [Maintenance protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1890.md)
+* [Activated carbon](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1889.md)
+* [Biological methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1888.md)
 

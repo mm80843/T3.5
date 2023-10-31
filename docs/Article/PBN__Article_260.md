@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_260 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_260 
 
 # __Occupants’ behavior and activity patterns influencing the energy consumption in the Kuwaiti residences__
 
@@ -24,38 +24,38 @@ Occupants’ behavior and activity patterns influencing the energy consumption i
 
 ## Benefits listed in this article
 
-* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
-* [Improved energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1236.md)
-* [Energy-saving conscious attitude](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1237.md)
+* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Improved energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1236.md)
+* [Energy-saving conscious attitude](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1237.md)
 
 ## List of risks in an article
 
-* [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1062.md)
-* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1060.md)
-* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1059.md)
-* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_908.md)
-* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1061.md)
+* [Lack of occupant interest in energy conservation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1062.md)
+* [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1060.md)
+* [Improper architectural designs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1059.md)
+* [High energy consumption in residential buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_908.md)
+* [Unconscious occupant behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1061.md)
 
 ## This article points to following mitigation
 
-* [Occupant awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3193.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3195.md)
-* [Occupancy-sensed lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1251.md)
-* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3192.md)
-* [Occupancy sensing setback thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3194.md)
+* [Occupant awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3193.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3195.md)
+* [Occupancy-sensed lighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1251.md)
+* [Climatically compatible house designs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3192.md)
+* [Occupancy sensing setback thermostats](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3194.md)
 
 ## This article mentions these technologies
 
-* [Insulation materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_80.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
-* [Energy-efficient technologies such as smart thermostats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_78.md)
-* [Education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_85.md)
-* [Financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
-* [Incentives for energy conservation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_87.md)
-* [Energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_81.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
-* [Quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_83.md)
-* [Inspections](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_84.md)
-* [Energy-saving tips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_86.md)
-* [Tariff reforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_88.md)
+* [Insulation materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_80.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
+* [Energy-efficient technologies such as smart thermostats](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_78.md)
+* [Education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_85.md)
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
+* [Incentives for energy conservation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_87.md)
+* [Energy-efficient design software and technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_81.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_83.md)
+* [Inspections](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_84.md)
+* [Energy-saving tips](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_86.md)
+* [Tariff reforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_88.md)
 

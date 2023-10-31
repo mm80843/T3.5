@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_258 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_258 
 
 # __Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a Locally-Adapted Brief Intervention for Mental Health and Psychosocial Support Service__
 
@@ -24,38 +24,38 @@ Ultra Brief Psychological Interventions for COVID-19 Pandemic: Introduction of a
 
 ## Benefits listed in this article
 
-* [Improved psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_84.md)
-* [Reduced stress and improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1226.md)
-* [Increased accessibility and standardization of mental health services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1228.md)
-* [Improved confidentiality and risk management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1227.md)
-* [Increased evidence-base for ubpi](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1229.md)
+* [Improved psychological well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_84.md)
+* [Reduced stress and improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1226.md)
+* [Increased accessibility and standardization of mental health services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1228.md)
+* [Improved confidentiality and risk management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1227.md)
+* [Increased evidence-base for ubpi](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1229.md)
 
 ## List of risks in an article
 
-* [Limited availability of non-verbal cues in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2217.md)
-* [Confidentiality breach in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2216.md)
-* [Limited human resources for occupational mental health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2219.md)
-* [Lack of quantitative evidence for the effectiveness of ubpi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2218.md)
-* [Restriction in delivery capability for pfa interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2220.md)
+* [Limited availability of non-verbal cues in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2217.md)
+* [Confidentiality breach in telepsychiatry consultations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2216.md)
+* [Limited human resources for occupational mental health interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2219.md)
+* [Lack of quantitative evidence for the effectiveness of ubpi](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2218.md)
+* [Restriction in delivery capability for pfa interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2220.md)
 
 ## This article points to following mitigation
 
-* [Training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5016.md)
-* [Ultrabrief psychological intervention ubpi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5013.md)
-* [Psychological first aid pfa](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5014.md)
-* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5012.md)
-* [Online delivery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5015.md)
+* [Training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5016.md)
+* [Ultrabrief psychological intervention ubpi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5013.md)
+* [Psychological first aid pfa](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5014.md)
+* [Telepsychiatry](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5012.md)
+* [Online delivery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5015.md)
 
 ## This article mentions these technologies
 
-* [Web-based platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1817.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
-* [Encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1068.md)
-* [Virtual communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_144.md)
-* [Data collection and analysis methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1815.md)
-* [Research studies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1814.md)
-* [Verbal communication techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1812.md)
-* [Task-shifting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1816.md)
-* [Secure telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1811.md)
-* [Active listening skills](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1813.md)
+* [Web-based platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1817.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Encryption technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1068.md)
+* [Virtual communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_144.md)
+* [Data collection and analysis methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1815.md)
+* [Research studies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1814.md)
+* [Verbal communication techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1812.md)
+* [Task-shifting strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1816.md)
+* [Secure telepsychiatry platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1811.md)
+* [Active listening skills](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1813.md)
 

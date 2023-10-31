@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_82 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_82 
 
 # __Analysis of COVID-19 Concerns Raised by the Construction Workforce and Development of Mitigation Practices__
 
@@ -16,9 +16,9 @@ Coronavirus disease (COVID-19) is a new and serious illness caused by a virus th
 
 ## Referenced by other articles
 
-* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_168.md)
-* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_115.md)
-* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_75.md)
+* [The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_168.md)
+* [Mechanisms for addressing the impact of COVID-19 on infrastructure projects](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_115.md)
+* [The Effects of Pandemic on Construction Industry in the UK](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_75.md)
 
 ## Title of the article
 
@@ -30,45 +30,45 @@ Analysis of COVID-19 Concerns Raised by the Construction Workforce and Developme
 
 ## Benefits listed in this article
 
-* [Reduced virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_248.md)
-* [Improved worker safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_411.md)
-* [Enhanced hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_412.md)
-* [Improved knowledge and compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_413.md)
-* [Early detection and prevention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_414.md)
+* [Reduced virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_248.md)
+* [Improved worker safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_411.md)
+* [Enhanced hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_412.md)
+* [Improved knowledge and compliance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_413.md)
+* [Early detection and prevention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_414.md)
 
 ## List of risks in an article
 
-* [Lack of social distancing implementation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1196.md)
-* [Inadequate hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1197.md)
-* [Failure to disinfect and clean work areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1198.md)
-* [Personnel reporting to work despite testing positive or being exposed to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1194.md)
-* [Non-compliance with mask mandates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1195.md)
+* [Lack of social distancing implementation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1196.md)
+* [Inadequate hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1197.md)
+* [Failure to disinfect and clean work areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1198.md)
+* [Personnel reporting to work despite testing positive or being exposed to covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1194.md)
+* [Non-compliance with mask mandates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1195.md)
 
 ## This article points to following mitigation
 
-* [Exposure response plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3371.md)
-* [Management of deliveries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3374.md)
-* [Daily tasks and activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3369.md)
-* [Controlling access points](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3366.md)
-* [Engineering controls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3370.md)
-* [Communication and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3367.md)
-* [Hygiene and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3373.md)
-* [Safety wearables and carry-ons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3376.md)
-* [Compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3368.md)
-* [Human interactions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3372.md)
-* [Physical and mental health](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3375.md)
+* [Exposure response plan](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3371.md)
+* [Management of deliveries](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3374.md)
+* [Daily tasks and activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3369.md)
+* [Controlling access points](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3366.md)
+* [Engineering controls](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3370.md)
+* [Communication and awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3367.md)
+* [Hygiene and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3373.md)
+* [Safety wearables and carry-ons](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3376.md)
+* [Compliance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3368.md)
+* [Human interactions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3372.md)
+* [Physical and mental health](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3375.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Remote work technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_284.md)
-* [Use of technology for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_289.md)
-* [Monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_287.md)
-* [Clear signage and reminders](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_288.md)
-* [Regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_285.md)
-* [Clear cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_293.md)
-* [Increased provision of hand washing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_290.md)
-* [Education on the importance of masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_286.md)
-* [Regular restocking of sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_291.md)
-* [Use of industry-approved disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_292.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Remote work technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_284.md)
+* [Use of technology for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_289.md)
+* [Monitoring and enforcement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_287.md)
+* [Clear signage and reminders](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_288.md)
+* [Regular monitoring and enforcement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_285.md)
+* [Clear cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_293.md)
+* [Increased provision of hand washing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_290.md)
+* [Education on the importance of masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_286.md)
+* [Regular restocking of sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_291.md)
+* [Use of industry-approved disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_292.md)
 

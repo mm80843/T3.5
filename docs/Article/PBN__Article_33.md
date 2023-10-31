@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_33 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_33 
 
 # __Building sustainable finance for resilient protected and conserved areas: lessons from COVID-19__
 
@@ -24,48 +24,48 @@ Building sustainable finance for resilient protected and conserved areas: lesson
 
 ## Benefits listed in this article
 
-* [Increased funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_147.md)
-* [Sustainable funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_148.md)
-* [Additional funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_149.md)
-* [Sustainable livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_150.md)
-* [Private investment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_151.md)
-* [Public awareness and support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_152.md)
+* [Increased funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_147.md)
+* [Sustainable funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_148.md)
+* [Additional funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_149.md)
+* [Sustainable livelihoods](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_150.md)
+* [Private investment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_151.md)
+* [Public awareness and support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_152.md)
 
 ## List of risks in an article
 
-* [Reduction in tourism revenue for pcas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_105.md)
-* [Impact of economic recovery responses on pcas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1294.md)
-* [Increase in local opportunity cost for pca-adjacent communities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1293.md)
-* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_106.md)
-* [Reduction in official development aid and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1292.md)
+* [Reduction in tourism revenue for pcas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_105.md)
+* [Impact of economic recovery responses on pcas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1294.md)
+* [Increase in local opportunity cost for pca-adjacent communities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1293.md)
+* [Reduction in domestic public budgets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_106.md)
+* [Reduction in official development aid and philanthropy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1292.md)
 
 ## This article points to following mitigation
 
-* [Diversifying the funding base](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3539.md)
-* [Strengthening revenue generation from tourism](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3543.md)
-* [Improving spending effectiveness and efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3540.md)
-* [Ensuring domestic budgets support pcas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3541.md)
-* [Including local communities in pca governance and benefits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3545.md)
-* [Engaging the finance sector and attracting private capital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3546.md)
-* [Raising public support and interest in nature conservation and pcas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3547.md)
-* [Increasing international development finance and philanthropy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3542.md)
-* [Supporting pcas governed by indigenous peoples, local communities, and private actors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3544.md)
+* [Diversifying the funding base](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3539.md)
+* [Strengthening revenue generation from tourism](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3543.md)
+* [Improving spending effectiveness and efficiency](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3540.md)
+* [Ensuring domestic budgets support pcas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3541.md)
+* [Including local communities in pca governance and benefits](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3545.md)
+* [Engaging the finance sector and attracting private capital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3546.md)
+* [Raising public support and interest in nature conservation and pcas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3547.md)
+* [Increasing international development finance and philanthropy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3542.md)
+* [Supporting pcas governed by indigenous peoples, local communities, and private actors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3544.md)
 
 ## This article mentions these technologies
 
-* [Online promotion](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_439.md)
-* [Virtual tours](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_440.md)
-* [Digital marketing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_441.md)
-* [Advocacy campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_442.md)
-* [Policy changes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_443.md)
-* [Public awareness initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_444.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
-* [Fundraising campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_446.md)
-* [Sustainable development initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_450.md)
-* [Partnership agreements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_445.md)
-* [Policy advocacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_451.md)
-* [Grant applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_447.md)
-* [Livelihood support programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_448.md)
-* [Capacity building](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_449.md)
-* [Stakeholder engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_452.md)
+* [Online promotion](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_439.md)
+* [Virtual tours](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_440.md)
+* [Digital marketing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_441.md)
+* [Advocacy campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_442.md)
+* [Policy changes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_443.md)
+* [Public awareness initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_444.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
+* [Fundraising campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_446.md)
+* [Sustainable development initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_450.md)
+* [Partnership agreements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_445.md)
+* [Policy advocacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_451.md)
+* [Grant applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_447.md)
+* [Livelihood support programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_448.md)
+* [Capacity building](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_449.md)
+* [Stakeholder engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_452.md)
 

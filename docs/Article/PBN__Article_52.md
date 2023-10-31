@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_52 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_52 
 
 # __Architectural Design Drives the Biogeography of Indoor Bacterial Communities__
 
@@ -24,46 +24,46 @@ Architectural Design Drives the Biogeography of Indoor Bacterial Communities
 
 ## Benefits listed in this article
 
-* [Improvement in indoor microbial biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_257.md)
-* [Reduction of microbial dispersion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_258.md)
-* [Reduction of microbial transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_259.md)
-* [Reduction of bacterial community variation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_260.md)
-* [Enhancement of microbial diversity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_261.md)
+* [Improvement in indoor microbial biodiversity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_257.md)
+* [Reduction of microbial dispersion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_258.md)
+* [Reduction of microbial transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_259.md)
+* [Reduction of bacterial community variation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_260.md)
+* [Enhancement of microbial diversity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_261.md)
 
 ## List of risks in an article
 
-* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1158.md)
-* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1562.md)
-* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1291.md)
-* [Lack of proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1563.md)
-* [Poor hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1564.md)
+* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1158.md)
+* [Contamination from microorganisms in the built environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1562.md)
+* [Inadequate cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1291.md)
+* [Lack of proper ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1563.md)
+* [Poor hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1564.md)
 
 ## This article points to following mitigation
 
-* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_606.md)
-* [Improve indoor air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3957.md)
-* [Enhance natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3956.md)
-* [Control environmental conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3952.md)
-* [Modify the built environment microbiome](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3951.md)
-* [Design spaces with lower occupant density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3953.md)
-* [Increase distance between spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3954.md)
-* [Implement surface cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3955.md)
-* [Design separate spaces for different functions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3958.md)
-* [Implement hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3959.md)
+* [Improve ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_606.md)
+* [Improve indoor air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3957.md)
+* [Enhance natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3956.md)
+* [Control environmental conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3952.md)
+* [Modify the built environment microbiome](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3951.md)
+* [Design spaces with lower occupant density](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3953.md)
+* [Increase distance between spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3954.md)
+* [Implement surface cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3955.md)
+* [Design separate spaces for different functions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3958.md)
+* [Implement hand hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3959.md)
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_410.md)
-* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_361.md)
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_230.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
-* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_670.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
-* [Communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_566.md)
-* [Cleaning products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_881.md)
-* [Handwashing stations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_665.md)
-* [Uv light systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_880.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Hand sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_410.md)
+* [Cleaning equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_361.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_230.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
+* [Disinfectant sprays](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_670.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
+* [Cleaning products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_881.md)
+* [Handwashing stations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_665.md)
+* [Uv light systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_880.md)
 

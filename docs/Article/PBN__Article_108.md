@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_108 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_108 
 
 # __El impacto del teletrabajo en tiempos del COVID-19__
 
@@ -24,48 +24,48 @@ El impacto del teletrabajo en tiempos del COVID-19
 
 ## Benefits listed in this article
 
-* [Indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_524.md)
-* [Increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_368.md)
-* [Risk reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_473.md)
-* [Improved work-life balance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_520.md)
-* [Reduced transportation costs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_521.md)
-* [Environmental benefits](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_522.md)
-* [Health and safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_523.md)
-* [Early detection and containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_525.md)
+* [Indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_524.md)
+* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Risk reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_473.md)
+* [Improved work-life balance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_520.md)
+* [Reduced transportation costs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_521.md)
+* [Environmental benefits](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_522.md)
+* [Health and safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_523.md)
+* [Early detection and containment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_525.md)
 
 ## List of risks in an article
 
-* [Lack of social interaction and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1948.md)
-* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1949.md)
-* [Lack of supervision and accountability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1951.md)
-* [Lack of proper ergonomic setup in home office](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1947.md)
-* [Blurring of work-life boundaries](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1950.md)
+* [Lack of social interaction and isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1948.md)
+* [Increased reliance on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1949.md)
+* [Lack of supervision and accountability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1951.md)
+* [Lack of proper ergonomic setup in home office](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1947.md)
+* [Blurring of work-life boundaries](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1950.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
-* [Isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3519.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3575.md)
-* [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3517.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Isolation rooms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3519.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Air filtration and ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3517.md)
 
 ## This article mentions these technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
-* [Video conferencing tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_426.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
-* [Etc](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1400.md)
-* [Online social platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1402.md)
-* [Communication guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1405.md)
-* [Flexible scheduling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1404.md)
-* [Ergonomic furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1395.md)
-* [Ergonomic chairs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1397.md)
-* [Adjustable desks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1396.md)
-* [Virtual team-building activities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1401.md)
-* [Monitor risers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1399.md)
-* [Time management techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1403.md)
-* [Time tracking software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1406.md)
-* [Wrist supports](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1398.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_631.md)
+* [Video conferencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_426.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
+* [Etc](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1400.md)
+* [Online social platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1402.md)
+* [Communication guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1405.md)
+* [Flexible scheduling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1404.md)
+* [Ergonomic furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1395.md)
+* [Ergonomic chairs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1397.md)
+* [Adjustable desks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1396.md)
+* [Virtual team-building activities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1401.md)
+* [Monitor risers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1399.md)
+* [Time management techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1403.md)
+* [Time tracking software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1406.md)
+* [Wrist supports](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1398.md)
 

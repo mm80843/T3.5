@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_83 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_83 
 
 # __Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in Times of COVID-19 Crisis__
 
@@ -16,7 +16,7 @@ The coronavirus pandemic has changed life all around the world. The virus spread
 
 ## Referenced by other articles
 
-* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_275.md)
+* [Access and Use of Green Areas during the COVID-19 Pandemic: Green Infrastructure Management in the “New Normal”](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_275.md)
 
 ## Title of the article
 
@@ -28,41 +28,41 @@ Urban Green Infrastructure and Green Open Spaces: An Issue of Social Fairness in
 
 ## Benefits listed in this article
 
-* [Improved emotional health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_415.md)
-* [Temperature reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_416.md)
-* [Improved social and spatial justice](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_417.md)
-* [Enhanced emotional health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_418.md)
+* [Improved emotional health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_415.md)
+* [Temperature reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_416.md)
+* [Improved social and spatial justice](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_417.md)
+* [Enhanced emotional health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_418.md)
 
 ## List of risks in an article
 
-* [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1946.md)
-* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1944.md)
-* [Uneven distribution of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1942.md)
-* [Lack of outdoor recreation during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1943.md)
-* [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1945.md)
+* [Limited access to private green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1946.md)
+* [Urban heat island effect and heat waves](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1944.md)
+* [Uneven distribution of green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1942.md)
+* [Lack of outdoor recreation during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1943.md)
+* [Unequal distribution of street open spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1945.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Urban green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4602.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3283.md)
-* [Frequent hand washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4600.md)
-* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4603.md)
-* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3494.md)
-* [Working from home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_706.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4051.md)
-* [Green open spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4601.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Urban green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4602.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
+* [Frequent hand washing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4600.md)
+* [Barrier-free accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4603.md)
+* [Self-isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3494.md)
+* [Working from home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_706.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
+* [Green open spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4601.md)
 
 ## This article mentions these technologies
 
-* [Urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_920.md)
-* [Urban planners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_377.md)
-* [Green roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1390.md)
-* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1388.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
-* [Housing developers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1394.md)
-* [Green facades](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1391.md)
-* [Tree planting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1392.md)
-* [Traffic management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1393.md)
-* [Property developers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1389.md)
+* [Urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_920.md)
+* [Urban planners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_377.md)
+* [Green roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1390.md)
+* [Urban planning and design tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1388.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
+* [Housing developers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1394.md)
+* [Green facades](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1391.md)
+* [Tree planting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1392.md)
+* [Traffic management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1393.md)
+* [Property developers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1389.md)
 

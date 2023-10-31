@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_282 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_282 
 
 # __Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings__
 
@@ -16,15 +16,15 @@ During the COVID-19 pandemic, buildings have had to make changes to keep people 
 
 ## Referenced by other articles
 
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
-* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_206.md)
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
-* [COVID-19 and Green Housing: A Review of Relevant Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_322.md)
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
-* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_45.md)
-* [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_214.md)
-* [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_163.md)
-* [Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_16.md)
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_38.md)
+* [Indoor Air Quality: Rethinking rules of building design strategies in post-pandemic architecture](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_206.md)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_67.md)
+* [COVID-19 and Green Housing: A Review of Relevant Literature](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_322.md)
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_298.md)
+* [Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_45.md)
+* [Adaptation of HVAC Systems to Reduce the Spread of COVID-19 in Buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_214.md)
+* [Upper-room ultraviolet air disinfection might help to reduce COVID-19 transmission in buildings: a feasibility study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_163.md)
+* [Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_16.md)
 
 ## Title of the article
 
@@ -36,54 +36,54 @@ Designing Post COVID-19 Buildings: Approaches for Achieving Healthy Buildings
 
 ## Benefits listed in this article
 
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
-* [In indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1324.md)
-* [On contact surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1326.md)
-* [Buildings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1331.md)
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_398.md)
-* [Reduction of virus concentration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1323.md)
-* [Reduction of pathogen spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1325.md)
-* [Reduction of pathogens in the air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1327.md)
-* [Reduction of indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1328.md)
-* [Reduction of contact points](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1329.md)
-* [Rapid construction of emergency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1330.md)
-* [Reduction of airborne viruses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1332.md)
-* [Killing or inhibition of germs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1333.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [In indoor air](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1324.md)
+* [On contact surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1326.md)
+* [Buildings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1331.md)
+* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_398.md)
+* [Reduction of virus concentration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1323.md)
+* [Reduction of pathogen spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1325.md)
+* [Reduction of pathogens in the air](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1327.md)
+* [Reduction of indoor air pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1328.md)
+* [Reduction of contact points](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1329.md)
+* [Rapid construction of emergency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1330.md)
+* [Reduction of airborne viruses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1332.md)
+* [Killing or inhibition of germs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1333.md)
 
 ## List of risks in an article
 
-* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1784.md)
-* [Lack of natural light](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1786.md)
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-* [Inefficient thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1785.md)
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
+* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1784.md)
+* [Lack of natural light](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1786.md)
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
+* [Inefficient thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1785.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
 
 ## This article points to following mitigation
 
-* [Indoor plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4337.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3237.md)
-* [Smart building materials](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4339.md)
-* [Uvgi technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1356.md)
-* [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4250.md)
-* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4340.md)
-* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1350.md)
-* [Modular construction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1355.md)
-* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1352.md)
-* [Disinfectant fogging systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4338.md)
-* [Roof uv filter glass](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4341.md)
+* [Indoor plants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4337.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Smart building materials](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4339.md)
+* [Uvgi technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1356.md)
+* [Touchless technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4250.md)
+* [Mechanical filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4340.md)
+* [Antimicrobial surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1350.md)
+* [Modular construction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1355.md)
+* [Bipolar ionization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1352.md)
+* [Disinfectant fogging systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4338.md)
+* [Roof uv filter glass](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4341.md)
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_672.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [Outdoor air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1162.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Humidity control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1163.md)
-* [Windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_140.md)
-* [Skylights](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_141.md)
-* [Light pipes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1166.md)
-* [Light shelves](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1165.md)
-* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
-* [Hand hygiene protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1164.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_672.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Outdoor air circulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1162.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Humidity control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1163.md)
+* [Windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_140.md)
+* [Skylights](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_141.md)
+* [Light pipes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1166.md)
+* [Light shelves](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1165.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
+* [Hand hygiene protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1164.md)
 

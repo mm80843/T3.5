@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_35 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_35 
 
 # __A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandemic__
 
@@ -16,8 +16,8 @@ The Internet of Things (IoT) is a network of smart devices that can talk to each
 
 ## Referenced by other articles
 
-* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
-* [A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_313.md)
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_295.md)
+* [A Comprehensive Review of the COVID-19 Pandemic and the Role of IoT, Drones, AI, Blockchain, and 5G in Managing its Impact](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_313.md)
 
 ## Title of the article
 
@@ -29,39 +29,39 @@ A Comprehensive Review of Applications of Internet of Things for Covid-19 Pandem
 
 ## Benefits listed in this article
 
-* [Efficient tracking of high-risk patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_157.md)
-* [Enhanced drug delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_158.md)
-* [Resolving medical facility issues for orthopaedic patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_159.md)
-* [Efficient management of covid-19 crisis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_160.md)
+* [Efficient tracking of high-risk patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_157.md)
+* [Enhanced drug delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_158.md)
+* [Resolving medical facility issues for orthopaedic patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_159.md)
+* [Efficient management of covid-19 crisis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_160.md)
 
 ## List of risks in an article
 
-* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1486.md)
-* [Lack of communication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1669.md)
+* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
+* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1327.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_571.md)
+* [Lack of hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1486.md)
+* [Lack of communication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1669.md)
 
 ## This article points to following mitigation
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3332.md)
-* [Scalability of iot devices in iomt](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4141.md)
-* [Telemedicine services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4129.md)
-* [Iot-enabled hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4133.md)
-* [Iot-based solutions for early diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4137.md)
-* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4135.md)
-* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4128.md)
-* [Smart tracking of infected persons](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4130.md)
-* [Rapid screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4131.md)
-* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4132.md)
-* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4134.md)
-* [Iot buttons for alerts and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4136.md)
-* [Iot-based solutions for quarantine time](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4138.md)
-* [Iot-based solutions for after recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4139.md)
-* [Lightweight security solutions for iot devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4140.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Scalability of iot devices in iomt](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4141.md)
+* [Telemedicine services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4129.md)
+* [Iot-enabled hospital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4133.md)
+* [Iot-based solutions for early diagnosis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4137.md)
+* [Forecasting of virus spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4135.md)
+* [Remote monitoring of patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4128.md)
+* [Smart tracking of infected persons](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4130.md)
+* [Rapid screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4131.md)
+* [Monitoring quarantined individuals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4132.md)
+* [Real-time tracking of infected patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4134.md)
+* [Iot buttons for alerts and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4136.md)
+* [Iot-based solutions for quarantine time](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4138.md)
+* [Iot-based solutions for after recovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4139.md)
+* [Lightweight security solutions for iot devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4140.md)
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
 

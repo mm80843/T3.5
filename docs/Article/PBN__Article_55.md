@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_55 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_55 
 
 # __SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during the Coronavirus Disease 2019 outbreak in a Chinese hospital__
 
@@ -16,7 +16,7 @@ A new virus called SARS-CoV-2, which causes a disease called COVID-19, has sprea
 
 ## Referenced by other articles
 
-* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
+* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_264.md)
 
 ## Title of the article
 
@@ -28,29 +28,29 @@ SARS-CoV-2 RNA detection of hospital isolation wards hygiene monitoring during t
 
 ## Benefits listed in this article
 
-* [Reduction of surface contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_275.md)
-* [Reduction of indirect contact transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_276.md)
-* [Prevention of transmission through sewage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_277.md)
-* [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_278.md)
+* [Reduction of surface contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_275.md)
+* [Reduction of indirect contact transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_276.md)
+* [Prevention of transmission through sewage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_277.md)
+* [Early detection of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_278.md)
 
 ## List of risks in an article
 
-* [Infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2298.md)
-* [Healthcare-](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2296.md)
-* [Associated](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2297.md)
+* [Infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2298.md)
+* [Healthcare-](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2296.md)
+* [Associated](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2297.md)
 
 ## This article points to following mitigation
 
-* [Disinfection of indoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5136.md)
-* [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_264.md)
-* [Removal of visible contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5137.md)
-* [Wiping surfaces with disinfectant](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5138.md)
-* [Preprocessing disinfection of sewage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5139.md)
+* [Disinfection of indoor air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5136.md)
+* [Routine cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_264.md)
+* [Removal of visible contaminants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5137.md)
+* [Wiping surfaces with disinfectant](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5138.md)
+* [Preprocessing disinfection of sewage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5139.md)
 
 ## This article mentions these technologies
 
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_507.md)
-* [Research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_261.md)
-* [Disinfection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1908.md)
-* [Laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1910.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_507.md)
+* [Research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_261.md)
+* [Disinfection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1908.md)
+* [Laboratory testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1910.md)
 

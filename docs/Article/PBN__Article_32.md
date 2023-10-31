@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_32 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_32 
 
 # __Association of built environment attributes with the spread of COVID-19 at its initial stage in China__
 
@@ -16,9 +16,9 @@ This study looked at how different attributes of the built environment (BE) in C
 
 ## Referenced by other articles
 
-* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_288.md)
-* [Study of COVID-19 pandemic in London (UK) from urban context](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_57.md)
-* [COVID-19 Could Leverage a Sustainable Built Environment](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_316.md)
+* [2019 Novel Coronavirus (COVID-19) Pandemic: Built Environment Considerations To Reduce Transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_288.md)
+* [Study of COVID-19 pandemic in London (UK) from urban context](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_57.md)
+* [COVID-19 Could Leverage a Sustainable Built Environment](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_316.md)
 
 ## Title of the article
 
@@ -30,35 +30,35 @@ Association of built environment attributes with the spread of COVID-19 at its i
 
 ## Benefits listed in this article
 
-* [Control of infection spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_146.md)
+* [Control of infection spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_146.md)
 
 ## List of risks in an article
 
-* [Intercity travel frequency](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1636.md)
-* [Population flow between cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1638.md)
-* [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1639.md)
-* [Lack of awareness and education on disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1640.md)
-* [Crowded railway stations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1637.md)
+* [Intercity travel frequency](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1636.md)
+* [Population flow between cities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1638.md)
+* [Inadequate public transportation infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1639.md)
+* [Lack of awareness and education on disease prevention](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1640.md)
+* [Crowded railway stations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1637.md)
 
 ## This article points to following mitigation
 
-* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4086.md)
-* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4085.md)
-* [Restricting inter-city connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4079.md)
-* [Reducing population flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4080.md)
-* [Lowering between-ness centrality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4081.md)
-* [Restricting inter-city flights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4082.md)
-* [Reducing population density of built-up areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4083.md)
-* [Building transport networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4084.md)
-* [Promoting hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4087.md)
+* [Implementing social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4086.md)
+* [Enhancing healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4085.md)
+* [Restricting inter-city connections](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4079.md)
+* [Reducing population flow](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4080.md)
+* [Lowering between-ness centrality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4081.md)
+* [Restricting inter-city flights](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4082.md)
+* [Reducing population density of built-up areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4083.md)
+* [Building transport networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4084.md)
+* [Promoting hand hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4087.md)
 
 ## This article mentions these technologies
 
-* [Communication technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_544.md)
-* [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
-* [Crowd management technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_545.md)
-* [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_984.md)
-* [Health screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_983.md)
+* [Communication technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_544.md)
+* [Infrastructure development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_76.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_36.md)
+* [Crowd management technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_545.md)
+* [Health education programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_984.md)
+* [Health screening technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_983.md)
 

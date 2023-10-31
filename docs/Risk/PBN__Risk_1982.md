@@ -1,23 +1,23 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1982 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1982 
 
 # __Climate change enhancing mosquito populations__
 
 ## Category to which it belongs
 
-* [The ecological impact of climate change, urbanization, and habitat alteration on the spread of diseases and wildlife conservation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_30.md)
+* [The ecological impact of climate change, urbanization, and habitat alteration on the spread of diseases and wildlife conservation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_30.md)
 
 ## Closest similar item
 
-* [Climate change impacts on mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_758.md)
-* [Increased mosquito breeding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2892.md)
-* [Increased mosquito breeding due to heavy rainfall](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3066.md)
-* [Increased exposure to mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2893.md)
-* [Spread of mosquito-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_58.md)
-* [Increased mosquito intrusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3041.md)
-* [Stagnant water provides mosquito breeding grounds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3043.md)
-* [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1901.md)
-* [Improved surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_474.md)
-* [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1634.md)
+* [Climate change impacts on mosquito-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_758.md)
+* [Increased mosquito breeding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2892.md)
+* [Increased mosquito breeding due to heavy rainfall](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3066.md)
+* [Increased exposure to mosquitoes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2893.md)
+* [Spread of mosquito-borne diseases due to variable climate and extreme weather events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_58.md)
+* [Increased mosquito intrusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3041.md)
+* [Stagnant water provides mosquito breeding grounds](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3043.md)
+* [Climate change adaptation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1901.md)
+* [Improved surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_474.md)
+* [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1634.md)
 
 ## Description of the risk
 
@@ -25,23 +25,23 @@ Climate change leads to increased suitable habitats for mosquitoes, resulting in
 
 ## Type of the risk
 
-* [Physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_0.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Living and working environment](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_1.md)
+* [Living and working environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_1.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_6.md)
+* [Preservation and improvement of the environment](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_6.md)
 
 ## Mitigations of this risk
 
-* [Implement measures to mitigate climate change and reduce mosquito breeding sites.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2621.md)
+* [Implement measures to mitigate climate change and reduce mosquito breeding sites.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2621.md)
 
 ## Name of the risk
 
@@ -49,24 +49,24 @@ Higher incidence and spread of mosquito-borne diseases globally.
 
 ## Stakeholders who can mitigate this risk
 
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [International organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_242.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_242.md)
 
 ## Articles mentionning the risk
 
-* [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_217.md)
+* [A general modeling framework for exploring the impact of individual concern and personal protection on vector-borne disease dynamics](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_217.md)
 
 ## People affected by this risk
 
-* [Public health authorities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_0.md)
-* [General population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
+* [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
 
 ## Technologies linked to the risk
 
-* [Climate change mitigation techniques and mosquito control methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1465.md)
+* [Climate change mitigation techniques and mosquito control methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1465.md)
 
 ## Property: has_RiskType
 
-* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
+* [Environmental](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_0.md)
 

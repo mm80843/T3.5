@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_248 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_248 
 
 # __The effect of human mobility and control measures on the COVID-19 epidemic in China__
 
@@ -16,7 +16,7 @@ The coronavirus disease 2019 (COVID-19) outbreak started in China and spread qui
 
 ## Referenced by other articles
 
-* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_197.md)
+* [An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_197.md)
 
 ## Title of the article
 
@@ -28,29 +28,29 @@ The effect of human mobility and control measures on the COVID-19 epidemic in Ch
 
 ## Benefits listed in this article
 
-* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1194.md)
+* [Reduced importation of cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1194.md)
 
 ## List of risks in an article
 
-* [Impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1076.md)
-* [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
-* [Lack of testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_543.md)
-* [Importation of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1582.md)
-* [Local transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1583.md)
-* [Spread from wuhan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1581.md)
+* [Impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1076.md)
+* [Impact on economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1584.md)
+* [Lack of testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_543.md)
+* [Importation of cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1582.md)
+* [Local transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1583.md)
+* [Spread from wuhan](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1581.md)
 
 ## This article points to following mitigation
 
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
-* [Improved testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3993.md)
-* [Rapid isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3992.md)
-* [Local mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3995.md)
-* [Cordon sanitaire](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3994.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Improved testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3993.md)
+* [Rapid isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3992.md)
+* [Local mitigation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3995.md)
+* [Cordon sanitaire](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3994.md)
 
 ## This article mentions these technologies
 
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_401.md)
-* [Travel bans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_700.md)
-* [Testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_905.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_904.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_401.md)
+* [Travel bans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_700.md)
+* [Testing capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_905.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_904.md)
 

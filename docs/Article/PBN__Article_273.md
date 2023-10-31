@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_273 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_273 
 
 # __Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research__
 
@@ -16,7 +16,7 @@ The text is about the importance of designing and constructing buildings that su
 
 ## Referenced by other articles
 
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_38.md)
 
 ## Title of the article
 
@@ -28,43 +28,43 @@ Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of
 
 ## Benefits listed in this article
 
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
-* [Reduced risk of airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_610.md)
-* [Reduced musculoskeletal pain](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1282.md)
-* [Improved mood and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1283.md)
-* [Reduced noise transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1284.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Reduced risk of airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_610.md)
+* [Reduced musculoskeletal pain](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1282.md)
+* [Improved mood and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1283.md)
+* [Reduced noise transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1284.md)
 
 ## List of risks in an article
 
-* [Indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_939.md)
-* [Poor thermal conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1115.md)
-* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1116.md)
-* [Noise pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_150.md)
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
+* [Indoor air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_939.md)
+* [Poor thermal conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1115.md)
+* [Inadequate lighting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1116.md)
+* [Noise pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_150.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
 
 ## This article points to following mitigation
 
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3272.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_627.md)
-* [Ergonomic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1302.md)
-* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
-* [Thermal conditions control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3268.md)
-* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3269.md)
-* [Collaboration and interdisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3271.md)
-* [Touch-free systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3270.md)
-* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3267.md)
-* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3273.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3272.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Ergonomic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1302.md)
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1017.md)
+* [Thermal conditions control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3268.md)
+* [Lighting and daylighting optimization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3269.md)
+* [Collaboration and interdisciplinary approach](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3271.md)
+* [Touch-free systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3270.md)
+* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3267.md)
+* [Guidelines and standards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3273.md)
 
 ## This article mentions these technologies
 
-* [Hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_185.md)
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [Soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
-* [Acoustic panels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_190.md)
-* [White noise machines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_191.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Smart ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_186.md)
-* [Daylighting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_187.md)
-* [Led lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_188.md)
-* [Glare control devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_189.md)
+* [Hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_185.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Soundproofing materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_119.md)
+* [Acoustic panels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_190.md)
+* [White noise machines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_191.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Smart ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_186.md)
+* [Daylighting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_187.md)
+* [Led lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_188.md)
+* [Glare control devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_189.md)
 

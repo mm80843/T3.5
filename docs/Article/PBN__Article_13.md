@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_13 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_13 
 
 # __CIDO, a community-based ontology for coronavirus disease knowledge and data integration, sharing, and analysis__
 
@@ -24,36 +24,36 @@ CIDO, a community-based ontology for coronavirus disease knowledge and data inte
 
 ## Benefits listed in this article
 
-* [Data integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_60.md)
-* [Data analysis efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_61.md)
-* [Data sharing and integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_62.md)
-* [Standardized knowledge representation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_63.md)
-* [Thorough study of anti-coronavirus drugs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_64.md)
-* [Vaccine design and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_65.md)
+* [Data integration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_60.md)
+* [Data analysis efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_61.md)
+* [Data sharing and integration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_62.md)
+* [Standardized knowledge representation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_63.md)
+* [Thorough study of anti-coronavirus drugs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_64.md)
+* [Vaccine design and analysis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_65.md)
 
 ## List of risks in an article
 
-* [Disintegrated and non-interoperable data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1439.md)
-* [Lack of ontology interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1441.md)
-* [Lack of bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1440.md)
-* [Incomplete coverage of information in ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1442.md)
-* [Rapidly changing understanding of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1443.md)
+* [Disintegrated and non-interoperable data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1439.md)
+* [Lack of ontology interoperability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1441.md)
+* [Lack of bioinformatics tools](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1440.md)
+* [Incomplete coverage of information in ontologies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1442.md)
+* [Rapidly changing understanding of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1443.md)
 
 ## This article points to following mitigation
 
-* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_53.md)
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3772.md)
-* [Big data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3771.md)
-* [Therapeutic drugs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3769.md)
-* [Preventive vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3770.md)
-* [Precision medicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3768.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_53.md)
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3772.md)
+* [Big data analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3771.md)
+* [Therapeutic drugs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3769.md)
+* [Preventive vaccines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3770.md)
+* [Precision medicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3768.md)
 
 ## This article mentions these technologies
 
-* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_712.md)
-* [Ontologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_710.md)
-* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_713.md)
-* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_715.md)
-* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_711.md)
-* [Literature mining](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_714.md)
+* [Ontology interoperability techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_712.md)
+* [Ontologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_710.md)
+* [Ontology-based approaches](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_713.md)
+* [Ontology development strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_715.md)
+* [Bioinformatics tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_711.md)
+* [Literature mining](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_714.md)
 

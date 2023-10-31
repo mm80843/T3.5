@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_69 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_69 
 
 # __Understanding the role of urban design in disease spreading__
 
@@ -24,32 +24,32 @@ Understanding the role of urban design in disease spreading
 
 ## Benefits listed in this article
 
-* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
-* [Reduction in epidemic growth](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_356.md)
-* [Improved accuracy of model results](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_357.md)
+* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_226.md)
+* [Reduction in epidemic growth](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_356.md)
+* [Improved accuracy of model results](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_357.md)
 
 ## List of risks in an article
 
-* [Spatial inequalities in mobility patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1204.md)
-* [Homogeneous mixing assumptions in epidemic models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1206.md)
-* [Lack of availability of mobility data for most cities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1207.md)
-* [Health inequalities resulting from urban design](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1208.md)
-* [Centralization of economic activities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1205.md)
+* [Spatial inequalities in mobility patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1204.md)
+* [Homogeneous mixing assumptions in epidemic models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1206.md)
+* [Lack of availability of mobility data for most cities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1207.md)
+* [Health inequalities resulting from urban design](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1208.md)
+* [Centralization of economic activities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1205.md)
 
 ## This article points to following mitigation
 
-* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3381.md)
-* [Decentralization of activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3377.md)
-* [Segregation of subsets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3378.md)
-* [Even distribution of housing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3379.md)
-* [Isolation parameter](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3380.md)
+* [Accessibility to healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3381.md)
+* [Decentralization of activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3377.md)
+* [Segregation of subsets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3378.md)
+* [Even distribution of housing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3379.md)
+* [Isolation parameter](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3380.md)
 
 ## This article mentions these technologies
 
-* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
-* [Healthcare infrastructure improvements](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_298.md)
-* [Urban planning and design techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_294.md)
-* [Data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_297.md)
-* [Mathematical modeling techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_296.md)
-* [Economic and business development strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_295.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
+* [Healthcare infrastructure improvements](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_298.md)
+* [Urban planning and design techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_294.md)
+* [Data analysis and modeling techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_297.md)
+* [Mathematical modeling techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_296.md)
+* [Economic and business development strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_295.md)
 

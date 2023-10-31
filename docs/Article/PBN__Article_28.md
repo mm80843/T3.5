@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_28 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_28 
 
 # __Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and Applications__
 
@@ -24,38 +24,38 @@ Construction of a Linked Data Set of COVID-19 Knowledge Graphs: Development and 
 
 ## Benefits listed in this article
 
-* [Access to up-to-date information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_129.md)
-* [Integration and sharing of knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_130.md)
-* [Enriched and interconnected knowledge graph](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_131.md)
-* [Efficient access to knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_132.md)
-* [Structured query capability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_133.md)
+* [Access to up-to-date information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_129.md)
+* [Integration and sharing of knowledge](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_130.md)
+* [Enriched and interconnected knowledge graph](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_131.md)
+* [Efficient access to knowledge](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_132.md)
+* [Structured query capability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_133.md)
 
 ## List of risks in an article
 
-* [Low data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2283.md)
-* [Lack of coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2284.md)
-* [Data privacy and security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2286.md)
-* [Outdated information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2282.md)
-* [Misalignment of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2285.md)
+* [Low data quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2283.md)
+* [Lack of coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2284.md)
+* [Data privacy and security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2286.md)
+* [Outdated information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2282.md)
+* [Misalignment of data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2285.md)
 
 ## This article points to following mitigation
 
-* [Knowledge extraction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5116.md)
-* [Schema matching](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5117.md)
-* [Entity alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5118.md)
+* [Knowledge extraction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5116.md)
+* [Schema matching](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5117.md)
+* [Entity alignment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5118.md)
 
 ## This article mentions these technologies
 
-* [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
-* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_155.md)
-* [Information sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1896.md)
-* [Data integration platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_114.md)
-* [Data integration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1897.md)
-* [Collaboration platforms for information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1893.md)
-* [Data encryption tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1899.md)
-* [Expert review platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1895.md)
-* [Data validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1894.md)
-* [Validation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1898.md)
-* [Data integration and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1892.md)
-* [Security audit platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1900.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_164.md)
+* [Collaboration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_155.md)
+* [Information sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1896.md)
+* [Data integration platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_114.md)
+* [Data integration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1897.md)
+* [Collaboration platforms for information sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1893.md)
+* [Data encryption tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1899.md)
+* [Expert review platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1895.md)
+* [Data validation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1894.md)
+* [Validation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1898.md)
+* [Data integration and validation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1892.md)
+* [Security audit platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1900.md)
 

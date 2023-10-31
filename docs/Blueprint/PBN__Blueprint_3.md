@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_3 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_3 
 
 # __Indoor environmental quality ieq monitoring system__
 
@@ -28,40 +28,40 @@ In this scenario, the application of IoT in this type of system enables the coll
 
 ## Enablers of the blueprint
 
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_2.md)
-* [IoT](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_5.md)
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_6.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_16.md)
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_0.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [IoT](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_5.md)
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_6.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
 
 ## Interventions of the blueprint
 
-* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_1.md)
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_25.md)
-* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_0.md)
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_3.md)
+* [Environmental parameters control](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_1.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_25.md)
+* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_0.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_3.md)
 
 ## Possible mitigations of the BP
 
-* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_225.md)
-* [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1347.md)
-* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4357.md)
-* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3267.md)
-* [Monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3898.md)
-* [Improve indoor air quality by addressing pollution sources, ventilation, and air filtration systems.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1906.md)
-* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2869.md)
-* [Outdoor air quality control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3726.md)
-* [Indoor environment quality ieq monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3410.md)
-* [Implement iaq monitoring systems to continuously measure and analyze indoor air quality parameters.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2640.md)
+* [Monitor and control indoor air pollution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_225.md)
+* [Monitoring and control of indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1347.md)
+* [Indoor air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4357.md)
+* [Indoor air quality control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3267.md)
+* [Monitoring air quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3898.md)
+* [Improve indoor air quality by addressing pollution sources, ventilation, and air filtration systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1906.md)
+* [Monitor air conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2869.md)
+* [Outdoor air quality control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3726.md)
+* [Indoor environment quality ieq monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3410.md)
+* [Implement iaq monitoring systems to continuously measure and analyze indoor air quality parameters.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2640.md)
 
 ## Type of deployment of the blueprint
 
-* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
-* [Construction](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_2.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
+* [Construction](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_2.md)
 
 ## Problem of the blueprint
 
@@ -77,20 +77,20 @@ A potential limitation of the system may be the limitations of the HVAC systems 
 
 ## Possible risks of the BP
 
-* [Indoor air contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_125.md)
-* [Indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_939.md)
-* [Indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_259.md)
-* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1288.md)
-* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_294.md)
-* [Indoor air pollution iap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
-* [Low indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1409.md)
-* [Lack of adequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_341.md)
-* [Lack of monitoring of indoor environmental quality ieq](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_566.md)
-* [Indoor air pollution iap from biomass and coal smoke](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_963.md)
+* [Indoor air contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_125.md)
+* [Indoor air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_939.md)
+* [Indoor air pollutants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_259.md)
+* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1288.md)
+* [Poor indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_294.md)
+* [Indoor air pollution iap](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1993.md)
+* [Low indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1409.md)
+* [Lack of adequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_341.md)
+* [Lack of monitoring of indoor environmental quality ieq](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_566.md)
+* [Indoor air pollution iap from biomass and coal smoke](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_963.md)
 
 ## Scale of the of the blueprint
 
-* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
+* [Building](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -98,11 +98,11 @@ PBN:BP_4
 
 ## Mode of transmission covered by the blueprint
 
-* [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_0.md)
+* [Airborne](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_0.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

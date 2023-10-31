@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_139 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_139 
 
 # __COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and economic effects of social distancing interventions__
 
@@ -16,7 +16,7 @@ The Coronavirus disease 2019 (COVID-19) pandemic is a sickness caused by a virus
 
 ## Referenced by other articles
 
-* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_22.md)
+* [Physical interventions to interrupt or reduce the spread of respiratory viruses: systematic review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_22.md)
 
 ## Title of the article
 
@@ -28,43 +28,43 @@ COVID-ABS: An agent-based model of COVID-19 epidemic to simulate health and econ
 
 ## Benefits listed in this article
 
-* [Controlling infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_700.md)
-* [Ineffective policy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_701.md)
-* [Partial control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_702.md)
-* [Economic compromise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_703.md)
-* [Optimal compromise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_704.md)
-* [No pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_705.md)
+* [Controlling infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_700.md)
+* [Ineffective policy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_701.md)
+* [Partial control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_702.md)
+* [Economic compromise](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_703.md)
+* [Optimal compromise](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_704.md)
+* [No pandemic](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_705.md)
 
 ## List of risks in an article
 
-* [Ineffective contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2055.md)
-* [Lack of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2054.md)
-* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_740.md)
-* [Contagion spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2053.md)
-* [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1433.md)
+* [Ineffective contact tracing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2055.md)
+* [Lack of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2054.md)
+* [Insufficient testing capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_740.md)
+* [Contagion spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2053.md)
+* [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1433.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_427.md)
-* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_695.md)
-* [Partial isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_697.md)
-* [Use of face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_698.md)
-* [Vertical isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_696.md)
-* [Use of face masks and 50% social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4789.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Conditional lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_695.md)
+* [Partial isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_697.md)
+* [Use of face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_698.md)
+* [Vertical isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_696.md)
+* [Use of face masks and 50% social isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4789.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
-* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_895.md)
-* [Social media](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_896.md)
-* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_110.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
-* [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1556.md)
-* [Point-of-care testing devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1557.md)
-* [Digital surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1558.md)
-* [Advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1555.md)
-* [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1553.md)
-* [Contactless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1554.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Digital communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_895.md)
+* [Social media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_896.md)
+* [Supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_110.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
+* [Diagnostic testing systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1556.md)
+* [Point-of-care testing devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1557.md)
+* [Digital surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1558.md)
+* [Advanced manufacturing techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1555.md)
+* [Enhanced cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1553.md)
+* [Contactless technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1554.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_168 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_168 
 
 # __The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case of COVID-19__
 
@@ -24,43 +24,43 @@ The Impact of Pandemic Crisis on the Survival of Construction Industry: A Case o
 
 ## Benefits listed in this article
 
-* [Increased productivity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_368.md)
-* [Cost savings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_833.md)
-* [Faster project completion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_834.md)
-* [Improved financial performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_835.md)
-* [Mitigating financial risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_836.md)
+* [Increased productivity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_368.md)
+* [Cost savings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_833.md)
+* [Faster project completion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_834.md)
+* [Improved financial performance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_835.md)
+* [Mitigating financial risks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_836.md)
 
 ## List of risks in an article
 
-* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1392.md)
-* [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
-* [Labour impact and job loss](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_596.md)
-* [Suspension of projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_595.md)
-* [Time overrun](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_597.md)
+* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1392.md)
+* [Financial impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_599.md)
+* [Labour impact and job loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_596.md)
+* [Suspension of projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_595.md)
+* [Time overrun](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_597.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3697.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_832.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3575.md)
-* [Sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3699.md)
-* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3698.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Enhanced communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3697.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3699.md)
+* [Restricted gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3698.md)
 
 ## This article mentions these technologies
 
-* [Remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
-* [Project management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_130.md)
-* [Virtual meetings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_628.md)
-* [Financial support mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_629.md)
-* [Job training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_630.md)
-* [Project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
-* [Scheduling software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_632.md)
-* [Contingency planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_633.md)
-* [Financial aid programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_634.md)
-* [Cost-cutting strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_635.md)
-* [Diversification strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_636.md)
-* [Supply chain management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_637.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_638.md)
-* [Alternative sourcing strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_639.md)
+* [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
+* [Project management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_130.md)
+* [Virtual meetings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_628.md)
+* [Financial support mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_629.md)
+* [Job training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_630.md)
+* [Project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_631.md)
+* [Scheduling software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_632.md)
+* [Contingency planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_633.md)
+* [Financial aid programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_634.md)
+* [Cost-cutting strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_635.md)
+* [Diversification strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_636.md)
+* [Supply chain management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_637.md)
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_638.md)
+* [Alternative sourcing strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_639.md)
 

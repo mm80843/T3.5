@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_185 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_185 
 
 # __The changes in the effects of social media use of Cypriots due to COVID-19 pandemic__
 
@@ -16,7 +16,7 @@ During the COVID-19 pandemic, people have been using social media more than usua
 
 ## Referenced by other articles
 
-* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_111.md)
+* [Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_111.md)
 
 ## Title of the article
 
@@ -28,49 +28,49 @@ The changes in the effects of social media use of Cypriots due to COVID-19 pande
 
 ## Benefits listed in this article
 
-* [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_659.md)
-* [Decreased spread of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_907.md)
-* [Decreased panic and anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_908.md)
-* [Increased public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_909.md)
-* [Increased trust in official information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_910.md)
+* [Improved decision-making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_659.md)
+* [Decreased spread of fake news](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_907.md)
+* [Decreased panic and anxiety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_908.md)
+* [Increased public awareness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_909.md)
+* [Increased trust in official information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_910.md)
 
 ## List of risks in an article
 
-* [Spread of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1557.md)
-* [Impact on decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1559.md)
-* [Impact on psychological well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1558.md)
-* [Decreased trust in official sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1560.md)
-* [Impact on public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1561.md)
+* [Spread of fake news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1557.md)
+* [Impact on decision-making](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1559.md)
+* [Impact on psychological well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1558.md)
+* [Decreased trust in official sources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1560.md)
+* [Impact on public awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1561.md)
 
 ## This article points to following mitigation
 
-* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3946.md)
-* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3948.md)
-* [Posting caps with real data related to covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3950.md)
-* [Increased self-awareness of social media users](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3942.md)
-* [Use of social media by decision-makers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3936.md)
-* [Government activity on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3938.md)
-* [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3947.md)
-* [Increased sharing of scientific data by healthcare professionals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3943.md)
-* [Two-way dialogue between stakeholders](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3935.md)
-* [Validation of news sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3940.md)
-* [Increased sharing of recovery stories and information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3949.md)
-* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3934.md)
-* [Use of social media by firms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3937.md)
-* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3944.md)
-* [Censorship of fake news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3941.md)
-* [Decreased show-off behavior on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3945.md)
-* [Increased knowledge translation on social media](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3939.md)
+* [Use of social media for online healthcare support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3946.md)
+* [Creation of online content for psychological support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3948.md)
+* [Posting caps with real data related to covid-19](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3950.md)
+* [Increased self-awareness of social media users](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3942.md)
+* [Use of social media by decision-makers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3936.md)
+* [Government activity on social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3938.md)
+* [Use of social media for distributing official information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3947.md)
+* [Increased sharing of scientific data by healthcare professionals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3943.md)
+* [Two-way dialogue between stakeholders](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3935.md)
+* [Validation of news sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3940.md)
+* [Increased sharing of recovery stories and information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3949.md)
+* [Integrated and well-planned communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3934.md)
+* [Use of social media by firms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3937.md)
+* [Increased emphasis on hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3944.md)
+* [Censorship of fake news](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3941.md)
+* [Decreased show-off behavior on social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3945.md)
+* [Increased knowledge translation on social media](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3939.md)
 
 ## This article mentions these technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Social media campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_878.md)
-* [Online platforms for information sharing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_877.md)
-* [Online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_116.md)
-* [Transparent communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_875.md)
-* [Mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_874.md)
-* [Digital newsletters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_879.md)
-* [Digital well-being apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_873.md)
-* [Accurate and timely information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_876.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Social media campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_878.md)
+* [Online platforms for information sharing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_877.md)
+* [Online therapy platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_116.md)
+* [Transparent communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_875.md)
+* [Mental health resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_874.md)
+* [Digital newsletters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_879.md)
+* [Digital well-being apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_873.md)
+* [Accurate and timely information dissemination](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_876.md)
 

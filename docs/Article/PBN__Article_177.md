@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_177 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_177 
 
 # __Learning from the COVID-19 pandemic in governing smart cities__
 
@@ -16,8 +16,8 @@ The COVID-19 pandemic has caused a lot of problems for society, like economic is
 
 ## Referenced by other articles
 
-* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_91.md)
-* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_294.md)
+* [A critical review of emerging technologies for tackling COVID ‐19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_91.md)
+* [The Smart City and Covid‐19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_294.md)
 
 ## Title of the article
 
@@ -29,44 +29,44 @@ Learning from the COVID-19 pandemic in governing smart cities
 
 ## Benefits listed in this article
 
-* [Improved transparency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_870.md)
-* [Enhanced coordination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_871.md)
-* [Collaborative governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_872.md)
-* [Integrated planning and delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_873.md)
-* [Resilient and sustainable cities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_874.md)
+* [Improved transparency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_870.md)
+* [Enhanced coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_871.md)
+* [Collaborative governance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_872.md)
+* [Integrated planning and delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_873.md)
+* [Resilient and sustainable cities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_874.md)
 
 ## List of risks in an article
 
-* [Ineffective public management models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1188.md)
-* [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1191.md)
-* [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1193.md)
-* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1190.md)
-* [Conflicting interests and governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1189.md)
-* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1192.md)
+* [Ineffective public management models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1188.md)
+* [Lack of strategic planning and alignment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1191.md)
+* [Ineffective use of open government projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1193.md)
+* [Lack of effective technical systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1190.md)
+* [Conflicting interests and governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1189.md)
+* [Weaknesses in smart city governance models](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1192.md)
 
 ## This article points to following mitigation
 
-* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3364.md)
-* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3360.md)
-* [Big data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_843.md)
-* [Spatial mapping of covid-19 hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3357.md)
-* [Iot-based systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3358.md)
-* [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3359.md)
-* [Open data sharing and analysis for pandemic dataset creation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3365.md)
-* [Citizen engagement and participatory platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3363.md)
-* [Open government projects and open data initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3362.md)
-* [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3361.md)
+* [Collaborative networks and partnerships](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3364.md)
+* [Telemedicine and remote healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3360.md)
+* [Big data analytics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_843.md)
+* [Spatial mapping of covid-19 hotspots](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3357.md)
+* [Iot-based systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3358.md)
+* [Machine learning and artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3359.md)
+* [Open data sharing and analysis for pandemic dataset creation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3365.md)
+* [Citizen engagement and participatory platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3363.md)
+* [Open government projects and open data initiatives](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3362.md)
+* [Drones for contactless delivery and surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3361.md)
 
 ## This article mentions these technologies
 
-* [Ai](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_278.md)
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [Blockchain](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_94.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_276.md)
-* [Open data platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_282.md)
-* [Emerging technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_275.md)
-* [Remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
-* [Open government mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_280.md)
-* [Open government technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_281.md)
-* [E-participation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_283.md)
+* [Ai](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_278.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Blockchain](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_94.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_276.md)
+* [Open data platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_282.md)
+* [Emerging technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_275.md)
+* [Remote sensing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_279.md)
+* [Open government mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_280.md)
+* [Open government technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_281.md)
+* [E-participation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_283.md)
 

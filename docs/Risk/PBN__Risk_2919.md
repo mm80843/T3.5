@@ -1,25 +1,25 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2919 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2919 
 
 # __Changing needs and capacities__
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
 
 ## Closest similar item
 
-* [Changing priorities and needs not addressed](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_401.md)
-* [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3248.md)
-* [Lack of capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3187.md)
-* [Material shortages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3167.md)
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3362.md)
-* [And capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_773.md)
-* [Increase in demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3033.md)
-* [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3329.md)
-* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3035.md)
-* [Limited capital and resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2828.md)
+* [Changing priorities and needs not addressed](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_401.md)
+* [Limited resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3248.md)
+* [Lack of capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3187.md)
+* [Material shortages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3167.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3362.md)
+* [And capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_773.md)
+* [Increase in demand, logistical challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3033.md)
+* [Limited resources and expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3329.md)
+* [Increased demand, logistical challenges](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3035.md)
+* [Limited capital and resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2828.md)
 
 ## Mitigations of this risk
 
-* [Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4166.md)
+* [Adaptability](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4166.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_29 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_29 
 
 # __Building occupancy estimation with people flow modeling in AnyLogic__
 
@@ -24,36 +24,36 @@ Building occupancy estimation with people flow modeling in AnyLogic
 
 ## Benefits listed in this article
 
-* [Improved parameter identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_134.md)
-* [Enhanced computational efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_135.md)
-* [Feasible solution for mega-tall buildings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_139.md)
-* [Elimination of unknown parameters](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_136.md)
-* [Improved estimation accuracy with constraints handling](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_137.md)
-* [Reduced bias in estimation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_138.md)
+* [Improved parameter identification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_134.md)
+* [Enhanced computational efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_135.md)
+* [Feasible solution for mega-tall buildings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_139.md)
+* [Elimination of unknown parameters](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_136.md)
+* [Improved estimation accuracy with constraints handling](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_137.md)
+* [Reduced bias in estimation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_138.md)
 
 ## List of risks in an article
 
-* [Model identification](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1641.md)
-* [Computational expense](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1642.md)
-* [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1644.md)
-* [Error accumulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1645.md)
-* [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1643.md)
+* [Model identification](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1641.md)
+* [Computational expense](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1642.md)
+* [Inaccurate measurement data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1644.md)
+* [Error accumulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1645.md)
+* [Lack of real people flow data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1643.md)
 
 ## This article points to following mitigation
 
-* [Simulation software tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4091.md)
-* [Real-time building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4088.md)
-* [Optimization-based people flow](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4090.md)
-* [Linear people movement models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4089.md)
-* [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_118.md)
-* [Video cameras and beam sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4092.md)
+* [Simulation software tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4091.md)
+* [Real-time building occupancy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4088.md)
+* [Optimization-based people flow](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4090.md)
+* [Linear people movement models](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4089.md)
+* [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_118.md)
+* [Video cameras and beam sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4092.md)
 
 ## This article mentions these technologies
 
-* [Optimization algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_986.md)
-* [Anylogic simulation software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_985.md)
-* [Sensor calibration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_346.md)
-* [Sensor maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_988.md)
-* [Historical measurement data](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_987.md)
-* [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_989.md)
+* [Optimization algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_986.md)
+* [Anylogic simulation software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_985.md)
+* [Sensor calibration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_346.md)
+* [Sensor maintenance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_988.md)
+* [Historical measurement data](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_987.md)
+* [Kalman filter algorithm](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_989.md)
 

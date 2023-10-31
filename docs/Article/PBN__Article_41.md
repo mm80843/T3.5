@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_41 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_41 
 
 # __Urban form: Realising the value of green space: a planners’ perspective on the COVID-19 pandemic__
 
@@ -24,36 +24,36 @@ Urban form: Realising the value of green space: a planners’ perspective on the
 
 ## Benefits listed in this article
 
-* [Improved health and wellbeing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_186.md)
-* [Increased accessibility to green space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_187.md)
-* [Availability of public parks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_188.md)
-* [Enhanced benefits from green space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_189.md)
-* [High-quality green space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_190.md)
+* [Improved health and wellbeing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_186.md)
+* [Increased accessibility to green space](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_187.md)
+* [Availability of public parks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_188.md)
+* [Enhanced benefits from green space](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_189.md)
+* [High-quality green space](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_190.md)
 
 ## List of risks in an article
 
-* [Lack of access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1040.md)
-* [Poor quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1042.md)
-* [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1044.md)
-* [Deprioritization of green space in urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1043.md)
-* [Inequitable distribution of green space](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1041.md)
+* [Lack of access to green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1040.md)
+* [Poor quality of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1042.md)
+* [Insufficient funding for green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1044.md)
+* [Deprioritization of green space in urban planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1043.md)
+* [Inequitable distribution of green space](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1041.md)
 
 ## This article points to following mitigation
 
-* [Planning and design interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3164.md)
-* [Quality of green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3163.md)
-* [Access to green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3161.md)
-* [Proximity of green space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3162.md)
-* [Creating green space in existing communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3165.md)
+* [Planning and design interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3164.md)
+* [Quality of green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3163.md)
+* [Access to green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3161.md)
+* [Proximity of green space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3162.md)
+* [Creating green space in existing communities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3165.md)
 
 ## This article mentions these technologies
 
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
-* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
-* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
-* [Public-private partnerships](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_55.md)
-* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_50.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
-* [Financial incentives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_53.md)
-* [Sustainable financing models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_54.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
+* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_52.md)
+* [Public-private partnerships](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_55.md)
+* [Green infrastructure management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_50.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
+* [Financial incentives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_53.md)
+* [Sustainable financing models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_54.md)
 

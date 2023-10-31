@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_45 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_45 
 
 # __Review and comparison of HVAC operation guidelines in different countries during the COVID-19 pandemic__
 
@@ -16,8 +16,8 @@ During the COVID-19 pandemic, it is important to be careful about how we use HVA
 
 ## Referenced by other articles
 
-* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
-* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_121.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_21.md)
+* [How can airborne transmission of COVID-19 indoors be minimised?](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_121.md)
 
 ## Title of the article
 
@@ -29,39 +29,39 @@ Review and comparison of HVAC operation guidelines in different countries during
 
 ## Benefits listed in this article
 
-* [Decreased airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_202.md)
-* [Reduced transmission through recirculated air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_203.md)
-* [Increased air circulation and filtration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_204.md)
-* [Enhanced air cleaning in specific areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_205.md)
-* [Inactivation of microorganisms in high-risk spaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_206.md)
+* [Decreased airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_202.md)
+* [Reduced transmission through recirculated air](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_203.md)
+* [Increased air circulation and filtration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_204.md)
+* [Enhanced air cleaning in specific areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_205.md)
+* [Inactivation of microorganisms in high-risk spaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_206.md)
 
 ## List of risks in an article
 
-* [Poor ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1418.md)
-* [Insufficient filtration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1420.md)
-* [Improper use of heat recovery systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1422.md)
-* [Bad use of air-conditioning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1419.md)
-* [Lack of continuous air circulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1421.md)
+* [Poor ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1418.md)
+* [Insufficient filtration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1420.md)
+* [Improper use of heat recovery systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1422.md)
+* [Bad use of air-conditioning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1419.md)
+* [Lack of continuous air circulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1421.md)
 
 ## This article points to following mitigation
 
-* [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3738.md)
-* [Improve air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3736.md)
-* [Run hvac system longer hours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3737.md)
-* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3739.md)
-* [Increase outdoor air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3735.md)
+* [Use portable room air cleaners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3738.md)
+* [Improve air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3736.md)
+* [Run hvac system longer hours](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3737.md)
+* [Implement uv germicidal irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3739.md)
+* [Increase outdoor air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3735.md)
 
 ## This article mentions these technologies
 
-* [In hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_681.md)
-* [Use of fans and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_683.md)
-* [Use of outdoor air and natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_675.md)
-* [Installation and maintenance of high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_679.md)
-* [Implementation of hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_678.md)
-* [Improved design and operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_674.md)
-* [Correct use and maintenance of air-conditioning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_676.md)
-* [Use of portable air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_677.md)
-* [Proper operation and maintenance of heat recovery systems in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_684.md)
-* [Such as merv-13](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_680.md)
-* [Continuous operation of hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_682.md)
+* [In hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_681.md)
+* [Use of fans and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_683.md)
+* [Use of outdoor air and natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_675.md)
+* [Installation and maintenance of high-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_679.md)
+* [Implementation of hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_678.md)
+* [Improved design and operation of hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_674.md)
+* [Correct use and maintenance of air-conditioning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_676.md)
+* [Use of portable air cleaners](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_677.md)
+* [Proper operation and maintenance of heat recovery systems in hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_684.md)
+* [Such as merv-13](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_680.md)
+* [Continuous operation of hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_682.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_88 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_88 
 
 # __Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols__
 
@@ -25,36 +25,36 @@ Effect of Ultraviolet Germicidal Irradiation on Viral Aerosols
 
 ## Benefits listed in this article
 
-* [Inactivation of infectious microorganisms](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_431.md)
-* [Inactivation of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_432.md)
-* [Understanding uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_433.md)
-* [Understanding the effect of rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_434.md)
-* [Understanding the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_435.md)
+* [Inactivation of infectious microorganisms](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_431.md)
+* [Inactivation of respiratory animal viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_432.md)
+* [Understanding uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_433.md)
+* [Understanding the effect of rh on uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_434.md)
+* [Understanding the effect of rh on uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_435.md)
 
 ## List of risks in an article
 
-* [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_338.md)
-* [Effect of rh on uv susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2274.md)
-* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2275.md)
-* [Uv dosage levels required under different conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2276.md)
-* [Bioterrorism threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2273.md)
+* [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_338.md)
+* [Effect of rh on uv susceptibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2274.md)
+* [Effects of nebulization and impingement on viral survival](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2275.md)
+* [Uv dosage levels required under different conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2276.md)
+* [Bioterrorism threats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2273.md)
 
 ## This article points to following mitigation
 
-* [Upper room uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5102.md)
-* [Uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_315.md)
-* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_448.md)
-* [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5104.md)
-* [Uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5107.md)
-* [Uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5105.md)
-* [Rh effect on uv inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5106.md)
-* [Duct irradiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5103.md)
+* [Upper room uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5102.md)
+* [Uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_315.md)
+* [Uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_448.md)
+* [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5104.md)
+* [Uv susceptibility of pathogenic viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5107.md)
+* [Uv susceptibility of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5105.md)
+* [Rh effect on uv inactivation of bacterial aerosols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5106.md)
+* [Duct irradiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5103.md)
 
 ## This article mentions these technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Security systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1879.md)
-* [Filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1882.md)
-* [Environmental controls](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1880.md)
-* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1881.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Security systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1879.md)
+* [Filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1882.md)
+* [Environmental controls](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1880.md)
+* [Experimental apparatus](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1881.md)
 

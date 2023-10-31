@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_207 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_207 
 
 # __When the fourth water and digital revolution encountered COVID-19__
 
@@ -16,14 +16,14 @@ The COVID-19 pandemic has had a big impact on the water cycle in cities. It has 
 
 ## Referenced by other articles
 
-* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
-* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_252.md)
-* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
-* [Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_1.md)
-* [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
-* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
-* [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_48.md)
-* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_191.md)
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_205.md)
+* [Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_252.md)
+* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_70.md)
+* [Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_1.md)
+* [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_229.md)
+* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_96.md)
+* [Future perspectives of wastewater-based epidemiology: Monitoring infectious disease spread and resistance to the community level](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_48.md)
+* [Disinfection technology of hospital wastes and wastewater: Suggestions for disinfection strategy during coronavirus Disease 2019 (COVID-19) pandemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_191.md)
 
 ## Title of the article
 
@@ -35,54 +35,54 @@ When the fourth water and digital revolution encountered COVID-19
 
 ## Benefits listed in this article
 
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
-* [Improved decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_659.md)
-* [Enhanced treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_998.md)
-* [Reduction in leaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1000.md)
-* [Prevention of clogs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1001.md)
-* [Additional revenue](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1002.md)
-* [Optimized operations](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1003.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
+* [Improved decision-making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_659.md)
+* [Enhanced treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_998.md)
+* [Reduction in leaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1000.md)
+* [Prevention of clogs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1001.md)
+* [Additional revenue](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1002.md)
+* [Optimized operations](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1003.md)
 
 ## List of risks in an article
 
-* [Water quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_714.md)
-* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1895.md)
-* [Data quality and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1900.md)
-* [Financial sustainability of water sector](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1896.md)
-* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1894.md)
-* [Drinking water treatment and distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1892.md)
-* [Climate change adaptation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1901.md)
-* [Value-based decision-making and policy support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1899.md)
-* [Workplace safety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1897.md)
-* [Water use patterns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1893.md)
-* [Data privacy and public perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1898.md)
+* [Water quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_714.md)
+* [Sewage epidemiology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1895.md)
+* [Data quality and accuracy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1900.md)
+* [Financial sustainability of water sector](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1896.md)
+* [Wastewater collection and treatment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1894.md)
+* [Drinking water treatment and distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1892.md)
+* [Climate change adaptation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1901.md)
+* [Value-based decision-making and policy support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1899.md)
+* [Workplace safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1897.md)
+* [Water use patterns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1893.md)
+* [Data privacy and public perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1898.md)
 
 ## This article points to following mitigation
 
-* [Monitoring sewage for virus detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4539.md)
-* [Value-based decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4545.md)
-* [Reimagining water infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4542.md)
-* [Adoption of smart meters and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4536.md)
-* [Digitalisation of water industry](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4534.md)
-* [Remote control of critical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4537.md)
-* [Optimizing energy management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4543.md)
-* [Enhancing data quality verification](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4540.md)
-* [Increase chlorine dose in drinking water](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4535.md)
-* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4538.md)
-* [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4541.md)
-* [Enhancing citizen confidence in water services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4544.md)
+* [Monitoring sewage for virus detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4539.md)
+* [Value-based decision-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4545.md)
+* [Reimagining water infrastructure design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4542.md)
+* [Adoption of smart meters and sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4536.md)
+* [Digitalisation of water industry](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4534.md)
+* [Remote control of critical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4537.md)
+* [Optimizing energy management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4543.md)
+* [Enhancing data quality verification](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4540.md)
+* [Increase chlorine dose in drinking water](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4535.md)
+* [Use of simulation for policy-making](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4538.md)
+* [Protecting privacy of citizens’ data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4541.md)
+* [Enhancing citizen confidence in water services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4544.md)
 
 ## This article mentions these technologies
 
-* [Digital payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_695.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Decision support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1315.md)
-* [Ai tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1316.md)
-* [Remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_736.md)
-* [Digital control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1313.md)
-* [Data validation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1317.md)
-* [Data protection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1314.md)
-* [Ai-backed systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1312.md)
-* [Smart meters and sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1311.md)
-* [Laboratory standardization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1318.md)
+* [Digital payment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_695.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Decision support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1315.md)
+* [Ai tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1316.md)
+* [Remote working tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_736.md)
+* [Digital control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1313.md)
+* [Data validation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1317.md)
+* [Data protection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1314.md)
+* [Ai-backed systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1312.md)
+* [Smart meters and sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1311.md)
+* [Laboratory standardization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1318.md)
 

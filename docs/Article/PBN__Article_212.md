@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_212 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_212 
 
 # __Prototype Early Warning Systems for Vector-Borne Diseases in Europe__
 
@@ -24,35 +24,35 @@ Prototype Early Warning Systems for Vector-Borne Diseases in Europe
 
 ## Benefits listed in this article
 
-* [Early detection of disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1012.md)
-* [Early warning system for emerging risks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1013.md)
-* [Bolstering european early warning for disease events](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1014.md)
+* [Early detection of disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1012.md)
+* [Early warning system for emerging risks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1013.md)
+* [Bolstering european early warning for disease events](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1014.md)
 
 ## List of risks in an article
 
-* [Shift in transmission range of diseases, hosts, and vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2026.md)
-* [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2027.md)
-* [Introduction of new disease vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2025.md)
-* [Inadequate surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2028.md)
-* [Contamination of blood products](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2029.md)
+* [Shift in transmission range of diseases, hosts, and vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2026.md)
+* [Social inequality and lifestyle](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2027.md)
+* [Introduction of new disease vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2025.md)
+* [Inadequate surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2028.md)
+* [Contamination of blood products](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2029.md)
 
 ## This article points to following mitigation
 
-* [Enhanced surveillance and reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4740.md)
-* [Land-use planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4736.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
-* [Personal protective measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3761.md)
-* [Vector surveillance and control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4737.md)
-* [Healthcare access and early treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4741.md)
-* [Improved blood safety practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4739.md)
-* [Early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4738.md)
+* [Enhanced surveillance and reporting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4740.md)
+* [Land-use planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4736.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Personal protective measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3761.md)
+* [Vector surveillance and control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4737.md)
+* [Healthcare access and early treatment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4741.md)
+* [Improved blood safety practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4739.md)
+* [Early warning systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4738.md)
 
 ## This article mentions these technologies
 
-* [Advanced surveillance technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1531.md)
-* [Remote sensing technology for monitoring and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1529.md)
-* [Improved screening and testing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1534.md)
-* [Pathogen reduction technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1533.md)
-* [Data analysis software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1532.md)
-* [Vector control techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1530.md)
+* [Advanced surveillance technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1531.md)
+* [Remote sensing technology for monitoring and surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1529.md)
+* [Improved screening and testing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1534.md)
+* [Pathogen reduction technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1533.md)
+* [Data analysis software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1532.md)
+* [Vector control techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1530.md)
 

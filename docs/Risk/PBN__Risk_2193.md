@@ -1,23 +1,23 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2193 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_2193 
 
 # __Pc1__
 
 ## Category to which it belongs
 
-* [Efficient transmission of viruses, personal comfort, and access to local services are the common themes in this list.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_42.md)
+* [Efficient transmission of viruses, personal comfort, and access to local services are the common themes in this list.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_42.md)
 
 ## Closest similar item
 
-* [Pc2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2194.md)
-* [Pc3](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2195.md)
-* [Pc4](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2196.md)
-* [Pc1: personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_201.md)
-* [Pc2: personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_202.md)
-* [Pvp1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2166.md)
-* [Pc3: personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_203.md)
-* [Eu1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2185.md)
-* [Pc4: personal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_204.md)
-* [Wq1](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2180.md)
+* [Pc2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2194.md)
+* [Pc3](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2195.md)
+* [Pc4](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2196.md)
+* [Pc1: personal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_201.md)
+* [Pc2: personal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_202.md)
+* [Pvp1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2166.md)
+* [Pc3: personal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_203.md)
+* [Eu1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2185.md)
+* [Pc4: personal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_204.md)
+* [Wq1](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2180.md)
 
 ## Description of the risk
 
@@ -25,23 +25,23 @@ Specific emphasis on household-level ICT infrastructure access
 
 ## Type of the risk
 
-* [Mental](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_1.md)
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_1.md)
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
-* [Provide reliable and constant ict connections](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2885.md)
+* [Provide reliable and constant ict connections](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2885.md)
 
 ## Name of the risk
 
@@ -49,25 +49,25 @@ Ensure stable and reliable access to ICT services
 
 ## Stakeholders who can mitigate this risk
 
-* [Building management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1101.md)
-* [Facilities](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1483.md)
+* [Building management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1101.md)
+* [Facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1483.md)
 
 ## Articles mentionning the risk
 
-* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_51.md)
+* [Assessment method for new sustainability indicators providing pandemic resilience for residential buildings](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_51.md)
 
 ## People affected by this risk
 
-* [Residents](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_59.md)
-* [Building occupants](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_97.md)
+* [Residents](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_59.md)
+* [Building occupants](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_97.md)
 
 ## Technologies linked to the risk
 
-* [Cellular network](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1776.md)
-* [Optical fiber cable](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1774.md)
-* [Metal cable](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1775.md)
+* [Cellular network](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1776.md)
+* [Optical fiber cable](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1774.md)
+* [Metal cable](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1775.md)
 
 ## Property: has_RiskType
 
-* [Social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
+* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_2.md)
 

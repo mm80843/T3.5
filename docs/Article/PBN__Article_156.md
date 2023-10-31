@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_156 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_156 
 
 # __Borders and Catastrophe: lessons from COVID-19 for the European Green Deal__
 
@@ -24,47 +24,47 @@ Borders and Catastrophe: lessons from COVID-19 for the European Green Deal
 
 ## Benefits listed in this article
 
-* [Improved coordination and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_776.md)
-* [Strengthened unity and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_777.md)
-* [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_778.md)
-* [Protection of democratic values and human rights](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_779.md)
-* [Influencing global green transition](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_780.md)
+* [Improved coordination and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_776.md)
+* [Strengthened unity and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_777.md)
+* [Enhanced economic support and stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_778.md)
+* [Protection of democratic values and human rights](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_779.md)
+* [Influencing global green transition](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_780.md)
 
 ## List of risks in an article
 
-* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1572.md)
-* [Limited eu mandate in public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1571.md)
-* [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1574.md)
-* [Economic disparities among member states](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1575.md)
-* [Fragmented political responses](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1573.md)
+* [Lack of preparedness for pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1572.md)
+* [Limited eu mandate in public health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1571.md)
+* [Politicization of public health measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1574.md)
+* [Economic disparities among member states](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1575.md)
+* [Fragmented political responses](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1573.md)
 
 ## This article points to following mitigation
 
-* [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3981.md)
-* [Strengthened carbon tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3976.md)
-* [Creation of resceu stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3974.md)
-* [Supporting access to technology and capital goods in global south](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3983.md)
-* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3971.md)
-* [Wealth tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3977.md)
-* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3972.md)
-* [Financial reforms to enable innovative and socially directed investment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3975.md)
-* [Strengthening the european centre for disease control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3973.md)
-* [Common debt issuance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3982.md)
-* [Carbon border tax](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3979.md)
-* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3980.md)
-* [Just transition fund](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3978.md)
+* [Developing sectoral roadmaps for a green recovery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3981.md)
+* [Strengthened carbon tax](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3976.md)
+* [Creation of resceu stockpile of medical equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3974.md)
+* [Supporting access to technology and capital goods in global south](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3983.md)
+* [Improved coordination at federal level](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3971.md)
+* [Wealth tax](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3977.md)
+* [Central control of medical countermeasures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3972.md)
+* [Financial reforms to enable innovative and socially directed investment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3975.md)
+* [Strengthening the european centre for disease control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3973.md)
+* [Common debt issuance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3982.md)
+* [Carbon border tax](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3979.md)
+* [Instituting changes to state aid laws to promote low-carbon strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3980.md)
+* [Just transition fund](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3978.md)
 
 ## This article mentions these technologies
 
-* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_890.md)
-* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_889.md)
-* [Improved communication and decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_887.md)
-* [Targeted investments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_893.md)
-* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_892.md)
-* [Standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_888.md)
-* [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_884.md)
-* [Improved surveillance and early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_885.md)
-* [Economic diversification strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_894.md)
-* [Increased production and stockpiling of medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_886.md)
-* [Targeted messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_891.md)
+* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_890.md)
+* [Public education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_889.md)
+* [Improved communication and decision-making tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_887.md)
+* [Targeted investments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_893.md)
+* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_892.md)
+* [Standardized protocols and guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_888.md)
+* [Improved communication and data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_884.md)
+* [Improved surveillance and early warning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_885.md)
+* [Economic diversification strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_894.md)
+* [Increased production and stockpiling of medical supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_886.md)
+* [Targeted messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_891.md)
 

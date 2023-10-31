@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_16 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_16 
 
 # __Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fabricated by cold-spray technology__
 
@@ -16,8 +16,8 @@ Researchers have found that coating stainless steel surfaces with copper can hel
 
 ## Referenced by other articles
 
-* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
-* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_21.md)
+* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_264.md)
 
 ## Title of the article
 
@@ -29,37 +29,37 @@ Sars-CoV-2 (COVID-19) inactivation capability of copper-coated touch surface fab
 
 ## Benefits listed in this article
 
-* [Reduced virus lifespan on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_75.md)
-* [Enhanced antibacterial and antiviral properties](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_76.md)
-* [Rapid deployment of virus-inactivating solutions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_77.md)
-* [Cost savings through coating existing parts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_78.md)
+* [Reduced virus lifespan on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_75.md)
+* [Enhanced antibacterial and antiviral properties](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_76.md)
+* [Rapid deployment of virus-inactivating solutions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_77.md)
+* [Cost savings through coating existing parts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_78.md)
 
 ## List of risks in an article
 
-* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_91.md)
-* [Inadequate antibacterial and antiviral properties of stainless steel surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1482.md)
-* [Lack of medication and vaccines for covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1483.md)
-* [Insufficient knowledge of covid-19 inactivation mechanisms on copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1484.md)
-* [Shortage of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1485.md)
+* [Spread of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_91.md)
+* [Inadequate antibacterial and antiviral properties of stainless steel surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1482.md)
+* [Lack of medication and vaccines for covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1483.md)
+* [Insufficient knowledge of covid-19 inactivation mechanisms on copper coatings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1484.md)
+* [Shortage of personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1485.md)
 
 ## This article points to following mitigation
 
-* [Virus-inactivating solutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3822.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_427.md)
-* [Copper coating](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3823.md)
-* [Stainless steel replacement with copper](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3824.md)
+* [Virus-inactivating solutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3822.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [Copper coating](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3823.md)
+* [Stainless steel replacement with copper](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3824.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
-* [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
-* [Testing and analysis equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_763.md)
-* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_761.md)
-* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_764.md)
-* [Scientific research](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_762.md)
-* [Research institutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_312.md)
-* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_760.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_608.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
+* [Supply chain management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_765.md)
+* [Testing and analysis equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_763.md)
+* [Pharmaceutical companies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_761.md)
+* [Manufacturing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_764.md)
+* [Scientific research](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_762.md)
+* [Research institutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_312.md)
+* [Cold-spray technique to deposit copper coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_760.md)
 

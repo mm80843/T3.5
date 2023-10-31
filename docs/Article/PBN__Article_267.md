@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_267 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_267 
 
 # __Role of Information Technology in Covid-19 Prevention__
 
@@ -24,45 +24,45 @@ Role of Information Technology in Covid-19 Prevention
 
 ## Benefits listed in this article
 
-* [Reduced risk of contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1263.md)
-* [Efficient transportation and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1264.md)
-* [Enhanced monitoring and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1265.md)
-* [Contactless delivery and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1266.md)
-* [Early detection and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1267.md)
+* [Reduced risk of contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1263.md)
+* [Efficient transportation and monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1264.md)
+* [Enhanced monitoring and surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1265.md)
+* [Contactless delivery and disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1266.md)
+* [Early detection and monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1267.md)
 
 ## List of risks in an article
 
-* [Impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1076.md)
-* [Overburdened healthcare system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1734.md)
-* [Spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1731.md)
-* [Lack of vaccine or cure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1733.md)
-* [Spread through respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1730.md)
-* [Spread before symptoms appear](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1732.md)
+* [Impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1076.md)
+* [Overburdened healthcare system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1734.md)
+* [Spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1731.md)
+* [Lack of vaccine or cure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1733.md)
+* [Spread through respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1730.md)
+* [Spread before symptoms appear](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1732.md)
 
 ## This article points to following mitigation
 
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
-* [Big data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4256.md)
-* [Drones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1282.md)
-* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1284.md)
-* [Iot and ai](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1285.md)
-* [Self-isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3494.md)
-* [Droplet precautions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4255.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3575.md)
-* [Isolation of patients](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4254.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)
+* [Big data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4256.md)
+* [Drones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1282.md)
+* [Autonomous vehicles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1284.md)
+* [Iot and ai](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1285.md)
+* [Self-isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3494.md)
+* [Droplet precautions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4255.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Isolation of patients](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4254.md)
 
 ## This article mentions these technologies
 
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
-* [Mental health support services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1119.md)
-* [Self-care resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1120.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
-* [Public health measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1028.md)
-* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_227.md)
-* [Research and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_269.md)
-* [Education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1117.md)
-* [Respiratory hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_583.md)
-* [Triage protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1118.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Mental health support services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1119.md)
+* [Self-care resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1120.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_167.md)
+* [Public health measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1028.md)
+* [Cleaning and disinfection products](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_227.md)
+* [Research and development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_269.md)
+* [Education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1117.md)
+* [Respiratory hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_583.md)
+* [Triage protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1118.md)
 

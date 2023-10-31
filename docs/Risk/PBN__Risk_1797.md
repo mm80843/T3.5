@@ -1,23 +1,23 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1797 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1797 
 
 # __Impact on sports industry__
 
 ## Category to which it belongs
 
-* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_12.md)
+* [The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_12.md)
 
 ## Closest similar item
 
-* [Economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_124.md)
-* [Economic impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_961.md)
-* [Impact on economy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1584.md)
-* [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2875.md)
-* [Financial impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_599.md)
-* [Impact on future workforce](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_503.md)
-* [Financial impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_553.md)
-* [Impact on restaurants and hospitality industry](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_414.md)
-* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2734.md)
-* [Restriction of large events, economic impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2736.md)
+* [Economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_124.md)
+* [Economic impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_961.md)
+* [Impact on economy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1584.md)
+* [Economic impacts, social impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2875.md)
+* [Financial impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_599.md)
+* [Impact on future workforce](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_503.md)
+* [Financial impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_553.md)
+* [Impact on restaurants and hospitality industry](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_414.md)
+* [Reduced social interaction, economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2734.md)
+* [Restriction of large events, economic impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2736.md)
 
 ## Description of the risk
 
@@ -25,23 +25,23 @@ Cancellations and delays of major sporting events, financial burden on sports or
 
 ## Type of the risk
 
-* [Economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_3.md)
+* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_3.md)
 
 ## Is the risk affecting GBN scales
 
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_1.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Health and care](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_0.md)
+* [Health and care](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_0.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Well-being](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_1.md)
+* [Well-being](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_1.md)
 
 ## Mitigations of this risk
 
-* [Postpone events, provide financial support to organizations and athletes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2396.md)
+* [Postpone events, provide financial support to organizations and athletes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2396.md)
 
 ## Name of the risk
 
@@ -49,22 +49,22 @@ Significant financial losses, uncertainty for athletes and organizations
 
 ## Stakeholders who can mitigate this risk
 
-* [Government](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_73.md)
-* [Sports industry](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1219.md)
+* [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
+* [Sports industry](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1219.md)
 
 ## Articles mentionning the risk
 
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_135.md)
 
 ## People affected by this risk
 
-* [Sports organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1218.md)
-* [Athletes](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1217.md)
+* [Sports organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1218.md)
+* [Athletes](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1217.md)
 
 ## Technologies linked to the risk
 
 
 ## Property: has_RiskType
 
-* [Economic](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_3.md)
+* [Economic](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_3.md)
 

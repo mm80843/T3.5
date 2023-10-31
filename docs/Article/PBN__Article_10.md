@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_10 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_10 
 
 # __Impact of Covid-19 on the built environment__
 
@@ -24,55 +24,55 @@ Impact of Covid-19 on the built environment
 
 ## Benefits listed in this article
 
-* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_43.md)
-* [Suppression of outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_44.md)
-* [Community development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_45.md)
-* [Increased social activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_46.md)
-* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
+* [Decreased transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_43.md)
+* [Suppression of outbreak](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_44.md)
+* [Community development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_45.md)
+* [Increased social activity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_46.md)
+* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
 
 ## List of risks in an article
 
-* [Spread of contagious diseases in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1664.md)
-* [Inadequate ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1666.md)
-* [Lack of awareness and compliance with public health protocols](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1665.md)
-* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1667.md)
-* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1668.md)
+* [Spread of contagious diseases in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1664.md)
+* [Inadequate ventilation in indoor spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1666.md)
+* [Lack of awareness and compliance with public health protocols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1665.md)
+* [Inadequate sanitation and hygiene facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1667.md)
+* [Insufficient crowd management measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1668.md)
 
 ## This article points to following mitigation
 
-* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_36.md)
-* [Wider trails and walkways](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4121.md)
-* [Broad sidewalks and pedestrian crossings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4124.md)
-* [Inclusive urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4120.md)
-* [Individual hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4115.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3284.md)
-* [More greenery along streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4125.md)
-* [Pocket spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4126.md)
-* [Urban farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4117.md)
-* [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4127.md)
-* [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4118.md)
-* [Non-centralized building systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4119.md)
-* [Decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1434.md)
-* [Green pockets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4122.md)
-* [Online shopping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4123.md)
-* [Compact design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4116.md)
+* [Zone-based lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_36.md)
+* [Wider trails and walkways](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4121.md)
+* [Broad sidewalks and pedestrian crossings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4124.md)
+* [Inclusive urban planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4120.md)
+* [Individual hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4115.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [More greenery along streets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4125.md)
+* [Pocket spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4126.md)
+* [Urban farming](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4117.md)
+* [Community gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4127.md)
+* [Pedestrian and cycling facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4118.md)
+* [Non-centralized building systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4119.md)
+* [Decentralization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1434.md)
+* [Green pockets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4122.md)
+* [Online shopping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4123.md)
+* [Compact design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4116.md)
 
 ## This article mentions these technologies
 
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_207.md)
-* [Air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_588.md)
-* [Uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1024.md)
-* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1023.md)
-* [Smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1019.md)
-* [Real-time occupancy tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1026.md)
-* [Use of advanced hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1018.md)
-* [Automated monitoring systems for compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1017.md)
-* [Contactless transactions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1015.md)
-* [Use of digital tools for crowd monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1025.md)
-* [Use of digital platforms for public health education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1016.md)
-* [Use of digital technologies for crowd management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1014.md)
-* [Use of touchless technologies such as automatic faucets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1020.md)
-* [Soap dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1021.md)
-* [Trash bins](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1022.md)
-* [Crowd prediction algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1027.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_207.md)
+* [Air purifiers with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_588.md)
+* [Uv-c disinfection systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1024.md)
+* [Antimicrobial coatings for surfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1023.md)
+* [Smart sensors for monitoring air quality](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1019.md)
+* [Real-time occupancy tracking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1026.md)
+* [Use of advanced hvac systems with high-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1018.md)
+* [Automated monitoring systems for compliance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1017.md)
+* [Contactless transactions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1015.md)
+* [Use of digital tools for crowd monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1025.md)
+* [Use of digital platforms for public health education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1016.md)
+* [Use of digital technologies for crowd management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1014.md)
+* [Use of touchless technologies such as automatic faucets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1020.md)
+* [Soap dispensers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1021.md)
+* [Trash bins](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1022.md)
+* [Crowd prediction algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1027.md)
 

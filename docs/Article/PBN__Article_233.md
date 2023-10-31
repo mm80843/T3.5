@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_233 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_233 
 
 # __Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents__
 
@@ -24,40 +24,40 @@ Persistence of coronaviruses on inanimate surfaces and their inactivation with b
 
 ## Benefits listed in this article
 
-* [Protection of healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_679.md)
-* [Reduction in infectiousness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1119.md)
-* [Prevention of viral transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1120.md)
-* [Reduced viral load on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1121.md)
+* [Protection of healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_679.md)
+* [Reduction in infectiousness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1119.md)
+* [Prevention of viral transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1120.md)
+* [Reduced viral load on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1121.md)
 
 ## List of risks in an article
 
-* [Persistence of coronavirus on inanimate surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1536.md)
-* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1539.md)
-* [Compliance with hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1540.md)
-* [Inactivation of coronaviruses by biocidal agents in carrier tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1538.md)
-* [Inactivation of coronaviruses by biocidal agents in suspension tests](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1537.md)
+* [Persistence of coronavirus on inanimate surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1536.md)
+* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1539.md)
+* [Compliance with hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1540.md)
+* [Inactivation of coronaviruses by biocidal agents in carrier tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1538.md)
+* [Inactivation of coronaviruses by biocidal agents in suspension tests](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1537.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
-* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3919.md)
-* [Hand washing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1363.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
-* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3439.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3515.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3575.md)
-* [Room ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3918.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3919.md)
+* [Hand washing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1363.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3439.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3515.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Room ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3918.md)
 
 ## This article mentions these technologies
 
-* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_850.md)
-* [Ethanol](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_851.md)
-* [Hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_852.md)
-* [Biocidal agents such as hydrogen peroxide](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_848.md)
-* [Education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_856.md)
-* [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_855.md)
-* [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_854.md)
-* [Alcohols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_849.md)
-* [Glutardialdehyde](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_853.md)
+* [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_850.md)
+* [Ethanol](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_851.md)
+* [Hydrogen peroxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_852.md)
+* [Biocidal agents such as hydrogen peroxide](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_848.md)
+* [Education and training on hand hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_856.md)
+* [Hand washing with soap and water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_855.md)
+* [Alcohol-based hand rubs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_854.md)
+* [Alcohols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_849.md)
+* [Glutardialdehyde](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_853.md)
 

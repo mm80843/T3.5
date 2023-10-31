@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_187 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_187 
 
 # __Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19__
 
@@ -16,8 +16,8 @@ Viruses like the coronavirus can cause diseases in humans, and they can spread f
 
 ## Referenced by other articles
 
-* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
-* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_233.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_21.md)
 
 ## Title of the article
 
@@ -29,32 +29,32 @@ Graphene-based nanomaterials as antimicrobial surface coatings: A parallel appro
 
 ## Benefits listed in this article
 
-* [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_914.md)
-* [Enhanced treatment options](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_915.md)
-* [Safer and more effective disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_916.md)
-* [Prolonged antimicrobial activity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_917.md)
+* [Reduction in virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_914.md)
+* [Enhanced treatment options](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_915.md)
+* [Safer and more effective disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_916.md)
+* [Prolonged antimicrobial activity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_917.md)
 
 ## List of risks in an article
 
-* [Lack of effective disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1125.md)
-* [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1124.md)
-* [Poor solubility and processing of graphene materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1126.md)
-* [Scalability and cost of graphene-based coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1128.md)
-* [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1127.md)
+* [Lack of effective disinfectants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1125.md)
+* [Virus spread through contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1124.md)
+* [Poor solubility and processing of graphene materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1126.md)
+* [Scalability and cost of graphene-based coatings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1128.md)
+* [Toxicity of nanomaterials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1127.md)
 
 ## This article points to following mitigation
 
-* [Nano-spray technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3288.md)
-* [Antiviral coatings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3285.md)
-* [Graphene-metal composites](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3286.md)
-* [Self-sanitizing surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3287.md)
-* [Nano-vaccines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3289.md)
+* [Nano-spray technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3288.md)
+* [Antiviral coatings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3285.md)
+* [Graphene-metal composites](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3286.md)
+* [Self-sanitizing surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3287.md)
+* [Nano-vaccines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3289.md)
 
 ## This article mentions these technologies
 
-* [Graphene-based nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_212.md)
-* [Solubility and processing techniques for graphene](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_214.md)
-* [Scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_216.md)
-* [Non-toxic nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_215.md)
-* [Nanotechnology-based disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_213.md)
+* [Graphene-based nanomaterials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_212.md)
+* [Solubility and processing techniques for graphene](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_214.md)
+* [Scalable production techniques for graphene coatings](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_216.md)
+* [Non-toxic nanomaterials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_215.md)
+* [Nanotechnology-based disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_213.md)
 

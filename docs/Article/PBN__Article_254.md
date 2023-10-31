@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_254 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_254 
 
 # __COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health__
 
@@ -16,8 +16,8 @@ During the COVID-19 lockdown, people had to stay at home to stay safe from the v
 
 ## Referenced by other articles
 
-* [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_12.md)
-* [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_161.md)
+* [The psychological impact of COVID-19 on the mental health in the general population](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_12.md)
+* [COVID-19 and Living space challenge. Well-being and Public Health recommendations for a healthy, safe, and sustainable housing.](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_161.md)
 
 ## Title of the article
 
@@ -29,48 +29,48 @@ COVID-19 Lockdown: Housing Built Environment’s Effects on Mental Health
 
 ## Benefits listed in this article
 
-* [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_441.md)
-* [Reduced depressive symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1211.md)
-* [Improved working performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1212.md)
+* [Improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_441.md)
+* [Reduced depressive symptoms](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1211.md)
+* [Improved working performance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1212.md)
 
 ## List of risks in an article
 
-* [Impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1076.md)
-* [Isolation and lack of social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1079.md)
-* [Impact on working performance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1080.md)
-* [Lack of outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1078.md)
-* [Poor housing quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1077.md)
+* [Impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1076.md)
+* [Isolation and lack of social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1079.md)
+* [Impact on working performance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1080.md)
+* [Lack of outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1078.md)
+* [Poor housing quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1077.md)
 
 ## This article points to following mitigation
 
-* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
-* [Views of nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3225.md)
-* [Large living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3227.md)
-* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1303.md)
-* [Acoustic comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3223.md)
-* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3230.md)
-* [Livable outdoor space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3222.md)
-* [Thermo-hygrometric comfort](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3224.md)
-* [Privacy during phone calls](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3226.md)
-* [Clear guidelines and information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3228.md)
-* [Social support and connection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3229.md)
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_780.md)
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_747.md)
+* [Views of nature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3225.md)
+* [Large living spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3227.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1303.md)
+* [Acoustic comfort](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3223.md)
+* [Flexible working arrangements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3230.md)
+* [Livable outdoor space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3222.md)
+* [Thermo-hygrometric comfort](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3224.md)
+* [Privacy during phone calls](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3226.md)
+* [Clear guidelines and information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3228.md)
+* [Social support and connection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3229.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_780.md)
 
 ## This article mentions these technologies
 
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
-* [Mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
-* [Soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
-* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
-* [Online therapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_116.md)
-* [Online support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_124.md)
-* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_120.md)
-* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_118.md)
-* [Landscape architecture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_121.md)
-* [Community gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_122.md)
-* [Video conferencing software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_123.md)
-* [Remote collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_125.md)
-* [Flexible work policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_126.md)
-* [Ergonomic office furniture](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_127.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
+* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Soundproofing materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_119.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
+* [Online therapy platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_116.md)
+* [Online support groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_124.md)
+* [Green spaces in residential areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_120.md)
+* [Energy-efficient lighting](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_118.md)
+* [Landscape architecture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_121.md)
+* [Community gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_122.md)
+* [Video conferencing software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_123.md)
+* [Remote collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_125.md)
+* [Flexible work policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_126.md)
+* [Ergonomic office furniture](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_127.md)
 

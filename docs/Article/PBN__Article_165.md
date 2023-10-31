@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_165 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_165 
 
 # __Questioning the use of the balcony in apartments during the COVID-19 pandemic process__
 
@@ -24,38 +24,38 @@ Questioning the use of the balcony in apartments during the COVID-19 pandemic pr
 
 ## Benefits listed in this article
 
-* [Outdoor living space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_820.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_821.md)
-* [Visual and auditory privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_822.md)
-* [Multifunctional space](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_823.md)
-* [Enhanced balcony features](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_824.md)
+* [Outdoor living space](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_820.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_821.md)
+* [Visual and auditory privacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_822.md)
+* [Multifunctional space](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_823.md)
+* [Enhanced balcony features](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_824.md)
 
 ## List of risks in an article
 
-* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1123.md)
-* [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1121.md)
-* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1120.md)
-* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1122.md)
-* [Transmission of diseases through air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1119.md)
+* [Disruption of supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1123.md)
+* [Overcrowding in living spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1121.md)
+* [Lack of sanitation in shared spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1120.md)
+* [Inadequate healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1122.md)
+* [Transmission of diseases through air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1119.md)
 
 ## This article points to following mitigation
 
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3123.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3283.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_627.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3284.md)
-* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1095.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3283.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1095.md)
 
 ## This article mentions these technologies
 
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
-* [Touchless technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_206.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [Smart building management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_208.md)
-* [Uv disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_204.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_207.md)
-* [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_209.md)
-* [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_205.md)
-* [Digital supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_210.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Touchless technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_206.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Smart building management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_208.md)
+* [Uv disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_204.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_207.md)
+* [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_209.md)
+* [Automated cleaning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_205.md)
+* [Digital supply chain management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_210.md)
 

@@ -1,8 +1,8 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1591 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_1591 
 
 # __Reduced mortality rates, reduced burden on healthcare system__
 
 ## This return can be realized by these benefits
 
-* [Improved strategic management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1395.md)
+* [Improved strategic management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1395.md)
 

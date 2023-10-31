@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_299 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_299 
 
 # __Infodemic and the spread of fake news in the COVID-19-era__
 
@@ -24,34 +24,34 @@ Infodemic and the spread of fake news in the COVID-19-era
 
 ## Benefits listed in this article
 
-* [Increased public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_909.md)
-* [Harmonized messaging](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1404.md)
-* [Increased signal-to-noise ratio](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1405.md)
-* [Improved treatment guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1406.md)
-* [Reduced misinformation dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1407.md)
+* [Increased public awareness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_909.md)
+* [Harmonized messaging](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1404.md)
+* [Increased signal-to-noise ratio](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1405.md)
+* [Improved treatment guidelines](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1406.md)
+* [Reduced misinformation dissemination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1407.md)
 
 ## List of risks in an article
 
-* [Spread of inaccurate medical information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1842.md)
-* [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1844.md)
-* [Lack of filters for reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1843.md)
+* [Spread of inaccurate medical information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1842.md)
+* [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1844.md)
+* [Lack of filters for reliable information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1843.md)
 
 ## This article points to following mitigation
 
-* [Social media filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4464.md)
-* [Use reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4463.md)
-* [Avoid ace inhibitors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4460.md)
-* [Individual responsibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4465.md)
-* [Increase data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4462.md)
-* [Limit misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4461.md)
-* [Use of paracetamol](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4459.md)
+* [Social media filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4464.md)
+* [Use reliable sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4463.md)
+* [Avoid ace inhibitors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4460.md)
+* [Individual responsibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4465.md)
+* [Increase data analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4462.md)
+* [Limit misinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4461.md)
+* [Use of paracetamol](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4459.md)
 
 ## This article mentions these technologies
 
-* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
-* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1147.md)
-* [Social media monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_564.md)
-* [Peer-review systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1226.md)
-* [Education on media literacy](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1228.md)
-* [Reputable scientific journals](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1227.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7.md)
+* [Fact-checking websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1147.md)
+* [Social media monitoring tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_564.md)
+* [Peer-review systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1226.md)
+* [Education on media literacy](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1228.md)
+* [Reputable scientific journals](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1227.md)
 

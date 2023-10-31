@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_152 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_152 
 
 # __Epidemics, Planning and the City: A Special Issue of Planning Perspectives__
 
@@ -24,46 +24,46 @@ Epidemics, Planning and the City: A Special Issue of Planning Perspectives
 
 ## Benefits listed in this article
 
-* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
-* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_79.md)
-* [Increased healthcare access](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_761.md)
-* [Enhanced quality of life](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_762.md)
-* [Prevention of disease spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_763.md)
+* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
+* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
+* [Increased healthcare access](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_761.md)
+* [Enhanced quality of life](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_762.md)
+* [Prevention of disease spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_763.md)
 
 ## List of risks in an article
 
-* [Inadequate urban design and planning for disease prevention](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1306.md)
-* [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1305.md)
-* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1307.md)
-* [Inequitable access to healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1309.md)
-* [Limited public health knowledge and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1308.md)
+* [Inadequate urban design and planning for disease prevention](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1306.md)
+* [Infectious disease outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1305.md)
+* [Insufficient medical facilities and infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1307.md)
+* [Inequitable access to healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1309.md)
+* [Limited public health knowledge and understanding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1308.md)
 
 ## This article points to following mitigation
 
-* [Social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_416.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3123.md)
-* [Behavioral interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3571.md)
-* [Access to fresh air](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3564.md)
-* [Improvement of sanitary infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3570.md)
-* [Temporary use strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3565.md)
-* [Adaptability of urban fabrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3566.md)
-* [Development of public health infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3567.md)
-* [Climate-sensitive design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3568.md)
-* [Slum clearance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3569.md)
+* [Social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_416.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Behavioral interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3571.md)
+* [Access to fresh air](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3564.md)
+* [Improvement of sanitary infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3570.md)
+* [Temporary use strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3565.md)
+* [Adaptability of urban fabrics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3566.md)
+* [Development of public health infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3567.md)
+* [Climate-sensitive design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3568.md)
+* [Slum clearance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3569.md)
 
 ## This article mentions these technologies
 
-* [Telehealth services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_19.md)
-* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_29.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [Smart city technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_469.md)
-* [Remote monitoring and diagnosis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_468.md)
-* [Mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_475.md)
-* [Community health workers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_476.md)
-* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_472.md)
-* [Health education platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_473.md)
-* [Digital health solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_471.md)
-* [Sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_470.md)
-* [Data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_474.md)
+* [Telehealth services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_19.md)
+* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_29.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Smart city technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_469.md)
+* [Remote monitoring and diagnosis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_468.md)
+* [Mobile health clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_475.md)
+* [Community health workers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_476.md)
+* [Modular healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_472.md)
+* [Health education platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_473.md)
+* [Digital health solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_471.md)
+* [Sustainable and resilient design principles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_470.md)
+* [Data analytics for public health monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_474.md)
 

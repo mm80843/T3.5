@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_132 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_132 
 
 # __Global policy challenges for urban vector-borne disease risks__
 
@@ -24,37 +24,37 @@ Global policy challenges for urban vector-borne disease risks
 
 ## Benefits listed in this article
 
-* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_79.md)
-* [Improved living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_664.md)
-* [Improved access to clean water](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_665.md)
-* [Improved sanitation and waste management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_666.md)
-* [Increased citizen cooperation and trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_667.md)
-* [Raised awareness of health gains](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_668.md)
-* [Reduced vulnerability and improved living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_669.md)
+* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
+* [Improved living conditions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_664.md)
+* [Improved access to clean water](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_665.md)
+* [Improved sanitation and waste management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_666.md)
+* [Increased citizen cooperation and trust](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_667.md)
+* [Raised awareness of health gains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_668.md)
+* [Reduced vulnerability and improved living conditions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_669.md)
 
 ## List of risks in an article
 
-* [Urban crowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1063.md)
-* [Inadequate waste management](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1066.md)
-* [Lack of running water](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1065.md)
-* [Poor housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1064.md)
-* [Lack of surveillance and control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1067.md)
+* [Urban crowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1063.md)
+* [Inadequate waste management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1066.md)
+* [Lack of running water](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1065.md)
+* [Poor housing conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1064.md)
+* [Lack of surveillance and control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1067.md)
 
 ## This article points to following mitigation
 
-* [Enhanced urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3196.md)
-* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3199.md)
-* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3197.md)
-* [Effective waste management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3198.md)
-* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3201.md)
-* [Covering water containers and collecting garbage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3202.md)
-* [Heightened surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3200.md)
+* [Enhanced urban planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3196.md)
+* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3199.md)
+* [Improved water storage and sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3197.md)
+* [Effective waste management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3198.md)
+* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3201.md)
+* [Covering water containers and collecting garbage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3202.md)
+* [Heightened surveillance and mosquito control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3200.md)
 
 ## This article mentions these technologies
 
-* [Smart city technology to optimize space and resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_89.md)
-* [Affordable and sustainable housing solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_90.md)
-* [Water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_91.md)
-* [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_92.md)
-* [Vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_93.md)
+* [Smart city technology to optimize space and resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_89.md)
+* [Affordable and sustainable housing solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_90.md)
+* [Water purification and distribution technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_91.md)
+* [Waste collection and disposal technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_92.md)
+* [Vector surveillance and control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_93.md)
 

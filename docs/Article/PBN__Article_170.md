@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_170 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_170 
 
 # __An Overview of Ontologies and Tool Support for COVID-19 Analytics__
 
@@ -16,7 +16,7 @@ This text is about how scientists and researchers are using a special kind of so
 
 ## Referenced by other articles
 
-* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_24.md)
 
 ## Title of the article
 
@@ -28,31 +28,31 @@ An Overview of Ontologies and Tool Support for COVID-19 Analytics
 
 ## Benefits listed in this article
 
-* [Enhanced data integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_842.md)
-* [Simulating infection growth](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_843.md)
-* [Semantic representation of data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_844.md)
-* [Real-time statistics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_845.md)
-* [Data integration and retrieval](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_846.md)
+* [Enhanced data integration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_842.md)
+* [Simulating infection growth](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_843.md)
+* [Semantic representation of data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_844.md)
+* [Real-time statistics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_845.md)
+* [Data integration and retrieval](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_846.md)
 
 ## List of risks in an article
 
-* [Limited automation and tool support for ontology models and applications for covid-19 analytics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1047.md)
-* [Lack of rigor in evaluating proposed ontologies based on existing ontology quality evaluation literature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1049.md)
-* [Scalability and performance limitations of model-based solutions for pandemic data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1046.md)
-* [Lack of concrete implementations and real-world validations of proposed solutions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1045.md)
-* [Incomplete evaluation of proposed solutions with lack of concrete implementations and real-world validations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1048.md)
+* [Limited automation and tool support for ontology models and applications for covid-19 analytics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1047.md)
+* [Lack of rigor in evaluating proposed ontologies based on existing ontology quality evaluation literature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1049.md)
+* [Scalability and performance limitations of model-based solutions for pandemic data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1046.md)
+* [Lack of concrete implementations and real-world validations of proposed solutions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1045.md)
+* [Incomplete evaluation of proposed solutions with lack of concrete implementations and real-world validations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1048.md)
 
 ## This article points to following mitigation
 
-* [Integration and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3170.md)
-* [Information repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3171.md)
-* [Health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3166.md)
-* [Drug modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3168.md)
-* [Data intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3169.md)
-* [Disease modelling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3167.md)
+* [Integration and interoperability](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3170.md)
+* [Information repositories](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3171.md)
+* [Health monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3166.md)
+* [Drug modelling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3168.md)
+* [Data intelligence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3169.md)
+* [Disease modelling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3167.md)
 
 ## This article mentions these technologies
 
-* [Tools such as protégé](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_56.md)
-* [Kgx](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_57.md)
+* [Tools such as protégé](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_56.md)
+* [Kgx](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_57.md)
 

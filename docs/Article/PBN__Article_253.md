@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_253 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_253 
 
 # __Compliance with COVID-19 Mitigation Measures in the United States__
 
@@ -24,40 +24,40 @@ Compliance with COVID-19 Mitigation Measures in the United States
 
 ## Benefits listed in this article
 
-* [Increased compliance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1210.md)
+* [Increased compliance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1210.md)
 
 ## List of risks in an article
 
-* [Negative emotions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2252.md)
-* [High costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2251.md)
-* [Low compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_541.md)
-* [Limited capacity to comply](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2254.md)
-* [Lack of deterrence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2253.md)
+* [Negative emotions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2252.md)
+* [High costs of compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2251.md)
+* [Low compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_541.md)
+* [Limited capacity to comply](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2254.md)
+* [Lack of deterrence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2253.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Stay at home](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5079.md)
-* [Practical capacity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5080.md)
-* [Perceived clarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5081.md)
-* [Deterrence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5082.md)
-* [Impulsivity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5083.md)
-* [Descriptive social norms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5084.md)
-* [Normative obligation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5085.md)
-* [Political orientation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5086.md)
-* [Costs of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5087.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Stay at home](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5079.md)
+* [Practical capacity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5080.md)
+* [Perceived clarity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5081.md)
+* [Deterrence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5082.md)
+* [Impulsivity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5083.md)
+* [Descriptive social norms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5084.md)
+* [Normative obligation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5085.md)
+* [Political orientation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5086.md)
+* [Costs of compliance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5087.md)
 
 ## This article mentions these technologies
 
-* [Mental health apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_117.md)
-* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
-* [Remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
-* [Mobile apps for contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1854.md)
-* [Digital communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_717.md)
-* [Online resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_224.md)
-* [Educational platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1858.md)
-* [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1856.md)
-* [Community outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1080.md)
-* [Increased law enforcement presence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1857.md)
-* [Teletherapy platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1855.md)
+* [Mental health apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_117.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1261.md)
+* [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
+* [Mobile apps for contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1854.md)
+* [Digital communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_717.md)
+* [Online resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_224.md)
+* [Educational platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1858.md)
+* [Monitoring and surveillance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1856.md)
+* [Community outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1080.md)
+* [Increased law enforcement presence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1857.md)
+* [Teletherapy platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1855.md)
 

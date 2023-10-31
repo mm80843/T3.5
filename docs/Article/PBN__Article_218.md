@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_218 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_218 
 
 # __Open-source analytics tools for studying the COVID-19 coronavirus outbreak__
 
@@ -24,31 +24,31 @@ Open-source analytics tools for studying the COVID-19 coronavirus outbreak
 
 ## Benefits listed in this article
 
-* [Access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1046.md)
+* [Access to real-time data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1046.md)
 
 ## List of risks in an article
 
-* [Data unavailability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2338.md)
-* [Limited access to data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_723.md)
-* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_762.md)
-* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2339.md)
-* [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2337.md)
+* [Data unavailability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2338.md)
+* [Limited access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_723.md)
+* [Lack of real-time data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_762.md)
+* [Inaccurate forecasting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2339.md)
+* [Inconsistent data sources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2337.md)
 
 ## This article points to following mitigation
 
-* [Interactive web apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5208.md)
-* [Data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3903.md)
-* [Real-time data access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5205.md)
-* [Data aggregation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5206.md)
-* [Forecasting module](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5207.md)
-* [Maintenance of web apps during outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5210.md)
-* [Monitoring data sources](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5209.md)
+* [Interactive web apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5208.md)
+* [Data visualization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3903.md)
+* [Real-time data access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5205.md)
+* [Data aggregation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5206.md)
+* [Forecasting module](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5207.md)
+* [Maintenance of web apps during outbreak](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5210.md)
+* [Monitoring data sources](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5209.md)
 
 ## This article mentions these technologies
 
-* [Data access platforms and applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1967.md)
-* [Real-time data aggregation tools and apis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1963.md)
-* [Data backup and storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1965.md)
-* [Forecasting software and algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1966.md)
-* [Data monitoring tools and regular updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1964.md)
+* [Data access platforms and applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1967.md)
+* [Real-time data aggregation tools and apis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1963.md)
+* [Data backup and storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1965.md)
+* [Forecasting software and algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1966.md)
+* [Data monitoring tools and regular updates](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1964.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_166 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_166 
 
 # __Report 13: Estimating the number of infections and the impact of non-pharmaceutical interventions on COVID-19 in 11 European countries__
 
@@ -24,38 +24,38 @@ Report 13: Estimating the number of infections and the impact of non-pharmaceuti
 
 ## Benefits listed in this article
 
-* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
-* [Estimation of true number of infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_825.md)
-* [Improved estimation of reproduction numbers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_826.md)
-* [Quantification of deaths averted](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_827.md)
-* [Control of the epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_828.md)
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
+* [Estimation of true number of infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_825.md)
+* [Improved estimation of reproduction numbers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_826.md)
+* [Quantification of deaths averted](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_827.md)
+* [Control of the epidemic](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_828.md)
 
 ## List of risks in an article
 
-* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1388.md)
-* [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1385.md)
-* [Overreliance on data from countries with advanced epidemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1387.md)
-* [Uncertainty in estimating reproduction number](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1386.md)
-* [Under-ascertainment of infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1383.md)
-* [Lag between infection and death](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1384.md)
+* [High uncertainty in estimates and predictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1388.md)
+* [Inconsistent implementation of interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1385.md)
+* [Overreliance on data from countries with advanced epidemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1387.md)
+* [Uncertainty in estimating reproduction number](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1386.md)
+* [Under-ascertainment of infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1383.md)
+* [Lag between infection and death](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1384.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_427.md)
-* [School closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3689.md)
-* [Case-based measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3690.md)
-* [Public events ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3691.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [School closure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3689.md)
+* [Case-based measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3690.md)
+* [Public events ban](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3691.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
-* [International organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_611.md)
-* [Communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_135.md)
-* [Diagnostic tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_609.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
-* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_610.md)
-* [Data collection and analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_614.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_608.md)
+* [International organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_611.md)
+* [Communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_135.md)
+* [Diagnostic tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_609.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_613.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_612.md)
+* [Rapid diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_610.md)
+* [Data collection and analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_614.md)
 

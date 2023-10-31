@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_15 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_15 
 
 # __The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of Safe City and Smart City__
 
@@ -32,39 +32,39 @@ The Emergence of Anti-Privacy and Control at the Nexus between the Concepts of S
 
 ## Benefits listed in this article
 
-* [Data protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_70.md)
-* [System protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_71.md)
-* [Awareness and understanding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_72.md)
-* [Proper data management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_73.md)
-* [Control and governance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_74.md)
+* [Data protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_70.md)
+* [System protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_71.md)
+* [Awareness and understanding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_72.md)
+* [Proper data management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_73.md)
+* [Control and governance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_74.md)
 
 ## List of risks in an article
 
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [Security breaches](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1069.md)
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
-* [Lack of control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1071.md)
-* [Propaganda](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1070.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_47.md)
+* [Security breaches](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1069.md)
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_49.md)
+* [Lack of control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1071.md)
+* [Propaganda](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1070.md)
 
 ## This article points to following mitigation
 
-* [Video surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3209.md)
-* [Converged command centres](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3210.md)
-* [Transparency of data usage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3212.md)
-* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3206.md)
-* [Ppp restructuring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3211.md)
+* [Video surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3209.md)
+* [Converged command centres](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3210.md)
+* [Transparency of data usage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3212.md)
+* [Standardization of protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3206.md)
+* [Ppp restructuring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3211.md)
 
 ## This article mentions these technologies
 
-* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
-* [Anonymity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_98.md)
-* [Biometrics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_99.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Transparency measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_103.md)
-* [Public consultation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_105.md)
-* [Iot protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_100.md)
-* [Network security measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_101.md)
-* [Transparent communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_104.md)
-* [Data governance policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_106.md)
-* [Limits on data use](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_107.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
+* [Anonymity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_98.md)
+* [Biometrics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_99.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Transparency measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_103.md)
+* [Public consultation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_105.md)
+* [Iot protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_100.md)
+* [Network security measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_101.md)
+* [Transparent communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_104.md)
+* [Data governance policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_106.md)
+* [Limits on data use](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_107.md)
 

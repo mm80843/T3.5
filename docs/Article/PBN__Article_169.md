@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_169 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_169 
 
 # __The effect of occupant distribution on energy consumption and COVID-19 infection in buildings: A case study of university building__
 
@@ -16,9 +16,9 @@ This study looked at how different factors in a building, such as the number of 
 
 ## Referenced by other articles
 
-* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_223.md)
-* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_125.md)
-* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+* [The effect of a redesigned floor plan, occupant density and the quality of indoor climate on the cost of space, productivity and sick leave in an office building–A case study](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_223.md)
+* [The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_125.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_21.md)
 
 ## Title of the article
 
@@ -30,36 +30,36 @@ The effect of occupant distribution on energy consumption and COVID-19 infection
 
 ## Benefits listed in this article
 
-* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_246.md)
-* [Reduced number of infected people](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_837.md)
-* [Improved accuracy of energy consumption simulation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_838.md)
-* [Improved accuracy of infection risk estimation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_839.md)
-* [Reduced infection risk, fewer infected people](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_840.md)
-* [Enhanced thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_841.md)
+* [Reduced energy consumption](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_246.md)
+* [Reduced number of infected people](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_837.md)
+* [Improved accuracy of energy consumption simulation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_838.md)
+* [Improved accuracy of infection risk estimation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_839.md)
+* [Reduced infection risk, fewer infected people](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_840.md)
+* [Enhanced thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_841.md)
 
 ## List of risks in an article
 
-* [Energy consumption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_745.md)
-* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
-* [Hvac systems failure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1753.md)
-* [Infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1751.md)
-* [Building occupancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1752.md)
+* [Energy consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_745.md)
+* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1327.md)
+* [Hvac systems failure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1753.md)
+* [Infection risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1751.md)
+* [Building occupancy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1752.md)
 
 ## This article points to following mitigation
 
-* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4284.md)
-* [Maximizing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4283.md)
-* [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_837.md)
-* [Controlling probability of contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4278.md)
-* [Increasing fresh air supply in hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4279.md)
-* [Social distancing between occupants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4280.md)
-* [Shortening class durations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4281.md)
-* [Extending working hours of the building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4282.md)
+* [Virtual learning in combination with in-person classes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4284.md)
+* [Maximizing ventilation rate](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4283.md)
+* [Optimum occupant presence schedule](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_837.md)
+* [Controlling probability of contact](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4278.md)
+* [Increasing fresh air supply in hvac systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4279.md)
+* [Social distancing between occupants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4280.md)
+* [Shortening class durations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4281.md)
+* [Extending working hours of the building](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4282.md)
 
 ## This article mentions these technologies
 
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
-* [Energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
-* [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1127.md)
-* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_248.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
+* [Energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_748.md)
+* [Advanced monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1127.md)
+* [Occupancy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_248.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_113 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_113 
 
 # __Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Transport Users in Gdansk Case Study__
 
@@ -16,9 +16,9 @@ The COVID-19 pandemic has had a big impact on how people travel. Governments hav
 
 ## Referenced by other articles
 
-* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_14.md)
-* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
-* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_148.md)
+* [Covid-19 and the politics of sustainable energy transitions](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_14.md)
+* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_248.md)
+* [Responsible Transport: A post-COVID agenda for transport policy and practice](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_148.md)
 
 ## Title of the article
 
@@ -30,42 +30,42 @@ Mobility Behaviour in View of the Impact of the COVID-19 Pandemic—Public Trans
 
 ## Benefits listed in this article
 
-* [Improved accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_552.md)
-* [Reduced overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_557.md)
-* [Enhanced feeling of safety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_553.md)
-* [Reduced congestion and pollution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_554.md)
-* [Improved cleanliness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_555.md)
-* [Enhanced social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_556.md)
+* [Improved accessibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_552.md)
+* [Reduced overcrowding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_557.md)
+* [Enhanced feeling of safety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_553.md)
+* [Reduced congestion and pollution](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_554.md)
+* [Improved cleanliness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_555.md)
+* [Enhanced social distancing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_556.md)
 
 ## List of risks in an article
 
-* [Safety concerns and anxiety among public transport users](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1909.md)
-* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1908.md)
-* [Risk of contagion in public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1907.md)
-* [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1911.md)
-* [Lack of financial support for public transport operators](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1910.md)
+* [Safety concerns and anxiety among public transport users](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1909.md)
+* [Reduced demand for public transport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1908.md)
+* [Risk of contagion in public transport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1907.md)
+* [Inequitable access to transportation options](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1911.md)
+* [Lack of financial support for public transport operators](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1910.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3332.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
-* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1381.md)
-* [Improved air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4550.md)
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3760.md)
-* [Redesigning urban spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4552.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4051.md)
-* [Capacity limitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4551.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1381.md)
+* [Improved air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4550.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
+* [Redesigning urban spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4552.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4051.md)
+* [Capacity limitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4551.md)
 
 ## This article mentions these technologies
 
-* [Air purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_244.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Financial management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1329.md)
-* [Touchless interfaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1328.md)
-* [Real-time passenger information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1326.md)
-* [Mobile ticketing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1330.md)
-* [Demand-responsive transport systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1331.md)
-* [Capacity management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1327.md)
-* [Shared mobility services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1332.md)
+* [Air purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_244.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Financial management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1329.md)
+* [Touchless interfaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1328.md)
+* [Real-time passenger information systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1326.md)
+* [Mobile ticketing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1330.md)
+* [Demand-responsive transport systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1331.md)
+* [Capacity management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1327.md)
+* [Shared mobility services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1332.md)
 

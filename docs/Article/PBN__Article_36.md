@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_36 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_36 
 
 # __Local response in health emergencies: key considerations for addressing the COVID-19 pandemic in informal urban settlements__
 
@@ -24,36 +24,36 @@ Local response in health emergencies: key considerations for addressing the COVI
 
 ## Benefits listed in this article
 
-* [Improved access to water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_161.md)
-* [Reduced transmission of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_162.md)
-* [Continued income and employment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_163.md)
-* [Improved access to healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_164.md)
-* [Reduced stigma and discrimination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_165.md)
+* [Improved access to water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_161.md)
+* [Reduced transmission of covid-19](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_162.md)
+* [Continued income and employment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_163.md)
+* [Improved access to healthcare services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_164.md)
+* [Reduced stigma and discrimination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_165.md)
 
 ## List of risks in an article
 
-* [Epidemiological vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2322.md)
-* [Health system vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2324.md)
-* [Vulnerability to control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2325.md)
-* [Systemic vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2326.md)
-* [Transmission vulnerability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2323.md)
+* [Epidemiological vulnerability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2322.md)
+* [Health system vulnerability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2324.md)
+* [Vulnerability to control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2325.md)
+* [Systemic vulnerabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2326.md)
+* [Transmission vulnerability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2323.md)
 
 ## This article points to following mitigation
 
-* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5189.md)
-* [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5186.md)
-* [Local data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5188.md)
-* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_145.md)
-* [Extending basic services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5187.md)
-* [Reduced physical contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5185.md)
+* [Partnerships and coordination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5189.md)
+* [Improved hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5186.md)
+* [Local data collection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5188.md)
+* [Local strategies for isolation and physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_145.md)
+* [Extending basic services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5187.md)
+* [Reduced physical contact](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5185.md)
 
 ## This article mentions these technologies
 
-* [Financial support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_71.md)
-* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1944.md)
-* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1942.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [Water and sanitation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1943.md)
-* [Digital payment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1945.md)
-* [Comprehensive urban planning and risk management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1946.md)
+* [Financial support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_71.md)
+* [Healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1944.md)
+* [Access to healthcare technologies and facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1942.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
+* [Water and sanitation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1943.md)
+* [Digital payment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1945.md)
+* [Comprehensive urban planning and risk management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1946.md)
 

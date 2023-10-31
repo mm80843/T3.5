@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_86 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_86 
 
 # __Overview of the mitigation strategies for COVID-19 pandemic__
 
@@ -24,35 +24,35 @@ Overview of the mitigation strategies for COVID-19 pandemic
 
 ## Benefits listed in this article
 
-* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_425.md)
-* [Improvement in mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
-* [Sustained access to necessary resources](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_427.md)
-* [Early diagnosis and treatment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_428.md)
-* [Control over spread of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_429.md)
+* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_425.md)
+* [Improvement in mental well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_426.md)
+* [Sustained access to necessary resources](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_427.md)
+* [Early diagnosis and treatment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_428.md)
+* [Control over spread of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_429.md)
 
 ## List of risks in an article
 
-* [Ineffective implementation of social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1027.md)
-* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
-* [Reliance on herd immunity without proper control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1029.md)
-* [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1030.md)
-* [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1028.md)
-* [Lack of trust and transparency in mitigation strategies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1031.md)
+* [Ineffective implementation of social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1027.md)
+* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1026.md)
+* [Reliance on herd immunity without proper control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1029.md)
+* [Insufficient mass testing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1030.md)
+* [Inadequate global travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1028.md)
+* [Lack of trust and transparency in mitigation strategies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1031.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Global containment strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3149.md)
-* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3119.md)
-* [Herd immunity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3150.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Global containment strategy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3149.md)
+* [Mass testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
+* [Herd immunity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3150.md)
 
 ## This article mentions these technologies
 
-* [Temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_25.md)
-* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_29.md)
-* [Internet-based communication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_23.md)
-* [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
-* [Travel advisories](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_26.md)
-* [Quarantine measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_27.md)
-* [Rapid testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_28.md)
+* [Temperature screening](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_25.md)
+* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_29.md)
+* [Internet-based communication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_23.md)
+* [Public education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_24.md)
+* [Travel advisories](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_26.md)
+* [Quarantine measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_27.md)
+* [Rapid testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_28.md)
 

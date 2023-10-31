@@ -1,29 +1,29 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_50 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_50 
 
 # __Implement community-based strategies__
 
 ## Category to which it belongs
 
-* [Promote collaboration, coordination, and standardized guidelines to foster partnerships, implement policies, and achieve global cooperation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_57.md)
+* [Promote collaboration, coordination, and standardized guidelines to foster partnerships, implement policies, and achieve global cooperation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_57.md)
 
 ## Closest similar item
 
-* [Implementation of community-level planning and design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_298.md)
-* [Community action](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4277.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4628.md)
-* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4230.md)
-* [Community action networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1200.md)
-* [Implement community-centered care approach](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2641.md)
-* [Establish online community platforms, organize virtual events and activities, provide resources for community support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1771.md)
-* [Supporting local communities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_132.md)
-* [Promote transparency, communication, and community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2643.md)
-* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3199.md)
+* [Implementation of community-level planning and design strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_298.md)
+* [Community action](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4277.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4628.md)
+* [Community awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4230.md)
+* [Community action networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1200.md)
+* [Implement community-centered care approach](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2641.md)
+* [Establish online community platforms, organize virtual events and activities, provide resources for community support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1771.md)
+* [Supporting local communities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_132.md)
+* [Promote transparency, communication, and community engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2643.md)
+* [Community outreach and participation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3199.md)
 
 ## Benefits linked to a risk
 
-* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_58.md)
+* [Enhanced resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_58.md)
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Psychological impact of fear and anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_35.md)
+* [Psychological impact of fear and anxiety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_35.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_0 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_0 
 
 # __Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability for COVID-19 surveillance and potential transmission risks__
 
@@ -16,12 +16,12 @@ Scientists conducted a study to see if they could find traces of the new coronav
 
 ## Referenced by other articles
 
-* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
-* [First detection of SARS-CoV-2 in untreated wastewaters in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_37.md)
-* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_70.md)
-* [Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_1.md)
-* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_96.md)
-* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_205.md)
+* [First detection of SARS-CoV-2 in untreated wastewaters in Italy](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_37.md)
+* [SARS-CoV-2 in wastewater: potential health risk, but also data source](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_70.md)
+* [Presence of SARS-Coronavirus-2 RNA in Sewage and Correlation with Reported COVID-19 Prevalence in the Early Stage of the Epidemic in The Netherlands](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_1.md)
+* [SARS-CoV-2 RNA in wastewater anticipated COVID-19 occurrence in a low prevalence area](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_96.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_21.md)
 
 ## Title of the article
 
@@ -33,32 +33,32 @@ Detection of SARS-CoV-2 in raw and treated wastewater in Germany – Suitability
 
 ## Benefits listed in this article
 
-* [Early detection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_0.md)
-* [Estimating state of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1.md)
-* [Assessing non-detected cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_2.md)
-* [Correlating trends with infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_3.md)
-* [Identification of genetic profile](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_4.md)
+* [Early detection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_0.md)
+* [Estimating state of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1.md)
+* [Assessing non-detected cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_2.md)
+* [Correlating trends with infected individuals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_3.md)
+* [Identification of genetic profile](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_4.md)
 
 ## List of risks in an article
 
-* [Ineffectiveness of conventional wastewater treatment processes in removing sars-cov-2](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2315.md)
-* [Variability and specificity of pcr assays](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2313.md)
-* [Lack of knowledge on the infectivity of wastewater-borne genetic material](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2316.md)
-* [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2314.md)
-* [Presence of sars-cov-2 rna in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2312.md)
+* [Ineffectiveness of conventional wastewater treatment processes in removing sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2315.md)
+* [Variability and specificity of pcr assays](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2313.md)
+* [Lack of knowledge on the infectivity of wastewater-borne genetic material](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2316.md)
+* [Presence of other coronaviruses in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2314.md)
+* [Presence of sars-cov-2 rna in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2312.md)
 
 ## This article points to following mitigation
 
-* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5170.md)
-* [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5173.md)
-* [Sanger sequencing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5171.md)
-* [Membrane-based wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5174.md)
-* [Physical removal of solid residues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5172.md)
+* [Wastewater-based monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5170.md)
+* [Ozonation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5173.md)
+* [Sanger sequencing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5171.md)
+* [Membrane-based wastewater treatment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5174.md)
+* [Physical removal of solid residues](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5172.md)
 
 ## This article mentions these technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Membrane filtration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1931.md)
-* [Ozonation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1930.md)
-* [Infectivity tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1932.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Membrane filtration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1931.md)
+* [Ozonation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1930.md)
+* [Infectivity tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1932.md)
 

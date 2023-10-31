@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_116 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_116 
 
 # __Emerging Technologies to Combat the COVID-19 Pandemic__
 
@@ -16,7 +16,7 @@ The COVID-19 pandemic is spreading very quickly around the world. So far, there 
 
 ## Referenced by other articles
 
-* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_24.md)
 
 ## Title of the article
 
@@ -28,47 +28,47 @@ Emerging Technologies to Combat the COVID-19 Pandemic
 
 ## Benefits listed in this article
 
-* [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_574.md)
-* [Enhanced protection for healthcare workers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_575.md)
-* [Effective pandemic response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_576.md)
-* [Efficient relief and rehabilitation efforts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_577.md)
-* [Faster vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_578.md)
-* [Improved response to public health challenges](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_579.md)
-* [Improved epidemic monitoring and control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_580.md)
+* [Improved healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_574.md)
+* [Enhanced protection for healthcare workers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_575.md)
+* [Effective pandemic response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_576.md)
+* [Efficient relief and rehabilitation efforts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_577.md)
+* [Faster vaccine development](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_578.md)
+* [Improved response to public health challenges](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_579.md)
+* [Improved epidemic monitoring and control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_580.md)
 
 ## List of risks in an article
 
-* [Healthcare system overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2110.md)
-* [Infection propagation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2235.md)
-* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2236.md)
-* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1957.md)
-* [Insufficient investment in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2237.md)
+* [Healthcare system overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2110.md)
+* [Infection propagation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2235.md)
+* [Failure to implement preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2236.md)
+* [Lack of protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1957.md)
+* [Insufficient investment in healthcare](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2237.md)
 
 ## This article points to following mitigation
 
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3876.md)
-* [Designing targeted responses](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5059.md)
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_598.md)
-* [Effective quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5058.md)
-* [Population screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5056.md)
-* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5057.md)
-* [Protection of healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5060.md)
-* [Disaster management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5061.md)
-* [Industry 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5062.md)
-* [Medicine 4.0](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5063.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3876.md)
+* [Designing targeted responses](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5059.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_598.md)
+* [Effective quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5058.md)
+* [Population screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5056.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5057.md)
+* [Protection of healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5060.md)
+* [Disaster management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5061.md)
+* [Industry 4.0](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5062.md)
+* [Medicine 4.0](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5063.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Testing kits](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_608.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
-* [Manufacturing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1849.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [Supply chain optimization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1850.md)
-* [Remote monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_207.md)
-* [Government policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1851.md)
-* [Healthcare funding](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1852.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
-* [Ai triage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1848.md)
-* [Resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_606.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Testing kits](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_608.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
+* [Manufacturing capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1849.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Supply chain optimization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1850.md)
+* [Remote monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_207.md)
+* [Government policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1851.md)
+* [Healthcare funding](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1852.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_167.md)
+* [Ai triage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1848.md)
+* [Resource allocation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_606.md)
 

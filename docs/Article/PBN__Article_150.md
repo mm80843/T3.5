@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_150 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_150 
 
 # __Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities__
 
@@ -24,52 +24,52 @@ Green infrastructure through the lens of “One Health”: A systematic review a
 
 ## Benefits listed in this article
 
-* [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_441.md)
-* [Wildlife support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_755.md)
+* [Improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_441.md)
+* [Wildlife support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_755.md)
 
 ## List of risks in an article
 
-* [Loss of urban biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1373.md)
-* [Loss of green spaces due to urban development](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1371.md)
-* [Neglected green space quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_533.md)
-* [Lack of wildlife support in green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1374.md)
-* [Neglected mental health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1372.md)
+* [Loss of urban biodiversity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1373.md)
+* [Loss of green spaces due to urban development](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1371.md)
+* [Neglected green space quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_533.md)
+* [Lack of wildlife support in green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1374.md)
+* [Neglected mental health impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1372.md)
 
 ## This article points to following mitigation
 
-* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_752.md)
-* [Habitat diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3655.md)
-* [Perceived biodiversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3667.md)
-* [Plant species diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3654.md)
-* [Native plant species diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3663.md)
-* [Consideration of noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3672.md)
-* [Green space area](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3657.md)
-* [Attention restoration theory](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3652.md)
-* [Perceived restorativeness scale](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3653.md)
-* [Enclosed vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3656.md)
-* [Water bodies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_487.md)
-* [Grass cover](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3658.md)
-* [Maintenance of natural vegetation cover](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3660.md)
-* [Biological and geophysical sounds](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3662.md)
-* [Connecting green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3673.md)
-* [Dense vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3659.md)
-* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3670.md)
-* [Avoidance of intense management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3661.md)
-* [Design to minimize forest edges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3664.md)
-* [Minimizing forest edges](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3669.md)
-* [Aesthetic management practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3671.md)
-* [Inclusion of flowers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3666.md)
-* [Flat topography](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3668.md)
-* [Dog walking guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3665.md)
+* [Integration of green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_752.md)
+* [Habitat diversity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3655.md)
+* [Perceived biodiversity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3667.md)
+* [Plant species diversity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3654.md)
+* [Native plant species diversity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3663.md)
+* [Consideration of noise levels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3672.md)
+* [Green space area](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3657.md)
+* [Attention restoration theory](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3652.md)
+* [Perceived restorativeness scale](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3653.md)
+* [Enclosed vegetation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3656.md)
+* [Water bodies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_487.md)
+* [Grass cover](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3658.md)
+* [Maintenance of natural vegetation cover](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3660.md)
+* [Biological and geophysical sounds](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3662.md)
+* [Connecting green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3673.md)
+* [Dense vegetation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3659.md)
+* [Non-clearing of understory vegetation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3670.md)
+* [Avoidance of intense management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3661.md)
+* [Design to minimize forest edges](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3664.md)
+* [Minimizing forest edges](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3669.md)
+* [Aesthetic management practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3671.md)
+* [Inclusion of flowers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3666.md)
+* [Flat topography](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3668.md)
+* [Dog walking guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3665.md)
 
 ## This article mentions these technologies
 
-* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
-* [Green space quality assessment tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_594.md)
-* [Urban planning guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_595.md)
-* [Biodiversity conservation guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_598.md)
-* [Habitat creation and management strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_599.md)
-* [Land-use policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_596.md)
-* [Mental health assessments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_597.md)
-* [Wildlife-friendly guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_600.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
+* [Green space quality assessment tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_594.md)
+* [Urban planning guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_595.md)
+* [Biodiversity conservation guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_598.md)
+* [Habitat creation and management strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_599.md)
+* [Land-use policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_596.md)
+* [Mental health assessments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_597.md)
+* [Wildlife-friendly guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_600.md)
 

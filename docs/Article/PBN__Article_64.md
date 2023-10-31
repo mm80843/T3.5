@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_64 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_64 
 
 # __The importance of vector control for the control and elimination of vector-borne diseases__
 
@@ -24,35 +24,35 @@ The importance of vector control for the control and elimination of vector-borne
 
 ## Benefits listed in this article
 
-* [Reduction in disease incidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_335.md)
-* [Reduction in mosquito-human contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_336.md)
-* [Reduction in vector habitats](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_337.md)
-* [Improved effectiveness of control measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_338.md)
-* [Strengthened vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_339.md)
+* [Reduction in disease incidence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_335.md)
+* [Reduction in mosquito-human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_336.md)
+* [Reduction in vector habitats](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_337.md)
+* [Improved effectiveness of control measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_338.md)
+* [Strengthened vector control programs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_339.md)
 
 ## List of risks in an article
 
-* [Emergence of new vector-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2331.md)
-* [Lack of funding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2328.md)
-* [Insecticide resistance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2327.md)
-* [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2330.md)
-* [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2329.md)
+* [Emergence of new vector-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2331.md)
+* [Lack of funding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2328.md)
+* [Insecticide resistance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2327.md)
+* [Inadequate community engagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2330.md)
+* [Inadequate surveillance and monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2329.md)
 
 ## This article points to following mitigation
 
-* [Larviciding](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5190.md)
-* [Environmental management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_333.md)
-* [Insecticide-treated bed nets itns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5191.md)
-* [Spatial repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5197.md)
-* [Topical repellents](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5194.md)
-* [Indoor residual spraying irs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5192.md)
-* [House screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5193.md)
-* [Genetic manipulation of mosquitoes gene drive](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5195.md)
-* [Wolbachia intervention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5196.md)
-* [Eave tubes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5198.md)
+* [Larviciding](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5190.md)
+* [Environmental management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_333.md)
+* [Insecticide-treated bed nets itns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5191.md)
+* [Spatial repellents](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5197.md)
+* [Topical repellents](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5194.md)
+* [Indoor residual spraying irs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5192.md)
+* [House screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5193.md)
+* [Genetic manipulation of mosquitoes gene drive](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5195.md)
+* [Wolbachia intervention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5196.md)
+* [Eave tubes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5198.md)
 
 ## This article mentions these technologies
 
-* [Genetic manipulation of mosquitoes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1948.md)
-* [Development of new insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1947.md)
+* [Genetic manipulation of mosquitoes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1948.md)
+* [Development of new insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1947.md)
 

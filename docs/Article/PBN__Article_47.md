@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_47 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_47 
 
 # __Digital Twin of COVID-19 Mass Vaccination Centers__
 
@@ -16,7 +16,7 @@ The world has been dealing with a pandemic called COVID-19 since 2020. To fight 
 
 ## Referenced by other articles
 
-* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_295.md)
+* [Internet of things (IoT) applications to fight against COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_295.md)
 
 ## Title of the article
 
@@ -28,47 +28,47 @@ Digital Twin of COVID-19 Mass Vaccination Centers
 
 ## Benefits listed in this article
 
-* [Optimized storage capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_211.md)
-* [Increased vaccination capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_212.md)
-* [Real-time monitoring and optimization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_213.md)
-* [Accurate pandemic forecasting](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_214.md)
-* [Improved data collection and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_215.md)
+* [Optimized storage capacity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_211.md)
+* [Increased vaccination capacity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_212.md)
+* [Real-time monitoring and optimization](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_213.md)
+* [Accurate pandemic forecasting](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_214.md)
+* [Improved data collection and analysis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_215.md)
 
 ## List of risks in an article
 
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
-* [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1885.md)
-* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1887.md)
-* [Overcrowding in vaccination clinics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1884.md)
-* [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1886.md)
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20.md)
+* [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1885.md)
+* [Cybersecurity threats](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1887.md)
+* [Overcrowding in vaccination clinics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1884.md)
+* [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1886.md)
 
 ## This article points to following mitigation
 
-* [Vaccination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3329.md)
-* [Local lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4525.md)
-* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3119.md)
-* [Cold chain logistics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4526.md)
-* [Digital twin](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4528.md)
-* [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4527.md)
+* [Vaccination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3329.md)
+* [Local lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4525.md)
+* [Mass testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
+* [Cold chain logistics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4526.md)
+* [Digital twin](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4528.md)
+* [Industry 4.0 technologies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4527.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1291.md)
-* [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1292.md)
-* [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
-* [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_488.md)
-* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1298.md)
-* [Community engagement initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1301.md)
-* [Encryption technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1068.md)
-* [Public awareness programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1300.md)
-* [Social distancing signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1295.md)
-* [Appointment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1293.md)
-* [Regular system security updates](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1303.md)
-* [Cybersecurity training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1304.md)
-* [Secure data storage systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1302.md)
-* [Vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1299.md)
-* [Queue management technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1294.md)
-* [Cold chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1296.md)
-* [Ultra-cold freezers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1297.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Improved cleaning and disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1291.md)
+* [Advanced ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1292.md)
+* [Communication campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1155.md)
+* [Crowd monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_488.md)
+* [Temperature monitoring devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1298.md)
+* [Community engagement initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1301.md)
+* [Encryption technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1068.md)
+* [Public awareness programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1300.md)
+* [Social distancing signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1295.md)
+* [Appointment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1293.md)
+* [Regular system security updates](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1303.md)
+* [Cybersecurity training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1304.md)
+* [Secure data storage systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1302.md)
+* [Vaccine tracking technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1299.md)
+* [Queue management technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1294.md)
+* [Cold chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1296.md)
+* [Ultra-cold freezers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1297.md)
 

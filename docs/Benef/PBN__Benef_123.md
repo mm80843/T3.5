@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_123 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_123 
 
 # __Evaluation of design decisions__
 
@@ -8,18 +8,18 @@ The simulation system enables designers to evaluate design decisions before impl
 
 ## Description of actual returns pertaining to this benefit
 
-* [Investing in the simulation system increases the likelihood of successful building design by identifying potential risks and allowing for iterative improvements, resulting in increased tenant satisfaction, improved reputation of the design firm, and potential cost savings from avoiding rework.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_122.md)
+* [Investing in the simulation system increases the likelihood of successful building design by identifying potential risks and allowing for iterative improvements, resulting in increased tenant satisfaction, improved reputation of the design firm, and potential cost savings from avoiding rework.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_122.md)
 
 ## Articles mentionning this Benefit
 
-* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_26.md)
+* [Designing a Multi-Agent Occupant Simulation System to Support Facility Planning and Analysis for COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_26.md)
 
 ## Stakeholders benefitting from this Benefit
 
-* [Building facility managers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_75.md)
-* [Designers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_74.md)
+* [Building facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_75.md)
+* [Designers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_74.md)
 
 ## Risks which can benefit from this action
 
-* [Multi-agent occupancy simulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_106.md)
+* [Multi-agent occupancy simulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_106.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_176 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_176 
 
 # __Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: A national cross-sectional survey__
 
@@ -24,49 +24,49 @@ Knowledge, attitudes, and practices of Indonesian residents regarding COVID-19: 
 
 ## Benefits listed in this article
 
-* [Gender equality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_290.md)
-* [Increased knowledge](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_866.md)
-* [Positive attitudes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_867.md)
-* [Improved practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_868.md)
-* [Regional equity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_869.md)
+* [Gender equality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_290.md)
+* [Increased knowledge](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_866.md)
+* [Positive attitudes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_867.md)
+* [Improved practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_868.md)
+* [Regional equity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_869.md)
 
 ## List of risks in an article
 
-* [Stigma and discrimination towards covid-19 patients](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2357.md)
-* [Lack of knowledge on covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_624.md)
-* [Misinformation on covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2354.md)
-* [Delay in diagnosis and poor infection control practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2355.md)
-* [Lack of adherence to prevention measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2356.md)
+* [Stigma and discrimination towards covid-19 patients](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2357.md)
+* [Lack of knowledge on covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_624.md)
+* [Misinformation on covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2354.md)
+* [Delay in diagnosis and poor infection control practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2355.md)
+* [Lack of adherence to prevention measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2356.md)
 
 ## This article points to following mitigation
 
-* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5239.md)
-* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5038.md)
-* [Health education programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5238.md)
-* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3306.md)
-* [Online data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5243.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3284.md)
-* [Ethical approval](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5244.md)
-* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3576.md)
-* [Self-reported questionnaires](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5245.md)
-* [Access to accurate and reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5241.md)
-* [Regular updates on covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5237.md)
-* [Strengthening ongoing prevention efforts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5242.md)
-* [Stay-at-home regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5235.md)
-* [Isolation of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5236.md)
-* [Social gathering restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5234.md)
-* [Promotion of healthy lifestyle](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5240.md)
+* [Government regulations and policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5239.md)
+* [Contact tracing and testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5038.md)
+* [Health education programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5238.md)
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3306.md)
+* [Online data collection methods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5243.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Ethical approval](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5244.md)
+* [Proper hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3576.md)
+* [Self-reported questionnaires](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5245.md)
+* [Access to accurate and reliable information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5241.md)
+* [Regular updates on covid-19](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5237.md)
+* [Strengthening ongoing prevention efforts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5242.md)
+* [Stay-at-home regulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5235.md)
+* [Isolation of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5236.md)
+* [Social gathering restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5234.md)
+* [Promotion of healthy lifestyle](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5240.md)
 
 ## This article mentions these technologies
 
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
-* [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
-* [Dissemination of accurate information through various channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1993.md)
-* [Healthcare resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1996.md)
-* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1997.md)
-* [Reliable information sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1994.md)
-* [Media literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_581.md)
-* [Access to testing facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1995.md)
-* [Empathy-building programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1998.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7.md)
+* [Public education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_24.md)
+* [Dissemination of accurate information through various channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1993.md)
+* [Healthcare resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1996.md)
+* [Enforcement of guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1997.md)
+* [Reliable information sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1994.md)
+* [Media literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_581.md)
+* [Access to testing facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1995.md)
+* [Empathy-building programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1998.md)
 

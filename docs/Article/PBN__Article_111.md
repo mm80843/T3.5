@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_111 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_111 
 
 # __Amplifying the role of knowledge translation platforms in the COVID-19 pandemic response__
 
@@ -16,8 +16,8 @@ During the COVID-19 pandemic, it has been really important for decision-makers t
 
 ## Referenced by other articles
 
-* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_101.md)
-* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_299.md)
+* [Coronavirus disease 2019: The harms of exaggerated information and non‐evidence‐based measures](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_101.md)
+* [Infodemic and the spread of fake news in the COVID-19-era](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_299.md)
 
 ## Title of the article
 
@@ -29,47 +29,47 @@ Amplifying the role of knowledge translation platforms in the COVID-19 pandemic 
 
 ## Benefits listed in this article
 
-* [Increased acceptability of evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_536.md)
-* [Access to relevant, reliable evidence syntheses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_537.md)
-* [Context-specific and actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_538.md)
-* [Providing trustworthy evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_539.md)
-* [Facilitating coordination and multidisciplinary approach](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_540.md)
-* [Assessing effectiveness and impact of measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_541.md)
-* [Delivering relevant and high-quality evidence in short periods](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_542.md)
-* [Establishing trust as a reference center](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_543.md)
-* [Addressing context-specific knowledge gaps and needs](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_544.md)
-* [Broadening search for relevant evidence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_545.md)
-* [Coordinating and integrating research, data, and expertise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_546.md)
-* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_547.md)
+* [Increased acceptability of evidence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_536.md)
+* [Access to relevant, reliable evidence syntheses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_537.md)
+* [Context-specific and actionable evidence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_538.md)
+* [Providing trustworthy evidence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_539.md)
+* [Facilitating coordination and multidisciplinary approach](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_540.md)
+* [Assessing effectiveness and impact of measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_541.md)
+* [Delivering relevant and high-quality evidence in short periods](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_542.md)
+* [Establishing trust as a reference center](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_543.md)
+* [Addressing context-specific knowledge gaps and needs](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_544.md)
+* [Broadening search for relevant evidence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_545.md)
+* [Coordinating and integrating research, data, and expertise](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_546.md)
+* [Disseminating evidence through various mediums](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_547.md)
 
 ## List of risks in an article
 
-* [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1350.md)
-* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1353.md)
-* [Information overload and misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1351.md)
-* [Limited access to actionable evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1354.md)
-* [Lack of trust in evidence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1352.md)
+* [Inconsistent use of research evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1350.md)
+* [Inadequate collaboration and coordination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1353.md)
+* [Information overload and misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1351.md)
+* [Limited access to actionable evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1354.md)
+* [Lack of trust in evidence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1352.md)
 
 ## This article points to following mitigation
 
-* [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_553.md)
-* [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_561.md)
-* [Engaging decision-makers in setting priorities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3631.md)
-* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_551.md)
-* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3634.md)
-* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3632.md)
-* [Providing platforms for cross-sectoral dialogue](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_554.md)
-* [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_555.md)
-* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_556.md)
-* [Position the kt platform as a credible source](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_557.md)
-* [Remain alert and responsive to changing needs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3633.md)
-* [Leverage complementary evidence networks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3635.md)
+* [Promoting trust and countering misinformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_553.md)
+* [Leverage multiple dissemination channels](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_561.md)
+* [Engaging decision-makers in setting priorities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3631.md)
+* [Synthesising the best available evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_551.md)
+* [Search for evidence beyond conventional types](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3634.md)
+* [Contextualising and disseminating evidence](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3632.md)
+* [Providing platforms for cross-sectoral dialogue](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_554.md)
+* [Monitoring and evaluating policy response](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_555.md)
+* [Activate rapid response services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_556.md)
+* [Position the kt platform as a credible source](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_557.md)
+* [Remain alert and responsive to changing needs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3633.md)
+* [Leverage complementary evidence networks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3635.md)
 
 ## This article mentions these technologies
 
-* [Collaboration tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_565.md)
-* [Data analysis tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_552.md)
-* [Social media monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_564.md)
-* [Communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_566.md)
-* [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_563.md)
+* [Collaboration tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_565.md)
+* [Data analysis tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_552.md)
+* [Social media monitoring tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_564.md)
+* [Communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_566.md)
+* [Knowledge translation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_563.md)
 

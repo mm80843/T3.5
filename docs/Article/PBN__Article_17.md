@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_17 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_17 
 
 # __Vector-borne disease, climate change and urban design__
 
@@ -24,37 +24,37 @@ Vector-borne disease, climate change and urban design
 
 ## Benefits listed in this article
 
-* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_79.md)
-* [Reduced epidemic risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_80.md)
-* [Reduced risk of tick-borne diseases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_81.md)
-* [Decreased vector-human contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_82.md)
-* [Decreased risk of west nile infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_83.md)
+* [Reduced disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_79.md)
+* [Reduced epidemic risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_80.md)
+* [Reduced risk of tick-borne diseases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_81.md)
+* [Decreased vector-human contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_82.md)
+* [Decreased risk of west nile infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_83.md)
 
 ## List of risks in an article
 
-* [Extreme weather events](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1831.md)
-* [Changes in disease distribution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1830.md)
-* [Urban heat island effect](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1832.md)
-* [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1829.md)
-* [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1433.md)
+* [Extreme weather events](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1831.md)
+* [Changes in disease distribution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1830.md)
+* [Urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1832.md)
+* [Increased habitat suitability for vectors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1829.md)
+* [Lack of public awareness and education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1433.md)
 
 ## This article points to following mitigation
 
-* [Public health awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4435.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4431.md)
-* [Vector control programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4434.md)
-* [Drainage system management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4432.md)
-* [Outdoor space design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4433.md)
+* [Public health awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4435.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4431.md)
+* [Vector control programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4434.md)
+* [Drainage system management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4432.md)
+* [Outdoor space design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4433.md)
 
 ## This article mentions these technologies
 
-* [Emergency management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1213.md)
-* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1030.md)
-* [Community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_964.md)
-* [Urban design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1214.md)
-* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1215.md)
-* [Remote sensing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_279.md)
-* [Early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_551.md)
-* [Geographic information systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1212.md)
-* [Integrated pest management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1211.md)
+* [Emergency management protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1213.md)
+* [Green infrastructure design](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1030.md)
+* [Community engagement platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_964.md)
+* [Urban design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1214.md)
+* [Health promotion campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1215.md)
+* [Remote sensing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_279.md)
+* [Early warning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_551.md)
+* [Geographic information systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1212.md)
+* [Integrated pest management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1211.md)
 

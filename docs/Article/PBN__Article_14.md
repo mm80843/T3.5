@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_14 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_14 
 
 # __Covid-19 and the politics of sustainable energy transitions__
 
@@ -24,40 +24,40 @@ Covid-19 and the politics of sustainable energy transitions
 
 ## Benefits listed in this article
 
-* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
-* [Economic recovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_66.md)
-* [Financial resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_67.md)
-* [Improved coordination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_68.md)
-* [Reduced carbon emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_69.md)
+* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
+* [Economic recovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_66.md)
+* [Financial resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_67.md)
+* [Improved coordination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_68.md)
+* [Reduced carbon emissions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_69.md)
 
 ## List of risks in an article
 
-* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1392.md)
-* [Fall in energy demand](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1594.md)
-* [Shift in public priorities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1596.md)
-* [Inequitable access to clean energy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1597.md)
-* [Price volatility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1595.md)
+* [Supply chain disruption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1392.md)
+* [Fall in energy demand](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1594.md)
+* [Shift in public priorities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1596.md)
+* [Inequitable access to clean energy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1597.md)
+* [Price volatility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1595.md)
 
 ## This article points to following mitigation
 
-* [Green stimulus](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_59.md)
-* [Fossil fuel divestment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4025.md)
-* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_61.md)
-* [Changes in social practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4027.md)
-* [Public support and participation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4028.md)
-* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4024.md)
-* [Re-shoring of critical energy industries](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4026.md)
+* [Green stimulus](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_59.md)
+* [Fossil fuel divestment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4025.md)
+* [Multi-scalar governance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_61.md)
+* [Changes in social practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4027.md)
+* [Public support and participation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4028.md)
+* [Sustainable energy policy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4024.md)
+* [Re-shoring of critical energy industries](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4026.md)
 
 ## This article mentions these technologies
 
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
-* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_79.md)
-* [Advanced supply chain management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_927.md)
-* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_928.md)
-* [Smart grid technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_924.md)
-* [Microgrids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_929.md)
-* [Energy trading platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_925.md)
-* [Financial instruments for price hedging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_926.md)
-* [Off-grid solar systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_930.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Energy-efficient appliances](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_79.md)
+* [Advanced supply chain management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_927.md)
+* [3d printing for component manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_928.md)
+* [Smart grid technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_924.md)
+* [Microgrids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_929.md)
+* [Energy trading platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_925.md)
+* [Financial instruments for price hedging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_926.md)
+* [Off-grid solar systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_930.md)
 

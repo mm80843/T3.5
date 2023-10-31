@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_137 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_137 
 
 # __Learning from pandemics: Applying resilience thinking to identify priorities for planning urban settlements__
 
@@ -18,8 +18,8 @@ This text is about how diseases like COVID-19 can affect cities and what we need
 
 ## Referenced by other articles
 
-* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_233.md)
-* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
+* [Persistence of coronaviruses on inanimate surfaces and their inactivation with biocidal agents](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_233.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_21.md)
 
 ## Title of the article
 
@@ -31,34 +31,34 @@ Learning from pandemics: Applying resilience thinking to identify priorities for
 
 ## Benefits listed in this article
 
-* [Biodiversity as disease reservoir](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_694.md)
-* [Reducing zoonotic disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_695.md)
-* [Lower vulnerability to disease](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_696.md)
-* [Reducing environmental contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_697.md)
-* [Redundancy in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_698.md)
-* [Social cohesion and network formation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_699.md)
+* [Biodiversity as disease reservoir](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_694.md)
+* [Reducing zoonotic disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_695.md)
+* [Lower vulnerability to disease](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_696.md)
+* [Reducing environmental contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_697.md)
+* [Redundancy in supply chains](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_698.md)
+* [Social cohesion and network formation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_699.md)
 
 ## List of risks in an article
 
-* [Poor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2129.md)
-* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_488.md)
-* [Insufficient social adaptive capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2131.md)
-* [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2128.md)
-* [Lack of redundancy in supply chains](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2130.md)
+* [Poor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2129.md)
+* [Zoonotic disease emergence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_488.md)
+* [Insufficient social adaptive capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2131.md)
+* [Inequities in infrastructure access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2128.md)
+* [Lack of redundancy in supply chains](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2130.md)
 
 ## This article points to following mitigation
 
-* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_693.md)
-* [Reduce wildlife urban interfaces wuis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4904.md)
-* [Centralize environmental quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_691.md)
-* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_690.md)
-* [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_692.md)
+* [Prioritize participatory governance structures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_693.md)
+* [Reduce wildlife urban interfaces wuis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4904.md)
+* [Centralize environmental quality improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_691.md)
+* [Universal access to critical infrastructures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_690.md)
+* [Facilitate response diversity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_692.md)
 
 ## This article mentions these technologies
 
-* [Ecological monitoring and regulation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1670.md)
-* [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_9.md)
-* [Community engagement platforms and participatory decision-making tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1673.md)
-* [Infrastructure development and provision technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1671.md)
-* [Environmental monitoring and pollution control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1672.md)
+* [Ecological monitoring and regulation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1670.md)
+* [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_9.md)
+* [Community engagement platforms and participatory decision-making tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1673.md)
+* [Infrastructure development and provision technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1671.md)
+* [Environmental monitoring and pollution control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1672.md)
 

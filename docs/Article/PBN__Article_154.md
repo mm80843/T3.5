@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_154 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_154 
 
 # __Mitigation strategies and compliance in the COVID-19 fight; how much compliance is enough?__
 
@@ -24,42 +24,42 @@ Mitigation strategies and compliance in the COVID-19 fight; how much compliance 
 
 ## Benefits listed in this article
 
-* [Reduction in transmission rate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_33.md)
-* [Early detection and containment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_525.md)
-* [Reduction in infections](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_770.md)
-* [Improved control of epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_771.md)
-* [Accurate assessment of situation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_772.md)
+* [Reduction in transmission rate](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_33.md)
+* [Early detection and containment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_525.md)
+* [Reduction in infections](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_770.md)
+* [Improved control of epidemic](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_771.md)
+* [Accurate assessment of situation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_772.md)
 
 ## List of risks in an article
 
-* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1768.md)
-* [Under-reporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_544.md)
-* [Importance of compliance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1769.md)
-* [High positivity rate](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_540.md)
-* [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1770.md)
+* [Heterogeneity of state policies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1768.md)
+* [Under-reporting of cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_544.md)
+* [Importance of compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1769.md)
+* [High positivity rate](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_540.md)
+* [Ineffectiveness of mitigation measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1770.md)
 
 ## This article points to following mitigation
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3332.md)
-* [Washing hands](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4308.md)
-* [Restricted travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4311.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3284.md)
-* [Testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3873.md)
-* [Isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3759.md)
-* [School and workplace closings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4310.md)
-* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4212.md)
-* [Restrictions on gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4309.md)
-* [Nursing home visiting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4312.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Washing hands](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4308.md)
+* [Restricted travel](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4311.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3873.md)
+* [Isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3759.md)
+* [School and workplace closings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4310.md)
+* [Wearing face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4212.md)
+* [Restrictions on gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4309.md)
+* [Nursing home visiting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4312.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_402.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
-* [Testing capacity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_905.md)
-* [Enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1148.md)
-* [Reporting systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1151.md)
-* [Public education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_24.md)
-* [Enforcement measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_231.md)
-* [Communication and coordination platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1149.md)
-* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1150.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
+* [Testing capacity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_905.md)
+* [Enforcement of mitigation measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1148.md)
+* [Reporting systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1151.md)
+* [Public education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_24.md)
+* [Enforcement measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_231.md)
+* [Communication and coordination platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1149.md)
+* [Enforcement mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1150.md)
 

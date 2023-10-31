@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_193 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_193 
 
 # __A study on office workplace modification during the COVID-19 pandemic in The Netherlands__
 
@@ -24,47 +24,47 @@ A study on office workplace modification during the COVID-19 pandemic in The Net
 
 ## Benefits listed in this article
 
-* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_177.md)
-* [Improved employee health and wellness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_942.md)
-* [Increased workplace efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_943.md)
-* [Increased flexibility in office space provision](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_944.md)
+* [Reduced risk of virus transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_177.md)
+* [Improved employee health and wellness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_942.md)
+* [Increased workplace efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_943.md)
+* [Increased flexibility in office space provision](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_944.md)
 
 ## List of risks in an article
 
-* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_20.md)
-* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1465.md)
-* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1466.md)
-* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1468.md)
-* [Risk of workplace transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1467.md)
+* [Spread of contagious diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_20.md)
+* [Workplace productivity decrease](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1465.md)
+* [Decreased collaboration and social interaction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1466.md)
+* [Risk of transmission in public spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1468.md)
+* [Risk of workplace transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1467.md)
 
 ## This article points to following mitigation
 
-* [Education and training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3272.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_84.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Occupancy limitations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3809.md)
-* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3722.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_832.md)
-* [Staggered schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3810.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3575.md)
-* [Regular hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3807.md)
-* [Rapid testing and contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3808.md)
+* [Education and training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3272.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_84.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Occupancy limitations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3809.md)
+* [Enhanced cleaning and disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3722.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Staggered schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3810.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Regular hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3807.md)
+* [Rapid testing and contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3808.md)
 
 ## This article mentions these technologies
 
-* [Enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_735.md)
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_203.md)
-* [Project management tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_631.md)
-* [Communication software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_737.md)
-* [Temperature screening technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_742.md)
-* [Video conferencing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_419.md)
-* [Remote working tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_736.md)
-* [Contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_744.md)
-* [Virtual networking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_739.md)
-* [Project management platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_738.md)
-* [Enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_740.md)
-* [Crowd monitoring technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_743.md)
-* [Touchless entry systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_745.md)
-* [Designated workspaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_741.md)
+* [Enhanced cleaning and sanitization technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_735.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_203.md)
+* [Project management tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_631.md)
+* [Communication software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_737.md)
+* [Temperature screening technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_742.md)
+* [Video conferencing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_419.md)
+* [Remote working tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_736.md)
+* [Contactless payment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_744.md)
+* [Virtual networking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_739.md)
+* [Project management platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_738.md)
+* [Enhanced cleaning and sanitization protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_740.md)
+* [Crowd monitoring technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_743.md)
+* [Touchless entry systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_745.md)
+* [Designated workspaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_741.md)
 

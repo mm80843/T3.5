@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_66 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_66 
 
 # __Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Germicidal UV is Essential†__
 
@@ -16,8 +16,8 @@ Germicidal ultraviolet (GUV) air disinfection is a very effective way to clean t
 
 ## Referenced by other articles
 
-* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_105.md)
-* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_182.md)
+* [Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_105.md)
+* [Far-UVC light (222 nm) efficiently and safely inactivates airborne human coronaviruses](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_182.md)
 
 ## Title of the article
 
@@ -29,35 +29,35 @@ Air Disinfection for Airborne Infection Control with a Focus on COVID-19: Why Ge
 
 ## Benefits listed in this article
 
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
-* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_341.md)
-* [Dilution and removal of infectious particles in room air](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_342.md)
-* [Increased adoption of germicidal uv](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_343.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Reduction in airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_341.md)
+* [Dilution and removal of infectious particles in room air](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_342.md)
+* [Increased adoption of germicidal uv](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_343.md)
 
 ## List of risks in an article
 
-* [Lack of awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_49.md)
-* [Cost](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1778.md)
-* [Safety concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1777.md)
-* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
-* [Technical expertise](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1776.md)
+* [Lack of awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_49.md)
+* [Cost](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1778.md)
+* [Safety concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1777.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1033.md)
+* [Technical expertise](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1776.md)
 
 ## This article points to following mitigation
 
-* [Room air cleaners](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4322.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3237.md)
-* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4319.md)
-* [Dilution and removal of infectious particles in room air through ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4320.md)
-* [Upper room germicidal uv fixtures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4321.md)
+* [Room air cleaners](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4322.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Germicidal uv air disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4319.md)
+* [Dilution and removal of infectious particles in room air through ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4320.md)
+* [Upper room germicidal uv fixtures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4321.md)
 
 ## This article mentions these technologies
 
-* [Education and training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1154.md)
-* [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
-* [Public health messaging](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1156.md)
-* [Training and certification programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1157.md)
-* [Funding support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1161.md)
-* [Research and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1159.md)
-* [Cost-effective uv systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1160.md)
-* [Safety regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1158.md)
+* [Education and training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1154.md)
+* [Communication campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1155.md)
+* [Public health messaging](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1156.md)
+* [Training and certification programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1157.md)
+* [Funding support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1161.md)
+* [Research and testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1159.md)
+* [Cost-effective uv systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1160.md)
+* [Safety regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1158.md)
 

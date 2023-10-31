@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_84 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_84 
 
 # __Effect of non-pharmaceutical interventions in the early phase of the COVID-19 epidemic in Saudi Arabia__
 
@@ -16,7 +16,7 @@ In Saudi Arabia, the COVID-19 virus started spreading in March 2020, and by Octo
 
 ## Referenced by other articles
 
-* [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_103.md)
+* [The effect of large-scale anti-contagion policies on the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_103.md)
 
 ## Title of the article
 
@@ -28,43 +28,43 @@ Effect of non-pharmaceutical interventions in the early phase of the COVID-19 ep
 
 ## Benefits listed in this article
 
-* [Transmission reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_419.md)
+* [Transmission reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_419.md)
 
 ## List of risks in an article
 
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1866.md)
-* [Religious pilgrimages](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1863.md)
-* [School closures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1864.md)
-* [High population of foreign nationals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1862.md)
-* [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1865.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1866.md)
+* [Religious pilgrimages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1863.md)
+* [School closures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1864.md)
+* [High population of foreign nationals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1862.md)
+* [Curfew](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1865.md)
 
 ## This article points to following mitigation
 
-* [Lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_427.md)
-* [School closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3689.md)
-* [Isolate and test with school closure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_425.md)
-* [International travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4494.md)
-* [Curfew](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_426.md)
-* [Phase i relaxation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_428.md)
-* [Phase ii relaxation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_429.md)
-* [Isolate and test](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4495.md)
-* [Curfew part one](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4500.md)
-* [Curfew part two](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4501.md)
-* [Phase iii relaxation - part 2](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4499.md)
-* [Phase iii relaxation - part 1](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4498.md)
-* [Public and private gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4496.md)
-* [Domestic travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4497.md)
+* [Lockdown](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_427.md)
+* [School closure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3689.md)
+* [Isolate and test with school closure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_425.md)
+* [International travel ban](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4494.md)
+* [Curfew](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_426.md)
+* [Phase i relaxation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_428.md)
+* [Phase ii relaxation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_429.md)
+* [Isolate and test](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4495.md)
+* [Curfew part one](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4500.md)
+* [Curfew part two](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4501.md)
+* [Phase iii relaxation - part 2](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4499.md)
+* [Phase iii relaxation - part 1](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4498.md)
+* [Public and private gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4496.md)
+* [Domestic travel ban](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4497.md)
 
 ## This article mentions these technologies
 
-* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1261.md)
-* [Remote work technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_134.md)
-* [Monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_201.md)
-* [Crowd management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1259.md)
-* [Online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_74.md)
-* [Translation services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1257.md)
-* [Testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1258.md)
-* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_892.md)
-* [Remote education technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1260.md)
-* [Multilingual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1256.md)
+* [Surveillance technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1261.md)
+* [Remote work technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_134.md)
+* [Monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_201.md)
+* [Crowd management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1259.md)
+* [Online learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_74.md)
+* [Translation services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1257.md)
+* [Testing and contact tracing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1258.md)
+* [Financial assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_892.md)
+* [Remote education technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1260.md)
+* [Multilingual communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1256.md)
 

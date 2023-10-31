@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_197 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_197 
 
 # __An investigation of transmission control measures during the first 50 days of the COVID-19 epidemic in China__
 
@@ -16,7 +16,7 @@ In December 2019, a new type of virus called coronavirus started spreading in Wu
 
 ## Referenced by other articles
 
-* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_248.md)
+* [The effect of human mobility and control measures on the COVID-19 epidemic in China](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_248.md)
 
 ## Title of the article
 
@@ -28,42 +28,42 @@ An investigation of transmission control measures during the first 50 days of th
 
 ## Benefits listed in this article
 
-* [Reduced spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_958.md)
-* [Containment of epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_959.md)
-* [Reduction in cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_960.md)
+* [Reduced spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_958.md)
+* [Containment of epidemic](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_959.md)
+* [Reduction in cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_960.md)
 
 ## List of risks in an article
 
-* [Lack of public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2158.md)
-* [Travel transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2154.md)
-* [Insufficient preparation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2157.md)
-* [Underreporting of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2156.md)
-* [Delay in control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2155.md)
+* [Lack of public awareness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2158.md)
+* [Travel transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2154.md)
+* [Insufficient preparation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2157.md)
+* [Underreporting of cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2156.md)
+* [Delay in control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2155.md)
 
 ## This article points to following mitigation
 
-* [Suspension of public transport](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4944.md)
-* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_958.md)
-* [Suspected and confirmed cases isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4943.md)
-* [Travel prohibition in and out of cities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4947.md)
-* [Control measures in cities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4949.md)
-* [Health checkpoints set up at terminals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4951.md)
-* [Information dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4948.md)
-* [Closure of schools and entertainment venues](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4945.md)
-* [Health checks on migrants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4946.md)
-* [Wuhan city travel ban](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4941.md)
-* [Level 1 national emergency response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4942.md)
-* [Implementation of level 1 response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4950.md)
+* [Suspension of public transport](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4944.md)
+* [Ban on public gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_958.md)
+* [Suspected and confirmed cases isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4943.md)
+* [Travel prohibition in and out of cities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4947.md)
+* [Control measures in cities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4949.md)
+* [Health checkpoints set up at terminals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4951.md)
+* [Information dissemination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4948.md)
+* [Closure of schools and entertainment venues](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4945.md)
+* [Health checks on migrants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4946.md)
+* [Wuhan city travel ban](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4941.md)
+* [Level 1 national emergency response](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4942.md)
+* [Implementation of level 1 response](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4950.md)
 
 ## This article mentions these technologies
 
-* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_152.md)
-* [Emergency response plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1054.md)
-* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
-* [Proactive decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1707.md)
-* [Community engagement](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_51.md)
-* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
-* [Real-time monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1706.md)
-* [Improved testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_569.md)
-* [Real-time tracking systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1705.md)
+* [Data sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_152.md)
+* [Emergency response plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1054.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_8.md)
+* [Proactive decision-making](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1707.md)
+* [Community engagement](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_51.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Real-time monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1706.md)
+* [Improved testing capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_569.md)
+* [Real-time tracking systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1705.md)
 

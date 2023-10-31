@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_200 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_200 
 
 # __Mitigation strategies to fight the COVID-19 pandemic—present, future and beyond__
 
@@ -16,7 +16,7 @@ Pandemics, like the current COVID-19 pandemic, can cause a lot of harm to the ec
 
 ## Referenced by other articles
 
-* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_112.md)
+* [Covid-19 and community mitigation strategies in a pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_112.md)
 
 ## Title of the article
 
@@ -28,53 +28,53 @@ Mitigation strategies to fight the COVID-19 pandemic—present, future and beyon
 
 ## Benefits listed in this article
 
-* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
-* [Prevention of outbreak](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_970.md)
-* [Financial support](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_792.md)
-* [Enhanced crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_971.md)
-* [Improved resource utilization](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_972.md)
-* [Additional healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_973.md)
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
+* [Prevention of outbreak](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_970.md)
+* [Financial support](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_792.md)
+* [Enhanced crisis management](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_971.md)
+* [Improved resource utilization](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_972.md)
+* [Additional healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_973.md)
 
 ## List of risks in an article
 
-* [Failure in containment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1017.md)
-* [Political mismanagement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1018.md)
-* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1016.md)
-* [Scarcity of medical equipment and medication](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1020.md)
-* [Manipulated media coverage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1019.md)
+* [Failure in containment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1017.md)
+* [Political mismanagement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1018.md)
+* [Zoonotic infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1016.md)
+* [Scarcity of medical equipment and medication](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1020.md)
+* [Manipulated media coverage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1019.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3123.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
-* [Free testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3125.md)
-* [Mass testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3119.md)
-* [Risk communication systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3122.md)
-* [Crisis management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_382.md)
-* [School and university closures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3126.md)
-* [Face recognition and thermal screening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3128.md)
-* [Cloud-based tracing and tracking](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3129.md)
-* [Vaccine formulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3120.md)
-* [Tracking and tracing transmissions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3118.md)
-* [Offshore medical rigs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_969.md)
-* [Mobile healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3130.md)
-* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3121.md)
-* [Ppe usage and disposal protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3131.md)
-* [E-healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3127.md)
-* [Dedicated walk-in clinic](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3124.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Free testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3125.md)
+* [Mass testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3119.md)
+* [Risk communication systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3122.md)
+* [Crisis management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_382.md)
+* [School and university closures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3126.md)
+* [Face recognition and thermal screening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3128.md)
+* [Cloud-based tracing and tracking](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3129.md)
+* [Vaccine formulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3120.md)
+* [Tracking and tracing transmissions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3118.md)
+* [Offshore medical rigs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_969.md)
+* [Mobile healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3130.md)
+* [Infectious disease monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3121.md)
+* [Ppe usage and disposal protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3131.md)
+* [E-healthcare](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3127.md)
+* [Dedicated walk-in clinic](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3124.md)
 
 ## This article mentions these technologies
 
-* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
-* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1.md)
-* [Containment protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_2.md)
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
-* [Crisis management protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_4.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [Media regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_6.md)
-* [Public information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_8.md)
-* [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_9.md)
-* [Production optimization tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_10.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Testing and diagnostic technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1.md)
+* [Containment protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Crisis management protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_4.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
+* [Media regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_6.md)
+* [Public information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_8.md)
+* [Supply chain management technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_9.md)
+* [Production optimization tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_10.md)
 

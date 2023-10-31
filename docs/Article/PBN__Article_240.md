@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_240 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_240 
 
 # __Methods for air cleaning and protection of building occupants from airborne pathogens__
 
@@ -16,7 +16,7 @@ People live and work in crowded places where they can be exposed to many germs. 
 
 ## Referenced by other articles
 
-* [Role of ventilation in airborne transmission of infectious agents in the built environment ? a multidisciplinary systematic review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_328.md)
+* [Role of ventilation in airborne transmission of infectious agents in the built environment ? a multidisciplinary systematic review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_328.md)
 
 ## Title of the article
 
@@ -28,42 +28,42 @@ Methods for air cleaning and protection of building occupants from airborne path
 
 ## Benefits listed in this article
 
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
-* [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_995.md)
-* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_430.md)
-* [Dilution of contaminants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1164.md)
-* [Air purification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1165.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Pathogen inactivation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_995.md)
+* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_430.md)
+* [Dilution of contaminants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1164.md)
+* [Air purification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1165.md)
 
 ## List of risks in an article
 
-* [Filtration of air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1184.md)
-* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1186.md)
-* [Protection by ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1187.md)
-* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1185.md)
-* [Airborne pathogen generation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1181.md)
-* [Survival of pathogens in air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1182.md)
-* [Dilution of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1183.md)
+* [Filtration of air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1184.md)
+* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1186.md)
+* [Protection by ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1187.md)
+* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1185.md)
+* [Airborne pathogen generation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1181.md)
+* [Survival of pathogens in air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1182.md)
+* [Dilution of room air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1183.md)
 
 ## This article points to following mitigation
 
-* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3304.md)
-* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1166.md)
-* [Filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_312.md)
-* [Dilution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_313.md)
-* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1168.md)
-* [Desiccant rotor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3351.md)
-* [Plasmacluster ions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3352.md)
-* [Essential oils](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3353.md)
-* [Nanotechnology silver nanoparticles](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3354.md)
-* [Ventilation protection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3355.md)
-* [Advanced air distribution](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3356.md)
+* [Ultraviolet germicidal irradiation uvgi](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3304.md)
+* [Personalized ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1166.md)
+* [Filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_312.md)
+* [Dilution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_313.md)
+* [Photocatalytic oxidation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1168.md)
+* [Desiccant rotor](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3351.md)
+* [Plasmacluster ions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3352.md)
+* [Essential oils](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3353.md)
+* [Nanotechnology silver nanoparticles](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3354.md)
+* [Ventilation protection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3355.md)
+* [Advanced air distribution](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3356.md)
 
 ## This article mentions these technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_271.md)
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_270.md)
-* [High-efficiency filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_272.md)
-* [Personalized ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_273.md)
-* [Displacement ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_274.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Mechanical ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_271.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_270.md)
+* [High-efficiency filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_272.md)
+* [Personalized ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_273.md)
+* [Displacement ventilation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_274.md)
 

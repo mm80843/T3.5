@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_50 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_50 
 
 # __The health benefits of the great outdoors: A systematic review and meta-analysis of greenspace exposure and health outcomes__
 
@@ -24,27 +24,27 @@ The health benefits of the great outdoors: A systematic review and meta-analysis
 
 ## Benefits listed in this article
 
-* [Improved cardiovascular health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_225.md)
-* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_226.md)
-* [Increased park utilization and improved health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_227.md)
-* [Improved physical well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_228.md)
-* [Improved mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_229.md)
+* [Improved cardiovascular health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_225.md)
+* [Reduction in health inequalities](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_226.md)
+* [Increased park utilization and improved health outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_227.md)
+* [Improved physical well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_228.md)
+* [Improved mental well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_229.md)
 
 ## List of risks in an article
 
-* [Health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2211.md)
-* [Inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2212.md)
-* [Obesity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2214.md)
-* [Mental](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2215.md)
-* [Quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2213.md)
+* [Health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2211.md)
+* [Inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2212.md)
+* [Obesity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2214.md)
+* [Mental](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2215.md)
+* [Quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2213.md)
 
 ## This article points to following mitigation
 
-* [Improve park quality](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5008.md)
-* [Increase greenspace access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5007.md)
-* [Increase street greenery](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5009.md)
-* [Enhance accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5010.md)
-* [Educate about benefits](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5011.md)
+* [Improve park quality](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5008.md)
+* [Increase greenspace access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5007.md)
+* [Increase street greenery](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5009.md)
+* [Enhance accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5010.md)
+* [Educate about benefits](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5011.md)
 
 ## This article mentions these technologies
 

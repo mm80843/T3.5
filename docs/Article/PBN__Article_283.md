@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_283 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_283 
 
 # __COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostly shared on social media__
 
@@ -24,39 +24,39 @@ COVID-19 misinformation: Accuracy of articles about coronavirus prevention mostl
 
 ## Benefits listed in this article
 
-* [Increased trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_764.md)
-* [Improved accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1334.md)
-* [Reliable information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1335.md)
+* [Increased trust](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_764.md)
+* [Improved accuracy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1334.md)
+* [Reliable information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1335.md)
 
 ## List of risks in an article
 
-* [Stigmatization and discrimination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1813.md)
-* [Misinterpretation of preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1810.md)
-* [Lack of access to accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1811.md)
-* [Inaccurate information on social media](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1809.md)
-* [False sense of security from preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1812.md)
+* [Stigmatization and discrimination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1813.md)
+* [Misinterpretation of preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1810.md)
+* [Lack of access to accurate information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1811.md)
+* [Inaccurate information on social media](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1809.md)
+* [False sense of security from preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1812.md)
 
 ## This article points to following mitigation
 
-* [Hand washing prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4394.md)
-* [Surface cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3592.md)
-* [Isolation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4396.md)
-* [Medication prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4393.md)
-* [General prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4397.md)
-* [Mask prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4395.md)
+* [Hand washing prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4394.md)
+* [Surface cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3592.md)
+* [Isolation prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4396.md)
+* [Medication prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4393.md)
+* [General prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4397.md)
+* [Mask prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4395.md)
 
 ## This article mentions these technologies
 
-* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
-* [Helplines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1188.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
-* [Educational materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_493.md)
-* [Educational campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_251.md)
-* [Government websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1187.md)
-* [Instructional videos](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1186.md)
-* [Cultural competence training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1190.md)
-* [Visual aids](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1184.md)
-* [Infographics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1185.md)
-* [Anti-stigma campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1189.md)
+* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
+* [Helplines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1188.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7.md)
+* [Educational materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_493.md)
+* [Educational campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_251.md)
+* [Government websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1187.md)
+* [Instructional videos](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1186.md)
+* [Cultural competence training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1190.md)
+* [Visual aids](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1184.md)
+* [Infographics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1185.md)
+* [Anti-stigma campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1189.md)
 

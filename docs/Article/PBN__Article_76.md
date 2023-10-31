@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_76 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_76 
 
 # __Integrating rapid risk mapping and mobile phone call record data for strategic malaria elimination planning__
 
@@ -24,40 +24,40 @@ Integrating rapid risk mapping and mobile phone call record data for strategic m
 
 ## Benefits listed in this article
 
-* [Enhanced targeting of interventions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_384.md)
-* [Improved understanding of movement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_385.md)
-* [Identification of source and sink areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_386.md)
-* [Identifying high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_387.md)
-* [Prioritization of high-risk areas](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_388.md)
+* [Enhanced targeting of interventions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_384.md)
+* [Improved understanding of movement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_385.md)
+* [Identification of source and sink areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_386.md)
+* [Identifying high-risk areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_387.md)
+* [Prioritization of high-risk areas](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_388.md)
 
 ## List of risks in an article
 
-* [Limited data on human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2140.md)
-* [Lack of accurate risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2139.md)
-* [Insufficient surveillance of asymptomatic and unreported cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2143.md)
-* [Inaccurate case-based risk maps](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2142.md)
-* [Reintroduction of parasites through human movement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2141.md)
+* [Limited data on human movement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2140.md)
+* [Lack of accurate risk maps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2139.md)
+* [Insufficient surveillance of asymptomatic and unreported cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2143.md)
+* [Inaccurate case-based risk maps](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2142.md)
+* [Reintroduction of parasites through human movement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2141.md)
 
 ## This article points to following mitigation
 
-* [Case-based mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4930.md)
-* [Human movement analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4931.md)
-* [Targeted operations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4928.md)
-* [Risk mapping](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4929.md)
-* [Modularity optimization algorithm](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4932.md)
+* [Case-based mapping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4930.md)
+* [Human movement analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4931.md)
+* [Targeted operations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4928.md)
+* [Risk mapping](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4929.md)
+* [Modularity optimization algorithm](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4932.md)
 
 ## This article mentions these technologies
 
-* [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1683.md)
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
-* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1684.md)
-* [Mobile health technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1689.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_36.md)
-* [Data quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1686.md)
-* [Community surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1688.md)
-* [Satellite imagery](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1682.md)
-* [Statistical models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1685.md)
-* [Geographic information systems gis technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1680.md)
-* [Mobile phone call data records](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1681.md)
-* [Active case detection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1687.md)
+* [Mobile phone tracking](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1683.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Improved surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1684.md)
+* [Mobile health technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1689.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_36.md)
+* [Data quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1686.md)
+* [Community surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1688.md)
+* [Satellite imagery](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1682.md)
+* [Statistical models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1685.md)
+* [Geographic information systems gis technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1680.md)
+* [Mobile phone call data records](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1681.md)
+* [Active case detection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1687.md)
 

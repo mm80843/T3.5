@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_43 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_43 
 
 # __Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Primary Pandemic Mitigation Strategy__
 
@@ -24,27 +24,27 @@ Eviction, Health Inequity, and the Spread of COVID-19: Housing Policy as a Prima
 
 ## Benefits listed in this article
 
-* [Reduced covid-19 transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_195.md)
-* [Increased housing stability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_196.md)
-* [Decreased eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_197.md)
-* [Reduced eviction rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_198.md)
+* [Reduced covid-19 transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_195.md)
+* [Increased housing stability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_196.md)
+* [Decreased eviction rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_197.md)
+* [Reduced eviction rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_198.md)
 
 ## List of risks in an article
 
-* [Health disparities and equity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1179.md)
-* [Housing conditions and health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1178.md)
-* [Transiency and overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1176.md)
-* [Access to legal representation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1180.md)
-* [Lack of legal protections and financial support](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1177.md)
-* [Eviction and housing displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1175.md)
+* [Health disparities and equity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1179.md)
+* [Housing conditions and health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1178.md)
+* [Transiency and overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1176.md)
+* [Access to legal representation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1180.md)
+* [Lack of legal protections and financial support](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1177.md)
+* [Eviction and housing displacement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1175.md)
 
 ## This article points to following mitigation
 
-* [Eviction moratoria](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_177.md)
-* [Rental assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_178.md)
-* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_179.md)
-* [Civil right to counsel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3349.md)
-* [Increased health care access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3350.md)
+* [Eviction moratoria](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_177.md)
+* [Rental assistance programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_178.md)
+* [Eviction diversion programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_179.md)
+* [Civil right to counsel](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3349.md)
+* [Increased health care access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3350.md)
 
 ## This article mentions these technologies
 

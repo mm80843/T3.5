@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_23 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_23 
 
 # __Enhancing physical activity__
 
@@ -24,36 +24,36 @@ It is well known that physical activity or exercise is essential for improving a
 
 ## Enablers of the blueprint
 
-* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_27.md)
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_0.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_27.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
 
 ## Interventions of the blueprint
 
-* [Improve physical health](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_27.md)
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_25.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_26.md)
+* [Improve physical health](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_27.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_25.md)
+* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_26.md)
 
 ## Possible mitigations of the BP
 
-* [Regular physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_73.md)
-* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3915.md)
-* [Physical activity guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3185.md)
-* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4710.md)
-* [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_154.md)
-* [Provide spaces for physical activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2867.md)
-* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_212.md)
-* [Increase availability of greenspaces for physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2914.md)
-* [Promote safe physical activity guidelines and create opportunities for physical activity in public spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2441.md)
-* [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2274.md)
+* [Regular physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_73.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3915.md)
+* [Physical activity guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3185.md)
+* [Promote physical activity and exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4710.md)
+* [Incorporating physical activity spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_154.md)
+* [Provide spaces for physical activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2867.md)
+* [Promote physical activity in greenspaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_212.md)
+* [Increase availability of greenspaces for physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2914.md)
+* [Promote safe physical activity guidelines and create opportunities for physical activity in public spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2441.md)
+* [Encourage and provide resources for individuals to engage in regular physical activity at home or in limited outdoor spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2274.md)
 
 ## Type of deployment of the blueprint
 
-* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
-* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
 
 ## Problem of the blueprint
 
@@ -69,20 +69,20 @@ An official restriction in times of epidemics or pandemics could limit the use o
 
 ## Possible risks of the BP
 
-* [Decreased physical activity during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1270.md)
-* [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1699.md)
-* [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1272.md)
-* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3287.md)
-* [Reduced physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3075.md)
-* [Reduction of physical activity during covid-19 quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_62.md)
-* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1056.md)
-* [Lack of physical activity opportunities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_130.md)
-* [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1838.md)
-* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
+* [Decreased physical activity during quarantine and social isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1270.md)
+* [Reduction of physical activity during quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1699.md)
+* [Lack of physical activity in children and adolescents during quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1272.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3287.md)
+* [Reduced physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3075.md)
+* [Reduction of physical activity during covid-19 quarantine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_62.md)
+* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1056.md)
+* [Lack of physical activity opportunities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_130.md)
+* [Limited access to physical activity environments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1838.md)
+* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_172.md)
 
 ## Scale of the of the blueprint
 
-* [Both](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_1.md)
+* [Both](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_1.md)
 
 ## Title of the blueprint
 
@@ -90,12 +90,12 @@ PBN:BP_24
 
 ## Mode of transmission covered by the blueprint
 
-* [Not relevant](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_6.md)
+* [Not relevant](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_6.md)
 
 ## Type of the blueprint
 
-* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
-* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
+* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_0.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

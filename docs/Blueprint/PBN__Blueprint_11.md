@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_11 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_11 
 
 # __Installing high-efficiency air filters__
 
@@ -20,38 +20,38 @@ This blueprint proposes the use of High Efficiency Particulate Air (HEPA) filter
 
 ## Enablers of the blueprint
 
-* [Smart HVAC](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_24.md)
-* [HEPA Filters](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_25.md)
-* [Air Sensors](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_6.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_16.md)
+* [Smart HVAC](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_24.md)
+* [HEPA Filters](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_25.md)
+* [Air Sensors](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_6.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_16.md)
 
 ## Interventions of the blueprint
 
-* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_2.md)
-* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_0.md)
-* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_3.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_2.md)
+* [Use of smart/innovative air quality controls technology](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_0.md)
+* [Monitor and control indoor air quality](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_3.md)
 
 ## Possible mitigations of the BP
 
-* [Use portable room air cleaners with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_190.md)
-* [Using high-efficiency air filters such as merv-13 or hepa filters , regularly replacing and cleaning filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2385.md)
-* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4621.md)
-* [Air filtration with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_845.md)
-* [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4344.md)
-* [Use high-efficiency air filters in ventilation systems.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1808.md)
-* [Seal walls, ceilings, and windows, and use negative air machines with hepa filters to maintain pressure differentials and prevent pathogen spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2185.md)
-* [Use of portable air filters to remove other pathogens from the air in hospital wards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2832.md)
-* [Hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5262.md)
-* [Use of portable air filters to remove sars-cov-2 particles from the air in hospital wards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2831.md)
+* [Use portable room air cleaners with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_190.md)
+* [Using high-efficiency air filters such as merv-13 or hepa filters , regularly replacing and cleaning filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2385.md)
+* [High-efficiency particulate air hepa filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4621.md)
+* [Air filtration with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_845.md)
+* [Portable room air purifiers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4344.md)
+* [Use high-efficiency air filters in ventilation systems.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1808.md)
+* [Seal walls, ceilings, and windows, and use negative air machines with hepa filters to maintain pressure differentials and prevent pathogen spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2185.md)
+* [Use of portable air filters to remove other pathogens from the air in hospital wards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2832.md)
+* [Hepa filters](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5262.md)
+* [Use of portable air filters to remove sars-cov-2 particles from the air in hospital wards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2831.md)
 
 ## Type of deployment of the blueprint
 
-* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
-* [Construction](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_2.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
+* [Construction](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_2.md)
 
 ## Problem of the blueprint
 
@@ -67,20 +67,20 @@ The limitations of this proposal include that the filter loses efficiency due to
 
 ## Possible risks of the BP
 
-* [Indoor air contamination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_125.md)
-* [Indoor air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_939.md)
-* [Indoor air pollution iap](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1993.md)
-* [Air pollution and covid-19 infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_933.md)
-* [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1762.md)
-* [Lack of air disinfection in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_274.md)
-* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3008.md)
-* [Recycling of contaminated air within the hvac system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3020.md)
-* [False sense of security from portable air filters](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2147.md)
-* [Spread of pathogens or dust through the exhaust ducts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2888.md)
+* [Indoor air contamination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_125.md)
+* [Indoor air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_939.md)
+* [Indoor air pollution iap](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1993.md)
+* [Air pollution and covid-19 infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_933.md)
+* [Use of air cleaning and disinfection devices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1762.md)
+* [Lack of air disinfection in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_274.md)
+* [Dissemination of infectious aerosols in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3008.md)
+* [Recycling of contaminated air within the hvac system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3020.md)
+* [False sense of security from portable air filters](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2147.md)
+* [Spread of pathogens or dust through the exhaust ducts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2888.md)
 
 ## Scale of the of the blueprint
 
-* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
+* [Building](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -88,11 +88,11 @@ PBN:BP_12
 
 ## Mode of transmission covered by the blueprint
 
-* [Airborne](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_0.md)
+* [Airborne](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_0.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

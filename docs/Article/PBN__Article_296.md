@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_296 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_296 
 
 # __Wearable devices for the detection of COVID-19__
 
@@ -24,45 +24,45 @@ Wearable devices for the detection of COVID-19
 
 ## Benefits listed in this article
 
-* [Early detection of asymptomatic and pre-symptomatic cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1387.md)
-* [Improved diagnostic performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1388.md)
-* [Enhanced functionality and reliability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1389.md)
-* [Improved individualized decision-making](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1390.md)
-* [Discovery of unknown correlations and more accurate predictions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1391.md)
+* [Early detection of asymptomatic and pre-symptomatic cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1387.md)
+* [Improved diagnostic performance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1388.md)
+* [Enhanced functionality and reliability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1389.md)
+* [Improved individualized decision-making](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1390.md)
+* [Discovery of unknown correlations and more accurate predictions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1391.md)
 
 ## List of risks in an article
 
-* [Large datasets and lengthy studies required for algorithm training](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1111.md)
-* [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1113.md)
-* [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1110.md)
-* [Data security, encryption, ethics, and regulation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1114.md)
-* [Dependence on limited physiological information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1112.md)
-* [Limited differentiation of covid-19 from other viral infections](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1109.md)
+* [Large datasets and lengthy studies required for algorithm training](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1111.md)
+* [Reliability and robustness of wearable devices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1113.md)
+* [Sample bias in wearable device studies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1110.md)
+* [Data security, encryption, ethics, and regulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1114.md)
+* [Dependence on limited physiological information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1112.md)
+* [Limited differentiation of covid-19 from other viral infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1109.md)
 
 ## This article points to following mitigation
 
-* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3260.md)
-* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3261.md)
-* [Multimodal and multiplexed measurements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3262.md)
-* [Reliability and robustness of next-generation wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3263.md)
-* [Face masks with integrated sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3264.md)
-* [Wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3258.md)
-* [Data mining and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3266.md)
-* [Local data processing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3265.md)
-* [Smartwatch data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3259.md)
+* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3260.md)
+* [Emerging low-cost wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3261.md)
+* [Multimodal and multiplexed measurements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3262.md)
+* [Reliability and robustness of next-generation wearable devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3263.md)
+* [Face masks with integrated sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3264.md)
+* [Wearable devices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3258.md)
+* [Data mining and machine learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3266.md)
+* [Local data processing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3265.md)
+* [Smartwatch data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3259.md)
 
 ## This article mentions these technologies
 
-* [Ethical review boards](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_183.md)
-* [Improved energy management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_181.md)
-* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_182.md)
-* [Data optimization techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_176.md)
-* [Advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_173.md)
-* [Outreach programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_174.md)
-* [Subsidized access to wearable devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_175.md)
-* [Efficient data collection and processing methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_177.md)
-* [Integration of multiple wearable sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_178.md)
-* [Multimodal device development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_179.md)
-* [Advanced materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_180.md)
-* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_184.md)
+* [Ethical review boards](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_183.md)
+* [Improved energy management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_181.md)
+* [Data encryption technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_182.md)
+* [Data optimization techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_176.md)
+* [Advanced data analysis algorithms and machine learning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_173.md)
+* [Outreach programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_174.md)
+* [Subsidized access to wearable devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_175.md)
+* [Efficient data collection and processing methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_177.md)
+* [Integration of multiple wearable sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_178.md)
+* [Multimodal device development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_179.md)
+* [Advanced materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_180.md)
+* [Regulatory bodies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_184.md)
 

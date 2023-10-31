@@ -1,9 +1,9 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_333 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BenefReturn](https://github.com/mm80843/T3.5/tree/main/docs/BenefReturn/index.md) >> Individual ID:PBN__BenefReturn_333 
 
 # __Reduced risk of infection for occupants__
 
 ## This return can be realized by these benefits
 
-* [Destruction of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_315.md)
-* [Inactivation of pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_316.md)
+* [Destruction of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_315.md)
+* [Inactivation of pathogens](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_316.md)
 

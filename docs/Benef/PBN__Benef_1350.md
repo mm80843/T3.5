@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1350 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_1350 
 
 # __Enhanced research practices__
 
@@ -8,19 +8,19 @@ By embracing transparency and reproducibility practices, such as reporting guide
 
 ## Description of actual returns pertaining to this benefit
 
-* [Private investors would benefit from investing in this mitigation measure as it would enhance the credibility and replicability of research findings, reducing the risk associated with investment decisions and increasing the likelihood of positive returns.](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_1538.md)
+* [Private investors would benefit from investing in this mitigation measure as it would enhance the credibility and replicability of research findings, reducing the risk associated with investment decisions and increasing the likelihood of positive returns.](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_1538.md)
 
 ## Articles mentionning this Benefit
 
-* [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_289.md)
+* [Validity of energy social research during and after COVID-19: challenges, considerations, and responses](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_289.md)
 
 ## Stakeholders benefitting from this Benefit
 
-* [Researchers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_2.md)
-* [Policy-makers](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_229.md)
-* [Practitioners](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_228.md)
+* [Researchers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
+* [Policy-makers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_229.md)
+* [Practitioners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_228.md)
 
 ## Risks which can benefit from this action
 
-* [Embrace transparency and reproducibility practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1388.md)
+* [Embrace transparency and reproducibility practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1388.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_42 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_42 
 
 # __COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air Quality__
 
@@ -24,40 +24,40 @@ COVID-19 Higher Mortality in Chinese Regions With Chronic Exposure to Lower Air 
 
 ## Benefits listed in this article
 
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
-* [Decreased mortality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_191.md)
-* [Reduced air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_193.md)
-* [Reduced vehicle emissions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_194.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Decreased mortality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_191.md)
+* [Reduced air pollution](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_193.md)
+* [Reduced vehicle emissions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_194.md)
 
 ## List of risks in an article
 
-* [Contagious spread](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1858.md)
-* [Air pollution](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_148.md)
-* [Population density](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_495.md)
-* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1859.md)
-* [Disinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1265.md)
+* [Contagious spread](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1858.md)
+* [Air pollution](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_148.md)
+* [Population density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_495.md)
+* [Lack of healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1859.md)
+* [Disinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1265.md)
 
 ## This article points to following mitigation
 
-* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_372.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
-* [Physical distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3284.md)
-* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3760.md)
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3575.md)
-* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3580.md)
+* [Ventilation improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_372.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Physical distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3284.md)
+* [Enhanced cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3760.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3575.md)
+* [Quarantine and isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3580.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_402.md)
-* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_348.md)
-* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1248.md)
-* [Emission control technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1249.md)
-* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
-* [Zoning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_658.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [Surveillance systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_0.md)
-* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_890.md)
-* [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_209.md)
-* [Medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1250.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Disinfection technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_348.md)
+* [Air quality monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1248.md)
+* [Emission control technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1249.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
+* [Zoning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_658.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_0.md)
+* [Fact-checking platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_890.md)
+* [Mobile healthcare units](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_209.md)
+* [Medical supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1250.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_167.md)
 

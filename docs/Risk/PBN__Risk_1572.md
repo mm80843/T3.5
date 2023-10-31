@@ -1,27 +1,27 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1572 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_1572 
 
 # __Lack of preparedness for pandemics__
 
 ## Category to which it belongs
 
-* [Fragmented global governance, disconnect from nature, limited stakeholder collaboration, rise of authoritarianism, and exclusion from support characterize the challenges at hand.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_26.md)
+* [Fragmented global governance, disconnect from nature, limited stakeholder collaboration, rise of authoritarianism, and exclusion from support characterize the challenges at hand.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_26.md)
 
 ## Closest similar item
 
-* [Inadequate global preparedness for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_726.md)
-* [Lack of planning and management for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2419.md)
-* [Inadequate pandemic preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_700.md)
-* [Unpreparedness for future pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2756.md)
-* [Emerging pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_710.md)
-* [Lack of disaster management protocols for pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_527.md)
-* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1026.md)
-* [Economic and social impact of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_701.md)
-* [Insufficient preparedness for outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_468.md)
-* [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_476.md)
+* [Inadequate global preparedness for pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_726.md)
+* [Lack of planning and management for pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2419.md)
+* [Inadequate pandemic preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_700.md)
+* [Unpreparedness for future pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2756.md)
+* [Emerging pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_710.md)
+* [Lack of disaster management protocols for pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_527.md)
+* [Lack of comprehensive pandemic preparedness and response planning](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1026.md)
+* [Economic and social impact of pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_701.md)
+* [Insufficient preparedness for outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_468.md)
+* [Respiratory pandemics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_476.md)
 
 ## Blueprints with this risk
 
-* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_12.md)
+* [Resilience in staffing and skills training](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_12.md)
 
 ## Description of the risk
 
@@ -29,25 +29,25 @@ The EU and Member States were not fully prepared for the rapid spread of the COV
 
 ## Type of the risk
 
-* [Physical](https://github.com/mm80843/T3.5/blob/main/docs/RiskHealth/PBN__RiskHealth_0.md)
+* [Physical](https://github.com/mm80843/T3.5/blob/pages/RiskHealth/PBN__RiskHealth_0.md)
 
 ## Is the risk affecting GBN scales
 
-* [No](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_0.md)
-* [Yes](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Scale_1.md)
+* [No](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_0.md)
+* [Yes](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Scale_1.md)
 
 ## Type of impact of the risk (according to ISO37100)
 
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Purpose_15.md)
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Purpose_15.md)
 
 ## Type of purpose of the risk (according to ISO37100)
 
-* [Resilience](https://github.com/mm80843/T3.5/blob/main/docs/ISO/PBN__ISO_Impact_2.md)
+* [Resilience](https://github.com/mm80843/T3.5/blob/pages/ISO/PBN__ISO_Impact_2.md)
 
 ## Mitigations of this risk
 
-* [Develop comprehensive pandemic preparedness plans and invest in healthcare infrastructure; conduct regular simulations and training exercises](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2692.md)
-* [Enhance preparedness and response plans, stockpile essential medical supplies, and improve coordination between member states and eu institutions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2113.md)
+* [Develop comprehensive pandemic preparedness plans and invest in healthcare infrastructure; conduct regular simulations and training exercises](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2692.md)
+* [Enhance preparedness and response plans, stockpile essential medical supplies, and improve coordination between member states and eu institutions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2113.md)
 
 ## Name of the risk
 
@@ -55,32 +55,32 @@ Higher number of infections and deaths, overwhelmed healthcare systems, and econ
 
 ## Stakeholders who can mitigate this risk
 
-* [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_47.md)
-* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_216.md)
-* [Member states](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_315.md)
-* [European union](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_1016.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
+* [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)
+* [Member states](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_315.md)
+* [European union](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1016.md)
 
 ## Articles mentionning the risk
 
-* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_156.md)
-* [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_227.md)
+* [Borders and Catastrophe: lessons from COVID-19 for the European Green Deal](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_156.md)
+* [Contributions of Smart City Solutions and Technologies to Resilience against the COVID-19 Pandemic: A Literature Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_227.md)
 
 ## People affected by this risk
 
-* [Healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_193.md)
-* [General population](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_9.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_627.md)
+* [Healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_193.md)
+* [General population](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_9.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_627.md)
 
 ## Technologies linked to the risk
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Improved surveillance and early warning systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_885.md)
-* [Increased production and stockpiling of medical supplies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_886.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Improved surveillance and early warning systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_885.md)
+* [Increased production and stockpiling of medical supplies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_886.md)
 
 ## Property: has_RiskType
 
-* [Social](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_2.md)
-* [Technological](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_5.md)
-* [Environmental](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_0.md)
-* [Political](https://github.com/mm80843/T3.5/blob/main/docs/RiskType/PBN__RiskType_1.md)
+* [Social](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_2.md)
+* [Technological](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_5.md)
+* [Environmental](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_0.md)
+* [Political](https://github.com/mm80843/T3.5/blob/pages/RiskType/PBN__RiskType_1.md)
 

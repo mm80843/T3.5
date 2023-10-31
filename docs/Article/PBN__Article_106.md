@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_106 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_106 
 
 # __Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artificial Intelligence to Fight COVID-19?__
 
@@ -16,7 +16,7 @@ During the COVID-19 pandemic, countries and organizations around the world are u
 
 ## Referenced by other articles
 
-* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_24.md)
+* [Response to COVID-19 in Taiwan: Big Data Analytics, New Technology, and Proactive Testing](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_24.md)
 
 ## Title of the article
 
@@ -28,34 +28,34 @@ Pandemic Analytics: How Countries are Leveraging Big Data Analytics and Artifici
 
 ## Benefits listed in this article
 
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
-* [Efficient resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_496.md)
-* [Enhanced data availability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_513.md)
-* [Enhanced accuracy of predictive models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_514.md)
-* [Confidentiality of personal health information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_515.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
+* [Efficient resource allocation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_496.md)
+* [Enhanced data availability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_513.md)
+* [Enhanced accuracy of predictive models](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_514.md)
+* [Confidentiality of personal health information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_515.md)
 
 ## List of risks in an article
 
-* [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1735.md)
-* [Data quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1737.md)
-* [Lack of historical data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1097.md)
-* [Privacy and security of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1738.md)
-* [Data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1736.md)
+* [Interoperability and access to real-time data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1735.md)
+* [Data quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1737.md)
+* [Lack of historical data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1097.md)
+* [Privacy and security of data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1738.md)
+* [Data sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1736.md)
 
 ## This article points to following mitigation
 
-* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4257.md)
-* [Ai-based diagnosis and monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4258.md)
-* [Predictive analytics for resource planning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4259.md)
-* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4260.md)
-* [Real-time data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4261.md)
+* [Contact tracing applications](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4257.md)
+* [Ai-based diagnosis and monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4258.md)
+* [Predictive analytics for resource planning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4259.md)
+* [Data sharing initiatives](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4260.md)
+* [Real-time data analytics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4261.md)
 
 ## This article mentions these technologies
 
-* [Data encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_344.md)
-* [Data sharing platforms and policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1123.md)
-* [Data integration and exchange platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1122.md)
-* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
-* [Research and data collection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1121.md)
-* [Data cleansing and validation tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1124.md)
+* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
+* [Data sharing platforms and policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1123.md)
+* [Data integration and exchange platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1122.md)
+* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_150.md)
+* [Research and data collection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1121.md)
+* [Data cleansing and validation tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1124.md)
 

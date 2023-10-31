@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_252 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_252 
 
 # __Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based epidemiology locally and globally: Feasibility, economy, opportunities and challenges__
 
@@ -24,35 +24,35 @@ Computational analysis of SARS-CoV-2/COVID-19 surveillance by wastewater-based e
 
 ## Benefits listed in this article
 
-* [Cost savings](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_833.md)
-* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1206.md)
-* [Accurate detection of virus](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1207.md)
-* [Rapid and inexpensive tracking](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1208.md)
-* [Extended reach of wbe](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1209.md)
+* [Cost savings](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_833.md)
+* [Population-wide surveillance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1206.md)
+* [Accurate detection of virus](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1207.md)
+* [Rapid and inexpensive tracking](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1208.md)
+* [Extended reach of wbe](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1209.md)
 
 ## List of risks in an article
 
-* [Decay of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1438.md)
-* [Detection of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1434.md)
-* [Temperature impact on virus detectability in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1435.md)
-* [Seasonal changes in wastewater temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1436.md)
-* [Cost and practicability of clinical testing and wbe](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1437.md)
+* [Decay of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1438.md)
+* [Detection of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1434.md)
+* [Temperature impact on virus detectability in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1435.md)
+* [Seasonal changes in wastewater temperature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1436.md)
+* [Cost and practicability of clinical testing and wbe](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1437.md)
 
 ## This article points to following mitigation
 
-* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_988.md)
-* [Combined use of wbe and clinical testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3764.md)
-* [Online dashboard for wbe data communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3767.md)
-* [Increased sampling of wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3766.md)
-* [Temperature adjustment in wbe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3765.md)
+* [Wastewater-based epidemiology wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_988.md)
+* [Combined use of wbe and clinical testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3764.md)
+* [Online dashboard for wbe data communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3767.md)
+* [Increased sampling of wastewater treatment plants](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3766.md)
+* [Temperature adjustment in wbe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3765.md)
 
 ## This article mentions these technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Quality control in wastewater sampling](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_709.md)
-* [Surveillance planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_706.md)
-* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_705.md)
-* [Improved detection methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_707.md)
-* [Temperature adjustments in data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_704.md)
-* [Adjusting decay kinetics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_708.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Quality control in wastewater sampling](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_709.md)
+* [Surveillance planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_706.md)
+* [Environmental monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_705.md)
+* [Improved detection methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_707.md)
+* [Temperature adjustments in data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_704.md)
+* [Adjusting decay kinetics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_708.md)
 

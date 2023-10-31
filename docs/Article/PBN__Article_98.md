@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_98 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_98 
 
 # __Pandemics and Automation: Will the Lost Jobs Come Back?__
 
@@ -24,41 +24,41 @@ Pandemics and Automation: Will the Lost Jobs Come Back?
 
 ## Benefits listed in this article
 
-* [Protecting lives and livelihoods](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_477.md)
-* [Development of flexible skill sets](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_478.md)
-* [Reduction in inequality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_479.md)
-* [Mitigating job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_480.md)
-* [Balancing income distribution](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_481.md)
+* [Protecting lives and livelihoods](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_477.md)
+* [Development of flexible skill sets](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_478.md)
+* [Reduction in inequality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_479.md)
+* [Mitigating job displacement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_480.md)
+* [Balancing income distribution](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_481.md)
 
 ## List of risks in an article
 
-* [Health risks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1990.md)
-* [Job displacement](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1987.md)
-* [Increased inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1988.md)
-* [Social unrest](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1991.md)
-* [Jobless recovery](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1989.md)
+* [Health risks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1990.md)
+* [Job displacement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1987.md)
+* [Increased inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1988.md)
+* [Social unrest](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1991.md)
+* [Jobless recovery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1989.md)
 
 ## This article points to following mitigation
 
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3247.md)
-* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4641.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_832.md)
-* [Increased cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4642.md)
-* [Automation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4640.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Enhanced hvac systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4641.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Increased cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4642.md)
+* [Automation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4640.md)
 
 ## This article mentions these technologies
 
-* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_136.md)
-* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_3.md)
-* [Digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_638.md)
-* [Job creation programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1473.md)
-* [Progressive tax policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1470.md)
-* [Inclusive economic policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1475.md)
-* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_356.md)
-* [Automation technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1469.md)
-* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1474.md)
-* [Social safety nets](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_527.md)
-* [Investments in education and training](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1471.md)
-* [Countercyclical fiscal and monetary policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1472.md)
-* [Dialogue and reconciliation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1476.md)
+* [Personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_136.md)
+* [Healthcare infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3.md)
+* [Digital platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_638.md)
+* [Job creation programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1473.md)
+* [Progressive tax policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1470.md)
+* [Inclusive economic policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1475.md)
+* [Artificial intelligence](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_356.md)
+* [Automation technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1469.md)
+* [Social distancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1474.md)
+* [Social safety nets](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_527.md)
+* [Investments in education and training](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1471.md)
+* [Countercyclical fiscal and monetary policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1472.md)
+* [Dialogue and reconciliation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1476.md)
 

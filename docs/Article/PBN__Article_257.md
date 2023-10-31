@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_257 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_257 
 
 # __What our response to the COVID-19 pandemic tells us of our capacity to respond to climate change__
 
@@ -24,29 +24,29 @@ What our response to the COVID-19 pandemic tells us of our capacity to respond t
 
 ## Benefits listed in this article
 
-* [Increased public awareness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_909.md)
-* [Protection of personal health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1223.md)
-* [Public health improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1224.md)
-* [Long-term stability and resilience](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1225.md)
+* [Increased public awareness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_909.md)
+* [Protection of personal health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1223.md)
+* [Public health improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1224.md)
+* [Long-term stability and resilience](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1225.md)
 
 ## List of risks in an article
 
-* [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1394.md)
-* [Misunderstanding of the permanence of climate change](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1395.md)
-* [Lack of immediate threat perception](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1393.md)
+* [Lack of emphasis on public health impacts](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1394.md)
+* [Misunderstanding of the permanence of climate change](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1395.md)
+* [Lack of immediate threat perception](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1393.md)
 
 ## This article points to following mitigation
 
-* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3707.md)
-* [Enforce lockdown measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3706.md)
-* [Tailored policies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3703.md)
-* [International cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3704.md)
-* [Emphasize public health impacts](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3702.md)
-* [Global response](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3708.md)
-* [Proximity and immediateness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3705.md)
-* [Immediate consequences messaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3700.md)
-* [Permanent transformations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1234.md)
-* [Connect extreme weather and climate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3701.md)
+* [Protect the vulnerable](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3707.md)
+* [Enforce lockdown measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3706.md)
+* [Tailored policies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3703.md)
+* [International cooperation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3704.md)
+* [Emphasize public health impacts](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3702.md)
+* [Global response](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3708.md)
+* [Proximity and immediateness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3705.md)
+* [Immediate consequences messaging](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3700.md)
+* [Permanent transformations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1234.md)
+* [Connect extreme weather and climate](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3701.md)
 
 ## This article mentions these technologies
 

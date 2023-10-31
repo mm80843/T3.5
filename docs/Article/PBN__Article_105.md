@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_105 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_105 
 
 # __Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis Transmission__
 
@@ -24,25 +24,25 @@ Upper-Room Ultraviolet Light and Negative Air Ionization to Prevent Tuberculosis
 
 ## Benefits listed in this article
 
-* [Reduction in tb infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_511.md)
-* [Reduction in tb disease](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_512.md)
+* [Reduction in tb infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_511.md)
+* [Reduction in tb disease](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_512.md)
 
 ## List of risks in an article
 
-* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1356.md)
-* [Patient overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1358.md)
-* [Absence of efficacy studies in clinical settings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1359.md)
-* [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1357.md)
-* [Inadequate tb infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1355.md)
+* [Inefficient negative air ionization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1356.md)
+* [Patient overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1358.md)
+* [Absence of efficacy studies in clinical settings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1359.md)
+* [Inadequate mixing of room air](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1357.md)
+* [Inadequate tb infection control measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1355.md)
 
 ## This article points to following mitigation
 
-* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3636.md)
-* [Negative air ionization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_523.md)
+* [Upper-room uv lights](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3636.md)
+* [Negative air ionization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_523.md)
 
 ## This article mentions these technologies
 
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
-* [Mixing fans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_568.md)
-* [Improved negative ionizers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_567.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
+* [Mixing fans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_568.md)
+* [Improved negative ionizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_567.md)
 

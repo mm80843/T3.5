@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_560 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Benef](https://github.com/mm80843/T3.5/tree/main/docs/Benef/index.md) >> Individual ID:PBN__Benef_560 
 
 # __Improved financial management__
 
@@ -8,17 +8,17 @@ Clear tracking of expenses related to COVID-19 impact and ability to make inform
 
 ## Description of actual returns pertaining to this benefit
 
-* [Better financial stability and resource allocation, reduced financial strain on healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/BenefReturn/PBN__BenefReturn_614.md)
+* [Better financial stability and resource allocation, reduced financial strain on healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/BenefReturn/PBN__BenefReturn_614.md)
 
 ## Articles mentionning this Benefit
 
-* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_114.md)
+* [Exploring the Non-Medical impacts of Covid-19 using Natural Language Processing](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_114.md)
 
 ## Stakeholders benefitting from this Benefit
 
-* [Hospital management](https://github.com/mm80843/T3.5/blob/main/docs/Stakeholder/PBN__Stakeholder_239.md)
+* [Hospital management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_239.md)
 
 ## Risks which can benefit from this action
 
-* [Preparation of clear financial documentation and tracking metrics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_575.md)
+* [Preparation of clear financial documentation and tracking metrics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_575.md)
 

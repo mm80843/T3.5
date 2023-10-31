@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_159 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_159 
 
 # __Retail Signage During the COVID-19 Pandemic__
 
@@ -24,41 +24,41 @@ Retail Signage During the COVID-19 Pandemic
 
 ## Benefits listed in this article
 
-* [Enhanced communication](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_708.md)
-* [Consistent messaging](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_794.md)
-* [Improved readability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_795.md)
-* [Brand image reinforcement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_796.md)
-* [Attract attention](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_797.md)
+* [Enhanced communication](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_708.md)
+* [Consistent messaging](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_794.md)
+* [Improved readability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_795.md)
+* [Brand image reinforcement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_796.md)
+* [Attract attention](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_797.md)
 
 ## List of risks in an article
 
-* [Confusion and uncertainty](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1709.md)
-* [Inadequate compliance monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1713.md)
-* [Insufficient contact information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1711.md)
-* [Ineffective signage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1710.md)
-* [Mixed messaging](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1712.md)
+* [Confusion and uncertainty](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1709.md)
+* [Inadequate compliance monitoring](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1713.md)
+* [Insufficient contact information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1711.md)
+* [Ineffective signage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1710.md)
+* [Mixed messaging](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1712.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Professional signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4208.md)
-* [Retail store signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4206.md)
-* [Informal signs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4207.md)
-* [Duct tape](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4209.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Professional signs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4208.md)
+* [Retail store signs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4206.md)
+* [Informal signs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4207.md)
+* [Duct tape](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4209.md)
 
 ## This article mentions these technologies
 
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
-* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
-* [Digital signage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_364.md)
-* [Apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1088.md)
-* [Printing and lamination technologies can be used to create professional signs that are durable and visually appealing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1090.md)
-* [Websites](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1087.md)
-* [Occupancy tracking systems can be used to monitor and enforce compliance with social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1096.md)
-* [Social distancing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1095.md)
-* [Social media platforms can be used to provide accurate and timely information to customers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1089.md)
-* [Clear guidelines and communication protocols can be established to ensure consistent messaging across all retail locations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1094.md)
-* [Email](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1091.md)
-* [Phone](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1092.md)
-* [Websites can be used to provide alternative contact options for customers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1093.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
+* [Digital signage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_364.md)
+* [Apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1088.md)
+* [Printing and lamination technologies can be used to create professional signs that are durable and visually appealing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1090.md)
+* [Websites](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1087.md)
+* [Occupancy tracking systems can be used to monitor and enforce compliance with social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1096.md)
+* [Social distancing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1095.md)
+* [Social media platforms can be used to provide accurate and timely information to customers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1089.md)
+* [Clear guidelines and communication protocols can be established to ensure consistent messaging across all retail locations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1094.md)
+* [Email](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1091.md)
+* [Phone](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1092.md)
+* [Websites can be used to provide alternative contact options for customers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1093.md)
 

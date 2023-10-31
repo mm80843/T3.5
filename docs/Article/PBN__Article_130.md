@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_130 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_130 
 
 # __Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A one-year nationwide study__
 
@@ -16,7 +16,7 @@ Green spaces, like parks and forests, have many health benefits for people. They
 
 ## Referenced by other articles
 
-* [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_65.md)
+* [The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_65.md)
 
 ## Title of the article
 
@@ -28,37 +28,37 @@ Green spaces, especially forest, linked to lower SARS-CoV-2 infection rates: A o
 
 ## Benefits listed in this article
 
-* [Reduction in infection rates](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_650.md)
-* [Physical activity promotion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_651.md)
-* [Mental health improvement](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_652.md)
-* [Social cohesion and cooperation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_653.md)
-* [Ambient pollutant reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_654.md)
+* [Reduction in infection rates](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_650.md)
+* [Physical activity promotion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_651.md)
+* [Mental health improvement](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_652.md)
+* [Social cohesion and cooperation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_653.md)
+* [Ambient pollutant reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_654.md)
 
 ## List of risks in an article
 
-* [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1534.md)
-* [Lack of green space diversity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1532.md)
-* [Inadequate maintenance of green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1533.md)
-* [No access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1531.md)
-* [Lack of green spaces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1535.md)
+* [Limited green spaces in highly urbanized areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1534.md)
+* [Lack of green space diversity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1532.md)
+* [Inadequate maintenance of green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1533.md)
+* [No access to green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1531.md)
+* [Lack of green spaces in healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1535.md)
 
 ## This article points to following mitigation
 
-* [Physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3915.md)
-* [Air quality improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3311.md)
-* [Outdoor activities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3914.md)
-* [Social cohesion](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3917.md)
-* [Mental restoration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3916.md)
+* [Physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3915.md)
+* [Air quality improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3311.md)
+* [Outdoor activities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3914.md)
+* [Social cohesion](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3917.md)
+* [Mental restoration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3916.md)
 
 ## This article mentions these technologies
 
-* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_661.md)
-* [Urban planning and design strategies that prioritize diversity in green space creation and maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_841.md)
-* [Urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_840.md)
-* [Pocket gardens](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_846.md)
-* [Maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_842.md)
-* [Outdoor terraces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_847.md)
-* [Urban planning and design strategies for green space integration in densely populated areas](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_844.md)
-* [Green roof installations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_845.md)
-* [Trained personnel for green space maintenance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_843.md)
+* [Urban greening initiatives](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_661.md)
+* [Urban planning and design strategies that prioritize diversity in green space creation and maintenance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_841.md)
+* [Urban planning and design strategies to create and enhance green spaces in residential areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_840.md)
+* [Pocket gardens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_846.md)
+* [Maintenance and landscaping equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_842.md)
+* [Outdoor terraces in healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_847.md)
+* [Urban planning and design strategies for green space integration in densely populated areas](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_844.md)
+* [Green roof installations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_845.md)
+* [Trained personnel for green space maintenance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_843.md)
 

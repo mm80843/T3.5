@@ -1,23 +1,23 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3652 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3652 
 
 # __Attention restoration theory__
 
 ## Category to which it belongs
 
-* [Implementing a wide range of measures and strategies to combat the challenges of the pandemic.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_77.md)
+* [Implementing a wide range of measures and strategies to combat the challenges of the pandemic.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_77.md)
 
 ## Closest similar item
 
-* [Mental restoration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3916.md)
-* [Perceived clarity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5081.md)
-* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3639.md)
-* [Enhance perceived clarity of measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1213.md)
-* [Positive media representation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_532.md)
-* [Enhance accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5010.md)
-* [Clear communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_562.md)
-* [Context-responsive behaviours](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4066.md)
-* [Reduced human interference](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_186.md)
-* [Perceived restorativeness scale](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3653.md)
+* [Mental restoration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3916.md)
+* [Perceived clarity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5081.md)
+* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3639.md)
+* [Enhance perceived clarity of measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1213.md)
+* [Positive media representation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_532.md)
+* [Enhance accessibility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5010.md)
+* [Clear communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_562.md)
+* [Context-responsive behaviours](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4066.md)
+* [Reduced human interference](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_186.md)
+* [Perceived restorativeness scale](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3653.md)
 
 ## Property: has_MitigationPrinciple
 
@@ -28,7 +28,7 @@ Providing access to natural environments that promote attention restoration, lea
 
 ## Property: has_MitigationSource
 
-* [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_150.md)
+* [Green infrastructure through the lens of “One Health”: A systematic review and integrative framework uncovering synergies and trade-offs between mental health and wildlife support in cities](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_150.md)
 
 ## This Mitigation is enabled by the following technologies
 

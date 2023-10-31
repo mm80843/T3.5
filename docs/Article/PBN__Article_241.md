@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_241 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_241 
 
 # __How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?__
 
@@ -24,27 +24,27 @@ How Can Blockchain Help People in the Event of Pandemics Such as the COVID-19?
 
 ## Benefits listed in this article
 
-* [Improved efficiency of data transfer](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1166.md)
-* [Transparency of donation process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1167.md)
-* [Prevention of false information spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1168.md)
-* [Reduced risk of infection through contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1169.md)
+* [Improved efficiency of data transfer](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1166.md)
+* [Transparency of donation process](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1167.md)
+* [Prevention of false information spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1168.md)
+* [Reduced risk of infection through contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1169.md)
 
 ## List of risks in an article
 
-* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1233.md)
-* [Spread of false information](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_848.md)
-* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_849.md)
-* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1234.md)
+* [Delayed infectious disease reporting](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1233.md)
+* [Spread of false information](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_848.md)
+* [Risk of infection through face-to-face contact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_849.md)
+* [Corruption in donation process](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1234.md)
 
 ## This article points to following mitigation
 
-* [Prevention of false information spreading](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3431.md)
-* [Quick and accurate disease reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3429.md)
-* [Reliable insurance claims](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3433.md)
-* [Transparent donation process](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3430.md)
-* [Risk reduction in face-to-face contact](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3432.md)
+* [Prevention of false information spreading](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3431.md)
+* [Quick and accurate disease reporting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3429.md)
+* [Reliable insurance claims](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3433.md)
+* [Transparent donation process](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3430.md)
+* [Risk reduction in face-to-face contact](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3432.md)
 
 ## This article mentions these technologies
 
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
 

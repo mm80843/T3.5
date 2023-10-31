@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_79 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_79 
 
 # __Recently employed engineering techniques to reduce the spread of COVID-19 (corona virus disease 2019): a review study__
 
@@ -24,36 +24,36 @@ Recently employed engineering techniques to reduce the spread of COVID-19 (coron
 
 ## Benefits listed in this article
 
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_398.md)
-* [Fever detection and screening](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_399.md)
-* [Remote patient care and disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_400.md)
-* [Contactless identification](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_401.md)
+* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_398.md)
+* [Fever detection and screening](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_399.md)
+* [Remote patient care and disinfection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_400.md)
+* [Contactless identification](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_401.md)
 
 ## List of risks in an article
 
-* [Inaccurate identification and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2011.md)
-* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1021.md)
-* [Insufficient disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2008.md)
-* [Limited healthcare capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2010.md)
-* [Inadequate temperature screening](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2009.md)
+* [Inaccurate identification and tracking of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2011.md)
+* [Contagious disease transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1021.md)
+* [Insufficient disinfection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2008.md)
+* [Limited healthcare capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2010.md)
+* [Inadequate temperature screening](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2009.md)
 
 ## This article points to following mitigation
 
-* [Robotics](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_404.md)
-* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_402.md)
-* [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_403.md)
-* [Automated face recognition](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4692.md)
+* [Robotics](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_404.md)
+* [Uv-light radiation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_402.md)
+* [Infrared thermal imaging](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_403.md)
+* [Automated face recognition](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4692.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Telehealth](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1447.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
-* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1502.md)
-* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1504.md)
-* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1501.md)
-* [Robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1503.md)
-* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1500.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Telehealth](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1447.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
+* [Remote patient monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1502.md)
+* [Automated face recognition systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1504.md)
+* [Drones with thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1501.md)
+* [Robotic assistance in healthcare](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1503.md)
+* [Infrared thermal imaging cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1500.md)
 

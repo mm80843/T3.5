@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_78 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_78 
 
 # __Health Information Exchange with Blockchain amid Covid-19-like Pandemics__
 
@@ -24,40 +24,40 @@ Health Information Exchange with Blockchain amid Covid-19-like Pandemics
 
 ## Benefits listed in this article
 
-* [Enhanced operational efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_393.md)
-* [Improved public trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_394.md)
-* [Increased interoperability and data accessibility](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_395.md)
-* [Enhanced data privacy and autonomy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_396.md)
-* [Seamless and secure data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_397.md)
+* [Enhanced operational efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_393.md)
+* [Improved public trust](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_394.md)
+* [Increased interoperability and data accessibility](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_395.md)
+* [Enhanced data privacy and autonomy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_396.md)
+* [Seamless and secure data exchange](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_397.md)
 
 ## List of risks in an article
 
-* [Lack of healthcare data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1266.md)
-* [Disinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1265.md)
-* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1267.md)
-* [Blockchain system vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1268.md)
-* [Iot device vulnerabilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1269.md)
+* [Lack of healthcare data exchange](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1266.md)
+* [Disinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1265.md)
+* [Privacy and data protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1267.md)
+* [Blockchain system vulnerabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1268.md)
+* [Iot device vulnerabilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1269.md)
 
 ## This article points to following mitigation
 
-* [Transparent governance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3491.md)
-* [Internet of things iot](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1097.md)
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1103.md)
-* [Misinformation prevention](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3492.md)
-* [Decentralized finance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3490.md)
-* [Digital transformation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3489.md)
-* [Health information exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3493.md)
+* [Transparent governance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3491.md)
+* [Internet of things iot](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1097.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1103.md)
+* [Misinformation prevention](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3492.md)
+* [Decentralized finance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3490.md)
+* [Digital transformation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3489.md)
+* [Health information exchange](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3493.md)
 
 ## This article mentions these technologies
 
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
-* [Encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_315.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_397.md)
-* [Authentication protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_398.md)
-* [Cybersecurity measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_400.md)
-* [Iot device manufacturers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_399.md)
-* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_150.md)
-* [Health information exchange hie systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_395.md)
-* [Electronic health records ehr interoperability solutions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_396.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
+* [Encryption algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_315.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Blockchain security protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_397.md)
+* [Authentication protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_398.md)
+* [Cybersecurity measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_400.md)
+* [Iot device manufacturers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_399.md)
+* [Access control mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_150.md)
+* [Health information exchange hie systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_395.md)
+* [Electronic health records ehr interoperability solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_396.md)
 

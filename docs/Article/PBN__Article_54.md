@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_54 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_54 
 
 # __Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence__
 
@@ -24,42 +24,42 @@ Mechanistic insights into the effect of humidity on airborne influenza virus sur
 
 ## Benefits listed in this article
 
-* [Improved virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_268.md)
-* [Reduced transmission indoors](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_269.md)
-* [Improved influenza incidence predictions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_270.md)
-* [Better interpretation of epidemiological studies](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_271.md)
-* [Enhanced understanding of virus transmission mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_272.md)
-* [Improved understanding of indoor-outdoor relationship](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_273.md)
-* [Better understanding of virus viability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_274.md)
+* [Improved virus survival](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_268.md)
+* [Reduced transmission indoors](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_269.md)
+* [Improved influenza incidence predictions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_270.md)
+* [Better interpretation of epidemiological studies](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_271.md)
+* [Enhanced understanding of virus transmission mechanisms](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_272.md)
+* [Improved understanding of indoor-outdoor relationship](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_273.md)
+* [Better understanding of virus viability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_274.md)
 
 ## List of risks in an article
 
-* [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1691.md)
-* [Influenza virus survival](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1690.md)
-* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1694.md)
-* [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1693.md)
-* [Relationship between ah, rh, and temperature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1692.md)
+* [Indoor influenza transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1691.md)
+* [Influenza virus survival](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1690.md)
+* [Impact of indoor and outdoor conditions on influenza seasonality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1694.md)
+* [Effect of humidity on virus viability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1693.md)
+* [Relationship between ah, rh, and temperature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1692.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3629.md)
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
-* [Improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_476.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
-* [Temperature control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3439.md)
-* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_415.md)
-* [Air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4180.md)
-* [Humidity control](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3440.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Vaccination campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3629.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_476.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Temperature control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3439.md)
+* [Personal protective equipment ppe](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_415.md)
+* [Air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4180.md)
+* [Humidity control](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3440.md)
 
 ## This article mentions these technologies
 
-* [Temperature](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1061.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Rh](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1060.md)
-* [Such as hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1057.md)
-* [Advanced monitoring and data analysis techniques can be used to study the relationship between indoor and outdoor conditions and influenza seasonality](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1062.md)
-* [Advanced data analysis and modeling techniques can be used to study the relationship between ah](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1059.md)
-* [Environmental control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1056.md)
-* [Can be used to regulate ah and rh levels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1058.md)
+* [Temperature](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1061.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Rh](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1060.md)
+* [Such as hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1057.md)
+* [Advanced monitoring and data analysis techniques can be used to study the relationship between indoor and outdoor conditions and influenza seasonality](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1062.md)
+* [Advanced data analysis and modeling techniques can be used to study the relationship between ah](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1059.md)
+* [Environmental control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1056.md)
+* [Can be used to regulate ah and rh levels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1058.md)
 

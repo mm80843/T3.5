@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_229 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_229 
 
 # __The COVID-19 pandemic: Considerations for the waste and wastewater services sector__
 
@@ -16,8 +16,8 @@ A new virus called COVID-19 is causing a global pandemic and people all around t
 
 ## Referenced by other articles
 
-* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_21.md)
-* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
+* [Aerosol and Surface Stability of SARS-CoV-2 as Compared with SARS-CoV-1](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_21.md)
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_205.md)
 
 ## Title of the article
 
@@ -29,23 +29,23 @@ The COVID-19 pandemic: Considerations for the waste and wastewater services sect
 
 ## Benefits listed in this article
 
-* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_430.md)
-* [Early detection of re-emergence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1100.md)
+* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_430.md)
+* [Early detection of re-emergence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1100.md)
 
 ## List of risks in an article
 
-* [Transmission of covid-19 through wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1789.md)
-* [Spread of covid-19 through waste materials](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_809.md)
+* [Transmission of covid-19 through wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1789.md)
+* [Spread of covid-19 through waste materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_809.md)
 
 ## This article points to following mitigation
 
-* [Strict infection control and hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4358.md)
-* [Separate collection services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4359.md)
-* [72-hour delay in waste collection time](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4360.md)
-* [Evaluating control measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4363.md)
-* [Strengthening wastewater treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4364.md)
-* [Research on aerosol transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4365.md)
-* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4366.md)
+* [Strict infection control and hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4358.md)
+* [Separate collection services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4359.md)
+* [72-hour delay in waste collection time](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4360.md)
+* [Evaluating control measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4363.md)
+* [Strengthening wastewater treatment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4364.md)
+* [Research on aerosol transmission](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4365.md)
+* [Data sharing mechanisms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4366.md)
 
 ## This article mentions these technologies
 

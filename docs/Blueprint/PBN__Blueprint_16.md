@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_16 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_16 
 
 # __Acces to green space__
 
@@ -20,36 +20,36 @@ This blueprint aims to integrate access to green space into GBN in order to impr
 
 ## Enablers of the blueprint
 
-* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_27.md)
-* [5G](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_0.md)
+* [Design & Construction software (BIM)](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_27.md)
+* [5G](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_0.md)
 
 ## Interventions of the blueprint
 
-* [Greenery](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_24.md)
-* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_25.md)
-* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_26.md)
+* [Greenery](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_24.md)
+* [Outdoor spaces](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_25.md)
+* [Social activities / facilitatie social interactions](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_26.md)
 
 ## Possible mitigations of the BP
 
-* [Access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_747.md)
-* [Provide green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2864.md)
-* [Urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4157.md)
-* [Increase access to greenspaces and promote outdoor activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2911.md)
-* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2577.md)
-* [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_458.md)
-* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2405.md)
-* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4161.md)
-* [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2763.md)
-* [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3078.md)
+* [Access to green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_747.md)
+* [Provide green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2864.md)
+* [Urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4157.md)
+* [Increase access to greenspaces and promote outdoor activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2911.md)
+* [Increase the availability and accessibility of green spaces close to residential areas](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2577.md)
+* [Enhance accessibility to green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_458.md)
+* [Increase the availability and accessibility of urban green spaces, create new green spaces, and improve existing ones](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2405.md)
+* [Accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4161.md)
+* [Encourage utilization of private green spaces, create guidelines for safe access, facilitate use of nearby green spaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2763.md)
+* [Incorporating green spaces in building design, promoting access to public parks and gardens](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3078.md)
 
 ## Type of deployment of the blueprint
 
-* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-* [Operational](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_0.md)
-* [Design](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_1.md)
+* [Operational](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_0.md)
+* [Design](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_1.md)
 
 ## Problem of the blueprint
 
@@ -65,20 +65,20 @@ The unequal distribution of green space within different socio-economic groups i
 
 ## Possible risks of the BP
 
-* [Increased recreational use in urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_892.md)
-* [Negative perceptions of urban green space due to covid-19 restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_348.md)
-* [Lack of access to urban green space during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_346.md)
-* [Changing behaviors and perceptions towards urban green space during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_349.md)
-* [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_325.md)
-* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_693.md)
-* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_172.md)
-* [Open green spaces in urban periphery providing resilience to public health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_893.md)
-* [Lack of green spaces in healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1535.md)
-* [New designs, uses, and practices for green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_911.md)
+* [Increased recreational use in urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_892.md)
+* [Negative perceptions of urban green space due to covid-19 restrictions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_348.md)
+* [Lack of access to urban green space during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_346.md)
+* [Changing behaviors and perceptions towards urban green space during covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_349.md)
+* [Lack of green open spaces in urban areas](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_325.md)
+* [Lack of accessibility to urban green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_693.md)
+* [Exposure to greenspace and physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_172.md)
+* [Open green spaces in urban periphery providing resilience to public health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_893.md)
+* [Lack of green spaces in healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1535.md)
+* [New designs, uses, and practices for green spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_911.md)
 
 ## Scale of the of the blueprint
 
-* [Gbn](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_2.md)
+* [Gbn](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_2.md)
 
 ## Title of the blueprint
 
@@ -86,11 +86,11 @@ PBN:BP_17
 
 ## Mode of transmission covered by the blueprint
 
-* [Not relevant](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_6.md)
+* [Not relevant](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_6.md)
 
 ## Type of the blueprint
 
-* [Behavioural](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_0.md)
+* [Behavioural](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_0.md)
 
 ## Value proposition of the blueprint
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_94 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_94 
 
 # __The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings__
 
@@ -16,12 +16,12 @@ The COVID-19 pandemic has caused a lot of changes in our lives. It's a new virus
 
 ## Referenced by other articles
 
-* [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_54.md)
-* [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_229.md)
-* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_264.md)
-* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_273.md)
-* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_38.md)
-* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_67.md)
+* [Mechanistic insights into the effect of humidity on airborne influenza virus survival, transmission and incidence](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_54.md)
+* [The COVID-19 pandemic: Considerations for the waste and wastewater services sector](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_229.md)
+* [Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_264.md)
+* [Occupant health in buildings: Impact of the COVID-19 pandemic on the opinions of building professionals and implications on research](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_273.md)
+* [Ten questions concerning occupant health in buildings during normal operations and extreme events including the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_38.md)
+* [How is COVID-19 Experience Transforming Sustainability Requirements of Residential Buildings? A Review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_67.md)
 
 ## Title of the article
 
@@ -33,42 +33,42 @@ The Impact of the COVID-19 Pandemic on the Space Pattern Changes in Buildings
 
 ## Benefits listed in this article
 
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
-* [Reduced transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_232.md)
-* [Enhanced airflow](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_463.md)
-* [Reduced contact](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_464.md)
-* [Improved spacing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_465.md)
-* [Adaptability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_466.md)
-* [Improved hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_467.md)
-* [Enhanced privacy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_468.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Reduced transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_232.md)
+* [Enhanced airflow](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_463.md)
+* [Reduced contact](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_464.md)
+* [Improved spacing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_465.md)
+* [Adaptability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_466.md)
+* [Improved hygiene](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_467.md)
+* [Enhanced privacy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_468.md)
 
 ## List of risks in an article
 
-* [Crowded spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1487.md)
-* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1391.md)
-* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_713.md)
-* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_965.md)
-* [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1920.md)
+* [Crowded spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1487.md)
+* [Inadequate sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1391.md)
+* [Inadequate ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_713.md)
+* [Poor indoor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_965.md)
+* [Transmission in closed spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1920.md)
 
 ## This article points to following mitigation
 
-* [Privacy considerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4566.md)
-* [Designs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4568.md)
-* [Flexible building](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4567.md)
-* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4564.md)
+* [Privacy considerations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4566.md)
+* [Designs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4568.md)
+* [Flexible building](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4567.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4564.md)
 
 ## This article mentions these technologies
 
-* [Air purifiers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_138.md)
-* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_29.md)
-* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1351.md)
-* [Occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_431.md)
-* [Air quality sensors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_430.md)
-* [Automated windows](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1352.md)
-* [Air circulation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_259.md)
-* [Lighting control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_652.md)
-* [Acoustic treatments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1350.md)
-* [Water purification systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_623.md)
-* [High-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1348.md)
-* [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1349.md)
+* [Air purifiers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_138.md)
+* [Contact tracing technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_29.md)
+* [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1351.md)
+* [Occupancy monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_431.md)
+* [Air quality sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_430.md)
+* [Automated windows](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1352.md)
+* [Air circulation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_259.md)
+* [Lighting control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_652.md)
+* [Acoustic treatments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1350.md)
+* [Water purification systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_623.md)
+* [High-efficiency air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1348.md)
+* [Uv germicidal radiation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1349.md)
 

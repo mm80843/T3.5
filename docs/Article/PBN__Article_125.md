@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_125 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_125 
 
 # __The efficacy of social distance and ventilation effectiveness in preventing COVID-19 transmission__
 
@@ -24,42 +24,42 @@ The efficacy of social distance and ventilation effectiveness in preventing COVI
 
 ## Benefits listed in this article
 
-* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_29.md)
-* [Improved asset value](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_631.md)
-* [Reduced financial losses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_632.md)
+* [Reduced infection risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_29.md)
+* [Improved asset value](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_631.md)
+* [Reduced financial losses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_632.md)
 
 ## List of risks in an article
 
-* [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2121.md)
-* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1158.md)
-* [Airborne transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_252.md)
-* [Droplet transmission](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_253.md)
-* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
+* [Insufficient social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2121.md)
+* [Lack of awareness and education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1158.md)
+* [Airborne transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
+* [Droplet transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_253.md)
+* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1327.md)
 
 ## This article points to following mitigation
 
-* [Increasing social distance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4894.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4897.md)
-* [Ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_627.md)
-* [Increased ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4895.md)
-* [Distance index pd](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4891.md)
-* [Increasing ventilation rate](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4899.md)
-* [Personalized ventilation system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4896.md)
-* [Combination of social distancing and high ventilation effectiveness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4898.md)
-* [Ventilation effectiveness ez](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4892.md)
-* [Modified wells-riley model](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4893.md)
+* [Increasing social distance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4894.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Reducing occupancy density](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4897.md)
+* [Ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_627.md)
+* [Increased ventilation rate](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4895.md)
+* [Distance index pd](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4891.md)
+* [Increasing ventilation rate](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4899.md)
+* [Personalized ventilation system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4896.md)
+* [Combination of social distancing and high ventilation effectiveness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4898.md)
+* [Ventilation effectiveness ez](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4892.md)
+* [Modified wells-riley model](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4893.md)
 
 ## This article mentions these technologies
 
-* [Social media platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_47.md)
-* [Physical barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_341.md)
-* [Ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_139.md)
-* [Air filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1109.md)
-* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_249.md)
-* [Masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1051.md)
-* [Information campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_435.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
-* [Air circulation devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1660.md)
-* [Governments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_612.md)
+* [Social media platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_47.md)
+* [Physical barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_341.md)
+* [Ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_139.md)
+* [Air filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1109.md)
+* [Improved ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_249.md)
+* [Masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1051.md)
+* [Information campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_435.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_613.md)
+* [Air circulation devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1660.md)
+* [Governments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_612.md)
 

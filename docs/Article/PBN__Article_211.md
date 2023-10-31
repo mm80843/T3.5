@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_211 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_211 
 
 # __Biophilic design in architecture and its contributions to health, well-being, and sustainability: A critical review__
 
@@ -24,14 +24,14 @@ Biophilic design in architecture and its contributions to health, well-being, an
 
 ## Benefits listed in this article
 
-* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_436.md)
+* [Improved health and well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_436.md)
 
 ## This article points to following mitigation
 
-* [Nature interaction](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5276.md)
-* [Designing with nature](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5279.md)
-* [Nature incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5274.md)
-* [Pattern incorporation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5275.md)
-* [Outdoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5277.md)
-* [Indoor biophilia](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5278.md)
+* [Nature interaction](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5276.md)
+* [Designing with nature](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5279.md)
+* [Nature incorporation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5274.md)
+* [Pattern incorporation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5275.md)
+* [Outdoor biophilia](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5277.md)
+* [Indoor biophilia](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5278.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_5 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Blueprint](https://github.com/mm80843/T3.5/tree/main/docs/Blueprint/index.md) >> Individual ID:PBN__Blueprint_5 
 
 # __Antimicrobial surfaces__
 
@@ -22,35 +22,35 @@ With the COVID-19 pandemic, the focus shifted to reducing the transmission of pa
 
 ## Enablers of the blueprint
 
-* [Data Analytics](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_2.md)
-* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_26.md)
-* [BigData](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Enabler_9.md)
+* [Data Analytics](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_2.md)
+* [Antimicrobial coating](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_26.md)
+* [BigData](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Enabler_9.md)
 
 ## Interventions of the blueprint
 
-* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_14.md)
-* [Selection of materials](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Intervention_15.md)
+* [Wall and floors treatment](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_14.md)
+* [Selection of materials](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Intervention_15.md)
 
 ## Possible mitigations of the BP
 
-* [Regular disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1926.md)
-* [Regular and thorough disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2074.md)
-* [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2032.md)
-* [Regular cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2296.md)
-* [Regular cleaning and disinfection, minimizing contact with high-touch surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2787.md)
-* [Regular and thorough cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2654.md)
-* [Regular cleaning and disinfection of frequently touched surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2956.md)
-* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4774.md)
-* [Regular disinfection of surfaces, hand hygiene, and use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2080.md)
-* [Regular cleaning and disinfection of high-touch surfaces, use of anti-sars-cov-2 coatings on solids](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1626.md)
+* [Regular disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1926.md)
+* [Regular and thorough disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2074.md)
+* [Development of continuously active antimicrobial coatings and self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2032.md)
+* [Regular cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2296.md)
+* [Regular cleaning and disinfection, minimizing contact with high-touch surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2787.md)
+* [Regular and thorough cleaning and disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2654.md)
+* [Regular cleaning and disinfection of frequently touched surfaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2956.md)
+* [Cleaning and disinfecting frequently touched surfaces and items](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4774.md)
+* [Regular disinfection of surfaces, hand hygiene, and use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2080.md)
+* [Regular cleaning and disinfection of high-touch surfaces, use of anti-sars-cov-2 coatings on solids](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1626.md)
 
 ## Type of deployment of the blueprint
 
-* [Permanent](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Permanent_1.md)
+* [Permanent](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Permanent_1.md)
 
 ## GBN Phase of the blueprint
 
-* [Construction](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Phase_2.md)
+* [Construction](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Phase_2.md)
 
 ## Problem of the blueprint
 
@@ -68,20 +68,20 @@ The effectiveness of these coatings is still questioned by both scientist and us
 
 ## Possible risks of the BP
 
-* [Inadequate antibacterial and antiviral properties of stainless steel surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1482.md)
-* [Contamination of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1413.md)
-* [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2675.md)
-* [High infection rate via contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_657.md)
-* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1539.md)
-* [Lack of long-lasting antimicrobial coatings](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_656.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_254.md)
-* [Transmission of pathogens through touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2673.md)
-* [Pathogen transmission via surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_968.md)
-* [Spread of infections through surface touch](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2446.md)
+* [Inadequate antibacterial and antiviral properties of stainless steel surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1482.md)
+* [Contamination of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1413.md)
+* [Contamination of surfaces with pathogens](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2675.md)
+* [High infection rate via contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_657.md)
+* [Transmission of coronaviruses from contaminated surfaces to hands](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1539.md)
+* [Lack of long-lasting antimicrobial coatings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_656.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_254.md)
+* [Transmission of pathogens through touch](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2673.md)
+* [Pathogen transmission via surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_968.md)
+* [Spread of infections through surface touch](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2446.md)
 
 ## Scale of the of the blueprint
 
-* [Building](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Scale_0.md)
+* [Building](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Scale_0.md)
 
 ## Title of the blueprint
 
@@ -89,11 +89,11 @@ PBN:BP_6
 
 ## Mode of transmission covered by the blueprint
 
-* [Fomite](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Transmission_3.md)
+* [Fomite](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Transmission_3.md)
 
 ## Type of the blueprint
 
-* [Technical](https://github.com/mm80843/T3.5/blob/main/docs/BP/PBN__BP_Type_1.md)
+* [Technical](https://github.com/mm80843/T3.5/blob/pages/BP/PBN__BP_Type_1.md)
 
 ## Value proposition of the blueprint
 

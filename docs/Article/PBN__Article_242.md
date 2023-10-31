@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_242 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_242 
 
 # __Mental Health and the Role of Physical Activity During the COVID-19 Pandemic__
 
@@ -16,8 +16,8 @@ During the COVID-19 pandemic, many people have had to stay at home and limit the
 
 ## Referenced by other articles
 
-* [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_181.md)
-* [The impact of physical activity on psychological health during Covid-19 pandemic in Italy](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_18.md)
+* [Staying Physically Active During the Quarantine and Self-Isolation Period for Controlling and Mitigating the COVID-19 Pandemic: A Systematic Overview of the Literature](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_181.md)
+* [The impact of physical activity on psychological health during Covid-19 pandemic in Italy](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_18.md)
 
 ## Title of the article
 
@@ -29,44 +29,44 @@ Mental Health and the Role of Physical Activity During the COVID-19 Pandemic
 
 ## Benefits listed in this article
 
-* [Improvement in mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1170.md)
-* [Increased motivation and adherence to exercise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1171.md)
-* [Enhancement of social and emotional health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1172.md)
-* [Improvement in mood disorders](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1173.md)
-* [Improved immunity and immune protection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1174.md)
+* [Improvement in mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1170.md)
+* [Increased motivation and adherence to exercise](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1171.md)
+* [Enhancement of social and emotional health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1172.md)
+* [Improvement in mood disorders](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1173.md)
+* [Improved immunity and immune protection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1174.md)
 
 ## List of risks in an article
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_332.md)
-* [Lack of facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1058.md)
-* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1056.md)
-* [Poor health conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1057.md)
-* [Decline in well-being](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1055.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_332.md)
+* [Lack of facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1058.md)
+* [Decreased physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1056.md)
+* [Poor health conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1057.md)
+* [Decline in well-being](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1055.md)
 
 ## This article points to following mitigation
 
-* [Types of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3181.md)
-* [Frequency of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3182.md)
-* [Physical activity guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3185.md)
-* [Intensity of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3183.md)
-* [Home-based exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1173.md)
-* [Exercise programs for specific groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3186.md)
-* [Support from family and friends](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3176.md)
-* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3178.md)
-* [Physical activity promotion strategies](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3180.md)
-* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1176.md)
-* [Physical exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3175.md)
-* [Remote supervision](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3177.md)
-* [Online supervised exercise](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3179.md)
-* [Home exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3184.md)
-* [Comparative research on exercise behaviors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3187.md)
+* [Types of physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3181.md)
+* [Frequency of physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3182.md)
+* [Physical activity guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3185.md)
+* [Intensity of physical activity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3183.md)
+* [Home-based exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1173.md)
+* [Exercise programs for specific groups](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3186.md)
+* [Support from family and friends](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3176.md)
+* [Outdoor activity spaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3178.md)
+* [Physical activity promotion strategies](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3180.md)
+* [Exergames](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1176.md)
+* [Physical exercise monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3175.md)
+* [Remote supervision](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3177.md)
+* [Online supervised exercise](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3179.md)
+* [Home exercise programs](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3184.md)
+* [Comparative research on exercise behaviors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3187.md)
 
 ## This article mentions these technologies
 
-* [Online platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_67.md)
-* [Virtual fitness classes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_68.md)
-* [Home-based exercise programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_63.md)
-* [Exergames](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_64.md)
-* [Smartphone applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_65.md)
-* [Wearable sensors for exercise monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_66.md)
+* [Online platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_67.md)
+* [Virtual fitness classes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_68.md)
+* [Home-based exercise programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_63.md)
+* [Exergames](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_64.md)
+* [Smartphone applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_65.md)
+* [Wearable sensors for exercise monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_66.md)
 

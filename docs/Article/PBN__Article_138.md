@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_138 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_138 
 
 # __El Rol De Las Redes Sociales En La Pandemia Del Covid-19__
 
@@ -24,32 +24,32 @@ El Rol De Las Redes Sociales En La Pandemia Del Covid-19
 
 ## Benefits listed in this article
 
-* [Accurate information](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_492.md)
+* [Accurate information](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_492.md)
 
 ## List of risks in an article
 
-* [Cybersecurity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2257.md)
-* [Panic buying](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2256.md)
-* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
-* [Spread of rumors](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2255.md)
-* [Infodemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2258.md)
+* [Cybersecurity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2257.md)
+* [Panic buying](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2256.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1033.md)
+* [Spread of rumors](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2255.md)
+* [Infodemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2258.md)
 
 ## This article points to following mitigation
 
-* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5089.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3389.md)
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4406.md)
-* [Monitoring social media content](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5088.md)
-* [Promoting online shopping and delivery services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5090.md)
+* [Facilitating remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5089.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4406.md)
+* [Monitoring social media content](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5088.md)
+* [Promoting online shopping and delivery services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5090.md)
 
 ## This article mentions these technologies
 
-* [Encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_97.md)
-* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
-* [Communication campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1155.md)
-* [Supply chain management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_765.md)
-* [Reliable sources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1860.md)
-* [Monitoring tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1861.md)
-* [Artificial intelligence for content filtering](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1859.md)
-* [Multi-factor authentication](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1862.md)
+* [Encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_97.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7.md)
+* [Communication campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1155.md)
+* [Supply chain management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_765.md)
+* [Reliable sources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1860.md)
+* [Monitoring tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1861.md)
+* [Artificial intelligence for content filtering](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1859.md)
+* [Multi-factor authentication](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1862.md)
 

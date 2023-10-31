@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) >> Individual ID:PBN__BP_Intervention_36 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [BP_Intervention](https://github.com/mm80843/T3.5/tree/main/docs/BP_Intervention/index.md) >> Individual ID:PBN__BP_Intervention_36 
 
 # __Prevent fake news__
 
@@ -12,10 +12,10 @@ Prevent fake news
 
 ## Category to which it belongs
 
-* [Combat misinformation and disinformation.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_185.md)
+* [Combat misinformation and disinformation.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_185.md)
 
 ## This intervention is used in the following blueprints
 
-* [Public places as information points](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_8.md)
-* [Infection tracking](https://github.com/mm80843/T3.5/blob/main/docs/Blueprint/PBN__Blueprint_20.md)
+* [Public places as information points](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_8.md)
+* [Infection tracking](https://github.com/mm80843/T3.5/blob/pages/Blueprint/PBN__Blueprint_20.md)
 

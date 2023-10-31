@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_127 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_127 
 
 # __Applications of digital technology in COVID-19 pandemic planning and response__
 
@@ -24,50 +24,50 @@ Applications of digital technology in COVID-19 pandemic planning and response
 
 ## Benefits listed in this article
 
-* [Early detection and response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_218.md)
-* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_636.md)
-* [Rapid identification of infected individuals](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_637.md)
-* [Identification of infected individuals and their contacts](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_638.md)
-* [Targeted quarantine and movement control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_639.md)
-* [Remote healthcare delivery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_640.md)
+* [Early detection and response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_218.md)
+* [Real-time monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_636.md)
+* [Rapid identification of infected individuals](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_637.md)
+* [Identification of infected individuals and their contacts](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_638.md)
+* [Targeted quarantine and movement control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_639.md)
+* [Remote healthcare delivery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_640.md)
 
 ## List of risks in an article
 
-* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2318.md)
-* [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2321.md)
-* [Privacy invasion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2317.md)
-* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2320.md)
-* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2319.md)
+* [Socioeconomic inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2318.md)
+* [Limited effectiveness of digital systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2321.md)
+* [Privacy invasion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2317.md)
+* [Noise in big data sets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2320.md)
+* [Misdiagnosis and equipment malfunction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2319.md)
 
 ## This article points to following mitigation
 
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5184.md)
-* [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5179.md)
-* [Digital thermometers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5180.md)
-* [Migration maps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5175.md)
-* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_638.md)
-* [Widespread testing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_441.md)
-* [Broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5183.md)
-* [Health monitoring platform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5177.md)
-* [Data dashboards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5178.md)
-* [Infrared thermal cameras](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3421.md)
-* [Bluetooth contact tracing app](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5181.md)
-* [Ai-assisted ct service](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5182.md)
-* [Machine learning models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5176.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5184.md)
+* [Mobile temperature measurement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5179.md)
+* [Digital thermometers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5180.md)
+* [Migration maps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5175.md)
+* [Virtual care platforms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_638.md)
+* [Widespread testing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_441.md)
+* [Broadband access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5183.md)
+* [Health monitoring platform](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5177.md)
+* [Data dashboards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5178.md)
+* [Infrared thermal cameras](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3421.md)
+* [Bluetooth contact tracing app](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5181.md)
+* [Ai-assisted ct service](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5182.md)
+* [Machine learning models](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5176.md)
 
 ## This article mentions these technologies
 
-* [Widespread testing programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1941.md)
-* [Training programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_82.md)
-* [Quality control measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_83.md)
-* [Anonymous data collection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1934.md)
-* [Combination of vital sign screening and testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1940.md)
-* [Data validation techniques](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_822.md)
-* [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1939.md)
-* [Broadband access](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1936.md)
-* [Technical support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1594.md)
-* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1933.md)
-* [Opt-in systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1935.md)
-* [Loaner devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1937.md)
-* [Free wi-fi hotspots](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1938.md)
+* [Widespread testing programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1941.md)
+* [Training programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_82.md)
+* [Quality control measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_83.md)
+* [Anonymous data collection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1934.md)
+* [Combination of vital sign screening and testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1940.md)
+* [Data validation techniques](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_822.md)
+* [Noise filtering algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1939.md)
+* [Broadband access](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1936.md)
+* [Technical support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1594.md)
+* [Privacy-enhancing technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1933.md)
+* [Opt-in systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1935.md)
+* [Loaner devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1937.md)
+* [Free wi-fi hotspots](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1938.md)
 

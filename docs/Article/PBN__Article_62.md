@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_62 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_62 
 
 # __An Intelligent IEQ Monitoring and Feedback System: Development and Applications__
 
@@ -16,7 +16,7 @@ IBEM (Intelligent Built Environment Monitor) is a system that helps monitor the 
 
 ## Referenced by other articles
 
-* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_160.md)
+* [Continuous IEQ monitoring system: Context and development](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_160.md)
 
 ## Title of the article
 
@@ -28,42 +28,42 @@ An Intelligent IEQ Monitoring and Feedback System: Development and Applications
 
 ## Benefits listed in this article
 
-* [Improved thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_320.md)
-* [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_321.md)
-* [Enhanced data resolution and accuracy](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_322.md)
-* [Objective and subjective data collection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_323.md)
-* [Diverse sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_324.md)
+* [Improved thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_320.md)
+* [Enhanced indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_321.md)
+* [Enhanced data resolution and accuracy](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_322.md)
+* [Objective and subjective data collection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_323.md)
+* [Diverse sensor integration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_324.md)
 
 ## List of risks in an article
 
-* [Information asymmetry between occupants and indoor environmental data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1398.md)
-* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1396.md)
-* [Indoor air pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_259.md)
-* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1288.md)
-* [Inadequate thermal environment control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1399.md)
-* [Lack of spatiotemporal scale and resolution in data collection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1397.md)
+* [Information asymmetry between occupants and indoor environmental data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1398.md)
+* [Limited sensor capability](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1396.md)
+* [Indoor air pollutants](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_259.md)
+* [Inadequate indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1288.md)
+* [Inadequate thermal environment control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1399.md)
+* [Lack of spatiotemporal scale and resolution in data collection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1397.md)
 
 ## This article points to following mitigation
 
-* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3718.md)
-* [Sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3715.md)
-* [Integrated sensor](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3709.md)
-* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3710.md)
-* [Cloud service and database](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3711.md)
-* [Web platform for data visualization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3712.md)
-* [Mobile interface for feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3713.md)
-* [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3714.md)
-* [Data synchronization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3716.md)
-* [Interactive feedback](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3717.md)
+* [Spatiotemporal ieq monitoring](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3718.md)
+* [Sensor integration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3715.md)
+* [Integrated sensor](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3709.md)
+* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3710.md)
+* [Cloud service and database](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3711.md)
+* [Web platform for data visualization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3712.md)
+* [Mobile interface for feedback](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3713.md)
+* [Continuous monitoring system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3714.md)
+* [Data synchronization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3716.md)
+* [Interactive feedback](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3717.md)
 
 ## This article mentions these technologies
 
-* [Iot](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_277.md)
-* [Improved ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_640.md)
-* [Sensor integration](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_642.md)
-* [Sensor integration and development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_641.md)
-* [Upgrading ventilation systems and implementing air purification methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_646.md)
-* [Upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_645.md)
-* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_643.md)
-* [Cloud service technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_644.md)
+* [Iot](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_277.md)
+* [Improved ventilation and air filtration systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_640.md)
+* [Sensor integration](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_642.md)
+* [Sensor integration and development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_641.md)
+* [Upgrading ventilation systems and implementing air purification methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_646.md)
+* [Upgrading hvac systems and improving thermal insulation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_645.md)
+* [Wireless data transmission](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_643.md)
+* [Cloud service technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_644.md)
 

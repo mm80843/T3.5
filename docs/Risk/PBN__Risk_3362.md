@@ -1,25 +1,25 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3362 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Risk](https://github.com/mm80843/T3.5/tree/main/docs/Risk/index.md) >> Individual ID:PBN__Risk_3362 
 
 # __Resource allocation__
 
 ## Category to which it belongs
 
-* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_22.md)
+* [Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_22.md)
 
 ## Closest similar item
 
-* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_884.md)
-* [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2894.md)
-* [Efficient distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3311.md)
-* [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2547.md)
-* [Misallocation of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2753.md)
-* [Limited resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_3248.md)
-* [Inequitable distribution of resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2859.md)
-* [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1023.md)
-* [Capacity overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2630.md)
-* [Inefficient space utilization](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2229.md)
+* [Improved resource allocation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_884.md)
+* [Ineffective resource allocation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2894.md)
+* [Efficient distribution of resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3311.md)
+* [Inefficient use of resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2547.md)
+* [Misallocation of resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2753.md)
+* [Limited resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_3248.md)
+* [Inequitable distribution of resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2859.md)
+* [Inequalities in access to resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1023.md)
+* [Capacity overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2630.md)
+* [Inefficient space utilization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2229.md)
 
 ## Mitigations of this risk
 
-* [Screening techniques for patient severity](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5160.md)
+* [Screening techniques for patient severity](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5160.md)
 

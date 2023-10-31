@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_235 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_235 
 
 # __The Effect of Opening Windows on Air Change Rates in Two Homes__
 
@@ -24,28 +24,28 @@ The Effect of Opening Windows on Air Change Rates in Two Homes
 
 ## Benefits listed in this article
 
-* [Improved thermal comfort](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_320.md)
-* [Increased air change rate](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1124.md)
-* [Increased dilution of pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1125.md)
-* [Improved distribution of pollutants](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1126.md)
-* [Increased ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1127.md)
+* [Improved thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_320.md)
+* [Increased air change rate](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1124.md)
+* [Increased dilution of pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1125.md)
+* [Improved distribution of pollutants](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1126.md)
+* [Increased ventilation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1127.md)
 
 ## List of risks in an article
 
-* [Home structure differences](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1471.md)
-* [Hvac characteristics](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1472.md)
-* [Occupant behavior](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1469.md)
-* [Meteorological conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1470.md)
+* [Home structure differences](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1471.md)
+* [Hvac characteristics](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1472.md)
+* [Occupant behavior](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1469.md)
+* [Meteorological conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1470.md)
 
 ## This article points to following mitigation
 
-* [Proper insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3816.md)
-* [Multiple window opening](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3812.md)
+* [Proper insulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3816.md)
+* [Multiple window opening](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3812.md)
 
 ## This article mentions these technologies
 
-* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_746.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_748.md)
-* [Meteorological monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_747.md)
+* [Education and awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_746.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Energy-efficient hvac systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_748.md)
+* [Meteorological monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_747.md)
 

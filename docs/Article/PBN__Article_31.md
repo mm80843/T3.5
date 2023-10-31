@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_31 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_31 
 
 # __What drives unverified information sharing and cyberchondria during the COVID-19 pandemic?__
 
@@ -24,33 +24,33 @@ What drives unverified information sharing and cyberchondria during the COVID-19
 
 ## Benefits listed in this article
 
-* [Reduction of misinformation sharing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_144.md)
+* [Reduction of misinformation sharing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_144.md)
 
 ## List of risks in an article
 
-* [Information overload](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1599.md)
-* [Cyberchondria](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1598.md)
-* [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1602.md)
-* [Misinformation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1033.md)
-* [Online information trust](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1600.md)
-* [Perceived severity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1601.md)
+* [Information overload](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1599.md)
+* [Cyberchondria](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1598.md)
+* [Perceived susceptibility](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1602.md)
+* [Misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1033.md)
+* [Online information trust](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1600.md)
+* [Perceived severity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1601.md)
 
 ## This article points to following mitigation
 
 
 ## This article mentions these technologies
 
-* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_7.md)
-* [Ai algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_149.md)
-* [Fact-checking organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_935.md)
-* [Education campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_85.md)
-* [Social media platforms’ moderation policies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_931.md)
-* [Online mental health platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_932.md)
-* [Public health agencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_613.md)
-* [Information filtering tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_934.md)
-* [Media literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_581.md)
-* [Mental health organizations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_937.md)
-* [Digital health interventions](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_933.md)
-* [Digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
-* [Trusted sources certification](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_936.md)
+* [Fact-checking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_7.md)
+* [Ai algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_149.md)
+* [Fact-checking organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_935.md)
+* [Education campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_85.md)
+* [Social media platforms’ moderation policies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_931.md)
+* [Online mental health platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_932.md)
+* [Public health agencies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_613.md)
+* [Information filtering tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_934.md)
+* [Media literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_581.md)
+* [Mental health organizations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_937.md)
+* [Digital health interventions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_933.md)
+* [Digital literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_573.md)
+* [Trusted sources certification](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_936.md)
 

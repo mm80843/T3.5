@@ -1,23 +1,23 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3287 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_3287 
 
 # __Self-sanitizing surfaces__
 
 ## Category to which it belongs
 
-* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_70.md)
+* [Implementation of comprehensive and rigorous cleaning, disinfection, and sanitation practices to ensure effective and efficient pathogen eradication.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_70.md)
 
 ## Closest similar item
 
-* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1188.md)
-* [Regular surface disinfection and use of self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2031.md)
-* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4052.md)
-* [Regular disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4224.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
-* [Regular cleaning and disinfection of surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_718.md)
-* [Regular and thorough disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2074.md)
-* [Develop and enforce strict sanitization protocols for all surfaces and equipment in the facility](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2022.md)
-* [Regular disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1926.md)
-* [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1822.md)
+* [Self-disinfecting surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1188.md)
+* [Regular surface disinfection and use of self-disinfecting surfaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2031.md)
+* [Disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4052.md)
+* [Regular disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4224.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Regular cleaning and disinfection of surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_718.md)
+* [Regular and thorough disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2074.md)
+* [Develop and enforce strict sanitization protocols for all surfaces and equipment in the facility](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2022.md)
+* [Regular disinfection of frequently touched surfaces](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1926.md)
+* [Regular and thorough cleaning and disinfection of surfaces.](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1822.md)
 
 ## Property: has_MitigationPrinciple
 
@@ -25,13 +25,13 @@ Graphene-based nanomaterials can be used to create self-sanitizing surfaces that
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1784.md)
+* [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1784.md)
 
 ## Property: has_MitigationSource
 
-* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_187.md)
+* [Graphene-based nanomaterials as antimicrobial surface coatings: A parallel approach to restrain the expansion of COVID-19](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_187.md)
 
 ## This Mitigation is enabled by the following technologies
 
-* [Graphene-based nanomaterials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_212.md)
+* [Graphene-based nanomaterials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_212.md)
 

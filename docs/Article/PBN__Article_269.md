@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_269 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_269 
 
 # __Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection System Against Coronaviruses MHV and MERS-CoV__
 
@@ -24,30 +24,30 @@ Efficacy of an Automated Multiple Emitter Whole-Room Ultraviolet-C Disinfection 
 
 ## Benefits listed in this article
 
-* [Reduction of viral titers](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1271.md)
+* [Reduction of viral titers](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1271.md)
 
 ## List of risks in an article
 
-* [Lack of protection for staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1164.md)
-* [Ineffectiveness of disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1160.md)
-* [Neglecting standard cleaning practices](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1163.md)
-* [Contamination of glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1161.md)
-* [Insufficient virus reduction](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1162.md)
+* [Lack of protection for staff](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1164.md)
+* [Ineffectiveness of disinfection system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1160.md)
+* [Neglecting standard cleaning practices](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1163.md)
+* [Contamination of glass coverslips](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1161.md)
+* [Insufficient virus reduction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1162.md)
 
 ## This article points to following mitigation
 
-* [Layering dmem to prevent drying](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3340.md)
-* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3334.md)
-* [Loading of virus onto glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3335.md)
-* [Inoculation of virus onto hela cells](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3336.md)
-* [Plaque count determination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3337.md)
-* [Conducting experiments under bsl3 protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3338.md)
-* [Use of bleach-soaked pads to prevent virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3339.md)
-* [Fixation of cells with formalin](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3341.md)
-* [Use of crystal violet for plaque detection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3342.md)
+* [Layering dmem to prevent drying](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3340.md)
+* [Surfacide uv-c disinfection system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3334.md)
+* [Loading of virus onto glass coverslips](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3335.md)
+* [Inoculation of virus onto hela cells](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3336.md)
+* [Plaque count determination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3337.md)
+* [Conducting experiments under bsl3 protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3338.md)
+* [Use of bleach-soaked pads to prevent virus spread](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3339.md)
+* [Fixation of cells with formalin](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3341.md)
+* [Use of crystal violet for plaque detection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3342.md)
 
 ## This article mentions these technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Sterile glass coverslips](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_255.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Sterile glass coverslips](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_255.md)
 

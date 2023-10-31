@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_247 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_247 
 
 # __Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A case study in London__
 
@@ -16,7 +16,7 @@ During the lockdown, when people had to stay at home, there were a lot less cars
 
 ## Referenced by other articles
 
-* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_135.md)
+* [The socio-economic implications of the coronavirus pandemic (COVID-19): A review](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_135.md)
 
 ## Title of the article
 
@@ -28,34 +28,34 @@ Attitudes towards outdoor and neighbour noise during the COVID-19 lockdown: A ca
 
 ## Benefits listed in this article
 
-* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1191.md)
-* [Reduced neighbour noise](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1192.md)
-* [Annoyance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1193.md)
+* [Reduced noise levels](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1191.md)
+* [Reduced neighbour noise](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1192.md)
+* [Annoyance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1193.md)
 
 ## List of risks in an article
 
-* [Increase in outdoor noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1618.md)
-* [Increase in neighbour noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1619.md)
-* [Increased annoyance from neighbour noise in flats during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1622.md)
-* [Impact of reduced traffic noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1620.md)
-* [Increased annoyance from bird noise during lockdown](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1621.md)
+* [Increase in outdoor noise during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1618.md)
+* [Increase in neighbour noise during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1619.md)
+* [Increased annoyance from neighbour noise in flats during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1622.md)
+* [Impact of reduced traffic noise during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1620.md)
+* [Increased annoyance from bird noise during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1621.md)
 
 ## This article points to following mitigation
 
-* [Traffic restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4061.md)
-* [Portable noise measurement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4065.md)
-* [Sound insulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4062.md)
-* [Green transportation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4063.md)
-* [Natural sound maskers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4064.md)
+* [Traffic restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4061.md)
+* [Portable noise measurement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4065.md)
+* [Sound insulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4062.md)
+* [Green transportation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4063.md)
+* [Natural sound maskers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4064.md)
 
 ## This article mentions these technologies
 
-* [Soundproofing materials](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_119.md)
-* [Community engagement platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_964.md)
-* [Landscaping](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_963.md)
-* [Noise barriers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_960.md)
-* [Noise-cancelling technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_958.md)
-* [Communication and mediation platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_959.md)
-* [Traffic management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_961.md)
-* [Bird deterrent devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_962.md)
+* [Soundproofing materials](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_119.md)
+* [Community engagement platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_964.md)
+* [Landscaping](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_963.md)
+* [Noise barriers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_960.md)
+* [Noise-cancelling technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_958.md)
+* [Communication and mediation platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_959.md)
+* [Traffic management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_961.md)
+* [Bird deterrent devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_962.md)
 

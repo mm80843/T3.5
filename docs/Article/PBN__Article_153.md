@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_153 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_153 
 
 # __COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID-19–related news__
 
@@ -24,29 +24,29 @@ COVID-19 media fatigue: predictors of decreasing interest and avoidance of COVID
 
 ## Benefits listed in this article
 
-* [Increased trust](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_764.md)
-* [Reduced anxiety](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_766.md)
-* [Reduced stress](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_767.md)
-* [Increased awareness](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_768.md)
-* [Improved adherence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_769.md)
+* [Increased trust](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_764.md)
+* [Reduced anxiety](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_766.md)
+* [Reduced stress](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_767.md)
+* [Increased awareness](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_768.md)
+* [Improved adherence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_769.md)
 
 ## List of risks in an article
 
-* [Fear of covid-19](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1217.md)
-* [Avoidance of covid-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1215.md)
-* [Decreased interest in covid-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1214.md)
-* [Desensitization to covid-19 news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1216.md)
-* [Pandemic fatigue](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1218.md)
+* [Fear of covid-19](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1217.md)
+* [Avoidance of covid-19 news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1215.md)
+* [Decreased interest in covid-19 news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1214.md)
+* [Desensitization to covid-19 news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1216.md)
+* [Pandemic fatigue](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1218.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Effective communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3389.md)
-* [Wearing masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3306.md)
-* [Information source selection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3392.md)
-* [Optimizing communication](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3390.md)
-* [Media content regulation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3391.md)
-* [Content analysis of news](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3393.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Effective communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3389.md)
+* [Wearing masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3306.md)
+* [Information source selection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3392.md)
+* [Optimizing communication](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3390.md)
+* [Media content regulation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3391.md)
+* [Content analysis of news](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3393.md)
 
 ## This article mentions these technologies
 

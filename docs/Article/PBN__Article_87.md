@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_87 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_87 
 
 # __Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learned from COVID-19__
 
@@ -16,10 +16,10 @@ The study investigated the impact of architectural and urban design on the exper
 
 ## Referenced by other articles
 
-* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_298.md)
-* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_184.md)
-* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_279.md)
-* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_107.md)
+* [Antivirus-built environment: Lessons learned from Covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_298.md)
+* [Coronavirus questions that will not go away: interrogating urban and socio-spatial implications of COVID-19 measures](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_184.md)
+* [How our homes impact our health: using a COVID-19 informed approach to examine urban apartment housing](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_279.md)
+* [Public housing and COVID-19: contestation, challenge and change](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_107.md)
 
 ## Title of the article
 
@@ -31,34 +31,34 @@ Housing Experience in Gated Communities in the Time of Pandemics: Lessons Learne
 
 ## Benefits listed in this article
 
-* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_430.md)
+* [Reduced risk of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_430.md)
 
 ## List of risks in an article
 
-* [Feeling of isolation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1108.md)
-* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1107.md)
-* [Overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_571.md)
-* [Inadequate visitor access control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1105.md)
-* [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1106.md)
+* [Feeling of isolation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1108.md)
+* [Limited access to essential services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1107.md)
+* [Overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_571.md)
+* [Inadequate visitor access control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1105.md)
+* [Lack of adherence to preventive measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1106.md)
 
 ## This article points to following mitigation
 
-* [Controlled visitor access](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_442.md)
-* [Self-sufficiency in shopping facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_445.md)
-* [Strict adherence to covid-19 preventative measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3255.md)
-* [Less crowded environment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3256.md)
-* [Self-sufficiency in recreation facilities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3257.md)
+* [Controlled visitor access](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_442.md)
+* [Self-sufficiency in shopping facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_445.md)
+* [Strict adherence to covid-19 preventative measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3255.md)
+* [Less crowded environment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3256.md)
+* [Self-sufficiency in recreation facilities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3257.md)
 
 ## This article mentions these technologies
 
-* [Access control systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_164.md)
-* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_165.md)
-* [Communication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_168.md)
-* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_52.md)
-* [Design guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_166.md)
-* [Local infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_169.md)
-* [Community amenities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_170.md)
-* [Virtual communication platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_172.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
-* [Community events](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_171.md)
+* [Access control systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_164.md)
+* [Surveillance cameras](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_165.md)
+* [Communication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_168.md)
+* [Urban planning regulations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_52.md)
+* [Design guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_166.md)
+* [Local infrastructure development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_169.md)
+* [Community amenities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_170.md)
+* [Virtual communication platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_172.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_167.md)
+* [Community events](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_171.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_195 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_195 
 
 # __Wearable technology and COVID-19__
 
@@ -24,48 +24,48 @@ Wearable technology and COVID-19
 
 ## Benefits listed in this article
 
-* [Early detection of infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_278.md)
-* [Enhanced predictive models](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_948.md)
-* [Early detection of sars-cov-2 infection](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_949.md)
-* [Individualized dosing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_950.md)
-* [Mapping disease progression and identifying long covid cases](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_951.md)
-* [Improved symptom management through pacing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_952.md)
-* [Protection of personal data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_953.md)
-* [Improved availability and access to wearables](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_954.md)
-* [Reduced need for face-to-face appointments](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_955.md)
-* [Broader healthcare applications](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_956.md)
+* [Early detection of infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_278.md)
+* [Enhanced predictive models](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_948.md)
+* [Early detection of sars-cov-2 infection](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_949.md)
+* [Individualized dosing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_950.md)
+* [Mapping disease progression and identifying long covid cases](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_951.md)
+* [Improved symptom management through pacing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_952.md)
+* [Protection of personal data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_953.md)
+* [Improved availability and access to wearables](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_954.md)
+* [Reduced need for face-to-face appointments](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_955.md)
+* [Broader healthcare applications](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_956.md)
 
 ## List of risks in an article
 
-* [Privacy concerns](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_47.md)
-* [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1224.md)
-* [Dependency on technology](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1226.md)
-* [Ethical considerations](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_163.md)
-* [Inequality of access](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1225.md)
+* [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_47.md)
+* [Inaccuracy of data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1224.md)
+* [Dependency on technology](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1226.md)
+* [Ethical considerations](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_163.md)
+* [Inequality of access](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1225.md)
 
 ## This article points to following mitigation
 
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3247.md)
-* [Global positioning system gps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3400.md)
-* [Wearable technology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_498.md)
-* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3260.md)
-* [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3403.md)
-* [Data ownership decentralization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3404.md)
-* [Machine learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3401.md)
-* [Smart facemasks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3402.md)
-* [Price reduction and availability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3405.md)
-* [Health insurance coverage](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3406.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3247.md)
+* [Global positioning system gps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3400.md)
+* [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_498.md)
+* [Self-reported symptoms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3260.md)
+* [Home monitoring with wearables](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3403.md)
+* [Data ownership decentralization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3404.md)
+* [Machine learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3401.md)
+* [Smart facemasks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3402.md)
+* [Price reduction and availability](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3405.md)
+* [Health insurance coverage](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3406.md)
 
 ## This article mentions these technologies
 
-* [Blockchain technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_211.md)
-* [Encryption algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_315.md)
-* [Ethical frameworks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_318.md)
-* [Governance mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_319.md)
-* [Cost reduction strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_316.md)
-* [Data validation algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_314.md)
-* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_313.md)
-* [Government support](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_317.md)
-* [Health education](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_320.md)
-* [Communication strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_321.md)
+* [Blockchain technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_211.md)
+* [Encryption algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_315.md)
+* [Ethical frameworks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_318.md)
+* [Governance mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_319.md)
+* [Cost reduction strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_316.md)
+* [Data validation algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_314.md)
+* [Improved sensor technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_313.md)
+* [Government support](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_317.md)
+* [Health education](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_320.md)
+* [Communication strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_321.md)
 

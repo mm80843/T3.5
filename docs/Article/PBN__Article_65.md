@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_65 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_65 
 
 # __The impact of COVID-19 and strategies for mitigation and suppression in low- and middle-income countries__
 
@@ -28,35 +28,35 @@ The impact of COVID-19 and strategies for mitigation and suppression in low- and
 
 ## Benefits listed in this article
 
-* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_262.md)
-* [Reduction in severe outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_340.md)
+* [Reduction in transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_262.md)
+* [Reduction in severe outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_340.md)
 
 ## List of risks in an article
 
-* [Negative impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2279.md)
-* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1379.md)
-* [Lack of covid-19 vaccine](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2277.md)
-* [Economic downturn](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_525.md)
-* [Transmission rebound after easing interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2278.md)
+* [Negative impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2279.md)
+* [Overwhelming healthcare systems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1379.md)
+* [Lack of covid-19 vaccine](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2277.md)
+* [Economic downturn](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_525.md)
+* [Transmission rebound after easing interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2278.md)
 
 ## This article points to following mitigation
 
-* [Case isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_336.md)
-* [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
-* [Social distancing of the entire population](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5109.md)
-* [Closure of schools and universities](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5110.md)
-* [Stopping mass gatherings](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3685.md)
-* [Social distancing of >70s](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5108.md)
+* [Case isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_336.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_337.md)
+* [Social distancing of the entire population](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5109.md)
+* [Closure of schools and universities](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5110.md)
+* [Stopping mass gatherings](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3685.md)
+* [Social distancing of >70s](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5108.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_402.md)
-* [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
-* [Financial relief](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1886.md)
-* [Business assistance programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1887.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [Medical equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_108.md)
-* [Online mental health resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1885.md)
-* [Disease surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1884.md)
-* [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1883.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_402.md)
+* [Infrastructure development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_76.md)
+* [Financial relief](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1886.md)
+* [Business assistance programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1887.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Medical equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_108.md)
+* [Online mental health resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1885.md)
+* [Disease surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1884.md)
+* [Vaccine development and manufacturing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1883.md)
 

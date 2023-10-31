@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_77 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_77 
 
 # __Rapid expansion of temporary, reliable airborne-infection isolation rooms with negative air machines for critical COVID-19 patients__
 
@@ -24,33 +24,33 @@ Rapid expansion of temporary, reliable airborne-infection isolation rooms with n
 
 ## Benefits listed in this article
 
-* [Infection control](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_106.md)
-* [Increased capacity](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_389.md)
-* [Maintaining pressure differentials](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_390.md)
-* [Improved access to patients](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_391.md)
-* [Expanded workforce](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_392.md)
+* [Infection control](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_106.md)
+* [Increased capacity](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_389.md)
+* [Maintaining pressure differentials](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_390.md)
+* [Improved access to patients](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_391.md)
+* [Expanded workforce](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_392.md)
 
 ## List of risks in an article
 
-* [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_315.md)
-* [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1631.md)
-* [Shortage of aiirs](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_313.md)
-* [Lack of patient monitoring system](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1629.md)
-* [Inadequate room selection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1627.md)
-* [Lack of anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1628.md)
-* [Inadequate door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1630.md)
+* [Insufficient negative pressure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_315.md)
+* [Shortage of health care personnel](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1631.md)
+* [Shortage of aiirs](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_313.md)
+* [Lack of patient monitoring system](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1629.md)
+* [Inadequate room selection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1627.md)
+* [Lack of anterooms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1628.md)
+* [Inadequate door-lock device](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1630.md)
 
 ## This article points to following mitigation
 
-* [Relocating additional healthcare personnel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4074.md)
-* [Selecting adequate ward and patient rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4072.md)
-* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_394.md)
-* [Partitioning to make anterooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4073.md)
-* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_395.md)
+* [Relocating additional healthcare personnel](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4074.md)
+* [Selecting adequate ward and patient rooms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4072.md)
+* [Generating negative pressure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_394.md)
+* [Partitioning to make anterooms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4073.md)
+* [Patient monitoring system and door-lock device](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_395.md)
 
 ## This article mentions these technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Negative air machines with hepa filters](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_968.md)
-* [Door-lock devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_969.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Negative air machines with hepa filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_968.md)
+* [Door-lock devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_969.md)
 

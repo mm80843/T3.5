@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_180 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_180 
 
 # __Assessing the health and hygiene performance of apartment buildings__
 
@@ -24,37 +24,37 @@ Assessing the health and hygiene performance of apartment buildings
 
 ## Benefits listed in this article
 
-* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_169.md)
-* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
-* [Reduced pathogen concentration](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_888.md)
-* [Reduced occupancy density](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_889.md)
-* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_890.md)
+* [Improved indoor air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_169.md)
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_207.md)
+* [Reduced pathogen concentration](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_888.md)
+* [Reduced occupancy density](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_889.md)
+* [Improved hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_890.md)
 
 ## List of risks in an article
 
-* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1476.md)
-* [Lack of hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1473.md)
-* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1327.md)
-* [Crowded living conditions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1474.md)
-* [Poor cleaning and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1475.md)
+* [Inadequate healthcare facilities](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1476.md)
+* [Lack of hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1473.md)
+* [Insufficient ventilation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1327.md)
+* [Crowded living conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1474.md)
+* [Poor cleaning and sanitation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1475.md)
 
 ## This article points to following mitigation
 
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Contact tracing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3332.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
-* [Handwashing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_86.md)
-* [Surface disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1130.md)
-* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3819.md)
-* [Proper ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3818.md)
-* [Mask wearing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3817.md)
-* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3331.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Contact tracing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3332.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Handwashing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_86.md)
+* [Surface disinfection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1130.md)
+* [Enhanced cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3819.md)
+* [Proper ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3818.md)
+* [Mask wearing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3817.md)
+* [Quarantine/isolation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3331.md)
 
 ## This article mentions these technologies
 
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Smart zoning and urban planning](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_750.md)
-* [Telemedicine and mobile health clinics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_752.md)
-* [Automated cleaning technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_751.md)
-* [Sensor-activated faucets and soap dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_749.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Smart zoning and urban planning](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_750.md)
+* [Telemedicine and mobile health clinics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_752.md)
+* [Automated cleaning technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_751.md)
+* [Sensor-activated faucets and soap dispensers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_749.md)
 

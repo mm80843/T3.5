@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_271 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_271 
 
 # __Covid-19 and asset management in EU: a preliminary assessment of performance and investment styles__
 
@@ -24,43 +24,43 @@ Covid-19 and asset management in EU: a preliminary assessment of performance and
 
 ## Benefits listed in this article
 
-* [Superior performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1275.md)
-* [Negative performance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1277.md)
-* [Investment style transitions](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1276.md)
+* [Superior performance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1275.md)
+* [Negative performance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1277.md)
+* [Investment style transitions](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1276.md)
 
 ## List of risks in an article
 
-* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_936.md)
-* [Increased default rates](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1953.md)
-* [Volatility in financial markets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1952.md)
-* [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1954.md)
-* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1955.md)
+* [Spread of contagious epidemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_936.md)
+* [Increased default rates](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1953.md)
+* [Volatility in financial markets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1952.md)
+* [Declining yields on treasury instruments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1954.md)
+* [Superior performance of actively managed funds](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1955.md)
 
 ## This article points to following mitigation
 
-* [Remote work and distance learning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4605.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3123.md)
-* [Lockdowns](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3820.md)
-* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3630.md)
-* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3578.md)
-* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3516.md)
-* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3985.md)
-* [Wearing face masks](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4212.md)
-* [Movement restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4604.md)
+* [Remote work and distance learning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4605.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3123.md)
+* [Lockdowns](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3820.md)
+* [Public health education and awareness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3630.md)
+* [Ventilation and air filtration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3578.md)
+* [Enhanced cleaning and sanitization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3516.md)
+* [Increased hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3985.md)
+* [Wearing face masks](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4212.md)
+* [Movement restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4604.md)
 
 ## This article mentions these technologies
 
-* [Financial technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1241.md)
-* [Vaccine development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_835.md)
-* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1407.md)
-* [Data analytics](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1067.md)
-* [Electronic trading platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1408.md)
-* [Fund management software](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1414.md)
-* [Performance tracking tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1415.md)
-* [Algorithmic trading](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1409.md)
-* [Credit risk assessment technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1410.md)
-* [Debt management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1412.md)
-* [Credit scoring algorithms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1411.md)
-* [Automated treasury management](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1413.md)
+* [Financial technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1241.md)
+* [Vaccine development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_835.md)
+* [Advanced laboratory testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1407.md)
+* [Data analytics](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1067.md)
+* [Electronic trading platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1408.md)
+* [Fund management software](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1414.md)
+* [Performance tracking tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1415.md)
+* [Algorithmic trading](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1409.md)
+* [Credit risk assessment technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1410.md)
+* [Debt management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1412.md)
+* [Credit scoring algorithms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1411.md)
+* [Automated treasury management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1413.md)
 

@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_230 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_230 
 
 # __Challenges of data sharing in European Covid-19 projects: A learning opportunity for advancing pandemic preparedness and response__
 
@@ -24,50 +24,50 @@ Challenges of data sharing in European Covid-19 projects: A learning opportunity
 
 ## Benefits listed in this article
 
-* [Enhanced data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1101.md)
-* [Easier data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1102.md)
-* [Standardized data exchange](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1103.md)
-* [Improved data quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1104.md)
-* [Adequate statistical power](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1105.md)
-* [Enhanced scientific discovery](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1106.md)
-* [Innovation in federated approaches](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1107.md)
-* [Streamlined data sharing](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1108.md)
-* [Improved pseudonymization process](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1109.md)
-* [More collaborative and efficient approach](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1110.md)
+* [Enhanced data analysis](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1101.md)
+* [Easier data sharing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1102.md)
+* [Standardized data exchange](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1103.md)
+* [Improved data quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1104.md)
+* [Adequate statistical power](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1105.md)
+* [Enhanced scientific discovery](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1106.md)
+* [Innovation in federated approaches](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1107.md)
+* [Streamlined data sharing](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1108.md)
+* [Improved pseudonymization process](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1109.md)
+* [More collaborative and efficient approach](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1110.md)
 
 ## List of risks in an article
 
-* [Suboptimal data science literacy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_813.md)
-* [Lack of consensus on interoperability standards](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_812.md)
-* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_811.md)
-* [Data collection and harmonization challenges in observational studies](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2132.md)
-* [Centralized vs. federated approaches to data infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2133.md)
+* [Suboptimal data science literacy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_813.md)
+* [Lack of consensus on interoperability standards](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_812.md)
+* [Regulatory frameworks for data protection](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_811.md)
+* [Data collection and harmonization challenges in observational studies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2132.md)
+* [Centralized vs. federated approaches to data infrastructure](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2133.md)
 
 ## This article points to following mitigation
 
-* [Technical infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4907.md)
-* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1118.md)
-* [Federated infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4916.md)
-* [Data curation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4906.md)
-* [Longitudinal data alignment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4919.md)
-* [Data quality and interoperability](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4921.md)
-* [Centralised data repositories](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4917.md)
-* [Federated data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1115.md)
-* [Data science literacy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4908.md)
-* [Common standards](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4905.md)
-* [Broad informed consent](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4909.md)
-* [Harmonisation guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4910.md)
-* [Transdisciplinary consortia](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4911.md)
-* [Incentives](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4912.md)
-* [Data protection compliance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4913.md)
-* [Funding for it support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4914.md)
-* [Common standards for health data](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4915.md)
-* [Pseudonymization](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4918.md)
-* [European health data space](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4920.md)
-* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4922.md)
+* [Technical infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4907.md)
+* [Interdisciplinary collaboration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1118.md)
+* [Federated infrastructure](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4916.md)
+* [Data curation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4906.md)
+* [Longitudinal data alignment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4919.md)
+* [Data quality and interoperability](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4921.md)
+* [Centralised data repositories](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4917.md)
+* [Federated data analysis](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1115.md)
+* [Data science literacy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4908.md)
+* [Common standards](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4905.md)
+* [Broad informed consent](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4909.md)
+* [Harmonisation guidelines](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4910.md)
+* [Transdisciplinary consortia](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4911.md)
+* [Incentives](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4912.md)
+* [Data protection compliance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4913.md)
+* [Funding for it support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4914.md)
+* [Common standards for health data](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4915.md)
+* [Pseudonymization](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4918.md)
+* [European health data space](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4920.md)
+* [Data sharing protocols](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4922.md)
 
 ## This article mentions these technologies
 
-* [Opal-datashield](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1674.md)
-* [Federated data analysis](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1675.md)
+* [Opal-datashield](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1674.md)
+* [Federated data analysis](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1675.md)
 

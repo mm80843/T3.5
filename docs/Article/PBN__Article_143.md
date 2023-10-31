@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_143 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_143 
 
 # __Smart cities and the pandemic: digital technologies on the urban management of Brazilian cities__
 
@@ -16,7 +16,7 @@ In this study, researchers looked at how digital tools are being used in Brazili
 
 ## Referenced by other articles
 
-* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_183.md)
+* [From Viral City to Smart City: Learning from Pandemic Experiences](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_183.md)
 
 ## Title of the article
 
@@ -28,55 +28,55 @@ Smart cities and the pandemic: digital technologies on the urban management of B
 
 ## Benefits listed in this article
 
-* [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_722.md)
-* [Reinforcement of information to the population](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_723.md)
-* [Cultural dissemination through digital means](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_724.md)
-* [Telephone exchange](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_725.md)
-* [Transposition of open markets to a virtual environment](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_727.md)
-* [Municipal services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_728.md)
-* [Hackathon](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_729.md)
-* [Online tax assistance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_731.md)
-* [Monitoring of agglomerations through geolocation data](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_730.md)
-* [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_721.md)
-* [Incentives to the local economy through digital means](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_726.md)
+* [Digital tools of support to hospitals/health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_722.md)
+* [Reinforcement of information to the population](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_723.md)
+* [Cultural dissemination through digital means](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_724.md)
+* [Telephone exchange](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_725.md)
+* [Transposition of open markets to a virtual environment](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_727.md)
+* [Municipal services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_728.md)
+* [Hackathon](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_729.md)
+* [Online tax assistance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_731.md)
+* [Monitoring of agglomerations through geolocation data](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_730.md)
+* [Distance learning/training](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_721.md)
+* [Incentives to the local economy through digital means](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_726.md)
 
 ## List of risks in an article
 
-* [Reliance on digital platforms](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1363.md)
-* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1364.md)
-* [Under-notification of cases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1360.md)
-* [Privacy and data security](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1362.md)
-* [Digital exclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1361.md)
+* [Reliance on digital platforms](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1363.md)
+* [Misinformation and fake news](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1364.md)
+* [Under-notification of cases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1360.md)
+* [Privacy and data security](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1362.md)
+* [Digital exclusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1361.md)
 
 ## This article points to following mitigation
 
-* [Telephone exchange](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3641.md)
-* [Teleconsultations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3638.md)
-* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3639.md)
-* [Distance learning/training](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3637.md)
-* [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3643.md)
-* [Online tax assistance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3645.md)
-* [Incentives to the local economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3642.md)
-* [Cultural dissemination](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3640.md)
-* [Transposition of municipal services](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3644.md)
-* [Hackathon](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3646.md)
+* [Telephone exchange](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3641.md)
+* [Teleconsultations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3638.md)
+* [Reinforcement of information](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3639.md)
+* [Distance learning/training](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3637.md)
+* [Monitoring of agglomerations](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3643.md)
+* [Online tax assistance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3645.md)
+* [Incentives to the local economy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3642.md)
+* [Cultural dissemination](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3640.md)
+* [Transposition of municipal services](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3644.md)
+* [Hackathon](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3646.md)
 
 ## This article mentions these technologies
 
-* [Cybersecurity protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_577.md)
-* [Communication technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_5.md)
-* [Educational resources](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_572.md)
-* [Privacy regulations compliance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_575.md)
-* [Fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_579.md)
-* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_580.md)
-* [Data management systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_512.md)
-* [Data encryption](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_344.md)
-* [Digital devices](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_571.md)
-* [Media literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_581.md)
-* [Secure data storage](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_574.md)
-* [Improved testing capabilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_569.md)
-* [Diversified communication channels](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_578.md)
-* [Internet connectivity](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_570.md)
-* [Digital literacy programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_573.md)
-* [Backup systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_576.md)
+* [Cybersecurity protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_577.md)
+* [Communication technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_5.md)
+* [Educational resources](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_572.md)
+* [Privacy regulations compliance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_575.md)
+* [Fact-checking mechanisms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_579.md)
+* [Reliable sources of information](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_580.md)
+* [Data management systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_512.md)
+* [Data encryption](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_344.md)
+* [Digital devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_571.md)
+* [Media literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_581.md)
+* [Secure data storage](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_574.md)
+* [Improved testing capabilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_569.md)
+* [Diversified communication channels](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_578.md)
+* [Internet connectivity](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_570.md)
+* [Digital literacy programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_573.md)
+* [Backup systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_576.md)
 

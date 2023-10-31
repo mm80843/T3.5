@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_37 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_37 
 
 # __First detection of SARS-CoV-2 in untreated wastewaters in Italy__
 
@@ -16,7 +16,7 @@ Scientists in Italy collected sewage samples from wastewater treatment plants in
 
 ## Referenced by other articles
 
-* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_205.md)
+* [First confirmed detection of SARS-CoV-2 in untreated wastewater in Australia: A proof of concept for the wastewater surveillance of COVID-19 in the community](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_205.md)
 
 ## Title of the article
 
@@ -28,32 +28,32 @@ First detection of SARS-CoV-2 in untreated wastewaters in Italy
 
 ## Benefits listed in this article
 
-* [Early detection of outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_166.md)
-* [Estimation of virus spread](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_167.md)
-* [Public health monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_168.md)
+* [Early detection of outbreaks](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_166.md)
+* [Estimation of virus spread](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_167.md)
+* [Public health monitoring](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_168.md)
 
 ## List of risks in an article
 
-* [Spread of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1611.md)
-* [Low sensitivity of current assays for sars-cov-2 detection in sewage](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1614.md)
-* [Safety of laboratory personnel and environment during sample handling and analysis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1615.md)
-* [Lack of standardized method for sars-cov-2 detection in environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1613.md)
-* [Presence of symptomatic and asymptomatic carriers in the population](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1612.md)
+* [Spread of sars-cov-2 in wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1611.md)
+* [Low sensitivity of current assays for sars-cov-2 detection in sewage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1614.md)
+* [Safety of laboratory personnel and environment during sample handling and analysis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1615.md)
+* [Lack of standardized method for sars-cov-2 detection in environmental samples](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1613.md)
+* [Presence of symptomatic and asymptomatic carriers in the population](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1612.md)
 
 ## This article points to following mitigation
 
-* [Nested pcr assay](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4050.md)
-* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_202.md)
-* [Thermal treatment](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4049.md)
+* [Nested pcr assay](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4050.md)
+* [Wastewater-based epidemiology](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_202.md)
+* [Thermal treatment](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4049.md)
 
 ## This article mentions these technologies
 
-* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_11.md)
-* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_949.md)
-* [Public health campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_167.md)
-* [Development of standardized protocols and assays for sars-cov-2 detection in environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_947.md)
-* [Development and optimization of more sensitive and specific assays for sars-cov-2 detection in sewage samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_948.md)
-* [Wastewater-based epidemiology wbe methods and pcr testing can be used for the detection of sars-cov-2 in wastewater samples](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_945.md)
-* [Increased availability of diagnostic tests](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_946.md)
-* [Adherence to biosafety guidelines](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_950.md)
+* [Contact tracing apps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_11.md)
+* [Use of personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_949.md)
+* [Public health campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_167.md)
+* [Development of standardized protocols and assays for sars-cov-2 detection in environmental samples](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_947.md)
+* [Development and optimization of more sensitive and specific assays for sars-cov-2 detection in sewage samples](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_948.md)
+* [Wastewater-based epidemiology wbe methods and pcr testing can be used for the detection of sars-cov-2 in wastewater samples](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_945.md)
+* [Increased availability of diagnostic tests](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_946.md)
+* [Adherence to biosafety guidelines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_950.md)
 

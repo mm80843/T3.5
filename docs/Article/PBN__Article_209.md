@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_209 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_209 
 
 # __An e-mental health intervention to support burdened people in times of the COVID-19 pandemic: CoPE It__
 
@@ -24,33 +24,33 @@ An e-mental health intervention to support burdened people in times of the COVID
 
 ## Benefits listed in this article
 
-* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_425.md)
-* [Improvement in mental well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_426.md)
-* [Containment of pandemics](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1008.md)
+* [Reduction in disease transmission](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_425.md)
+* [Improvement in mental well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_426.md)
+* [Containment of pandemics](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1008.md)
 
 ## List of risks in an article
 
-* [Mental health impact](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1154.md)
-* [Importance of social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1152.md)
-* [Lack of access to pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1151.md)
-* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1153.md)
-* [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1150.md)
+* [Mental health impact](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1154.md)
+* [Importance of social distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1152.md)
+* [Lack of access to pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1151.md)
+* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1153.md)
+* [Inadequate global preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1150.md)
 
 ## This article points to following mitigation
 
-* [Mental health support](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3324.md)
-* [Social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_275.md)
-* [Travel restrictions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_564.md)
-* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_377.md)
-* [Home quarantine](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_337.md)
-* [Public engagement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3328.md)
-* [Voluntary reporting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3327.md)
-* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3323.md)
-* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3325.md)
-* [Augmented surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3326.md)
+* [Mental health support](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3324.md)
+* [Social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_275.md)
+* [Travel restrictions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_564.md)
+* [Non-pharmaceutical interventions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_377.md)
+* [Home quarantine](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_337.md)
+* [Public engagement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3328.md)
+* [Voluntary reporting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3327.md)
+* [Risk communication strategy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3323.md)
+* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3325.md)
+* [Augmented surveillance](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3326.md)
 
 ## This article mentions these technologies
 
-* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_242.md)
-* [Web-based applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_243.md)
+* [Telecommunication tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_242.md)
+* [Web-based applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_243.md)
 

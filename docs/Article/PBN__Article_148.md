@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_148 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_148 
 
 # __Responsible Transport: A post-COVID agenda for transport policy and practice__
 
@@ -24,40 +24,40 @@ Responsible Transport: A post-COVID agenda for transport policy and practice
 
 ## Benefits listed in this article
 
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
-* [Reduced overcrowding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_557.md)
-* [Reduced congestion](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_744.md)
-* [Increased options for sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_745.md)
-* [Positive environmental and social outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_746.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Reduced overcrowding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_557.md)
+* [Reduced congestion](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_744.md)
+* [Increased options for sustainability](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_745.md)
+* [Positive environmental and social outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_746.md)
 
 ## List of risks in an article
 
-* [Transport-related greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1213.md)
-* [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1209.md)
-* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1211.md)
-* [Lack of access to private car](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1212.md)
-* [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1210.md)
+* [Transport-related greenhouse gas emissions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1213.md)
+* [Inadequate public transport capacity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1209.md)
+* [Fear of using public transport](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1211.md)
+* [Lack of access to private car](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1212.md)
+* [Limited access to active travel options](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1210.md)
 
 ## This article points to following mitigation
 
-* [Active travel](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3382.md)
-* [Remote work](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_832.md)
-* [Pop-up bike lanes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3383.md)
-* [Pedestrianized streets](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3384.md)
-* [Contactless door sensors](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3385.md)
-* [Hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3386.md)
-* [Clear screens between seats](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3387.md)
-* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3388.md)
+* [Active travel](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3382.md)
+* [Remote work](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_832.md)
+* [Pop-up bike lanes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3383.md)
+* [Pedestrianized streets](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3384.md)
+* [Contactless door sensors](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3385.md)
+* [Hand sanitizer dispensers](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3386.md)
+* [Clear screens between seats](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3387.md)
+* [Real-time mobile apps](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3388.md)
 
 ## This article mentions these technologies
 
-* [Implement contactless payment systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_299.md)
-* [Real-time monitoring of passenger flow](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_300.md)
-* [Crowd management measures](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_301.md)
-* [Develop smart phone applications for route planning and real-time information on active travel options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_302.md)
-* [Pre-booking of seats](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_303.md)
-* [Develop car-sharing platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_304.md)
-* [Implement electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_305.md)
-* [Develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_306.md)
-* [Implement emission monitoring systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_307.md)
+* [Implement contactless payment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_299.md)
+* [Real-time monitoring of passenger flow](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_300.md)
+* [Crowd management measures](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_301.md)
+* [Develop smart phone applications for route planning and real-time information on active travel options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_302.md)
+* [Pre-booking of seats](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_303.md)
+* [Develop car-sharing platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_304.md)
+* [Implement electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_305.md)
+* [Develop electric vehicle charging infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_306.md)
+* [Implement emission monitoring systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_307.md)
 

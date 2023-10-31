@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_92 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_92 
 
 # __Management of the COVID-19 pandemic: challenges, practices, and organizational support__
 
@@ -16,7 +16,7 @@ During the COVID-19 pandemic, nursing managers faced many challenges. One big ch
 
 ## Referenced by other articles
 
-* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_144.md)
+* [Health, Economic and Social Development Challenges of the COVID-19 Pandemic: Strategies for Multiple and Interconnected Issues](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_144.md)
 
 ## Title of the article
 
@@ -28,34 +28,34 @@ Management of the COVID-19 pandemic: challenges, practices, and organizational s
 
 ## Benefits listed in this article
 
-* [Effective crisis response](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_449.md)
-* [Addressing nursing staff shortage](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_450.md)
-* [Psychological well-being of nurses](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_451.md)
-* [Work-life balance](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_452.md)
-* [Enhanced infection control measures](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_453.md)
+* [Effective crisis response](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_449.md)
+* [Addressing nursing staff shortage](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_450.md)
+* [Psychological well-being of nurses](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_451.md)
+* [Work-life balance](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_452.md)
+* [Enhanced infection control measures](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_453.md)
 
 ## List of risks in an article
 
-* [Psychological problems](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1458.md)
-* [Development of a covid-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_356.md)
-* [Shortage in nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1457.md)
-* [Changes in work schedules of nursing staff](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1459.md)
-* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1461.md)
-* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1464.md)
-* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1463.md)
-* [Exchange process deal between university hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1460.md)
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1462.md)
+* [Psychological problems](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1458.md)
+* [Development of a covid-19 crisis management plan](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_356.md)
+* [Shortage in nursing staff](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1457.md)
+* [Changes in work schedules of nursing staff](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1459.md)
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1461.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1464.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1463.md)
+* [Exchange process deal between university hospitals](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1460.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1462.md)
 
 ## This article points to following mitigation
 
-* [Training and education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3804.md)
-* [Covid-19 crisis management plan](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3800.md)
-* [Support at organizational level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3805.md)
-* [Changes in work schedules](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3802.md)
-* [Support at individual level](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3806.md)
-* [Exchange process between hospitals](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_468.md)
-* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3801.md)
-* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3803.md)
+* [Training and education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3804.md)
+* [Covid-19 crisis management plan](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3800.md)
+* [Support at organizational level](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3805.md)
+* [Changes in work schedules](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3802.md)
+* [Support at individual level](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3806.md)
+* [Exchange process between hospitals](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_468.md)
+* [Use of another isolation hospital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3801.md)
+* [Equipping the hospital](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3803.md)
 
 ## This article mentions these technologies
 

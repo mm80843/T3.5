@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_222 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_222 
 
 # __COVID-19 pandemic and mitigation strategies: implications for maternal and child health and nutrition__
 
@@ -24,38 +24,38 @@ COVID-19 pandemic and mitigation strategies: implications for maternal and child
 
 ## Benefits listed in this article
 
-* [Continued access to education](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_287.md)
-* [Improved food availability and quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1061.md)
-* [Financial stability and poverty reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1062.md)
-* [Improved access to routine health services](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1063.md)
-* [Improved access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1064.md)
+* [Continued access to education](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_287.md)
+* [Improved food availability and quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1061.md)
+* [Financial stability and poverty reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1062.md)
+* [Improved access to routine health services](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1063.md)
+* [Improved access to clean water and sanitation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1064.md)
 
 ## List of risks in an article
 
-* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_780.md)
-* [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_778.md)
-* [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_779.md)
-* [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_777.md)
-* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_781.md)
+* [Interrupted education for children and adults](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_780.md)
+* [Reduced income and limited financial resources](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_778.md)
+* [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_779.md)
+* [Food insecurity and poor-quality diets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_777.md)
+* [Unhealthy household environment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_781.md)
 
 ## This article points to following mitigation
 
-* [Financial-incentive based models](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3188.md)
-* [Mobilizing informal institutions for education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3191.md)
-* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3190.md)
-* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1069.md)
-* [Effective community health extension system](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3189.md)
+* [Financial-incentive based models](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3188.md)
+* [Mobilizing informal institutions for education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3191.md)
+* [Safe water access and hygiene practices](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3190.md)
+* [Building resilient food systems](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1069.md)
+* [Effective community health extension system](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3189.md)
 
 ## This article mentions these technologies
 
-* [Remote healthcare services](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_12.md)
-* [Agricultural technology](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_69.md)
-* [Infrastructure development](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_76.md)
-* [Telemedicine](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_73.md)
-* [Online learning platforms](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_74.md)
-* [Food production and distribution systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_70.md)
-* [Financial support systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_71.md)
-* [Social welfare programs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_72.md)
-* [Community support groups](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_75.md)
-* [Community mobilization](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_77.md)
+* [Remote healthcare services](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_12.md)
+* [Agricultural technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_69.md)
+* [Infrastructure development](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_76.md)
+* [Telemedicine](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_73.md)
+* [Online learning platforms](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_74.md)
+* [Food production and distribution systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_70.md)
+* [Financial support systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_71.md)
+* [Social welfare programs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_72.md)
+* [Community support groups](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_75.md)
+* [Community mobilization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_77.md)
 

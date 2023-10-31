@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_264 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_264 
 
 # __Air, Surface Environmental, and Personal Protective Equipment Contamination by Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2) From a Symptomatic Patient__
 
@@ -24,40 +24,40 @@ Air, Surface Environmental, and Personal Protective Equipment Contamination by S
 
 ## Benefits listed in this article
 
-* [Improved air quality](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_192.md)
-* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_207.md)
-* [Reduced viral load on surfaces](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1121.md)
-* [Prevention of cross-contamination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1255.md)
-* [Increased awareness and adherence](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1256.md)
+* [Improved air quality](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_192.md)
+* [Reduced transmission risk](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_207.md)
+* [Reduced viral load on surfaces](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1121.md)
+* [Prevention of cross-contamination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1255.md)
+* [Increased awareness and adherence](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1256.md)
 
 ## List of risks in an article
 
-* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1718.md)
-* [Fecal shedding](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1834.md)
-* [Contaminated personal protective equipment](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1836.md)
-* [Nosocomial outbreaks](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1833.md)
-* [Inadequate decontamination measures](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1835.md)
+* [Transmission via respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1718.md)
+* [Fecal shedding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1834.md)
+* [Contaminated personal protective equipment](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1836.md)
+* [Nosocomial outbreaks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1833.md)
+* [Inadequate decontamination measures](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1835.md)
 
 ## This article points to following mitigation
 
-* [Hand hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1131.md)
-* [Clinical data collection](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4441.md)
-* [Written informed consent](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4443.md)
-* [Routine cleaning](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4440.md)
-* [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4436.md)
-* [Surface environmental samples](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4437.md)
-* [Personal protective equipment ppe samples](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4438.md)
-* [Air sampling](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4439.md)
-* [Institutional review board approval](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4442.md)
-* [Viral culture](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4444.md)
-* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4076.md)
+* [Hand hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1131.md)
+* [Clinical data collection](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4441.md)
+* [Written informed consent](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4443.md)
+* [Routine cleaning](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4440.md)
+* [Airborne infection isolation rooms](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4436.md)
+* [Surface environmental samples](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4437.md)
+* [Personal protective equipment ppe samples](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4438.md)
+* [Air sampling](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4439.md)
+* [Institutional review board approval](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4442.md)
+* [Viral culture](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4444.md)
+* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4076.md)
 
 ## This article mentions these technologies
 
-* [Disinfectants](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_411.md)
-* [Disinfection](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_833.md)
-* [None](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_35.md)
-* [Face masks](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_340.md)
-* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1100.md)
-* [Sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1216.md)
+* [Disinfectants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_411.md)
+* [Disinfection](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_833.md)
+* [None](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_35.md)
+* [Face masks](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_340.md)
+* [Cleaning protocols](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1100.md)
+* [Sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1216.md)
 

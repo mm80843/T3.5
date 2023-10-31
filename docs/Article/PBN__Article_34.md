@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_34 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_34 
 
 # __How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Interior Design over the COVID-19 Outbreak__
 
@@ -24,38 +24,38 @@ How Architecture Fails in Conditions of Crisis: a Discussion on the Value of Int
 
 ## Benefits listed in this article
 
-* [Improved public health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_47.md)
-* [Improved well-being](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_153.md)
-* [Energy efficiency](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_154.md)
-* [Improved health outcomes](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_155.md)
-* [Sense of belonging and security](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_156.md)
+* [Improved public health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_47.md)
+* [Improved well-being](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_153.md)
+* [Energy efficiency](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_154.md)
+* [Improved health outcomes](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_155.md)
+* [Sense of belonging and security](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_156.md)
 
 ## List of risks in an article
 
-* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1937.md)
-* [Lack of self-sufficient spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1934.md)
-* [Artificially lit and ventilated spaces](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1935.md)
-* [Lack of physical activity](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1936.md)
-* [Lack of connection with nature](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_114.md)
+* [Inadequate crisis preparedness](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1937.md)
+* [Lack of self-sufficient spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1934.md)
+* [Artificially lit and ventilated spaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1935.md)
+* [Lack of physical activity](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1936.md)
+* [Lack of connection with nature](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_114.md)
 
 ## This article points to following mitigation
 
-* [Natural ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3237.md)
-* [Active design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4590.md)
-* [Biophilic design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1017.md)
-* [Natural lighting](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1303.md)
-* [Urban farming](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4117.md)
+* [Natural ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3237.md)
+* [Active design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4590.md)
+* [Biophilic design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1017.md)
+* [Natural lighting](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1303.md)
+* [Urban farming](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4117.md)
 
 ## This article mentions these technologies
 
-* [Incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1376.md)
-* [Provide access to green spaces](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1377.md)
-* [Create emergency preparedness plans](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1379.md)
-* [Fitness facilities](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1374.md)
-* [Promote active transportation options](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1375.md)
-* [Use energy-efficient lighting and ventilation systems](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1371.md)
-* [Design processes that prioritize self-sufficiency and sustainability](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1370.md)
-* [Use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1378.md)
-* [Provide active workstations](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1373.md)
-* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1372.md)
+* [Incorporate biophilic design principles](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1376.md)
+* [Provide access to green spaces](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1377.md)
+* [Create emergency preparedness plans](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1379.md)
+* [Fitness facilities](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1374.md)
+* [Promote active transportation options](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1375.md)
+* [Use energy-efficient lighting and ventilation systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1371.md)
+* [Design processes that prioritize self-sufficiency and sustainability](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1370.md)
+* [Use building materials and systems that are resilient to emergencies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1378.md)
+* [Provide active workstations](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1373.md)
+* [Biophilic design strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1372.md)
 

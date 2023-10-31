@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_292 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_292 
 
 # __COVID-19 and regional solutions for mitigating the risk of SME finance in selected ASEAN member states__
 
@@ -16,7 +16,7 @@ Small and medium-sized enterprises (SMEs) are really important for the economy b
 
 ## Referenced by other articles
 
-* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Article/PBN__Article_158.md)
+* [Startups in times of crisis – A rapid response to the COVID-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Article/PBN__Article_158.md)
 
 ## Title of the article
 
@@ -28,31 +28,31 @@ COVID-19 and regional solutions for mitigating the risk of SME finance in select
 
 ## Benefits listed in this article
 
-* [Increased funding](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_147.md)
-* [Risk mitigation](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_678.md)
-* [Benefit title](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_1358.md)
+* [Increased funding](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_147.md)
+* [Risk mitigation](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_678.md)
+* [Benefit title](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_1358.md)
 
 ## List of risks in an article
 
-* [Impact of covid-19 pandemic](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2137.md)
-* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2136.md)
-* [Difficulty accessing finance](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2134.md)
-* [Increase in default risk](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2135.md)
-* [Varying credit guarantee ratios](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_2138.md)
+* [Impact of covid-19 pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2137.md)
+* [Lack of financial inclusion](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2136.md)
+* [Difficulty accessing finance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2134.md)
+* [Increase in default risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2135.md)
+* [Varying credit guarantee ratios](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2138.md)
 
 ## This article points to following mitigation
 
-* [Establishing credit guarantee schemes](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4923.md)
-* [Categorizing banks based on soundness](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4924.md)
-* [Increasing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4925.md)
-* [Gradually reducing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4926.md)
-* [Establishing a regional credit guarantee](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4927.md)
+* [Establishing credit guarantee schemes](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4923.md)
+* [Categorizing banks based on soundness](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4924.md)
+* [Increasing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4925.md)
+* [Gradually reducing credit guarantee ratio](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4926.md)
+* [Establishing a regional credit guarantee](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4927.md)
 
 ## This article mentions these technologies
 
-* [Digital platforms for financial assistance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_217.md)
-* [Online applications](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1679.md)
-* [Financial literacy and inclusion technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1678.md)
-* [Risk assessment and credit scoring technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1677.md)
-* [Credit guarantee schemes cgss](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_1676.md)
+* [Digital platforms for financial assistance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_217.md)
+* [Online applications](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1679.md)
+* [Financial literacy and inclusion technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1678.md)
+* [Risk assessment and credit scoring technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1677.md)
+* [Credit guarantee schemes cgss](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1676.md)
 

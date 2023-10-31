@@ -1,29 +1,29 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_148 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_148 
 
 # __Avoidance of stigmatizing and blaming informal settlements and their residents__
 
 ## Category to which it belongs
 
-* [Promote equitable and sustainable urban development with adequate housing, improved infrastructure, and increased access to essential services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_67.md)
+* [Promote equitable and sustainable urban development with adequate housing, improved infrastructure, and increased access to essential services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_67.md)
 
 ## Closest similar item
 
-* [Informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3138.md)
-* [Improve healthcare infrastructure and access in informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3049.md)
-* [Provision of water in informal settlements](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4448.md)
-* [Quarantining cities and social distancing measures](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_25.md)
-* [Addressing the impact on the informal street economy](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3798.md)
-* [Addressing disparities between territories and social groups](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1043.md)
-* [Reassess housing unit size to avoid overcrowding and facilitate social distancing](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1551.md)
-* [Addressing disease stigma](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_5130.md)
-* [Mobilizing informal institutions for education](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3191.md)
-* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_847.md)
+* [Informal settlements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3138.md)
+* [Improve healthcare infrastructure and access in informal settlements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3049.md)
+* [Provision of water in informal settlements](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4448.md)
+* [Quarantining cities and social distancing measures](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_25.md)
+* [Addressing the impact on the informal street economy](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3798.md)
+* [Addressing disparities between territories and social groups](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1043.md)
+* [Reassess housing unit size to avoid overcrowding and facilitate social distancing](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1551.md)
+* [Addressing disease stigma](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_5130.md)
+* [Mobilizing informal institutions for education](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3191.md)
+* [Occupancy density and social distancing management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_847.md)
 
 ## Benefits linked to a risk
 
-* [Reduced stigma and discrimination](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_165.md)
+* [Reduced stigma and discrimination](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_165.md)
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Stigma and discrimination](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_123.md)
+* [Stigma and discrimination](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_123.md)
 

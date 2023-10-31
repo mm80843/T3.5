@@ -1,29 +1,29 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1215 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Mitigation](https://github.com/mm80843/T3.5/tree/main/docs/Mitigation/index.md) >> Individual ID:PBN__Mitigation_1215 
 
 # __Housing design strategies__
 
 ## Category to which it belongs
 
-* [Promote equitable and sustainable urban development with adequate housing, improved infrastructure, and increased access to essential services.](https://github.com/mm80843/T3.5/blob/main/docs/PBNCategory/PBN__PBNCategory_67.md)
+* [Promote equitable and sustainable urban development with adequate housing, improved infrastructure, and increased access to essential services.](https://github.com/mm80843/T3.5/blob/pages/PBNCategory/PBN__PBNCategory_67.md)
 
 ## Closest similar item
 
-* [Housing layout](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4242.md)
-* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4419.md)
-* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_3201.md)
-* [Building and housing reform](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4234.md)
-* [Redesign housing layouts to include more partitions, wider corridors, and improved ventilation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2301.md)
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4077.md)
-* [Promote medium density housing, create mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2139.md)
-* [Affordable housing with resilient design](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_23.md)
-* [Improve housing dimensions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_1218.md)
-* [Reduce population density and improve housing conditions](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_2003.md)
+* [Housing layout](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4242.md)
+* [Improved housing conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4419.md)
+* [Improvement of infrastructure and housing design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_3201.md)
+* [Building and housing reform](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4234.md)
+* [Redesign housing layouts to include more partitions, wider corridors, and improved ventilation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2301.md)
+* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4077.md)
+* [Promote medium density housing, create mixed-use neighborhoods](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2139.md)
+* [Affordable housing with resilient design](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_23.md)
+* [Improve housing dimensions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_1218.md)
+* [Reduce population density and improve housing conditions](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_2003.md)
 
 ## Benefits linked to a risk
 
-* [Improved mental health](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_441.md)
+* [Improved mental health](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_441.md)
 
 ## Risks possibly mitigated by this Mitigation
 
-* [Lockdown impact on mental health](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_886.md)
+* [Lockdown impact on mental health](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_886.md)
 

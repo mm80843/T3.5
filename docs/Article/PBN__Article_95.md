@@ -1,4 +1,4 @@
-[Home](https://github.com/mm80843/T3.5/blob/main/docs/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_95 
+[Home](https://github.com/mm80843/T3.5/blob/pages/index.md) >> Class: [Article](https://github.com/mm80843/T3.5/tree/main/docs/Article/index.md) >> Individual ID:PBN__Article_95 
 
 # __Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in the Face of Climate Change__
 
@@ -24,43 +24,43 @@ Challenges to Mitigating the Urban Health Burden of Mosquito-Borne Diseases in t
 
 ## Benefits listed in this article
 
-* [Temperature reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_416.md)
-* [Heat stress reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_469.md)
-* [Cooling effect](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_470.md)
-* [Heat reduction](https://github.com/mm80843/T3.5/blob/main/docs/Benef/PBN__Benef_471.md)
+* [Temperature reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_416.md)
+* [Heat stress reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_469.md)
+* [Cooling effect](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_470.md)
+* [Heat reduction](https://github.com/mm80843/T3.5/blob/pages/Benef/PBN__Benef_471.md)
 
 ## List of risks in an article
 
-* [Spread of invasive mosquito spp](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1633.md)
-* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1632.md)
-* [Lack of multi-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1635.md)
-* [Urban heat islands uhis](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_367.md)
-* [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/main/docs/Risk/PBN__Risk_1634.md)
+* [Spread of invasive mosquito spp](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1633.md)
+* [Climate-associated diseases](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1632.md)
+* [Lack of multi-sectoral collaboration](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1635.md)
+* [Urban heat islands uhis](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_367.md)
+* [Inadequate mosquito control](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1634.md)
 
 ## This article points to following mitigation
 
-* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4078.md)
-* [Water management](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4075.md)
-* [Vegetation](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_485.md)
-* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4076.md)
-* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/main/docs/Mitigation/PBN__Mitigation_4077.md)
+* [Inter-sectoral collaboration](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4078.md)
+* [Water management](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4075.md)
+* [Vegetation](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_485.md)
+* [Environmental hygiene](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4076.md)
+* [Urban housing improvement](https://github.com/mm80843/T3.5/blob/pages/Mitigation/PBN__Mitigation_4077.md)
 
 ## This article mentions these technologies
 
-* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_102.md)
-* [Green infrastructure](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_48.md)
-* [Cool roofs](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_970.md)
-* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_49.md)
-* [Green corridors](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_971.md)
-* [Planting trees](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_972.md)
-* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_973.md)
-* [Collaborative planning and decision-making processes](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_982.md)
-* [Surveillance systems for disease monitoring](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_975.md)
-* [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_980.md)
-* [Mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_977.md)
-* [Vector control methods](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_974.md)
-* [Larvicide treatments](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_976.md)
-* [Auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_978.md)
-* [Toxic baited sugar traps](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_979.md)
-* [Inter-sectorial impact models](https://github.com/mm80843/T3.5/blob/main/docs/Technology/PBN__Technology_981.md)
+* [Public awareness campaigns](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_102.md)
+* [Green infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_48.md)
+* [Cool roofs](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_970.md)
+* [Urban planning strategies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_49.md)
+* [Green corridors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_971.md)
+* [Planting trees](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_972.md)
+* [Water treatment technologies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_973.md)
+* [Collaborative planning and decision-making processes](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_982.md)
+* [Surveillance systems for disease monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_975.md)
+* [Improved water management and sanitation](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_980.md)
+* [Mosquito traps and surveillance](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_977.md)
+* [Vector control methods](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_974.md)
+* [Larvicide treatments](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_976.md)
+* [Auto-dissemination of insecticides](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_978.md)
+* [Toxic baited sugar traps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_979.md)
+* [Inter-sectorial impact models](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_981.md)
 
