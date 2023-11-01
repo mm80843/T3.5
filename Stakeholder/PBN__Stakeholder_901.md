@@ -24,7 +24,7 @@
 * [Labour impact and job loss](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_596.md)
 * [Suspension of projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_595.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
 

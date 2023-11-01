@@ -33,7 +33,7 @@
 * [Social risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_88.md)
 * [Time risk](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_86.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Early-Warning Systems and Safety Protocols Against COVID-19 Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_5.md)
 

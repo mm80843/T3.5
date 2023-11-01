@@ -161,7 +161,7 @@
 * [Vaccine distribution and storage](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1561.md)
 * [Vaccine hesitancy](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2022.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Pooled-Sample Analysis and Contact Tracing Systems](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_29.md)
 

@@ -2,7 +2,7 @@
 
 # __Inadequate air quality control contributes to the circulation of harmful contaminants and transmission of diseases through the built environment.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Indoor Air Quality Monitoring and Maintenance Protocols for Contagion Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_40.md)
 

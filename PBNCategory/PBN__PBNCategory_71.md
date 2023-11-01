@@ -2,7 +2,7 @@
 
 # __The fragmented and non-interoperable nature of data and knowledge, along with the lack of bioinformatics tools and data integration, hinder effective data management and sharing, leading to limitations in analysis, communication, and decision-making.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
 

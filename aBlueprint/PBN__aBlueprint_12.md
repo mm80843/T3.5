@@ -60,7 +60,7 @@
 * [Water](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2941.md)
 * [Webinars](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3120.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)

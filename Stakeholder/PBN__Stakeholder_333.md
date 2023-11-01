@@ -42,7 +42,7 @@
 * [Lack of information transparency](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_658.md)
 * [Unclear risk messages](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2362.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
 

@@ -188,7 +188,7 @@
 * [Vital loads and lighting for safety](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1403.md)
 * [Waste management](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1980.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
 

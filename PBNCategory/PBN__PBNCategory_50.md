@@ -2,7 +2,7 @@
 
 # __The propagation and dispersion of the sars-cov-2 virus in various environments and transmission through different mediums and routes.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Regular Cleaning, WBE and Quarantine Measures for Infectious Diseases Mitigation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
 

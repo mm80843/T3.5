@@ -2,7 +2,7 @@
 
 # __The repercussions of domestic violence, the pandemic’s transmission, extreme events, population dynamics, and systemic vulnerabilities persist.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Effective Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_2.md)
 

@@ -2,7 +2,7 @@
 
 # __Insufficient air flow and ventilation pose risks to respiratory health in various settings, leading to challenges and concerns.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing UV Based Technologies and Ventilation Improvements to Control Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_43.md)
 

@@ -60,7 +60,7 @@
 * [Social distancing rule](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3615.md)
 * [Water features](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3616.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)
 * [Healthcare providers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)

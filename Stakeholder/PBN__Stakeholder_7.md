@@ -25,7 +25,7 @@
 * [Impact on family dynamics: domestic violence & home video-gaming](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1132.md)
 * [Increase in domestic violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1799.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Effective Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_2.md)
 

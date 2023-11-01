@@ -2,7 +2,7 @@
 
 # __The havoc wreaked upon the interconnected network of production and distribution is causing significant worldwide disruptions.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)
 

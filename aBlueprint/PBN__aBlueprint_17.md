@@ -61,7 +61,7 @@
 * [Localization](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3637.md)
 * [Redundant infrastructure](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3679.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Customers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_983.md)

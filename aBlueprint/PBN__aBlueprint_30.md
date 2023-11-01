@@ -60,7 +60,7 @@
 * [Sequencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2398.md)
 * [Sewage monitoring](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3517.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Data handlers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
 * [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_706.md)

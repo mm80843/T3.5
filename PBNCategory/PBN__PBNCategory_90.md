@@ -2,7 +2,7 @@
 
 # __Inadequate infection control measures can result in microbial resistance, pathogen contamination, and insufficient disinfection.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
 

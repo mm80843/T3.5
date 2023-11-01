@@ -51,7 +51,7 @@
 * [Need for concentration methods](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1149.md)
 * [Need for standardization and validation of analytical protocols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1143.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Drainage System Improvements and PCR Protocol Standardization to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_18.md)
 * [Implementing Innovative Techniques to Thwart Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_37.md)

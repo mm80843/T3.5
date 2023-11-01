@@ -94,7 +94,7 @@
 * [Urban inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2326.md)
 * [Variations in prevalence of loneliness themes](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2037.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
 

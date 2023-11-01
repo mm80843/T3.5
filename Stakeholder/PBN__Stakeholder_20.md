@@ -201,7 +201,7 @@
 * [Traveler](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2462.md)
 * [Travelers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2492.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
 

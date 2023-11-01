@@ -58,7 +58,7 @@
 * [Uv light](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3640.md)
 * [Waste management](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3633.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Building management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1101.md)
 * [Facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1483.md)

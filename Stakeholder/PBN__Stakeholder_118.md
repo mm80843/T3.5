@@ -74,7 +74,7 @@
 * [Virus transmission via air circulation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1162.md)
 * [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1489.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_7.md)
 * [Implementing Contagious Disease Control: Stakeholders, Strategies, and Technologies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_10.md)

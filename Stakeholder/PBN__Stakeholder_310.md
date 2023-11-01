@@ -50,7 +50,7 @@
 * [Spread of invasive mosquito spp](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2341.md)
 * [Unclear origin of sars-cov-2](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2332.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_11.md)
 * [Implementing Vaccination Strategies and Awareness Campaigns](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)

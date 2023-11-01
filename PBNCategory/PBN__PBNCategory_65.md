@@ -2,7 +2,7 @@
 
 # __Rapid transmission and global impact of infectious diseases, including those spread by vectors, due to various factors.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Contagious Disease Control: Stakeholders, Strategies, and Technologies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_10.md)
 

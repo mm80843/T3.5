@@ -47,7 +47,7 @@
 * [Workforce distancing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1195.md)
 * [Workforce reduction](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1649.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Contagious Disease Control through Social Distancing and Digital Engagement](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_6.md)
 * [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)

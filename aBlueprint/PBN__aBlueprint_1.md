@@ -61,7 +61,7 @@ Implementing the mitigation measures laid out in this blueprint offers key benef
 * [Wastewater testing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3129.md)
 * [Wastewater treatment plants](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3130.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Health departments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
 * [Public health authorities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_413.md)

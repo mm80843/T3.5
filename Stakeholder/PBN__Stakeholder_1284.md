@@ -25,7 +25,7 @@
 * [Lack of awareness and compliance](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1882.md)
 * [Surface transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_252.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
 

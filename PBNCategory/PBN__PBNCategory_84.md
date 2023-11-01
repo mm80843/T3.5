@@ -2,7 +2,7 @@
 
 # __The prevalence and impact of inaccurate, uncertain, and biased data pose significant challenges in decision-making and effective response to the covid-19 pandemic.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Innovative Techniques to Thwart Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_37.md)
 

@@ -240,7 +240,7 @@
 * [Variability in virus rna recovery](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1980.md)
 * [Variation in protection against re-infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1918.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)
 * [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)

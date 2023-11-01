@@ -35,7 +35,7 @@
 * [Society](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_53.md)
 * [Society as a whole](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_437.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
 

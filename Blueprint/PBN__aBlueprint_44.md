@@ -60,7 +60,7 @@
 * [Etc](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1400.md)
 * [Sodium hypochlorite](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3359.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)
 * [Facility managers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)

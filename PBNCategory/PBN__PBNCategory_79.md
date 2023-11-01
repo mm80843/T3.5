@@ -2,7 +2,7 @@
 
 # __Exposure to a wide range of contaminants, pathogens, and toxins on various surfaces and through different modes of transmission.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
 

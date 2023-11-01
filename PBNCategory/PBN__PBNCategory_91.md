@@ -2,7 +2,7 @@
 
 # __The impact of various challenges on the workforce, including job insecurity, increased workload, uncertainty, unemployment, and changes in work schedules and productivity.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
 

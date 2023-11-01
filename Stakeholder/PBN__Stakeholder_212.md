@@ -24,7 +24,7 @@
 * [Increased inequality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1988.md)
 * [Job displacement](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1987.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Disease Containment Strategies and Technological Solutions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_38.md)
 

@@ -75,7 +75,7 @@
 * [Property developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1987.md)
 * [Real estate developers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1880.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
 

@@ -2,7 +2,7 @@
 
 # __The interconnectedness of global economics has led to financial instability, unemployment, poverty, and decreased investment in certain sectors.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
 

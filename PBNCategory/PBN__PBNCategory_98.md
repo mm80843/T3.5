@@ -2,7 +2,7 @@
 
 # __Insufficient safety measures, inadequate protective equipment, and lack of adherence to prevention guidelines pose significant risks.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_42.md)
 

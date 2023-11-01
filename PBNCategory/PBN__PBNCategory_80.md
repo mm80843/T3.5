@@ -2,7 +2,7 @@
 
 # __The ecological impact of climate change, urbanization, and habitat alteration on the spread of diseases and wildlife conservation.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Disease Mitigation Strategies: Addressing Wildlife Trade, Vector Control, and Environmental Hygiene](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_21.md)
 

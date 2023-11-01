@@ -2,7 +2,7 @@
 
 # __Interoperability challenges, high costs, limited communication, and lack of resources impact various sectors globally.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
 

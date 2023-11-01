@@ -2,7 +2,7 @@
 
 # __Efficient transmission of viruses, personal comfort, and access to local services are the common themes in this list.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Advanced Tech and Anti-Microbial Materials to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_47.md)
 

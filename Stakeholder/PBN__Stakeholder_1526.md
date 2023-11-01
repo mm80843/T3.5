@@ -32,7 +32,7 @@
 * [Energy consumption](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_745.md)
 * [Increased energy consumption in buildings](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2270.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
 

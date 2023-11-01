@@ -51,7 +51,7 @@
 * [Poor construction techniques and low-quality building materials](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_595.md)
 * [Suspension of projects](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1518.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Disease Containment Scenarios and Supply Chain Adaptations](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_14.md)
 * [Implementing Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_17.md)

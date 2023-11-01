@@ -24,7 +24,7 @@
 * [Occupancy density](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1230.md)
 * [Transmission through respiratory droplets](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1365.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Disease Control Strategies: Mitigating Contagion Risks through Hygiene Measures and Rapid Isolation](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_41.md)
 

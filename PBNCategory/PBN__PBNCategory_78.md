@@ -2,7 +2,7 @@
 
 # __Inadequate resources, staff, facilities, training, coordination, and preparedness contribute to the inefficient and ineffective response to various challenges and needs.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
 

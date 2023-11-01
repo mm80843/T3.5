@@ -2,7 +2,7 @@
 
 # __The impact of various factors on public health, including unhealthy behaviors, limited access to healthcare, and food insecurity.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
 

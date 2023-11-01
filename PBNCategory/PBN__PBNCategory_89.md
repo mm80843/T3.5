@@ -2,7 +2,7 @@
 
 # __Insufficiency and neglect of green spaces, limited access to public and outdoor spaces, overcrowding in living areas and public spaces.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_27.md)
 

@@ -82,7 +82,7 @@
 * [Overcrowding](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1819.md)
 * [Reduced consumer spending](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2130.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Disease Surveillance and Resilience Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_20.md)
 * [Implementing Proactive Measures to Control Disease Spread and Economic Disruptions](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_49.md)

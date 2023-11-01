@@ -23,7 +23,7 @@
 
 * [Increased annoyance from neighbour noise in flats during lockdown](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1622.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_23.md)
 

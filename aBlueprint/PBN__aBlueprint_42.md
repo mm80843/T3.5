@@ -60,7 +60,7 @@
 * [Surveillance systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3112.md)
 * [Video and audio surveillance solutions](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3015.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Facility management](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_216.md)

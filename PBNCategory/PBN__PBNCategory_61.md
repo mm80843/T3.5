@@ -2,7 +2,7 @@
 
 # __The effects of lockdown measures: exacerbated social inequalities, limited accessibility to green spaces, shifts in energy demands, work delays, adversity for startups, and mental health issues.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Infrastructure Modifications and Community Engagement Strategies to Counter Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_23.md)
 

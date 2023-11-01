@@ -2,7 +2,7 @@
 
 # __The spread of false and misleading information during a pandemic leads to misinformation, inaccurate news, and a lack of trust in reliable sources.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)
 

@@ -60,7 +60,7 @@
 * [Sensors](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3759.md)
 * [Uv lamps](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2694.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 * [Data scientists](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)

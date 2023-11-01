@@ -25,7 +25,7 @@
 * [Limited access to data](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_723.md)
 * [Privacy and security concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_810.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Data-Driven Measures to Control Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_31.md)
 

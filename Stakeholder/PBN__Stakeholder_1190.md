@@ -25,7 +25,7 @@
 * [Misinformation](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1777.md)
 * [Safety concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1033.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_12.md)
 * [Implementing Contagious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_34.md)

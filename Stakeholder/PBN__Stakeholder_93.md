@@ -40,7 +40,7 @@
 
 * [Contamination of masks](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1414.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Collaborative Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_4.md)
 

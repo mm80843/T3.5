@@ -2,7 +2,7 @@
 
 # __Contagious diseases in built environments, limited pandemic preparedness, and unpredictable disease spread contribute to the global outbreak.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Disease Containment Strategies: Managing Contagious Risks with Social Distancing and Enhanced Sanitation Measures](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_8.md)
 

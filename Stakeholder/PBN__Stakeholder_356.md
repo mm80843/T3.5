@@ -35,7 +35,7 @@
 * [Poor thermal comfort](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1663.md)
 * [Sharing systems in apartments](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1872.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Ventilation and Filtration Strategies to Mitigate Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_15.md)
 

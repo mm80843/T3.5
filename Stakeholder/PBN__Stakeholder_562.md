@@ -25,7 +25,7 @@
 * [Lack of reliable data on intimate partner violence during the pandemic](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1035.md)
 * [Limited access to support services for victims of intimate partner violence](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1036.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Effective Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_2.md)
 

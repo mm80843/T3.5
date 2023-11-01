@@ -60,7 +60,7 @@
 * [Sanitizers](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2727.md)
 * [Uv-c devices](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_485.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Cleaning staff](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)

@@ -170,7 +170,7 @@
 * [Indirect transmission via contaminated surfaces fomites](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1236.md)
 * [Individual responsibility for sharing](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1844.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
 * [Implementing Contagion Prevention Practices and Infrastructure](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)

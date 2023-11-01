@@ -665,7 +665,7 @@
 * [Young people](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2203.md)
 * [Younger age group](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2043.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_16.md)
 

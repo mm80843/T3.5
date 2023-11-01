@@ -23,7 +23,7 @@
 
 * [Contaminated surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1784.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Surface Disinfection Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_39.md)
 

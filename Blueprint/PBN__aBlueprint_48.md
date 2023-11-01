@@ -61,7 +61,7 @@
 * [Water filters](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3624.md)
 * [Water treatment systems](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3625.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Building owners](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_80.md)
 * [Facilities](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_166.md)

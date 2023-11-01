@@ -73,7 +73,7 @@
 * [Uv dosage levels required under different conditions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1126.md)
 * [Uv susceptibility of viral aerosols](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1127.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Cybersecurity and Transparency Strategies to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_28.md)
 * [Implementing Real-time Epidemiological Data Collection and Analysis to Mitigate Virus Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_36.md)

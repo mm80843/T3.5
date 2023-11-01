@@ -50,7 +50,7 @@
 * [Logical inconsistencies](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1097.md)
 * [Privacy concerns](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1917.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_25.md)
 

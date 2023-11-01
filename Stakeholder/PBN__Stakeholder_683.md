@@ -43,7 +43,7 @@
 * [Inadequate disinfection of hospital wastewater](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2290.md)
 * [Poor environmental quality](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2288.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
 

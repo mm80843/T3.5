@@ -55,7 +55,7 @@
 * [Urban heat island effect](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1654.md)
 * [Urbanization](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1450.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Disease Containment Approaches](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_19.md)
 * [Implementing Disease Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_21.md)

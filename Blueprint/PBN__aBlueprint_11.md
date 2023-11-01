@@ -60,7 +60,7 @@
 * [Vaccine development and distribution](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3005.md)
 * [Vaccines](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3006.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2.md)
 * [Healthcare organizations](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_121.md)

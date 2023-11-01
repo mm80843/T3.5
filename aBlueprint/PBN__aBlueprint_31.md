@@ -60,7 +60,7 @@
 * [Video conferencing](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_1233.md)
 * [Wearable technology](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_837.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Data analysts](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)
 * [Government](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_55.md)

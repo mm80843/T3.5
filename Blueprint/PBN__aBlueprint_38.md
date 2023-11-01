@@ -60,7 +60,7 @@
 * [Teleconferencing tools](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3408.md)
 * [Wage subsidies](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_3744.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [Construction companies](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_47.md)
 * [Employers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_73.md)

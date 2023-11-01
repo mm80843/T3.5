@@ -2,7 +2,7 @@
 
 # __The toll of the pandemic includes harm to mental health, increased domestic violence, and psychological distress, highlighting the need for support and resources.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Mental Health Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
 

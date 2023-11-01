@@ -2,7 +2,7 @@
 
 # __The intersection of urbanization, inefficient energy usage, and climate change poses significant challenges to thermal comfort, energy consumption, and environmental sustainability.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Infectious Disease Prevention](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_26.md)
 

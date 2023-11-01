@@ -29,7 +29,7 @@
 * [Inequities and exclusions](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2243.md)
 * [Limited care and restricted health services](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1455.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Effective Measures to Combat Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_2.md)
 

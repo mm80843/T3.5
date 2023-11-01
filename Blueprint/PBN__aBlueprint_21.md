@@ -60,7 +60,7 @@
 * [Insecticide-treated screens](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2760.md)
 * [Media](https://github.com/mm80843/T3.5/blob/pages/Technology/PBN__Technology_2762.md)
 
-## This stakeholders can act on the following blueprints:
+## This stakeholders can act on the following general blueprint(s)
 
 * [City governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_0.md)
 * [Governments](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_222.md)

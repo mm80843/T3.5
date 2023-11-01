@@ -65,7 +65,7 @@
 * [Variability of virus stability on different surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1537.md)
 * [Virus transmission via surfaces](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1835.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Advanced Tech and Anti-Microbial Materials to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_45.md)
 * [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_47.md)

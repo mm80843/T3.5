@@ -198,7 +198,7 @@
 * [Hospital worker](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1826.md)
 * [Hospital workers](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1193.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Contagious Disease Containment Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
 * [Implementing Contagious Disease Control](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)

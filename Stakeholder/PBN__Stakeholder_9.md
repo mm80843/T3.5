@@ -344,7 +344,7 @@
 * [Zoonotic infections](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_2253.md)
 * [Zoonotic transmission](https://github.com/mm80843/T3.5/blob/pages/Risk/PBN__Risk_1966.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Acoustic Design and Soundproofing Measures to Mitigate Noise Pollution Risks](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_0.md)
 * [Implementing Biosecurity Measures and Technological Solutions to Counter Infectious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_1.md)

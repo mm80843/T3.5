@@ -252,7 +252,7 @@
 * [Workers in workplaces with air recirculation systems](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2074.md)
 * [Workers in workplaces with inadequate air filtration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_2043.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Advanced Tech and Anti-Microbial Materials to Mitigate Contagious Disease Spread](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_3.md)
 * [Implementing Biohazard Mitigation Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_8.md)

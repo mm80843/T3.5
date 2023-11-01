@@ -2,7 +2,7 @@
 
 # __The spread of diseases through various means such as air, contact, surfaces, and bodily fluids.__
 
-## Category links to the following 'general blueprint'
+## Category links to the following 'general blueprint(s)'
 
 * [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
 

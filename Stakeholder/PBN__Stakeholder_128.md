@@ -277,7 +277,7 @@
 * [Workers in workplaces with inadequate air filtration](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1714.md)
 * [Workers with mid-level skills](https://github.com/mm80843/T3.5/blob/pages/Stakeholder/PBN__Stakeholder_1722.md)
 
-## These stakeholders can be supported by the following general blueprint
+## These stakeholders can be supported by the following general blueprint(s)
 
 * [Implementing Disease Control Strategies](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_9.md)
 * [Implementing Filtration and Protective Measures to Minimize Contagious Diseases](https://github.com/mm80843/T3.5/blob/pages/aBlueprint/PBN__aBlueprint_13.md)
